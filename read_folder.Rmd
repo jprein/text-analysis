@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 ```{r}
 # packages
-library(here) # for current working directory
+library(here) # for current working directory (wd)
 library(pdftools)
 library(tidyverse)
 library(tidytext)
