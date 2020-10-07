@@ -1,0 +1,110 @@
+---
+title: "read_folder"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+# packages
+library(here) # for current working directory
+library(pdftools)
+library(tidyverse)
+library(tidytext)
+library(dplyr)
+library(SnowballC) # for word stemming
+
+# saves the names of all the pdf documents which are in your current folder
+file_list <- list.files(here(), pattern = "*.pdf")
+# creates a list with as many entries as you have pdf files. in here, we will save all the text content from the pdf files
+data_list <- vector("list", "length" = length(file_list))
+
+# for every pdf file, read in the text and save it in data list
+for (i in seq_along(file_list)) {
+   data_list[[i]] <- pdf_text(file_list[i]) %>% 
+    readr::read_lines()
+}
+
+# load existing, predefined list of stopwords (words that we don't want to count)
+# you could also create a customized list of words to exclude
+data("stop_words")
+
+# create function to count words
+# arguments:
+# - original_text: all the text content
+# - pdfname: an ID of the current text, so name your pdfs meaningfully!
+count_words <- function(original_text, pdfname){
+  original_text <- tibble(original_text)
+  # text preprocessing
+  tidy_text <- original_text %>%
+    # select the (one and only) column that contains all of our text 
+    select(original_text) %>%
+    # split strings into words (automatically converts all letters to lowercase & removes punctuation)
+    unnest_tokens("word", original_text) %>%
+    # returns all rows that are not included in our stopwords
+    anti_join(stop_words)
+  
+  # remove all numeric digits (minus in front of grep tells it to exclude rather then include them)
+  tidy_text <- tidy_text[-grep("\\b\\d+\\b", tidy_text$word), ]
+  # remove white spaces
+  tidy_text$word <- gsub("\\s+", "", tidy_text$word)
+  
+  # count word frequencies
+  word_frequencies <- tidy_text %>%
+    # stemming: replacing word with its most basic conjugate form
+    # TODO: mutate_at superseded but this doesn't work:   
+    # mutate(across("word", funs(wordStem((.), language = "en")))) %>%
+    mutate_at("word", funs(wordStem((.), language = "en"))) %>%
+    # well... counts words!
+    count(word) %>%
+    # order according to highest value
+    arrange(desc(n)) %>%
+    # name column according to the second argument. use bang bang to unquote the left hand side of the assignment
+    rename(!!pdfname := "n")
+  
+  return(word_frequencies)
+}
+
+# create list of tibbles to save words and their frequencies
+analyzed_data_list <- vector("list", "length" = length(file_list))
+
+# for every pdf that we read in, count word frequencies
+for (i in seq_along(file_list)) {
+  analyzed_data_list[[i]] <- count_words(original_text = data_list[[i]], pdfname = file_list[i])
+}
+
+# merge all the tibbles from our list together
+analyzed_tibble <- analyzed_data_list %>%
+  reduce(full_join, by = "word")
+
+# calculate total word frequency across pds
+analyzed_tibble$sum <- analyzed_tibble %>%
+  select(-word) %>%
+  rowSums(na.rm = TRUE)
+
+# only have a look at the summary
+word_freq_sum <- analyzed_tibble %>%
+  select(word, sum)
+word_freq_sum
+# library(ggwordcloud)
+# ggplot(word_freq_sum, aes(label = word)) + 
+#   geom_text_wordcloud()
+#   theme_minimal()
+
+# library(wordcloud)
+# wordcloud(words = word_freq_sum$word, freq = word_freq_sum$sum, random.order = T)
+
+
+analyzed_tibble %>%
+  select(-sum) %>%
+  gather(study, count, -word) %>%
+  group_by(word)
+
+  # %>%
+  # summarise(sum = sum(count, na.rm = T))%>%
+  # arrange(-sum)
+```
+
