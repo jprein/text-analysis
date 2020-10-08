@@ -37,6 +37,9 @@ data("stop_words")
 # - original_text: all the text content
 # - pdfname: an ID of the current text, so name your pdfs meaningfully!
 count_words <- function(original_text, pdfname){
+  # get rid of .pdf suffix
+  pdfname = str_remove(pdfname, ".pdf")
+  # save text as tibble
   original_text <- tibble(original_text)
   # text preprocessing
   tidy_text <- original_text %>%
@@ -89,14 +92,6 @@ analyzed_tibble$sum <- analyzed_tibble %>%
 word_freq_sum <- analyzed_tibble %>%
   select(word, sum)
 word_freq_sum
-# library(ggwordcloud)
-# ggplot(word_freq_sum, aes(label = word)) + 
-#   geom_text_wordcloud()
-#   theme_minimal()
-
-# library(wordcloud)
-# wordcloud(words = word_freq_sum$word, freq = word_freq_sum$sum, random.order = T)
-
 
 analyzed_tibble %>%
   select(-sum) %>%
@@ -106,5 +101,14 @@ analyzed_tibble %>%
   # %>%
   # summarise(sum = sum(count, na.rm = T))%>%
   # arrange(-sum)
+
+# library(ggwordcloud)
+# ggplot(word_freq_sum, aes(label = word)) + 
+#   geom_text_wordcloud()
+#   theme_minimal()
+
+# library(wordcloud)
+# wordcloud(words = word_freq_sum$word, freq = word_freq_sum$sum, random.order = T)
+
 ```
 
