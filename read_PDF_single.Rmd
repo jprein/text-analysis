@@ -1,5 +1,5 @@
 ---
-title: "readPDF"
+title: "read_PDF_single"
 output: html_document
 ---
 
@@ -12,20 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 library(pdftools)
 library(tidyverse)
 
-# read_all_files_in_dir <- ""
-
-
-# for (current_PDF in 1:1) {
-#   current_PDF
-#   
-# }
-
 # reads PDF
 original_text <- pdf_text("example_soc_cog.pdf") %>%
   readr::read_lines()
-
-# saveRDS(wordfreqs, currentTitle)
-
 
 # source of inspiration: https://cbail.github.io/SICSS_Basic_Text_Analysis.html
 library(tidytext)
@@ -64,10 +53,5 @@ tidy_text %>%
   # order according to highest value
   arrange(desc(n)) %>%
   rename("test" = "n")
-
-# TODO
-# klammern, anführungszeichen, bindestrich (als separate wörter?)
-# mehrere PDFs
-# visualisieren
 ```
 
