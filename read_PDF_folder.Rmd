@@ -32,6 +32,9 @@ for (i in seq_along(file_list)) {
 # you could also create a customized list of words to exclude
 data("stop_words")
 
+word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "relation", "relationship", "relative", "relatively", "related", "relating", "relates", "relate", "score", "scores", "scored", "scoring", "measure", "measures", "measurement","month", "months", "ability", "abilities", "correlation", "correlate", "correlates", "correlations", "significance", "significant", "test", "tests", "skill", "skills", "research", "differ", "differs", "different", "difference", "differences", "variable", "variables", "https", "token", "type", "e.g", "doi", "journal", "level", "levels", "")
+custom_stop_words <- tibble(word)
+
 # create function to count words
 # arguments:
 # - original_text: all the text content
@@ -48,7 +51,8 @@ count_words <- function(original_text, pdfname){
     # split strings into words (automatically converts all letters to lowercase & removes punctuation)
     unnest_tokens("word", original_text) %>%
     # returns all rows that are not included in our stopwords
-    anti_join(stop_words)
+    anti_join(stop_words, by = "word") %>%
+    anti_join(custom_stop_words, by = "word")
   
   # remove all numeric digits (minus in front of grep tells it to exclude rather then include them)
   tidy_text <- tidy_text[-grep("\\b\\d+\\b", tidy_text$word), ]
@@ -93,15 +97,23 @@ word_freq_sum <- analyzed_tibble %>%
   select(word, sum)
 word_freq_sum
 
+# save word frequencies according to pdfs (study acts as ID)
+word_freq_per_pdf <- analyzed_tibble %>%
+  select(-sum) %>%
+  gather(study, count, -word) %>%
+  group_by(word) %>%
+  select(study, word, count)
+
+# show most frequent words across corpus
 analyzed_tibble %>%
   select(-sum) %>%
   gather(study, count, -word) %>%
-  group_by(word)
+  group_by(word) %>%
+  select(study, word, count)%>%
+  summarise(sum = sum(count, na.rm = T))%>%
+  arrange(-sum)
 
-  # %>%
-  # summarise(sum = sum(count, na.rm = T))%>%
-  # arrange(-sum)
-
+# VISUALIZATION
 # library(ggwordcloud)
 # ggplot(word_freq_sum, aes(label = word)) + 
 #   geom_text_wordcloud()
@@ -110,5 +122,8 @@ analyzed_tibble %>%
 # library(wordcloud)
 # wordcloud(words = word_freq_sum$word, freq = word_freq_sum$sum, random.order = T)
 
+# TODO: combine child, children & children'
+# if(word_freq_sum$word == c("child", "children", "children\'")) 
+  
 ```
 
