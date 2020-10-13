@@ -14,8 +14,10 @@ library(tidyverse)
 library(tidytext)
 library(dplyr)
 library(SnowballC) # for word stemming
-library(udpipe)
+library(udpipe) # tokenising etc. 
 library(word2vec)
+library(uwot) # dimensionality reduction
+library(ggrepel) # for geom_text_repel()
 ```
 
 ```{r load_data}
@@ -41,7 +43,7 @@ custom_stop_words <- tibble(word)
 
 # text preprocessing 
 tidy_text <- tibble(all_text)
-  
+
 tidy_text <- tidy_text %>%
   # select the (one and only) column that contains all of our text 
   select(all_text) %>%
@@ -52,7 +54,7 @@ tidy_text <- tidy_text %>%
   anti_join(custom_stop_words, by = "word")
 
 # remove all numeric digits
-# \S* zeor or more non-whitespace characters
+# \S* zero or more non-whitespace characters
 # \d+ one ore more digits
 tidy_text <- tidy_text[-grep("\\S*\\d+\\S*", tidy_text$word), ]
 
@@ -82,10 +84,10 @@ tidy_text %>%
 ```
 
 ```{r notes}
-data(brussels_reviews)
-x <- subset(brussels_reviews, language == "fr")
-x <- tolower(x$feedback)
-cat(x[1])
+# data(brussels_reviews)
+# x <- subset(brussels_reviews, language == "fr")
+# x <- tolower(x$feedback)
+# cat(x[1])
 
 # we can write embeddings to disk and read them back in (not necessary for us)
 
@@ -103,6 +105,24 @@ cat(x[1])
 # hab vorher ausprobiert alles in eine zeile zu packen, das geht aber auch nicht mit modeln (also chunk eins drüber)
 ```
 
+```{r}
+# TRY TO DO TEXT PREPROCESSING WITHOUT TIBBLE
+head(all_text, 20) %>%
+  # get rid of capital letters
+  tolower() %>%
+  # replace all words that contain numbers with empty string
+  gsub("\\S*\\d+\\S*", "", .) 
+
+# only take first word in pattern
+  #%>%
+  # gsub(stop_words$word, "", .) %>%
+  # gsub(pattern = word, replacement = "", x = ., fixed = T)
+
+# wordStem doesn't work, since long string per row, not single tokens/words
+  
+```
+
+
 ```{r word2vec_untidy}
 # train word2vec model by passing on txt or .txt file
 w2v_model_all <- word2vec(x = all_text, type = "cbow", dim = 15, iter = 20)
@@ -118,6 +138,8 @@ lookslike_all
 ```
 
 ```{r word2vec_tidy}
+# THIS PART DOES (TECHNICALLY) WORK BUT RESULTS ARE WEIRD
+# BY USING TIBBLE TO CLEAN; WE LOOSE CONTEXT OF WORDS
 # train word2vec model by passing on txt or .txt file
 w2v_model_tidy <- word2vec(x = tidy_text$word, type = "cbow", dim = 15, iter = 20)
 
@@ -144,5 +166,27 @@ lookslike_tidy
 # 
 # lookslike_tidy_1 <- predict(w2v_model_tidy_1, c("mind"), type = "nearest", top_n = 5)
 # lookslike_tidy_1
+```
+
+```{r visualize_2D}
+# 2D plot by semantic similarity
+# dimensionality reduction using UMAP (maps embeddings in 2D)
+# n_neighbors: size of local neighborhood (in terms of number of neighboring sample points) used for manifold approximation. Larger values result in more global views of the manifold, while smaller values result in more local data being preserved. In general values should be in the range 2 to 100.
+viz <- umap(embedding_all, n_neighbors = 15, n_threads = 2)
+rownames(viz) <- rownames(embedding_all)
+head(viz, n = 10)
+
+df <- data.frame(word = gsub("//.+", "", rownames(viz)), 
+                 upos = gsub(".+//", "", rownames(viz)),
+                 x = viz[, 1], y = viz[, 2],
+                 stringsAsFactors = FALSE)
+
+# choose which words you want to display. can't represent all, too many words
+df_subset <- df %>%
+  filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "ignorance", "school"))
+
+ggplot(df_subset, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
 ```
 
