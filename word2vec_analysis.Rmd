@@ -1,0 +1,148 @@
+---
+title: "word2vec_analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load_packages, message=FALSE, warning=FALSE}
+library(here) # for current working directory
+library(pdftools)
+library(tidyverse)
+library(tidytext)
+library(dplyr)
+library(SnowballC) # for word stemming
+library(udpipe)
+library(word2vec)
+```
+
+```{r load_data}
+# saves the names of all the pdf documents which are in your current folder
+file_list <- list.files(here(), pattern = "*.pdf")
+all_text <- c("")
+
+# attach all the text to each other
+for (i in seq_along(file_list)) {
+  current_text <- pdf_text(file_list[i]) %>% 
+    readr::read_lines()
+  all_text <- c(all_text, current_text)
+}
+```
+
+```{r text_preprocessing}
+# load existing, predefined list of stopwords (words that we don't want to count)
+# you could also create a customized list of words to exclude
+data("stop_words")
+
+word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "relation", "relationship", "relative", "relatively", "related", "relating", "relates", "relate", "score", "scores", "scored", "scoring", "measure", "measures", "measurement","month", "months", "ability", "abilities", "correlation", "correlate", "correlates", "correlations", "significance", "significant", "test", "tests", "skill", "skills", "research", "differ", "differs", "different", "difference", "differences", "variable", "variables", "https", "token", "type", "e.g", "doi", "journal", "level", "levels", "")
+custom_stop_words <- tibble(word)
+
+# text preprocessing 
+tidy_text <- tibble(all_text)
+  
+tidy_text <- tidy_text %>%
+  # select the (one and only) column that contains all of our text 
+  select(all_text) %>%
+  # split strings into words (automatically converts all letters to lowercase & removes punctuation)
+  unnest_tokens("word", all_text) %>%
+  # returns all rows that are not included in our stopwords
+  anti_join(stop_words, by = "word") %>%
+  anti_join(custom_stop_words, by = "word")
+
+# remove all numeric digits
+# \S* zeor or more non-whitespace characters
+# \d+ one ore more digits
+tidy_text <- tidy_text[-grep("\\S*\\d+\\S*", tidy_text$word), ]
+
+# remove white spaces
+#tidy_text$word <- gsub("\\s+", "", tidy_text$word)
+
+# stemming: replacing word with its most basic conjugate form
+tidy_text <- tidy_text %>%
+  # TODO: mutate_at & funs superseded but this doesn't work:   
+  # mutate(across("word", funs(wordStem((.), language = "en")))) %>%
+  mutate_at("word", funs(wordStem((.), language = "en"))) 
+```
+
+```{r count_words}
+tidy_text %>%
+  count(word) %>%
+  arrange(-n)
+```
+```{r unnest_tibble}
+# text_string <- tidy_text[1:1000, 1] %>%
+#  summarise(text = str_c(word, collapse = " "))
+# 
+# text_string
+# tstring <- text_string$text
+
+# not necessary, just use tidy_text$word
+```
+
+```{r notes}
+data(brussels_reviews)
+x <- subset(brussels_reviews, language == "fr")
+x <- tolower(x$feedback)
+cat(x[1])
+
+# we can write embeddings to disk and read them back in (not necessary for us)
+
+# training parameters
+# dim: dimensionality of the word vectors. usually more is better, but not always, especially with small data
+# type: skip-gram (slower, better for infrequent words) vs cbow(fast)
+# window: for skip_gram usually around 10, for cbow around 5
+# hs: the training algorithm: hierarchical softmax (better for infrequent words) vs negative sampling (better for frequent words, better with low dimensional vectors)
+# sample: subsampling of frequent words: can improve both accuracy and speed for large data sets /useful values are in range 0.001 to 0.00001)
+
+# PROBLEM:
+# text preprocessing zerschießt zeilen und damit context
+# brauchen wir text preprocessing überhaupt? beim model suchen wir ja eh nach den relevanten wörtern
+# und fürs wörter zählen können wir immer noch preprocessen
+# hab vorher ausprobiert alles in eine zeile zu packen, das geht aber auch nicht mit modeln (also chunk eins drüber)
+```
+
+```{r word2vec_untidy}
+# train word2vec model by passing on txt or .txt file
+w2v_model_all <- word2vec(x = all_text, type = "cbow", dim = 15, iter = 20)
+
+# once you have a model, you can get the embeddings of all words using as.matrix, which has for our case 15 columns as we specified dim = 15
+embedding_all <- as.matrix(w2v_model_all)
+# if you want to analyze only a certain set of words
+# embedding <- predict(w2v_model, c("bus", "impeccable"), type = "embedding")
+head(embedding_all)
+
+lookslike_all <- predict(w2v_model_all, c("social", "cognition", "mind", "cognitive"), type = "nearest", top_n = 5)
+lookslike_all
+```
+
+```{r word2vec_tidy}
+# train word2vec model by passing on txt or .txt file
+w2v_model_tidy <- word2vec(x = tidy_text$word, type = "cbow", dim = 15, iter = 20)
+
+# once you have a model, you can get the embeddings of all words using as.matrix, which has for our case 15 columns as we specified dim = 15
+embedding_tidy <- as.matrix(w2v_model_tidy)
+# if you want to analyze only a certain set of words
+# embedding <- predict(w2v_model, c("bus", "impeccable"), type = "embedding")
+head(embedding_tidy)
+
+lookslike_tidy <- predict(w2v_model_tidy, c("social", "cognit", "mind"), type = "nearest", top_n = 5)
+lookslike_tidy
+```
+
+```{r}
+# DOESNT WORK
+# # train word2vec model by passing on txt or .txt file
+# w2v_model_tidy_1 <- word2vec(x = tstring, type = "cbow", dim = 15, iter = 20)
+# 
+# # once you have a model, you can get the embeddings of all words using as.matrix, which has for our case 15 columns as we specified dim = 15
+# embedding_tidy_1 <- as.matrix(w2v_model_tidy_1)
+# # if you want to analyze only a certain set of words
+# # embedding <- predict(w2v_model, c("bus", "impeccable"), type = "embedding")
+# head(embedding_tidy_1)
+# 
+# lookslike_tidy_1 <- predict(w2v_model_tidy_1, c("mind"), type = "nearest", top_n = 5)
+# lookslike_tidy_1
+```
+
