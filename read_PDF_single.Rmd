@@ -13,7 +13,7 @@ library(pdftools)
 library(tidyverse)
 
 # reads PDF
-original_text <- pdf_text("example_soc_cog.pdf") %>%
+original_text <- pdf_text("adrian2005parent.pdf") %>%
   readr::read_lines()
 
 # source of inspiration: https://cbail.github.io/SICSS_Basic_Text_Analysis.html
@@ -34,9 +34,7 @@ tidy_text <- original_text %>%
   # split strings into words (automatically converts all letters to lowercase & removes punctuation)
   unnest_tokens("word", original_text) %>%
   # returns all rows that are not included in our stopwords
-  anti_join(stop_words) %>%
-  # filter out customized stopwords
-  filter(word != c("e.g", "al"))
+  anti_join(stop_words)
 
 # remove all numeric digits (minus in front of grep tells it to exclude rather then include them)
 tidy_text <- tidy_text[-grep("\\b\\d+\\b", tidy_text$word), ]
@@ -51,7 +49,6 @@ tidy_text %>%
   # well... counts words!
   count(word) %>%
   # order according to highest value
-  arrange(desc(n)) %>%
-  rename("test" = "n")
+  arrange(desc(n))
 ```
 

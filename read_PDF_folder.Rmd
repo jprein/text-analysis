@@ -105,22 +105,27 @@ word_freq_per_pdf <- analyzed_tibble %>%
   select(study, word, count)
 
 # show most frequent words across corpus
-analyzed_tibble %>%
+plot_freq <- analyzed_tibble %>%
   select(-sum) %>%
   gather(study, count, -word) %>%
   group_by(word) %>%
   select(study, word, count)%>%
   summarise(sum = sum(count, na.rm = T))%>%
-  arrange(-sum)
+  arrange(-sum) %>%
+  #  rotation of 90 degrees for a random subset of 40 % of the words
+  mutate(angle = 90 * sample(c(0, 1), n(), replace = TRUE, prob = c(60, 40)))
 
 # VISUALIZATION
-# library(ggwordcloud)
-# ggplot(word_freq_sum, aes(label = word)) + 
-#   geom_text_wordcloud()
-#   theme_minimal()
-
-# library(wordcloud)
-# wordcloud(words = word_freq_sum$word, freq = word_freq_sum$sum, random.order = T)
+library(ggwordcloud)
+# by default, ggplot uses square root scaling (but does not map 0 to 0)
+ggplot(head(plot_freq, 50), aes(label = word, size = sum, angle = angle)) +
+  # geom_text_wordcloud_area(): scale the font of each label so that the text area is a function of the raw size aesthetic (when used in combination with scale_size_area)
+  # area_corr_power: By default, the area is proportional to the raw size aesthetic raised to the power 1/.7 in order to match the human area perception. To obtain an area proportional to the raw size aesthetic, it suffices to set the area_corr_power to 1
+  # eccentricity: by default a vertical eccentricity of .65, so that the spiral is 1/.65 wider than taller.
+  geom_text_wordcloud_area(area_corr_power = 1, rm_outside = T, eccentricity = 1) + 
+  # for true proportionality
+  scale_size_area(max_size = 12) +
+  theme_minimal()
 
 # TODO: combine child, children & children'
 # if(word_freq_sum$word == c("child", "children", "children\'")) 

@@ -69,10 +69,11 @@ tidy_text <- tidy_text %>%
 ```
 
 ```{r count_words}
-tidy_text %>%
+word_freq <- tidy_text %>%
   count(word) %>%
   arrange(-n)
 ```
+
 ```{r unnest_tibble}
 # text_string <- tidy_text[1:1000, 1] %>%
 #  summarise(text = str_c(word, collapse = " "))
@@ -107,7 +108,7 @@ tidy_text %>%
 
 ```{r}
 # TRY TO DO TEXT PREPROCESSING WITHOUT TIBBLE
-head(all_text, 20) %>%
+all_text %>%
   # get rid of capital letters
   tolower() %>%
   # replace all words that contain numbers with empty string
@@ -120,6 +121,25 @@ head(all_text, 20) %>%
 
 # wordStem doesn't work, since long string per row, not single tokens/words
   
+```
+
+```{r}
+test = c()
+for (i in seq_along(head(all_text, 20))) {
+  # print(all_text[i])
+  test <- c(test, strsplit(all_text[i], " "))
+  ################### TODO #####################
+  # remove unnessary white spaces
+  # word stemming
+  # maybe first apply all the functions, then save into clean character vector?
+  # wordStem(, language = "en")‚
+}
+
+for (i in seq_along(file_list)) {
+  current_text <- pdf_text(file_list[i]) %>% 
+    readr::read_lines()
+  all_text <- c(all_text, current_text)
+}
 ```
 
 
@@ -183,10 +203,17 @@ df <- data.frame(word = gsub("//.+", "", rownames(viz)),
 
 # choose which words you want to display. can't represent all, too many words
 df_subset <- df %>%
-  filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "ignorance", "school"))
+  filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "school"))
 
 ggplot(df_subset, aes(x = x, y = y, label = word)) +
   geom_text_repel() + theme_void()
+
+tmp <- left_join(x = df_subset, y = word_freq, by = "word")
+ggplot(tmp, aes(x = x, y = y, label = word, size = n)) +
+  geom_text_repel() + theme_void()
+
+word_freq %>%
+  filter(word == "languag")
 
 ```
 
