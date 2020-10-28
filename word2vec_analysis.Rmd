@@ -31,6 +31,8 @@ for (i in seq_along(file_list)) {
     readr::read_lines()
   raw_text <- c(raw_text, current_text)
 }
+rm(current_text)
+
 ```
 
 ```{r text_preprocessing}
@@ -40,6 +42,7 @@ data("stop_words")
 
 word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "relation", "relationship", "relative", "relatively", "related", "relating", "relates", "relate", "score", "scores", "scored", "scoring", "measure", "measures", "measurement","month", "months", "ability", "abilities", "correlation", "correlate", "correlates", "correlations", "significance", "significant", "test", "tests", "skill", "skills", "research", "differ", "differs", "different", "difference", "differences", "variable", "variables", "https", "token", "type", "e.g", "doi", "journal", "level", "levels", "")
 custom_stop_words <- tibble(word)
+rm(word)
 
 # text preprocessing 
 tidy_text <- tibble(raw_text)
@@ -83,12 +86,32 @@ word_freq <- tidy_text %>%
   filter(!str_detect(word, "child")) %>%
   add_row(word = "child", n = child_n) %>%
   arrange(-n)
+rm(child_n)
 
-top25 <- word_freq[1:25,] %>%
-  summarise(text = str_c(word, collapse = " "))
+# save top 25 most frequent words
+top25 <- c()
+for (i in 1:25) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top25 <- c(top25, new_word$text)
+}
+# same for top50
+top50 <- c()
+for (i in 1:50) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top50 <- c(top50, new_word$text)
+}
+
+# same for top100
+top100 <- c()
+for (i in 1:100) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top100 <- c(top100, new_word$text)
+}
+rm(new_word)
 ```
 
 ```{r recreate_context}
+# TODO: how to define context? 20 words? => change by value
 # create empty character vector in which we save our single strings 
 tidy_chr_vec <- c()
 for (i in seq(from = 1, to = length(tidy_text$word), by = 20)) {
@@ -115,6 +138,7 @@ for (i in seq(from = 1, to = length(tidy_text$word), by = 20)) {
     }
   }
 }
+rm(new_string)
 ```
 
 ```{r word2vec_model}
@@ -126,7 +150,7 @@ embedding_all <- as.matrix(word2vec_model)
 # embedding <- predict(w2v_model, c("bus", "impeccable"), type = "embedding")
 head(embedding_all)
 
-lookslike_all <- predict(word2vec_model, c("social", "cognit", "mind"), type = "nearest", top_n = 5)
+lookslike_all <- predict(word2vec_model, c("social", "cognit", "mind", "belief"), type = "nearest", top_n = 10)
 lookslike_all
 ```
 
@@ -138,32 +162,50 @@ viz <- umap(embedding_all, n_neighbors = 15, n_threads = 2)
 rownames(viz) <- rownames(embedding_all)
 
 allwords_2D <- data.frame(word = gsub("//.+", "", rownames(viz)), x = viz[, 1], y = viz[, 2], stringsAsFactors = FALSE)
-
-# OLD: choose which words you want to display. can't represent all, too many words
-# df_subset <- df %>%
+rm(viz)
+# if you want to manually choose which words to display
+# custom_2D <- allwords_2D %>%
 #   filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "school"))
- 
-# doesnt work
-# top25_2D <- allwords_2D %>%
-#   filter(word %in% word_freq[1:25, 1])
 
-top10 <- c("child", "social", "develop", "understand", "cognit", "mind", "theori", "belief", "emot", "infant")
-
-top10_2D <- allwords_2D %>%
-  filter(word %in% top10)
+# for top 25
+top25_2D <- allwords_2D %>%
+  filter(word %in% top25)
 
 # semantic proximity (as is)
-ggplot(top10_2D, aes(x = x, y = y, label = word)) +
+ggplot(top25_2D, aes(x = x, y = y, label = word)) +
   geom_text_repel() + theme_void()
 
 # semantic proximity + word frequency
-top10_freq <- left_join(x = top10_2D, y = word_freq, by = "word")
-ggplot(top10_freq, aes(x = x, y = y, label = word, size = n)) +
+top25_freq <- left_join(x = top25_2D, y = word_freq, by = "word")
+ggplot(top25_freq, aes(x = x, y = y, label = word, size = log(n))) +
   geom_text_repel() + theme_void()
 
-# TODO: 
-# - logarithmic scale
-# - top25 automatically in cahracter vector "hello", "world" etc
+# for top 50
+top50_2D <- allwords_2D %>%
+  filter(word %in% top50)
+
+# semantic proximity (as is)
+ggplot(top50_2D, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
+# semantic proximity + word frequency
+top50_freq <- left_join(x = top50_2D, y = word_freq, by = "word")
+ggplot(top50_freq, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+
+# for top 100
+top100_2D <- allwords_2D %>%
+  filter(word %in% top100)
+
+# semantic proximity (as is)
+ggplot(top100_2D, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
+# semantic proximity + word frequency
+top100_freq <- left_join(x = top100_2D, y = word_freq, by = "word")
+ggplot(top100_freq, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+
 ```
 
 ```{r old_code_notes}
