@@ -1,0 +1,261 @@
+---
+title: "word2vec_analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load_packages, message=FALSE, warning=FALSE}
+library(here) # for current working directory
+library(pdftools)
+library(tidyverse)
+library(tidytext)
+library(dplyr)
+library(SnowballC) # for word stemming
+library(udpipe) # tokenising etc. 
+library(word2vec)
+library(uwot) # dimensionality reduction
+library(ggrepel) # for geom_text_repel()
+```
+
+```{r load_data}
+# saves the names of all the pdf documents which are in your current folder
+file_list <- list.files(here(), pattern = "*.pdf")
+
+# creates a list with as many entries as you have pdf files. in here, we will save all the text content from the pdf files
+data_list <- vector("list", "length" = length(file_list))
+
+# for every pdf file, read in the text and save it in data list
+for (i in seq_along(file_list)) {
+   data_list[[i]] <- pdf_text(file_list[i]) %>% 
+    readr::read_lines()
+}
+
+# => now we have a list with again list entries. each list entry is one paper (e.g. data_list[[1]])
+```
+
+```{r preprocess_function}
+preprocess_text <- function(raw_text) {
+  # text preprocessing easier with tidy dataframe (= tibble)
+  tidy_text <- tibble(raw_text) 
+  
+  tidy_text <- tidy_text %>%
+    # select the (one and only) column that contains all of our text 
+    select(raw_text) %>%
+    # split strings into words (automatically converts all letters to lowercase & removes punctuation)
+    unnest_tokens("word", raw_text)
+  
+  # remove all numeric digits
+  # \S* zero or more non-whitespace characters
+  # \d+ one ore more digits
+  tidy_text <- tidy_text[-grep("\\S*\\d+\\S*", tidy_text$word), ]
+  
+  # remove all punctuaction that might be missed by unnest_tokens (e.g. ')
+  tidy_text$word <- str_replace_all(tidy_text$word, "[[:punct:]]", "")
+  
+  # stemming: replacing word with its most basic conjugate form
+  tidy_text <- tidy_text %>%
+    # TODO: mutate_at & funs superseded but this doesn't work:   
+    # mutate(across("word", funs(wordStem((.), language = "en")))) %>%
+    mutate_at("word", funs(wordStem((.), language = "en"))) %>%
+    # remove all words that consist of only one letter
+    filter(nchar(word) > 1)
+  
+  return(tidy_text)
+}
+```
+
+```{r text_preprocessing, message=FALSE, warning=FALSE}
+# create list of tibbles to save words and their frequencies
+tidy_data_list <- vector("list", "length" = length(file_list))
+
+# for every pdf that we read in, count word frequencies
+for (i in seq_along(file_list)) {
+  tidy_data_list[[i]] <- preprocess_text(raw_text = data_list[[i]])
+}
+# => now we have a list with all the tidied text per pdf (one word per row)
+```
+
+```{r count_words_function}
+# before we count words, we get rid of all the stopwords (that we are not interested in)
+# load existing, predefined list of stopwords
+data("stop_words")
+
+# if you want to manually remove words
+word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "relation", "relationship", "relative", "relatively", "related", "relating", "relates", "relate", "score", "scores", "scored", "scoring", "measure", "measures", "measurement","month", "months", "ability", "abilities", "correlation", "correlate", "correlates", "correlations", "significance", "significant", "test", "tests", "skill", "skills", "research", "differ", "differs", "different", "difference", "differences", "variable", "variables", "https", "token", "type", "e.g", "doi", "journal", "level", "levels", "")
+custom_stop_words <- tibble(word)
+rm(word)
+
+# function for actually counting words
+count_words <- function(tidy_text, pdfname) {
+  tidy_text %>%
+    # get rid of stopwords
+    anti_join(stop_words, by = "word") %>%
+    anti_join(custom_stop_words, by = "word") %>%
+    # count words
+    count(word) %>%
+    # order according to highest value
+    arrange(-n) %>%
+    # name column according to the second argument. use bang bang to unquote the left hand side of the assignment
+    rename(!!pdfname := "n")
+}   
+```
+
+```{r count_words}
+# create list of tibbles to save words and their frequencies
+counted_data_list <- vector("list", "length" = length(file_list))
+
+# for every pdf that we read in, count word frequencies
+for (i in seq_along(file_list)) {
+  counted_data_list[[i]] <- count_words(tidy_text = tidy_data_list[[i]], pdfname = file_list[i])
+}
+
+# merge all the tibbles from our list together
+counted_all <- counted_data_list %>%
+  reduce(full_join, by = "word")
+
+# calculate total word frequency across pdfs
+counted_all$n <- counted_all %>%
+  select(-word) %>%
+  rowSums(na.rm = TRUE)
+
+# somehow wordstemming doesn't work for child, children, children' 
+# therefore, do word stemming manually, and then add to tibble
+child_n <- counted_all %>%
+  filter(str_detect(word, "child")) %>%
+  select(n) %>%
+  sum()
+
+# count words (with manually done wordstemming for "child"), one tibble for all pdfs!
+word_freq <- counted_all %>%
+  select(word, n) %>%
+  filter(!str_detect(word, "child")) %>%
+  add_row(word = "child", n = child_n) %>%
+  arrange(-n)
+rm(child_n)
+```
+
+```{r top_words}
+# save top 25 most frequent words
+top25 <- c()
+for (i in 1:25) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top25 <- c(top25, new_word$text)
+}
+# same for top50
+top50 <- c()
+for (i in 1:50) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top50 <- c(top50, new_word$text)
+}
+
+# same for top100
+top100 <- c()
+for (i in 1:100) {
+  new_word <- summarise(word_freq[i,], text = str_c(word, collapse = ""))
+  top100 <- c(top100, new_word$text)
+}
+rm(new_word)
+
+word_freq
+```
+
+```{r create_pdf_context}
+# we needed to have each word on a single row (in a tibble) for the text preprocessing and the counting
+# but for semantic similarity, we need context!
+# create empty character vector in which we save our single strings 
+chr_vec_pdfs <- c()
+
+# for each pdf, save tidied text (incl. stopwords) as one entry in the character vector
+for (i in seq_along(file_list)) {
+  new_string <- summarise(tidy_data_list[[i]], text = str_c(word, collapse = " "))
+  chr_vec_pdfs <- c(chr_vec_pdfs, new_string$text)
+}
+rm(new_string)
+```
+
+```{r word2vec_model}
+# train model
+word2vec_model <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 15, iter = 20)
+
+# once you have a model, you can get the embeddings of all words using as.matrix, which has for our case 15 columns as we specified dim = 15
+embeddings <- as.matrix(word2vec_model)
+head(embeddings)
+
+word_similarities <- predict(word2vec_model, c("social", "cognit", "mind", "belief"), type = "nearest", top_n = 10)
+word_similarities
+```
+
+```{r 2D_direkt_test}
+### TEST: word2vec with 15 dim + later dimensionality reduction same as running word2vec directly with 2 dim?
+### DOES LOOK DIFFERENTLY; MORE LIKE A SNAKE!
+word2vec_straight2D <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 2, iter = 20)
+embedding_straight2D <- as.matrix(word2vec_straight2D)
+
+colnames(embedding_straight2D) <- c("x", "y")
+embedding_straight2D <- data.frame(word = gsub("//.+", "", rownames(embedding_straight2D)), x = embedding_straight2D[, 1], y = embedding_straight2D[, 2], stringsAsFactors = FALSE)
+
+top25_straight2D <- embedding_straight2D %>%
+  filter(word %in% top25)
+
+top25_straight2D <- left_join(x = top25_straight2D, y = word_freq, by = "word")
+ggplot(top25_straight2D, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+```
+
+
+```{r visualize_2D}
+# 2D plot by semantic similarity
+# dimensionality reduction using UMAP (maps embeddings in 2D)
+# n_neighbors: size of local neighborhood (in terms of number of neighboring sample points) used for manifold approximation. Larger values result in more global views of the manifold, while smaller values result in more local data being preserved. In general values should be in the range 2 to 100.
+embeddings_2D <- umap(embeddings, n_neighbors = 15, n_threads = 2)
+rownames(embeddings_2D) <- rownames(embeddings)
+
+# create data frame from the x & y values
+embeddings_2D <- data.frame(word = gsub("//.+", "", rownames(embeddings_2D)), x = embeddings_2D[, 1], y = embeddings_2D[, 2], stringsAsFactors = FALSE)
+
+# if you want to manually choose which words to display
+# custom_2D <- embeddings_2D %>%
+#   filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "school"))
+
+# for top 25
+top25_2D <- embeddings_2D %>%
+  filter(word %in% top25)
+
+# semantic proximity (as is)
+ggplot(top25_2D, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
+# semantic proximity + word frequency
+top25_freq <- left_join(x = top25_2D, y = word_freq, by = "word")
+ggplot(top25_freq, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+
+# for top 50
+top50_2D <- embeddings_2D %>%
+  filter(word %in% top50)
+
+# semantic proximity (as is)
+ggplot(top50_2D, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
+# semantic proximity + word frequency
+top50_freq <- left_join(x = top50_2D, y = word_freq, by = "word")
+ggplot(top50_freq, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+
+# for top 100
+top100_2D <- embeddings_2D %>%
+  filter(word %in% top100)
+
+# semantic proximity (as is)
+ggplot(top100_2D, aes(x = x, y = y, label = word)) +
+  geom_text_repel() + theme_void()
+
+# semantic proximity + word frequency
+top100_freq <- left_join(x = top100_2D, y = word_freq, by = "word")
+ggplot(top100_freq, aes(x = x, y = y, label = word, size = log(n))) +
+  geom_text_repel() + theme_void()
+```
