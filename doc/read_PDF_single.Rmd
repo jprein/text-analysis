@@ -1,0 +1,54 @@
+---
+title: "read_PDF_single"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+```{r}
+library(pdftools)
+library(tidyverse)
+
+# reads PDF
+original_text <- pdf_text("adrian2005parent.pdf") %>%
+  readr::read_lines()
+
+# source of inspiration: https://cbail.github.io/SICSS_Basic_Text_Analysis.html
+library(tidytext)
+library(dplyr)
+library(SnowballC)
+
+original_text <- tibble(original_text)
+head(original_text$original_text)
+
+# load existing, predefined list of stopwords (words that we don't want to count)
+# you could also create a customized list of words to exclude
+data("stop_words")
+
+tidy_text <- original_text %>%
+  # select the (one and only) column that contains all of our text 
+  select(original_text) %>%
+  # split strings into words (automatically converts all letters to lowercase & removes punctuation)
+  unnest_tokens("word", original_text) %>%
+  # returns all rows that are not included in our stopwords
+  anti_join(stop_words)
+
+# remove all numeric digits (minus in front of grep tells it to exclude rather then include them)
+tidy_text <- tidy_text[-grep("\\b\\d+\\b", tidy_text$word), ]
+# remove white spaces
+tidy_text$word <- gsub("\\s+", "", tidy_text$word)
+
+tidy_text %>%
+  # stemming: replacing word with its most basic conjugate form
+  # TODO: mutate_at superseded but this doesn't work:   
+  # mutate(across("word", funs(wordStem((.), language = "en")))) %>%
+  mutate_at("word", funs(wordStem((.), language = "en"))) %>%
+  # well... counts words!
+  count(word) %>%
+  # order according to highest value
+  arrange(desc(n))
+```
+
