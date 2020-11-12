@@ -92,7 +92,6 @@ preprocess_text <- function(raw_text) {
   
   return(tidy_text)
 }
-
 ```
 
 ```{r text_preprocessing, message=FALSE, warning=FALSE}
@@ -306,7 +305,6 @@ top100_freq <- left_join(x = top100_2D, y = word_freq, by = "word")
 ggplot(top100_freq, aes(x = x, y = y, label = word, size = log(n))) +
   geom_text_repel() + theme_void()
 
-toc() 
 # Run the whole script: 56.853 sec elapsed # with directly 2D test
 # Run the whole script: 46.438 sec elapsed
 ```
@@ -336,13 +334,14 @@ papers_rowSum <- apply(papers_dtm, 1, sum)
 papers_dtm <- papers_dtm[papers_rowSum > 0, ]
 
 # use LDA() function to create a k-topic model
-# we may need to try a few different values of k
-papers_lda <- LDA(papers_dtm, k = 4, control = list(seed = 1234))
+# we may need to try a few different values of 
+tic("LDA model")
+papers_lda <- LDA(papers_dtm, k = 10, control = list(seed = 1234))
 papers_lda
+toc()
 
 # Notice that this has turned the model into a one-topic-per-term-per-row format. For each combination, the model computes the probability of that term being generated from that topic. For example, the term “joe” has an almost zero probability of being generated from topics 1, 2, or 3, but it makes up 1% of topic 4.
 papers_topics <- tidy(papers_lda, matrix = "beta")
-papers_topics
 
 # to find top terms within each topic
 top_terms <- papers_topics %>%
@@ -352,10 +351,6 @@ top_terms <- papers_topics %>%
   arrange(topic, -beta)
 
 top_terms
-
-# Each row of the input matrix needs to contain at least one non-zero entry
-# I had the same problem. The design matrix, dtm, in your case, had rows with all zeroes because dome documents did not contain certain words (i.e. their frequency was zero). I suppose this somehow causes a singular matrix problem somewhere along the line. I fixed this by adding a common word to each of the documents so that every row would have at least one non-zero entry. At the very least, the LDA ran successfully and classified each of the documents. Hope this helps!
-
 ```
 
 ```{r LDA_visualization}
@@ -365,4 +360,6 @@ top_terms %>%
   geom_col(show.legend = FALSE) +
   facet_wrap(~ topic, scales = "free") +
   scale_y_reordered()
+
+toc() 
 ```
