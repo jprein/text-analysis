@@ -23,7 +23,7 @@ library(topicmodels) # for LDA
 library(broom)
 library(reshape2)
 tic("Run the whole script")
-```
+```    
 
 ```{r load_data}
 # READ IN THE DATA. Papers are stored in the folder "raw-data". 
@@ -200,44 +200,9 @@ rm(new_string)
 
 ```{r word2vec_training}
 # TRAIN WORD2VEC MODEL. 
-# - word2vec was developed by Mikolov et al (2013) for natural language processing/machine learning
-# - method for efficiently creating embeddings
-# - embedding = word vector with n dimensions. they capture information on associations of words.
-# - e.g.: king - man + woman = queen
-# - word2vec model is trained by updating embeddings based on the errors of already made predictions (error = actual target - model prediction)
-# => that's the machine learning part of it!
-
-# we are interested in most frequent words. here are our parameter choices.
-# - type cbow (default): faster, works well with frequent words
-# - cbow = continuous bag of words. guess a word based on its context (vs. skipgram which guesses neighbouring words based on current word)
-# - learning algorithm negative sampling (default): better for frequent words, better with low dimensional vectors
-# - number of negative samples: 5 (default)
-# - definition of context window: 5 (default), meaning 2 words before, target, two words after
-# - smaller window size 2-15 leads to similarity scores indicating interchangeableness. larger windows 15-50 represents relatedness
-# - dimensionality of embeddings dim: 50 (default), 300 (recommended by researchers)
-# - number of training iterations iter: 5 (default), 20 (the more the merrier!)
 tic("train word2vec model")
 word2vec_model <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 300, window = 100L, iter = 5L, negative = 15L)
 toc()
-
-# HOW LONG DOES THE CODE RUN
-# originally, we used: # word2vec_model <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 15, iter = 20)
-# - 10.04 sec with window = 5, dim = 15, iter = 20
-# - 12.253 sec with window = 15, dim = 15, iter = 20
-# - 15.414 sec with window = 15, dim = 300, iter = 5
-# - 64.044 sec with window = 15, dim = 300, iter = 20
-# - 50.815 sec with window = 5, dim = 300, iter = 20
-# - 20.323 sec with window = 5, dim = 15, iter = 20, negative = 15L
-# - 18.798 sec with window = 5, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
-# - 3.85 sec with window = 5, dim = 15, iter = 5, negative = 15L, stopwords = all_stop_words$word
-# - 19.832 sec with window = 15, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
-# - 76.048 sec with window = 15, dim = 300, iter = 20, negative = 15L, stopwords = all_stop_words$word
-
-# SKIP-GRAM
-# - 87.144 sec with window = 5, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
-
-# - 25.603 sec with type = "cbow", dim = 300, window = 50L, iter = 5L, negative = 15L
-# - 33.601 sec with type = "cbow", dim = 300, window = 100L, iter = 5L, negative = 15L
 ```
 
 
@@ -260,10 +225,6 @@ rownames(embeddings_2D) <- rownames(embeddings)
 
 # create data frame from the x & y values
 embeddings_2D <- data.frame(word = gsub("//.+", "", rownames(embeddings_2D)), x = embeddings_2D[, 1], y = embeddings_2D[, 2], stringsAsFactors = FALSE)
-
-# if you want to manually choose which words to display
-# custom_2D <- embeddings_2D %>%
-#   filter(word %in% c("social", "cognition", "belief", "desire", "knowledge", "perception", "goal", "reasoning", "thinking",  "emotion", "aggression", "mind", "awareness", "play", "pretense", "peer", "family", "parents", "mother", "father", "child", "children", "understand", "language", "tom", "predict", "prediction", "action", "attention", "attend", "interact", "interaction", "prosocial", "school"))
 
 # for top 25
 top25_2D <- embeddings_2D %>%
@@ -310,18 +271,13 @@ ggplot(top100_freq, aes(x = x, y = y, label = word, size = log(n))) +
 ```
 
 ```{r DTM_preparation}
-# LDA:  “takes a number of documents. It assumes that the words in each document are related. It then tries to figure out the “recipe” for how each document could have been created. We just need to tell the model how many topics to construct and it uses that “recipe” to generate topic and word distributions over a corpus. Based on that output, we can identify similar documents within the corpus.“
-# now we have one-term-per-document-per-row
+# PREPARE DATA FOR LDA
 tmp <- counted_all %>% 
   rename(total_n = n) %>%
   pivot_longer(cols = contains("pdf"), names_to = "document", values_to = "n") %>%
   select(document, word, n) %>%
   mutate(n = replace_na(n, 0))
 
-# topicmodels package requires a DocumentTermMatrix
-# we can cast a one-token-per-row table into a DocumentTermMatrix with tidytext’s cast_dtm()
-# Document Term Matrix (DTM) lists all occurrences of words in the corpus, by document. In the DTM, the documents are represented by rows and the terms (or words) by columns. If a word occurs in a particular document, then the matrix entry for corresponding to that row and column is 1, else it is 0 (multiple occurrences within a document are recorded – that is, if a word occurs twice in a document, it is recorded as “2” in the relevant matrix entry).
-# This reads like 381561 cells in frequencies are 0, 6242 have non-zero values. 98% of all cells are zero (which is 381561/(381561+6242))
 papers_dtm <- tmp %>%
   cast_dtm(document, word, n)
 rm(tmp)
@@ -361,5 +317,6 @@ top_terms %>%
   facet_wrap(~ topic, scales = "free") +
   scale_y_reordered()
 
+# 667.97 sec elapsed
 toc() 
 ```
