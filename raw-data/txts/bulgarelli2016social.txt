@@ -1,0 +1,1700 @@
+ORIGINAL RESEARCH
+published: 14 November 2016
+doi: 10.3389/fpsyg.2016.01762
+
+Social Cognition in Preschoolers:
+Effects of Early Experience and
+Individual Differences
+
+Daniela Bulgarelli1,2* and Paola Molina1
+
+1 Department of Psychology, Università degli Studi di Torino, Torino, Italy, 2 CHILD, Collegio Carlo Alberto, Moncalieri, Italy
+
+Social cognition is the way in which people process, remember, and use information in
+social contexts to explain and predict their own behavior and that of others. Children’s
+social cognition may be inﬂuenced by multiple factors, both external and internal to the
+child. In the current study, two aspects of social cognition were examined: Theory of
+Mind and Emotion Understanding. The aim of this study was to analyze the effects
+of type of early care (0–3 years of age), maternal education, parents’ country of
+birth, and child’s language on the social cognition of 118 Italian preschoolers. To our
+knowledge, the joint effect of these variables on social cognition has not previously
+been investigated in the literature. The measures used to collect social cognition and
+linguistic data were not parent- or teacher-reports, but based on direct assessment of
+the children through two standardized tests, the Test of Emotion Comprehension and
+the ToM Storybooks. Relationships among the variables showed a complex pattern.
+Overall, maternal education and linguistic competence showed a systematic effect on
+social cognition; the linguistic competence mediated the effect of maternal education.
+In children who had experienced centre-base care in the ﬁrst 3 years of life, the effect of
+maternal education disappeared, supporting the protective role of centre-base care for
+children with less educated mothers. The children with native and foreign parents did not
+signiﬁcantly differ on the social cognition tasks. Limits of the study, possible educational
+outcomes and future research lines were discussed.
+
+Keywords: Theory of Mind, emotion understanding, childcare, language, maternal education, parents’ country of
+birth
+
+INTRODUCTION
+
+Edited by:
+Markus Paulus,
+Ludwig Maximilian University
+of Munich, Germany
+
+Reviewed by:
+Andrea Saffran,
+Ludwig Maximilian University
+of Munich, Germany
+Anna Amadó Codony,
+University of Girona, Spain
+
+*Correspondence:
+Daniela Bulgarelli
+daniela.bulgarelli@unito.it
+
+Specialty section:
+This article was submitted to
+Developmental Psychology,
+a section of the journal
+Frontiers in Psychology
+
+Received: 28 August 2016
+Accepted: 26 October 2016
+Published: 14 November 2016
+
+Citation:
+Bulgarelli D and Molina P (2016)
+Social Cognition in Preschoolers:
+Effects of Early Experience
+and Individual Differences.
+Front. Psychol. 7:1762.
+doi: 10.3389/fpsyg.2016.01762
+
+Social cognition is the way in which individuals process, remember, and use information in
+social contexts to explain and predict how people behave (Fiske and Taylor, 2013). In the current
+study, two aspects of social cognition were examined: Theory of Mind (ToM) and Emotion
+Understanding (EU). ToM concerns the attribution of mental states (beliefs, desires, intentions,
+etc.) to oneself and others, and the ability to use these attributions to understand, predict and
+explain one’s own behavior and that of other people (Mitchell, 1997). EU, on the other hand,
+is a component of social cognition and emotional competence, which concerns how individuals
+understand, predict, and explain their own and others’ emotions (Harris, 1989; Denham, 1998;
+Saarni, 1999).
+
+Frontiers in Psychology | www.frontiersin.org
+
+1
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+From a theoretical point of view, ToM and EU are partly
+correlated. In Pons and Harris’ (2000) view, EU is made of
+nine components hierarchically organized. The simplest ones
+are recognition of emotional expressions and external causes
+of emotion, followed by the role of desire, beliefs and external
+reminder on emotions, emotion regulation, displayed emotions,
+role of moral dimension and mixed emotions. In Wellman’s
+(1990) approach, basic ToM in childhood consists of ﬁve
+components: recognition of emotion expressions and external
+causes of emotion, understanding of desire and beliefs, ability to
+distinguish between physical and mental entities, and awareness
+of the link between perception and knowledge. Thus, the external
+features of emotions are necessary to read and predict people’s
+internal states, while beliefs and desires can shape emotions. The
+correlation between ToM and EU is also supported by research
+outcomes (Hughes and Dunn, 1998; Cutting and Dunn, 1999;
+Pears and Fisher, 2005).
+
+The current study focused on some factors, both external and
+internal to the child that can inﬂuence social cognition abilities
+in a group of Italian pre-schoolers: the role of early type of care
+on ToM and EU has been examined together with the eﬀects
+of other intervening variables as maternal education, parents’
+country of birth, and linguistic competence. In what follows, the
+literature showed that the eﬀect of type of care on social cognition
+has not been studied yet; that a complex interplay among these
+factors could be expected and that a study to take into concern
+simultaneously these several variables is necessary. This study
+focused ﬁrstly on early type of care and other variables that
+are strictly related to it; some other factors that could inﬂuence
+children’s social cognition development as socio-economic status
+(Shatz et al., 2003; Cutting and Dunn, 1999; Meins et al., 2013),
+cognitive functioning and executive functioning (De Stasio et al.,
+2014; Schneider et al., 2014) were not deepened.
+
+In early childhood, toddlers receive two main types of care:
+centre-based and home-based. In centre-based care, children
+experience daily life in a group setting with adults and peers, and
+routines, spaces and toys are organized for a group of children
+and adults; in addition, the adults providing the care are trained
+professionals. In home-based arrangements, children are more
+likely to be alone with adults or to share routines and toys
+with a very small number of other children, usually younger or
+older siblings. In these informal settings, caretakers are usually
+mothers, grandparents or non-professional baby-sitters (for a
+broader discussion, see Bulgarelli and Molina, 2016).
+
+physical aggression and emotional problems at 4 years of age
+were lower in children from low-risk families who had been
+in maternal care (Côté et al., 2008). In the US on the other
+hand, high quality centre-based care has been found to protect
+against internalizing and externalizing behavior problems in
+preschoolers from low-income families (Votruba-Drzal et al.,
+2004). Thus, besides diﬀerent types of care have shown to aﬀect
+cognitive and social dimension of children’s development, as far
+as we are aware, to date no studies have examined the relationship
+between social cognition at preschool age and the type of care
+received during early childhood. Maternal education predicted
+centre-based care usage in several countries: Norway (Zachrisson
+et al., 2013), Finland and West Germany (Krapf, 2014), Belgium
+(Vandenbroeck et al., 2008), UK (Sylva et al., 2007), Italy (Del
+Boca et al., 2005) and US (NICHD Early Child Care Research
+Network, 1997a, 2006). Moreover, maternal education is the
+most robust sociodemographic predictor of mother and infant
+behavior (Bornstein et al., 2003; Mistry et al., 2008).
+
+Previous research has shown that children’s social-cognitive
+development is positively associated with parental education
+level (Perner et al., 1994; Cutting and Dunn, 1999; Pons et al.,
+2003). In the UK and US, maternal education is positively
+associated with cognitive and linguistic outcomes (NICHD
+Early Child Care Research Network, 1997b; NICHD Human
+Learning Branch, 1998; Peisner-Feinberg et al., 2001; Sammons
+et al., 2004). Similarly, Italian children’s cognitive and linguistic
+competence have been found to be systematically related to
+maternal education (Bulgarelli and Molina, 2016). Moreover, type
+of care has been shown to moderate the maternal education eﬀect
+in preschool and school-aged children: speciﬁcally,
+linguistic
+and cognitive outcomes improve in line with level of maternal
+education in children who receive home-based care only,
+indicating that centre-based care can play a protective role in the
+ﬁrst 3 years of life (Bulgarelli and Molina, 2016). For this reasons,
+while deepening the role of early type of care on children’s social
+cognition, it is crucial to take into consideration the eﬀect of
+maternal education as well.
+
+Some studies reported that migrant status is related to type
+of care, speciﬁcally by predicting lower utilization of centre-
+based care (Sammons et al., 2004; Turney and Kao, 2009; Miller
+et al., 2013, 2014; Zachrisson et al., 2013); though, it is worth
+noticing that other studies did not ﬁnd this relationship (Kahn
+and Greenberg, 2010; Krapf, 2014). A migrant is deﬁned in the
+United Nations Educational Scientiﬁc and Culture Organization
+Glossary (2016) as “any person who lives temporarily or
+permanently in a country where he or she was not born, and has
+acquired some signiﬁcant social ties to this country”; the parents
+of ﬁrst-generation children are both migrants. Social cognition is
+partly aﬀected by culture (for a review, see Molina et al., 2014),
+but migrant status is more than a question of cultural belonging:
+it is a condition with speciﬁc features related to entering a
+new social context–for example, separation from one’s family
+of origin, changes in economic status, negative stereotypes and
+discrimination, language barriers and higher levels of stress. Very
+often, the migrant condition combines with other variables that
+aﬀect children’s development, such as poverty status and dual
+language learning, whereby children acquire both their parents’
+
+The literature emphasizes that type of care is associated
+with children’s later development, reporting positive eﬀects of
+centre-based care on cognitive and linguistic outcomes (Broberg
+et al., 1997; NICHD Early Child Care Research Network, 2002,
+2004, 2006; Sylva et al., 2004; Belsky et al., 2007; Loeb et al.,
+2007; Magnuson et al., 2007; Hansen and Hawkes, 2009). With
+regard to more general social behavior, centre-based care appears
+to be related to teacher-reported externalizing problems in
+preschool and school age children (NICHD Early Child Care
+Research Network, 2002, 2005). A study on Canadian families
+showed that maternal care acts as a protective factor in the
+ﬁrst year of life as compared to non-maternal care (provided by
+relatives, non-relatives, day care centres, etc.): parent-reported
+
+Frontiers in Psychology | www.frontiersin.org
+
+2
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+mother tongue and the language of the host country (De Feyter
+and Winsler, 2009; Winsler et al., 2014). A Canadian study by
+Wade et al. (2014) showed that ToM performance at 5 years
+was predicted by children’s language competence, but not by
+family income, migrant status or the presence of siblings in the
+household. Another study by the same research group (Prime
+et al., 2015) showed that mother’s communicative clarity and
+mind-reading skills (termed cognitive sensitivity) were positively
+related to children’s ToM at 5 years, and receptive language
+and academic achievement at preschool age. This pattern of
+associations between mothers’ cognitive sensitivity and children’s
+outcomes was similar in both native and migrant dyads of
+mothers and children, suggesting that the underlying process was
+similar. Nevertheless, migrant status appeared to be a risk factor,
+because it was negatively associated with maternal cognitive
+sensitivity. In keeping with the ﬁndings of Prime et al. (2015),
+U.S. immigrant mothers have been shown to report higher levels
+of parenting stress than native mothers, with stress predicting
+aggressive behavior in pre-school age children (Mistry et al.,
+2008).
+
+The theoretical frame outlined so far highlighted that the
+relationship between social cognition development and early
+type of care requires to focus on other intervening variables,
+as maternal education and migrant condition, which in turn
+are related to linguistic issues. Moreover, social cognition and
+linguistic competence are also “directly” associated with one
+another. A meta-analysis by Milligan et al. (2007) reported
+that the predictive correlations between language and ToM
+were signiﬁcant, even after controlling for age. When linguistic
+tasks were administered at an earlier time-point than ToM
+tasks, the correlations were higher than under the opposite
+condition, suggesting that the inﬂuence of language on ToM
+is stronger than the inﬂuence of ToM on language (Milligan
+et al., 2007). It may be that an overarching developmental
+factor such as working memory (Astington and Jenkins, 1999)
+or executive functioning (Carlson and Moses, 2001) inﬂuences
+both competences. Multiple aspects of linguistic competence
+may be interrelated with ToM: lexicon (for instance, Lohmann
+and Tomasello, 2003), syntax (de Villiers and Pyers, 2002) and
+conversational experience (Harris, 2005; Deleau, 2012). In the
+literature, debate is ongoing concerning the speciﬁc contribution
+to ToM of the diﬀerent components of language competence. In
+the context of this discussion, Miller (2004) has proposed the
+performance hypothesis, which postulates that the inﬂuence of
+linguistic competence on performance on ToM tasks is aﬀected
+by the linguistic complexity of the ToM task itself; evidence
+in support of this hypothesis has also come from a study by
+Bulgarelli and Molina (2013). For a wider discussion of these
+topics, see Bulgarelli and Molina (2013).
+
+The current study deepens the role of early type of care,
+maternal education, parents’ country of birth, and children’s
+linguistic competence on social cognition of a group of Italian
+pre-schoolers: the reviewed literature showed that a complex
+interplay among these factors can be expected thus it is worth
+investigating them together in one study. Moreover, as reported
+in the Introduction session, previous studies focused on the
+eﬀect on social behavior: to our knowledge, our study is the
+
+ﬁrst to analyze the role of type of care on ToM and EU.
+Finally, social behavior was usually measured through parent-
+or teacher-reported questionnaire (NICHD Early Child Care
+Research Network, 2002, 2005; Votruba-Drzal et al., 2004; Côté
+et al., 2008). Parents could be considered reliable observers
+when they are requested to evaluate children’s behaviors: they
+have a privileged perspective on their child’s development and
+can observe the child over time and in a familiar environment
+(Matheny et al., 1984). Nevertheless, parents are not trained
+observers: their judgment may be biased by social desirability,
+they may be incapable of perceiving their children’s real
+competence (Fenson et al., 1994), and social representation of
+childhood may play a role in distorting adults’ observations and
+managing the reliability of the measures (for a wider discussion
+of this topic, see: Molina and Bulgarelli, 2012b). It is also worth
+noticing that children’s social cognition involves internal states
+that are not always directly observable: thus, parents may not be
+accurate in evaluating this competence (Kårstad et al., 2014). For
+these reasons, in the current study social cognition was measured
+directly with the children, through standardized tools that are
+internationally used to assess ToM and EU.
+
+The current study focused on four research questions, mainly
+deduced from the literature. The ﬁrst question related to the
+eﬀects of type of early childcare on social cognition: given
+that this was the ﬁrst study to investigate such question, we
+relied on earlier ﬁndings reported by Bulgarelli and Molina
+(2016) concerning cognitive outcomes to formulate the second
+hypothesis, predicting that type of care would only yield an
+eﬀect in interaction with maternal education: speciﬁcally, higher
+maternal education would positively aﬀect children’s social
+cognition only in those who had been in home-based care in
+the ﬁrst 3 years of life. The second question concerned the
+role of maternal education on social cognition and we expected
+that maternal education would directly aﬀect children’s social
+cognition, in line with the literature reviewed above (Perner et al.,
+1994; Cutting and Dunn, 1999; Pons et al., 2003). In keeping
+with the existing literature, the third question concerned the
+role of parents’ country of birth: no direct eﬀect of this variable
+on social cognition is expected (Wade et al., 2014; Prime et al.,
+2015). Finally, the fourth question related to the role of child’s
+language: in line with earlier studies reported in the literature,
+as to the fourth hypothesis linguistic competence was expected
+to be directly associated with social cognition and also to be
+associated with maternal education (NICHD Early Child Care
+Research Network, 1997b; NICHD Human Learning Branch,
+1998; Peisner-Feinberg et al., 2001; Sammons et al., 2004; Milligan
+et al., 2007; Bulgarelli and Molina, 2016); we therefore set out
+to analyze the possible joint eﬀect of maternal education and
+linguistic competence on social cognition.
+
+MATERIALS AND METHODS
+
+Sample
+The sample comprised 118 typically developing children (average
+age = 59.6 months, SD = 10.4, range: 38.5–76.7 months; average
+IQ = 99.6, SD = 13.5), all of them attending kindergartens in
+
+Frontiers in Psychology | www.frontiersin.org
+
+3
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+Turin (Italy): see Table 1. Data were collected between 2009 and
+2012; most of the children in the current study also took part in
+earlier reported research by Bulgarelli and Molina (2016).
+
+Sixty-four children were girls (54.2%). A t-test analysis
+conﬁrmed that the two subsamples of boys and girls were similar
+with respect to age (p = 0.449), IQ (p = 0.174), type of early
+childcare received (p = 0.530), maternal education (p = 0.187),
+parents’ country of birth (p = 0.650) and verbal quotient (VQ;
+p = 0.450).
+
+With regard to education, 53 mothers had completed lower
+secondary school (44.9%), 52 held an upper secondary school
+diploma (44.1%) and 13 were university graduates (11.0%).
+Overall,
+the sample displayed a lower level of educational
+achievement than the Italian population between 25 and 64 years
+of age in 2011, in which 44% had completed lower secondary
+education, 41% upper secondary education, and 15% third level
+education (OECD, 2014). For the purposes of the statistical
+analysis, the groups of mothers with upper secondary and
+university-level education were collapsed into one group termed
+the “highly educated group,” after it had been veriﬁed that they
+did not signiﬁcantly diﬀer in relation to the independent variables
+in the research design. A t-test analysis conﬁrmed that the
+two ﬁnal subsamples of children, with less educated and more
+highly educated mothers, respectively, were similar in terms of
+age (p = 0.644), gender (p = 0.784), type of care (p = 0.116)
+and parents’ country of origin (p = 0.163). The IQ and VQ
+scores of the children with more highly educated mothers were
+signiﬁcantly higher than those of the children whose mothers
+had completed a lower level of education (IQ: mLOW = 96.98,
+mHIGH = 101.78, tIQ = −1.94, p = 0.055; VQ: mLOW = 76.70,
+mHIGH = 84.05, tVQ = −3.18, p = 0.002).
+With regard to parent’s country of birth, 92 of the children
+had two native-born parents (77.9%); 14 had one foreign-born
+parent (11.9%) and 12 two foreign-born parents (10.2%). In
+our sample, the percentage of children with two foreign-born
+parents was slightly lower than in the Italian population (14.5%)
+
+TABLE 1 | Characteristics of the sample.
+
+Sample size (%)
+
+Male
+Female
+
+Average age in years (SD, range)
+Parents’ country of origin (%)
+
+Both native parents
+One foreign parent
+Both foreign parents
+Mother’s education (%)
+Lower school degree
+Upper school degree
+Higher education
+
+Type of care (%)
+Home-based
+Centre-based
+
+Sample
+
+118 (100)
+54 (45.8)
+64 (54.2)
+5 (0.9, 3–6)
+
+92 (77.9)
+14 (11.9)
+12 (10.2)
+
+53 (44.9)
+52 (44.1)
+13 (11.0)
+
+64 (54.2)
+54 (45.8)
+
+Percentage in the
+Italian population
+
+80.6
+14.5
+4.9
+
+44
+41
+15
+
+76
+14
+
+and the percentage of children from mixed couples was higher
+(4.9% in the Italian population; Istat, 2012b). For the purposes
+of the statistical analysis, the groups of children with two native-
+born parents and one native-born parent were collapsed into
+a single subsample labeled native children, after it had been
+veriﬁed that these two groups did not diﬀer in relation to the
+independent variables in the current research design. A t-test
+analysis conﬁrmed that the two ﬁnal subsamples, composed of
+children with at least one native-born parent and ﬁrst-generation
+children with two foreign-born parents, respectively, were similar
+with respect to age (p = 0.433), IQ (p = 0.104), VQ (p = 0.319),
+gender (p = 0.627), type of early childcare (p = 0.402) and
+maternal education (p = 0.166).
+
+In relation to type of care, in the ﬁrst 3 years of life 54
+children had received centre-based care (45.8%) and 64 children
+had been in exclusively home-based care. Home-based care had
+consisted of either exclusive maternal care or being looked after
+by other family members or babysitters. In 2010/11, 14.0% of
+Italian children between 0 and 2 years of age were enrolled in
+centre-based care, with marked diﬀerences among the diﬀerent
+geographical regions: for instance, in the North, 29.4% of children
+attended day care in Emilia Romagna and 15.4% in Piemonte,
+while in the South, percentages varied from 9.6% in Abruzzo
+to 2.4% in Calabria (Istat, 2012a). A t-test analysis conﬁrmed
+that the two subsamples of children who had received home-
+based care and centre-based care were similar with respect to
+age (p = 0.852), IQ (p = 0.276), VQ (p = 0.136), gender
+(p = 0.530) and parents’ country of birth (p = 0.215), but diﬀered
+signiﬁcantly in relation to maternal education: highly educated
+mothers were more likely to choose centre-based care (p= 0.021).
+Measures and Procedures
+At three separate sessions conducted within a month of each
+other, the children were individually assessed at kindergarten
+using four standardized tests: the ToM Storybooks (Molina and
+Bulgarelli, 2012a; Bulgarelli et al., 2015) were used to assess ToM
+and the Test of Emotion Comprehension (TEC, Pons and Harris,
+2000; Albanese and Molina, 2013) to assess EU; the Leiter-R
+(Roid and Miller, 2002; US version: 1997) was used to assess
+non-verbal IQ; the Peabody Picture Vocabulary Test (Dunn and
+Dunn, 1981), in its Italian version (Stella et al., 2000) was used to
+assess receptive language, reported as Verbal Quotient (VQ).
+
+The ToM Storybooks is a comprehensive 93-item instrument
+tapping the ﬁve components in Wellman’s (1990) model of
+ToM: emotion recognition, understanding of desire and beliefs,
+ability to distinguish between physical and mental entities, and
+awareness of the link between perception and knowledge; a
+classical False Belief task is also included. The total score varied
+from 0 to 111; in this study the total score was used because the
+standardization of the test is still ongoing. The ToM Storybooks
+is made up of six full-picture books telling stories about a boy
+called Sam. Each book recounts an adventure of Sam’s (Sam
+going to the swimming pool, visiting his grandparents, etc.) and
+contains 5 or 6 tasks assessing one or more ToM components.
+The experimenter reads the story while the child looks at the
+images. In one of the tasks that tap the role of desire in generating
+behaviors, Sam is searching for his dog: “Where is Puckie? Puckie
+
+Frontiers in Psychology | www.frontiersin.org
+
+4
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+has hidden [point the picture] behind the tree or [point the
+picture] behind the trash can. Sam wants to play with Puckie.
+First, he goes to look behind the trash can. But Puckie is not there.
+What will Sam do now?”
+
+The TEC evaluates nine hierarchically organized components
+of EU that emerge between 3 and 11 years. The simplest
+ones are recognition of emotional expressions and external
+causes of emotion, followed by the role of desire, beliefs and
+external reminder on emotions, emotion regulation, displayed
+emotions, role of moral dimension and mixed emotions. The
+TEC raw score varied from 0 to 9 and in this study the
+Italian standardized z-score was used. Each TEC components
+are proposed in the frame of a short pictured story;
+the
+child answers to the task questions by indicating the facial
+expression of the correct emotion, accordingly to what happened.
+For example,
+in which the
+diﬀerence between apparent and real emotion is tapped, the
+experimenter reads this story: “This is Sarah and this is
+Dorothy. Dorothy is teasing Sarah because Dorothy has lots of
+marbles and Sarah doesn’t have any. Sarah is smiling because
+she doesn’t want to show Dorothy how she is feeling inside.
+How is Sarah feeling inside? Is she happy, alright, angry or
+scared?”
+
+in the displayed emotion task,
+
+Parents were asked to complete a questionnaire on their socio-
+demographic background, which assessed both parent-related
+characteristics (country of birth, level of education) and child-
+related characteristics (country of birth, gender, siblings, type
+of childcare during the ﬁrst 3 years of life). Thus, the data
+concerning the type of early care received in the ﬁrst 3 years of
+life was collected retrospectively.
+
+Mothers’ level of education was coded in terms of the Italian
+school system: (0) lower level of education (i.e., mothers had
+obtained a low school degree, corresponding to a maximum of
+8 years’ school); (1) more highly educated (i.e., mothers had
+attended at least 13 years of school/university, with high school,
+bachelor’s, master’s and doctoral degrees all collapsed together
+into a single category).
+
+For each child, parents’ country of birth was coded as follows:
+(0) native children (i.e., two native-born parents or one native-
+born and one foreign-born parent); (1) ﬁrst-generation children
+(i.e., two foreign-born parents).
+
+Analysis
+T-tests for small sample sizes were performed to check for
+signiﬁcant diﬀerences in the children’s ToM and EU scores
+as an eﬀect of type of early childcare, parents’ country of
+birth and maternal education. The direct eﬀect of language
+on social cognition was assessed by analyzing the correlations
+between linguistic competence scores and ToM and EU scores,
+respectively.
+
+To test for interactions between maternal education and type
+of early childcare or parents’ country of birth, separate t-tests for
+the eﬀect of maternal education on ToM and EU were performed
+on the type of care and parental country of origin subsamples. An
+ANOVA analysis has not been run: the sample size was too small
+to test the interaction eﬀects through an ANOVA; for this reason,
+a regression analysis was not run as well.
+
+The mediating eﬀect of linguistic competence was investigated
+by conducting two regression analyses, with ToM and EU scores
+as dependent variables and maternal education and parents’
+country of birth as independent variables.
+
+RESULTS
+
+Direct Effect of Individual Variables
+Type of early childcare did not lead to signiﬁcant diﬀerences in
+ToM and EU and the eﬀect size was not relevant as well (Table 2).
+Maternal education was found to have a signiﬁcant direct eﬀect
+on ToM and EU scores. First-generation children obtained the
+lowest mean scores on the social cognition measures: although
+these scores did not signiﬁcantly diﬀer from those of the other
+children, the eﬀect size was relevant (Table 2). Finally, linguistic
+competence was found to be correlated with both ToM and EU
+scores (r = 0.503, p < 0.01 and r = 0.406, p < 0.01, respectively).
+Interaction among Variables: The Role of
+Type of Care
+Type of care and maternal education were found to interact, in
+that maternal education had an eﬀect on the social cognition
+abilities of children who had received home-based care only, but
+not on those of children who had been in centre-based care.
+More speciﬁcally, children whose mothers had completed a lower
+level of education only obtained signiﬁcantly lower ToM scores
+than children with more highly educated mothers when they had
+received exclusively home-based care in the ﬁrst 3 years of life
+(Table 3).
+
+Interaction among Variables: The Role of
+Parent’s Country of Birth
+Parental country of birth and maternal education were found to
+interact: namely, maternal education had an eﬀect on the social
+cognition abilities of children with native-born parents, but not
+on those of ﬁrst-generation children. More speciﬁcally, children
+whose mothers had completed a lower level of education only
+obtained signiﬁcantly lower ToM and EU scores than children
+with more highly educated mothers when both parents were
+native-born (Table 4). Nevertheless, considering the eﬀect size,
+the diﬀerences due to parents’ country of birth were lower than
+the diﬀerences observed in respect to the maternal education.
+
+Interaction among Variables: The Role of
+Linguistic Competence
+With regard to the role of linguistic competence, both a direct
+eﬀect of language on ToM and EU scores and a mediation eﬀect
+of language on the relationship between maternal education and
+ToM and EU were found.
+
+With respect to ToM (Figure 1), the correlation between
+maternal education and language ability scores was 0.283
+(p < 0.01), the partial correlation between linguistic competence
+and ToM scores (after controlling for the eﬀect of maternal
+education) was 0.465 (p < 0.01), while the direct correlation
+between maternal education and ToM scores was 0.269
+
+Frontiers in Psychology | www.frontiersin.org
+
+5
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+TABLE 2 | Differences by type of care, parents’ country of origin and maternal education between groups in relation to ToM and EU average scores (SD).
+
+ToM
+
+t
+
+p (two-tailed)
+
+Cohen’s d
+
+EU
+
+t
+
+p (two-tailed)
+
+Cohen’s d
+
+Type of care
+
+Home-based
+Centre-based
+
+N
+
+64
+54
+
+Parents’ Country of birth
+106
+12
+
+Italian-born
+Foreign-born
+
+Maternal education
+
+54.50 (12.73)
+57.70 (17.55)
+
+56.65 (15.29)
+49.92 (12.78)
+
+Low
+High
+
+53
+65
+
+52.92 (13.32)
+58.45 (16.16)
+
+−1.12
+
+−1.47
+
+−2.00
+
+0.267
+
+0.145
+
+0.048
+
+0.21
+
+0.45
+
+0.37
+
+−0.32 (1.03)
+0.04 (0.98)
+
+−0.11 (1.01)
+−0.53 (1.11)
+
+−0.42 (1.06)
+0.06 (0.94)
+
+−1.94
+
+−1.36
+
+−2.60
+
+0.055
+
+0.177
+
+0.010
+
+0.36
+
+0.42
+
+0.49
+
+TABLE 3 | Differential effects of maternal education as a function of home- versus centre-based early childcare.
+
+Type of care
+
+Home based
+
+Centre based
+
+Total
+
+Maternal
+education
+
+Low
+High
+Low
+High
+Low
+High
+
+N
+
+33
+31
+20
+34
+53
+65
+
+ToM (SD)
+
+t
+
+Cohen’s d
+
+p (two-tailed)
+
+EU (SD)
+
+t
+
+p (two-tailed)
+
+Cohen’s d
+
+50.85 (11.82) −2.46
+58.39 (12.70)
+56.35 (15.18) −0.457
+58.50 (18.97)
+52.92 (13.32) −2.00
+58.45 (16.16)
+
+0.63
+
+0.12
+
+0.37
+
+0.017
+
+0.650
+
+0.048
+
+−0.59 (1.06)
+0.03 (0.94)
+−0.14 (1.03)
+0.15 (0.95)
+−0.42 (1.06)
+0.06 (0.94)
+
+−1.74
+
+−0.521
+
+−2.60
+
+0.086
+
+0.605
+
+0.010
+
+0.90
+
+0.30
+
+0.49
+
+TABLE 4 | Differential effect of maternal education in children as a function of having native-born versus foreign-born parents.
+
+Parents’
+country of birth
+
+Maternal
+education
+
+Native-born
+
+Foreign-born
+
+Total
+
+Low
+High
+Low
+High
+Low
+High
+
+N
+
+47
+59
+6
+6
+53
+65
+
+ToM (SD)
+
+t
+
+p (two-tailed)
+
+Cohen’s d
+
+EU (SD)
+
+t
+
+p (two-tailed)
+
+Cohen’s d
+
+53.49 (13.08) −1.98
+59.17 (16.52)
+48.50 (15.64) −0.37
+51.33 (10.48)
+52.92 (13.32) −2.00
+58.45 (16.16)
+
+0.051
+
+0.720
+
+0.048
+
+0.38
+
+0.23
+
+0.37
+
+−0.38 (1.05) −2.53
+0.10 (0.93)
+−0.71 (1.22) −0.55
+−0.35 (1.07)
+−0.42 (1.06) −2.60
+0.06 (0.94)
+
+0.013
+
+0.597
+
+0.010
+
+0.49
+
+0.34
+
+0.49
+
+(p < 0.01), and this correlation was reduced if the language eﬀect
+was considered (Beta = 0.137, NS).
+
+Turning to EU,
+
+the same pattern of results was found
+(Figure 1): the partial correlation between linguistic competence
+and EU scores (while controlling for the eﬀect of maternal
+education) was 0.380 (p < 0.01), the direct correlation between
+maternal education and EU scores was 0.235 (p < 0.05), and this
+correlation was reduced if the linguistic competence eﬀect was
+considered (Beta = 0.127, NS).
+
+When these correlations were analyzed separately in the two
+groups of children who had received home-based only versus
+centre-based care, the pattern of results diﬀered (Figure 1).
+With respect to children in home-based care, two signiﬁcant
+direct correlations were found: between maternal education
+and linguistic competence (r = 0.422, p < 0.01) and between
+maternal education and ToM scores (r = 0.347, p < 0.01);
+furthermore,
+linguistic competence and ToM scores were
+correlated, partializing for maternal education (Beta = 0.529,
+p < 0.01). Moreover,
+linguistic competence mediated the
+
+relationship between maternal education and ToM:
+in fact,
+the direct correlation between maternal education and ToM
+was reduced if the linguistic competence eﬀect was considered
+(Beta = 0.124, NS). With respect to children in centre-based care,
+the correlation between linguistic competence and ToM was the
+only signiﬁcant relationship identiﬁed (Beta = 0.379, p < 0.01),
+with no correlations found between maternal education and ToM
+or between maternal education and language.
+
+A similar pattern of results was found for EU (Figure 1): in
+the subsample of children who had received home-based care
+only, there were direct correlation between maternal education
+and linguistic competence (r = 0.422, p < 0.01), and between
+maternal education and EU scores (r = 0.271, p < 0.05); linguistic
+competence correlated with EU (Beta = 0.500, p < 0.01),
+and mediated the relationship between maternal education and
+EU: more speciﬁcally, the direct correlation between maternal
+education and ToM was reduced if the linguistic competence
+eﬀect was taken into account (Beta = 0.061, NS). On the contrary,
+in children in centre-based care the only signiﬁcant relationship
+
+Frontiers in Psychology | www.frontiersin.org
+
+6
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+FIGURE 1 | The mediation of language between maternal education and ToM/EU.
+
+identiﬁed was the correlation between linguistic competence and
+EU (Beta = 0.245, p < 0.01).
+
+When parents’ country of birth was included in the analysis,
+only linguistic competence was strongly correlated with ToM and
+EU, in both migrant parent and native-born parent subgroups
+(Table 5). However, no mediation eﬀect was found: parents’
+country of birth was not correlated with language (r = 0.113, NS
+for the total sample; r = 0.055, NS for children in home-based
+care; and r = 0.154, NS for children in centre-based care), nor
+with ToM (r = 0.101, NS for the total sample; r = 0.061, NS
+for children in home-based care; and r = 0.154, NS for children
+in centre-based care), nor with EU (r = 0.125, NS, for the total
+sample; r = 0.071, NS for children in home-based care; and
+r = 0.106, NS for children in centre-based care).
+
+DISCUSSION AND CONCLUSION
+
+The aim of this study was to contribute to the debate about the
+eﬀects of type of early childcare, maternal education, parents’
+
+country of birth, and child’s linguistic competence on children’s
+social cognition as observed at preschool age by analyzing Italian
+data. We analyzed two speciﬁc social cognition abilities, ToM and
+EU, ﬁnding them to display a systematically similar pattern of
+relationships with the independent variables under study.
+
+Interestingly, in our study type of early childcare did not have
+a direct eﬀect on social cognition and, as predicted according
+to the ﬁrst hypothesis, interacted with maternal education: the
+ToM and EU scores of children who received their early childcare
+in the home were aﬀected by maternal education, whereas this
+was not the case for children in centre-based care. It seemed
+that centre-based care could play a protective role for children
+with lower-educated mothers: on one hand, professionals provide
+stimulating contexts and aware educational practice (for a wider
+discussion, see: Molina, 2016; Molina et al., 2016); on the
+other hand,
+in day care services children experience stable
+and numerous relationship with peers that could foster ToM
+development: debate is still open about a positive eﬀect of the
+presence of siblings in the family and peers in kindergarten,
+observed in some studies (McAlister and Peterson, 2007; Wang
+
+Frontiers in Psychology | www.frontiersin.org
+
+7
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+TABLE 5 | Correlations among parents’ country of birth, language ability
+(VQ), ToM Storybooks and TEC scores, after controlling for age.
+
+N
+
+VQ
+
+ToM
+
+Scores
+
+EU
+
+Scores
+
+118
+
+0.113
+
+Total sample
+Parents’ country of birth
+VQ
+ToM scores
+Native-born parents
+VQ
+ToM scores
+Foreign-born parents
+VQ
+ToM scores
+Pearson correlation (Two-tailed): ∗p < 0.05, ∗∗p < 0.01.
+
+106
+
+12
+
+–
+
+–
+
+–
+
+0.101
+0.503∗∗
+
+–
+
+0.489∗∗
+
+–
+
+0.665∗
+–
+
+0.125
+0.406∗∗
+0.347∗∗
+
+0.380∗∗
+0.307∗∗
+
+0.820∗∗
+0.598∗
+
+and Su, 2009) but not in others (Das and Babu, 2004; Molina and
+Bulgarelli, 2012a).
+
+According to the second hypothesis, maternal education was
+found to have a direct eﬀect on ToM and EU: evidence of
+the eﬀect of maternal education on social cognition has been
+found in other studies (Perner et al., 1994; Cutting and Dunn,
+1999; Pons et al., 2003) as well as in our own earlier study on
+cognitive outcomes (Bulgarelli and Molina, 2016). A possible
+explanation for the positive eﬀect of maternal education on
+children’s development could lay on mothers’ higher awareness
+of the importance of the quantity and quality of time spent
+with the oﬀspring: higher-educated parents spend more time
+with their children than lower-educated parents; they are more
+aware of the link between spending time with their children
+and their future development; and are more likely to interiorise
+and implement the social norms and behaviors associated with
+“involved parenting” (Sayer et al., 2004; Craig, 2006; Monna and
+Gauthier, 2008). Moreover, the development of social cognition
+is speciﬁcally supported by parents’ ability to mentalise: mind-
+mindedness is deﬁned as the adults’ tendency to comment
+appropriately on their children’s internal states and it plays a
+protective role for the children’s social development, speciﬁcally
+in low socioecomomic families (Meins et al., 2002, 2013).
+
+In line with the Canadian study by Wade et al. (2014) and
+the previous Italian study on cognitive outcomes (Bulgarelli and
+Molina, 2016), an eﬀect of parents’ country of birth on children’s
+social cognition was not expected. Nevertheless, the results were
+partly diﬀerent: no signiﬁcant diﬀerences were found between
+children with native and foreign parents, but the eﬀect size of
+the diﬀerence between the two groups was not negligible (0.45
+and 0.42 for ToM and EU scores, respectively). Then, the lack
+of signiﬁcance of the diﬀerence could be due to the insuﬃcient
+power of the statistical test, taking into consideration that the
+sample was highly unbalanced in favor of children with native
+parents. Similarly, the very small number of ﬁrst-generation
+children could explain the lack of diﬀerences due to maternal
+education observed in this subsample.
+
+As expected based on the literature (for instance, Milligan
+et al., 2007), the fourth hypothesis was conﬁrmed: linguistic
+competence directly aﬀected social cognition. On analyzing the
+
+role of children’s linguistic competence, which is related to both
+children’s social cognition and maternal education, linguistic
+competence was shown to mediate the maternal education eﬀect
+on social cognition, but only in children in home-based care.
+As stated before, professional care appeared to play a protective
+role for children with less educated mothers. The protective
+role of early type of care was less clear when considering the
+two groups of children with native and foreign parents:
+in
+this case, the linguistic competence seemed the relevant aspect
+to diﬀerentiate children’s performances in the social cognition
+tasks. In sum, when not correlated with maternal education,
+language was the variable that mainly correlated with the ToM
+and EU scores. More highly educated mothers had children
+with greater linguistic competence, but centre-based care in
+the early years compensated for this diﬀerence. As previously
+discussed elsewhere (Bulgarelli and Molina, 2016), designing
+educational intervention and training professionals to better
+support children’s linguistic development from the early years of
+life seem crucial: day care services are the context where such
+support could be better provided (Scopesi and Viterbori, 2008;
+Molina et al., 2016) and such intervention could be crucial for
+children with two foreign-born parents.
+
+The role if linguistic competence in shaping the diﬀerences
+among children’s social cognition performances should be
+interpreted with caution, because children’s performance on the
+ToM and EU tasks were also aﬀected by the linguistic format
+of the task itself (Miller, 2004). Moreover, this study focused on
+receptive language: this measure was chosen because it is a good
+index of children’s general linguistic competence yet easy and
+fast to assess; nevertheless, language is a complex construct and
+future research could deepen the role of other linguistic aspects,
+as syntax and conversational ability.
+
+With regard to the limits of the current study, the quasi-
+experimental design required to interpret
+the results with
+caution. The sample was recruited in a speciﬁc Italian region:
+this guaranteed a higher homogeneity of social inﬂuence on
+our sample, but limited the generalizability of the results to
+the Italian population. Italian children’s ToM and EU showed
+speciﬁc pattern of development compared to British and German
+children (Lecce and Hughes, 2010; Molina et al., 2014): thus
+the generalizability of the pattern of the current results to other
+western countries should be speciﬁcally tested. Furthermore, the
+sample included a relatively low number of children with two
+foreign-born parents, that did not allow to perform a multiple
+regression analysis to test the interaction of the independent
+variables; nevertheless, the percentage of this group of subjects
+was in line with the percentage of children with two foreign
+parents living in Italy in the period when the data were collected.
+It is worth noticing that the sample was balanced between
+medium-low and medium-high socio-economic status, avoiding
+the biases due to the diﬃculty in enrolling low socio-economic
+families. The pattern of the eﬀect of type of early childcare,
+maternal education, and parents’ country of birth on social
+cognition was similar to that observed in a previous study in
+which verbal and cognitive competence were the dependent
+variables (Bulgarelli and Molina, 2016) and this could be read
+as a partial support to the validity of the current research.
+
+Frontiers in Psychology | www.frontiersin.org
+
+8
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+Nevertheless, this pattern of eﬀects might be limited to preschool
+age, and further investigation with older children is needed. In
+future research, it would be of interest to explore the role of
+cognitive functioning and gender in greater depth, together with
+an index of quality of the type of care in early infancy.
+
+To our knowledge this is the ﬁrst study to have investigated
+together the role of early childcare, maternal education, parent’s
+country of origin and children’s receptive language in the
+development of social cognition. Type of care, in interaction with
+maternal education and children’s linguistic competence, aﬀected
+social cognition and early centre-based care seemed to play a
+protective role for those children with lower-educated mothers.
+The protective role of centre-based care was less clear when
+considering the eﬀect of parental country of birth and further
+research is needed.
+
+and the teachers. Each child gave her or his personal vocal consent
+to participate in the study assessment.
+
+AUTHOR CONTRIBUTIONS
+
+DB and PM substantially contributed to the conception of the
+work and to the acquisition, analysis, and interpretation of data of
+the current study. DB and PM wrote the manuscript and revised
+it critically, adding important intellectual content. DB and PM
+approved the ﬁnal version of the manuscript to be published. DB
+and PM agreed to be accountable for all aspects of the work in
+ensuring that questions related to the accuracy or integrity of any
+part of the work are appropriately investigated and resolved.
+
+FUNDING
+
+ETHICS STATEMENT
+
+The Comitato di Bioetica dell’Ateneo (the Committee) approved
+the current research run on human voluntary participants. The
+Committee approved: 1) the design of the research and the
+assessment tools; 2) the sample recruitment criteria; 3) the
+procedure for the collection of the informed consent form. The
+study involved preschool-aged children: their parents’ consent
+for participating in the study was collected. The children were
+observed at school, after an agreement with the school Director
+
+The research leading to these results has received funding
+from the European Union’s Seventh Framework Programme
+(FP7/2007-2013) under grant agreement no. 320116 for the
+research project FamiliesAndSocieties.
+
+ACKNOWLEDGMENT
+
+We are grateful to the kindergarten staﬀ for their support and to
+the parents and children who participated in the study.
+
+REFERENCES
+Albanese, O., and Molina, P. (2013). Second Edition). Lo Sviluppo Della
+Comprensione Delle Emozioni e la Sua Valutazione. La standardizzazione
+Italiana del Test di Comprensione delle Emozioni (TEC) [The Development of
+Emotion Understanding and its Evaluation. The Italian Standardization of the
+Test of Emotion Comprehension (TEC)]. Milano: Unicopli.
+
+Astington, J. W., and Jenkins, J. M. (1999). A longitudinal study of
+
+the
+relation between language and theory of mind development. Dev. Psychol. 35,
+1311–1320. doi: 10.1037/0012-1649.35.5.1311
+
+Belsky, J., Vandell, D. L., Burchinal, M., Clarke-Stewart, K. A., McCartney, K., and
+Owen, M. T. (2007). Are there long-term eﬀects of early child care? Child Dev.
+78, 681–701. doi: 10.1111/j.1467-8624.2007.01021.x
+
+Bornstein, M. H., Hahn, C. S., Suwalsky, J. T. D., and Haynes, O. M. (2003).
+“Socioeconomic status, parenting, and child development: the Hollingshead
+four-factor index of social status and the socioeconomic index of occupations,”
+in Socioeconomic Status, Parenting, and Child Development, eds M. H. Bornstein
+and R. H. Bradley (Mahwah, NJ: Erlbaum), 29–82.
+
+Broberg, A. G., Wessels, H., Lamb, M. E., and Hwang, C. P. (1997). Eﬀects of day
+care on the development of cognitive abilities in 8-year-olds: a longitudinal
+study. Dev. Psychol. 33, 62–69. doi: 10.1037/0012-1649.33.1.62
+
+Bulgarelli, D., and Molina, P. (2013). Teoria della Mente nei bambini con disturbo
+speciﬁco di Linguaggio: una questione di competenza o di performance?
+[Theory of mind in children with speciﬁc language impairment: a matter
+of competence or performance?]. G. Ital. Psicol. 40, 761–784. doi: 10.1421/
+76946
+
+Bulgarelli, D., and Molina, P. (2016). Early childcare, parental education and family
+origins: eﬀect on cognitive and linguistic outcomes in childhood. Rev. Cercetare
+Interventie Soc. 52, 5–25.
+
+Bulgarelli, D., Testa, S., and Molina, P.
+
+structure of
+components of
+J. Dev. Psychol. 33, 187–202. doi: 10.1111/bjdp.
+
+evaluting multiple
+
+(2015). Factorial
+
+test
+
+a
+
+“ToM Storybooks”:
+
+the
+theory of mind. Br.
+12062
+
+Carlson, S. M., and Moses, L. J. (2001). Individual diﬀerences in inhibitory control
+and children’s theory of mind. Child Dev. 72, 1032–1053. doi: 10.1111/1467-
+8624.00333
+
+Côté, S. M., Borge, A. I., Geoﬀroy, M. C., Rutter, M., and Tremblay, R. E. (2008).
+Nonmaternal care in infancy and emotional/behavioral diﬃculties at 4 years
+old: moderation by family risk characteristics. Dev. Psychol. 44, 155–168. doi:
+10.1037/0012-1649.44.1.155
+
+Craig, L. (2006). Does father care mean fathers share? A comparison of how
+mothers and fathers in intact families spend time with children. Gend. Soc. 20,
+259–281. doi: 10.1177/0891243205285212
+
+Cutting, A. L., and Dunn, J. (1999). Theory of mind, emotion understanding,
+language, and family background: individual diﬀerences and interrelations.
+Child Dev. 70, 853–865. doi: 10.1111/1467-8624.00061
+
+Das, S., and Babu, N. (2004). Children’s acquisition of a theory of mind: the role of
+
+presence vs absence of sibling. Psychol. Stud. 49, 36–44.
+
+De Feyter, J. J., and Winsler, A. (2009). The early developmental competencies and
+school readiness of low-income, immigrant children: inﬂuences of generation,
+race/ethnicity, and national origins. Early Child. Res. Q. 24, 411–431. doi:
+10.1016/j.ecresq.2009.07.004
+
+De Stasio, S., Fiorilli, C., and Di Chiacchio, C. (2014). Eﬀects of verbal ability
+and ﬂuid intelligence on children’s emotion understanding. Int. J. Psychol. 49,
+409–414. doi: 10.1002/ijop.12032
+
+de Villiers, G.
+
+J., and Pyers,
+
+J. E. (2002). Complements to cognition: a
+longitudinal study of the relationship between complex syntax and false-
+belief understanding. Cogn. Dev. 17, 1037–1060. doi: 10.1016/S0885-2014(02)
+00073-4
+
+Del Boca, D., Locatelli, M., and Vuri, D. (2005). Child-care choices by working
+mothers: the case of Italy. Rev. Econ. Househ. 3, 453–477. doi: 10.1007/s11150-
+005-4944-y
+
+Deleau, M. (2012). Language and theory of mind: why pragmatics matter. Eur. J.
+
+Dev. Psychol. 9, 295–312. doi: 10.1080/17405629.2012.680303
+
+Denham, S. A. (1998). Emotional Development in Young Children. New York, NY:
+
+Guilford Press.
+
+Frontiers in Psychology | www.frontiersin.org
+
+9
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+Dunn, L. M., and Dunn, L. M. (1981). P.P.V.T.-R: Peabody Peacture Vocabulary
+
+Test-Revised. Circle Pines, MN: American Guidence Service.
+
+Fenson, L., Dale, P. S., Reznick, J. S., Bates, E., Thal, D. J., and Hartung, J. P. (1994).
+Variability in early communicative development. Monogr. Soc. Res. Child Dev.
+59, 1–173. doi: 10.2307/1166093
+
+Fiske, S. T., and Taylor, S. E. (2013). Social Cognition: From Brains to Culture.
+
+London: Sage.
+
+Hansen, K., and Hawkes, D. (2009). Early childcare and child development. J. Soc.
+
+Policy 38, 211–239. doi: 10.1017/S004727940800281X
+
+Harris, P. L. (1989). Children and emotion. Oxford: Blackwell.
+Harris, P. L. (2005). “Conversation, pretence and theory of mind,” in Why Language
+Matters for Theory of Mind, eds J. W. Astington and J. Baird (Oxford: Oxford
+University Press), 70–83.
+
+Hughes, C., and Dunn, J. (1998). Understanding mind and emotion: longitudinal
+associations with mental-state talk between young friends. Dev. Psychol. 34,
+1026–1037. doi: 10.1037/0012-1649.34.5.1026
+
+Istat (2012a). L’oﬀerta Comunale di Asili Nido e altri Servizi Educativi per la Prima
+Infanzia. Anno Scolastico 2010/2011 [Municipal Supply of day care and other
+Services for Early Infancy. Academic year 2010/2011]. Available at: http://www.
+istat.it/it/archivio/65371
+
+Istat (2012b). Natalità e Fecondità della Popolazione Residente, Anno 2011 [Birth
+rate and Fertility of the Resident Population, year 2011]. Available at: http:
+//www.istat.it/it/archivio/74300
+
+Kahn, J. M., and Greenberg, J. P. (2010). Factors predicting early childhood
+education and care use by immigrant families. Soc. Sci. Res. 39, 642–651. doi:
+10.1016/j.ssresearch.2010.03.007
+
+Kårstad, S. B., Kvello, O., Wichstrøm, L., and Berg-Nielsen, T. S. (2014). What do
+parents know about their children’s comprehension of emotions? Accuracy of
+parental estimates in a community sample of pre-schoolers. Child Care Health
+Dev. 40, 346–353. doi: 10.1111/cch.12071
+
+Krapf, S. (2014). Who uses public childcare for 2-year-old children? Coherent
+family policies and usage patterns in Sweden, Finland and Western Germany.
+Int. J. Soc. Welf. 23, 25–40. doi: 10.1111/ijsw.12031
+
+Lecce, S., and Hughes, C. (2010). The Italian job? Comparing theory of mind
+performance in British and Italian children. Br. J. Dev. Psychol. 28, 747–766.
+doi: 10.1348/026151009X479006
+
+Loeb, S., Bridges, M., Bassok, D., Fuller, B., and Rumberger, R. W. (2007).
+How much is too much? The inﬂuence of preschool centers on children’s
+social and cognitive development. Econ. Educ. Rev. 26, 52–66. doi:
+10.1016/j.econedurev.2005.11.005
+
+Lohmann, H., and Tomasello, M. (2003). The role of language in the development
+of false belief understanding: a training study. Child Dev. 74, 1130–1144. doi:
+10.1111/1467-8624.00597
+
+Magnuson, K. A., Ruhm, C., and Waldfogel, J. (2007). Does prekindergarten
+improve school preparation and performance? Econ. Educ. Rev. 26, 33–51. doi:
+10.1016/j.econedurev.2005.09.008
+
+Matheny, A. P., Wilson, R. S., and Nuss, S. M. (1984). Toddler temperament:
+stability across settings and over ages. Child Dev. 55, 1200–1211. doi:
+10.2307/1129989
+
+McAlister, A., and Peterson, C.
+
+study of child
+siblings and theory of mind development. Cogn. Dev. 22, 258–270. doi:
+10.1016/j.cogdev.2006.10.009
+
+(2007). A longitudinal
+
+Meins, E., Centifanti, L. C. M., Fernyhough, C., and Fishburn, S. (2013). Maternal
+mind-mindedness and children’s behavioral diﬃculties: mitigating the impact
+of low socioeconomic status. J. Abnorm. Child Psychol. 41, 543–553. doi:
+10.1007/s10802-012-9699-3
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta, M., Fradley, E., and
+Tuckey, M. (2002). Maternal mind–mindedness and attachment security as
+predictors of theory of mind understanding. Child Dev. 73, 1715–1726. doi:
+10.1111/1467-8624.00501
+
+Miller, C. A. (2004). False belief and sentence complement performance in children
+with speciﬁc language impairment. Int. J. Lang. Commun. Disord. 39, 191–213.
+doi: 10.1080/13682820310001616994
+
+Miller, P., Votruba-Drzal, E., and Coley, R. L. (2013). Predictors of early care and
+education type among preschool-aged children in immigrant families: the role
+of region of origin and characteristics of the immigrant experience. Child. Youth
+Serv. Rev. 35, 1342–1355. doi: 10.1016/j.childyouth.2013.04.024
+
+Miller, P., Votruba-Drzal, E., Coley, R. L., and Koury, A. S. (2014). Immigrant
+families’ use of early childcare: predictors of care type. Early Child. Res. Q. 29,
+484–498. doi: 10.1016/j.ecresq.2014.05.011
+
+Milligan, K., Astington, J. W., and Dack, L. A. (2007). Language and theory of
+mind: meta-analysis of the relation between language ability and false-belief
+understanding. Child Dev. 78, 622–646. doi: 10.1111/j.1467-8624.2007.01018.x
+Mistry, R. S., Biesanz, J. C., Chien, N., Howes, C., and Benner, A. D. (2008).
+Socioeconomic status, parental investments, and the cognitive and behavioral
+outcomes of low-income children from immigrant and native households. Early
+Child. Res. Q. 23, 193–212. doi: 10.1016/j.ecresq.2008.01.002
+
+Mitchell, P. (1997). Introduction to Theory of Mind. Children, Autism and Apes.
+
+London: Arnold.
+
+Molina, P. (2016). L’utilizzo dell’osservazione al nido come strumento di riﬂessione
+sulle proprie pratiche di lavoro [the observation in day-care service as working
+tool to reﬂect on educational practice]. Ricerche Psicol. 40, 413–421. doi:
+10.3280/RIP2016-003010
+
+Molina, P., and Bulgarelli, D. (2012a). La standardizzazione italiana del test ToM
+Storybooks: dati preliminari [Italian standardization of the ToM Storybooks:
+preliminary data]. G. Ital. Psicol. 39, 863–879. doi: 10.1421/73146
+
+Molina, P., and Bulgarelli, D. (2012b). The contribution of parents in the evaluation
+of children’s early communication competence. Todays Child. Tomorrows
+Parents 32, 21–34.
+
+Molina, P., Bulgarelli, D., Henning, A., and Aschersleben, G.
+
+cross-cultural
+
+(2014).
+comparison between Italian
+J. Dev. Psychol. 11, 592–607. doi:
+
+Emotion understanding:
+and German preschoolers. Eur.
+10.1080/17405629.2014.890585
+
+a
+
+Molina, P., Marotta, M., and Bulgarelli, D. (2016). Observation-projet: a
+professional tool for caregivers. Two experiences in Italian day-care settings.
+Eur. Early Child. Educ. Res. J. 24, 86–102. doi: 10.1080/1350293X.2014.895559
+Monna, B., and Gauthier, A. H. (2008). A review of the literature on the social and
+economic determinants of parental time. J. Fam. Econ. Issues 29, 634–653. doi:
+10.1007/s10834-008-9121-z
+
+NICHD Early Child Care Research Network (1997a). Familial factors associated
+with the characteristics of nonmaternal care for infants. J. Marriage Fam. 59,
+389–408. doi: 10.2307/353478
+
+NICHD Early Child Care Research Network (1997b). The eﬀects of infant child
+care on infant-mother attachment security: results of the NICHD Study of Early
+Child Care. Child Dev. 68, 860–879. doi: 10.1111/j.1467-8624.1997.tb01967.x
+
+NICHD Early Child Care Research Network (2002). Early child care and children’s
+development prior to school entry: results from the NICHD study of early child
+care. Am. Educ. Res. J. 39, 133–164. doi: 10.3102/00028312039001133
+
+NICHD Early Child Care Research Network (2004). Type of child care and
+children’s development at 54 months. Early Child. Res. Q. 19, 203–230. doi:
+10.1016/j.ecresq.2004.04.002
+
+NICHD Early Child Care Research Network (2005). Early child care and children’s
+development in the primary grades: follow-up results from the NICHD study
+of early child care. Am. Educ. Res. J. 42, 537–570. doi: 10.2307/3700462
+
+NICHD Early Child Care Research Network (2006). Child-care eﬀect sizes for the
+NICHD study of early child care and youth development. Am. Psychol. 61,
+99–116. doi: 10.1037/0003-066X.61.2.99
+
+NICHD Human Learning Branch (1998). Relations between family predictors and
+child outcomes: are they weaker for children in child care? Dev. Psychol. 34,
+1119–1128. doi: 10.1037/0012-1649.34.5.1119
+
+OECD (2014). Education at a Glance 2014: OECD Indicators. Paris: OECD
+
+Publishing.
+
+Pears, K. C., and Fisher, P. A. (2005). Emotion understanding and theory of
+mind among maltreated children in foster care: evidence of deﬁcits. Dev.
+Psychopathol. 17, 47–65. doi: 10.1017/S0954579405050030
+
+Peisner-Feinberg, E. S., Burchinal, M. R., Cliﬀord, R. M., Culkin, M. L., Howes, C.,
+Kagan, S. L., et al. (2001). The relation of preschool child-care quality to
+children’s cognitive and social developmental trajectories through second grade.
+Child Dev. 72, 1534–1553. doi: 10.1111/1467-8624.00364
+
+Perner, J., Ruﬀman, T., and Leekam, S. R. (1994). Theory of mind is contagious:
+you catch it from your sibs. Child Dev. 65, 1228–1238. doi: 10.1111/j.1467-
+8624.1994.tb00814.x
+
+Pons, F., and Harris, P. L. (2000). Test of Emotion Comprehension (TEC). Oxford:
+
+Oxford University.
+
+Frontiers in Psychology | www.frontiersin.org
+
+10
+
+November 2016 | Volume 7 | Article 1762
+
+Bulgarelli and Molina
+
+Social Cognition in Preschoolers
+
+Pons, F., Lawson, J., Harris, P. L., and de Rosnay, M. (2003). Individual diﬀerences
+in children’s emotion understanding: eﬀects of age and language. Scand. J.
+Psychol. 44, 347–353. doi: 10.1111/1467-9450.00354
+
+Prime, H., Browne, D., Akbari, E., Wade, M., Madigan, S., and Jenkins, J. M. (2015).
+The development of a measure of maternal cognitive sensitivity appropriate for
+use in primary care health settings. J. Child Psychol. Psychiatry 56, 488–495. doi:
+10.1111/jcpp.12322
+
+Roid, G. H., and Miller, L. J. (2002). Leiter-R: Leiter International Performance
+
+Scale-Revised (M. Sabbadini & F. Galloni, Trad.). Firenze: Giunti OS.
+
+Saarni, C. (1999). The Development of Emotional Competence. New York, NY:
+
+Guilford Press.
+
+Sammons, P., Elliot, K., Sylva, K., Melhuish, E., Siraj-Blatchford, I., and
+Taggart, B. (2004). The impact of pre-school on young children’s cognitive
+attainments at entry to reception. Br. Educ. Res.
+J. 30, 691–712. doi:
+10.1080/0141192042000234656
+
+Sayer, L. C., Gauthier, A. H., and Furstenberg, F. F. (2004). Educational diﬀerences
+in parents’ time with children: cross-national variations. J. Marriage Fam. 66,
+1152–1169. doi: 10.1111/j.0022-2445.2004.00084.x
+
+Schneider, W., Schumann-Hengsteler, R., and Sodian, B. (2014). Young Children’s
+Cognitive Development:
+Interrelationships Among Executive Functioning,
+Working Memory, Verbal Ability, and Theory of Mind. New York, NY:
+Psychology Press.
+
+Scopesi, A., and Viterbori, P. (2008). Istituzioni Educative Prescolari e Sviluppo del
+Linguaggio [Preschool Educational Services and Language Development]. Roma:
+Carocci Editore.
+
+Shatz, M., Diesendruck, G., Martinez-Beck, I., and Akar, D. (2003). The inﬂuence of
+language and socioeconomic status on children’s understanding of false belief.
+Dev. Psychol. 39, 717–729. doi: 10.1037/0012-1649.39.4.717
+
+Stella, G., Pizzoli, C., and Tressoldi, P. E. (2000). P.P.V.T.-R.: Peabody Peacture
+
+Vocabulary Test-Revised. Torino: Omega.
+
+Sylva, K., Melhuish, E., Sammons, P., Siraj-Blatchford, I., and Taggart, B. (2004).
+The Eﬀective Provision of Pre-school Education (EPPE) Project: Findings
+from the Early Primary Years (SSU/SF/2004/02). Department for Education
+and Skills-SureStart. Available at: http://www.ioe.ac.uk/RB_Findings_from_early
+_primary(1).pdf
+
+Sylva, K., Stein, A., Leach, P., Barnes, J., and Malmberg, L. E. (2007). Family and
+child factors related to the use of non-maternal infant care: an english study.
+Early Child. Res. Q. 22, 118–136. doi: 10.1016/j.ecresq.2006.11.003
+
+Turney, K., and Kao, G. (2009). Pre-kindergarten child care and behavioral
+outcomes among children of immigrants. Early Child. Res. Q. 24, 432–444. doi:
+10.1016/j.ecresq.2009.07.007
+
+United Nations Educational Scientiﬁc and Culture Organization Glossary (2016).
+Available at: http://www.unesco.org/new/en/social-and-human-sciences/the
+mes/international-migration/glossary/migrant/
+
+Vandenbroeck, M., De Visscher, S., Van Nuﬀel, K., and Ferla, J. (2008). Mothers’
+search for infant child care: the dynamic relationship between availability and
+desirability in a continental European welfare state. Early Child. Res. Q. 23,
+245–258. doi: 10.1016/j.ecresq.2007.09.002
+
+Votruba-Drzal, E., Coley, R. L., and Lindsay Chase-Lansdale, P. (2004). Child care
+and low-income children’s development: direct and moderated eﬀects. Child
+Dev. 75, 296–312. doi: 10.1111/j.1467-8624.2004.00670.x
+
+Wade, M., Browne, D. T., Madigan, S., Plamondon, A., and Jenkins, J. M. (2014).
+Normal birth weight variation and children’s neuropsychological functioning:
+links between language, executive functioning, and theory of mind. J. Int.
+Neuropsychol. Soc. 20, 909–919. doi: 10.1017/S1355617714000745
+
+Wang, Y., and Su, Y. (2009). False belief understanding: children catch it
+from classmates of diﬀerent ages. Int. J. Behav. Dev. 33, 331–336. doi:
+10.1177/0165025409104525
+
+Wellman, H. M. (1990). The Child’s Theory of Mind. Cambridge, MA: MIT Press.
+Winsler, A., Burchinal, M. R., Tien, H. C., Peisner-Feinberg, E., Espinosa, L.,
+Castro, D. C., et al. (2014). Early development among dual language learners:
+the roles of language use at home, maternal immigration, country of origin,
+and socio-demographic variables. Early Child. Res. Q. 29, 750–764. doi:
+10.1016/j.ecresq.2014.02.008
+
+Zachrisson, H. D., Janson, H., and Nærde, A. (2013). Predicting early center care
+utilization in a context of universal access. Early Child. Res. Q. 28, 74–82. doi:
+10.1016/j.ecresq.2012.06.004
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+The reviewer AS and handling Editor declared their shared aﬃliation, and the
+handling Editor states that the process nevertheless met the standards of a fair and
+objective review.
+
+Copyright © 2016 Bulgarelli and Molina. This is an open-access article distributed
+under the terms of the Creative Commons Attribution License (CC BY). The use,
+distribution or reproduction in other forums is permitted, provided the original
+author(s) or licensor are credited and that the original publication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+
+Frontiers in Psychology | www.frontiersin.org
+
+11
+
+November 2016 | Volume 7 | Article 1762
+
+

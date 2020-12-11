@@ -1,0 +1,2234 @@
+Child Development, September/October 2003, Volume 74, Number 5, Pages 1561 – 1576
+
+Community Violence Exposure, Social Cognition, and Aggression Among
+
+Urban Elementary School Children
+
+Nancy G. Guerra, L. Rowell Huesmann, and Anja Spindler
+
+The effects of witnessing community violence on aggressive cognitions and behavior were investigated in an
+ethnically diverse sample of 4,458 children living in urban neighborhoods. Prior violence exposure had a
+significant effect in increasing aggression, normative beliefs about aggression, and aggressive fantasy. Although
+exposure to violence predicted aggressive behavior both in Grades 1 through 3 (ages 5 – 8) and Grades 4
+through 6 (ages 9 – 12), the effects on social cognition were only evident in the later grades. Furthermore, the
+effect of violence exposure on aggression in the later grades was partially mediated by its effect on social
+cognition. These findings suggest that witnessing community violence has an effect on children’s aggressive
+behavior through both imitation of violence and the development of associated cognitions as children get older.
+
+One of the most robust findings in the literature on
+the etiology of aggression is the statistical continuity
+of aggression from early childhood into adulthood
+(Huesmann, Eron, Lefkowitz, & Walder, 1984;
+Olweus, 1979). Several researchers have argued that
+one of the mediating factors in maintaining this
+continuity is the pattern of social cognition the child
+develops supporting aggression. In other words,
+aggressive behavior is seen as being increasingly
+controlled by internal self-regulating processes that
+become more stable over time (Huesmann & Guerra,
+1997). Huesmann (1988, 1998) has emphasized the
+importance of cognitive schemas used as models of
+the world, cognitive scripts stored in memory and
+used as guides for social behavior, and normative
+beliefs used to evaluate the appropriateness of
+scripts. The more aggressive child is presumed to
+have acquired cognitive schemas depicting the
+world as a more hostile place, to endorse normative
+beliefs that aggression is more acceptable, and to
+have encoded in memory more extensive, well-
+connected networks of social scripts emphasizing
+aggressive responses.
+
+Nancy G. Guerra, Department of Psychology, University of
+California, Riverside; L. Rowell Huesmann and Anja Spindler,
+Institute for Social Research, University of Michigan.
+
+Funding for this work has been provided by a grant from the
+National Institute of Mental Health to the first author and by the
+Centers for Disease Control to the second author. The authors
+wish to thank Matheos Yosef and Steve Raudenbush for advice
+and assistance in the data analyses and to thank Leonard Eron,
+David Henry, Patrick Tolan, RichardVan Acker, and the large staff
+of the Metropolitan Area Child Study for assistance in collecting
+the data.
+
+Correspondence concerning this article should be addressed to
+Nancy Guerra, Department of Psychology, University of Califor-
+nia, Riverside, CA 92521. Electronic mail may be sent
+to
+Nancy.Guerra@ucr.edu.
+
+These cognitions are learned over time as the
+child navigates a variety of social contexts. From a
+social learning perspective, an important component
+of this learning process is the extent to which a child
+observes the aggressive behavior of powerful role
+models (Bandura, 1973; Eron, 1987). Social-cognitive
+reformulations and other
+theories emphasizing
+social information processing further highlight the
+mediating role of cognition in understanding the
+link between observation of aggression and aggres-
+sive behavior (Bandura, 1986; Dodge, Bates, & Pettit,
+1990). Children observe what goes on around them;
+make inferences and attributions; and acquire
+scripts, schemas, and normative beliefs that serve
+as guides for future behavior.
+
+Of course, learned cognitions interact with emo-
+tional processes to influence aggressive behavior.
+Aversive stimulation in the form of provocations and
+frustrations is an important situational precursor of
+aggression, and contexts for growing up vary widely
+in such stimulation. Huesmann (1998) has argued
+that children who are repeatedly exposed to violence
+during childhood habituate to it and experience it as
+less aversive. This makes it easier for them to think
+about and plan aggression. Additionally, individual
+differences in emotional responsivity and emotion
+regulation may predispose some children to be more
+at risk than others. For instance, for children who are
+high in emotionality, arousing events such as
+violence exposure may make it more difficult for
+them to develop the regulatory mechanisms neces-
+sary to control their emotions (Eisenberg, Fabes,
+Nyman, Bernzweig, & Pinuelas, 1994). Without such
+emotional control,
+their risk for aggressive and
+
+r 2003 by the Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2003/7405-0020
+
+1562 Guerra, Huesmann, and Spindler
+
+antisocial behavior increases. Because of both these
+cognitive and emotional processes associated with
+exposure to violence, children who have had more
+opportunities to observe violence across a range of
+contexts should be at greater
+risk to develop
+aggressive habits of their own.
+
+reported a strong relation between violence expo-
+sure and externalizing symptoms 2 years later for
+children in Grades 6, 8, and 10. Other studies also
+have reported higher levels of violence exposure
+among dangerously violent adolescents (Flannery,
+Singer, & Wester, 2001).
+
+Over
+
+several
+
+the last decade,
+
+studies have
+attempted to document
+the extent of children’s
+exposure to community violence. These studies
+consistently have pointed to alarmingly high rates,
+particularly in high-crime inner-city and urban
+neighborhoods. For example, in a study of African
+American youth in Chicago, approximately 65% of
+school-age children reported having witnessed a
+serious assault and 33% had witnessed a homicide
+(Bell & Jenkins, 1991). In another study of youth
+living in New Haven, Connecticut, 40% of
+the
+children surveyed reported witnessing one or more
+violent crimes in the past year (Marans & Cohen,
+1993). Other studies using mother’s reports of
+children’s exposure have pointed to even higher
+rates of witnessing at least some type of violence in
+inner-city communities (Osofsky, Wewers, Hann, &
+Fick, 1993; Richters & Martinez, 1993). Such findings
+have resulted in comparisons of these high-violent
+communities with war zones and have resulted in
+repeated calls for an examination of the effects
+of exposure to chronic violence and danger on
+children’s development
+(Garbarino, Kostelny, &
+Dubrow, 1991; Lynch & Cicchetti, 1998).
+
+Indeed, there is also a growing body of research
+linking exposure to community violence with sub-
+sequent disruptions in children’s well-being. Several
+studies have found a relation between violence
+exposure and mental health problems. For example,
+in one study, more than 50% of children exposed to
+violence before age 10 developed later psychiatric
+problems (Martinez & Richters, 1993). Mental health
+problems associated with violence exposure typi-
+cally include increases in depression, anxiety, dis-
+sociation, and other
+trauma-related symptoms
+(Singer, Anglin, Song, & Lunghofer, 1995) as well
+as problems in emotion regulation (Pynoos, 1993). Of
+particular relevance to the current investigation are
+studies that examine the effects of community vio-
+lence exposure on aggressive and antisocial behavior.
+Several studies have found contemporaneous and
+longitudinal relations between witnessing commu-
+nity violence and aggressive and antisocial behavior
+in children and adolescents. For example, Singer
+et al. (1999) found that exposure to community
+violence predicted violent behavior among urban
+African American and White youth in Grades 3
+through 8. Similarly, Schwab-Stone et al.
+(1999)
+
+the correlates,
+
+Although these studies point
+
+to a relation
+between community violence exposure and emo-
+tional and behavior problems including aggression,
+four issues are worth mentioning. First, violence
+exposure typically has been defined broadly, includ-
+ing both observation of violence (i.e., witnessing
+violence) and direct experience (i.e., violent victimi-
+zation). Yet,
+consequences, and
+mechanisms of influence related to being a victim
+of violence may differ significantly from those
+related to witnessing violence. For example, in a
+recent study of fourth- through sixth-grade inner-
+city children, Schwartz and Proctor (2000) found
+different effects for violence exposure and violent
+victimization. Specifically, synchronous correlations
+were found between witnessing community violence
+and positive outcome and efficacy beliefs
+for
+aggression as well as the perception that aggression
+is an appropriate response to ambiguous peer
+provocation. These relations were not obtained
+when examining the effect of exposure to violence
+through direct victimization, which was linked
+instead to problems in emotion regulation and
+related social difficulties.
+
+Second, many of the studies linking violence
+exposure and aggressive and violent behavior either
+have focused on violence at home or have not
+distinguished it from violence in the neighborhood.
+Similarly, studies looking at the effect of violence
+exposure on social-cognitive processes typically
+have looked at the relation between family experi-
+ences such as harsh discipline on patterns of social
+information processing (Weiss, Dodge, Bates, &
+Pettit, 1992). Although there has been considerable
+empirical support for the relation between abuse
+and other forms of domestic violence on sub-
+sequent aggressive, delinquent, and violent behavior
+(Widom, 1989; Rivera & Widom, 1990), as well as the
+effects
+infor-
+mation processing (Dodge et al., 1990; Spacarelli,
+Coatsworth, & Bowden, 1995), caution should be
+exercised in extending these findings to the effects of
+community violence exposure.
+
+on children’s
+
+abuse
+
+of
+
+social
+
+Third, studies of the prevalence and effects of
+community violence exposure on children generally
+have focused either on a specific age group or on a
+broad range of ages and have not examined differ-
+ences as a function of the child’s developmental level.
+
+Indeed, the majority of studies of community violence
+exposure and aggression have been limited to middle
+school and high school youth, with studies of younger
+children more commonly examining the combined
+impact of living in violent communities and violent
+homes (Osofsky, 1995). Yet, our theoretical model
+linking aggressive behavior with aggressive scripts
+and normative beliefs that are learned, in part, via
+exposure to aggressive models, suggests that
+the
+influence of contextual factors such as living in a
+violent setting should be most pronounced during the
+elementary school years when these characteristic
+patterns of cognition are developing.
+
+In previous study examining the reciprocal rela-
+tions between normative beliefs about aggression
+and aggressive behavior during the early and late
+elementary school years, Huesmann and Guerra
+(1997)
+found that aggressive behavior predicted
+aggressive beliefs during the early elementary
+school years, and aggressive beliefs predicted
+behavior during the later elementary school years.
+In other words, children’s cognitions about
+the
+legitimacy of aggression emerged from observations
+of their own aggressive behavior in the early grades,
+with these beliefs serving as guides for behavior
+during the later elementary grades. Given that social
+cognitions become more stable during the later
+elementary years,
+it may be that observation of
+events (including one’s own social interactions as
+well as other events across different contexts) relates
+to the development of social-cognitive structures
+during early childhood but that these social-cogni-
+tive structures, once formed, are less sensitive to new
+information from the environment.
+
+Fourth, although studies have documented a
+relation between violence exposure and aggression,
+very little attention has focused on simultaneously
+examining mechanisms that may help explain this
+relation. Clearly, social-cognitive influences on ag-
+gression have been studied extensively. However,
+little research has examined specifically the extent to
+which community violence exposure affects aggres-
+sive behavior via its impact on social cognition.
+Several researchers have suggested this causal chain;
+for
+instance, Ng-Mak, Salzinger, Feldman, and
+Stueve (2002) posit a normalization of violence
+theoretical model wherein normalizing cognitions
+about violence serve as mediators between violence
+exposure and its behavioral consequences.
+
+In the current study, we examined the develop-
+ment and continuity of community violence expo-
+sure, aggressive cognitions, and aggressive behavior
+as well as the concurrent and longitudinal relations
+among these variables in a multiethnic sample of
+
+Violence Exposure, Cognition, and Aggression
+
+1563
+
+elementary school children living in high-violence,
+urban communities. In particular, we were inter-
+ested in determining the role of exposure to
+community violence on children’s aggressive cogni-
+tions and in examining the mediating role of social
+cognitions in explaining the hypothesized link
+between violence exposure and aggression. We were
+also interested in examining whether these relations
+were different across age and gender.
+
+We focused on two components of social cogni-
+tion that have been theoretically linked to the
+development of aggressive behavior and that should
+be influenced by observation of violent events:
+fantasizing about aggressive scripts and normative
+beliefs about aggression. These cognitions normalize
+violence and, hence, help children adapt to the stress
+and trauma of witnessing violent events. However,
+they should also make it more likely that chil-
+dren will subsequently behave more aggressively
+(Huesmann, 1998; Huesmann & Guerra, 1997). For
+instance, children who engage in aggressive fanta-
+sies that involve cognitive rehearsal of aggressive
+actions will be more likely to retrieve these scripts
+subsequently. Believing that aggression is more
+normative will make it more likely that they will
+use a retrieved aggressive script. Similarly, viewing
+violence as normative may desensitize children to its
+true
+streetwise
+mentality that has been described by some as
+‘‘pathologic adaptation’’ (e.g., Schwab-Stone et al.,
+1995).
+
+resulting in a
+
+consequences,
+
+Based on our theoretical model and the rationale
+
+presented previously, we addressed five issues:
+
+1. Does exposure to community violence, aggressive
+cognitions, and aggressive behavior increase or
+decrease on average during the elementary school
+years? In the context in which these urban
+children are growing up, we expected most
+children’s aggressive cognitions and aggres-
+sion to increase on average. However, exposure
+to community violence involves the interplay
+of actual violence in the community with
+opportunities to observe this violence that
+may be related to practical considerations
+(e.g., whether parents allow children to play
+outside); therefore, its trajectory is harder to
+predict.
+
+2. Is there significant continuity in exposure to
+violence, aggressive cognitions, and aggressive
+behavior during the elementary school years, and
+if so, is this continuity more evident during the later
+elementary years? We expected to find substan-
+tial continuity of aggressive behavior and
+
+1564 Guerra, Huesmann, and Spindler
+
+aggressive cognitions in childhood, particu-
+larly in the later years as prior studies have
+shown. However, whether there is a continuity
+of exposure to violence in these children is
+harder to predict.
+
+3. Does
+
+exposure
+
+to community violence predict
+subsequent aggressive behavior and subsequent
+aggressive cognitions? Do these relations vary with
+age? Is there any evidence that aggressive cogni-
+tions or aggressive behavior also stimulate signifi-
+cantly more exposure to community violence? We
+expected that children who view violent
+exchanges more regularly in the community
+should subsequently be more likely to fanta-
+size about them, view them as normative and
+acceptable, and mimic them in their behaviors.
+In terms of age differences, previous studies of
+observation of one’s own aggressive behavior
+suggest that the effects of violence exposure on
+cognition should be stronger during the early
+years while patterns of thought are developing
+(e.g., Huesmann & Guerra, 1997). However, it
+may be that observation of community vio-
+lence and related cognitive shifts occur later
+in childhood when children are develop-
+ing adaptive coping strategies (e.g., Dempsey,
+2002). Thus, it is hard to predict specific age
+differences. Finally, we expected that aggres-
+sive behaviors and cognitions might have a
+reciprocal influence on increasing a child’s risk
+for exposure to community violence. More
+aggressive children who are more accepting
+of violence should be more willing to place
+themselves in situations where they might
+observe violence.
+
+4. Do social cognitions mediate the relation between
+community violence
+exposure and subsequent
+aggression? Are these mediational influences strong-
+er for older children than for younger children? We
+predicted that exposure to community violence
+would result
+in cognitions that normalize
+aggression, which would then prompt children
+to behave more aggressively. In terms of age
+differences, we expected that mediation would
+be stronger for older children, given the greater
+stability of cognitions during the later years
+and their increased role in stimulating subse-
+quent behavior.
+
+5. Does exposure to community violence have differ-
+ential effects on males and females? Studies that
+have looked at relations between exposure to
+community violence and aggression among
+elementary school children have not found any
+consistent pattern in gender differences (Attar,
+
+Guerra, & Tolan, 1994; Schwartz & Proctor,
+2000). Although boys generally are more
+aggressive than girls, particularly in relation
+to physical aggression, and are more likely to
+view aggression as normative and acceptable,
+this does not mean that the impact of witnes-
+sing violence in terms of modeling or asso-
+ciated cognitions will necessarily be different
+between boys and girls. Thus, we did not
+expect to find gender differences in any of the
+hypothesized relations.
+
+Method
+
+The data for the analyses came from the Metropolitan
+Area Child Study, a 6-year longitudinal study of
+multiple cohorts of children as they moved from the
+first
+to sixth grades in 21 Chicago area schools
+(Metropolitan Area Child Research Group, 2002).
+About 75% of the children in the study received an
+intervention intended to reduce their aggression at
+one or two times during the 6 years. However,
+independently of the intervention, data were collected
+on many other measures repeatedly at 1-year intervals
+during the study, yielding from one to six waves
+of longitudinal data on each child. It is these data
+that were used to address the major aims of this
+study.
+
+Participants
+
+The Metropolitan Area Child Study sample,
+which was used in our analyses, consists of 4,458
+children who were in the first to sixth grades in 21
+schools in the Chicago metropolitan area between
+1991 and 1997. The sample falls into eight birth
+cohorts ranging from 1981 to 1988. The sampling
+unit was the school and the project selected schools
+that volunteered from neighborhoods with high
+levels of social distress and economic disadvantage
+in the Chicago metropolitan area. For a detailed
+description of school recruitment procedures, see
+Guerra, Huesmann, Tolan, Van Acker, and Eron
+(1995).
+
+Once the schools were selected, parental permis-
+sion was solicited in the initial year of the study for
+every child in the first through fourth grades and in
+subsequent years for every child entering the first
+grade in the selected schools. By the end of the data
+collection in 1997, parental permission for participa-
+tion had been received for 4,471 children, about 85%
+of the eligible children. About 40% of the sample was
+African American, 40% was Hispanic, and about 20%
+was non-Hispanic White. The sample consisted of
+
+2,247 males and 2,211 females, with 13 participants
+of unidentified gender being dropped,
+resulting
+in a total of 4,458 participants. The sample was
+predominately lower socioeconomic status with more
+than two thirds of
+the children qualifying for
+free lunch programs. The unemployment rate in
+the selected Chicago neighborhoods was 29.4%
+according to the 1990 census, and in the Aurora
+neighborhoods it was 19.7%. The respective per capita
+crime rates were 219 per 100,000 in the Chicago
+neighborhoods and 113 per 100,000 in the Aurora
+neighborhoods.
+
+Attrition over 6 years of the study occurred at
+both the school and individual levels. A total of 16
+schools started the study. Of
+these schools, 5
+dropped out at some point because of changes in
+administrative interest or teacher support and 5
+schools were added to replace them, resulting in our
+total of 21 schools. However, data collected from a
+school before that school withdrew from the study
+could be included in many of our growth curve
+analyses as described later. Individual participant
+attrition within schools also occurred because of the
+high mobility of the population. Because the school
+their
+was the sampling unit, students who left
+original
+future
+assessments. Additionally, during some years not
+all measures could be given to all participants
+because of school and teacher restrictions on time
+or interviewing difficulties. Together, these factors
+created a complicated pattern of available data for
+each cohort, which is illustrated in Table 1. It is
+difficult to summarize the attrition represented in
+this table with a single number, but, as an example,
+the average 3-year attrition in assessment of aggres-
+
+schools were not
+
+followed for
+
+Violence Exposure, Cognition, and Aggression
+
+1565
+
+sion within a cohort from Grades 1 to 3 was about
+27% and from Grades 4 to 6 was about 32%.
+
+These attrition figures are not unusual for studies
+in high-risk neighborhoods, but they place some
+limit on the generalizations that can be drawn from
+the data. A comparison of the retained participants
+and those who dropped out revealed that
+the
+dropouts had been slightly higher on initial aggres-
+siveness,
+dropouts,
+t(1118) 5 4.14, po.001, and SD 5 .11 higher
+for
+t(1378) 5 2.18, po.05. This
+sixth-grade dropouts,
+finding is also typical for longitudinal studies of
+aggression. A possible consequence of such attrition
+is that the magnitude of relations with aggression
+may be underestimated because of a restriction in
+range of the aggression scores at the high end.
+
+third-grade
+
+SD 5 .19
+
+for
+
+The amount of missing data created by the
+attrition and the multiple cohort design presents
+problems for many analyses techniques. However,
+by using recent growth-curve-modeling techniques
+that are robust for missing data, we can surmount
+these difficulties and estimate effects over all six
+waves. For subsets of grades (e.g., Grades 1 – 3 or
+4 – 6), the pattern of missing data presents less of
+a problem, and structural modeling can also be used.
+
+Measures
+
+Although a large number of child measures were
+obtained during this project, only three measured
+constructs are relevant
+study:
+children’s aggressive behavior, children’s exposure
+to neighborhood violence, and children’s social
+cognitions. The composition of these measures is
+summarized in Table 2.
+
+the current
+
+for
+
+Table 1
+Design of the Longitudinal Study: Sample Sizes by Cohort and Grade for 4,458 Children in 21 Chicago Area Schools
+
+Sample sizes for measures AG, NV, and SC in each grade
+
+1st grade
+
+2nd grade
+
+3rd grade
+
+4th grade
+
+5th grade
+
+6th grade
+
+Birth cohort AG NV SC
+
+AG NV
+
+SC
+
+AG NV
+
+SC
+
+AG NV
+
+SC AG NV
+
+SC
+
+AG NV
+
+SC
+
+412
+311
+337
+590
+706 225
+
+400
+281
+283
+
+612
+
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+Total
+
+101
+478
+668
+
+184
+211
+239
+457
+419
+2,356 225 1,576 1,247 1,976 2,530 2,696 1,850 2,039 1,757 1,115 1,507 614 1,513 1,733 1,631 1,548 1,510
+
+380
+525 105
+602 509
+
+176
+220
+247
+545
+325
+
+177
+221
+246
+546
+543
+
+203
+232
+253
+497
+446
+
+191
+216
+240
+453
+448
+
+408
+499
+208
+
+407
+638
+712
+
+393
+275
+301
+523
+266
+218
+
+394
+270
+297
+528
+500
+541
+
+346
+224
+267
+462
+398
+478
+521
+
+278
+216
+240
+409
+407
+300
+
+323
+211
+223
+400
+382
+500
+
+1566 Guerra, Huesmann, and Spindler
+
+Table 2
+Measures
+
+Teacher’s report aggression
+
+(Achenbach, 1978)
+
+Peer-nominated aggression
+
+(Eron, Walder, & Lefkowitz, 1972)
+
+Composite aggression
+
+Exposure to neighborhood violence
+
+(Attar, Guerra, & Tolan, 1994)
+
+Aggressive fantasy
+
+(Rosenfeld, Huesmann Eron, &
+Torney-Purta, 1982)
+
+Normative beliefs Approving
+
+Aggression
+(Huesmann & Guerra, 1997)
+
+Sum of 25 items on the aggression scale of Achenbach’s Child Behavior Checklist
+
+(CBC; range 5 0-50).
+
+Proportion of times nominated by classroom peers on 10 questions of the form:
+Who starts a fight over nothing?
+Who tells stories and lies to get other children in trouble?
+Who pushes or shoves children?
+Who says mean things?
+Average of standardized scores of teacher’s CBC aggression and peer-nominated
+
+aggression
+
+Average of four self-report items (yes 5 1; no 5 0) of the form ‘‘During the last yeary’’
+1. Have you seen anyone beaten shot or really hurt by someone?
+2. Have you seen or been around people shooting guns?
+3. Have you been afraid to go outside and play, or have your parents make you stay
+
+inside because of gangs or drugs in your neighborhood?
+
+4. Have you had to hide someplace because of shootings in your neighborhood?
+Average of 6 self-report items (no 5 1; a lot 5 3) of the form:
+Do you sometimes have daydreams about hitting or hurting someone you don’t like?
+Do you play games where you pretend to fight with someone?
+Average of 20 self-report items (perfectly OK 5 4; really wrong 5 1).
+
+12 are of the form:
+
+Suppose a boy says something bad to another boy JohnFdo you think it’s OK for
+
+John to hit him?
+8 are of the form:
+In general, it is wrong to hit other people.
+
+Children’s aggressive behavior was assessed from
+two sources: peers and teachers. Classmates’ nomi-
+nations were used to assess aggression through the
+Peer Nomination Inventory (Eron, Walder, & Lefko-
+witz, 1972). Children were asked to nominate their
+classmates who engage in 10 different physical,
+verbal, and indirect aggressive behaviors. The scores
+represent the ratio of times a child is nominated out
+of times the child could have been nominated. The
+scale’s reliability (.95 to .97) and validity have been
+demonstrated in numerous studies (e.g., Guerra et al.,
+1995; Huesmann et al., 1984). For classrooms in
+which peer nominations could not be collected
+(23.2% of all assessments), we used the Teachers
+Predictions of Peer-Nominations Scale, which has
+been shown to provide unbiased, highly reliable
+(coefficient alpha 5 .97), and valid estimates of the
+actual peer nominations (Huesmann, Guerra, Eron,
+& Crawshaw, 1994). For the second assessment of
+aggressive behavior for all children we used the
+Teacher Report Form (TRF) of the Child Behavior
+Checklist (Achenbach, 1978, 1991). The aggression
+scale of the form consists of 25 behaviors that the
+teacher rates on a 3-point scale. The scale and
+measure are well validated and reliable. Coefficient
+alpha for the TRF aggression scale is .96.
+
+We combined these two scales to form a compo-
+site aggression score by first standardizing each
+
+standardized aggression score
+
+measure across all scores across all years and then
+taking the average of the standardized scores. Thus,
+the
+represents
+a deviation score from the grand mean aggression
+children in
+score for all observations on all
+all grades. This centering of
+the scale allows
+for more meaningful growth curve analysis with-
+out changing any of
+the correlations between
+variables.
+In the intervention analyses reported
+earlier (Metropolitan Area Child Study Research
+Group, 2002), we used a different composite aggres-
+sion score that corrected for the two differing
+distributions of component scores to form a more
+reliable composite. However, that score could not be
+computed if either component score was missing.
+The current composite can be computed from just
+one component, resulting in a higher sample size for
+analysis.
+
+Two social cognition measures were obtained
+through children’s interviews. Aggressive fantasies
+were assessed with the aggressive fantasies subscale
+of
+the Children’s Fantasy Inventory (Rosenfeld,
+Huesmann, Eron, & Torney-Purta, 1982). This is a
+self-report measure developed for assessing the
+nature and frequency of
+fantasy production in
+school-aged children. It was designed to measure
+cognitive rehearsal of different action sequences or
+scripts (e.g., prosocial, aggressive). The aggressive
+
+subscale in particular is intended to assess how often
+children rehearse aggressive scripts, making them
+more readily accessible and likely to be used in
+social problem solving (Huesmann, 1988, 1998). The
+aggressive fantasy scale consists of six items such as
+‘‘Do you sometimes have daydreams about hitting
+or hurting somebody that you don’t like?’’ Children
+responded to these items on a 3-point scale (no, a
+little, or a lot), and responses were averaged over the
+six items. Cronbach’s alpha for this measure was .66.
+Normative beliefs about aggression were measured
+using the Normative Beliefs about Aggression Scale
+(Huesmann & Guerra, 1997; Huesmann, Guerra,
+Miller, & Zelli, 1992). This is a reliable and well-
+validated self-report measure that assesses children’s
+perception of how acceptable it is to behave aggres-
+sively both under varying conditions of provocation
+and when no conditions are specified. Children
+endorse 20 items (e.g., ‘‘If you’re angry, it is OK to
+say mean things to other people’’) by means of a 4-
+point scale (e.g., perfectly OK, sort of OK, sort of
+wrong, or really wrong). The total score is the average
+of all items. Cronbach’s alpha for this scale is .87.
+
+Children’s exposure to neighborhood violence
+was measured with a subscale of the stressful events
+scale developed by Attar et al. (1994). This is a four-
+or five-item scale (depending on the year) assessing
+the extent to which children have been exposed to
+violence in the community setting. The questions ask
+the children whether ‘‘during the last year’’ they
+have had to hide someplace because of shootings in
+the neighborhood, have had to stay inside because of
+gangs or drugs in the neighborhood; have seen
+people shooting guns; have seen anyone beaten,
+shot, or really hurt by someone; or have had
+someone they know been beaten, attacked, or really
+hurt by others. Each question is scored either 0 (no)
+or 1 (yes), and a child’s exposure to neighborhood
+violence score is the average of these scores. The
+internal consistency of the subscale is .61. Other
+studies of children’s violence exposure have used
+this type of brief, yes – no format and have reported
+similar internal consistencies (e.g., Schwab-Stone et
+al., 1995). In previous research, Attar et al. (1994)
+found that children’s scores on this scale were
+related to actual
+levels of serious community
+violence as measured by official crime data, indicat-
+ing that
+the scale is also a valid measure of
+community violence exposure.
+
+Procedure
+
+Violence Exposure, Cognition, and Aggression
+
+1567
+
+1. The intention was to assess each child every
+spring from the first through sixth grades, but the
+oldest cohorts were only assessed from the fourth to
+sixth grades and the youngest cohorts from the first
+through third grades.
+
+Most assessments occurred in the spring of the year
+when the children were completing the designated
+grade; however, a few occurred in the subsequent fall
+when the children were actually just starting the next
+these are clustered with the
+grade. Nevertheless,
+previous grade’s data. Thus,
+the data-collection
+periods span up to 6 months and are separated from
+the next data-collection period by at least 6 months
+and not more than 18 months. All assessments of the
+children were done in school and were done as
+individual oral self-report assessments for children in
+the first grade but as classroom paper-and-pencil
+assessments for children in the older grades. All
+interviewers were trained graduate students, and for
+the classroom assessments, at least three interviewers
+were present with two roaming the classroom to help
+individual children with their answers. If children
+were absent on the assessment day, a make-up
+individual or small-group assessment was scheduled.
+For bilingual or monolingual Spanish-speaking class-
+rooms, all measures were translated into Spanish
+using back-translation methods. Spanish-speaking
+interviewers administered the measures to these
+classrooms and children. No difficulties in under-
+standing the assessments were noted.
+
+Results
+
+Growth in Aggression, Cognitions Supporting
+Aggression, and Exposure to Violence
+
+The mean scores for each of the variables across
+grades are shown in Table 3. However, these scores
+can be misleading for estimating growth because of
+the changing sample composition and missing data
+as illustrated in Table 1. In addition, the clustering of
+participants within schools introduces dependencies
+that violate the usual assumption of independence of
+observations. The accepted modern technique for
+dealing with such data is to estimate developmental
+growth across years using a hierarchical
+linear
+growth curve model (HLM) with time as the first
+level, child as the second level, and school as the
+third level (Bryk & Raudenbush, 1987; Raudenbush
+& Chan, 1992; Rogosa, Brandt, & Zimowski, 1982).
+These initial models included only grade as a
+predictor variable with random error contributed
+by school and child within school.
+
+Each cohort of children was assessed on the three
+constructs according to the schedule shown in Table
+
+The resulting calculated growth curve for expo-
+sure to neighborhood violence showed that self-
+
+1568 Guerra, Huesmann, and Spindler
+
+Table 3
+Mean Scores by Grade
+
+Composite aggression
+
+Exposure to violence
+
+Aggressive fantasy
+
+Approving aggression
+
+(range 5 z)
+
+(range 5 0 – 1)
+
+(range 5 1 – 3)
+
+(range 5 1 – 4)
+
+Grade
+
+1st grade
+2nd grade
+3rd grade
+4th grade
+5th grade
+6th grade
+
+M
+  .13
+.03
+.04
+.05
+.16
+.10
+
+N
+
+2,356
+1,386
+2,696
+1,857
+703
+1,631
+
+SD
+
+0.79
+0.98
+0.94
+0.99
+1.13
+0.99
+
+M
+
+.43
+.33
+.31
+.30
+.27
+.28
+
+N
+
+230
+1,976
+1,850
+1,197
+1,514
+1,548
+
+SD
+
+.27
+.26
+.25
+.26
+.24
+.24
+
+M
+
+1.69
+1.70
+1.78
+1.98
+1.93
+1.93
+
+N
+
+2,104
+2,533
+2,077
+1,509
+1,736
+1,509
+
+SD
+
+.46
+.50
+.50
+.47
+.46
+.45
+
+M
+
+1.58
+1.67
+1.69
+1.91
+1.91
+1.99
+
+N
+
+1,576
+2,530
+2,079
+1,509
+1,734
+1,510
+
+SD
+
+.50
+.57
+.58
+.56
+.57
+.58
+
+reported exposure decreased significantly with
+grade, B(30) 5   .02, HLM t(20) 5 6.42, po.001, effect
+size 5 0.10 SD, with significant random variation also
+due to school, HLM w2(2746) 5 3029, po.001, and
+individual within school, HLM w2(20) 5 38.6, po.01.
+To test whether the grade effect was most likely due to
+an age effect or a time effect, we retested the model with
+birth cohort added as a predictor for each child. The
+slope of the growth curve for exposure by grade did not
+differ significantly by birth cohort, suggesting that the
+decrease in self-reported exposure cannot be explained
+by changing neighborhood environments during the
+study period. When gender was added to this growth
+model, we found that females reported more exposure
+t(20) 5 2.63, po.05, but also
+to violence initially,
+experienced more of a reduction in exposure with age
+than did males, t(20) 5 2.60, po.05. As we discuss later,
+this pattern of reduction in self-reported exposure may
+represent both a reduction in real exposure (e.g.,
+females avoiding more violent contexts) and habitua-
+tion to the perceptual salience of the violence.
+
+Although self-reported exposure to neighborhood
+violence diminished as the child got older, compar-
+able growth curve analyses showed that children’s
+aggressive behavior and their
+social cognitions
+supporting aggression increased significantly with
+age. In standard deviation units, aggression increased
+about .04 SD per grade and the normative beliefs
+supporting aggression and aggressive fantasy both
+increased about .11 SD per grade. Males initially
+scored much higher than females on aggression,
+t(20) 5 8.61, po.001, but their rate of growth was no
+different from females, t(20) 5 .37, ns. Males also
+initially scored significantly higher on normative
+t(20) 5 3.11, po.01,
+beliefs supporting aggression,
+and on aggressive fantasizing, t(20) 5 6.24, po.001,
+but on these social cognitions the patterns of growth
+did vary between genders. Females displayed a
+significantly greater increase in aggressive fantasizing
+
+with time, t(20) 5 2.77, po.01, although their sample
+growth parameter for beliefs approving of aggression
+did not differ significantly from males. Again, we
+tested for cohort effects and found that the slope of
+the growth curves for aggression and the two social
+cognitions were not affected by cohort. However, the
+intercepts for the two social cognition variables
+decreased significantly for the more recent birth
+cohorts: normative beliefs, t(20) 5 5.24, po.001, and
+aggressive fantasy, t(20) 5 2.44, po.05. The judicious
+conclusion is that although there may have been
+trends during this period toward an overall reduction
+in social cognitions supporting aggression by succes-
+sive cohorts, the average individual in all cohorts
+increased in aggression and social cognitions support-
+ing aggression during the elementary school years.
+
+Taken together, these growth curve results suggest
+that aggressive cognitions and aggressive behavior
+increase as a child grows older despite decreasing
+scores on exposure to neighborhood violence with age.
+These changes occurred in the early to mid 1990s, at the
+same time as overall scores on social cognitions
+supporting aggression and on exposure to neighbor-
+hood violence seemed to be decreasing slightly
+regardless of age.
+
+Continuity and Intercorrelations of Measures
+
+longitudinal
+
+Within-variable
+
+correlations were
+computed for 1- to 4-year lags between Grades 1
+and 6. As is typical, aggressive behavior showed high
+continuity across these grade ranges, with 1-year
+correlations averaging .63, and with a .56 correlation
+for a 4-year lag. The other variables all displayed
+substantial year-to-year continuity ranging from .31
+to .51, but the 4-year correlations, although significant,
+were not high, ranging from .14 to .17. In general, the
+year-to-year correlations for the social cognitions were
+higher in the later grades than in the earlier grades.
+
+Violence Exposure, Cognition, and Aggression
+
+1569
+
+Table 4
+Intercorrelations of Aggression, Exposure to Violence, and Social Cognitions About Aggression in Second Grade (Above Diagonal) and Sixth Grade
+(Below Diagonal)
+
+Aggressive behavior Exposure to violence Aggressive fantasy Normative beliefs approving aggression
+
+Correlations
+
+Aggressive behavior
+
+Exposure to violence
+
+
+
+.18
+
+Aggressive fantasy
+
+.16
+
+(N 5 1,485)
+
+
+
+Normative beliefs aggression
+
+.26
+
+(N 5 1,493)
+
+
+
+
+po.05.
+
+
+
+po.01.
+
+
+
+po.001.
+
+(N 5 1,495)
+
+
+
+.18
+
+(N 5 679)
+
+
+
+.27
+
+(N 5 1,466)
+
+
+.18
+
+(N 5 1,467)
+
+
+
+.14
+
+
+
+.16
+
+(N 5 1,175)
+
+
+
+.16
+
+(N 5 1176)
+
+
+
+.10
+
+(N 5 1,930)
+
+
+
+.24
+
+(N 5 1,508)
+
+(N 5 1,924)
+
+
+
+.30
+
+(N 5 2,517)
+
+As Table 4 shows, in both the early grades (e.g.,
+Grade 2 because data on exposure to violence was
+limited in Grade 1) and the later grades (e.g., Grade
+6), aggressive behavior, exposure to violence, nor-
+mative beliefs, and aggressive fantasy all intercorre-
+lated significantly though modestly. Generally, these
+correlations indicate that at any point the more
+aggressive child is one who is reporting more
+exposure to violence, more aggressive fantasizing,
+and normative beliefs that are more approving of
+aggression. The correlations of the social cognitions
+with exposure to violence are higher in the sixth
+grade: .18 and .27 compared with .10 and .16 in the
+early grades. Again,
+this is consistent with our
+developmental hypothesis that social cognitions
+crystallize in middle childhood. At the same time,
+the modest magnitude of the correlations suggests
+there is substantial
+individual variation on these
+measures that
+is not be related to exposure to
+violence. One possibility could be that some of the
+variance is due to the various interventions that
+about 75% of the sample was exposed to during this
+study. However, a comparison of these correlations
+in Table 4 within the 25% control (i.e., no interven-
+tion) subsample and within the rest of the sample
+showed no significant differences, making it unlikely
+that such interventions changed the relations much.
+
+Lagged Effects of Exposure to Violence on Social
+Cognitions and Aggression
+
+To examine the lagged effects of exposure to
+violence on aggression and social cognition as well
+as any reciprocal lagged effects of aggression and
+social cognitions on exposure to violence, we
+conducted an expanded series of HLM growth curve
+analysis with lagged effects added to the models.
+
+Again, because of the pattern of missing observa-
+tions shown in Table 1, HLM growth curve analysis
+is the optimal robust technique for analyzing the
+data from all cohorts and all grades simultaneously
+(Raudenbush & Chan, 1992). Thus, we introduced
+time-lagged effects at Level 1, introduced gender as
+a child variable at Level 2, and introduced school at
+Level 3 in these models to test for gender differences
+in the relations. For example, the growth model
+relating aggression to prior violence exposure was:
+AggðtÞ ¼ P0 þ P1GradeðtÞ þ P2Aggðt   1Þ
+
+þ P3ViolExposðt   1Þ þ error
+
+Pi ¼ Bi0 þ Bi1Gender þ error between children
+Bij ¼ Gij0 þ error between schools:
+The reciprocal model relating violence exposure to
+prior aggression was:
+ViolExposðtÞ ¼ P0 þ P1GradeðtÞ
+
+þ P2 ViolExposðt   1Þ þ P3Aggðt   1Þ
+þ error
+
+Pi ¼ Bi0 þ Bi1  Gender þ error between children
+Bij ¼ Gij0 þ error between schools:
+The models relating violence exposure to normative
+beliefs and aggressive fantasy to violence exposure
+were parallel to this one. The resulting calculated
+growth curves for the three cases are shown in
+Figures 1 through 3. The estimated slope parameters
+of
+these growth curves in Figures 1 through 3
+represent the best estimates of the average effects
+over all 5 years of the predictor variables in 1 year on
+the criterion variables in the next year, that is, effect
+for a 1-year lag.
+
+As with the general growth curves, on most of these
+lagged curves the intercepts varied with gender but the
+slopes did not. Males score higher on the intercept of
+
+1570 Guerra, Huesmann, and Spindler
+
+Figure 1. The average one-year lagged relation between exposure
+to neighborhood violence and aggressive behavior for Grades 1 to
+6 computed from a three-level (time within person within school)
+hierarchical linear growth model. Comp Agg 5 composite aggres-
+sion; Exp Viol 5 exposure to violence; Weigh Viol 5 neighborhood
+violence.
+
+Figure 2. The average one-year lagged relation between exposure
+to neighborhood violence and normative beliefs approving of
+aggression for Grades 1 to 6 computed from a three-level (time
+within person within school) hierarchical linear growth model.
+Norm Beliefs 5 normative beliefs; Expos Viol 5 exposure to
+violence.
+
+aggressive
+
+fantasy to subsequent
+
+the lagged growth curve relating violence exposure
+and prior normative beliefs to subsequent normative
+beliefs, B01 5 .31, t(2776) 5 3.16, po.01, and on the
+intercept relating violence exposure and prior aggres-
+sive
+fantasy,
+B01 5 .41, t(2777) 5 3.80, po.001. Males did not score
+significantly higher on the intercept of the curve
+relating violence exposure and prior aggression to
+subsequent aggressive behavior, B01 5 .20, t(1415) 5
+1.54, ns. These intercept effects simply indicate that
+males have initially higher scores on the social
+cognitions supporting aggression and continue to
+maintain those differences as they grow up. The fact
+that the intercept effect for gender on aggression was
+not significant is probably a function of the very high
+continuity of aggression over time within both genders.
+It means that gender does not add to the prediction of a
+participant’s aggression in a particular grade if his or
+her aggression in the prior grade is known. Gender
+had a significant effect on slope of growth only for
+violence
+fantasy,
+t(3655) 5 2.12, po.05. The effect of prior exposure to
+violence on fantasizing about aggression was greater
+
+exposure predicting aggressive
+
+Figure 3. The average one-year lagged relation between exposure
+to neighborhood violence and aggressive fantasy for Grades 1 to 6
+computed separately for males and females from a three-level
+(time within person within school) hierarchical linear growth
+model. Agg Fant 5 aggressive fantasy; Expos Viol 5 exposure to
+violence.
+
+for males. Thus, we present the results for males and
+females separately only for aggressive fantasy.
+
+aggression,
+
+subsequent
+
+Figures 1 through 3 reveal that across Grades 1 to
+6 exposure to violence has a significant effect in
+B30 5 .10,
+increasing
+t(1503) 5 4.89, po.001; subsequent beliefs support-
+ing aggression, B30 5 .07, t(18) 5 4.05, po.001; and
+aggressive fantasy, B30 5 .14, po.001 for males,
+B30 5 .08, po.001 for females. There is no effect of
+being aggressive on subsequent exposure to neigh-
+borhood violence or of approving of aggression on
+subsequent exposure to neighborhood violence. For
+males only, there is a significant effect of aggressive
+fantasizing on subsequent exposure to violence,
+B30 5 .07, po.01, but the magnitude of the effect is
+only half as great as the stimulating effect of
+exposure to violence on aggressive fantasizing.
+Overall, these results show that childhood exposure
+to violence predicts subsequent social cognitions
+about aggression and aggressive behavior for both
+males and females across Grades 1 to 6.
+
+In Figures 4 through 6, the lagged coefficients for
+these same calculated growth models are displayed
+separately for Grades 1 to 3 and Grades 4 to 6. Males
+and females are analyzed together for aggressive
+fantasy as they showed the same effects for exposure
+to violence on fantasy. As we had hypothesized,
+exposure to violence predicts subsequent aggressive
+behavior both in the early grades, B30 5 .08,
+t(333) 5 2.22, po.05, and in the later grades,
+B30 5 .09, t(374) 5 2.18, po.05. However, the effects
+of exposure to violence on the social cognitions are
+only significant in the later grades: normative beliefs,
+B30 5 .13, t(407) 5 3.09, po.01, and aggressive fan-
+
+Violence Exposure, Cognition, and Aggression
+
+1571
+
+tasy, B30 5 .16, t(412) 5 3.49, po.01. Although the
+reciprocal models predicting exposure to violence
+could not be computed for the early grades because
+of the amount of missing data (see Table 1), they
+were computed for the older grades and showed no
+significant effects of aggression, normative beliefs
+supporting aggression, or aggressive fantasy on
+subsequent exposure to violence in this grade range.
+The conclusion these data suggest is that exposure to
+violence in the neighborhood is stimulating aggres-
+sion in all grades and social cognitions supporting
+aggression in later middle childhood.
+
+Do Social Cognitions Mediate the Effects of Exposure to
+Violence on Aggression?
+
+the causal ordering of
+
+Mediation can best be tested with structural
+models relating three waves of data (Kline, 1998);
+therefore,
+the measured
+variables is unambiguous. For Grades 4 to 6 where
+prior exposure to violence was related to subsequent
+aggression and social cognitions, there were suffi-
+cient complete data to construct such models. In the
+early grades there were not sufficient data, but as
+shown earlier, exposure to violence did not predict
+subsequent aggressive fantasizing or normative
+beliefs in those grades. To maximize the sample
+size, we used the mean exposure to violence that the
+participants reported in the 24 months before their
+assessment on the social cognitions as the measure
+of exposure to violence. We used the composite
+teacher and peer-nominated measure of aggression
+taken 12 months after the assessment of the social
+cognitions as the criterion.
+
+In left panel of Figure 7, the structural model is
+presented that tests the extent to which the effects of
+exposure to neighborhood violence on aggression
+are mediated by normative beliefs approving of
+aggression and by fantasizing about aggression. The
+parameters of this model were estimated using the
+entire sample, and they revealed that about 22% of
+the effect of exposure to violence on aggression was
+mediated by the two social cognitions. In particular,
+the mediating effect of normative beliefs, 16%,
+z 5 4.96, po.001, was highly significant. The mediat-
+ing effect of aggressive fantasy,
+in contrast, was
+marginal, 6%, z 5 1.84, po.10. In the right panel of
+Figure 7, the parameters for the structural model
+were recomputed for the control group subsample
+alone as a cross-validation. This cross-validation is
+important because the interventions to which the
+participants were exposed might have produced the
+mediation effect. However, the mediation effect was
+no smaller for the control group; in fact, it was
+
+Figure 4. The average one-year lagged relations between exposure
+to neighborhood violence and aggressive behavior estimated
+separately for early and late elementary grades from a three-level
+hierarchical linear growth model. Comp Agg 5 composite aggres-
+sion; Expos Viol 5 exposure to violence.
+
+Figure 5. The average one-year lagged relations between exposure
+to neighborhood violence and normative beliefs approving of
+aggression estimated separately for early and late elementary
+grades from a three-level hierarchical linear growth model. Norm
+Beliefs 5 normative beliefs; Expos Viol 5 exposure to violence.
+
+Figure 6. The average one-year lagged relations between exposure
+to neighborhood violence and aggressive fantasy estimated
+separately for early and late elementary grades from a three-level
+hierarchical linear growth model. Agg Fant 5 aggressive fantasy;
+Expos Viol 5 exposure to violence.
+
+1572 Guerra, Huesmann, and Spindler
+
+Figure 7. Two structural models showing the role of aggressive
+fantasy and normative beliefs in mediating the influence of
+exposure to community violence on aggressive behavior in Grades
+4 to 6. The model in the left panel fits the data from the entire
+sample. For this model the total effect of exposure to violence on
+aggression 5 .234; the mediated effect through aggressive fan-
+tasy 5.013 5 6%, po.10; the mediated effect through normative
+beliefs 5 .037 5 16%, po.001; and the leftover direct effect of
+exposure to violence 5 .184 5 78%, po.001. The model in the right
+panel fits the data from the control group subsample. For this
+model the total effect of exposure to violence on aggression 5 1.70;
+through aggressive fantasy 5.012 5 7%,
+the mediated effect
+po.10;
+through normative beliefs 5
+.043 5 25%, po.001; and the leftover direct effect of exposure to
+violence 5 .115 5 68%, po.001. Agg Fant 5 aggressive fantasy;
+Comp Agg 5 composite aggression; Norm Beliefs 5 normative
+beliefs; Expos Viol 5 exposure to violence.
+
+the mediated effect
+
+slightly larger, with about 32% of
+the effect of
+exposure to violence on aggression being mediated
+by social cognitions. The fact that mediation is no
+less in the control group subsample suggests that
+mediation is not a consequence of the interventions
+many participants experienced. Again, normative
+beliefs was the social cognition that accounted for
+most of the mediating effect, 25%, z 5 2.53, po.01.
+Although these models suggest that the majority
+of the effect of exposure to neighborhood violence on
+aggression is due to processes not related to the two
+cognitions measured in this study,
+the models
+confirm that normative beliefs play an important
+mediating role connecting exposure to contextual
+violence to subsequent aggressive behavior in older
+elementary school children.
+
+Discussion
+
+In the present study we examined the effects of
+community violence exposure on the aggressive
+cognitions and behavior of elementary-school-age
+children living in urban and inner-city communities.
+The first question we addressed was whether
+exposure to community violence, aggressive cogni-
+tions, and aggressive behavior increase or decrease
+
+on average during the elementary school years. We
+found that children reported a decrease in exposure
+to community violence over time that was not
+explained by changing neighborhood environments.
+Several explanations seem plausible. First, given the
+generally high rates of community violence in the
+neighborhoods where children in our study live,
+repeated exposure may result in habituation to the
+point that children are less likely to notice and pay
+attention to incidents of violence. Along these lines,
+some of this decline might reflect measurement
+error, with younger children more likely to exagger-
+ate their experiences than older children. It may also
+be that as children get older they are also less likely
+to play outside; therefore, they are simply less likely
+to be in settings where neighborhood violence
+occurs. It is plausible that this would be particularly
+true for females who indeed showed a greater
+decline in exposure.
+
+In contrast to our findings for violence exposure,
+aggressive cognitions and aggressive behavior were
+found to increase during the elementary school
+years. This is consistent with studies showing
+increases in aggression with age during childhood
+and adolescence (Elliott, 1994; Loeber & Stouthamer-
+Loeber, 1998). Although Tremblay (2000) pointed out
+that different
+types of aggression may follow
+different developmental courses in different settings,
+our study showed that during the early elementary
+school years in urban and inner-city settings,
+children are developing patterns of behavior that
+are increasingly likely to involve aggressive inter-
+changes. These patterns of behavior are also accom-
+panied by changes
+related to
+aggressive scripts that provide opportunities to
+rehearse cognitively aggressive sequences and dem-
+onstrate greater support for its legitimacy. Otherwise
+put, as children get older they are acting more
+aggressively and are developing cognitions that
+support such behavior.
+
+in cognitions
+
+internal
+
+self-regulating processes
+
+Our theoretical model emphasized the impor-
+tance of
+that
+become more stable over time. Thus, we expected
+that characteristic patterns of thought and action
+would be more pronounced as children got older.
+This was the case with aggressive behavior. Con-
+sistent with previous research, aggressive behavior
+showed high continuity across all grades and across
+multiple years. Aggressive fantasy and normative
+beliefs about aggression also showed reasonably
+high year-to-year continuity that increased with age.
+However, cognitions seemed to be much less stable
+than aggressive behavior over multiple years. This
+points to the importance of focusing preventive
+
+interventions during the elementary school years on
+influencing children’s emerging cognitive structures.
+Our data also provide additional support for the
+well-documented relation between social cognition
+and aggression. More aggressive children report
+more exposure to violence, aggressive fantasizing,
+and normative beliefs supporting aggression. In the
+present study, we were particularly interested in the
+effects of exposure to community violence on the
+development of
+these cognitive and behavioral
+patterns. Although previous studies have demon-
+strated a link between harsh or violent
+family
+environments and aggressive social cognition (e.g.,
+Weiss et al., 1992), few studies have examined the
+effect of community violence exposure on these
+cognitive factors and whether these effects vary by
+age.
+
+Perhaps the most important finding from this
+study is that exposure to community violence
+increases children’s subsequent aggressive behavior
+and social cognition supporting aggression. Violence
+exposure seemed to stimulate subsequent aggressive
+behavior for children in both the early and late
+elementary grades. However, violence exposure only
+stimulated increases in aggressive social cognition
+during the later elementary school grades.
+In
+previous research with urban and inner-city youth,
+we found that a child’s own aggressive behavior
+predicted aggressive cognitions during the early
+elementary school years, with cognitions predicting
+behavior during the later elementary school years.
+We interpreted these findings as showing that
+children’s cognitions emerged from their observa-
+tions of their own behavior early on, with cognitions
+then guiding behavior as patterns of thought become
+more stable during the later elementary school years.
+Based on these findings, we had expected that
+observation of community violence would predict
+increases in aggressive cognitions during the early
+elementary years as well. This does not seem to have
+been the case.
+the effects of
+community violence exposure on cognition are
+related to a habituation process that requires more
+time than behavioral changes require. As social
+cognitions are unstable during the early elementary
+years, the effects of exposure on cognition are thus
+less noticeable.
+
+It may be that
+
+the reverse was generally not
+
+Although exposure to violence predicted subse-
+quent aggression and social cognition supporting
+aggression,
+true:
+Exposure was not predicted by prior aggression or
+social cognition. One exception was a small but
+significant effect for males of aggressive fantasizing
+on subsequent exposure to violence. This could
+
+Violence Exposure, Cognition, and Aggression
+
+1573
+
+indicate that males who fantasize more about
+aggressive interactions seek out opportunities to
+observe them or at least do not avoid them to the
+extent that less aggressive males avoid them. This
+process might begin during childhood as children
+observe violence, behave aggressively, come to see it
+as a legitimate behavior, prepare for future aggres-
+sion via cognitive fantasy rehearsal, and seek out
+opportunities to view and observe evidence of their
+emerging world view that
+involves aggressive
+interchanges. Furthermore, because they have fanta-
+sized about it so much, they may be less afraid of
+exposing themselves to violent situations. By ado-
+lescence, children who are thus primed for aggres-
+sion may gravitate toward other contexts such as
+gangs that provide ready access to observation of
+and participation in violence.
+
+Given the observed relations among exposure to
+community violence, social cognition, and aggres-
+sion during the later elementary years, we also
+examined whether the effects of violence exposure
+were mediated by social cognition. We found that
+normative beliefs did play a significant mediating
+role. As discussed by other
+(e.g.,
+Schwab-Stone et al., 1995), viewing violence as
+normative may desensitize children to its true
+consequences and create a context whereby it is
+accepted as a way of life, resulting in an increased
+readiness to behave aggressively. Still, much of the
+effect of exposure to violence was not mediated in
+this way. That result is not surprising, as numerous
+other potential mediators that were unmeasured
+could play a role.
+
+researchers
+
+Consistent with the literature on gender differ-
+ences in physical aggression, males scored higher
+than females on measures of aggression, fantasizing
+about aggression, and normative beliefs approving of
+aggression. Although the growth in aggression and
+normative beliefs approving of aggression during the
+elementary school years did not differ between boys
+and girls, girls did display more of an increase than
+boys in aggressive fantasy. This may reflect differ-
+ential socialization by gender
+the
+appropriateness of aggression;
+for girls,
+aggression may be relegated to the domain of fantasy
+and other private thought processes. Differential
+socialization may also explain why girls showed
+more exposure to community violence initially and
+more of a decrease in exposure to community
+violence over time. Females may be socialized to
+notice violence more, but may also be socialized to
+avoid violent contexts more as they grow up.
+
+in terms of
+that
+
+is,
+
+For the major relations of interest in this study,
+however, gender played no significant moderating
+
+1574 Guerra, Huesmann, and Spindler
+
+role. The correlations between exposure to commu-
+nity violence, aggressive behavior, and aggressive
+cognitions did not vary consistently by gender. The
+effects of exposure to violence on subsequent
+aggression and aggressive cognitions were not
+significantly different for boys and girls, although
+relations between violence exposure and aggressive
+fantasy were stronger for boys than girls. It may be
+that both boys and girls retreat
+to aggressive
+fantasies as a mechanism for coping with high levels
+of witnessing violence, but boys may take this a step
+further because they have a greater expectation that
+they will be involved in or around violence. Finally,
+normative beliefs mediated the relation between
+exposure to violence and aggressive behavior in the
+later elementary grades for both boys and girls.
+
+Our study was limited to the effects of witnessing
+neighborhood violence on children’s aggressive behav-
+ior and cognition. However, even in the high-violence
+communities where children in this study lived, this
+type of violence (e.g., shootings, beatings)
+is still
+relatively rare. Furthermore, our assessment was
+limited to a few self-report items that referred to this
+extreme type of violence. Although the level of violence
+exposure reported by children seemed to concur with
+official crime data, this is still a relatively weak measure
+that taps exposure only to extreme events.
+
+It is also important to examine the extent to which
+other types of violence exposure that are likely to be
+more regularly experienced are also influencing
+children’s development and how the effect of
+witnessing violence varies as a function of type and
+level of exposure. This includes family violence,
+violence in the peer group, and violence in the
+classroom and school. It may be that the effects of
+violence exposure are additive, so that witnessing
+more violence across contexts has a cumulative effect
+on behavior and cognition. Alternately, the effects of
+violence exposure may be multiplicative, so that the
+compound effects are particularly detrimental.
+
+Future longitudinal research should focus on the
+influence of multiple types of violence exposure on
+children’s behavior and the potential mediating
+mechanisms. One suggested line of research is to
+expand the potential social cognitive mediators
+studied to include a broader range of factors. For
+instance,
+it may be that violence exposure also
+influences outcome expectancies, with increased
+exposure to the real consequences of violence (e.g.,
+pain,
+leading to more negative outcome
+expectancies. On the other hand, repeated violence
+exposure might lead children to adopt revenge goals
+to ward off potential threats. These relations may
+also be moderated by age and gender, as we found
+
+injury)
+
+in the current study. Other suggested moderators
+might include children’s level of emotionality and
+level of aggression. For instance, violence exposure
+might have the greatest effect for children who are
+marginally aggressive and may be more susceptible
+to social influence (Dodge, Nicholson, & Stearns,
+2003).
+
+Beyond a focus on social cognitive mediators of
+violence exposure, it is important to examine and
+compare the effects of both exposure and victimiza-
+tion. It seems that both experiences negatively affect
+children; however, it is important to differentiate
+further the unique contributions of exposure versus
+victimization, as well as the joint influence of being
+both victimized and exposed to violence. Just as it is
+important to examine the influence of exposure to
+different types of violence, it is also important to
+compare the influence of different types of violent
+victimization (e.g., by peers, by family members, by
+strangers).
+
+It goes with out saying that the first line of
+prevention is to reduce the levels of violence in the
+community and elsewhere to minimize children’s
+exposure to violence and to increase their safety.
+However, to the extent that children continue to
+observe violence, it is also critical to recognize that it
+does have a significant and harmful impact on their
+development and contributes to the learning of
+aggression. How can we minimize the impact of
+violence exposure on behavior and cognition? As
+mentioned previously,
+the results of our own
+intervention study in urban communities and of
+other similar studies suggest that efforts to modify
+and redirect children’s cognitions can be successful
+if begun early. These efforts should be designed to
+lessen habituation to violence, so that children
+continue to see it as harmful and non-normative.
+These efforts should also focus on teaching children
+nonaggressive scripts that are sensitive to the
+difficult and often violent environments that they
+must navigate, as well as engaging parents and
+others in protecting children from the potentially
+harmful effects of violence exposure.
+
+References
+
+Achenbach, T. M. (1978). The child behavior profile: I. Boys
+aged 6 – 11. Journal of Consulting and Clinical Psychology,
+46, 478 – 488.
+
+Achenbach, T. M. (1991). Integrative guide for the 1991 CBCL/
+4 – 18, YSR, and TRF profiles. Burlington: University of
+Vermont, Department of Psychiatry.
+
+Attar, B. K., Guerra, N. G., & Tolan, P. H.
+
+(1994).
+Neighborhood disadvantage, stressful life events, and
+
+adjustment in urban elementary-school children. Journal
+of Clinical Child Psychology, 23, 391 – 400.
+
+Bandura, A. (1973). Aggression: A social learning analysis.
+
+New York: Holt.
+
+Bandura, A. (1986). Social foundations of thought and action:
+A social-cognitive theory. Englewood Cliffs, NJ: Prentice
+Hall.
+
+Bell, C. C., & Jenkins, E. J. (1991). Traumatic stress and
+children. Journal of Health Care for the Poor and Under-
+served, 2, 175 – 185.
+
+Bryk, A. S., & Raudenbush, S. W. (1987). Application of
+hierarchical linear models to assessing change. Psycho-
+logical Bulletin, 101, 147 – 158.
+
+Dempsey, M. (2002). Negative coping as mediator in the
+relation between violence and outcomes: Inner city
+African American youth. American Journal of Orthopsy-
+chiatry, 72, 102 – 109.
+Dodge, K. A., Bates,
+
+(1990).
+Mechanisms in the cycle of violence. Science, 250,
+1678 – 1683.
+
+J. E., & Pettit, G. A.
+
+Dodge, K. A., Nicholson, M. J., & Stearns, M. E. (2003).
+From mischief to violence: How culture shapes the growth of
+aggressive behavior. Paper presented at
+the biannual
+meeting of the Society for Research in Child Develop-
+ment, Tampa, FL.
+
+Eisenberg, N., Fabes, R. A., Nyman, M., Bernzweig, J., &
+Pinuelas, A. (1994). The relations of emotionality and
+regulation to children’s anger-related reactions. Child
+Development, 65, 109 – 128.
+
+Elliott, D. S.
+
+(1994). Serious violent offenders: Onset,
+developmental course and termination: The American
+Society of Criminology 1993 Presidential Address.
+Criminology, 32, 1 – 21.
+
+Eron, L. D. (1987). The development of aggressive behavior
+from the perspective of a developing behaviorism.
+American Psychologist, 42, 435 – 442.
+
+Eron, L. D., Walder, L. O., & Lefkowitz, M. M. (1972). The
+
+learning of aggression in children. Boston: Little, Brown.
+
+Flannery, D. J., Singer, M. I., & Wester, K. (2001). Violence
+exposure, psychological trauma, and suicide risk in a
+community sample of dangerously violent adolescents.
+Journal of the American Academy of Child and Adolescent
+Psychiatry, 40, 1 – 8.
+
+Garbarino, J., Kostelny, K., & Dubrow, N. (1991). What
+children can tell us about living in danger. American
+Psychologist, 46, 376 – 382.
+
+Guerra, N. G., Huesmann, L. R., Tolan, P. H., Van Acker, R.,
+& Eron, L. D. (1995). Stressful events and individual
+beliefs as correlates of economic disadvantage and
+aggression among urban children. Journal of Consulting
+and Clinical Psychology, 63, 518 – 528.
+
+Huesmann, L. R. (1988). An information processing model
+for the development of aggression. Aggressive Behavior,
+14, 13 – 24.
+
+Huesmann, L. R. (1998). The role of social information
+processing and cognitive schema in the acquisition and
+maintenance of habitual aggressive behavior. In R. E.
+Geen & E. Donnerstein (Eds.), Human aggression:
+
+Violence Exposure, Cognition, and Aggression
+
+1575
+
+Theories, research, and implications for policy (pp. 73 –
+109). New York: Academic Press.
+
+Huesmann, L. R., Eron, L. D., Lefkowitz, M. M., & Walder,
+L. O. (1984). Stability of aggression over time and
+generations. Developmental Psychology, 20, 1120 – 1134.
+
+Huesmann, L. R., & Guerra, N. G. (1997). Children’s
+normative beliefs about aggression and aggressive
+behavior. Journal of Personality and Social Psychology, 72,
+408 – 419.
+
+Huesmann, L. R., Guerra, N. G., Eron, L. D., & Crawshaw,
+V. B.
+(1994). Measuring children’s aggression with
+teachers’ predictions of peer nominations. Psychological
+Assessment, 6, 329 – 336.
+
+Huesmann, L. R., Guerra, N. G., Miller, L., & Zelli, A.
+(1992). The role of social norms in the development of
+aggression.
+In H. Zumckly & A. Fraczek (Eds.),
+Socialization and aggression (pp. 139 – 151). New York:
+Springer-Verlag.
+
+Kline, R. (1998). Structural modeling. New York: Guilford.
+Loeber, R., & Stouthamer-Loeber, M. (1998). Development
+of juvenile aggression and violence. Some common
+misconceptions and controversies. American Psycholo-
+gist, 53, 242 – 259.
+
+Lynch, M., & Cicchetti, D. (1998). An ecological-transac-
+tional analysis of children and contexts: The long-
+itudinal
+child maltreatment,
+community violence, and children’s symptomatology.
+Development and Psychopathology, 10, 235 – 257.
+
+interplay
+
+among
+
+Marans, S., & Cohen, D. (1993). Children and inner-city
+violence: Strategies for intervention. In L. Leavitt & N.
+Fox (Eds.), Psychological effects of war and violence on
+children (pp. 281 – 302). Hillsdale, NJ: Erlbaum.
+
+Martinez, P., & Richters, J. E. (1993). The NIMH Commu-
+nity Violence Project: II. Children’s distress symptoms
+associated with violence exposure. Psychiatry: Interper-
+sonal and Biological Processes, 56, 22 – 35.
+
+Metropolitan Area Child Research Group.
+
+(2002). A
+cognitive-ecological approach to preventing aggression
+in urban settings:
+for high-risk
+children. Journal of Consulting and Clinical Psychology,
+70, 179 – 194.
+
+Initial outcomes
+
+Ng-Mak, D. S., Salzinger, S., Feldman, R., & Stueve, A.
+(2002). Normalization of violence among inner-city
+youth: A formulation for research. American Journal of
+Orthopsychiatry, 72, 92 – 101.
+
+Olweus, D. (1979). Stability of aggressive reaction patters
+
+in males: A review. Psychological Bulletin, 85, 852 – 875.
+
+Osofsky, J. D. (1995). The effects of exposure to violence on
+
+young children. American Psychologist, 50, 782 – 788.
+
+Osofsky, J. D., Wewers, S., Hann, D. M., & Fick, A. C.
+(1993). Chronic community violence: What is happening
+to our children? Psychiatry, 56, 36 – 45.
+
+Pynoos, R. S. (1993). Traumatic stress and developmental
+psychopathology in children and adolescents. In J. M.
+Oldham, M. B. Riba, & A. Tasman (Eds.), American
+Psychiatric Press review of psychiatry, Vol. 12. (pp. 205 –
+238). Washington, DC: American Psychiatric Press.
+
+1576 Guerra, Huesmann, and Spindler
+
+Raudenbush, S. W., & Chan W-S.
+
+(1992). Growth curve
+analysis in accelerated longitudinal designs. Journal of
+Research in Crime and Delinquency, 29, 387 – 411.
+
+Richters, J. E., & Martinez, P. (1993). The NIMH commu-
+nity violence project: Vol. 1. Children as victims of and
+witnesses to violence. Psychiatry, 56, 7 – 21.
+
+Rivera, B., & Widom, C. S. (1990). Childhood victimization
+
+and violent offending. Violence and Victims, 5, 19 – 35.
+
+Rogosa, D., Brandt, D., & Zimowski, M. (1982). A growth
+curve approach to the measurement of change. Psycho-
+logical Bulletin, 92, 726 – 748.
+
+Rosenfeld, E., Huesmann, L. R., Eron, L. D., & Torney-
+Purta,
+fantasy
+behavior in children. Journal of Personality and Social
+Psychology, 42, 347 – 366.
+
+(1982). Measuring patterns of
+
+J. V.
+
+Schwab-Stone, M., Ayers, M. E., Kasprow, W., Voyce, C.,
+Barone, C., & Shriver, T., et al. (1995). No safe haven: A
+study of violence exposure in urban communities.
+Journal of the American Academy of Child and Adolescent
+Psychiatry, 34, 1343 – 1352.
+
+Schwab-Stone, M., Chen, C., Greenberger, E., Silver, D.,
+Lichtman, J., & Voyce, C. (1999). No safe haven II: The
+effects of violence exposure on urban youth. Journal of
+the American Academy of Child and Adolescent Psychiatry,
+38, 359 – 367.
+
+Schwartz, D., & Proctor, L. J. (2000). Community violence
+exposure and children’s social adjustment in the school
+
+peer group: The mediating roles of emotional regulation
+and social cognition. Journal of Consulting and Clinical
+Psychology, 68, 670 – 683.
+
+Singer, M. I., Anglin, T. M., Song, . L. Y., & Longhofer, L.
+(1995). Adolescents’ exposure to violence and associated
+273,
+symptoms of psychological
+477 – 482.
+
+trauma.
+
+JAMA,
+
+Singer, M. I., Miller, D. B., Guo, S., Flannery, D. J., Frierson,
+T., & Slovak, K. (1999). Contributors to violent behavior
+among elementary and middle school children. Pedia-
+trics, 104, 878 – 884.
+
+Spacarelli, S., Coatsworth, J. D., & Bowden, B. S. (1995).
+Exposure to serious family violence among incarcerated
+boys: Its association with violent offending and poten-
+tial mediating variables. Violence and Victims, 10,
+163 – 182.
+
+Tremblay, R.
+
+(2000). The development of aggressive
+behaviour during childhood: What have we learned in
+the past century? International Journal of Behavior Devel-
+opment, 24, 129 – 141.
+
+Weiss, B., Dodge, K. A., Bates, J. E., & Pettit, G. A. (1992).
+Some consequences of early harsh discipline: Child
+aggression and a maladaptive social-information-pro-
+cessing style. Child Development, 63, 1321 – 1335.
+
+Widom, K. (1989). Does violence beget violence? Psycho-
+
+logical Bulletin, 106, 3 – 28.
+
+

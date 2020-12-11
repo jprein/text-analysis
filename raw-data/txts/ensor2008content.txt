@@ -1,0 +1,2396 @@
+Child Development, January/February 2008, Volume 79, Number 1, Pages 201 – 216
+
+Content or Connectedness? Mother – Child Talk and
+
+Early Social Understanding
+
+Rosie Ensor and Claire Hughes
+
+University of Cambridge
+
+Despite much research into individual differences in social understanding among preschoolers, little is known
+about corresponding individual differences within younger children. Likewise, although studies of preschoolers
+highlight the importance of mental-state references, other aspects of talk have received less attention. The current
+study involved 120 families with 2-year-olds; video-based transcripts of observations of family interaction were
+coded for quantity, connectedness, and content of mothers’ and children’s talk. At 2, 3, and 4 years of age, children
+completed social understanding and verbal ability tests. Mothers’ connected turns and mental-state reference
+within connected turns showed independent associations with children’s social understanding (as did children’s
+mental-state references, both overall and within connected turns). Connected conversations provide a fertile
+context for children’s developing social understanding.
+
+Theory of mind is the ability to impute mental states in
+order to predict and explain human behavior, that is,
+the use of beliefs and feelings as a lens on human
+action. Early research focused on developmental mile-
+stones in children’s understanding of false beliefs (see
+Wellman, Cross, & Watson, 2001 for a meta-analysis),
+but the last decade has seen growing interest in the
+origins of individual differences in false belief compre-
+hension (Hughes et al., 2005; Repacholi & Slaughter,
+2003). The current study contributes to this endeavor
+by addressing two hitherto neglected topics. First,
+although progress has been made in identifying
+precursors of false belief understanding (Meltzoff,
+Gopnik, & Repacholi, 1999; Wellman, Phillips, &
+Rodriguez, 2000), the correlates of early individual
+differences in social understanding have yet to be
+explored. Second, studies that document associations
+between preschoolers’ false belief comprehension and
+family conversations typically focus on the content of
+such speech (in particular, references to mental states).
+As a result, other aspects of family talk (e.g., quantity
+and quality) have received much less research atten-
+tion. The current study examines these two issues.
+Next, we outline the theoretical background to each of
+these two areas in turn.
+
+Early Social Understanding
+
+Most children do not pass standard false belief
+tasks (commonly viewed as the litmus test of theory of
+mind) until the age of 4 years (Wellman et al., 2001).
+
+However, in their everyday social interactions, chil-
+dren as young as 2 years engage in deception and
+trickery (Newton, Reddy, & Bull, 2000) and blame
+others for their own transgressions (Dunn, 1988;
+Wilson, Smith, & Ross, 2003). Rather than being
+simple behavioral routines to achieve desired and
+avoid undesired outcomes, such behaviors appear to
+reflect young children’s deliberate attempts to create
+false beliefs in others (Newton et al., 2000). If so,
+children’s poor performance on false belief tasks may
+reflect the significant peripheral linguistic and infor-
+mation-processing demands of such tasks (Bloom &
+German, 2000; Leslie & Polizzi, 1998; Siegal & Beattie,
+1991). In line with this proposition, Clements and
+Perner (1994) found that more than 90% of 3-year-olds
+who failed an unexpected location false belief task
+nevertheless looked at the correct location (see also
+Garnham & Ruffman, 2001); moreover, 3-year-olds
+are more likely to succeed on false belief tasks that
+have improved ecological validity (Cassidy, 1998;
+Chandler, Fritz, & Hala, 1989; Hala & Chandler,
+1996; Hala, Chandler, & Fritz, 1991; Wimmer &
+Perner, 1983). Together, these findings suggest that
+3-year-olds have an implicit understanding of false
+beliefs.
+
+Other important elements of children’s early social
+understanding include the detection of simple emo-
+tions and the recognition of their causes. By 18
+months, children can recognize that someone might
+want something that they themselves do not want
+(Repacholi & Gopnik, 1997) and can predict how
+someone else will feel
+if that person’s desire is
+
+Correspondence concerning this article should be addressed to
+Rosie Ensor, Centre for Family Research, Free School Lane,
+Cambridge, CB2 3RF, United Kingdom. Electronic mail may be
+sent to rad35@cam.ac.uk.
+
+# 2008, Copyright the Author(s)
+Journal Compilation # 2008, Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2008/7901-0014
+
+202
+
+Ensor and Hughes
+
+satisfied or not satisfied (Wellman & Banerjee, 1991).
+By the age of 2 – 3 years, children can identify how
+someone will feel, even in situations where they
+would probably feel differently (Denham, 1986; Well-
+man & Banerjee, 1991). Reflecting these findings, in
+this study, we view early social understanding as
+a broad theoretical construct that includes under-
+standing of both beliefs and emotions.
+
+Content and Connectedness of Conversation
+
+Four distinct areas of research highlight
+
+the
+importance of conversation for individual differences
+in children’s social understanding. First, a seminal
+series of studies by Dunn and colleagues revealed that
+children from families characterized by high frequen-
+cies of causal talk and/or talk about feelings were
+more likely than their peers to succeed on false belief
+and emotion understanding tasks 7 months later
+(Dunn, Brown, & Beardsall, 1991; Dunn, Brown,
+Slomkowski, Tesla, & Youngblade, 1991). Subsequent
+longitudinal studies have shown that talk about
+mental states with both friends (Hughes & Dunn,
+1998) and mothers (Ruffman, Slade, & Crowe, 2002)
+predict improvements in children’s false belief com-
+prehension. Second, training studies highlight the
+importance of explanation within conversations,
+rather than presentation of counterevidence,
+for
+children’s success on false belief tasks (Appleton &
+Reddy, 1996; Lohmann & Tomasello, 2003). Third,
+a recent large-scale study (involving 1,116 pairs of
+5-year-old twins) showed that shared environmental
+factors had a substantial influence on individual differ-
+ences in children’s understanding of false beliefs;
+bivariate model-fitting analyses showed that these
+factors had a common impact on children’s verbal
+ability (Hughes et al., 2005). In other words, environ-
+mental influences upon children’s early language skills,
+such as the quantity (Clarke-Stewart, 1973; Hart &
+Risley, 1992, 1995; Huttenlocher, Haight, Bryk, Seltzer,
+& Lyons, 1991) and quality (Tomasello & Barton, 1994;
+Tomasello & Farrar, 1986; Tomasello & Todd, 1983) of
+family talk, also appear likely to influence children’s
+false belief comprehension. Fourth, several studies
+demonstrate that, compared with native-signing deaf
+children, late-signing deaf children (i.e., deaf children
+born to hearing parents) show marked delays in false
+belief understanding, suggesting that restricted family
+conversations can delay false belief comprehension
+(Peterson, 2002, 2004; Peterson & Siegal, 1995, 2000;
+Woolfe, Want, & Siegal, 2002).
+
+Why should conversations matter for children’s
+social understanding? Two distinct mechanisms have
+been proposed: First, the acquisition of the vocabu-
+
+lary necessary for labeling mental states enables
+children to represent and reflect on abstract mental-
+state concepts (Bartsch & Wellman, 1995; Olson, 1988).
+From this perspective, individual differences in social
+understanding are closely tied to variation in child-
+ren’s own language skills. Second, conversations
+provide contexts in which children are confronted
+with the differences between others’ and their own
+states of mind (Nelson, 2005); here, the origins of
+individual differences in children’s social under-
+standing are intrinsically social. What is not yet clear,
+however, is the features of conversation that are
+particularly important
+for children’s early social
+understanding. For example, do conversational refer-
+ences to specific types of mental states differ in
+importance? In the only relevant study to include
+experimental tasks, Ruffman et al. (2002) found that
+an aggregate of mothers’ talk about mental states was
+the most consistent correlate of children’s perfor-
+mance on false belief tasks. However, given that
+references to mental states are relatively infrequent,
+this finding may reflect the difficulty of conducting
+a fine-grained analysis without extended conversa-
+tional excerpts. For example, the detailed study of
+Bartsch and Wellman (1995) involving lengthy obser-
+vations of a small number (4 – 10) of children revealed
+that mothers’
+talk about desires predicted pre-
+schoolers’ later talk about cognitions more strongly
+than did mothers’ talk about cognitions (see also
+Ruffman et al., 2002). In contrast, Jenkins, Turrell,
+Kogushi, Lollis, and Ross (2003) found that family talk
+about cognitions (but not desires) predicted 4-year-
+old children’s talk about cognitions. This finding is
+consistent with theoretical accounts that emphasize
+the mind-to-world fit of cognitions (Searle, 1983). In
+other words, compared with references to desires,
+references to cognitions are more likely to highlight
+the subjective nature of mental states.
+
+Studies of normative individual differences in
+children’s understanding of false beliefs have, as
+indicated above, focused heavily on the literal content
+of family talk. This is surprising because a core tenet of
+theoretical analyses of conversation is that the literal
+content of an utterance does not necessarily reveal the
+speaker’s meaning. That is, according to Grice (1975),
+even in ordinary conversational exchanges, interloc-
+utors must navigate their way through not only
+conventional implicatures (where there is a clear
+and mutually understood correspondence between
+the ordinary and implicated meanings of words) but
+also conversational implicatures (for which the mean-
+ing of the utterance depends on shared understand-
+ing of conversational principles; de Rosnay &
+Hughes, 2006). In other words, beyond asking, ‘‘what
+
+is being talked about?’’ it is important also to ask,
+‘‘how is it being talked about?’’ (Harrist & Waugh,
+2002). We propose that one special feature of the
+‘‘how’’ is the alignment of one interlocutor to another
+(Fogel, 1993). We term this alignment ‘‘connected-
+ness’’ and, following the example of Dunn and
+colleagues (Dunn & Brophy, 2005; Dunn & Cutting,
+1999; Slomkowski & Dunn, 1996), employ a simple
+operational definition: the frequency with which each
+speaker’s utterances are semantically related to
+another speaker’s prior utterance (Gottman, 1983).
+In this way, the construct of connectedness provides
+an index of how well interlocutors are tuned in to each
+other’s talk (Bruner, 1983). Findings from two sepa-
+rate studies show that children who perform well on
+false belief tasks also engage in frequent and extensive
+connected conversations with their friends (Dunn &
+Cutting, 1999; Slomkowski & Dunn, 1996). Individual
+differences in the connectedness of mother – child
+conversations are also striking (Dunn, 1993) and, in
+a study of ‘‘hard-to-manage’’ preschoolers, Dunn and
+Brophy (2005) found that low frequencies of mother –
+child connected conversations were related to poor
+false belief understanding.
+
+Despite the promise of the previously described
+early findings, associations between connectedness of
+conversations and children’s social understanding
+have been relatively little researched. This is surpris-
+ing given the likely overlap between mental-state and
+connected talk; it seems probable that references to
+mental states occur predominantly during connected
+conversations. If so, two possibilities arise. First,
+associations between mental-state references and
+social understanding may actually reflect overlap-
+ping relations with connectedness. The independence
+of mental-state and connected talk as correlates of
+social understanding, however, has yet to be estab-
+lished. Second, children’s emerging social under-
+standing may be particularly strongly associated
+with references to mental states that occur within
+connected conversations. That is, how mental states
+are referred to may be more important than their
+simple frequency. A similar moderation effect has
+been found for mother – child causal talk: Children
+whose mothers used causal talk chiefly during dis-
+putes did poorly on subsequent assessments of emo-
+tion understanding, whereas
+children whose
+mothers’ causal talk was within the context of shared
+play, comforting or joking were more successful on
+the later emotion understanding tests (Dunn &
+Brown, 1993). To assess their relative independence
+and interplay, we examine both mother – child men-
+tal-state and connected talks in relation to children’s
+concurrent and later social understanding.
+
+Mother – Child Talk and Early Social Understanding
+
+203
+
+The present study involved a socially diverse sam-
+ple of 120 families with 2-year-olds, filmed during their
+everyday routines. Mothers’ and children’s utterance
+were then transcribed and coded; children completed
+social understanding tasks at ages of 2, 3, and 4 years.
+The data were used, in sum, to address three questions.
+First, are mothers and children particularly likely to
+refer to desires, cognitions and/or emotions within
+connected utterances? Second, do mothers’ and child-
+ren’s mental-state references and connected turns
+show independent relations with children’s social
+understanding? Third, does connectedness moderate
+associations between mothers’ and children’s mental-
+state references and children’s social understanding?
+
+Method
+
+Recruitment and Participants
+
+A socially diverse sample was recruited via
+mother – toddler groups in low-income neighborhoods
+and support groups for mothers in Cambridge, UK.
+Core inclusion criteria included toddlers aged between
+24 and 36 months at the first wave of data collection and
+English as a home language. Of the 192 eligible
+families, 140 (73%) gave informed consent and took
+part in the first wave of the study; of these, 120 (75 boys
+and 45 girls) participated fully at all three study time
+points. Reflecting the local population, all but four of
+the children were Caucasian. With regard to parental
+occupation, 44% of the heads of households were
+in professional/managerial occupations, 26% were in
+skilled nonmanual occupations, and 30% were in
+manual occupations or unemployed. With regard to
+parental education, 29% of mothers and 17% of fathers
+had college degrees, 34% of mothers and 15% of fathers
+had A-levels (equivalent to high school diploma), 25%
+of mothers and 32% of fathers had General Certificates
+of Secondary Education (GCSEs) or equivalent, and
+12% of mothers and 35% of fathers had no educational
+qualifications. In terms of family structure, 22% of
+mothers were lone parents and 11% of the children
+were singletons, 54% had one sibling, 21% had two
+siblings, 10% had three siblings, and 4% had four or
+five siblings (93% of all siblings were older siblings).
+
+Procedures
+
+At the first two time points (M ages for target
+children 5 2.38 years, SD 5 32 days at Time 1 and 3.45
+years, SD 5 35 days at Time 2), two researchers visited
+each family for 2 hr (typically on a weekday evening).
+During each visit, mothers completed a question-
+naire-based interview with one researcher, while
+
+204
+
+Ensor and Hughes
+
+target children completed false belief and emotion
+understanding tasks with the other researcher (who
+also filmed them playing with a sibling). At the end of
+the visit, families were observed for 30 min during
+meal preparation and/or a meal; researchers fol-
+lowed the target child and did not participate in and
+responded as little as possible to family interaction.
+Families received £20 as a token of thanks for their
+time. Following the home visits, the videos were
+transcribed professionally. Researchers then checked
+that the speakers and addressees, the division of
+speech into turns, and the content of speech were
+correct and added any nonverbal contextual informa-
+tion needed to understand the speech.
+
+Approximately 6 weeks after the home visit (Time
+1 M interval 5 39 days, SD 5 32 days, range 5 26 – 95
+days; Time 2 M interval 5 39 days, SD 5 35 days,
+range 5 19 – 92 days), mother – toddler dyads visited
+the lab in pairs for a 2-hr session. During this visit,
+each child completed verbal ability assessments.
+Taxis/parking refunds were provided for all families,
+as well as a video of the visit. At the third time point
+(M age of target children at Time 3 5 4.19 years, SD 5
+37 days), researchers visited each child at play group
+or nursery school for 2 hr. During this visit, each child
+completed false belief and emotion understanding
+tasks as well as a verbal ability assessment; families
+received a DVD of the visit.
+
+Observational Coding
+
+Time 1 transcripts (i.e., when the target children were
+2 years old) were coded using the scheme designed by
+Brown, Donelan-McCall, and Dunn (1996), for refer-
+ences to three categories of mental states: cognitions,
+desires, and feelings. References to cognitive states
+included terms used to denote thoughts, memories, or
+knowledge of the mother, child, or a third party. The
+most common cognitive terms recorded were think,
+know, forgot, mean, and variations. Other cognitive terms
+that occurred were assure, believe, concentrate, distract,
+expect, figure, guess, idea, ignore, imagine, interest, learn,
+pretend, recognize, trust, understand, wonder, and varia-
+tions. The desire terms observed were fancy, keen, hope,
+want, wish, would like, would love, and variations com-
+monly used to capture both desires and goals. For
+example, want was coded when the term referred to
+a goal-directed behavior. References
+to feelings
+included those that referred to an emotional state. The
+feeling terms noted were cross, disgust, enjoy, excited, fed
+up, frightened, fun, grumpy, happy, like, love, pleased, proud,
+scared, surprise, upset, worried, and variations. For exam-
+ple, like was only coded when the term referred to
+a state of enjoyment and not when it indicated ‘‘to want
+
+to have.’’ References to mental states that were conver-
+sational, repetitive (within an utterance), and imitative
+were excluded.
+
+The transcripts were divided into conversational
+turns; a turn was defined as the utterances of one
+speaker bounded by another speaker’s utterances
+(Shatz & Gelman, 1973) or a significant silence (usually
+5 s or more). Adopting procedures from previous
+studies (e.g., Dunn & Cutting, 1999), each conversa-
+tional turn that mothers directed to the target child was
+assigned to one of the following five quality codes:
+
+1. Connected: Speaker’s utterance is semantically
+related to the other interlocutor’s previous turn.
+2. Initiation: Speaker initiates a new topic that
+is both unrelated to the other interlocutor’s
+previous
+in eliciting
+a semantically related response from the other
+interlocutor.
+
+turn and successful
+
+3. Failed: Speaker’s turn is directed (either explic-
+itly or implicitly) to the other interlocutor but
+fails to elicit a semantically related response.
+
+4. Conflict: Speaker’s utterance includes a prohibi-
+
+tion, threat, or insult.
+
+5. Unclear: Speaker’s utterance was inaudible and,
+
+thus, is not transcribed sufficiently to code.
+
+A trumping system was used such that turns that
+could be categorized as either conflict or connected
+were always coded as connected.
+
+In previous studies, the quality of interaction has
+also been indexed by the length of connected epi-
+sodes, that is, the average number of turns in each
+connected conversation (Slomkowski & Dunn, 1996)
+or the number of connected conversations that con-
+tinued for at least three turns (Dunn & Cutting, 1999).
+These approaches were not adopted in the current
+study; instead (as in one other study—Brophy &
+Dunn, 2002), the quality of each turn (i.e., con-
+nected/initiatory/failed/conflictual/unclear) was
+coded. Such turn-based coding has at least two
+advantages: First, the problem of reliably identifying
+the point where one connected conversation ends and
+another begins is circumvented; second, the quality of
+each turn containing a mental-state reference can be
+calculated, providing indices of the frequencies of
+connected, initiatory, failed, and conflictual turns con-
+taining references to desires, cognitions, and emotions.
+Table 1 shows a conversational excerpt, coded for
+quantity, content, and quality. Turns 1 and 4 were
+coded as failed because the child did not respond to
+the mother’s utterances. Turn 2 was coded as an
+initiation because the child responds to the mother’s
+second utterance. Turn 3 could have been coded as
+
+Table 1
+Coding of Example Conversational Excerpt
+
+Mother – Child Talk and Early Social Understanding
+
+205
+
+Quantity
+
+No. turns
+
+No. words
+
+Content
+
+Quality (of turn)
+
+1. M: Would you like a slice of ham now or will you wait?
+2. M: Do you want a slice of ham?
+3. C: No. I bumped my nose
+4. M: You’re so tired
+5. C: Piglet down
+6. C: Bumped my nose
+7. M: You did bump your nose didn’t you?
+
+But I think it’s all better now though, isn’t it?
+
+1
+2
+1
+3
+2
+3
+4
+
+Note. C5child; M5mother.
+
+12
+7
+5
+4
+2
+3
+20
+
+Desire reference
+Desire reference
+—
+—
+—
+—
+Cognitive reference
+
+Failed
+Initiation
+Connected
+Failed
+Failed
+Initiation
+Connected
+
+connected (as the child replied to the mother’s ques-
+tion) or failed (as the mother did not respond to the
+child’s comment about her nose). As connected
+trumps all other codes, turn 3 was coded as con-
+nected. Turn 5 is coded as failed because the mother
+did not reply to the child’s comment about piglet. The
+mother responded to the child’s second comment
+about her nose; therefore, Turn 6 was coded as an
+initiation and Turn 7 was coded as connected.
+
+As part of a summer research internship, a psychol-
+ogy undergraduate student was trained and then inde-
+pendently coded 20% of
+Interrater
+agreement with the first author was established using
+Cohen’s kappa and was excellent for both references to
+mental states (j 5 .86) and quality of utterances (j 5 .97).
+
+transcripts.
+
+Experimental Tasks
+
+At ages 2, 3, and 4 years, children completed tasks
+tapping simple skills of deception and awareness of
+mistaken beliefs. We first describe the tasks that were
+administered at all three time points: a penny hiding
+deception game, a picture book false belief task, and an
+emotion understanding (identification and perspective
+taking) puppet game. Next, we describe an object
+transfer false belief task given at ages 3 and 4 years
+and a deceptive content false belief task given at age 3
+years that, because of time constraints in the school/
+nursery visits, could not be included at age 4 years.
+Tasks were presented in a counterbalanced order.
+
+Deception (Hughes, 1998). In this penny hiding
+game, the researcher hides a coin behind her back
+and, bringing both hands forward with the coin
+concealed in one hand, asks the child to guess which
+hand has the coin. After two more display trials, the
+researcher invites the child to hide the coin. For each
+of the following three test trials, one point is awarded
+for each of the following: hiding both hands behind
+
+back, bringing both hands forward, keeping hand
+closed, and keeping coin hidden. Scores for this task
+have a possible range of 0 – 12 points.
+
+Picture book false belief (Hughes, 1998). The standard
+false belief task was made more engaging by using
+peep-through picture books with deceptive elements
+(e.g., what appears to be an eye peeping through
+a hole in the page turns out to be a spot on a snake’s
+back; what looks like an orange turns out to be the
+setting sun). The same book (Moerbeek, 1994) was
+used at 2 and 4 years of age; at 3 years of age a differ-
+ent book (Balas, 2003) was used to ensure that the
+deceptive element was not affected by children’s
+memories of the previous testing session. At each
+time point, children were asked two forced-choice test
+questions tapping memory for own false belief,
+‘‘Before we turned the page, what did you think this
+would be, an eye or a spot?’’ and prediction of other’s
+false belief, ‘‘Look, this is Charlie (show puppet).
+Charlie has never seen this book before. If we show
+him this picture, what will he think it is, an eye or
+a spot?’’ We also asked two corresponding forced-
+choice reality control questions, ‘‘What is it really, an
+eye or a spot?’’ Children were credited with success
+on the test questions only if they also passed the
+corresponding reality control question. Possible
+scores on these tasks range from 0 to 2 points.
+
+Emotion understanding (Denham, 1986). In this task,
+a puppet (Johnny for boys, Nancy for girls) with
+a blank face and four felt faces portraying happy,
+sad, angry, and scared expressions was used. In the
+emotion labeling subtask, children were asked to
+name how the puppet felt when each face was placed
+in turn on the puppet; children were then told how
+Johnny or Nancy felt and asked to choose the appro-
+priate face. Vignettes (8 at age 2 years of age; 16 at ages
+of 3 and 4 years) associated with feelings of happiness,
+sadness, anger, or fear were then enacted (2 of each
+
+206
+
+Ensor and Hughes
+
+type at 2 years of age; 4 of each type at 3 and 4 years of
+age) with matching affective tone. In 8 vignettes, the
+puppet’s emotions reflect what most children typi-
+cally feel in a given situation. In the other 8 vignettes,
+the puppet’s emotion differed from the emotion that
+the mother had stated her child would typically
+express in that situation. Children were asked to
+choose the face that matched how the puppet was
+feeling in each vignette. Fully correct responses
+received 2 points, whereas responses correct
+in
+valence but not specific emotion (e.g., calling the
+angry face ‘‘sad’’) received 1 point. This task had
+a possible range of 0 – 24 points at 2 years of age and
+0 – 42 points at 3 and 4 years of age.
+
+Object transfer false belief task. This task was given at
+3 and 4 years of age, using different characters and
+props at each time point. At 3 years of age, the story
+involved two well-known characters (Noddy and Big
+Ears); props for this included toy figures, a set of
+miniature knives and forks, and a miniature drawer
+and pot (with lid). At 4 years of age, the story was the
+classic Sally – Ann scenario (Wimmer & Perner, 1983),
+enacted with props (two dolls, a basket, a box, and
+a very small ball). In the Noddy story, Big Ears is doing
+the washing up and tidies the cutlery away in the pot
+before going out. Noddy then appears and moves the
+cutlery into the drawer before also leaving. Big Ears
+then reappears, in need of the cutlery. In the Sally –
+Ann story, Sally has a ball, which she places in a basket
+before going out. In her absence, Ann takes the ball out
+to play with it and replaces it in the box, before also
+leaving. Sally returns to the scene, wanting to play
+with the ball. For each story, children were asked two
+test questions: (a) prediction of search behavior,
+‘‘Where will Noddy/Sally look for the knives/ball?’’
+and (b) belief-based explanation, ‘‘Why did Noddy/
+Sally look there?’’ Children were asked both a memory
+control question, ‘‘Where did Noddy/Sally put the
+knives/ball first of all?’’ and a reality control question,
+‘‘Where are they/is really?’’ Children are credited
+with success on the test questions only if they also
+respond to the reality control question—possible
+scores on this task range from 0 to 2 points.
+
+Deceptive contents false belief task. In this task, given
+at the age of 3 years only, children are shown a pro-
+totypical container (an egg box) and a plain tube and
+asked which they think contains an egg. The boxes are
+then opened to reveal a realistic model egg in the plain
+tube. They are then asked to recall their false belief,
+‘‘Before we looked, which box did you think had an
+egg inside?’’ and a reality control question, ‘‘Which
+box really has an egg inside?’’ Next, they are intro-
+duced to a granny doll, who wants to make a cake and
+needs some eggs. The granny doll ‘‘walks’’ to the egg
+
+box, and children are asked to explain why she’s
+looking in that box, as well as a second reality control
+question. Children are required to pass the corre-
+sponding reality control questions in order to receive
+credit on each of these two test questions—possible
+scores on this task range from 0 to 2 points.
+
+Verbal Ability Assessments
+
+A subtest from the British abilities scales (Elliott,
+Murray, & Pearson, 1983) was used to assess child-
+ren’s verbal comprehension at 2 and 3 years of age.
+Standard scoring procedures were applied and gave
+a possible range of 0 – 27. The British picture vocab-
+ulary scale (Dunn, 1997) was used to assess children’s
+verbal comprehension at the age of 4 years.
+
+Results
+
+We begin by describing the construction of the aggre-
+gate measures of social understanding and conversa-
+tion. We then report preliminary analyses concerning
+(a) developmental change, stability of individual
+differences, and sex differences in children’s social
+understanding and (b) associations between the social
+understanding aggregate measures and children’s
+verbal ability, mothers’ education, and the number
+of mothers’ and children’s utterances. In the main
+Results section, we present analyses for each of our
+study questions in turn. The first question concerns
+whether mothers and children are particularly likely
+to refer to desires, cognitions, and/or emotions within
+connected utterances. We address this question in two
+ways: by using repeated measures analysis of covari-
+ance (ANCOVA) and by categorizing mothers and
+children according to whether or not they referred to
+mental states preferentially within connected turns.
+The second question concerns whether or not moth-
+ers’ and children’s mental-state references and con-
+nected turns are each significant, and independent,
+predictors of individual differences in children’s
+social understanding. The third question concerns
+whether or not connectedness moderates associations
+between mothers’ and children’s mental-state refer-
+ences and children’s social understanding. These
+latter two questions are addressed using separate
+correlations and hierarchical regression analyses.
+
+Data Reduction
+
+To achieve comparable measures of children’s
+social understanding at all three time points, we
+averaged standardized scores on the false belief,
+
+Mother – Child Talk and Early Social Understanding
+
+207
+
+emotion understanding and deception tasks. Scores
+on the false belief, emotion understanding, and
+deception tasks were significantly correlated at 2
+years of age, rmean(120) 5 .36, rmin(120) 5 .29, rmax(120)
+5 .40, p , .01; and at 3 years of age, rmean(120) 5 .35,
+rmin(120) 5 .26, rmax(120) 5 .43, p , .01. At 4 years of
+age, although there were significant correlations
+between scores on the false belief and emotion under-
+standing tasks, r(120) 5 .20, p , .05 and between the
+scores on emotion understanding and deception
+tasks, r(120) 5 .43, p , .01, false belief and deception
+scores were not significantly correlated, r(120) 5 .06,
+ns. The aggregates showed modest internal consis-
+tency at 2 years of age, Cronbach’s a 5 .63, and good
+internal consistency at 3 and 4 years of age, Cron-
+bach’s a 5 .73, for both.
+
+Turning to mother – child talk, we first indexed the
+quantity of mothers’ and children’s talk by calculating
+the number and mean length of mother to child turns
+and child to mother turns. Next, we indexed the
+
+quality of their talk by calculating the frequencies of
+connected, initiatory, failed, and conflictual turns.
+Third, we indexed the content of mother – child talk
+by calculating the frequencies of references to desires,
+cognitions, and emotions. Table 2 presents raw scores
+for each of these measures. Given the relative infre-
+quency of children’s references to cognitions, desires,
+and emotion, we adopted overall frequencies of
+children’s mental-state references for our analyses.
+In order to address the third study hypothesis
+(concerning whether
+associations between
+mental-state references and social understanding are
+restricted to connected conversations), we used
+Bespoke Software (Ensor, 2005) to marry the quality
+and content codes. This enabled us to calculate the
+frequencies of mothers’ and children’s mental-state
+references within connected, initiatory, failed, and
+conflictual turns. Note that both mothers and children
+made too few references to desires, cognitions, and
+emotions to calculate the frequency with which each
+
+the
+
+Table 2
+Descriptive Statistics for Measures of Cognition and Talk (Proportions Are Shown in Parentheses)
+
+Mothers
+
+Children
+
+Measure
+
+Number of turns
+Mean length of turns
+Desire reference
+Cognitive references
+Emotion references
+Connected turns
+Initiatory turns
+Failed turns
+Conflictual turns
+Number of turns
+Mean length of turns
+Desire references
+Cognitive references
+Emotion references
+Connected turns
+Initiatory turns
+Failed turns
+Conflictual turns
+Age 2 verbal comprehension
+Age 2 deception
+Age 2 false belief
+Age 2 emotion understanding
+Age 3 verbal comprehension
+Age 3 deception
+Age 3 false belief
+Age 3 emotion understanding
+Age 4 verbal comprehension
+Age 4 deception
+Age 4 false belief
+Age 4 emotion understanding
+
+M
+
+66.84
+7.61
+9.46 (.16)
+4.16 (.06)
+1.43 (.02)
+34.89 (.43)
+8.70 (.14)
+21.36 (.40)
+3.43 (.09)
+42.25
+2.67
+2.79 (.08)
+0.29 (.01)
+0.42 (.01)
+27.31 (.60)
+7.42 (.18)
+3.32 (.12)
+.59 (.07)
+
+15.44
+3.95
+0.66
+10.74
+21.48
+7.88
+1.66
+30.69
+35.30
+9.85
+1.65
+40.85
+
+SD
+
+48.38
+2.50
+7.71 (.12)
+4.49 (.06)
+1.97 (.03)
+33.39 (.20)
+6.33 (.07)
+13.63 (.25)
+4.14 (.08)
+37.45
+1.02
+4.28 (.09)
+0.77 (.02)
+0.91 (.03)
+26.12 (.20)
+8.47 (.12)
+4.24 (.15)
+1.12 (.10)
+5.78
+3.52
+0.77
+10.12
+3.50
+3.43
+1.43
+10.12
+11.31
+2.75
+1.42
+7.08
+
+Range
+
+5 – 256
+
+1.89 – 14.27
+
+0 – 40 (.00 – .70)
+0 – 20 (.00 – .29)
+0 – 12 (.00 – .12)
+0 – 173 (.00 – .88)
+0 – 31 (.00 – .50)
+0 – 78 (.00 – 1.00)
+0 – 23 (.00 – .40)
+0 – 209
+0 – 5.40
+0 – 22 (.00 – .46)
+0 – 5 (.00 – .10)
+0 – 4 (.00 – .23)
+0 – 135 (.00 – 1.00)
+0 – 52 (.00 – .67)
+0 – 29 (.00 – .80)
+0 – 6 (.00 – .52)
+0 – 25
+0 – 12
+0 – 2
+0 – 26
+10 – 27
+0 – 12
+0 – 4
+9 – 47
+11 – 72
+0 – 12
+0 – 4
+4 – 48
+
+208
+
+Ensor and Hughes
+
+occurred within connected,
+initiatory, failed, and
+conflictual turns. All measures of talk were log trans-
+formed before conducting correlation and regression
+analyses, in order to reduce any effects of the positive
+skew that were apparent in the raw data.
+
+Preliminary Analyses
+
+Before describing associations between children’s
+social understanding aggregates (described previ-
+ously) and children’s verbal comprehension, mater-
+nal education, and the number of mothers’ and
+children’s turns, we summarize findings concerning
+developmental change, stability of individual differ-
+ences, and sex differences in children’s social under-
+standing. As reported elsewhere (Hughes & Ensor,
+2007), children improved significantly in their perfor-
+mance on false belief tasks over the three time points;
+in addition, individual differences in children’s false
+belief task performance were significantly correlated.
+Girls achieved higher social understanding scores
+than boys at 2 years of age, t(120) 5 1.96, p 5 .05,
+and 3, t(120) 5 1.78, p , .10. However, there were no
+sex differences in any other study measure, t(120) ,
+1.54, ns, and girls and boys showed similar patterns of
+correlations. To simplify analyses, we report findings
+for the whole sample.
+
+The number of children’s turns was significantly
+correlated with children’s age 2 social understanding,
+r(120) 5 .18, p , .05, but not with social understanding
+at 3 or 4 years of age, r(120)  .07, ns. In addition, the
+number of mothers’ turns was not significantly cor-
+related with children’s social understanding at any
+age, r(120)  .15, ns. Maternal education was signifi-
+cantly correlated with children’s social understand-
+ing, r(120)  .18, p , .05. Finally, children’s verbal
+comprehension was significantly correlated with
+social understanding, both concurrently, r(120) 
+.63, p , .01, and longitudinally, r(120)  .46, p , 01.
+Therefore, we controlled for the effects of age 2 social
+understanding, age 4 verbal comprehension, and
+maternal education in subsequent regression analy-
+ses. In addition, to ensure comparability with prior
+studies that have used proportional measures of talk,
+these analyses also controlled for any effects of the
+number of mother and child turns.
+
+Do Mental-State References Occur in Connected,
+Initiatory, Failed, or Conflictual Turns?
+
+Our first hypothesis was that both mothers and
+children would be especially likely to refer to mental
+states within connected (as opposed to failed or
+conflictual) turns. To assess this hypothesis, we used
+
+two repeated measures ANCOVAs, each with two
+within-subject factors: content (three levels: desire,
+cognitive, and emotion references) and quality (four
+levels: connected, initiatory, failed, and conflictual
+turns). The number of mothers’ or children’s turns
+was covaried in each respective analysis.
+
+Main effects. Main effects of content of talk were
+found for both children, F(2, 117) 5 50.01, p , .001,
+and mothers, F(2, 117) 5 115.04, p , .001. Separate
+paired-samples t tests showed that children referred
+to desires significantly more frequently than to either
+cognitions, t(120) 5 6.39, p , .001, or emotions, t(120)
+5 6.39, p , .001. Children referred with similar
+frequency to cognitions and emotions, t(120) 5 1.30,
+ns. Mothers also referred to desires significantly more
+frequently than to either cognitions, t(120) 5 8.42,
+p , .001, or emotions, t(120) 5 11.46, p , .001. Mothers
+referred to cognitions significantly more frequently
+than to emotions, t(120) 5 5.70, p , .001.
+
+Main effects of quality of talk were found for both
+children, F(3, 116) 5 46.01, p , .001, and mothers,
+F(3, 116) 5 56.99, p , .001. Children’s utterances were
+significantly more likely to be connected than initia-
+tory, t(120) 5 10.65, p , .001; failed, t(120) 5 10.57,
+p , .001; or conflictual, t(120) 5 10.72, p , .001. In
+addition, children’s utterances were significantly
+more likely to be initiations than failed, t(120) 5
+6.06, p , .001, or conflictual, t(120) 5 6.12, p , .001.
+Children’s turns were equally likely to be failed or
+conflictual, t(120) 5 .59, ns. Likewise, mothers’ utter-
+ances were significantly more likely to be connected
+than initiatory, t(120) 5 9.77, p , .001; failed, t(120) 5
+4.12, p , .001; or conflictual, t(120) 5 10.04, p , .001.
+Mothers’ utterances were also significantly more
+likely to be initiations than failed, t(120) 5 11.23, p ,
+.001, or conflictual, t(120) 5 11.50, p , .001. Mothers’
+turns were significantly more likely to be failed than
+conflictual, t(120) 5 12.75, p , .001.
+
+Interaction effects. Most importantly, the interaction
+between quality and content was significant for both
+mothers, F(6, 113) 5 26.23, p , .001, and children,
+F(6, 113) 5 25.09, p , .001. As shown in Table 3,
+mothers and children both appeared more likely to
+refer to desires, cognitions, and emotions within
+connected utterances than within initiatory, failed,
+or conflictual turns. To explore this interaction further,
+we identified children and mothers who referred to
+desires/cognitions/emotions preferentially within
+connected turns if the proportion of connected turns
+that included references to desires/cognitions/emo-
+tions was greater than the proportion of initiatory,
+failed, and conflictual turns that included references
+to desires/cognitions/emotions. The number of chil-
+dren who showed such preferential use was 59 for
+
+Table 3
+Mothers and Children Refer to Desires, Cognitions, and Emotions More
+Frequently Within Connected Than Within Initiatory, Failed, or Conflic-
+tual Turns
+
+ences to desires and cognitions occurred more fre-
+quently within connected turns than within initiatory,
+failed, and conflictual utterances.
+
+Mother – Child Talk and Early Social Understanding
+
+209
+
+Content
+
+Quality
+
+Mothers
+
+Children
+
+M
+
+Desire references
+
+Cognitive references
+
+Emotion references
+
+Connected
+Initiation
+Failed
+Conflict
+Connected
+Initiation
+Failed
+Conflict
+Connected
+Initiation
+Failed
+Conflict
+
+4.35
+2.02
+2.90
+0.27
+2.07
+0.44
+0.91
+0.17
+0.63
+0.20
+0.47
+0.08
+
+1.77
+0.77
+0.31
+0.04
+0.21
+0.04
+0.05
+0.00
+0.31
+0.04
+0.04
+0.02
+
+desire terms, 10 for cognitive terms, and 13 for
+emotion terms (i.e., 49%, 8%, and 11%). Correspond-
+ing numbers for mothers were 109, 76, and 56 (i.e.,
+91%, 63%, and 47%). Moreover, 75 mothers referred
+preferentially to both cognitions and desires within
+connected turns (11 mothers did not refer preferen-
+tially to either cognitions or desires within connected
+turns and 34 mothers referred preferentially to either
+desires or cognitions within connected turns): McNe-
+mar (1, 119) 5 29.26, p , .001. In sum, the quality and
+content of mothers’ talk co-occurred, such that refer-
+
+Is Children’s Social Understanding Associated With Both
+Mental-State and Connected Talk?
+
+Our second study hypothesis was that mothers’
+and children’s mental-state references and connected
+turns would each be significant and independ-
+ent predictors of children’s social understanding
+at 4 years of age. Note that
+the patterns of
+correlations, shown in Table 4 were very similar
+for false belief and emotion understanding when
+examined separately. To simplify analyses (and for
+reasons of space), we focus on the overall measures
+of social understanding.
+
+Correlations: Mental-state references. Mothers’ cog-
+nitive references were significantly correlated with
+children’s social understanding at 2, 3 and 4 years of
+age, r(120)  .34, p , .01, even when children’s
+concurrent verbal comprehension scores were par-
+tialed, r(120) .27, p , .01. In contrast, mothers’ desire
+and emotion references were not significantly corre-
+lated with children’s social understanding at any age,
+r(120)  .07, ns; note the significant contrasts in
+strength of correlations between cognitive versus
+desire/emotion references and social understanding,
+z(120) . 2.17, p , .05. Children’s mental-state refer-
+ences (recall that children’s references to cognitive,
+desire, and emotion terms, because of their relative
+infrequency, were combined) were significantly cor-
+related with social understanding at 2, 3, and 4 years
+
+Table 4
+Correlations Between the Content and Quality of Talk and Children’s Social Understanding
+
+Age 2
+
+Age 3
+
+Age 4
+
+Mothers’
+
+Desires references
+Cognitive references
+Emotion references
+Connected turns
+Initiatory turns
+Failed turns
+Conflictual turns
+
+Children’s Mental-state references
+
+Connected turns
+Initiatory turns
+Failed turns
+Conflictual turns
+
+Social
+
+False belief Emotion
+
+.07
+.34**
+.06
+.33**
+.21*
+ .09
+.02
+.26**
+y
+.16
+.08
+.12
+.06
+
+ .01
+.30**
+ .01
+.36**
+.24**
+ .03
+ .10
+.31**
+.18*
+.05
+.06
+ .12
+
+.07
+.34**
+.06
+.33**
+.21*
+ .09
+.02
+.26**
+y
+.16
+.08
+.12
+.06
+
+y
+
+Social
+ .00
+.34**
+ .06
+.28**
+.16
+ .11
+ .09
+.25**
+.21*
+.07
+.01
+ .05
+
+False belief Emotion
+
+Social
+
+False belief Emotion
+
+.02
+.32**
+.02
+.27**
+.21*
+ .14
+ .04
+.22**
+.23**
+.08
+ .00
+ .07
+
+.00
+.33**
+ .07
+.27**
+.14
+ .10
+ .09
+.25**
+.20*
+.07
+.01
+ .05
+
+.06
+.43**
+.04
+.39**
+.27**
+ .10
+ .12
+.31**
+.26**
+.05
+.04
+.03
+
+.02
+.33**
+.03
+.33**
+.27**
+ .13
+ .04
+.19*
+.22**
+ .05
+.06
+ .01
+
+.07
+.37**
+.04
+.32**
+.18*
+ .04
+ .12
+.31**
+.21*
+.12
+.02
+.05
+
+Note. Emotion 5 emotion understanding; False belief 5 false belief understanding; Social 5 social understanding.
+y
+p , .10. *p , .05. **p , .01.
+
+210
+
+Ensor and Hughes
+
+initiatory,
+
+failed,
+
+Correlations: Connected,
+
+of age, r(120) .25, p , .01, even when effects of verbal
+comprehension were partialed, r(120)  .18, p , .05.
+and
+conflictual turns. Mothers’ connected turns were signifi-
+cantly correlated with social understanding at 2, 3, and
+4 years of age, r(120) .28, p , .01, even when children’s
+concurrent verbal comprehension scores were partialed,
+r(120)  .26, p , .01. Children’s connected turns were
+marginally correlated with age 2 social understanding,
+r(120) 5 .16, p , .10, and significantly correlated with
+social understanding at 3 and 4 years of age, r(120) .25,
+p , .05; however, these latter correlations fell below
+significance, when we partialled effects of verbal com-
+prehension, r(120)  .11, ns.
+
+Mothers’ initiations were marginally correlated
+with social understanding at 3 years of age, r(120) 5
+.16, p , .10, and significantly correlated with social
+understanding at 2 and 4 years of age, r(125)  .21,
+p , .05; however, when we partialed effects of verbal
+comprehension, these correlations fell below signifi-
+cance, r(120)  .11, ns. Mothers’ failed and conflict
+turns were unrelated to social understanding at any
+age, r(120)  .02, ns. Children’s initiatory, failed, and
+conflictual turns were not significantly correlated
+with social understanding at any age, r(120)  .12, ns.
+Regression analyses: Mental-state references versus
+connected turns. As reported earlier, mothers’ refer-
+ences to cognitions and desires were particularly
+likely to occur within connected turns. The correla-
+tions reported above demonstrate that mothers’ cog-
+nitive references and connected turns (and child
+mental-state references) were each associated with
+higher social understanding in children. Together,
+these findings indicate that mothers’ cognitive ref-
+erences and connected turns are likely to show
+overlapping associations with children’s
+social
+understanding. To address this possibility, we con-
+ducted two hierarchical regression analyses, in order
+to assess whether mothers’ cognitive references and
+connected turns are each significant and independent
+predictors of children’s age 4 social understanding. In
+both analyses, we entered the number of mother and
+child turns, children’s age 2 social understanding and
+age 4 verbal comprehension, and maternal education
+at Step 1 of the regression equation, R2 5 .44, F(5, 115)
+5 18.35, p , .001. The number of mother and child
+turns were included, as mentioned before, to ensure
+comparability with prior studies that have used pro-
+portional measures of talk. The other background
+measures were included because, as reported earlier,
+each was significantly correlated with age 4 social
+understanding.
+
+Table 5 summarizes the results of a regression
+analysis conducted to assess the significance of moth-
+
+ers’ cognitive references and connected turns as
+predictors of children’s age 4 social understanding.
+Here, we entered children’s mental-state references,
+mothers’ cognitive references, and mothers’ con-
+nected turns at Step 2 of the regression equation.
+Children’s mental-state references and mothers’ con-
+nected utterances (but not mothers’ cognitive refer-
+ences) were significant predictors and together
+accounted for an additional 5% of the variance in
+children’s age 4 social understanding, DR2 5 .05,
+Finc(3, 112) 5 3.55, p , .02. The largest variance
+inflation factor (VIF) was 6.23, indicating no problems
+of multicollinearity (Bowerman & O’Connell, 1990),
+and the maximum Cook’s distance was .14, indicating
+that no outliers were identified (Cook & Weisberg,
+1982).
+
+We conducted the second analysis to assess the
+independence of mothers’ connected turns and cog-
+nitive references as predictors of children’s age 4
+social understanding. To minimize overlap between
+constructs, we identified mothers’ cognitive referen-
+ces that occurred outside connected utterances and
+mothers’ connected turns that did not contain refer-
+ences to cognitions. We entered children’s mental-
+state references, mothers’ cognitive references that
+did not occur within connected turns, and mothers’
+connected turns that did not contain references to
+cognitions at Step 2 of the regression equation. Child-
+ren’s mental-state references and mothers’ connected
+turns that did not contain cognitive references (but
+not mothers’ cognitive references that did not occur
+within connected turns) were independent predictors
+
+Table 5
+Children’s (but Not Mothers’) Mental-State References and Mothers’
+Connected Turns Significantly Predict Children’s Age 4 Social Under-
+standing
+
+Step 1
+
+Step 2
+
+Variable
+
+B
+
+SE B
+
+b
+
+Maternal education
+No. of mother turns
+No. of child turns
+Age 2 social understanding
+Age 4 verbal comprehension
+Maternal education
+No. of mother turns
+No. of child turns
+Age 2 social understanding
+Age 4 verbal comprehension
+Child mental-state references
+Mother cognitive references
+Mother connected turns
+
+.11
+.00
+.00
+.04
+.03
+.11
+.00
+.00
+.03
+.03
+.04
+.01
+.03
+
+.05
+.00
+.00
+.01
+.01
+.05
+.00
+.00
+.01
+.01
+.01
+.02
+.01
+
+.15*
+.23
+.12
+.22**
+.47**
+.14*
+.26
+.21
+.19*
+.46**
+.24*
+.06
+.26*
+
+Note. R2 5 .44** for Step 1; DR2 5 .05* for Step 2.
+*p , .05. **p , .01.
+
+and accounted for an additional 5% of the variance in
+children’s age 4 social understanding, DR2 5 .05,
+Finc(3, 112) 5 3.59, p , .02.
+
+Does Connected Talk Moderate Associations Between
+Mental-State References and Social Understanding?
+
+Our third hypothesis was that children’s social
+understanding would be particularly strongly asso-
+ciated with mental-state references that occur within
+connected (as opposed to failed or conflictual) turns.
+Table 6 shows the correlations between children’s
+social understanding and both mothers’ and child-
+ren’s mental-state references within each type of
+speaker turn (i.e., connected, initiatory, failed, or
+conflictual).
+
+Correlations, by type of turn. Within connected turns,
+mothers’ and children’s mental-state references were
+significantly correlated with social understanding at
+ages 2, 3, and 4, r(120)  .25, p , .01. Within initiations,
+mothers’ mental-state references were correlated with
+social understanding, marginally significantly at 3
+years of age, r(120) 5 .17, p , .10, and significantly at 2
+and 4 years of age, r(120)  .24, p , .05. Children’s
+mental-state references within initiations were signifi-
+cantly correlated with social understanding at 3 and 4
+years of age, r(120)  .24, p , .05, but not at 2 years of
+age, r(120)  .14, ns. (All of the preceding results
+remained unchanged when we partialed effects of
+children’s concurrent verbal comprehension, r(120) 
+.18, p , .05.) Within failed or conflictual turns, however,
+both mothers’ and children’s mental-state references
+were not significantly correlated with social under-
+standing at any age, r(125)  .14, ns.
+
+Note that children’s social understanding showed
+significantly stronger correlations with mothers’
+mental-state references within connected turns than
+
+Mother – Child Talk and Early Social Understanding
+
+211
+
+within either failed or conflictual turns, z(120) . 2.89,
+p , .05; the one exception here was a marginally
+significant contrast in the strength of correlations
+between mothers’ connected versus conflictual men-
+tal-state references and age 2 social understanding,
+z(120) . 1.85, p ,. 10. Children’s social understanding
+at all three time points was also significantly more
+strongly correlated with the frequencies of their
+mental-state references within connected turns than
+within failed turns, z(120) . 2.41, p , .05; in addition,
+age 4 social understanding was significantly more
+strongly correlated with children’s mental-state refer-
+ences within connected versus conflictual
+turns,
+z(120) 5 2.05, p , .05.
+
+Regression analysis. Table 7 summarizes the find-
+ings from a regression analysis that examined whether
+mothers’ and children’s references to mental states
+within connected turns explained unique variance in
+children’s age 4 social understanding. As before, at
+Step 1 of the regression equation, we entered the
+number of mother and child utterances, children’s
+age 2 social understanding and age 4 verbal compre-
+hension, and maternal education, R2 5 .44, F(5, 115) 5
+18.35, p , .001. At Step 2 of the equation, mothers’ and
+children’s connected mental-state references were each
+independent predictors and together accounted for an
+additional 6% of variance in children’s age 4 social
+understanding, DR2 5 .06, Finc (3, 112) 5 3.55, p , .02.
+The largest VIF was 4.96, indicating no problems of
+multicollinearity, and the maximum Cook’s distance
+was .12, indicating that no outliers were identified.
+
+Summary
+
+Three main findings emerged from the present
+study. First, the majority of mothers referred to
+cognitions
+preferentially within
+
+desires
+
+and
+
+Table 6
+Correlations Between Mental-State References Within Connected, Initiatory, Failed, and Conflictual Turns and Children’s Social Understanding
+
+Speaker Content of turn
+
+Quality
+of turn
+
+Social
+
+False belief Emotion Social
+
+False belief Emotion Social
+
+False belief Emotion
+
+Age 2
+
+Age 3
+
+Age 4
+
+Mother Mental-state
+references
+
+Children Mental-state
+references
+
+Connected
+Initiation
+Failed
+Conflict
+Connected
+Initiation
+Failed
+Conflict
+
+.32**
+.24**
+ .15
+.09
+.25**
+.14
+.13
+ .06
+
+.31**
+.24**
+ .15
+.09
+.29**
+.13
+.06
+.05
+
+.32**
+.24**
+ .15
+.09
+.25**
+.14
+.14
+ .05
+
+y
+
+.42**
+.17
+ .05
+.07
+.31**
+.26**
+.13
+ .04
+
+.29**
+y
+.16
+ .05
+.07
+.21*
+y
+.16
+.13
+.13
+
+y
+
+.41**
+.16
+ .05
+.07
+.31**
+.26**
+.12
+ .05
+
+.48**
+.24**
+ .05
+.10
+.37**
+.24**
+.12
+ .10
+
+.34**
+.24**
+ .05
+.10
+.26**
+.14
+.12
+.13
+
+.44**
+y
+.16
+.00
+.08
+.32**
+.25**
+.09
+ .07
+
+Note. Emotion 5 emotion understanding; False belief 5 false belief understanding; Social 5 social understanding.
+y
+p , .10. *p , .05. **p , .01.
+
+212
+
+Ensor and Hughes
+
+Table 7
+Mothers’ and Children’s Mental-State References Within Connected
+Turns Significantly Predict Children’s Age 4 Social Understanding
+
+Variable
+
+B
+
+SE B
+
+b
+
+Step 1
+
+Step 2
+
+Maternal education
+No. of mother turns
+No. of child turns
+Age 2 social understanding
+Age 4 verbal comprehension
+Maternal education
+No. of mother turns
+No. of child turns
+Age 2 social understanding
+Age 4 verbal comprehension
+Child connected
+mental-state references
+Mother connected
+mental-state references
+
+.11
+.00
+.00
+.04
+.03
+.11
+.00
+.00
+.03
+.03
+.40
+
+.40
+
+.05
+.00
+.00
+.01
+.01
+.05
+.00
+.00
+.01
+.01
+.17
+
+.19
+
+.15*
+.23
+.12
+.22**
+.47**
+.15*
+.23
+.12
+.18*
+.39**
+.21*
+
+.22*
+
+Note. R2 5 .44** for Step 1; DR2 5 .06* for Step 2.
+*p , .05. **p , .01.
+
+connected turns. Second, children’s mental-state
+references and mothers’ connected turns were each
+significant and independent predictors of children’s
+age 4 social understanding, even when the quantity of
+maternal and child talk and children’s age 4 verbal
+comprehension and age 2 social understanding were
+all taken into account. Third, a moderation effect was
+found such that predictive associations with child-
+ren’s age 4 social understanding were strongest for
+mothers’ and children’s mental-state references
+within connected turns.
+
+Discussion
+
+The present study takes as its starting point the
+premise that the act of engaging another person in
+conversation implies an expectation to exchange or
+share points of view (de Rosnay & Hughes, 2006).
+Children’s experiences of such connectedness have
+received surprisingly little research attention, even
+though it is known that children who are successful
+on false belief tasks engage in frequent connected
+conversations (Dunn & Brophy, 2005; Dunn &
+Cutting, 1999; Slomkowski & Dunn, 1996). The pres-
+ent findings demonstrate elevated frequencies of
+references to cognitions, desires, and emotions within
+connected conversation compared with other forms
+of speech. This raises the likelihood that any associ-
+ation between mental-state talk and social under-
+standing may be explained by this overlap with
+connectedness; this possibility was confirmed in the
+
+present study. Our findings also demonstrate that
+connectedness was both a strong predictor of child-
+ren’s social understanding and an important moder-
+ator: Children’s concepts of mind and emotion appear
+to be most clearly reflected and/or promoted by
+mental-state references that occur within connected
+conversations.
+
+Before discussing these findings, we should note
+that others have, from a cognitive perspective, also
+argued that the mental-state terms and concepts
+children encounter in conversations may not be
+sufficient to promote their social understanding. For
+example, de Villiers (2000) argues that specific syn-
+tactic structures (embedded complements) must be
+mastered before children can attribute different
+points of view. In brief, mental verbs typically occur
+as main verbs in complex sentences with subordinate
+clauses—the sentential complement—as their gram-
+matical object. Children use such embedded comple-
+ments almost as soon as they start to produce mental
+verbs, that is, around 2 years of age (Bartsch &
+Wellman, 1995; Bretherton & Beeghly, 1982). Thus,
+by taking the frequency of children’s mental-state
+references into account, in the present study, we have,
+by proxy, also controlled for children’s use of embed-
+ded complements. However, a second wave of con-
+versation excerpts is needed to examine child-driven
+effects more completely. Children with precocious
+social understanding may be especially skilled in
+eliciting connected talk; indeed, it is known that
+young children play a crucial role in initiating con-
+versations (Clarke-Stewart & Hevey, 1981). Despite
+this limitation, the present findings are valuable in
+highlighting the potential importance of connected-
+ness and in delineating the types of mental-state talk
+that are particularly closely related to children’s social
+understanding.
+
+Children’s
+
+social understanding was more
+strongly related to mothers’ references to cognitions
+than to desires or emotions, even though both moth-
+ers and children referred to desires more frequently
+than cognitions. Such lack of associations between
+mothers’ desire and emotion references and child-
+ren’s social understanding may reflect the consider-
+able variability within these categories of mental-state
+talk. For example, routine enquires (e.g., ‘‘Do you
+want this crayon?’’) are less likely to promote reflec-
+tion on mental states than are references to desires
+that occur within explanations of others’ actions (e.g.,
+‘‘He chose that color because he wanted to finish his
+picture.’’). Nonetheless, our findings corroborate the
+findings of Jenkins et al. (2003) that exposure to family
+talk about cognitions, rather than desires, was asso-
+ciated with increases in children’s cognitive talk from
+
+2 to 4 years of age. That said, we also found that
+mothers’ cognitive references did not explain unique
+variance in children’s social understanding once
+effects of child verbal comprehension, age 2 social
+understanding, the quantity of mother and child talk,
+children’s mental-state references, and, importantly,
+mothers’ connected turns were controlled. In contrast,
+mothers’ connectedness was not only a significant
+correlate but also an independent predictor of child-
+ren’s social understanding at the age of 4 years. This
+finding may carry implications for those of previous
+studies, as apparently strong associations between
+mental-state talk and children’s social understanding
+may reflect covarying effects of connectedness.
+
+Why might mothers’ connectedness matter? Just as
+a child’s acquisition of language is accelerated by
+adults’ sensitivity in labeling objects within the
+child’s focus of attention (Tomasello & Barton, 1994;
+Tomasello & Farrar, 1986; Tomasello & Todd, 1983), so
+too, a child’s social understanding appears to be
+enhanced by adults’ comments that are related to
+a child’s utterances. Such a shared conversational
+focus makes salient the similarities or differences
+between the child’s and interlocutor’s points of view.
+In addition, connectedness enables conversational
+partners to coconstruct a shared perspective. Alter-
+natively, connected interactions may be characterized
+by reduced negativity, which in turn is likely to be
+beneficial for children’s understanding of mind and
+emotion (Ruffman, Perner, & Parkin, 1999). Support
+for the latter proposal comes from recent findings
+demonstrating that mothers who tended to attribute
+mental states to their 4- to 5-year-old children dis-
+played reduced hostility and intrusiveness when
+interacting with their children (Lok & McMahon,
+2006). However, connected conflictual utterances
+were included in our indices of connectedness. This
+suggests that, for the 2-year-olds in our sample at
+least, connectedness is not simply a proxy for the
+affective tone of an interaction.
+
+It would be premature, however, to conclude that
+explicit labeling of mental states does not matter for
+children’s social understanding. When we examined
+the interplay between mental-state and connected
+talk, we found that children’s and mothers’ mental-
+states’ references within connected (but not within
+failed or conflictual) turns did predict children’s
+social understanding at the age of 4 years. One
+account of this finding is that mental states can only
+be fully explained within connected conversations. In
+line with this proposal, researchers have emphasized
+that explanations within family talk help children
+understand emotions (Denham, Zoller, & Couchod,
+1994). Likewise, references to past mental states
+
+Mother – Child Talk and Early Social Understanding
+
+213
+
+during reminiscing are typically embedded in an
+explanatory narrative and so have been presented as
+critical for children’s theory of mind (Fivush &
+Nelson, 2006). In the present study, mothers did, in
+some instances, explain their mental state during
+connected conversations; in the following extract,
+for example, a mother explains her thoughts about
+the insect she inspects with her daughter.
+
+Child
+Mother
+Child
+Mother
+
+1, 2, 3, 4. (counting the insect’s legs)
+5. I think he’s having a bad day.
+Because he’s, because he’s?
+Because he’s missing a leg. He should have six.
+
+Mental states are not, however, always explained
+in connected conversations; for example, in the fol-
+lowing extract, the references to mental states are not
+explained but are used to highlight the discrepancy
+between the mother’s and child’s beliefs.
+
+Child
+Mother
+Child
+Mother
+Child
+Mother
+
+What’s the noise?
+A neighbor talking?
+A lion.
+I hope it’s not a lion.
+It is a lion
+It is a lion? I thought we
+
+only had lions in zoos in this country.
+
+Why then might references to mental states be
+especially meaningful when couched within con-
+nected turns? Recall that connected turns are seman-
+tically related to a child’s comment, and so, by
+definition, mental-state references that occur within
+a connected dialogue are relevant to the child’s
+current focus of attention. Put another way, engage-
+ment with, rather than exposure to, mental-state talk
+appears to be valuable in promoting children’s social
+understanding. This proposal converges with the
+recent literature on maternal mind-mindedness that
+highlights the particular importance of mothers’
+‘‘appropriate’’ comments on their infants’ mental
+states for their children’s later performance on false
+belief tasks (Meins et al., 2002).
+
+Talk about emotions may in particular comprise an
+essential cornerstone in the development of young
+children’s psychological understanding (Fivush &
+Nelson, 2006; Lagattuta & Wellman, 2002, p. 557).
+Early parent – child talk about past experiences, par-
+ticularly those involving negative emotions, contains
+much discussion of both the external and internal
+
+214
+
+Ensor and Hughes
+
+causes of feelings (Brown & Dunn, 1991; Lagattuta &
+Wellman, 2002). Such discussions, however, did not
+occur with sufficient frequency to permit fine-grained
+analysis in the present study. Instead, what mattered
+for children’s social understanding in the current
+study was the ‘‘meeting of minds’’ within conversa-
+tion. That is, our findings indicated that connected-
+ness is also a crucial context for the mental-state
+references that promotes children’s social under-
+standing. Excerpts from children’s conversations at
+different ages are now needed to assess how child-
+ren’s awareness of mental states contributes to family
+conversations. Further research is also necessary to
+examine the importance of children’s exposure to
+conversations in which they are not directly involved.
+By documenting the variety of children’s experiences
+of connectedness, we hope that future research will
+further improve our understanding of how these
+conversations enable children to venture beyond the
+here and now of human action to engage in a ‘‘meeting
+of minds.’’
+
+References
+
+Appleton, M., & Reddy, V. (1996). Teaching 3-year-olds to
+pass false belief tests: A conversational approach. Social
+Development, 5, 275 – 291.
+
+Balas, V. (2003). Droˆles de plats! Paris: Nathan.
+Bartsch, K., & Wellman, H. (1995). Children talk about the
+
+mind. Oxford, UK: Oxford University Press.
+
+Bloom, P., & German, T. (2000). Two reasons to abandon
+the false belief task as a test of theory of mind. Cognition,
+77, B25 – B31.
+
+Bowerman, B., & O’Connell, R. (1990). Linear statistical
+
+models: An applied approach. Belmont, CA: Duxbury.
+
+Bretherton, I., & Beeghly, M. (1982). Talking about internal
+states: The acquisition of a theory of mind. Developmental
+Psychology, 18, 906 – 921.
+
+Brophy, M., & Dunn, J. (2002). What did mummy say?
+Dyadic interactions between young ‘‘hard to manage’’
+children and their mothers. Journal of Abnormal Child
+Psychology, 30, 103 – 112.
+
+Brown, J., Donelan-McCall, N., & Dunn, J. (1996). Why talk
+about mental states? The significance of children’s
+conversations with friends, siblings, and mothers. Child
+Development, 67, 836 – 849.
+
+Brown, J., & Dunn, J. (1991). ‘‘You can cry, mum’’: The
+implications of talk about
+social and developmental
+internal states. Special Issue: Perspectives on the child’s
+theory of mind:
+II. British Journal of Developmental
+Psychology, 9, 237 – 256.
+
+Bruner, J. (1983). Child’s talk. Oxford, UK: Oxford Univer-
+
+sity Press.
+
+Cassidy, K. (1998). Preschoolers’ use of desires to solve
+theory of mind problems in a pretense context. Develop-
+mental Psychology, 34, 503 – 511.
+
+Chandler, M., Fritz, A., & Hala, S. (1989). Small-scale
+deceit: Deception as a marker of two-, three-, and four-
+year-olds’ early theories of mind. Child Development, 60,
+1263 – 1277.
+
+Clarke-Stewart, K. (1973). Interactions between mothers
+and their young children: Characteristics and conse-
+quences. Monographs of the Society for Research in Child
+Development, 38, 1 – 108.
+
+Clarke-Stewart, K., & Hevey, C.
+
+(1981). Longitudinal
+relations in repeated observations of mother-child inter-
+actions from 1 to 2 and a half years. Developmental
+Psychology, 17, 127 – 145.
+
+Clements, W., & Perner, J. (1994). Implicit understanding
+
+of belief. Cognitive Development, 9, 377 – 397.
+
+Cook, R., & Weisberg, S. (1982). Residuals and influence in
+
+regression. New York: Chapman & Hall.
+
+Denham, S. (1986). Social cognition, prosocial behavior,
+and emotion in preschoolers: Contextual validation.
+Child Development, 57, 194 – 201.
+
+Denham, S., Zoller, D., & Couchod, E. (1994). Socialisation
+of preschoolers’ emotion understanding. Developmental
+Psychology, 30, 928 – 936.
+
+de Rosnay, M., & Hughes, C. (2006). Conversation and
+theory of mind: Do children talk their way to socio-
+cognitive understanding? British Journal of Developmental
+Psychology, 24(1), 7 – 37.
+
+de Villiers, J. (2000). Language and theory of mind: What are
+the developmental relationships. In S. Baron-Cohen, H.
+Tager-Flusberg, & D. Cohen (Eds.), Understanding other
+minds: Perspectives from developmental cognitive neuroscience
+(pp. 83 – 123). Oxford, UK: Oxford University Press.
+
+Dunn, J. (1988). The beginnings of social understanding.
+
+Cambridge, MA: Harvard University Press.
+
+Dunn, J. (1993). Young children’s close relationships: Beyond
+
+attachment (Vol. 4). Newbury Park, CA: Sage.
+
+Dunn, J., & Brophy, M. (2005). Communication, relation-
+ships, and individual differences in children’s under-
+standing of mind. In J. Astington & J. Baird (Eds.), Why
+language matters for theory of mind. New York: Oxford
+University Press.
+
+Dunn, J., & Brown, J. (1993). Early conversations about
+causality: Content, pragmatics and developmental
+change. British Journal of Developmental Psychology, 11,
+107 – 123.
+
+Dunn, J., Brown, J., & Beardsall, L. (1991). Family talk about
+feeling states and children’s later understanding of
+others’ emotions. Developmental Psychology, 27, 448 – 455.
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Youngblade,
+L.
+(1991). Young children’s understanding of other
+people’s feelings and beliefs: Individual differences and
+their antecedents. Child Development, 62, 1352 – 1366.
+
+Dunn, J., & Cutting, A. (1999). Understanding others, and
+individual differences in friendship interactions in
+young children. Social Development, 8, 201 – 219.
+
+Dunn, L. (1997). British Picture Vocabulary Scale – Revised.
+
+Windsor, UK: NFER-Nelson.
+
+Elliott, C., Murray, D., & Pearson, L. (1983). British abilities
+
+scales. Windsor, UK: NFER-Nelson.
+
+Ensor, T. (2005). Quality and content of talk: A calculation tool.
+
+Cambridge, UK: Cambridge University Press.
+
+Fivush, R., & Nelson, K. (2006). Parent-child reminiscing
+locates the self in the past. British Journal of Developmental
+Psychology, 24, 235 – 251.
+
+Fogel, A. (1993). Developing through relationships: Origins of
+communication, self, and culture. Chicago: University of
+Chicago Press.
+
+Garnham, W., & Ruffman, T. (2001). Doesn’t see, doesn’t
+know: Is anticipatory looking really related to under-
+standing of belief? Developmental Science, 4, 94 – 100.
+
+Gottman, J. (1983). How children become friends. Mono-
+graphs of the Society for Research in Child Development,
+48(Serial No. 201).
+
+Grice, H. P. (1975). Logic and conversation. Syntax and
+
+Semantics, 3, 26 – 40.
+
+Hala, S., & Chandler, M. (1996). The role of strategic
+planning in accessing false belief understanding. Child
+Development, 67, 2948 – 2966.
+
+Hala, S., Chandler, M., & Fritz, A.
+
+(1991). Fledgling
+theories of mind: Deception as a marker of three-year-
+olds’ understanding of false belief. Child Development, 62,
+83 – 97.
+
+Harrist, A., & Waugh, R. (2002). Dyadic synchrony: Its
+structure and function in children’s development. Devel-
+opmental Review, 22, 555 – 592.
+
+Hart, B., & Risley, T.
+
+(1992). American parenting of
+language-learning children: Persisting differences in
+family-child interactions observed in natural home
+environments. Developmental Psychology, 28, 1096 – 1105.
+Hart, B., & Risley, T. (1995). Meaningful differences in the
+everyday experience of young American children. Baltimore:
+Brookes.
+
+Hughes, C. (1998). Executive function in preschoolers:
+Links with theory of mind and verbal ability. British
+Journal of Developmental Psychology, 16, 233 – 253.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and
+emotion: Longitudinal associations with mental-state
+talk between young friends. Developmental Psychology,
+34, 1026 – 1037.
+
+Hughes, C., & Ensor, R. (2007). Executive function and
+theory of mind: Predictive relations from ages 2 to 4.
+Developmental Psychology, 43, 1447 – 1459.
+
+Hughes, C., Jaffee, S., Happe´, F., Taylor, A., Caspi, A., &
+Moffitt, T. (2005). Origins of individual differences in
+theory of mind: From nature to nurture? Child Develop-
+ment, 76, 356 – 370.
+
+Huttenlocher, J., Haight, W., Bryk, A., Seltzer, M., &
+Lyons, T. (1991). Early vocabulary growth: Relation to
+language input and gender. Developmental Psychology,
+27, 236 – 248.
+
+Jenkins, J., Turrell, S., Kogushi, Y., Lollis, S., & Ross, H.
+(2003). A longitudinal
+investigation of the dynamics
+of mental state talk in families. Child Development, 74,
+905 – 920.
+
+Lagattuta, K., & Wellman, H. (2002). Differences in early
+parent-child conversations about negative versus posi-
+tive emotions:
+Implications for the development of
+
+Mother – Child Talk and Early Social Understanding
+
+215
+
+psychological understanding. Developmental Psychology,
+38, 564 – 580.
+
+Leslie, A., & Polizzi, P. (1998). Inhibitory processing in the
+false belief task: Two conjectures. Developmental Science,
+1, 247 – 254.
+
+Lohmann, H., & Tomasello, M. (2003). The role of language
+in the development of false belief understanding: A
+training study. Child Development, 74, 1130 – 1144.
+
+Lok, S. M., & McMahon, C. A. (2006). Mothers’ thoughts
+about their children: Links between mind-mindedness
+and emotional availability. British Journal of Developmen-
+tal Psychology, 24, 477 – 488.
+
+Meins, E., Fernyhough, C., Wainwright, R., Gupta, M.,
+Fradley, E., & Tuckey, M. (2002). Maternal mind-mind-
+edness and attachment security as predictors of theory
+of mind understanding. Child Development, 73, 1715 –
+1726.
+
+Meltzoff, A., Gopnik, A., & Repacholi, B. (1999). Toddlers’
+understanding of intentions, desires and emotions: Ex-
+plorations of the dark ages. In P. Zelazo, J. Astington, &
+D. Olson (Eds.), Developing theories of intention: Social
+understanding and self-control (pp. 17 – 41). Mahwah, NJ:
+Erlbaum.
+
+Moerbeek, K. (1994). Can’t sleep. London: Western Publi-
+
+shing.
+
+Nelson, K. (2005). Language pathways into the community
+of minds. In J. Astington & J. Baird (Eds.), Why language
+matters for theory of mind. Oxford, UK: Oxford University
+Press.
+
+Newton, P., Reddy, V., & Bull, R.
+
+(2000). Children’s
+everyday deception and performance on false belief
+tasks. British Journal of Developmental Psychology, 18,
+297 – 317.
+
+Olson, D. R. (1988). On the origins of belief and other
+intentional states in children. In J. W. Astington, P. L.
+Harris, & D. R. Olson (Eds.), Developing theories of mind
+(pp. 414 – 426). New York: Cambridge University Press.
+Peterson, C. (2002). Drawing insight from pictures: The
+development of concepts of false drawing and false
+belief in children with deafness, normal hearing, and
+autism. Child Development, 73, 1442 – 1459.
+
+Peterson, C. (2004). Theory-of-mind development in oral
+deaf children with cochlear implants or conventional
+hearing aids. Journal of Child Psychology and Psychiatry,
+45, 1096 – 1106.
+
+Peterson, C., & Siegal, M. (1995). Deafness, conversation
+and theory of mind. Journal of Child Psychology and
+Psychiatry, 36, 459 – 474.
+
+Peterson, C., & Siegal, M. (2000). Insights into theory of
+mind from deafness and autism. In M. Coltheart, & M.
+Davies (Eds.), Pathologies of belief (pp. 123 – 144). Malden,
+MA: Blackwell.
+
+Repacholi, B., & Gopnik, A. (1997). Early reasoning about
+desires: Evidence from 14- and 18-month olds. Develop-
+mental Psychology, 34, 1017 – 1025.
+
+Repacholi, B., & Slaughter, V. (Eds.). (2003). Individual
+differences in theory of mind: Implications for typical and
+atypical development. Hove, UK: Psychology Press.
+
+216
+
+Ensor and Hughes
+
+Ruffman, T., Perner, J., & Parkin, L. (1999). How parenting
+style affects false belief understanding. Social Develop-
+ment, 8, 395 – 411.
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation
+between children’s and mothers’ mental state language
+and theory-of-mind understanding. Child Development,
+73, 734 – 751.
+
+Searle, J. (1983). Intentionality: An essay in the philosophy
+
+of mind. New York: Cambridge University Press.
+
+Shatz, M., & Gelman, R. (1973). The development of
+communication skills: Modifications in the speech of
+young children as a function of listener. Monographs
+of the Society for Research in Child Development, 38,
+1 – 37.
+
+Slomkowski, C., & Dunn,
+
+Siegal, M., & Beattie, K. (1991). Where to look first for
+children’s knowledge of false beliefs. Cognition, 38, 1 – 12.
+(1996). Young children’s
+understanding of other people’s beliefs and feelings
+and their connected communication with friends. Devel-
+opmental Psychology, 32, 442 – 447.
+
+J.
+
+Tomasello, M., & Barton, M. (1994). Learning words in
+nonostensive contexts. Developmental Psychology, 30,
+639 – 650.
+
+Tomasello, M., & Farrar, M. (1986). Joint attention and
+
+early language. Child Development, 57, 1454 – 1463.
+
+Tomasello, M., & Todd, J. (1983). Joint attention and lexical
+
+acquisition style. First Language, 4, 197 – 211.
+
+Wellman, H., & Banerjee, M. (1991). Mind and emotion:
+Children’s understanding of the emotional consequen-
+ces of beliefs and desires. British Journal of Developmental
+Psychology, 9, 191 – 214.
+
+Wellman, H., Cross, D., & Watson,
+
+(2001). Meta-
+analysis of theory of mind development: The truth
+about false belief. Child Development, 72, 655 – 684.
+
+J.
+
+Wellman, H., Phillips, A., & Rodriguez, T. (2000). Young
+children’s understanding of perception, desire, and
+emotion. Child Development, 71, 895 – 912.
+
+Wilson, A., Smith, M., & Ross, H. (2003). The nature and ef-
+fects of young children’s lies. Social Development, 12, 21 – 45.
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs:
+representation and constraining function of wrong be-
+liefs in young children’s understanding of deception.
+Cognition, 13, 103 – 128.
+
+Woolfe, T., Want, S., & Siegal, M. (2002). Signposts to
+development: Theory of mind in deaf children. Child
+Development, 73, 768 – 778.
+
+

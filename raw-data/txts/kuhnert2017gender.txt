@@ -1,0 +1,1316 @@
+Journal of Experimental Child Psychology 154 (2017) 13–27
+
+Contents lists available at ScienceDirect
+
+Journal of Experimental Child
+
+Psychology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j e c p
+
+Gender-differentiated effects of theory of mind,
+emotion understanding, and social preference on
+prosocial behavior development: A longitudinal
+study
+Rebecca-Lee Kuhnert a,⇑
+
+, Sander Begeer b, Elian Fink c, Marc de Rosnay a,d
+
+a University of Sydney, Sydney, New South Wales 2006, Australia
+b Vrije Universiteit (VU) Amsterdam, 1081 HV Amsterdam, The Netherlands
+c University of Cambridge, Cambridge CB2 8PQ, UK
+d University of Wollongong, Wollongong, New South Wales 2522, Australia
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 5 November 2015
+Revised 29 September 2016
+Available online 22 October 2016
+
+Keywords:
+Prosocial behavior
+Gender differences
+Theory of mind
+Emotion understanding
+Longitudinal study
+Social preference
+
+Although key differences have been found in boys’ and girls’ proso-
+cial behavior toward peers, few studies have systematically exam-
+ined gender differences in how intrinsic perspective-taking
+abilities—theory of mind (ToM) and emotion understanding
+(EU)—and the extrinsic peer environment relate to prosocial
+behavior. In this prospective longitudinal study, we studied gender
+differences in the relations between children’s observed prosocial
+behavior and their ToM, EU, and social preference ratings in 114
+children (58 boys and 56 girls). We used conventional ToM and
+EU tasks at 5 and 7 years of age. Observed prosocial behavior in tri-
+adic peer interactions was assessed at both time points. Controlling
+for gender, age, verbal ability, and earlier prosocial behavior, ToM
+at 5 years was found to predict prosocial behavior at 7 years.
+Results also revealed gender-differentiated associations at 7 years,
+whereby only girls’ prosocial behavior was positively associated
+with EU. Results are discussed in terms of gender-differentiated
+patterns of socialization.
+
+Ó 2016 Elsevier Inc. All rights reserved.
+
+⇑ Corresponding author.
+
+E-mail address: rebecca-lee.kuhnert@sydney.edu.au (R.-L. Kuhnert).
+
+http://dx.doi.org/10.1016/j.jecp.2016.10.001
+0022-0965/Ó 2016 Elsevier Inc. All rights reserved.
+
+14
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+Introduction
+
+A consistent feature of children’s successful peer interactions is prosocial behavior, conceptualized
+as a voluntary act done with the speciﬁc intention to beneﬁt another (Eisenberg, 1986). Although
+prosocial behavior appears early in life, it nonetheless undergoes considerable change during child-
+hood; it becomes more sophisticated and increasingly nuanced according to gender as boys’ and girls’
+peer interactions take somewhat distinctive pathways (Eisenberg, Fabes, & Spinrad, 2006; Rose &
+Rudolph, 2006). Early manifestations of prosocial behavior have been consistently associated with
+children’s perspective-taking skills in the context of both empathy development and, more recently,
+early appearing understanding of others’ intentional attitudes, sometimes termed implicit theory of
+mind (Eisenberg et al., 2006; Low & Perner, 2012; Moore, 2007; Vaish, Carpenter, & Tomasello,
+2009). In both cases, children typically show their sensitivity to others’ emotional predicaments or
+states of mind through their prosocial acts, often tailoring their action to others’ distress or intention,
+even prior to 2 years of age (Svetlova, Nichols, & Brownell, 2010; Warneken & Tomasello, 2007). How-
+ever, although it is well known that children’s understanding of mind and emotion undergoes pro-
+found transformation during the transition to the school period (Harris, de Rosnay, & Pons, 2016;
+Wellman, 2002), very little is known about how these unfolding perspective-taking abilities continue
+to inﬂuence prosocial behavior development and whether gender socialization increasingly affects the
+way children use their understanding of mind and emotion in prosocial interactions.
+
+Also of importance to children’s early appearing prosocial behavior is the socializing environment;
+prosocial behavior is socially motivated, driven and reinforced by afﬁliative interactions with others
+(Grusec, 2006; Simpson & Willer, 2008), which again may be observed in children younger than 2
+years of age. On entry to school, however, for many children there is a profound shift in their social
+context, being thrust into the busy to and fro of peer interactions and increasingly complex social net-
+works. Although much is known about the importance of children’s social relations for their school
+success and social adaptation, relatively few studies have examined how the peer environment inﬂu-
+ences prosocial behavior and whether this plays out differently for boys and girls.
+
+In the current study, therefore, we examined whether known correlates of children’s prosocial
+behavior—understanding of mind and emotion and social preference—exert gender-differentiated
+effects on prosocial behavior development over the ﬁrst few years of school. We adopted a longitudi-
+nal design ideally suited to quantifying changing patterns of prosocial behavior, which was the focus
+of the investigation, rather than the origins of prosocial behavior per se. Despite the fact that children
+enter school with a good repertoire of prosocial behaviors, we nonetheless expected that observing
+children’s spontaneous peer interactions during this period, which is a time of rapidly growing under-
+standing of mind and emotion and expanding social relationships, would provide important insight
+into how prosocial behavior comes to be increasingly gender differentiated.
+
+Gender differences in prosocial behavior
+
+As children mature, peer relations become increasingly gender segregated and the interactions that
+boys and girls have with their same-sex peers become more differentiated (Maccoby, 1998; Rose &
+Rudolph, 2006). By middle childhood, boys predominantly socialize in larger peer groups that are
+more agentic-focused and competitive, whereas girls typically interact in dyadic peer relationships
+that are more interpersonal by nature (Geary, Byrd-Craven, Hoard, Vigil, & Numtee, 2003; Maccoby,
+2002). Indeed, gender differences in prosocial behavior may be present in children as young as 3 years
+(Sebanc, 2003), but these differences become increasingly pronounced as children enter middle child-
+hood and remain intact through to adolescence (Maccoby, 1990). Increasing age-related gender seg-
+regation is thought to be inﬂuenced by multiple biological, environmental and cultural factors,
+including hormonal changes and maturation, emerging differences in the structure and style of play,
+the development of gender identity, and an increasing awareness of gender stereotypes and socially
+prescribed gender roles (Eagly, 1987; Maccoby, 1998). Cumulatively, these factors are thought to con-
+tribute to the increasingly ingrained gender differences in peer interactions as children spend more
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+15
+
+time in the school environment. Thus, although differences in boys’ and girls’ peer interactions may
+begin to emerge on school entry, the literature suggests that they become especially pronounced dur-
+ing middle childhood (Golombok, Rust, Zervoulis, Golding, & Hines, 2012; Gray & Feldman, 1997).
+
+In relation to prosocial behavior speciﬁcally, previous studies have typically found that girls tend to
+act more prosocially toward their peers than do boys when rated by peers and teachers (Crick &
+Grotpeter, 1995; Ladd & Proﬁlet, 1996) and in observational studies (Leaper, 1991; Strough & Berg,
+2000). This disparity is conﬁrmed in girls’ personal accounts of their friendships; girls more often
+report that they are the recipients of prosocial acts than do boys (Sandstrom & Cillessen, 2003;
+Storch, Nock, Masia-Warner, & Barlas, 2003). Against this backdrop, it is important to consider
+whether those factors shown to be associated with prosocial behavior exert an inﬂuence on prosocial
+behavior development differently for boys and girls.
+
+Links between perspective taking and children’s social behavior
+
+During early to middle childhood, children form and reﬁne their ability to predict and explain
+behavior based on their understanding and interpretation of other people’s mental attitudes (Flavell
+& Miller, 1998; Wellman, 2002). This ability has been largely investigated in two domains: theory
+of mind (ToM), the understanding of others’ mental states such as beliefs and desires, and emotion
+understanding (EU), the ability to predict and explain emotion in terms of causes, consequences,
+and contextual determinants (Harris, 2000). Although ToM and EU are conceptually interrelated, they
+appear to be subtlety yet critically distinctive. ToM reﬂects an ability to represent and understand the
+beliefs and desires of others, which enables children to take on the perspectives of others and accord-
+ingly attune their behavior (Wu & Su, 2014). EU, while often drawing on ToM insights, captures chil-
+dren’s capacity to judge or infer an emotional outcome based on multiple determinants and becomes
+particularly elaborated during middle childhood when children’s adaptive social functioning—that is,
+the ability to interpret and respond to emotional cues in a socially appropriate way—is critical to their
+successful peer interactions (Denham, 2007).
+
+On balance, existing research indicates that there is a positive association between prosocial
+behavior and both ToM and EU (see Eisenberg et al., 2006, for an overview), although it should be
+noted that some studies have failed to document an association (Hughes, White, Sharpen, & Dunn,
+2000; Ruffman, Slade, Devitt, & Crowe, 2006). The somewhat inconsistent nature of these ﬁndings sug-
+gests that such relations are not incontrovertible and may be inﬂuenced by child-level characteristics
+such as gender. Furthermore, it is unclear whether the nature of the relation between prosocial behav-
+ior and ToM is the same as the relation between prosocial behavior and EU (see de Rosnay, Harris, &
+Pons, 2008, for a review). In addition, positive associations between ToM and prosocial behavior have
+not consistently been shown to be independent of children’s linguistic ability (de Rosnay et al., 2008;
+Slaughter, Imuta, Peterson, & Henry, 2015). Therefore, it is important to continue to examine the inde-
+pendent inﬂuences of ToM and EU on prosocial behavior.
+
+Although previous literature on ToM and EU generally demonstrates boys and girls to be compa-
+rable in these two domains (Charman, Ruffman, & Clements, 2002; Pons, Lawson, Harris, & de
+Rosnay, 2003), there is preliminary evidence to suggest that gender may play a moderating role in
+the relation between these perspective-taking skills and prosocial behavior. Research examining
+ToM, EU, and various social outcomes indicates a stronger association for girls compared with boys.
+For example, a study by Badenes, Clemente Estevan, and García Bacete (2000) found that only girls’
+peer acceptance was associated with performance on a ToM deception task as they entered middle
+childhood. Furthermore, in a sample of 9- to 12-year olds, Custrini and Feldman (1989) found that
+the ability to encode and decode others’ emotions was related to social competence in girls but not
+in boys. Finally, a study by Banerjee, Rieffe, Meerum Terwogt, Gerlein, and Voutsina (2006) showed
+that peer acceptance for 8- to 11-year-old girls, but not boys, was associated with their emotional
+state references in a task tapping understanding of negative emotions. The extent to which these latter
+ﬁndings can be generalized to prosocial behavior is unclear because prosocial behavior is a distinct
+construct that emphasizes a different facet of children’s social interactions compared with peer accep-
+tance or social competence (Eisenberg et al., 2006), but it remains noteworthy that gender exerts a
+moderating inﬂuence on the association between EU and social outcomes. To date, no study has
+
+16
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+speciﬁcally investigated the role of gender in the relation between ToM and EU with prosocial behav-
+ior during middle childhood; thus, the current study aimed to address this gap in the literature.
+
+Social preference and prosocial behavior
+
+In addition to intrinsic perspective-taking abilities, prosocial behavior has also been shown to be
+inﬂuenced by extrinsic social factors (Eisenberg et al., 2006). Existing research suggests that peer rat-
+ings of classmates’ likeability, or their social preference (see Coie, Dodge, & Coppotelli, 1982), can have
+a reinforcing effect on the extent to which one may act prosocially (Gifford-Smith & Brownell, 2003).
+Alternatively, this association may occur through a self-fulﬁlling cycle whereby children who sponta-
+neously display more prosocial behavior elicit more positive peer feedback and enjoy higher levels of
+peer acceptance, which in turn encourages more prosocial behavior and so on (Eisenberg et al., 2006;
+Laible, McGinley, Carlo, Augustine, & Murphy, 2014). Indeed, recent longitudinal research has sup-
+ported this latter scenario, demonstrating a positive bidirectional association between popularity
+and a proclivity to act more prosocially toward peers (Caputi, Lecce, Pagnin, & Banerjee, 2012;
+Kornbluh & Neal, 2016). Thus, children’s social preference appears to play a critical role in their proso-
+cial behavior.
+
+As to whether there may be gender differences in the association between prosocial behavior and
+social preference, given established gender differences showing that girls to rely on reciprocal inter-
+personal relations to a greater extent than do boys (Rose & Rudolph, 2006), it seems plausible that
+the prosocial behavior of girls may be more inﬂuenced by their social preference ratings than that
+of boys. Indeed, a number of studies have shown that the positive association between popularity
+and prosocial behavior during middle childhood is stronger for girls than for boys (Banerjee et al.,
+2006; Kornbluh & Neal, 2016; Lansford et al., 2006).
+
+The current study
+
+This study focused on children’s prosocial behavior toward peers during the ﬁrst few years of
+school, a time of rapidly increasing gender segregation. Speciﬁcally, we sought to examine how chil-
+dren’s understanding of mind and emotion (ToM and EU) and important aspects of peer experience
+(social preference) inﬂuence prosocial behavior development in relation to gender. Using a prospec-
+tive longitudinal design, we examined how the associations between key variables may change or
+develop as children mature from 5 years to 7 years of age and included age-appropriate measures
+of both ToM and EU at each time point. We also examined social preference at both time points,
+derived from nominations of the peers who children most and least liked to play with, which provided
+an index of children’s peer-rated social standing among their classmates. We used an observational
+measure of prosocial behavior in a triadic free-play session, as opposed to a trait-based measure of
+prosociality, to examine children’s proclivity to act prosocially speciﬁcally in the context of peer inter-
+actions. Finally, we included a measure of children’s verbal ability because verbal ability is a well-
+known ToM correlate (see Milligan, Astington, & Dack, 2007, for a relevant meta-analysis) and plays
+an indispensable role in social interactions.
+
+Based on previous ﬁndings, it was hypothesized that better ToM and EU would be associated with
+higher levels of prosocial behavior and that social preference would have independent positive asso-
+ciations with prosocial behavior toward peers at both 5 and 7 years of age. With respect to gender dif-
+ferences, we predicted that girls would display more prosocial behavior than boys at both time points.
+We also tentatively hypothesized that prosocial behavior would be more robustly associated with
+ToM, EU, and social preference in girls compared with boys based on previous work examining gender
+differences in ToM and EU with various social outcomes (Badenes et al., 2000; Banerjee et al., 2006;
+Custrini & Feldman, 1989) and in sociometric status (Banerjee et al., 2006; Kornbluh & Neal, 2016;
+Lansford et al., 2006). From a longitudinal perspective, we predicted that this gender differentiation
+in how our key variables relate to prosocial behavior would be more pronounced at 7 years compared
+with 5 years, in line with established accentuations of gender differences as children get older and
+once they have been in the school environment for a longer period (Maccoby, 1998; Rose &
+Rudolph, 2006).
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+17
+
+Method
+
+Participants
+
+A total of 114 kindergarten children (58 boys and 56 girls) were recruited from three inner subur-
+ban schools in Sydney, Australia. Children came from a mixture of ethnic backgrounds common to the
+area, and all had English as a native language. None experienced serious economic disadvantage. Opt-
+out recruitment was against local ethical guidelines, so only children whose parents gave written con-
+sent in kindergarten participated in the current study. Mean age at Time 1 was 5.61 years (SD = 0.42).
+Children were tested again 24 months later when they were in Year 2. At Time 2, 18 children were
+unavailable owing to mobility; thus, the Time 2 sample comprised 96 children (49 boys and 47 girls).
+Mean age at Time 2 was 7.73 years (SD = 0.38). Testing at both time points took place during the sec-
+ond half of the school year when familiarity with the classroom peer group was well established.
+
+Procedure
+
+Children were interviewed individually in a quiet room at school for their assessments of verbal
+ability, ToM, and EU. Task and trial orders were varied, and children were randomly assigned to
+one of two orders. In the ﬁnal testing session at both time points, prosocial behavior was observed
+during a free-play session with groups of 3 children at a time.
+
+Measures
+
+Verbal ability
+
+Children’s verbal ability was assessed using the Test of Early Language Development (TELD-3;
+Hresko, Reid, & Hammill, 1999), which measured expressive and receptive semantic skills. Raw
+(unstandardized) scores were used in statistical analyses to permit independent analysis of chronolog-
+ical age effects.
+
+Time 1 ToM
+
+Six false-belief understanding tasks were administered: (a) two unexpected contents tasks based
+on Perner, Leekam, and Wimmer (1987), (b) two unexpected transfer tasks based on Wimmer and
+Perner (1983), and (c) two nice/nasty surprise tasks based on Hughes and colleagues (2000). Tasks
+were narrated as storybook vignettes accompanied by colored drawings. For tasks (a) and (b), children
+were asked a reality control question (e.g., ‘‘What is really inside the box?”) in addition to a target
+false-belief question (e.g., ‘‘What does Lily think is inside the box?”). Both the control question and
+the test question needed to be answered correctly for children to be awarded 1 point. The nice/nasty
+surprise tasks required children to attribute a feeling to the story protagonist based on the match
+between his or her desires (e.g., the protagonist likes Coke) and his or her expectation (e.g., the pro-
+tagonist [mistakenly] thinks he or she will get Coke). Children needed to correctly answer the control
+question and the target question and to attribute an appropriate feeling to the protagonist to be
+awarded 1 point. All tasks are widely used (Milligan et al., 2007; Wellman, Cross, & Watson, 2001)
+and have good reliability and internal consistency (e.g., Hughes et al., 2000). A total false belief score
+summed the six false-belief items and had sound internal consistency, with Cronbach’s a = .78.
+
+Time 2 ToM
+
+Six vignettes assessing children’s faux pas understanding were individually narrated to children
+based on those developed by Baron-Cohen, O’Riordan, Stone, Jones, and Plaisted (1999). Each vignette
+detailed an example of a faux pas being committed such as unintentionally spoiling a surprise party.
+After each vignette, children were presented with six questions to assess whether they had detected
+and identiﬁed the speciﬁc faux pas (‘‘Did anyone say something they shouldn’t have said or maybe
+something a bit awkward?”), their identiﬁcation of the scenario (‘‘What did they say that they should
+not have said?” and ‘‘Why shouldn’t they have said it?”), their comprehension of the scenario (‘‘In the
+
+18
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+story, who was the surprise party for?”), whether the perpetrator was ignorant when committing the
+faux pas (‘‘Did Nicky remember the party was a surprise?”), and how the target of the faux pas would
+feel (‘‘How do you think Helen felt? Why do you think she felt that way?”). For each vignette, children
+needed to answer all six questions correctly in order to pass. A total faux pas score was summed from
+the six vignettes. Internal consistency was low (a = .63). However, this value is not unexpected given
+the low item number for this task (Clark & Watson, 1995) and reﬂects the diversity of the construct
+being assessed (Crutzen & Peters, 2015).
+
+Time 1 EU
+
+Based on Pons, Harris, and de Rosnay (2004), three age-appropriate components of emotion under-
+standing were chosen from the Test of Emotion Comprehension (TEC) to assess the emotional con-
+structs of (a) two items assessing emotion based on diverse desires (e.g., attribution of distinct and
+appropriate emotions to two characters—one who likes lettuce and one who dislikes lettuce—when
+they receive lettuce), (b) four items assessing emotion based on ignorance (e.g., attribution of emotion
+to a rabbit eating a carrot without knowing a fox is hiding nearby), and (c) four items assessing under-
+standing hidden emotion (e.g., attribution of emotion to a character who is smiling in order to conceal
+his or her distress while being teased). Two items assessing false-belief-based emotion were also
+included (Hughes et al., 2000). All components involved short vignettes about pictured protagonists,
+and test questions required choosing from four pictured facial expressions. All components assessed
+equal numbers of positive and negative emotion scenarios. Initial analysis showed that one of the
+ignorance-based emotion stories failed to correlate with any other task, so it was omitted from anal-
+yses. Thus, children received a possible score between 0 and 11. Internal consistency for the total was
+low (a = .60) but not unexpected considering the diversity of this construct (see Pons & Harris, 2005).
+
+Time 2 EU
+
+An assessment of children’s understanding of mixed emotions was individually administered and
+comprised eight mixed-emotion vignettes (Brown & Dunn, 1996; Kochanska, 1991; Meerum Terwogt,
+Koops, Oosterhoff, & Olthof, 1986; Nunner-Winkler, 2007; Thompson & Hoffman, 1980). In each vign-
+ette, a scenario was described that would cause the protagonist to feel multiple emotions; for exam-
+ple, the protagonist helps her friend read a book during reading time but consequently runs out of
+time to read her own book, causing her to feel both happy (that she helped her friend) and sad (that
+she could not read her own book). After each vignette was read aloud, children were asked how the
+protagonist would feel and why. Children passed only if they correctly identiﬁed two divergent emo-
+tions for each vignette and gave a coherent justiﬁcation that was distinct and appropriate for each
+emotion (children were given no score if they reported feeling two separate emotions for the same
+reason). A total score out of 8 was summed across vignettes. Internal consistency across the eight
+items was good (a = .72).
+
+Social preference
+
+At both time points, social preference was assessed using Coie and colleagues’ (1982) peer nomi-
+nation sociometric interview technique. Children were asked to nominate three classmates who they
+‘‘like to play with the most” and three classmates they ‘‘do not like to play with,” using photographs of
+their peers as prompts. Each child’s individual ‘‘like most” and ‘‘like least” scores were standardized
+within classrooms in order to account for different-sized peer groups. Social preference was calculated
+by subtracting classroom-standardized ‘‘like least” from standardized ‘‘like most” nominations.
+
+Prosocial behavior
+
+Children’s prosocial behavior was assessed during a free-play session with two other same-sex
+classmates. Triads were selected based on children’s social preference nominations at each time point,
+such that children were grouped together with two other peers who were not nominated as their best
+friends. Thus, the triads comprised different combinations of peers for each child at 5 years and at 7
+years of age. Each triad was ﬁlmed unobtrusively for 7 minutes with no adults present. At 5 years chil-
+dren played with a large toy zoo, and at 7 years they played with a large toy castle. Using Ensor and
+Hughes’ (2010) methods, ﬁve prosocial acts were coded for the triad free-play sessions at both time
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+19
+
+points: sharing, helping, comforting, praising, and encouraging. These prosocial acts were coded
+accordingly: focal child offering an object previously in his or her possession to peer (into peer’s hand
+or lap) or intentionally adding an object to an array within which peer was situated (sharing); focal
+child providing physical/verbal assistance to peer (helping); focal child expressing concern for peer
+or offering physical/verbal reassurance to peer (comforting); focal child praising congratulating, or
+complimenting peer (praising); focal child responding to peer’s emotion or request in a positive
+way that encouraged or supported peer’s emotion or request (encouraging). Each behavior could arise
+spontaneously or in response to a peer’s request. Displays of each prosocial act were recorded as fre-
+quencies regardless of how short or long the displays lasted. A total prosocial behavior score was
+summed across the ﬁve acts, reﬂecting an overall tendency to assist and share with same-sex peers
+during free play. Total scores ranged from 0 to 8 at 5 years and from 0 to 15 at 7 years. Coding of
+the free-play sessions was conducted separately by two of the study’s authors, both of whom had been
+trained on video coding in a previous study. An independent rater (a doctoral student who had also
+been trained on video coding) coded 20% of the total triad free-play sessions at both time points,
+and inter-rater reliability was substantial across all ﬁve categories, with Cohen’s j = .73.
+
+Results
+
+Descriptive statistics and preliminary analyses
+
+Table 1 shows means and standard deviations for all key variables for the total sample and by gen-
+der (with t-values for gender comparisons) at both Time 1 and Time 2. As predicted, girls displayed
+2 = .040, and Time 2, t
+more prosocial behavior than boys at both Time 1, t(110) = 2.14, p = .035, gp
+2 = .088. In addition, girls had higher scores on the EU task at Time 2, t(93)
+(88) = 2.92, p = .004, gp
+2 = .043. No signiﬁcant difference between boys and girls was found for any other
+= 2.05, p = .043, gp
+variable.
+
+Separate correlations were run for boys and girls in order to systematically examine potential gen-
+der differences (Table 2). First, it is noteworthy that there was little evidence that Time 1 prosocial
+behavior predicted children’s ToM, EU, or social preference. However, for girls, ToM and EU showed
+distinctive associations with Time 2 prosocial behavior; longitudinally T1 ToM, but not EU, was pos-
+itively correlated with T2 prosocial behavior, whereas concurrently T2 EU, but not ToM, was positively
+correlated with T2 prosocial behavior. The differentiated inﬂuence of ToM and EU on prosocial behav-
+ior was evident in girls despite the robust correlation between these two variables, indicating that
+their independent assessment was justiﬁed. In addition, for girls there was a positive association
+
+Table 1
+Means (and standard deviations) of verbal ability, theory of mind, emotion understanding, social preference, and prosocial
+behavior measures at Time 1 and Time 2 by gender.
+
+Measure
+
+Total
+
+Boys
+
+Girls
+
+t-Value
+(gender comparison)
+
+Time 1: Kindergarten (Mage = 5.61 years, SD = 5.02 months) n = 114
+Verbal ability
+Theory of mind
+Emotion understanding
+Social preference
+Prosocial behavior
+
+60.46 (5.16) 59.72 (4.50) 61.21 (5.70) 1.55
+4.23 (1.87) 3.95 (1.88)
+4.52 (1.82) 1.64
+5.88 (2.32) 0.77
+6.04 (2.21) 6.20 (2.09)
+0.02 (1.67)  0.25 (1.86) .30 (1.42)
+1.76
+2.76 (2.03) 2.14*
+2.39 (1.82) 2.03 (1.54)
+
+n = 58
+
+n = 56
+
+Time 2: Year 2 (Mage = 7.73 years, SD = 4.57 months)
+Theory of mind
+Emotion understanding
+Social preference
+Prosocial behavior
+
+* p < .05.
+** p < .01.
+
+n = 49
+
+n = 96
+2.73 (1.75) 2.47 (1.52)
+2.36 (2.09) 1.94 (2.04)
+0.00 (1.71)  0.10 (1.78) .11 (1.63)
+4.61 (3.17) 3.70 (2.86)
+
+n = 47
+3.00 (1.94) 1.50
+2.80 (2.07) 2.05*
+0.61
+
+5.57 (3.22) 2.92**
+
+20
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+Table 2
+Correlations among age, verbal ability, theory of mind, emotion understanding, social preference, and prosocial behavior at Time 1
+and Time 2 for boys and girls.
+
+1. Age
+2. VA
+3. T1 ToM
+4. T1 EU
+5. T1 SP
+6. T1 PB
+7. T2 ToM
+8. T2 EU
+9. T2 SP
+10. T2 PB
+
+1
+
+–
+.21
+.22
+.39**
+ .03
+.27*
+ .02
+.01
+.08
+ .16
+
+2
+
+.29*
+–
+.54***
+.45**
+.28*
+.31*
+.62***
+.45**
+.27
+.01
+
+3
+
+.06
+.48***
+–
+.58***
+.40**
+.25
+.46**
+.39**
+.40**
+.35*
+
+4
+
+.33*
+.49***
+.46***
+–
+.22
+.16
+.35*
+.40**
+.22
+.26
+
+5
+
+.05
+.03
+.28*
+.19
+–
+.20
+.31*
+.32*
+.81***
+.27
+
+6
+ .14
+ .03
+ .06
+ .06
+.14
+–
+.04
+.001
+.20
+.16
+
+7
+
+.27
+.28
+.37*
+.37*
+.10
+ .23
+–
+.41**
+.31*
+.24
+
+8
+
+.27
+.20
+.12
+.36*
+.22
+.09
+.12
+–
+.28
+.37*
+
+9
+
+.04
+ .004
+.19
+.24
+.68***
+.11
+ .08
+.22
+–
+.39**
+
+10
+ .18
+ .15
+.16
+ .22
+ .08
+ .27
+.19
+ .25
+ .02
+–
+
+Note. VA, verbal ability; T1, Time 1; ToM, theory of mind; EU, emotion understanding; SP, social preference; PB, prosocial
+behavior; T2, Time 2. Boys are above the diagonal, and girls are below the diagonal.
+
+* p < .05.
+** p < .01.
+*** p < .001.
+
+Table 3
+Hierarchical multiple regression analysis predicting Time 1 prosocial
+behavior from variables at Time 1.
+
+Step 1
+
+Gender
+Age
+VA
+
+Step 2
+
+Gender
+Age
+VA
+T1 ToM
+T1 EU
+T1 SP
+
+Step 3
+
+Gender
+Age
+VA
+T1 ToM
+T1 EU
+T1 SP
+Gender  T1 ToM
+
+Total R2
+
+DR2
+
+.09*
+
+.01
+
+.03
+
+.13*
+
+b
+
+.19*
+.07
+.16
+
+.17
+.09
+.17
+ .02
+ .05
+.12
+
+.16
+.08
+.16
+ .17
+ .06
+.12
+.24
+
+Note. VA, verbal ability; ToM, theory of mind; EU, emotion understanding;
+SP, social preference; PB, prosocial behavior. For gender analysis, boys
+were coded as 0 and girls were coded as 1.
+
+* p < .05.
+
+between social preference and prosocial behavior at T2, whereas for boys prosocial behavior was unre-
+lated to ToM, EU, and social preference at both time points.
+
+Associations with prosocial behavior at Time 1 and Time 2
+
+Two planned hierarchical regression models were constructed to evaluate the proposed patterns of
+association among prosocial behavior, ToM, EU, and social preference at both 5 and 7 years of age (see
+Tables 3 and 4). We also controlled for possible confounding effects of age and verbal ability. Interac-
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+21
+
+Table 4
+Hierarchical multiple regression analysis predicting Time 2 prosocial behavior
+from variables at Time 1 and Time 2
+
+Step 1
+
+Gender
+Age
+VA
+T1 PB
+
+Step 2
+
+Gender
+Age
+VA
+T1 PB
+T1 ToM
+T1 EU
+T1 SP
+T2 ToM
+T2 EU
+T2 SP
+
+Step 3
+
+Gender
+Age
+VA
+T1 PB
+T1 ToM
+T1 EU
+T1 SP
+T2 ToM
+T2 EU
+T2 SP
+Gender  T1 ToM
+Gender  T2 EU
+Gender  T2 SP
+
+DR2
+
+.10
+
+.17*
+
+.09*
+
+b
+
+.26*
+ .17
+.001
+.06
+
+.22*
+ .23*
+ .26*
+.05
+.30*
+.02
+ .27
+.24
+.04
+.30
+
+.20
+ .18
+ .33*
+.08
+.32*
+.04
+ .27
+.18
+ .20
+.19
+ .04
+.38**
+.17
+
+Total R2
+
+.37**
+
+Note. VA, verbal ability; ToM, theory of mind; EU, emotion understanding; SP,
+social preference; PB, prosocial behavior. For gender analysis, boys were coded
+as 0 and girls were coded as 1.
+
+* p < .05.
+** p < .01.
+
+tion terms between gender and variables of interest were calculated based on gender differences iden-
+tiﬁed in Tables 1 and 2 in order to further explore these speciﬁc ﬁndings. Regression analyses with all
+gender interaction variables included were also conducted, and the overall pattern of ﬁndings for both
+T1 and T2 prosocial behavior remained unchanged. Thus, the ﬁnal models included only interaction
+variables where gender differences were identiﬁed in preliminary analyses.
+
+In the ﬁrst model predicting T1 prosocial behavior (Table 3), gender, age, and verbal ability were
+entered on the ﬁrst step; T1 ToM, EU, and social preference were entered on the second step; and a
+separate gender interaction variable with T1 ToM was entered on the ﬁnal step. The overall model
+was signiﬁcant; however, none of the variables in the model was found to be a signiﬁcant independent
+predictor of T1 prosocial behavior.
+
+In the second model predicting T2 prosocial behavior (Table 4), gender, age, verbal ability, and T1
+prosocial behavior were entered on the ﬁrst step; T1 and T2 ToM, EU, and social preference were
+entered on the second step; and three separate gender interaction variables with T1 ToM, T2 EU,
+and T2 social preference, respectively, were entered on the ﬁnal step. The model was signiﬁcant at
+the second and ﬁnal steps, and both of these steps signiﬁcantly improved model ﬁt. In the ﬁnal step,
+T1 ToM signiﬁcantly predicted T2 prosocial behavior, b = .31, t(72) = 2.11, p = .039, indicating that chil-
+dren’s ToM at 5 years of age had a positive longitudinal inﬂuence on their prosocial behavior at 7 years
+
+22
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+Fig. 1. Interaction between child gender and Time 2 emotion understanding as a predictor of prosocial behavior at Time 2.
+
+irrespective of gender. Unexpectedly, verbal ability was found to negatively predict T2 prosocial
+behavior, b =  .33, t(72) =  2.65, p = .010.
+
+The ﬁnal step also revealed that the interaction between gender and Time 2 EU was signiﬁcant,
+b = .38, t(72) = 2.67, p = .009 (see Fig. 1). Subsequent simple slopes analysis of this interaction showed
+that for girls there was a signiﬁcant positive association between EU and prosocial behavior, b = .25, t
+(72) = 2.22, p = .029, whereas for boys this association was not signiﬁcant, b =  .15, t(72) =  1.43,
+p = .16.
+
+Discussion
+
+The current study used a prospective longitudinal design to investigate gender-differentiated asso-
+ciations among prosocial behavior, ToM, EU, and social preference, and how these associations may
+change from 5 years to 7 years of age. Children’s ToM at 5 years signiﬁcantly and independently pre-
+dicted prosocial behavior toward peers at 7 years, even after controlling for potentially confounding
+variables such as age, verbal ability, and earlier prosocial behavior. This ﬁnding demonstrates a longi-
+tudinal, but not concurrent, association between ToM and prosocial behavior that was not moderated
+by gender. In addition, at 7 years, prosocial behavior was positively associated with EU for girls but not
+for boys. Taken together, these ﬁndings show that by middle childhood, boys and girls draw on dis-
+tinct factors when interacting with their same-sex peers.
+
+Theory of mind and prosocial behavior
+
+Our ﬁndings add to the growing body of research demonstrating a positive association between
+children’s ToM and their prosocial behavior (e.g., Cassidy, Werner, Rouke, Zubernis, & Balaraman,
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+23
+
+2003; Slaughter, Dennis, & Pritchard, 2002; Wu & Su, 2014). Furthermore, our results provide support
+for the theoretical assumption that underpins the majority of research on ToM—that children’s intrin-
+sic capacity to understand the thoughts, beliefs, and desires of others may facilitate their tangible real-
+life behavior in social interactions. Importantly, skills like ToM are not merely theoretical attributes
+that exist in a vacuum; rather, they may be critically inﬂuential in the practical manifestation of chil-
+dren’s social behavior in everyday life. The current study demonstrated a longitudinal, but not concur-
+rent, association between ToM and prosocial behavior. This supports the ﬁndings of Caputi and
+colleagues (2012), who similarly found longitudinal effects of ToM on prosocial behavior from 5 years
+to 6 years, and from 6 years to 7 years, but did not ﬁnd any concurrent relationships within time
+points. Indeed, longitudinal associations have been reported in various studies that examined other
+real-life social outcomes in relation to ToM such as friendship insight (Dunn, Cutting, & Fisher,
+2002), mental-state talk in conversations with friends (Hughes & Dunn, 1998; Hughes, Ensor, &
+Marks, 2011), and sensitivity to criticism (Cutting & Dunn, 2002; Lecce, Caputi, & Pagnin, 2013). Thus,
+the ﬁndings of the current study, in conjunction with previous research, highlight that the consolida-
+tion of social cognitive skills is a developmental process that requires time, experience, and matura-
+tion in order for these skills to be maximized in practical social behavior (Hughes, 2011).
+
+Gender-differentiated associations with EU
+
+Based on previous studies that have examined gender differences in the associations among ToM,
+EU, and various social outcomes (Badenes et al., 2000; Banerjee et al., 2006; Custrini & Feldman, 1989),
+it was hypothesized that both ToM and EU would be more robustly associated with prosocial behavior
+for girls compared with boys, and that this association would be more prominent at 7 years of age
+compared with 5 years once children had spent more time in the school environment. This hypothesis
+was partially supported by our ﬁndings, which demonstrated that girls’ EU was positively associated
+with their prosocial behavior at 7 years, with no such relation for boys. As such, a main effect of gender
+at 7 years was qualiﬁed by the signiﬁcant difference in how boys’ and girls’ EU related to their proso-
+cial behavior time point. Indeed, other studies that have examined prosocial behavior in relation to
+other key variables similarly failed to ﬁnd a signiﬁcant independent association with gender once
+the contributions of other variables were taken into account (e.g., Caputi et al., 2012; Eggum et al.,
+2011; Ensor & Hughes, 2005).
+
+It appears that by middle childhood, girls may use their EU abilities during practical prosocial acts
+toward peers in a way that boys do not. This distinction may reﬂect a greater proclivity for girls, com-
+pared with boys, to capitalize on their understanding of others’ emotions in their peer interactions.
+Based on the established gender-differentiated nature of children’s peer relations, whereby girls’ rela-
+tionships are more interpersonal by nature and have a stronger focus on emotional transactions (Rose
+& Rudolph, 2006), it seems likely that there may be a greater actual or perceived need for girls to be
+able to understand how their peers are feeling and to harness this knowledge to act prosocially and,
+thus, maintain their interpersonal emotional bonds. From an evolutionary viewpoint, the need for
+females to interact with and rely on more distally related kin and non-kin members, compared with
+males, may have contributed to ‘‘a unique suite of selection pressures for females to be more sensitive
+to the display and reception of higher levels of interpersonal investment behaviors” (Vigil, 2007, p.
+146). Indeed, research on children’s emotional displays indicates that girls are more attuned to the
+emotional experiences of their peers (Banerjee et al., 2006; Custrini & Feldman, 1989) and are more
+likely to conceal their negative emotions for the sake of others in a social situation (Cole, 1986;
+Saarni, 1984) compared with boys.
+
+In addition, it appears that ToM and EU have distinctive relations with prosocial behavior moder-
+ated by gender. Our results indicate that earlier ToM understanding is important for boys and girls
+alike, whereas EU appears to be more inﬂuential in the prosocial behavior of girls than in that of boys.
+This supports the account that EU may reﬂect a more interpersonally oriented perspective-taking abil-
+ity that is sensitive to gender differences in social relations, whereas ToM may be a relatively more
+gender-neutral ability (Braza et al., 2009). Intriguingly, the current study also found differences in
+how ToM and EU related to prosocial behavior from 5 years to 7 years of age; ToM showed longitudi-
+nal, but not concurrent, associations with prosocial behavior, whereas EU showed concurrent, but not
+
+24
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+longitudinal, relations. One possible account of this distinction is that ToM and EU may differ in their
+scope; whereas ToM is more narrowly focused on the acquisition of cognitive milestones or conceptual
+insights that are critical to children’s perspective taking, EU incorporates a broader range of psycho-
+logical phenomena, whereby a prerequisite of interpreting a wide range of idiosyncratic emotional
+reactions and responding sensitively to others’ emotional cues is grounded in ToM abilities
+(Hoffman, 1982). Consequently, children’s EU abilities at 7 years may have drawn on their earlier
+ToM skills at 5 years, in addition to their concurrent skills concerning the interpretation of and
+response to emotional cues, reﬂected in a concurrent, but not longitudinal, association between EU
+and prosocial behavior at 7 years. Alternatively, it may be the case that earlier ToM skills, but not
+EU skills, confer a later advantage to children’s peer interactions because of a mediated effect on a
+third variable, which then in turn increases children’s later prosocial behavior. Although we did not
+explicitly investigate any mediational relations in the current study, our longitudinal ﬁndings indicate
+that future research on ToM and prosocial behavior would beneﬁt by examining potential mediational
+effects of different child and situational factors.
+
+The current study had an unexpected ﬁnding at 7 years of age, whereby children’s verbal ability
+was found to negatively predict prosocial behavior. Although this appears to contradict existing
+research (e.g., Cassidy, Werner, Rourke, Zubernis, & Balaraman, 2003; Slaughter et al., 2002), it should
+be noted that there is signiﬁcant variation in how children’s linguistic skills relate to their prosocial
+behavior, depending on the measures used to assess these two constructs (Eisenberg et al., 2006). Per-
+haps the children in the current study who were more verbally proﬁcient used their linguistic skills to
+act prosocially toward their peers, which was not captured by our measure of prosocial behavior.
+Including a verbal-based measure of prosocial behavior may be a fruitful area for future research.
+
+Contrary to the study hypothesis, social preference was not associated with prosocial behavior at
+either time point. This ﬁnding suggests that during middle childhood intrinsic factors such as ToM and
+EU may play a relatively greater role in inﬂuencing prosocial behavior compared with extrinsic factors
+such as social preference.
+
+Limitations and future directions
+
+It is important to acknowledge the limitations of the current study and the ensuing potential direc-
+tions for future research. First, although observational measures of prosocial behavior have been found
+to be less gender biased than report-based measures (Rose & Rudolph, 2006; Zarbatany, Hartmann,
+Gelfand, & Vinciguerra, 1985), it is possible that our conceptualization of prosocial behavior may have
+nonetheless implicitly favored girls. There was an observed trend in the triadic play sessions for girls
+to engage in more logistical interactions concerning rule making and boundary setting for the play
+compared with boys, which in turn may have given rise to greater numbers of the types of prosocial
+acts coded in the current study. It would be interesting to examine whether girls still display more
+prosocial behavior when it is measured as a ratio of time spent engaging in interactions that require
+children to help and share, rather than an absolute number of acts, or whether this gender difference is
+merely reﬂective of the distinct types of interactions in which boys and girls engage.
+
+Second, due to the relatively modest sample size, we were unable to analyze any effects relating to
+each individual component of our prosocial behavior composite (sharing, helping, comforting, praising
+and encouraging). It would be worth exploring whether speciﬁc types of prosocial acts have unique
+relations with ToM and EU and whether they show differential associations for boys and girls. It is
+likely, given that certain prosocial acts rely more heavily on perspective-taking abilities such as com-
+forting (Eisenberg et al., 2006), that psychological understanding may inﬂuence speciﬁc prosocial acts
+to a greater extent than others. Similarly, it may be that girls are more inclined to display certain types
+of prosocial behaviors compared with boys but that boys may in turn display other types of prosocial
+behaviors more than girls. Thus, gender differences in prosocial behavior may be more complex than
+simply observing any overall difference in the number of total prosocial behaviors, as an amalgam, and
+may instead manifest in differences within and between speciﬁc prosocial acts.
+
+Finally, prosocial behavior in the current study was measured in interactions with same-sex peers
+so as to reﬂect the predominance of gender-segregated peer interactions that typify middle childhood.
+However, it is possible that this may have overinﬂated any gender differences in prosocial behavior
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+25
+
+given that boys and girls have been found to engage in signiﬁcantly more gender-stereotyped activi-
+ties when interacting with same-sex peers compared with mixed-sex peers (Fabes, Martin, & Hanish,
+2003). Furthermore, it is difﬁcult to determine whether the gender effect found in the current study
+was driven by child gender or by peers’ gender—namely, the gender of the recipients of children’s
+prosocial behavior. It may be that boys and girls are generally treated differently regardless of who
+is instigating the prosocial behavior toward them. Indeed, research indicates that boys and girls show
+differences in the ways they behave toward same-sex versus other-sex peers; boys tend to afﬁliate
+more than girls with familiar same-sex peers (Benenson, Quinn, & Stella, 2012), and girls show greater
+variability in the amount of time spent engaged in play with peers of the opposite sex (Martin & Fabes,
+2001). Future research comparing boys’ and girls’ interactions with same-sex versus other-sex peers,
+as well as using naturalistic observations of children’s interactions in settings such as the school play-
+ground, may be beneﬁcial in clarifying these issues concerning peer gender.
+
+Conclusion
+
+The current research is the ﬁrst longitudinal study to systematically examine gender differences in
+the relations among observed prosocial behavior with ToM, EU, and social preference during middle
+childhood. The results indicated that earlier ToM at 5 years of age positively predicted later prosocial
+behavior for all children irrespective of gender. By contrast, the relation between EU and prosocial
+behavior at 7 years was moderated by gender, such that there was a positive association between
+EU and prosocial behavior for girls only. Thus, it appears that ToM and EU have unique gender-
+differentiated associations with children’s prosocial behavior toward peers during middle childhood.
+
+Acknowledgment
+
+This research was supported by a grant under the Australian Research Council’s Discovery Projects
+
+funding scheme (Project DP0881855).
+
+References
+
+Badenes, L. V., Clemente Estevan, R. A., & García Bacete, F. J. (2000). Theory of mind and peer rejection at school. Social
+
+Development, 9, 271–283.
+
+Banerjee, R., Rieffe, C., Meerum Terwogt, M., Gerlein, A. M., & Voutsina, M. (2006). Popular and rejected children’s reasoning
+
+regarding negative emotions in social situations: The role of gender. Social Development, 15, 418–433.
+
+Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R., & Plaisted, K. (1999). Recognition of faux pas by normally developing children
+and children with Asperger syndrome or high-functioning autism. Journal of Autism and Developmental Disorders, 29,
+407–418.
+
+Benenson, J. F., Quinn, A., & Stella, S. (2012). Boys afﬁliate more than girls with a familiar same-sex peer. Journal of Experimental
+
+Child Psychology, 113, 587–593.
+
+Braza, F., Azurmendi, A., Munoz, J. M., Carreras, M. R., Braza, P., Garcia, A., ... Sanchez-Martin, J. R. (2009). Social cognitive
+predictors of peer acceptance at age 5 and the moderating effects of gender. British Journal of Developmental Psychology, 27,
+703–716.
+
+Brown, J. R., & Dunn, J. (1996). Continuities in emotion understanding from three to six years. Child Development, 67, 789–802.
+Caputi, M., Lecce, S., Pagnin, A., & Banerjee, R. (2012). Longitudinal effects of theory of mind on later peer relations: The role of
+
+prosocial behavior. Developmental Psychology, 48, 257–270.
+
+Cassidy, K. W., Werner, R. S., Rourke, M., Zubernis, L. S., & Balaraman, G. (2003). The relationship between psychological
+
+understanding and positive social behaviors. Social Development, 12, 198–221.
+
+Charman, T., Ruffman, T., & Clements, W. (2002). Is there a gender difference in false belief development? Social Development, 11,
+
+1–10.
+
+Clark, L. A., & Watson, D. (1995). Constructing validity: Basic issues in objective scale development. Psychological Assessment, 7,
+
+309–319.
+
+Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross-age perspective. Developmental
+
+Psychology, 18, 557–570.
+
+Cole, P. M. (1986). Children’s spontaneous control of facial expression. Child Development, 57, 1309–1321.
+Crick, N. R., & Grotpeter, J. K. (1995). Relational aggression, gender, and social–psychological adjustment. Child Development, 66,
+
+710–722.
+
+Crutzen, R., & Peters, G. J. Y. (2015). Scale quality: Alpha is an inadequate estimate and factor-analytic evidence is needed ﬁrst of
+
+all. Health Psychology Review. http://dx.doi.org/10.1080/17437199.2015.1124240.
+
+Custrini, R. J., & Feldman, R. S. (1989). Children’s social competence and nonverbal encoding and decoding of emotions. Journal of
+
+Clinical Child Psychology, 18, 336–342.
+
+26
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+Cutting, A. L., & Dunn, J. (2002). The cost of understanding other people: Social cognition predicts young children’s sensitivity to
+
+criticism. Journal of Child Psychology and Psychiatry, 43, 849–860.
+
+de Rosnay, M., Harris, P. L., & Pons, F. (2008). Making links between emotion understanding and developmental
+psychopathology in young children. In C. Sharp, P. Fonagy, & I. Goodyear (Eds.), Social cognition and developmental
+psychopathology (pp. 343–385). New York: Oxford University Press.
+
+Denham, S. A. (2007). Dealing with feelings: How children negotiate the worlds of emotions and social relationships. Cognition,
+
+Brain, Behavior, 11(1), 1–48.
+
+Dunn, J., Cutting, A. L., & Fisher, N. (2002). Old friends, new friends: Predictors of children’s perspective on their friends at school.
+
+Child Development, 73, 621–635.
+
+Eagly, A. H. (1987). Sex differences in social behavior: A social role interpretation. Hillsdale, NJ: Lawrence Erlbaum.
+Eggum, N. D., Eisenberg, N., Kao, K., Spinrad, T. L., Bolnick, R., Hofer, C., ... Fabricius, W. V. (2011). Emotion understanding, theory
+
+of mind, and prosocial orientation: Relations over time in early childhood. Journal of Positive Psychology, 6(1), 4–16.
+
+Eisenberg, N. (1986). Altruistic emotion, cognition, and behavior. Hillsdale, NJ: Lawrence Erlbaum.
+Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Prosocial development. In W. Damon, R. M. Lerner, & N. Eisenberg (Eds.),
+
+Handbook of child psychology. Social, emotional, and personality development (3, pp. 646–718). New York: John Wiley.
+
+Ensor, R., & Hughes, C. (2005). More than talk: Relations between emotion understanding and positive behaviour in toddlers.
+
+British Journal of Developmental Psychology, 23, 343–363.
+
+Ensor, R., & Hughes, C. (2010). With a little help from my friends: Maternal social support, via parenting, promotes willingness
+
+to share in preschoolers born to young mothers. Infant and Child Development, 19, 127–141.
+
+Fabes, R. A., Martin, C. L., & Hanish, L. D. (2003). Young children’s play qualities in same-, other-, and mixed-sex peer groups.
+
+Child Development, 74, 921–932.
+
+Flavell, J., & Miller, P. (1998). Social cognition. In W. Damon, D. Kuhn, & R. Siegler (Eds.), Handbook of child psychology (5th ed..
+
+Cognition, perception, and language (5th ed.) (Vol. 2, pp. 851–898). New York: John Wiley.
+
+Geary, D. C., Byrd-Craven, J., Hoard, M. K., Vigil, J., & Numtee, C. (2003). Evolution and development of boys’ social behavior.
+
+Developmental Review, 23, 444–470.
+
+Gifford-Smith, M. E., & Brownell, C. A. (2003). Childhood peer relationships: Social acceptance, friendships, and peer networks.
+
+Journal of School Psychology, 41, 235–284.
+
+Golombok, S., Rust, J., Zervoulis, K., Golding, J., & Hines, M. (2012). Continuity in sex-typed behavior from preschool to
+adolescence: A longitudinal population study of boys and girls aged 3–13 years. Archives of Sexual Behavior, 41, 591–597.
+Gray, P., & Feldman, J. (1997). Patterns of age mixing and gender mixing among children and adolescents at an ungraded school.
+
+Merrill-Palmer Quarterly, 42, 67–86.
+
+Grusec, J. E. (2006). The development of moral behavior and conscience from a socialization perspective. In M. Killen & J. G.
+
+Smetana (Eds.), Handbook of moral development (pp. 243–265). Mahwah, NJ: Lawrence Erlbaum.
+
+Harris, P. L. (2000). The work of the imagination. Malden, MA: Blackwell.
+Harris, P. L., de Rosnay, M., & Pons, F. (2016). Understanding emotion. In L. Feldman Barrett (Ed.) (4th ed.. Handbook of emotions
+
+(4th ed.). New York: Guilford.
+
+Hoffman, M. (1982). Development of prosocial motivation: Empathy and guilt. In N. Eisenberg (Ed.), The development of prosocial
+
+behavior (pp. 281–313). New York: Academic Press.
+
+Hresko, W. P., Reid, D. K., & Hammill, D. D. (1999). Test of early language development-Third Edition. Austin, TX: Pro-Ed.
+Hughes, C. (2011). Social understanding and social lives: From toddlerhood through to the transition to school. Hove, UK: Psychology
+
+Press.
+
+Hughes, C., Adlam, A., Happe, F., Jackson, J., Taylor, A., & Caspi, A. (2000). Good test–retest reliability for standard and advanced
+
+false-belief tasks across a wide range of abilities. Journal of Child Psychology and Psychiatry, 41, 483–490.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longitudinal associations with mental-state talk between
+
+young friends. Developmental Psychology, 34, 1026–1037.
+
+Hughes, C., Ensor, R., & Marks, A. (2011). Individual differences in false belief understanding are stable from 3 to 6 years of age
+
+and predict children’s mental state talk with school friends. Journal of Experimental Child Psychology, 108, 96–112.
+
+Hughes, C., White, A., Sharpen, J., & Dunn, J. (2000). Antisocial, angry, and unsympathetic: ‘‘Hard-to-manage” preschoolers’ peer
+
+problems and possible cognitive inﬂuences. Journal of Child Psychology and Psychiatry and Allied Disciplines, 41, 169–179.
+
+Kochanska, G. (1991). Socialization and temperament in the development of guilt and conscience. Child Development, 62,
+
+250–263.
+
+Kornbluh, M., & Neal, J. W. (2016). Examining the many dimensions of children’s popularity: Interactions between aggression,
+
+prosocial behaviors, and gender. Journal of Social and Personal Relationships, 33, 62–80.
+
+Ladd, G. W., & Proﬁlet, S. M. (1996). The Child Behavior Scale: A teacher-report measure of young children’s aggressive,
+
+withdrawn, and prosocial behaviors. Developmental Psychology, 32, 1008–1024.
+
+Laible, D., McGinley, M., Carlo, G., Augustine, M., & Murphy, T. (2014). Does engaging in prosocial behavior make children see the
+
+world through rose-colored glasses? Developmental Psychology, 50, 872–880.
+
+Lansford, J. E., Putallaz, M., Grimes, C. L., Schiro-Osman, K. A., Kupersmidt, J. B., & Coie, J. D. (2006). Perceptions of friendship
+quality and observed behaviors with friends: How do sociometrically rejected, average, and popular girls differ? Merrill-
+Palmer Quarterly, 52, 694–719.
+
+Leaper, C. (1991). Inﬂuence and involvement in children’s discourse: Age, gender, and partner effects. Child Development, 62,
+
+797–811.
+
+Lecce, S., Caputi, M., & Pagnin, A. (2013). Long-term effect of theory of mind on school achievement: The role of sensitivity to
+
+criticism. European Journal of Developmental Psychology, 11, 305–318.
+
+Low, J., & Perner, J. (2012). Implicit and explicit theory of mind: State of the art. British Journal of Developmental Psychology, 30,
+
+1–13.
+
+Maccoby, E. E. (1990). Gender and relationships: A developmental account. American Psychologist, 45, 513–520.
+Maccoby, E. E. (1998). The two sexes: Growing up apart, coming together. Belknap: Cambridge, MA.
+Maccoby, E. E. (2002). Gender and group process: A developmental perspective. Current Directions in Psychological Science, 11,
+
+54–58.
+
+R.-L. Kuhnert et al. / Journal of Experimental Child Psychology 154 (2017) 13–27
+
+27
+
+Martin, C. L., & Fabes, R. A. (2001). The stability and consequences of young children’s same-sex peer interactions. Developmental
+
+Psychology, 37, 431–446.
+
+Meerum Terwogt, M., Koops, W., Oosterhoff, T., & Olthof, T. (1986). Development in processing of multiple emotional situations.
+
+Journal of General Psychology, 113, 109–119.
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-analysis of the relation between language
+
+ability and false-belief understanding. Child Development, 78, 622–646.
+
+Moore, C. (2007). Understanding self and others in the second year. In C. A. Brownell & C. B. Kopp (Eds.), Socioemotional
+
+development in the toddler years: Transitions and transformations (pp. 43–65). New York: Guilford.
+
+Nunner-Winkler, G. (2007). Development of moral motivation from childhood to early adulthood. Journal of Moral Education, 36,
+
+399–414.
+
+Perner, J., Leekam, S. R., & Wimmer, H. (1987). Three-year-olds’ difﬁculty with false belief. British Journal of Developmental
+
+Psychology, 5, 125–137.
+
+Pons, F., & Harris, P. (2005). Longitudinal change and longitudinal stability of individual differences in children’s emotion
+
+understanding. Cognition & Emotion, 19, 1158–1174.
+
+Pons, F., Harris, P., & de Rosnay, M. (2004). Emotion comprehension between 3 and 11 years: Developmental periods and
+
+hierarchical organization. European Journal of Developmental Psychology, 1, 127–152.
+
+Pons, F., Lawson, J., Harris, P. L., & de Rosnay, M. (2003). Individual differences in children’s emotion understanding: Effects of
+
+age and language. Scandinavian Journal of Psychology, 44, 347–353.
+
+Rose, A. J., & Rudolph, K. D. (2006). A review of sex differences in peer relationship processes: Potential trade-offs for the
+
+emotional and behavioral development of girls and boys. Psychological Bulletin, 132, 98–131.
+
+Ruffman, T., Slade, L., Devitt, K., & Crowe, E. (2006). What mothers say and what they do: The relation between parenting, theory
+
+of mind, language, and conﬂict/cooperation. British Journal of Developmental Psychology, 24, 105–124.
+
+Saarni, C. (1984). An observational study of children’s attempts to monitor their expressive behavior. Child Development, 55,
+
+1504–1513.
+
+Sandstrom, M. J., & Cillessen, A. H. N. (2003). Sociometric status and children’s peer experiences: Use of the daily diary method.
+
+Merrill-Palmer Quarterly, 49, 427–452.
+
+Sebanc, A. M. (2003). The friendship features of preschool children: Links with prosocial behavior and aggression. Social
+
+Development, 12, 249–268.
+
+Simpson, B., & Willer, R. (2008). Altruism and indirect reciprocity: The interaction of person and situation in prosocial behavior.
+
+Social Psychology Quarterly, 71, 37–52.
+
+Slaughter, V., Dennis, M., & Pritchard, M. (2002). Theory of mind and peer acceptance in preschoolers. British Journal of
+
+Developmental Psychology, 20, 545–564.
+
+Slaughter, V., Imuta, K., Peterson, C. C., & Henry, J. D. (2015). Meta-analysis of theory of mind and peer popularity in the
+
+preschool and early school years. Child Development, 86, 1159–1174.
+
+Storch, E. A., Nock, M. K., Masia-Warner, C., & Barlas, M. E. (2003). Peer victimization and social–psychological adjustment in
+
+Hispanic and African-American children. Journal of Child and Family Studies, 12, 439–452.
+
+Strough, J., & Berg, C. A. (2000). Goals as a mediator of gender differences in high-afﬁliation dyadic conversations. Developmental
+
+Psychology, 36, 117–125.
+
+Svetlova, M., Nichols, S. R., & Brownell, C. A. (2010). Toddlers’ prosocial behavior: From instrumental to empathic to altruistic
+
+helping. Child Development, 81, 1814–1827.
+
+Thompson, R. A., & Hoffman, M. L. (1980). Empathy and the development of guilt in children. Developmental Psychology, 16,
+
+155–156.
+
+Vaish, A., Carpenter, M., & Tomasello, M. (2009). Sympathy through affective perspective taking and its relation to prosocial
+
+behavior in toddlers. Developmental Psychology, 45, 534–543.
+
+Vigil, J. M. (2007). Asymmetries in the friendship preferences and social styles of men and women. Human Nature, 18, 143–161.
+Warneken, F., & Tomasello, M. (2007). Helping and cooperation at 14 months of age. Infancy, 11, 271–294.
+Wellman, H. M. (2002). Understanding the psychological world: Developing a theory of mind. In U. Goswami (Ed.), Blackwell
+
+handbook of childhood cognitive development (pp. 167–187). Malden, MA: Blackwell.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. Child
+
+Development, 72, 655–684.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young
+
+children’s understanding of deception. Cognition, 13, 103–128.
+
+Wu, Z., & Su, Y. (2014). How do preschoolers’ sharing behaviors relate to their theory of mind understanding? Journal of
+
+Experimental Child Psychology, 120, 73–86.
+
+Zarbatany, L., Hartmann, D. P., Gelfand, D. M., & Vinciguerra, P. (1985). Gender differences in altruistic reputation. Developmental
+
+Psychology, 21, 97–101.
+
+

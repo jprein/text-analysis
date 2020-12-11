@@ -1,0 +1,1154 @@
+Developmental Psychology
+1987. Vol. 2$, No. 5,712-718
+
+Copyright !98?bythc American Psychological Association, inc.
+0O12-1649/S7/SOO.7S
+
+Prosocial Development in Middle Childhood: A Longitudinal Study
+
+Nancy Eisenberg, Rita Shell,
+
+and Jeannette Pasternack
+
+Arizona State University
+
+Rob Belter
+
+Arizona State University
+
+Randy Lennon
+
+University of Northern Colorado
+
+Robin M. Mathy
+Indiana University
+
+The purpose of this study was threefold: (a) to examine change in prosocial moral judgment over a
+7-year period, (b) to determine whether there are gender differences in the development of prosocial
+moral judgment, and (c) to examine the  interrelations of moral judgment, affect  (empathy), and
+behavior in middle childhood. Participants were two groups of children who have been followed for
+5 and 7 years and two groups of children interviewed for the first time at either ages 9-10 or 11-12.
+Hedonistic reasoning decreased with age; simple needs-oriented  moral judgments increased with
+age and  then  leveled off;  most other  more sophisticated  types of reasoning increased  in a linear
+fashion with age. Modes of reasoning that most explicitly reflect  role taking or empathy increased
+in use with age for girls but not for boys. Empathy was positively related to needs-oriented judgments
+and to higher-level prosocial reasoning and was negatively related to hedonistic reasoning (depending
+on the age of the children). Empathy was positively related to donating at  11-12 years of age but not
+at 9-10  years of age. Relations between behavior and reasoning varied depending on the structure
+and costs of a specific behavior. The results are discussed in relation to theory and research concern-
+ing developmental change in moral reasoning and possible mediators of prosocial development.
+
+The roles of affect  and cognition  in morality  have been de-
+bated  frequently.  Some  psychologists  (e.g..  Kohlberg,  1984}
+have claimed that cognition and rationality are central to mo-
+rality and that the role of affect is minimal. Others have asserted
+that affect,  especially empathy  and sympathy, often  functions
+as  a  motive  for  moral  behavior  (Batson,  in  press;  Hoffman,
+1984). In recent work, the role of each has been acknowledged
+(e.g., Eisenberg,  1986; Hoffman,  in press; Staub, 1979).
+
+Moral judgment  is one  type  of  cognitive  process generally
+viewed as affecting  moral behavior, including prosocial behav-
+ior (Eisenberg,  1986; Underwood & Moore,  1982). According
+to a cognitive developmental perspective, the quality of a proso-
+cial action, that is, the maturity of reasoning underlying an act,
+is believed to change as the individual develops the capacity for
+higher-level  moral  judgment;  moreover,  mature  moral  judg-
+ment  is presumed  to  be  somewhat  positively associated  with
+quantity  of prosocial  behavior  (Blasi,  1980; Eisenberg,  1986;
+Underwood & Moore, 1982).
+
+Researchers interested in the development of moral reasoning
+frequently  have examined reasoning about moral conflicts  in-
+
+This research was supported by a grant from the Foundation for Child
+Development and by Research Grant  1  ROl HD17909 and Career De-
+velopment Award I KO4HD00717 from the National Institute of Child
+Health and Development, to Nancy Eisenberg.
+
+We wish to express our gratitude to the parents and children in the
+longitudinal samples and to the children, teachers, and principals (Carla
+Lingerfelt) at Meyer School and (Orpha Brown) at Curry School. More-
+over, we are indebted to Robert Cialdini, Arthur  Beaman, and  Susan
+Somerville for their suggestions on a draft of this article.
+
+Correspondence concerning this article should be addressed to Nancy
+Eisenberg, Department of Psychology, Arizona State University, Tempe,
+Arizona 85287.
+
+712
+
+volving  issues related  to rules, laws, authorities' dictates, and
+formal obligations (see Kohlberg,  1984; Rest,  1983). However,
+moral conflicts relating primarily to altruistic behavior—when
+one person's needs, wants, or desires conflict with those of an-
+other in situations in which the roles of authorities, rules and
+punishment,  and  formal  obligations are minimal—have been
+examined much less frequently (see Eisenberg, 1986).
+
+In  the  existing  cross-sectional  research,  researchers  have
+noted  an  age-related  sequence  of development  for  children's
+prosocial moral reasoning. Unlike for prohibition-oriented rea-
+soning, young children apparently use little authority and pun-
+ishment-oriented  reasoning to justify  moral  decisions; rather,
+they verbalize much  hedonistic and needs-oriented  (primitive
+empathic)  reasoning.  In  elementary  school,  children's judg-
+ments begin to reflect approval-oriented considerations and the
+desire  to  behave in  stereotypically  "good"  ways.  In  contrast,
+high-school  students  frequently  verbalize  reasoning  reflecting
+abstract principles, internalized affective reactions (e.g., guilt or
+positive affect relating to living up to one's principles), and self-
+reflective empathy as well as other less advanced forms of delib-
+eration  (Eisenberg,  Lennon,  &  Roth,  1983;  Eisenberg-Berg,
+1979; see Eisenberg,  1986). Unfortunately, most of the original
+work on prosocial moral reasoning has been cross-sectional or
+has involved  only one age group; thus, it has been  impossible
+to determine the degree to which the aforementioned  changes
+in children's reasoning have reflected cohort effects or are devel-
+opmental advances.
+
+Thus far, the development of prosocial behavior has been ex-
+amined  longitudinally  from  ages 4-5  to  7-8  (Eisenberg et al.,
+1983;  Eisenberg-Berg  &  Roth,  1980).  One  of  the  primary
+purposes of this research was to chart further the development
+of prosocial moral judgment throughout middle childhood into
+early adolescence, using a longitudinal method. By doing so, we
+
+PROSOCIAL  DEVELOPMENT  IN  MIDDLE CHILDHOOD
+
+713
+
+hoped to ascertain whether prosocial reasoning develops in the
+manner suggested by the limited cross-sectional research.
+
+The second purpose of this work was to examine the possibil-
+ity of the emergence of a gender difference  in reasoning in early
+adolescence. There  is an  ongoing debate  concerning  the exis-
+tence and  form  of any gender differences  in  moral  reasoning
+(e.g.,  Baumrind,  1986; Walker,  1984). Gilligan  (1977,  1982)
+and some (e.g., Gibbs, Arnold, & Burkhart,  1984) have found
+that  female adolescents and adults are more likely than  males
+to focus on  issues related to caring and human  needs in their
+moral reasoning. Such a gender difference  has not been  found
+in  prior  work concerning  younger  children's  prosocial  moral
+reasoning (see Eisenberg,  1986); however, the gender differences
+noted by Gilligan might emerge in early adolescence as gender
+roles  consolidate.  In  the  one  cross-sectional  study  of  moral
+judgment  in adolescence, no gender difference  in overall level
+of reasoning was found  (Eisenberg-Berg,  1979); however, Eise-
+nberg (1977) did note that female adolescents verbalized more
+concern with others' psychological needs and sympathy, and fo-
+cused  more on  others' status as human  beings than  did  male
+adolescents. Thus, it is reasonable to predict the emergence of
+a gender difference  in empathic, care-related  reasoning in ad-
+olescence.
+
+The third purpose of this study was to examine the interrela-
+tion of prosocial moral judgment and prosocial behavior at two
+ages (9-10 and 11-12 years). Although there appears to be some
+empirical  association  between  moral judgment  and  prosocial
+behavior (Eisenberg, 1986; Underwood & Moore, 1982), the as-
+sociation  has been  neither  strong  nor  highly  consistent.  This
+may be for at least two reasons. First, some prosocial actions,
+especially those that  are low in cost, often  may be  performed
+with  little conscious cognitive processing,  moral  or otherwise
+(Eisenberg & Shell,  1986; Langer, Blank, & Chanowitz,  1978)
+and thus are not really moral. Consequently, one would not ex-
+pect low-cost prosocial acts to be related to maturity of moral
+judgment. Second, researchers usually have examined the asso-
+ciation  between  behavior  and  composite  indices  of judgment
+that do not clearly reflect all the various types of reasoning used
+by the individual. It is likely that different  moral (or nonmoral)
+concerns that are expressed as part of moral reasoning—for ex-
+ample, concern with self-gain or approval—relate differently to
+various prosocial behaviors depending on the specific potential
+costs, benefits, and norms associated with the particular behav-
+ior.  For  example,  if a  specific  behavior  were  very  costly  but
+would be observed by no one, one would expect that behavior
+to be negatively related to hedonistic reasoning but unrelated to
+approval-oriented  reasoning. By lumping measures of various
+sorts of reasoning  into one index, information  about  specific
+aspects of reasoning is often lost. Thus, another purpose of this
+study was to examine the relation of different  prosocial behav-
+iors, varying in structure and costs, with various categories of
+prosocial moral judgment and to explore whether, as suggested
+by some researchers (e.g., Rholes & Bailey,  1983), this relation
+increases with  age. Higher-cost behaviors were expected to be
+positively related to relatively mature levels of moral judgment
+and other-oriented rather than to hedonistic reasoning, whereas
+low-cost prosocial actions were not expected to relate to moral
+judgment.
+
+The fourth  purpose of the study was to examine the relation
+of vicarious emotional  responsivity  to others (usually  labeled
+
+empathy  or  sympathy)  to  children's  prosocial  behavior.  As
+mentioned previously, empathy (an emotional reaction elicited
+by and congruent with the other's emotional state or situations)
+and the related affect  of sympathy (concern for the other based
+primarily on empathically induced affect)  are viewed by many
+theorists as important  motivators of prosocial behavior  (Hoff-
+man, 1984). According to a recent review, there is some empiri-
+cal support for this view (Eisenberg & Miller,  1987). The rela-
+tion between measures of vicarious emotional responsivity and
+prosocial behavior empathy, however, has been less consistent
+and weaker in the research conducted with children than in that
+conducted with adults (Eisenberg & Miller, 1987). This may be,
+in part,  because  vicarious  affective  responsivity  in  childhood
+generally has been assessed with measures of empathy, not sym-
+pathy;  that  is, empathy  has been  operationalized  as the  ten-
+dency to feel the same or similar emotions as another. Such vi-
+carious experiencing may lead to personal distress (e.g., anxiety
+for  the  self),  not  to  sympathetic  concern  (Batson,  in  press;
+Hoffman,  1984). Researchers seldom have examined the rela-
+tion between children's prosocial behavior and empathy opera-
+tionalized  as involving concern  for  another as well as general
+vicarious emotional  responding. Because sympathetic concern
+is likely to lead to helping, one would expect a relatively close
+relation  between  prosocial  action  and  measures  of  empathy
+that include this aspect of vicarious reactivity.
+
+In contrast with the relation between empathy and altruism,
+the association between empathy and prosocial moral judgment
+has seldom  been examined. This is despite the fact that some
+researchers  have  suggested  that  sympathetic  or  empathic  re-
+sponses might both stimulate the development  of internalized
+moral  principles  that  reflect  a  concern  for  others'  welfare
+(Hoffman,  in press) and prime the use of preexisting moral cog-
+nitions reflecting concern for others (Eisenberg, 1986). The idea
+that sympathetic responsiveness might enhance moral develop-
+ment  has been a controversial  position  and is contrary to the
+assertions of Kohlberg (1984). Thus, the fifth goal of this study
+was to  examine  the  relation  of  empathy  to  prosocial  moral
+judgment.
+
+High  empathic  responding  has  been  positively  associated
+with adolescents' prosocial moral judgment (Eisenberg-Berg &
+Mussen,  1978). It is not clear, however, that there should be a
+positive relation between level of reasoning and empathy at all
+ages; level of prosocial reasoning should be positively related to
+empathy only if children are at an age at which needs-oriented
+or self-reflective  empathic reasoning is a relatively advanced as
+well as a used level of reasoning (these two levels involve em-
+pathic concerns). In addition, those specific types of prosocial
+reasoning believed to involve empathic responsiveness should
+be associated with empathic responsiveness at any age at which
+the given category is frequently used.
+
+When one assesses an aspect of moral development via verbal
+responses,  there  is always the  possibility  that  individuals' re-
+sponses will be contaminated  by self-presentational  concerns.
+Thus, in this study, the relation of different  modes of moral rea-
+soning to an index of need for social desirability was examined.
+If self-presentational concerns do not influence children's judg-
+ments, one would expect social desirability to be related only to
+approval-oriented judgment.
+
+In summary, the purposes of this study were to examine lon-
+gitudinally the development of prosocial moral judgment and to
+
+714
+
+EISENBERG  ET  AL.
+
+determine the interrelations of reasoning, prosocial  behaviors
+varying in cost, and empathy  or sympathy. This was done by
+conducting  5- and 7-year follow-ups  of those children  studied
+by Eisenberg et al. (1983) in order to examine change in proso-
+cial moral reasoning over a 7-year period as well as the interre-
+lations of target variables at the ages of 9-10 and 11-12.
+
+Subjects
+
+Method
+
+Four groups of middle-class children participated in this study. There
+were  16 girls and  16 boys in the primary longitudinal  cohort (C,; all
+Caucasian except 2).  These children  had been interviewed three times
+previously, at ages 4-5,5Vi-6l/i,  and 7-8 (at 60,42, and 24 months prior
+to the first assessment in this study); the five testing sessions will be re-
+ferred toasTi, T2, T3, T4, andT5. The mean ages of the children atT4
+and T5 were  115 months (range =  106-123 months) and  139 months
+(range =  103-174 months). From T3 to T4, only  I child was lost from
+the original sample; none was  lost from T4 to T5. In all,  5 have been lost
+over the 7-year period.
+
+A second longitudinal sample (C2)  consisted of 14 Caucasian children
+(7 girls, 7 boys) with a mean age of 91  months at T3 (range =  85-103
+months) and  115 months at T4 (i.e., 7-8 and 9-10 years, respectively).
+They had been interviewed twice before: 3-4 months after the  T2 session
+for the primary cohort at age 4-5 (T,)( and  1 year later, at age 5-6 (T2).
+Two children were lost from  T2 to T3;  1 was lost from  T3 to T4; 5 were
+lost in all.
+
+The third  sample  (C3) consisted  of 39 fourth  graders (17  boys, 22
+girls: all  Caucasian  but  6;  M  age  =117  months,  range  =  108-130
+months).  These  children  attended  a  school  in  the  neighborhood  in
+which the longitudinal subjects lived at the beginning of the study. They
+were interviewed for the first and only time at T4. A similar group (C4)
+of 31  children (11 boys, 20 girls; M age =  142 months; range  =  135-
+150 months; all Caucasian but 4) were interviewed for the first and only
+time at T5.
+
+Instruments
+
+Two  measures in this study were used previously for C,  (see Eisenberg
+et  al.,  1983): four  prosocial  moral  dilemmas,  accompanied  by illus-
+trations, and a measure of costly helping (children could donate part of
+their earnings [eight nickels] anonymously to  UNICEF). Measures not
+previously  used with CL were as follows: (a) two measures of low-cost
+helping at T4 (helping an adult pick up 75 dropped paper clips for 60 s
+and helping an adult pick up toys for 90 s so that other children would
+not trip and  hurt themselves; latency to helping and amount  of clips
+or duration  of picking up toys were measured; interrater  reliabilities
+[correlations between two observers' timings of seconds for 20 to 25%
+of a sample; rater was  behind a one-way mirrorl were .85 or higher); (b)
+one measure of low-cost helping at T5 (helping pick up fallen papers for
+60 s; latency to helping and number picked up were measured; inter-
+rater reliability  was .91); (c) Bryant's (1982) 22-item  empathy scale,
+which contains items pertaining to empathy and sympathy (alphas were
+.60 or  higher); and  (d) CrandalFs  social  desirability  scale (SD scale;
+Crandall, Crandall, & Katkovsky, 1965) for children. Composite scores
+for both the entire scale (alphas were .83 or higher) and for only the  five
+items relating to prosocial behaviors (alphas were .60 or higher) were
+computed by summing the dichotomous scores for relevant items.
+
+Procedures
+
+Procedures for C,.  For C,  at T4, the interview began with the paper-
+clips helping task. Next, the prosocial dilemmas were presented orally
+in random order. Children repeated dilemmas to check for comprehen-
+sion, and a standard sequence of questioning was followed (see Eisen-
+
+berg et al., 1983). Subsequent to the moral interview, the children were
+given the empathy measure (orally) and were allowed to anonymously
+donate some of their earnings to children  in a UNICEF poster. Finally,
+the second helping task (picking up toys) was administered  (except to
+the five children interviewed at home). At T5, the sequencing of events
+was similar, except that the first helping task involved dropped papers,
+the second helping task was  omitted, and the SD  scale was  administered
+either before or after  the empathy questionnaire (order was randomly
+determined). The moral-reasoning task was always begun prior to the
+questionnaire indices because it was  considered most crucial. Moreover,
+cause and effect relations were not examined; thus the order of indices
+was  considered less critical than in many experimental studies.
+
+Procedures for  C2-  Procedures for C2 at T3 and T4 were identical to
+those for Ci at T4 and T5, respectively. However, because of the small
+size of the sample, only the trend analyses for moral judgment are re-
+ported.
+
+Procedures for C3.  C3 subjects were individually administered only
+the prosocial  moral-judgment  stories and the empathy questionnaire.
+The social-desirability  measure was subsequently  group-administered
+to these children. No indices of prosocial behavior were administered
+because of limitations in resources and the setting.
+
+Procedures for C4.  C4 children were administered the same measures
+as C[ at  Ts (moral  reasoning, donating, helping, empathy, SD scale),
+with the exceptions that latency of helping was  not timed and the social
+desirability measure was group-administered.
+
+Scoring
+
+Prosocial judgment stories. Scoring of prosocial reasoning was  done
+in two ways. First, the children's moral judgment was coded into the
+categories of reasoning outlined by Eisenberg et al. (1983). Those used
+by children with any frequency  (or of particular importance) were as
+follows:
+
+Obsessive and  magical view of authority and punishments (avoidance
+
+of punishment and unquestioning deference to power are valued in their
+own right);
+
+Hedonistic reasoning—(a) Pragmatic,  hedonistic gain to the selj"(ori-
+
+entation to gain for oneself), (b) Direct  reciprocity (orientation to per-
+sonal gain because of direct reciprocity or lack of reciprocity from the
+recipient of an act), (c)  Affectional relationship {orientation to the indi-
+vidual's identification with another or liking for the other);
+
+Nonhedonisticpragmatism (orientation to practical concerns that  are
+
+unrelated to selfish considerations);
+
+Concern for others' needs (needs-oriented reasoning) (orientation to
+
+the physical, material, or psychological needs of the  other person—e.g.,
+"He needs blood," or "He's sad.");
+
+Stereotypes of a good or bad  person (orientation to stereotyped im-
+
+ages of a good or bad person);
+
+Approval  and  interpersonal  orientation  (orientation  to  others'  ap-
+
+proval and acceptance in deciding what is the correct behavior);
+
+Self-reflective  empathic orientation—(a)  Sympathetic  orientations
+
+(expression of sympathetic concern and caring for others), (b) Role-tak-
+ing(the individual explicitly takes the perspective of the other);
+
+Internalized affect—(a) Simple internalized positive affect  and posi-
+tive affect related to consequences (orientation to internal positive affect
+as a result of a particular course of action, often  because of the  conse-
+quences of one's act for the  other person), (b)  Internalized positive affect
+from  self-respect  and living up to one's values (orientation  to  feeling
+good as a  result  of living up to  internalized  values), (c)  Internalized
+negative affect over consequences of behavior (concern with feeling bad
+or guilty because of the consequences of an  act), (d) Internalized nega-
+tive affect because of loss of self-respect and  not  living up to one's values
+(orientation to feeling bad as the result of not living up to internalized
+values); and
+
+internalized law. norm, and value orientation (orientation to an inter-
+
+PROSOCIAL  DEVELOPMENT  IN  MIDDLE  CHILDHOOD
+
+715
+
+nalized  responsibility, duty, or  need to  uphold the laws and accepted
+norms or values).
+
+Children  were assigned  scores indicating the frequency  with which
+they used each of the various types of reasoning when discussing both
+the pros and cons of helping the needy other in the story dilemma (1 =
+no use of that category; 4 = a major type of reasoning used). Next, the
+scores for each category were summed across the stories. Interrater reli-
+abilities (Pearson product-moment correlations; rs), computed for each
+reasoning category  for each  cohort  at  each time, ranged  from  .79 to
+1,00 (most were above .85) with the exception of three very advanced
+categories that were scored  once by only the primary  coder (and are
+not used in analyses) and of the infrequently  used category authority/
+punishment at T5 for C, (r = .56).
+
+The categories of reasoning are viewed as representing components
+of  developmental  levels  of  prosocial  moral judgment.  They  are  de-
+scribed in detail by Eisenberg et al. (1983). Briefly, the levels are as fol-
+lows: Level  1, hedonistic, self-focused  orientation; Level 2, "needs of
+others" orientation; Level 3, approval and interpersonal orientation and
+stereotyped orientation; Level 4a, self-reflective, empathic orientation;
+Level 4b, transitional level; and Level 5, strongly internalized  orienta-
+tion.
+
+A measure representing level of moral judgment was computed  for
+each child. The level score was constructed in a manner similar to that
+used to score Kohlbergian reasoning; subjects were assigned composite
+scores by weighting the proportion of the child's reasoning at each level
+(see Eisenberg etal., 1983).
+
+Results
+
+Age Changes in Moral Judgment
+
+In order to examine for age changes in prosocial moral judg-
+ment for C, over the 7 years, multivariate and univariate trend
+analyses of variance  (MANOVAS and  ANOVAS) were computed
+with  one  within-subjects  factor  (time:  5  levels)  and  one be-
+tween-subjects factor (sex). The dependent variables for the first
+analyses were all reasoning categories that were used by at least
+one child at four or more time periods, and that had a mean of
+4.75  (on a scale of 4-16) or higher for  at least one sex at one
+testing  session  (i.e.,  hedonistic,  needs-oriented,  pragmatic,
+direct-reciprocity,  approval-oriented,  and  stereotypic  reason-
+ing). The multivariate Fs for sex, F\(>, 25) = 3.16, p < .019, and
+
+for time, F(l,  24) = 7.74, p < .005, were significant. There was
+a significant sex difference  for pragmatic reasoning, F\\,  30) =
+6.57, p < .016, with boys verbalizing more than girls. The effect
+of time was significant  for all categories of reasoning. For hedo-
+nistic reasoning, there were linear and  quadratic trends, with
+hedonistic reasoning decreasing over the years, but more rapidly
+at first, Fs(\,  30) =  133.67 and  17.00, respectively, ps < .001
+(see Table  1  for  means). Moreover, for  needs-oriented  reason-
+ing, there were linear and quadratic trends, Fs(l,  30) =  53.49
+and  27.22, respectively, ps < .001. This type of reasoning in-
+creased until age 7-8 and then started to level off.  In addition,
+stereotypic, approval-oriented, pragmatic, and direct-reciproc-
+ity reasoning increased in a linear fashion with age, Fs( 1, 30) =
+12.68, 24.74, 20.86, and 24.22, respectively, ps < .001. Finally,
+for direct-reciprocity  reasoning, there were also quadratic and
+cubic trends (see Table l),Fs(l,30)=  17.15and4.99,/>s<.001
+and .033, respectively, which were weaker than the linear trend.
+In summary, hedonistic reasoning decreased during the school
+years; needs-oriented  reasoning increased and then leveled  off;
+and  stereotypical,  approval-oriented,  pragmatic,  and  direct-
+reciprocity reasoning generally increased with age. None of the
+age-related changes interacted with sex of the child.
+
+A 2 (sex) X 3 (time) linear trend analysis was computed  for
+three higher-level categories of reasoning with a mean of 4.75
+or higher for at least one sex at T3, T4, or T5 (role taking, sympa-
+thetic,  positive  affect/consequences).  The  multivariate  Fs for
+sex, time, and  Sex  X Time were significant,  F\3, 28)  =  3.82,
+p<  .031, F(6, 25) = 7.42,/>< .001, and/i(6, 25) = 4.11,p <
+.005, respectively. Role-taking reasoning was used more by girls
+than boys, F( 1, 30) = 8.20, p < .008. All three types of reasoning
+increased in a linear  manner with age, F{\,  30) = 4.35, 9.56,
+and  5.90, ps <  .046, .004, and  .021, respectively. The  Sex  x
+Time interaction for the linear trend was significant for sympa-
+thetic and role-taking reasoning, Fs(l, 30) = 4.35 and 9.51,ps <
+.046 and .004, respectively. According to tests of simple effects,
+the linear trend (representing an increase) for sympathy was at
+least marginally significant  for girls (but not boys), F\\,  15) =
+4.35, p < .054, as was the linear increase in role-taking reason-
+ing for girls, F(l,  15) =  10.21, p < .006. Finally, according to a
+2 (sex) X  3 (time) linear trend analysis, the prosocial-judgment
+
+Table  1
+Moral Reasoning Categories: Means for Cohort 1
+
+Reasoning category
+
+Time 1
+
+Time 2
+
+Time 3
+
+Time 4
+
+Time 5
+
+Authority: pun i shm en t
+Hedonistic
+Direct reciprocity
+Affectional  relationship
+Pragmatism
+Needs-oriented
+Stereotypic
+Approval :interpersonal
+Sympathetic
+Role-taking
+Positive affect:simple  or related to consequences
+Positive affect regarding self-respect
+Negative affect:simple or related to consequences
+Negative affect regarding self-respect
+Internalized law, norm, or value orientation
+
+Note  The possible range for means was 4-16.
+
+4.19
+12.12
+4.00
+4.03
+4.12
+8.53
+4.50
+4.00
+4.00
+4.00
+4.00
+4.00
+4.00
+4.00
+4.00
+
+4.00
+8.66
+4.09
+4.38
+4.47
+11.59
+4.31
+4.06
+4.03
+4.00
+4.00
+4.00
+4.00
+4.00
+4.00
+
+4.09
+6.31
+4.09
+4.00
+4.28
+13.62
+4.68
+4.22
+4.00
+4.06
+4.09
+4.09
+4.00
+4.00
+4.03
+
+4.12
+5.88
+4.31
+4.25
+5.03
+13.12
+5.12
+4.44
+4.19
+4.59
+4.56
+4.03
+4.16
+4.06
+4.00
+
+4.03
+4.69
+5.38
+4.19
+5.25
+13.59
+5.62
+4.88
+4.38
+4.62
+4.78
+4.00
+4.28
+4.00
+4.00
+
+716
+
+EISENBERG  ET  AL.
+
+composite scores increased  from  T3 to TS) F(2, 29) =  11.67,
+p < .001, and the linear Sex X Time interaction was significant,
+F{2, 29)  = 4.99, p  < .04. The linear trend  held for girls, ^ 2,
+14) -  12.63, p < .001, but not boys, p < .29. In summary, all
+three of the more advanced types of reasoning included in this
+analysis as well as general level of reasoning increased with age,
+but the increase for role-taking reasoning, sympathetic reason-
+ing, and overall level of reasoning was significant only for girls.
+Analyses similar to those for Ct  were computed  for C2 (but
+for a shorter period of time, because C2 participated in one less
+follow-up  and  was younger). According to  2 (sex)  x  4 (time)
+ANOVAS (MANOVAS could  not be used because of  insufficient
+degrees of freedom  resulting from  the small size of the sample)
+conducted for all categories with a mean of 4.75 or higher for
+at least one sex at one time period (i.e., hedonistic, pragmatic,
+direct-reciprocity,  needs-oriented,  stereotypic,  approval-ori-
+ented  reasoning), there  were  no  effects  of sex nor  significant
+Sex X Time interactions. However, the linear trends were sig-
+nificant for hedonistic, needs-oriented, stereotypic, and appro-
+val-oriented reasoning, Fs(l, 11)=  17.53,6.14,12.94, and 5.63,
+ps < .002, .031, .004, and .037, respectively. Hedonistic reason-
+ing decreased  with age, whereas the  remaining categories  in-
+creased over time. For needs-oriented reasoning, there was also
+a  quadratic  trend,  F([,  11) =  6.57, p  < .026, because of the
+increase in such reasoning from age 4-5 to age 7-8, followed by
+a drop at age 9-10. The linear trend for direct reciprocity was
+in the same direction as for the larger cohort but was not quite
+significant, p <. 11. Thus, the pattern of findings for C, over the
+first four  follow-ups  was basically replicated by C2 {see Table
+2 for means); hedonistic reasoning decreased with age; needs-
+oriented reasoning increased with age and then decreased some-
+what;  and  stereotypic  and  approval-oriented  reasoning  in-
+creased with age.
+
+Because children in C2 were only 9-10 years old, they verbal-
+ized  relatively  little  sympathetic,  role-taking,  and  positive-
+affect/consequences  reasoning. Therefore, although role-taking
+
+Table 2
+Moral Reasoning Categories: Means for Cohort 2
+
+Reasoning category
+
+Time I
+
+Time 2
+
+Time 3
+
+Time 4
+
+Authority :pu nishment
+Hedonistic
+Direct reciprocity
+Affectional  relationship
+Pragmatism
+Needs-oriented
+Stereotypic
+Approval: interpersonal
+Sympathetic
+Role-taking
+Positive effect:simple or
+
+related to consequences
+
+Positive affect regarding self-
+
+respect
+
+Negative affect:simple or
+related to consequences
+Negative affect regarding
+
+self-respect
+
+Internalized law, norm or
+
+value orientation
+
+4.00
+11.64
+4.00
+4.00
+4.86
+9.21
+4.00
+4.07
+4.00
+4.00
+
+4.00
+
+4.00
+
+4.00
+
+4.00
+
+4.00
+
+4.00
+8.71
+4.00
+4.00
+4.43
+11.29
+4.43
+4.14
+4.00
+4.00
+
+4.00
+
+4.00
+
+4.00
+
+4.00
+
+4.29
+
+4.29
+6.93
+4.07
+4.50
+4.64
+13.50
+5.14
+4.36
+4.07
+4.07
+
+4.36
+
+4.00
+
+4.07
+
+4.00
+
+4.00
+
+4.08
+5.77
+4.62
+4.23
+5.08
+12.08
+6.85
+5.15
+4.46
+4.3!
+
+4.15
+
+4.00
+
+4.38
+
+4.00
+
+4.00
+
+Note. The possible range for means was 4-16.
+
+and  sympathetic  reasoning  increased  somewhat with age (see
+Table  1), no MANOVAS were computed.
+
+The age trends in the children's reasoning do not seem to be
+the result of repeated testing. If they were, one would not expect
+the reasoning for Ci to be similar to that of children of the same
+age interviewed for the first time at T4 or T5 (C3 and C4). How-
+ever, according to ANOVAS, the reasoning of C| and C3 at T4 did
+not differ for any category, whereas the only difference between
+Ci and C4 at T5 was for approval-oriented reasoning, /Tf 1,61)  -
+8.62, p  < .005 (Ci was higher than  C4, Ms  =  4.88 and 4.23,
+respectively).
+
+Relation of Sex to Prosocial Behavior, Empathy, and
+Social Desirability
+
+At T4, sex was not significantly related to scores for prosocial
+measures or for  the reasoning categories. Girls scored  higher
+only on the measure of empathy, f(30) = 2.22, p < .034. Thus, in
+correlational analyses, sex was not controlled; Spearman rank-
+order correlations (ps) were used  for  variables with a  limited
+range, whereas all other correlations were Pearson product-mo-
+ment coefficients.  At T5, sex was related to some categories of
+reasoning (see previous analyses), as well as to empathy, t(60) =
+5.03,  p  <  .001,  and  the  five-item  social-desirability  scale,
+r(61) = 2.10, p  <  .04 (girls were higher in both). Thus, partial
+rs (controlling for sex) were used for most analyses. Because of
+the small number of subjects, separate findings for each sex are
+not reported. However, there were no consistent gender  differ-
+ences in pattern of findings that occurred in both cohorts of a
+given age.
+
+Interrelations of Prosocial Indices
+
+The various  measures of helping at T4 were highly interre-
+lated {r$ ranged from  .36 to .73). The measure of donating was
+positively related to the paper-clips task, ps(25) = -.48, and .40,
+ps <  .006  and  .03, for  latency  and  duration  respectively, but
+was unrelated to the other helping task. Because of the strong
+association between indices of helping, a composite index com-
+bining all indices for both types of helping was computed (after
+standardizing all measures). This composite index was used in
+all analyses.
+
+At T5, donating was unrelated to either latency to or quantity
+of helping.  Long latency  to  helping was negatively  related  to
+amount  of helping, partial  r(29)  =  -.58, p  < .001; therefore,
+these indices were standardized and combined into a composite
+index.
+
+Consistency of Indices Over Time
+
+There was evidence of consistency for some measures over a
+period of time for Ct. Donating behavior was positively related
+at T3 and T4 (7-8 and 9-10 years of age), r{30) = . 4 l , p <. 019,
+and from  T4 to T5 (9-10 to  11-12 years of age), r(30)  -  .31,
+p < .088. Empathy was marginally positively related from T4 to
+T5,  r(30)  =  .32, p  < .079; however, this effect  was primarily
+the result of girls scoring higher at both administrations, partial
+r(29) = . 10, ns. (controlling for sex). The composite measure of
+helping at T5 was marginally positively related  to that for T4,
+
+PROSOC1AL  DEVELOPMENT  IN  MIDDLE  CHILDHOOD
+
+717
+
+r(25)  =  .33, p  < .089; however, the T5 composite was signifi-
+cantly related  to the T4 composite for  helping put away toys,
+r(25) = A2,p<.029(/  = .19, for picking up paper clips). Social
+desirability was assessed for Cj only at T5.
+
+Relation ofProsocial Behavior to MoralJudgment
+and Empathy
+
+In the following correlational analyses, only categories of rea-
+soning used with some frequency (M = 4.6 or higher) were used.
+Thus,  hedonistic,  pragmatic,  needs-oriented,  and  stereotypic
+reasoning  were used  for  both  T4 and  T5;  in  addition,  direct-
+reciprocity, approval-oriented,  role-taking, and  positive-affect/
+consequences reasoning also were used at T5.
+
+Donating was unrelated  to prosocial composite score at T4
+or T5. However, consistent with the notion that donating reflects
+altruism, donating was negatively related to hedonistic reason-
+ing at T4 and T5,  p(30) =  -.38, p  <  .04, and  partial  r(29) =
+-.41,  p  < .024, respectively  (partial  r[59]  =  -.26, p  < .043,
+for C, and C4 combined at T5). Moreover, at T5, donating was
+positively  related  to  needs-oriented  reasoning  for  Q,  partial
+r(29) = .36, p < .044 (partial r[59] = .25, p  <  .05, for C, and
+C4 combined at T5).
+
+Helping, a low-cost prosocial behavior, was not  significantly
+related to the prosocial composite score or any category of rea-
+soning at T4 or T5.
+
+In summary, the more costly prosocial behavior  (donating)
+tended to be positively related to other-oriented moral reason-
+ing and negatively related to hedonistic reasoning. In contrast,
+the low-cost  helping behaviors were unrelated  to  moral judg-
+ment.
+
+Relations of Empathy to Prosocial Behavior
+and Moral Judgment
+
+At T4, empathy (M =  14.96, SD = 3.03) was negatively re-
+lated to hedonistic reasoning, p<69) = -.30, p < .01, forC, and
+C3 combined (p[30] =  -.46, p < .009, for d  only), and posi-
+tively  related  to  children's  prosocial  moral  composite  score,
+r(69) -  .28, p < .02 (r[30] = .28, p <  .12, for C, only). At T5,
+empathy  was  positively  related  to  needs-oriented  reasoning,
+partial  r(59)  =  .23, p  < .07, for C, and C3 combined  (partial
+r[30] = .37, p < .04, for C[ only), but not to the moral-reasoning
+composite  (the  zero-order  r  was  .38, p  <  .034;  however,  it
+dropped considerably when the effects  of age were controlled,
+because girls scored higher on both variables). Thus, in general
+there appeared to be a positive association between the index of
+empathy/sympathy and other-oriented moral judgment.
+
+Empathy was unrelated to donating (the more costly proso-
+cial behavior) at T4 (r =  .15), but was positively related at T5,
+partial r(60) = .38, p < .003 (partial r[29] = .35, p < .057, for
+C, only). Thus, the association of empathy to an index of self-
+sacrificing  behavior  increased  somewhat  with  age. The index
+of empathy/sympathy  was unrelated to helping behaviors that
+entailed little cost.
+
+Relation of Social Desirability to Moral Judgment,
+Moral Behavior, and Empathy
+
+At T4 and T5, neither the entire social desirability (SD) score
+nor the composite score of the five prosocial items was signifi-
+
+cantly related to the prosocial composite score. However, con-
+sistent with the notion that the SD scale measures the need to
+gain the approval of others, both measures were positively asso-
+ciated  with  approval-oriented  reasoning  at  T4,  ps(35)  =  .42,
+p <  .01, whereas  the five-item composite  (but  not  the  entire
+scale) was positively related to approval-oriented  reasoning at
+T5, partial r(60) = .26, p < .04. Neither the remaining catego-
+ries of reasoning nor the prosocial behavior  indices were sig-
+nificantly  related  to  SD at  T4 or  T5.  Empathy  was positively
+related to the five-item composite at T5, partial r(59) = .28, p <
+.03, but not at T4 (p = -.01).
+
+Discussion
+
+Two important findings emerged from the longitudinal analy-
+ses of the moral-reasoning data. First, the longitudinal  findings
+are, for the most part, consistent with those from cross-sectional
+work on prosocial moral reasoning and are reminiscent of  find-
+ings in studies of Kohlbergian (1984) moral reasoning. Hedo-
+nistic  reasoning  decreased  with  age,  whereas  needs-oriented
+reasoning, a relatively simple type of reasoning, peaked in mid-
+childhood and then  leveled oif.  This leveling off of needs-ori-
+ented reasoning was not evidenced in our previous 3-year fol-
+low-up (Eisenberg et al.,  1983). Moreover, the other  more so-
+phisticated  modes of reasoning increased  with  age, including
+approval-oriented,  stereotypic,  direct-reciprocity,  role-taking,
+sympathetic, and positive affect  over consequences reasoning.
+Indeed, the last three categories of reasoning were not used with
+any real frequency  until at least age 9-10,  so change in these
+modes of  reasoning  was not  previously  evident.  This pattern
+was, for the most part, replicated in a second, smaller cohort,
+at least for those categories of reasoning that were used with any
+frequency.  The  increase  in pragmatic  reasoning,  especially at
+ages  9-10  and  11-12,  was  somewhat  surprising;  however,  it
+seems to  reflect  the  fact  that  older children  were more likely
+than younger children to consider a variety of situational factors
+when resolving the moral dilemmas. This increase was not evi-
+dent in the 3-year follow-up.
+
+The second important finding was the emergence of gender
+differences in the use of reasoning related to sympathy and role
+taking. These gender differences  were not evident in our prior
+assessments. For girls but not boys, these types of reasoning in-
+creased in early adolescence. This pattern of findings is consis-
+tent  with  Gilligan's  (1977) finding of  a  gender difference  in
+other-oriented, care-related reasoning. It is quite likely that this
+gender difference  reflects  differences  in the socialization  of an
+other-oriented orientation (see Block,  1981; Gilligan, 1982).
+
+Consistent with expectations and prior research (Eisenberg,
+Boehnke,  Schuhler,  &  Silbereisen,  1985;  Eisenberg-Berg  &
+Hand,  1979), sharing (donating) behavior, which was a costly
+behavior, was negatively related to hedonistic reasoning. In con-
+trast, the  helping behaviors, which  were not costly and, thus,
+were unlikely to induce much moral conflict, were not signifi-
+cantly related to reasoning. These findings are consistent with
+the conclusion that there is a relation between moral judgment
+and prosocial behavior, but only when the decision to behave in
+a prosocial manner is likely to involve moral conflict. One fac-
+tor likely to  induce conflict  is if a prosocial  action  involves a
+cost to the actor. The aforementioned findings are unlikely to be
+caused by the difference  between helping and donating because
+
+718
+
+EISENBERG  ET  AL.
+
+both high-cost donating and high-cost helping have been related
+to younger children's moral judgment, whereas low-cost help-
+ing and donating have not (Eisenberg & Shell, 1986).
+
+Both level and  mode of prosocial  moral judgment  were re-
+lated  to  children's  empathy.  Specifically,  empathy  was posi-
+tively related to general level of reasoning at T4 and to needs-
+oriented reasoning at T3 and was negatively associated with he-
+donistic  reasoning  at  T4.  These findings are  consistent  with
+Hoffman's  (in  press) and  Eisenberg's (1986) suggestions  that
+sympathetic responsivity may both enhance the development of
+moral reasoning based on prosocial values and facilitate the use
+of such reasoning once one is capable of such reasoning. This
+former notion in particular is quite different  from that of Kohl-
+berg (1984). who has suggested that affect  is channeled by level
+of moral judgment.  The fact  that  empathy  at  T4  was signifi-
+cantly related to moral reasoning at T5, r(30) -  .55, p <  .001,
+and not the reverse, r(30) -  .21, is consistent with the view that
+sympathetic responsiveness might enhance the development of
+some mature modes of moral judgment.
+
+Empathy was significantly positively related to donating at T5
+but  not  T4.  Perhaps the association  between  prosocial action
+and empathy/sympathy becomes somewhat stronger with age;
+this might be because older children are better able to interpret
+and act on their feelings. This finding is consistent  with  Hoff-
+man's (1984) suggestion that the link between empathy and al-
+truism is strengthened as children become more able to under-
+stand another's life circumstances beyond the immediate situa-
+tion.  Clearly,  the  stronger  relation  between  empathy  and
+prosocial action at an older age was not mediated by the associa-
+tion of both constructs to moral judgment because the relation
+between  empathy  and  moral judgment  did  not  increase with
+age.  Empathy and sympathy probably affect  behavior directly
+as well through their indirect effects on moral cognitions.
+
+In summary, there seems to be a relatively consistent pattern
+for the development of prosocial moral judgment, one found in
+both cross-sectional and longitudinal work, at least for middle-
+class American children. Moreover, prosocial  moral judgment,
+some types of prosocial behaviors, and empathic responsiveness
+tend to be interrelated in theoretically important ways. Whether
+these interrelations change with age as moral reasoning develops
+is a question for future research.
+
+References
+
+Batson, C. D, (in press). Prosocial motivation: Is it ever truly altruistic?
+
+In L. Berkowitz (Ed.), Advances in experimental social psychology.
+New Yosk; Academic Press.
+
+Baumrind, D. (1986). Sex differences in moral reasoning: Response to
+Walker's (1984) conclusion that there are none. Child Development,
+57,511-521.
+
+Blasi, A. (1980). Bridging moral cognition and moral action: A critical
+
+review of the literature. Psychological Bulletin, 88,  1-45.
+
+Block, J. H. (1981). Gender differences in the nature of premises devel-
+
+oped about the world. In E. K. Shapiro & E. Weber (Eds.), Cognitive
+and affective growth: Developmental interaction (pp. 147-169). Hills-
+dale, NJ: Eribaum.
+
+Bryant, B. <1982>. An index of empathy for children and adolescents.
+
+Child Development, 53,413-425.
+
+Crandall, V. C, Crandall, V. J., & Katkovsky, W. (1965). A child's social
+
+desirability questionnaire. Journal of Consulting Psychology, 29, 27-
+36.
+
+Eisenberg, N. (1977). The  development  of prosocial  moral judgment
+and  its correlates  (Doctoral  dissertation,  University  of California,
+Berkeley,  1976).  Dissertation Abstracts International, 37, 4753B
+(University Microfilms No. 77-444).
+
+Eisenberg, N. (1986). Altruistic emotion, cognition and behavior. Hills-
+
+dale, NJ: Eribaum.
+
+Eisenberg, N., Boehnke, K., Schuhler, P., & Silbereisen, R. K. (1985).
+The development  of prosocial behavior and cognitions in German
+children. Journal of Cross-Cultural Psychology, 16, 69-82.
+
+Eisenberg, N., Lennon, R., & Roth, K, (1983). Prosocial development;
+
+A longitudinal study. Developmental Psychology,  19, 846-855.
+
+Eisenberg, N., & Miller, P. (1987). The relation of empathy to prosocial
+
+and related behaviors. Psychological Bulletin,  101, 91-119.
+
+Eisenberg, N., & Shell, R. (1986). The relation of prosocial moral judg-
+ment and behavior in children: The mediating role of cost. Personal-
+ity and Social Psychology Bulletin,  12, 426-433.
+
+Eisenberg-Berg, N. (1979). Development of children's prosocial moral
+
+judgment. Developmental Psychology,  15, 128-137.
+
+Eisenberg-Berg, N., & Hand, M. (1979). The relationship of preschool-
+ers' reasoning about prosocial moral conflicts to prosocial behavior.
+Child Development, 50, 356-363.
+
+Eisenberg-Berg, N., & Mussen, P. (1978). Empathy and moral develop-
+
+ment in adolescence. Developmental Psychology,  14, 185-186.
+
+Eisenberg-Berg, N., & Roth. K. (1980), The development of children's
+prosocial moral judgment: A longitudinal follow-up. Developmental
+Psychology.  16, 375-376.
+
+Gibbs, J. C, Arnold, K. D., & Burkhart, J. E. (1984). Sex differences
+
+in the expression of moral judgment. Child Development,  55,  1040-
+1043.
+
+Gilligan, C. (1977). In a different  voice: Women's conceptions of self
+
+and of morality. Harvard Educational Review, 47, 481-517,
+
+Gilligan, C. (1982). In a different voice: Psychological theory and wom-
+
+en's development. Cambridge, MA: Harvard University Press.
+
+Hoffman,  M. L. (1984). Interaction of affect and cognition in empathy.
+In C  E. lzard, J. Kagan, & R. B. Zajonc (Eds.), Emotions, cognition,
+and behavior {pp. 103-131). Cambridge, MA: Cambridge University
+Press.
+
+Hoffman,  M. L. {in press). The contribution of empathy to justice and
+moral judgment. In N. Eisenberg & J. Strayer (Eds.), Empathy and
+its development. Cambridge, MA: Cambridge University Press.
+
+Kohlberg, L. (1984). Essays on moral development: Vol. 2. The psychol-
+
+ogy of moral development. San Francisco, CA: Harper and Row.
+
+Langer, E. J., Blank, A., & Chanowitz, B. (1978). The mindlessness of
+ostensibly thoughtful  action. Journal of Personality and Social Psy-
+chology, 36, 635-642.
+
+Rest, J. R. (1983). Morality. In P. Mussen (Series Ed.) and J. H. Ravel!
+
+& E. Markman  (Vol. Eds.), Handbook of child psychology:  Vol.  3.
+Cognitive development (pp. 556-629). New York: Wiley.
+
+Rholes, W. S,, & Bailey, S. (1983). The effects of level of moral reasoning
+
+in consistency between moral attitudes and related behaviors. Social
+Cognition. 2, 32-48.
+
+Staub, E. (1979). Positive social behavior and morality: Socialization
+
+and development. New \brk: Academic Press.
+
+Underwood, B., & Moore, B. S. (1982). Perspective-taking and altruism.
+
+Psychological Bulletin,  91,  143-173.
+
+Walker, L. (1984). Sex differences in the development of moral reason-
+
+ing: A critical review. Child Development, 55, 677-691.
+
+Received August 21, 1986
+Revision received December  19, 1986
+
+Accepted January 5, 1987  •
+
+

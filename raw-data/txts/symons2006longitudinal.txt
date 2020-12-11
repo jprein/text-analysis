@@ -1,0 +1,2232 @@
+A Longitudinal Study of Belief and Desire
+State Discourse During Mother–Child Play
+and Later False Belief Understanding
+Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins,
+Acadia University
+
+Abstract
+
+There is considerable interest in the role of mental state language in theory of mind
+development. This study examines cognitive and desire state discourse of 43 mothers
+during play interactions with their two-year-old children and theory of mind as
+indicated by a battery of false belief tasks around the age of ﬁve. Desire state comments
+of mothers during free play which were appropriate to the conversational context were
+signiﬁcantly related to children’s later theory of mind, and this relation was indepen-
+dent of other confounding variables, including a home-based measure of maternal
+sensitivity, and socio-economic status, and an estimate of child language. The child’s
+desire state language was concurrently related to the mother’s desire state language
+used appropriately, and the child’s cognitive state language was related to the mother’s
+appropriate cognitive state language. Although cognitive state language was not pre-
+dictive of later theory of mind, this may be because this kind of language plays a later
+role in theory of mind development.
+
+Keywords: theory of mind; discourse; parent-child play; Vygotsky
+
+There has been recent attention to the role of social discourse in theory of mind (ToM)
+development (Carpendale & Lewis, 2004; Harris, 1999; Meins, 1997; Symons, 2004).
+Discourse about the thoughts, desires and feelings of self and others has been proposed
+to be fundamental to children’s social understanding and pivotal to their entry into a
+community of minds (Dunn, Brown, Slomkowski, Tesla & Youngblade, 1991; Nelson,
+Plesa Skwerer, Goldman, Henseler, Presler & Walkenfeld, 2003). Although a variety of
+interactional contexts have been examined (e.g., Brown, Donelan–McCall & Dunn,
+1996), a large proportion of this research has emphasized the importance of discourse
+in social interactions between children and parents, often within a Vygotskian frame-
+work (e.g., Vygotsky, 1978, 1986).
+
+The social-constructivist approach to ToM development proposes that talk about
+beliefs and desires in parent–child interactions leads to self–other understanding, and
+most recently, this has been proposed to be through communication within epistemic
+triangles (Carpendale & Lewis, 2004), dialogic exchanges between parents and children
+(Fernyhough & Meins, 2004) and the internalization of social understanding (Symons,
+
+Correspondence should be addressed to Doug Symons, Psychology Department, Acadia Univer-
+sity, Wolfville, NS, CANADA B4P 2R6. Email: Doug.Symons@Acadiau.ca
+
+© Blackwell Publishing Ltd. 2006. Published by Blackwell Publishing, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street,
+Malden, MA 02148, USA.
+
+Discourse and Theory of Mind
+
+677
+
+2004). As evidence, longitudinal research has shown that discourse about mental states
+with peers (Hughes & Dunn, 1998) and parents (e.g., Meins, Fernyhough, Wainwright,
+Das Gupta, Fradley & Tukey, 2002; Ruffman, Slade & Crowe, 2002) predicts the later
+ToM of children as indicated by their performance on standard false belief tasks. Social
+understanding encompasses much more than passing false belief tasks, but these kinds
+of tasks are accepted as indicators that a child can understand that their thoughts and
+feelings can differ from either those of another or what the child herself or himself
+has experienced at another time (see Flavell, 2000; Slaughter & Repacholi, 2003).
+Although there is general acceptance that ToM skills transform and/or are transformed
+by children’s close relationships and language communities, speciﬁc developmental
+pathways remain unclear, particularly in toddlerhood (see Hughes & Leekham, 2004).
+The tendency to engage in mental state discourse may be an individual difference
+variable of parents. For example, Meins (1997) developed the concept of maternal
+mind-mindedness as the tendency for mothers to focus on the mental attributes of their
+children as opposed to behavioural and physical characteristics, and proposed that
+mind-mindedness is a component of parental discourse style related to a child’s
+mentalizing ability, which ultimately becomes reﬂected in their ToM. Meins and
+colleagues (Meins et al., 2002; Meins, Fernyhough, Wainwright, Clark-Carter, Das
+Gupta, Fradley et al., 2003) have shown that mind-minded parenting in the ﬁrst year of
+life predicts the ToM of children four years later, even controlling for later mind-
+minded parenting, security within the relationship, and global sensitivity. Similarly,
+Peterson and Slaughter (2003) described the different communication styles mothers
+felt that they used with their children. They showed that elaborating upon mental states
+during conversations with children was related to children’s false belief performance,
+but mental state language without explanation was not related to it.
+
+Several issues arise within this research that serve as motivation for the current
+study. Firstly, it is important to recognize that the simple exposure of children to mental
+state language seems less important than the didactic use of mental state language in
+an appropriate interactional context. Contextual information has typically been incor-
+porated into coding schemes by examining the mental state discourse of parents that
+ﬁts with a current activity or child mental states. Appropriate mental state discourse
+was deﬁned by Meins et al. (2003) as when a mother correctly reads an infant’s
+psychological state, behavioural activity, or knows how to proceed if there is a lull in
+the interaction. In their study, it was appropriate mind-minded comments that predicted
+later ToM, not comments that were not appropriate to the infant’s mental state or
+activity. However, because the children were only six months old in the Meins et al.
+(2003) study, the judgement of appropriateness was not based on child language, but
+instead, on inferences of infant behaviour and intent. By contrast, two-year-old toddlers
+were examined in the current study at a time when they had emergent language skills,
+and the appropriateness of maternal mental state language could therefore be judged
+primarily on the linguistic responses of the children during play interactions. The
+elaboration of child mental states by parents (Peterson & Slaughter, 2003) implies that
+the parents are in tune with the child’s communicative meaning when the parents,
+themselves, use mental state language in collaborative conversations (see Dunn, 2005;
+Nelson et al., 2003).
+
+Secondly, longitudinal studies have not considered the potentially different roles that
+discourse about beliefs and desires play in later ToM. Bartsch and Wellman (1995)
+found that parents’ language about desire states was a stronger predictor of their
+children’s later talk about thoughts and knowledge than the parents’ earlier language
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+678 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+about belief states. In another example, Ruffman et al. (2002) examined mental state
+language during parent–child discussions of a wordless storybook when children were
+three, 3.4 and four years of age, and found that the mothers desire state language was
+a better predictor of later child language about thoughts and knowledge than earlier
+mother think and know language. Home-based naturalistic observations of mental state
+talk have also been examined for developmental changes in children and their parents.
+Jenkins, Turrell, Kogushi, Lollis and Ross (2003) examined families when the younger
+siblings were aged two and four, and the older siblings were aged four and six, and
+found that regardless of the age transition, mothers used relatively more desire talk and
+less cognitive talk at the younger ages, but this pattern reversed itself at the older ages.
+In addition, children’s talk about the cognitive states at time 2 was predicted by similar
+talk by family members and general child language at time 1, even when earlier
+children’s talk about cognitive states was controlled. However, this pattern was present
+only for children ages two to four and not for the older children, and there was no
+evidence that early exposure to desire talk predicted later cognitive state talk.
+
+Both beliefs and desires have typically been aggregated together into a single
+category of mental state language, but young children may develop an understanding
+of desire states before belief states (Bretherton & Beeghly, 1982; Moore, Furrow,
+Chiasson, & Patriquin, 1994). Accordingly, there may be differential predictions of
+belief and desire state language to later ToM. For example, Ruffman et al. (2002)
+predicted that children’s social understanding is rooted initially in the desire state talk
+of mothers, which becomes scaffolded into belief state talk later during the preschool
+period, but they note that there are no data around the age of two addressing this
+hypothesis. The current study ﬁlls this void by separately examining the longitudinal
+relations of both belief and desire state language at this age to later ToM, taking the
+conversational context of such language into consideration.
+
+A third issue is that it is possible that discourse about mental states is simply a
+characteristic of a parenting style that is generally sensitive, and interactions that are
+harmonious. It is therefore important to show that discourse predicts later ToM above
+and beyond a parenting style that is sensitive (see Harris, 2005; Thompson, 1997). The
+Meins et al. (2003) study used a global rating scale—the Ainsworth nine-point
+scales—to assess maternal sensitivity, which, they note, is not behaviourally based,
+despite the use of descriptive anchors (see Hurst & Meins, 2004). In the current study,
+intensive Q-sort home-based observations of maternal sensitivity are therefore included
+(see Pederson, Moran, Sitko, Campbell, Ghesquire & Acton, 1990; Symons, 2001) to
+address the alternative hypothesis that general sensitivity accounts for the relations
+between mental state discourse and later ToM. Other parental characteristics are also
+important to consider. Some studies (e.g., Cutting & Dunn, 1999; Pears & Moses, 2003)
+have shown that maternal education and income, which are both components of
+socioeconomic status (SES), are related to some aspects of the ToM in preschool
+children, although relations with belief tasks are inconsistent. It is also possible that
+these demographics are related to general child language skills, given that child
+language development can be relatively more advanced in high SES homes.
+
+In the current study, developmental relations between mental state discourse during
+parent–child play interactions when the children were two years of age, and their ToM
+around the age of ﬁve were examined. Belief and desire state language of each
+interactant was coded, and comments made by the mothers were further classiﬁed as to
+whether they were appropriate to ongoing child activity and mental states. These
+interactions took place during a laboratory visit, and in addition, home-based Q-sort
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+679
+
+observations of maternal sensitivity were made at this age. Discourse measures at the
+age of two were related to their ToM assessed with a battery of false belief tasks at time
+2 around the age of ﬁve. It was hypothesized that the desire state language by the mothers
+during play at time 1 would predict the children’s ToM at time 2, even when maternal
+sensitivity, child language and, the variation in child age at the latter observation time
+were taken into consideration. However, no directional predictions were made about
+cognitive state language, given suggestions that this kind of language is developmentally
+signiﬁcant in relatively older preschool-age children.
+
+Method
+
+Participants
+
+The participants were 43 mothers and their children (23 boys, 20 girls) from a previous
+study on attachment security and ToM (Symons & Clark, 2000). The mother–child
+pairs were seen at time 1 when the children were two years of age, M = 24.7, SD = 1.0,
+range = 23 to 27 months, and again at time 2 when the children were aged four to six
+years, M = 69.2 months, SD = 4.2. The age range of the total sample at time 2 was 54
+to 81 months, however, all but three children were 63 to 74 months of age, and 34 of
+43 (79 per cent) of children were ﬁve years old.
+
+Fifteen (35 per cent) of the children were ﬁrst born. Thirty (70 per cent) had at least
+one sibling at time 1, and 40 (93 per cent) had a sibling by time 2. At time 1, 40 (90 per
+cent) mothers were married to the child’s father, one (2 per cent) was living in a
+common-law relationship, and two (5 per cent) were single parents.
+
+At time 1 and 2 visits, 33 (77 per cent) and 30 (70 per cent) respectively of the
+mothers were employed outside the home for at least 20 hours a week. The SES of the
+families was based on the Blishen Scale, which is a Canadian SES index (Blishen,
+Carroll & Moore, 1987). This index assigns numbers to speciﬁc job titles based on
+years of education, income and the social status associated with an occupation, and
+scores range from a possible 17 to 101. Because Blishen scores are based on job titles,
+no scores are provided for unemployed individuals, so the SES was recalculated on a
+scale of one to ﬁve in which low scores indicated a low SES (see Fahie & Symons,
+2003). The classiﬁcations were as follows: (1) nine families in which parent(s) were
+either unemployed or in seasonal or unskilled labour profession, Blishen < 30 (e.g.,
+farmhand); (2) nine families in which one parent was in a skilled-labour profession (3)
+10 families in which two parents were in skilled-labour professions (e.g., construction,
+ﬂoor installation, mechanic); (4) 10 families in which one parent was in a mid- to high
+SES category (e.g., manager, real estate sales, teacher, psychologist) and (5) ﬁve
+families in which two parents were in mid- to high SES category. In both items (2) and
+(3) the Blishen score is 30 to 50 and in both items (4) and (5) the Blishen score is >50.
+In this way, all the families received an SES score regardless of their employment status
+and family make up, and a wide SES range was represented.
+
+Measures
+
+Mental State Language During Play Observations. At time 1, the mothers were asked
+to play with their toddler in a laboratory setting outﬁtted with toys appropriate for
+two-year-old children. This 10-minute interaction was videotaped and transcribed. In
+addition to verbal utterances, physical gestures indicating overt communicative actions
+were noted (e.g., nods of agreement, pointing at toys).
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+680 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+Two independent raters event-coded the transcripts for instances of mental state
+language based on recent coding schemes (Meins et al., 2003; Ruffman et al., 2002;
+Symons, Peterson, Slaughter, Roche & Doyle, 2005). The categories of mental state
+language were cognitive states, desire states and affect emotion states. Cognitive state
+terms were coded if they involved processing information mentally and included the use
+of the words, ‘think’, ‘believe’, ‘remember’, ‘dream’, ‘imagine’, ‘know’, ‘forget’ and
+‘wonder’. Utterances were coded as desire state terms if the mother or child expressed
+a desire, want, need, wish, or said they were missing someone. Utterances were coded as
+affect state terms any time the mother referred to any kind of basic emotion, including,
+‘happy’, ‘sad’, ‘unhappy’, ‘feel’(when it was used to indicate an emotion, e.g., feel bad),
+‘angry’, ‘hate’, ‘love’, ‘like’ (e.g., I like you), ‘afraid’, ‘scared’, ‘worry’, ‘enjoy’,
+‘interested’, ‘hurt’, ‘sorry’, ‘surprised’, ‘pleased’ and ‘excited’. The child used so little
+of this kind of language that affect terms were not coded for children.
+
+Similar to other schemes, ‘think’ responses which were vague and could indicate a
+yes or no answer, rather than a true reference to a cognitive event (e.g., ‘I think so’)
+were not coded as mental state terms. Also, ‘know’ comments that consisted only of the
+words, ‘I don’t know’, were not coded as mental state terms as this phrase does not
+indicate what is unknown and may simply be another way of stating ‘I can’t answer’.
+Repeated utterances (e.g., ‘I know, I know’) were coded as a single mental state term,
+and the repetition was not coded.
+
+The mental state utterances of the children and mothers were coded separately, and
+data consisted of frequency counts of certain kinds of mental state language. Frequency
+counts, as opposed to proportions of total talk, were used based on Ruffman et al.’s.
+(2002) argument that each word used by parents and children may have a direct impact
+on the child’s ToM development, more so than density measures of language that
+proportional measures would represent. These authors argue that, just as having more
+older siblings and spending more time with people older than the child have been found
+to positively inﬂuence ToM abilities (that is likely through an increased exposure to
+mentalistic language). The increased use of mental state terms by parents could also
+plausibly affect ToM abilities regardless of whether or not it is simply a function of the
+verbosity of parents. Regardless, the mother’s total number of words was also counted
+for the play session as a whole to address parental verbosity.
+
+The mother’s cognitive and desire state terms were further coded for appropriate-
+ness following criteria modelled after Meins et al.’s (2002) criteria for ‘appropriate
+mind-related comments’. Mother appropriate cognitive state terms and appropriate
+desire state terms were coded as when mothers used a cognitive and desire state
+term, respectively, and the child’s speech or behaviour was consistent with her or his
+mother’s interpretation of the child’s mental state. For example, if a mother asked
+her child if she or he wanted to do a particular activity and the child responded that
+she or he did want to do that activity, or her or his behaviour was consistent with
+such a desire, then the mother’s comment was coded as appropriate. The mother’s
+comments were also coded as appropriate if she linked the child’s current activity to
+similar events or activities in the future or in the past (e.g., ‘Do you remember seeing
+the cows on the way here?’ ‘Yes’, says the child) and the child’s behaviour or speech
+indicated that they were following the mother’s speech (‘Do you want the book?’
+‘Book’, says the child). The three forms of child behaviour that therefore led to a
+mother’s mental state comment being classiﬁed as appropriate were repeating all or
+part of the mother’s phrase, answering a question with other relevant words, or
+indicating agreement.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+681
+
+The mother’s utterances were coded as inappropriate if an independent coder judged
+that the child’s behaviour or speech indicated that the mother’s comment was not
+consistent with her or his mental state (e.g., asking ‘Do you want to play with the ball?’
+followed by the child responding that she or he did not want to play with the ball or
+indicating that she or he desired to play with a toy which, was not the ball). The
+mother’s mental state comments were also coded as inappropriate if she referred to a
+future or past event that was not obviously related to the child’s current activity, or the
+child was unresponsive to the mother’s comment. The three forms of child behaviour
+that therefore led to a mother’s mental state comment being classiﬁed as not appro-
+priate were answering in a contrary fashion using other words, indicating disagree-
+ment, or being unresponsive to the mother.
+
+Coding was at comparable base rates between two coders and inter-rater reliability
+was high for all mental state terms for each interactant, all rs > .98, as well as
+appropriateness of mother’s use of cognitive and affective desire mental state
+language, rs > .91. The mother total number of words were counted in a word process-
+ing package after a review to ensure that any non-verbal notations in the transcript were
+removed.
+
+Children’s Language. An estimate of language ability of the two-year-old children in
+this study could be determined from an analysis of language during the play interac-
+tion. The mean length utterance (MLU) was calculated according to the speciﬁcations
+of Brown (1973), who described how the number of morphemes could be calculated
+for each full utterance within a transcript in a standardized fashion (see also Berko
+Gleason & Bernstein Ratner, 1998; Shatz & Gelman, 1973). An utterance was deﬁned
+as a conversational turn in the play transcript that could be either a complete sentence
+or a conversational phrase. Morphemes are basic units of meaning, and utterances were
+coded for the total number of morphemes within each utterance. In keeping with MLU
+coding rules, single morphemes were coded for compound words indicating a single
+functional noun (e.g., kitty-cat, moo-cow) as well as repetitions (e.g., no, no, no) when
+not used for emphasis. Separate morphemes were coded for all inﬂections such as
+possessives, plurals and regular past tense.
+
+Two deviations from Brown (1973) were that a majority of play sessions did not
+contain 100 utterances of the child upon which to base the estimate, so a reduced
+number had to be used, M = 50.5, SD = 22.1, range = 6 to 112, and coding was of the
+complete session rather than after either the ﬁrst page of transcription or a certain
+number of conversational turns. The morpheme total was calculated as the total number
+of morphemes uttered by the children during the 10-minute play session. This gave an
+estimate of the verbosity of the children as a different estimate of language use. The
+MLU was calculated as the average number of morphemes per utterance. Inter-
+observer reliability based on 25 per cent of the dataset was high for both the MLU and
+the morpheme total, both rs = .99.
+
+Maternal Sensitivity. Two observers independently completed the maternal behaviour
+Q-sort (MBQ) (Pederson et al., 1990) after the age two contact. The MBQ consists of
+90 cards descriptive of maternal behaviour and is regarded as a measure of general
+sensitivity constructed on Ainsworth, Blehar, Waters, and Wall’s (1978) concept of
+sensitive parenting. Some items relate to a mother’s ability to perceive, identify and
+respond consistently and accurately to signals from her child. None of the items refers
+to mental state language speciﬁcally, although attunement with the infant’s needs is
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+682 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+queried. The score obtained is a correlation between the sort descriptive of the
+observed mother’s behaviour and a criterion sort of the proto-typically sensitive
+mother according to experts in parent–child relationship research. High scores indicate
+high sensitivity, that is, the behaviour is more like that of a prototypically sensitive
+mother. MBQ scores were used for analyses from a randomly selected observer, and
+this measure has concurrent validity with observational measures of attachment secu-
+rity and other measures of sensitivity (see Pederson et al., 1990; Symons, 2001). MBQ
+scores were found to be reliable in the current data, r(41) = .84, p < .001.
+
+ToM
+
+The theory of mind battery at time 2 included six unexpected identity and contents task
+items (e.g., the Smarties task, Gopnick & Astington, 1988), and ﬁve changed location
+tasks (see Symons, McLaughlin, Moore & Morine, 1997; Wimmer and Perner (1983).
+In the six unexpected identity and contents tasks, the children were presented with
+various objects whose true identity or contents were different from what seemed
+apparent. The six items in the current study included: (1) an egg carton containing
+forks rather than eggs, (2) a Smarties box containing rocks as opposed to Smarties, (3)
+a candle that resembles an apple, (4) an eraser that looks like a marker, (5) a milk
+carton containing water rather than milk and (6) a ﬂashlight that looks like a pen. Once
+the true identity or contents were revealed, the children were asked a series of questions
+regarding what another child would have initially believed the true identity or contents
+to be (false belief), and what they themselves had initially thought the true identity or
+contents to be (representational change). The children’s performance on false belief,
+M = 81 per cent, and representational change, M = 52 per cent, questions was similar
+to that reported elsewhere for similar aged children (see Symons et al., 1997; Wellman,
+Cross & Watson, 2001). In order to pass the tasks, the children were required to answer
+both the false belief and the representational change questions correctly, M = .47,
+SD = .35, range = 0 to 1.0, a = .84, and scores for any items that were spontaneously
+identiﬁed when initially presented were pro-rated.
+
+The ﬁve changed location tasks involved the unexpected relocation of either a
+desired object by a foil ‘playing a trick on the character’, or a caregiver by the caregiver
+themselves. Changed location tasks involving objects are well known and are also
+called Sally-Ann and Maxi tasks. The changed location tasks involving caregivers are
+analogous, in that a story is acted out with Lego toys, in which a caregiver character is
+doing something with the child-character, then goes off to another location for some
+reason, and then, unknown to the child character, relocates to a different location. The
+participant child then directs the search of the child character for the caregiver in either
+the actual location or the location where the child character should think the caregiver
+would be, with the latter choice indicating correct false belief understanding. Previous
+research (Symons et al., 1997) has shown that changed location tasks involving
+caregivers are more difﬁcult than those in which objects are the sought item. To pass
+either kind of task, children were required to correctly search for the object or caregiver
+in the original location, and correctly answer questions regarding where the target item
+or person originally relocated to, where the target item or person now was, and whether
+the child character was present for the transfer. Scores were calculated as the percent-
+age of items passed, M = .63, SD = .27, range = .17 to 1.0, a = .51.
+
+The overall ToM score consisted of an average of the two kinds of scores described
+above. The overall ToM score had considerable variability, despite the fact that these
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Table 1. Descriptive Statistics of Play Interaction Data
+
+Discourse and Theory of Mind
+
+683
+
+Child utterances
+
+Morpheme total
+Mean length utterance
+Cognitive state terms
+Desire state terms
+
+Mother utterances
+
+Total number of words
+Cognitive state terms
+Desire state terms
+Affect state terms
+Appropriate cognitive state terms
+Appropriate desire state terms
+
+M
+
+SD
+
+Range
+
+79.1
+1.53
+.02
+1.20
+
+732.7
+5.57
+7.50
+2.77
+1.77
+2.52
+
+40.8
+.40
+.15
+3.47
+
+216.1
+4.53
+5.78
+3.22
+2.35
+2.42
+
+6 to 184
+1.00 to 2.75
+
+0 to 1
+0 to 22
+
+270 to 1212
+
+0 to 19
+0 to 23
+0 to 14
+0 to 12
+0 to 11
+
+kinds of tasks typically show above-chance performance at this age, M = .55, SD = .24,
+range = .13 to 1.0, a = .70. One child did not complete the ToM battery due to
+scheduling problems.
+
+Procedure
+
+Each mother–child dyad was seen twice at each of times 1 and 2. At each age, visits
+were scheduled within two weeks of each other. The contacts at time 1 consisted of a
+laboratory visit during which the play interaction was videotaped, followed by a home
+visit after which the MBQ was completed by the two observers. Due to travel restric-
+tions in some cases, a single visit to a participant’s home was required to collect data
+at a particular age.
+
+In between these visits, the mothers completed a number of self-report question-
+naires not relevant to this study (see Symons, 2001). The ToM battery was administered
+in a randomly determined order during a laboratory visit at time 2.
+
+Results
+
+Descriptive statistics for the play observation data at time 1 can be found in Table 1.
+The average number of words in the mothers’ utterances was over 700, and the average
+number of morphemes uttered by the children was close to 80. There were very low
+levels of mental state language for children, and the children used desire state terms
+signiﬁcantly more than they used cognitive state terms, paired t(42) = 2.25, p < .05.
+There were modest levels of cognitive and desire state words used by the mothers, and
+both cognitive and desire state terms were more likely to be used by the mothers than
+the children, paired ts(42) = 8.35 and 7.22, respectively, ps < .001. Maternal cognitive
+and desire state language was also classiﬁed as appropriate about 33 per cent of the
+time, although there was wide variability in these measures.
+
+Bivariate intercorrelations were conducted of background variables, child language
+measures and discourse measures. These are contained in Table 2. Child age at time 2
+and their SES were not signiﬁcantly correlated with any of the dependent measures.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+684 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+6
+0
+.
+
+8
+0
+.
+-
+
+6
+0
+.
+
+2
+2
+.
+
+1
+2
+
+.
+
+5
+0
+
+.
+
+7
+2
+
+.
+
+5
+0
+.
+
+9
+1
+
+.
+
+0
+1
+
+.
+
+5
+0
+
+.
+
+1
+0
+
+.
+
+*
+*
+9
+3
+
+.
+
+*
+2
+3
+
+.
+
+6
+0
+
+.
+
+6
+0
+.
+
+*
+*
+*
+5
+5
+
+.
+
+6
+1
+.
+
+*
+*
+*
+7
+5
+.
+
+*
+*
+*
+7
+5
+.
+
+8
+0
+
+.
+
+9
+2
+
+.
+
+*
+5
+3
+
+.
+
+—
+
+—
+
+—
+
+1
+2
+-
+
+9
+0
+.
+-
+
+.
+
+4
+0
+
+.
+
+4
+1
+
+.
+
+1
+1
+
+3
+0
+.
+
+9
+0
+.
+-
+
+0
+1
+
+7
+2
+
+.
+
+4
+0
+.
+
+3
+1
+.
+
+8
+1
+-
+
+.
+
+3
+1
+
+.
+
+6
+0
+.
+-
+
+*
+*
+4
+4
+
+.
+
+*
+*
+1
+4
+.
+
+*
+0
+3
+.
+
+2
+0
+
+.
+
+6
+0
+.
+-
+
+9
+1
+.
+-
+
+2
+1
+
+.
+
+7
+1
+.
+
+9
+2
+
+.
+
+*
+1
+3
+.
+
+2
+0
+.
+-
+
+—
+
+—
+
+—
+
+5
+1
+
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+4
+1
+
+3
+1
+
+2
+1
+
+9
+
+8
+
+0
+2
+.
+
+*
+*
+*
+2
+7
+.
+
+*
+4
+3
+
+.
+
+2
+0
+-
+
+.
+
+5
+2
+
+.
+
+3
+2
+
+.
+
+*
+3
+3
+
+.
+
+*
+*
+*
+4
+5
+
+.
+
+*
+1
+3
+
+.
+
+4
+2
+-
+
+5
+1
+.
+-
+
+1
+0
+-
+
+.
+
+.
+
+2
+1
+.
+
+7
+2
+
+.
+
+9
+2
+.
+
+3
+0
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+8
+1
+.
+
+8
+1
+.
+-
+
+5
+0
+-
+
+5
+2
+-
+
+.
+
+.
+
+8
+0
+.
+
+7
+1
+.
+
+3
+0
+-
+
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+
+t
+n
+e
+d
+n
+e
+p
+e
+D
+d
+n
+a
+
+d
+n
+u
+o
+r
+g
+k
+c
+a
+B
+
+f
+o
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+r
+e
+t
+n
+I
+
+.
+
+2
+
+e
+l
+b
+a
+T
+
+7
+
+2
+2
+.
+
+1
+1
+.
+
+3
+0
+-
+
+.
+
+*
+*
+2
+4
+
+.
+
+3
+2
+
+.
+
+6
+0
+-
+
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+6
+
+4
+1
+.
+
+0
+1
+.
+
+5
+1
+.
+
+5
+0
+-
+
+.
+
+8
+2
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+*
+*
+*
+4
+6
+.
+
+*
+6
+3
+
+.
+
+1
+1
+.
+-
+
+4
+1
+.
+-
+
+9
+1
+-
+
+.
+
+1
+0
+
+.
+
+5
+0
+
+.
+
+—
+
+0
+1
+
+.
+
+8
+0
+
+.
+
+—
+
+—
+
+1
+1
+
+.
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+s
+u
+t
+a
+t
+s
+
+c
+i
+m
+o
+n
+o
+c
+e
+o
+i
+c
+o
+S
+
+2
+
+e
+m
+
+i
+t
+
+t
+a
+
+e
+g
+a
+
+d
+l
+i
+h
+C
+
+y
+t
+i
+v
+i
+t
+i
+s
+n
+e
+s
+
+l
+a
+n
+r
+e
+t
+a
+
+M
+
+h
+t
+g
+n
+e
+l
+
+n
+a
+e
+m
+d
+l
+i
+h
+C
+
+e
+c
+n
+a
+r
+e
+t
+t
+u
+
+l
+a
+t
+o
+t
+
+e
+m
+e
+h
+p
+r
+o
+m
+d
+l
+i
+h
+C
+
+e
+t
+a
+t
+s
+
+e
+v
+i
+t
+i
+n
+g
+o
+c
+
+d
+l
+i
+h
+C
+
+e
+t
+a
+t
+s
+
+e
+r
+i
+s
+e
+d
+
+d
+l
+i
+h
+C
+
+s
+m
+r
+e
+t
+
+s
+m
+r
+e
+t
+
+r
+e
+b
+m
+u
+n
+
+l
+a
+t
+o
+t
+
+r
+e
+h
+t
+o
+M
+
+s
+d
+r
+o
+w
+
+f
+o
+
+e
+t
+a
+t
+s
+
+e
+v
+i
+t
+i
+n
+g
+o
+c
+
+r
+e
+h
+t
+o
+M
+
+e
+t
+a
+t
+s
+
+e
+r
+i
+s
+e
+d
+
+r
+e
+h
+t
+o
+M
+
+e
+t
+a
+t
+s
+
+t
+c
+e
+f
+f
+a
+
+r
+e
+h
+t
+o
+M
+
+s
+m
+r
+e
+t
+
+s
+m
+r
+e
+t
+
+e
+t
+a
+i
+r
+p
+o
+r
+p
+p
+a
+
+r
+e
+h
+t
+o
+M
+
+e
+t
+a
+t
+s
+
+e
+v
+i
+t
+i
+n
+g
+o
+c
+
+s
+m
+r
+e
+t
+
+s
+
+m
+r
+e
+t
+
+e
+t
+a
+t
+s
+
+e
+r
+i
+s
+e
+d
+
+e
+t
+a
+i
+r
+p
+o
+r
+p
+p
+a
+
+r
+e
+h
+t
+o
+M
+
+d
+n
+i
+m
+
+f
+o
+
+y
+r
+o
+e
+h
+t
+
+d
+l
+i
+h
+C
+
+s
+m
+r
+e
+t
+
+5
+
+4
+
+3
+
+2
+
+e
+l
+b
+a
+i
+r
+a
+V
+
+.
+
+1
+0
+0
+
+.
+
+<
+p
+
+*
+*
+*
+
+,
+
+1
+0
+
+.
+
+<
+p
+
+*
+*
+
+,
+5
+0
+.
+
+<
+p
+
+*
+
+:
+e
+t
+o
+N
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+685
+
+Table 3. Hierarchical Regression Predicting Theory of Mind at Time 2 From
+Maternal Mental State Language at Time 1
+
+Step
+
+Variable
+
+R2
+
+DR2
+
+b
+
+1
+1
+1
+2
+2
+3
+
+Child age at time 2
+Socio-economic status
+Maternal sensitivity
+Mean length utterance
+Morpheme total
+Appropriate desire state language
+
+.015
+
+.015
+
+.083
+
+.068
+
+.192*
+
+.109*
+
+.063
+-.092
+.064
+.209
+.088
+.396
+
+t
+
+.39
+-.56
+.39
+1.01
+.40
+2.17*
+
+Note: * p < .05.
+
+Relatively more generally sensitive mothers used more desire state terms classiﬁed as
+appropriate and had more verbose children with a higher morpheme total. Children
+with relatively more developed language according to MLU were more verbose, used
+more desire state language and also had mothers whose desire state language was more
+likely classiﬁed as appropriate. Children who were more verbose had mothers who
+used more appropriate language of both cognitive and desire states.
+
+There were a number of signiﬁcant intercorrelations between the language used by
+the children and mothers during play. Children who used relatively more cognitive state
+terms had mothers who used more cognitive state terms in an appropriate fashion, as
+well as affect state terms. Children who used relatively more desire state language had
+mothers who used more desire state language in an appropriate fashion. However,
+cross-correlations were not signiﬁcant between the child’s desire state language and
+the mother’s appropriate cognitive state language, nor the child’s cognitive state
+language and the mother’s appropriate desire state language. These results suggest
+some discriminant patterns of communicative style in at least the observed interaction,
+and possibly the didactic style as a whole.
+
+Finally, bivariate correlations were conducted between ToM and background vari-
+ables, child language measures and discourse measures. Table 2 shows that ToM was
+positively associated with the mother’s appropriate desire state language, but not her
+appropriate cognitive state language, nor any other dependent measures. There were no
+signiﬁcant relations between the ToM and background variables, although there was a
+trend for the ToM to be associated to the MLU of children.
+
+Mothers who used more desire state language classiﬁed as appropriate at time 1 had
+children with higher ToM scores at time 2, but it is possible that this relationship was
+due to shared variance with other background variables and child language. A hierar-
+chical regression was conducted in which the background variables of the child’s age,
+SES, and maternal sensitivity were entered at step 1, the child’s language measures of
+MLU and morpheme total were entered at step 2, and then the maternal desire state
+language classiﬁed as appropriate was entered in step 3. These results are shown in
+Table 3. Neither background variables at step 1 nor the child language measures at step
+2 accounted for a signiﬁcant proportion of the variance of later ToM scores. However,
+the maternal appropriate desire state language accounted for an additional 11 per cent
+of the variance in the ToM scores, and at step 3, a total of 19 per cent of the variance
+was accounted for.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+686 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+It is possible that child desire state language accounted for their ToM performance
+rather than maternal appropriate desire state language, particularly as these two lan-
+guage measures were positively related. The above regression was rerun with the child
+desire state language as an additional predictor at step 3.This did not affect the additional
+variance accounted for by this step nor the total variance accounted for by this step: those
+numbers were identical. However, this overall regression equation was not signiﬁcant
+after step 3, F(2,34) = 2.31, p = .11, and neither child, b = -.037, t = -.152, p = .88, nor
+maternal appropriate, b = .423, t = 1.67, p = .10, desire state language were signiﬁcant
+predictors of later ToM, although trends for the latter were similar to Table 3.
+
+A number of other regression equations were run to investigate other potential
+patterns. The same hierarchical regression of Table 3 was run with maternal verbosity
+as an additional control variable entered at step 2, and the pattern of results did not
+change. When the regression was rerun with maternal appropriate cognitive state
+language only at step 3, this equation was not signiﬁcant. When this regression was
+rerun with both maternal appropriate cognitive and desire state language entered at step
+3, appropriate desire state language continued to be a signiﬁcant predictor of the ToM,
+p < .05, although this step only accounted for an additional 12 per cent of the variance,
+p < .10, and the overall equation only accounted for 20 per cent of the total variance.
+Finally, recall that there were three children with somewhat disparate ages at time 2 in
+this sample. The regression of Table 3 was rerun on a subset of data with these three
+age-outliers removed, and the pattern of ﬁndings was the same, if not stronger. In this
+analysis, the overall equation accounted for 23 per cent of the variance, and the
+maternal desire state comments that were appropriate accounted for 15 per cent of the
+variance of children ToM at time 2.
+
+Desire state comments of mothers were designated as ‘appropriate’ only when
+children responded to them in certain ways. All appropriate and not appropriate desire
+state comments were re-examined to determine what kind of child response to maternal
+desire state language might be speciﬁcally associated with later child ToM. The three
+forms of child behaviour which led to a mother’s mental state comment being classi-
+ﬁed as appropriate were repeating all or part of the mother’s phrase, M = .60,
+SD = 1.21, range = 0 to 6, answering a question with other words, M = .58, SD = 1.10,
+range = 0 to 5, or indicating agreement such as by saying ‘yes’, M = 1.49, SD = 1.50,
+range = 0 to 7. Later ToM was associated with maternal desire state comments desig-
+nated as appropriate when children were either repeating the mother’s phrase,
+r(42) = .45, p < .01, or answering questions with other words, r(42) = .30, p < .05, but
+not simply agreeing with the mother, r(42) = -.12, p > .05.
+
+None of the reasons for mother desire state comments to be designated as not
+appropriate was signiﬁcantly related to children’s later ToM. In addition, none of the
+same sub-classiﬁcations of maternal appropriate and not appropriate cognitive state
+utterances was signiﬁcantly related to later ToM, which should not be surprising, given
+that maternal cognitive state language was unrelated to later ToM.
+
+Discussion
+
+This longitudinal study examined mental state discourse during play interactions of
+mothers and their two year-old children, and the children’s ToM around the age of ﬁve.
+The hypothesis that the desire state language of mothers classiﬁed as appropriate to the
+child’s ongoing activity and mental states would predict the later child ToM was
+supported. Furthermore, this relation was independent of other factors known to be
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+687
+
+related to ToM, including an estimate of child language, SES, and generally sensitive
+parenting of the mother. These ﬁndings are important
+to social constructivist
+approaches to ToM development in which early communicative experience about
+mental states predicts the later performance on false belief tasks. The current ﬁndings
+support a Vygotskian approach to ToM development as a function, in part, of social
+transmission between parents and children (see Carpendale & Lewis, 2004; Meins
+et al., 2003; Symons, 2004).
+
+Unconditional counts of neither desire nor cognitive state words by mothers were
+predictive of their later ToM, and the desire state language of mothers was only
+predictive of their ToM when it was designated as appropriate. What is classiﬁed as
+appropriate is her use of a desire word, and then an indication the child is agreeing or
+following the ﬂow of conversation. Instances in which children either do not respond
+to or disagree with what the mother is saying would not be coded as appropriate. It
+seems plausible that the appropriate use of mental state language would make play
+interactions relatively more didactic and sensitive to children’s existing mindsets.
+There would be an attunement of parents to what their children are thinking, wanting,
+or doing. Although related to generally sensitive parenting (e.g., Harris, 2005; Meins
+et al., 2002, 2003), the prediction of later ToM is not due to general sensitivity as a third
+variable. If the goal is for toddlers to begin to understand how desire states reﬂect
+thoughts and inﬂuence behaviour, then parents need to correctly reﬂect a child’s
+beginning understanding of desires and thoughts in order for social understanding to be
+enhanced. This is similar to Fonagy, Steele, Steele, and Holder’s (1997) suggestion that
+the mentalizing capacity and ToM of the child is enhanced by a caregiver who observes
+and responds appropriately to moment-to-moment changes in a child’s mental states.
+Mental states which are explained and elaborated upon are also more likely to be in
+attunement with children’s thoughts and behaviour and to have an impact on the
+children’s understanding of mental states (as in Harris, 2005; Peterson & Slaughter,
+2003). Such attunement allows a child to learn the language of desire states by having
+mothers provide the appropriate framework for mental activity within a conversation.
+This may address the very complex question of why language may matter for ToM
+development (see Astington & Baird, 2005).
+
+The current study used three ways to classify child behaviour associated with
+mother desire language designated as appropriate, and these classiﬁcations give
+some indication of what kinds of desire state discourse are signiﬁcant. Recently,
+Nelson (2005) has suggested that the adults around a child may attempt to read a
+child’s mind and predict what she or he wants and how she or he feels. One of the
+ways in which this can be manifested is by toddlers their imitating their mother’s
+correct identiﬁcation of a want or desire (e.g., Mother: Do you want the kitty? Child:
+Kitty). Another sequence is when toddlers answer a desire state question addressed
+to them (e.g., Mother: What do you want to play with? Child: Kitty). The current
+data suggest that both these forms of interchanges, which are dependent on both the
+mother’s and child’s behaviour, are predictive of their later ToM. The current data
+are therefore supportive of Nelson’s (2005) proposition that a form of imitation
+could lead to children learning the language of mental states around the age of two.
+However, the more simplistic response of simple agreement is not (e.g., Mother: do
+you want the kitty? Child: Yes). Furthermore, any kind of discordant communication
+in which the mother has not read the child’s desires correctly is not predictive of
+their later ToM (e.g., Mother: Do you want to play with the kitty? Child: Book).
+Misreading a child’s desire state is not being sensitive or in time with children’s
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+688 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+wishes (Harris, 2005). The current data thus provide some information on speciﬁc
+kinds of interchanges within collaborative conversations predictive of later ToM
+(e.g., Dunn, 2005; Nelson, 2005), at least within mother–toddler play interactions.
+The current data stress how essential contextual information is within discourse.
+
+The toddlers in the current study are so young that they are still learning to identify
+the language of mental states, and this is necessary before a child can begin to
+understand the discrepant mental state language necessary for false belief task perfor-
+mance around the age of four. Human language emerges during the ﬁrst ﬁve years of
+life at the same time that children begin to understand mental states (see Wellman et al.,
+2001), and general language has been implicated as important for ToM (e.g., Astington
+& Jenkins, 1999). There have also been important demonstrations of relations between
+the parents’ desire and cognitive state language with the later cognitive state language
+of children (Bartsch & Wellman, 1995; Jenkins et al., 2003). The current study
+addresses the relative importance of desire and belief state language in later ToM task
+performance. Both toddlers and mothers tended to use fewer cognitive state terms at
+the age of two than desire state terms, but even low levels of child cognitive state
+language were related to maternal cognitive state language used in an appropriate
+fashion. Previous literature has shown that children tend to develop ﬁrst a ‘naïve’
+understanding of simple desires at the age of two, and a more complex belief under-
+standing at the age of four (see Wellman, 1990). Desire understanding emerges ﬁrst in
+children, as they are primarily concerned with their wants, and communicating desires
+is a primary goal and extension of preverbal requests to obtain something. The verb
+want quickly becomes attached to an object phrase, that is, the object of the desire.
+Montgomery (2005) suggests that mothers providing desire state language to commu-
+nicate these toddler wants is a signiﬁcant achievement; that is, mothers scaffold
+language to label and articulate these wants and this interactive process leads to
+enhanced social understanding three years later.
+
+There was no evidence that cognitive state language in early joint play predicts later
+ToM. Ruffman et al. (2002) proposed that children’s social understanding is rooted
+initially in the desire state talk of their mothers, which then becomes scaffolded into
+belief state talk later during the preschool period. This pattern may reverse itself at an
+older age when belief understanding emerges, such as at the age of four. At this age, it
+could be expected that belief understanding predicts later ToM, but desire language is no
+longer predictive. This pattern was found by Hughes and Dunn (1998), who showed that
+children’s use of cognitive state terms during peer interactions at the age of four
+predicted a ToM aggregate on average 13 months later, even when age, language, and
+original ToM performance were controlled. In a recent analysis of joint reading inter-
+actions in children entering elementary school (i.e., grade primary, kindergarten), the
+maternal appropriate cognitive state language concurrently predicted ToM, even when
+maternal desire state language, as well as the child cognitive, desire and general
+language were all controlled (Symons, Fossum & Peterson, 2005). Beyond the preschool
+period, language about cognitive states by children may be related to ToM even when
+discourse is deﬁned as formal, and orderly, and extended thought on a subject, such as
+when children are asked to make up stories in response to pictures (see also Symons
+et al., 2005).
+
+There are a number of limitations of the current study. Firstly, the current data address
+the potential role of general language at time 1 using MLU as an estimate of child
+language use, but there is no measure of child language at the age of ﬁve as a concurrent
+confound of ToM performance. This is problematic because general language measures
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+689
+
+often correlate with ToM performance, even though the current data point to a speciﬁc
+feature of language experience that is predictive. Other approaches have been to
+examine speciﬁc features of the semantics and syntax of language (Perner, Sprung,
+Zauner & Haider, 2003), something not addressed in the current study, where words
+were coded independent of their linguistic function. Secondly, the small numbers in the
+current study invites type II error, so the failure of the demographic variables of age,
+SES and, particularly, language to predict ToM should not be over-interpreted. Thirdly,
+it would also be preferable that child and mother play measures at time 1 be taken from
+different observational sessions. Right now, interrelations of the language of the mother
+and child during play are difﬁcult to interpret as an individual difference of a session,
+dyad, or person. In fact, the interdependence of maternal and child language measures
+support a systemic view in which the ﬁrst child language precursor of a ToM may be
+children participating in conversations about desire states. Finally, it is recognized that
+the current ToM measures have been selected as common false belief tasks used in the
+literature, but they are a small subset of the constantly growing list of tasks that address
+different features of the broader construct of social understanding.
+
+This study resonates with Vygotsky’s (1978) general developmental proposition that
+inter-psychological activity ultimately becomes the intra-psychological activity of the
+child. Just as Bruner (1986) proposed that the internal speech of children arises from
+children internalizing the rules of language and dialogue, the current study proposes
+that children’s social understanding has origins in their social discourse with their
+parents. Nelson et al. (2003) have emphasized the experiential nature of language and
+its role in the development of social understanding. In their model, language serves a
+representational function, and mental state talk facilitates the representations of self
+and others as mental beings (see also Chandler & Carpendale, 2003; Symons, 2004) as
+well as shared communication about third party concepts within epistemic triangles
+(Carpendale & Lewis, 2004). Hughes and Dunn (1998) have argued that one of the
+most important milestones in toddlerhood is the acquisition of internal state language
+and the ability to reason non-egocentrically about other people’s feelings and desires.
+The current study has shown that desire state language may play a key developmental
+role in this process in children that have just turned two.
+
+References
+Ainsworth, M., Blehar, M., Waters, E., & Wall, S. (1978). Patterns of attachment: A psycho-
+
+logical study of the strange situation. Hillsdale, NJ: Lawrence Erlbaum.
+
+Astington, J. W., & Baird, J. A. (2005). Why language matters for theory of mind. New York:
+
+Oxford University Press.
+
+Astington, J. W., & Jenkins, J. M. (1999). A longitudinal study of the relation between language
+
+and theory of mind development. Developmental Psychology, 35, 1311–1320.
+
+Bartsch, K., & Wellman, H. M. (1995). Children talk about the mind. Cambridge, MA: Harvard
+
+University Press.
+
+Berko Gleason, J., & Bernstein Ratner, N. (1998). Language acquisition. In J. Berko Gleason,
+& N. Bernstein Ratner (Eds.), Psycholinguistics (2nd ed., pp. 347–407). Toronto, ON:
+Harcourt College Publishers.
+
+Blishen, B., Carroll, W., & Moore, C. (1987). The 1981 socioeconomic index for occupations in
+
+Canada. Canadian Review of Sociology and Anthropology, 24, 465–488.
+
+Bretherton, I., & Beeghly, M. (1982). Talking about internal states: The acquisition of an
+
+explicit theory of mind. Developmental Psychology, 18, 906–921.
+
+Brown, J. R., Donelan–McCall, N., & Dunn, J. (1996). Why talk about mental states? The
+signiﬁcance of children’s conversations with friends, siblings, and mothers. Child Develop-
+ment, 67, 836–849.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+690 Douglas K. Symons, Kristin-Lee M. Fossum and T.B. Kate Collins
+
+Brown, R. (1973). A ﬁrst language: The early stages. Cambridge, MA: Harvard University Press.
+Bruner, J. (1986). Actual minds, possible worlds. London: Harvard University Press.
+Carpendale, J., & Lewis, C. (2004). Constructing an understanding of mind: The development
+of children’s social understanding within social interaction. Behavioral and Brain Sciences,
+27, 79–151.
+
+Chandler, M., & Carpendale, J. (2003). Colloquy on a community of minds. Human Develop-
+
+ment, 46, 51–57.
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, language, and family
+
+background: Individual differences and interrelations. Child Development, 70, 853–865.
+
+Dunn, J. (2005). Relationships and children’s discovery of the mind. Plenary session at the 35th
+
+Annual Meeting of the Jean Piaget Society, June, Vancouver, BC.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Youngbalde, L. (1991). Young children’s
+understanding of other people’s feelings and beliefs: Individuall differences and their ante-
+cedents. Child Development 62, 1352–1366.
+
+Fahie, C., & Symons, D. (2003). Executive functioning and theory of mind in children clinically
+referred for attention and behavior problems. Journal of Applied Development Psychology,
+24, 51–73.
+
+Fernyhough, C., & Meins, E. (2004, July). Self-regulatory private speech as a mechanism for
+theory of mind acquisition. In D. Symonds, & C. Peterson (Chairs), Language and theory of
+mind: the roles of metal state discourse and private speech in false belief understanding.
+Symposium conducted at the Biennial International Society for Studies in Behavioral Devel-
+opment, Ghent, Belgium.
+
+Flavell, J. H. (2000). Development of children’s knowledge about the mental world. Interna-
+
+tional Journal of Behavioral Development, 24, 15–23.
+
+Fonagy, P., Steele, H., Steele, M., & Holder, J. (1997). Attachment and theory of mind:
+
+Overlapping constructs? Bonding and Attachment, 14, 31–40.
+
+Gopnik, A., & Astington, J. W. (1988). Children’s understanding of representationall change
+and its relation to the understanding of false belief and the appearance–reality distinction.
+Child Development, 59, 26–37.
+
+Harris, P. L. (1999). Individual differences in understanding emotion: The role of attachment
+
+status and psychological discourse. Attachment & Human Development, 1, 307–324.
+
+Harris, P. L. (2005). Converstaion, pretense, and theory of mind. In J. W. Astington, & J. A. Baird
+(Eds.), Why language matters for theory of mind (pp. 70–83). Oxford: Oxford University
+Press.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longitudinal associations
+
+with mental state talk between young friends. Developmental Psychology, 34, 1026–1037.
+
+Hughes, C., & Leekham, S. (2004). What are the links between theory of mind and social
+relations? Review, reﬂections and new directions for studies of typical and atypical develop-
+ment. Social Development, 13, 590–619.
+
+Hurst, B., & Meins, E. (2004, July). Can parental mind-mindedness help bridge the transmission
+gap? In A. Bernier, & K. Grossman (Chairs), A further look at the transmission gap: New
+conceptual and methodological approaches. Symposium conducted at the Biennial Interna-
+tional Society for Studies in Behavioral Development, Ghent, Belgium.
+
+Jenkins, J. M., Turrell, S. L., Kogushi, Y., Lollis, S., & Ross, H. S. (2003). A longitudinal
+investigation of the dynamics of mental state talk in families. Child Development, 74, 905–920.
+Meins, E. (1997). Security of attachment and the social development of cognition. Hove:
+
+Psychology Press.
+
+Meins, E., Fernyhough, C., Wainwright, R., Clark-Carter, D., Das Gupta, M., Fradley, E., et al.
+(2003). Pathways to understanding mind: Construct validity and predictive validity of mater-
+nal mind-mindedness. Child Development, 74, 1194–1211.
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta, M. D., Fradley, E., & Tukey, M. (2002).
+Maternal mind-mindedness and attachment security as predictors of theory of mind under-
+standing. Child Development, 73, 1715–1726.
+
+Montgomery, D. E. (2005). The developmental origins of meaning for mental state terms. In
+J. W. Astington, & J. A. Baird (Eds.), Why language matters for theory of mind (pp. 106–122).
+Oxford: Oxford University Press.
+
+Moore, C., Furrow, D., Chiasson, L., & Patriquin, M. (1994). Developmental relationships
+
+between production and comprehension of mental terms. First Language, 14, 1–17.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+Discourse and Theory of Mind
+
+691
+
+Nelson, K. (2005). Language pathways into the community of minds. In J. W. Astington, & J. A.
+Baird (Eds.), Why language matters for theory of mind (pp. 26–49). Oxford: Oxford Univer-
+sity Press.
+
+Nelson, K., Plesa Skwerer, D., Goldman, S., Henseler, S., Presler, N., & Walkenfeld, F. (2003).
+Entering a community of minds: An experiential approach to theory of mind. Human
+Development, 46, 24–46.
+
+Pears, K. C., & Moses, L. J. (2003). Demographics, parenting, and theory of mind in preschool
+
+children. Social Development, 12, 1–20.
+
+Pederson, D. R., Moran, G., Sitco, C., Campbell, K., Ghesquire, K., & Acton, H. (1990).
+Maternal sensitivity and the security of mother–child attachment: A Q-sort study. Child
+Development, 61, 1974–1983.
+
+Perner, J., Sprung, M., Zauner, P., & Haider, H. (2003). Want that is understood well before say
+that, think that, and false belief: A test of de Villier’s linguistic determinism on German-
+speaking children. Child Development, 74, 179–188.
+
+Peterson, C., & Slaughter, V. (2003). Opening windows into the mind: Mother’s preferences for
+mental state explanations and children’s theory of mind. Cognitive Development, 18, 399–429.
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation between child and mothers’mental
+
+state language and theory-of-mind understanding. Child Development, 73, 734–751.
+
+Shatz, M., & Gelman, R. (1973). The development of communication skills: Modiﬁcations in
+the speech of young children as a function of the listener. Monographs of the Society for
+Research in Child Development, 38, 5, Serial No. 152.
+
+Slaughter, V., & Repacholi, B. (2003). Individual differences in theory of mind: What are we
+investigating? In B. Repacholi, & V. Slaughter (Eds.), Individual differences in theory of mind
+(pp. 1–12). New York: Psychology Press.
+
+Symons, D. (2001). A dyad-oriented approach to distress and mother–child relationship out-
+
+comes in the ﬁrst 24 months. Parenting: Science and Practice, 1, 101–122.
+
+Symons, D. (2004). Mental state discourse and theory of mind: Internalisation of self–other
+
+understanding within a social–cognitive framework. Developmental Review, 24, 159–188.
+
+Symons, D., & Clark, S. (2000). A longitudinal study of mother–child relationships and theory
+
+of mind in the preschool period. Social Development, 9, 1–23.
+
+Symons, D., Fossum, K., & Peterson, C. (2005). Belief and desire state discourse and theory of
+mind in the preschool period. Paper presented at the annual conference of the Jean Piaget
+Society, June, Vancouver, BC.
+
+Symons, D., McLaughlin, E., Moore, C., & Morine, S. (1997). Integrating relationship con-
+structs and emotional experience into false belief tasks in preschool children. Journal of
+Experimental Child Psychology, 67, 423–447.
+
+Symons, D., Peterson, C., Slaughter, V., Roche, J., & Doyle, E. (2005). Theory of mind and
+mental state discourse during book reading and story telling tasks. British Journal of Devel-
+opmental Psychology, 23, 81–102.
+
+Thompson, R. (1997). Sensitivity and security: New questions to ponder. Child Development,
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes.
+
+68, 595–597.
+
+London: Harvard University Press.
+
+Vygotsky, L. S. (1986). Thought and language. Cambridge, MA: MIT Press.
+Wellman, H. (1990). The child’s theory of mind. Cambridge, MA: MIT Press.
+Wellman, H., Cross, D., & Watson, J. (2001). Meta-analysis of theory of mind development: The
+
+truth about false belief. Child Development, 72, 655–684.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representations and constraining
+function of wrong beliefs in young children’s understanding of deception. Cognition, 13,
+103–128.
+
+Acknowledgments
+A preliminary version of this paper was presented at the biennial meeting of the Society for
+Research in Child Development, Atlanta GA, in April 2005. The reviewers are thanked for their
+comments on an earlier version. This research was supported by a grant from the Social
+Sciences and Humanities Research Council of Canada to the ﬁrst author and an SSHRC CGS
+award to the second author.
+
+© Blackwell Publishing Ltd. 2006
+
+Social Development, 15, 4, 2006
+
+

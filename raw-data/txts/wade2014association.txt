@@ -1,0 +1,1243 @@
+Genes, Brain and Behavior (2014) 13: 603–610
+
+doi: 10.1111/gbb.12148
+
+Association between the oxytocin receptor (OXTR)
+gene and children’s social cognition at 18 months
+
+M. Wade†, T. J. Hoffmann‡, K. Wigg§
+and J. M. Jenkins∗,†
+
+Received 2 March 2014, revised 17 May 2014 and 5 June
+2014, accepted for publication 9 June 2014
+
+†Department of Applied Psychology and Human Development,
+University of Toronto, Toronto, ON, Canada, ‡Department of
+Epidemiology and Biostatistics and Institute for Human
+Genetics, University of California at San Francisco, San
+Francisco, CA, USA, and §Genetics and Development Division,
+Toronto Western Research Institute, Toronto, ON, Canada
+*Corresponding author: J. M. Jenkins, Department of Applied
+Psychology and Human Development, University of Toronto, 252
+Bloor Street West, Toronto, ON M5S 1 V6, Canada.
+E-mail: jenny.jenkins@utoronto.ca
+
+At 18 months, children engage in a variety of social
+behaviors that reﬂect their nascent ability to under-
+stand the intentions of other people (e.g. joint attention,
+empathy, cooperation and self-recognition). Although
+numerous contextual factors have been shown to predict
+social cognition in young children, the genetic underpin-
+nings of social-cognitive traits has been understudied
+in this age group. Owing to the known effects of oxy-
+tocin on adult social cognition and psychopathology,
+this study hypothesized that variability in the oxytocin
+receptor gene (OXTR) would be associated with social
+cognition in children at 18 months. Participants con-
+sisted of 350 children (182 males; 168 females) who were
+part of an ongoing longitudinal study that aimed to
+assess environmental and genetic contributions to chil-
+dren’s cognitive and socio-emotional functioning. At 18
+months, social cognition was measured using previously
+validated and developmentally sensitive tasks assessing
+children’s joint attention, empathy, cooperation and
+self-recognition. Five potentially functional OXTR vari-
+ants were genotyped: rs1042778, rs2254298, rs11131149,
+rs237897 and rs237899. A family-based association
+design was used to control for population admixture
+and stratiﬁcation, and additional non-genomic covari-
+ates were controlled. Results showed that variability in
+rs11131149 was signiﬁcantly associated with social cog-
+nition (P = 0.009), with more copies of the major allele
+related to higher social cognition, and more copies of
+the minor (risk) allele associated with lower social cog-
+nition. A haplotype consisting of rs11131149–rs2254298
+was also associated with social cognition (P = 0.020).
+Implications for normative and pathological develop-
+ment are discussed, and key areas for future research are
+proposed.
+
+Keywords: Child development,
+family-based association
+design, genetic association, oxytocin receptor, social cogni-
+tion, theory of mind
+
+Social cognition is the ability to understand the behavior of
+other people – a process that relies on an individual’s proﬁ-
+ciency at imputing the mental states of others. These cogni-
+tive processes enable children to engage in a variety of social
+behaviors that are critical to their psychosocial health and
+development (Astington 2003). Moreover, there is a develop-
+mental progression in social cognition across childhood, with
+more rudimentary abilities in infancy (e.g. intention under-
+standing) maturing into more sophisticated abilities in the
+pre-school period (e.g. ‘theory of mind’; Wellman et al. 2008).
+At around 18 months, a constellation of social skills emerge
+that reﬂect children’s nascent ability to understand and repre-
+sent the intentions of others, including joint attention, empa-
+thy, cooperation and self-recognition (Nielsen & Dissanayake
+2004; Warneken et al. 2006). Although there is a wealth of
+evidence demonstrating the contribution of contextual fac-
+tors to social cognition, few studies have explicitly examined
+the neurobiological underpinnings of social cognition in young
+children.
+
+Recent reviews highlight the importance of the neuropep-
+tide oxytocin (OXT) as a key modulator of human social
+behavior (Skuse & Gallagher 2011). In adults, intranasal infu-
+sion of OXT has been shown to improve emotion recog-
+nition (Di Simplicio et al. 2009), empathic accuracy (Bartz
+et al. 2010), trusting behavior (Kosfeld et al. 2005), generos-
+ity (Barraza & Zak 2009), altruistic behavior (Zak et al. 2007),
+cooperation (Declerck et al. 2010), eye gaze (Gamer et al.
+2010) and the ability to infer others’ emotional states (Domes
+et al. 2007). Although measured in adults, these pheno-
+types parallel to those used to index children’s social cogni-
+tion in this study – joint attention, empathy, cooperation and
+self-recognition (see Wade et al. in press). Importantly, one
+of the primary determinants of OXT functionality is the distri-
+bution and expression of its receptor, coded by the oxytocin
+receptor gene (OXTR; Gimpl & Fahrenholz 2001). To date,
+molecular genetics studies have demonstrated associations
+between OXTR single nucleotide polymorphisms (SNPs) and
+a variety of social-cognitive behaviors, including empathy
+(Rodrigues et al. 2009), altruism (Israel et al. 2009), social
+recognition (Skuse et al. 2013), prosocial temperament (Tost
+et al. 2010) and theory of mind (Wu & Su 2013). Given these
+associations, it is plausible that OXTR variation also relates to
+emergent social-cognitive skills in 18-month-old children.
+
+Although the functionality of OXTR SNPs remains unspec-
+iﬁed, Mizumoto and colleagues (1997) have shown that the
+third intronic region may be associated with transcriptional
+
+© 2014 John Wiley & Sons Ltd and International Behavioural and Neural Genetics Society
+
+603
+
+Wade et al.
+
+suppression and downregulation of the gene through differ-
+ential methylation patterns. Thus, in this study we examined
+four SNPs within intron 3 because of their potential func-
+tional role as modulators of genetic activity and social behav-
+ior. These included rs2254298, rs11131149, rs237897 and
+rs237899, which have also been implicated in human social
+behavior vis-à-vis their association with autism spectrum dis-
+order (ASD) and other psychiatric conditions characterized by
+deﬁcits in social cognition (Jacob et al. 2007; Kawamura et al.
+2010; Liu et al. 2010; Wu et al. 2005). We also genotyped
+marker rs1042778, located in the 3′-untranslated region, due
+to its potential regulatory role in OXTR transcription and trans-
+lation (Israel et al. 2009). This marker has also been linked to
+ASD (Campbell et al. 2011) and childhood psychopathology
+(Malik et al. 2012). Together, these SNPs tag the major hap-
+lotypes of OXTR, making them suitable candidates for the
+analysis of social cognition in children. This study focused on
+social cognition in the second year of life – a period of rapid
+neurocognitive maturation. This is the earliest period at which
+OXTR has been examined in relation to social-cognitive traits
+in humans.
+
+Material and methods
+
+Participants
+This study was part of an ongoing longitudinal study (Kids, Fam-
+ilies, Places) that aimed to investigate genetic and environmental
+inﬂuences on children’s cognitive and socio-emotional development
+by examining within- and between-family differences. The study
+design combined epidemiological methodology (large and diverse
+sample, multiple siblings, home visits) with developmental method-
+ology (tasks developed in the laboratory, detailed microsocial obser-
+vational data). At wave 1 (youngest child was a newborn), 501 families
+from Toronto and Hamilton were enlisted through Public Health Units.
+Inclusion criteria included an English-speaking mother, a full-term
+newborn weighing >1500 g, two or more children younger than
+4-years-old, and agreement to be videotaped. Families were followed
+up at wave 2, at which point the youngest child in each family was
+about 18-months-old (Mage = 1.60 years; SD = 0.14). This was the tar-
+get age for examining social cognition, and thus only the youngest
+children were included in this study. Due to attrition, data were avail-
+able for 397 of the original 501 children at wave 2. Of these 397 chil-
+dren, no social-cognitive data was available for 24 of them, resulting
+in 373 children contributing a score on the social cognition phenotype
+(see below and Appendix S1). Of these 373 children, 350 were geno-
+typed (see section on ‘Genotyping’ below), resulting in a ﬁnal sample
+of 350 children for the genetic analysis. The University of Toronto
+Research Ethics Board approved all procedures for this investigation,
+and informed consent was attained from all participants.
+
+We compared the study sample at wave 1 with the general
+population of Toronto and Hamilton using 2006 Canada Census
+Data. The study sample was similar to the general population in
+terms of number of persons in the household (M = 4.52, SD = 1.01
+vs. M = 4.13; SD = 1.22) and personal income ($30 000–$39 999 vs.
+census population mean = $30 504.16, SD = $37 808.12); however,
+the study sample had fewer non-intact families (lone-parent: 5% vs.
+16.8%; step-families: 4.3% vs. 10.3%), fewer immigrants (47% vs.
+57.7%) and more educated mothers (53% had a Bachelor’s degree
+compared with 30.6% in the general population).
+
+Procedure
+Two trained interviewers visited each family’s residence for approx-
+imately 2 h. During the visit, mothers were interviewed and com-
+pleted questionnaires pertaining to demographics, family life and
+child behavior. Mothers were also observed interacting with the
+
+Table 1: Demographic characteristics of sample (N = 350) at
+study entry
+
+Demographic variable
+
+Teen mom
+Non-intact family
+New-immigrant family (<10 years)
+Low income family (<$20 000)
+Mother’s years of education (<high school)
+Mothers scoring in depressed range on CESD
+Infant birth weight <2500 g
+Gestational age <37 weeks
+
+% of
+sample
+
+4.9
+9.7
+43.7
+6.9
+15.7
+14.2
+2.3
+3.1
+
+N
+
+17
+34
+153
+24
+55
+50
+8
+11
+
+target children and their next-in-age sibling to attain measures of
+parenting behavior. Children engaged in a variety of observational
+tasks designed to assess multiple components of social cognition,
+described below.
+
+Measures
+Social cognition
+Social cognition was measured at wave 2 (18 months) as a factor
+score of four independent observational tasks that were used
+to assess children’s joint attention, empathy, cooperation and
+self-recognition. Each of these tasks was based on previously vali-
+dated and widely used laboratory tasks, which we administered in
+the home. As data collectors had less control over the environment,
+some children were missing data on tasks due to non-administration,
+child noncompliance, lack of visibility (e.g. child went off camera), par-
+ent intrusion (e.g. directing child’s attention) or tester administration
+error (e.g. not following the standardized protocol). Table 1 presents
+the Ns for each task. A complete description of these tasks is in
+Appendix S1. Brieﬂy, in the joint attention task, children were required
+to respond to an adult interviewer’s bids for directing their attention
+(Mundy et al. 2003); in the empathy task, children were tasked with
+responding to the feigned distress of the interviewer (Kochanska
+et al. 1994);
+in the cooperation tasks, children needed to work
+collaboratively with the interviewer toward a shared goal (Warneken
+et al. 2006); and in the self-recognition task, children were assessed
+for their ability to recognize the objectivity of their body using the
+mirror-rouge paradigm (Amsterdam 1972).
+reliabilities
+across tasks were: 𝛼 = 0.94 for joint attention, 𝛼 = 0.82 for empathy,
+𝛼 = 0.86 for cooperation and 𝜅 = 0.79 for self-recognition. Scores on
+these measures were submitted to a conﬁrmatory factor analysis
+(CFA), consistent with their theoretical coherence (Wade et al. in
+press). Full-information maximum likelihood estimation (FIML) was
+used to account for missing data in the CFA model (Acock 2005;
+Graham 2009). A maximum likelihood with robust standard errors
+estimator (MLR) was used, which produces parameter estimates
+with standard errors and a 𝜒 2 that are robust to non-normality when
+missing data are present (Muthén & Muthén 2010). In accordance
+with recommended cut-off values of Hu and Bentler (1999), model ﬁt
+for the social cognition factor was excellent: root-mean-square-error
+of approximation (RMSEA) = 0.023, comparative ﬁt index (CFI) = 0.99
+and standardized root-mean-square residual (SRMR) = 0.021. Further,
+all model-estimated loadings were positive and signiﬁcant at the
+P < 0.001 level, suggesting that children’s social cognition at 18
+months could be reliably represented as a factor indicated by joint
+attention, empathy, cooperation and self-recognition. Factor scores
+for each individual were extracted, saved and used as the outcome
+phenotype in the genetic association analysis. The social cognition
+factor was normally distributed with a mean of zero.
+
+Inter-rater
+
+Covariates
+On the basis of previous studies demonstrating the association
+between certain demographic and contextual factors and social
+
+604
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+OXTR gene and social cognition
+
+Table 2: Characteristics of each SNP in the study sample
+
+SNP
+
+Chr location
+
+rs1042778
+rs2254298
+rs11131149
+rs237897
+rs237899
+
+8 794 544
+8 802 227
+8 802 851
+8 808 284
+8 808 514
+
+Gene
+position
+3′-UTR
+Intron 3
+Intron 3
+Intron 3
+Intron 3
+
+Allele 1
+(minor)
+
+Allele 2
+(major)
+
+MAF
+(allele)
+
+# Informative
+
+families
+
+HWE
+P-value
+
+FBAT
+P-value
+
+T
+A
+A
+A
+A
+
+G
+G
+G
+G
+G
+
+0.40
+0.12
+0.32
+0.42
+0.33
+
+123
+88
+130
+161
+155
+
+0.036
+0.12
+0.07
+0.13
+0.06
+
+0.634
+0.744
+0.009
+0.018
+0.340
+
+h2
+
+0.007
+0.022
+0.016
+0.004
+<0.001
+
+Chr, chromosome; h2, heritability; HWE, Hardy–Weinberg equilibrium; MAF, minor allele frequency; UTR, untranslated region.
+
+cognition (deﬁned both broadly and using this study’s narrow def-
+inition), a number of variables were covaried with social cognition:
+(1) children’s gender; (2) concurrent age; (3) children’s concurrent
+language ability, measured using the MacArthur-Bates Commu-
+nicative Development Inventories (CDI; Fenson et al. 1994);
+(4)
+family socio-economic status (SES), assessed via material education
+and family income/assets and (5) maternal responsivity, used as a
+metric of parenting behavior that has been shown to predict social
+cognition. An in-depth description of these measures is also in
+Appendix S1.
+
+Genotyping
+DNA was extracted from cheek swabs for 350 children (182 males;
+168 females), 354 mothers and 244 fathers. On the basis of previ-
+ous reports, we selected ﬁve SNPs in the OXTR gene by search-
+ing for conﬁrmed polymorphisms in public databases (ABI database
+and the NCBI SNP database (http://www.ncbi.nlm.nih.gov/SNP) and
+for pre-designed assays from Applied Biosystems (ABI, Foster City,
+CA, USA, Assay-on-Demand by Applied Biosystems®). These SNPs
+included rs1042778, rs2254298, rs11131149, rs237897 and rs237899
+that, based on Hapmap, tagged the major haplotypes of the gene.
+These markers were genotyped with the ABI 7900-HT Sequence
+Detection System® (Applied Biosystems) using the TaqMan 5′ nucle-
+ase assay for allelic discrimination. We also attempted to genotype a
+sixth marker, rs53576, but this marker failed to genotype in >50% of
+the sample in the ﬁrst round of genotyping. An attempt to retype this
+marker was made, but it remained problematic and was thus dropped
+from the present analysis. However, as noted in Hapmap, rs53576 is
+in the same haplotype block as marker rs237897, which we success-
+fully genotyped and used in the present analysis. Each SNP and its
+genetic information for the entire sample are presented in Table 2. The
+PCR reactions (10 μl volume) contained 30 ng of genomic DNA, 10 μM
+of TaqMan® Universal PCR Master Mix (Applied Biosystems), and
+0.25 μl of allelic discrimination mix (Applied Biosystems) containing
+36 μM of each primer and 8 μM of each probe. The thermal cycling con-
+ditions were 50 ∘C for 2 min, 95 ∘C for 10 min, followed by 40 cycles
+of 94 ∘C for 15 s and the annealing temperature of 60 ∘C for 1 min.
+Each 96-well plate contained two negative controls. Plates were then
+read on the ABI 7900HT Sequence Detection System (SDS) using the
+allelic discrimination end-point analysis mode of SDS software pack-
+age version 2.0 (Applied Biosystems). For the analyzed data, there
+were no Mendelian errors. Extensive data checks were performed
+that included retyping of any observed Mendelian errors until they
+were resolved. Approximately 20% of the sample required a second
+or third round of genotyping to resolve these errors. We also checked
+for crossovers between markers, which is a sensitive check for geno-
+typing errors.
+
+Statistical analysis
+The association analysis was carried out using the family-based
+association test (FBAT) with the Golden Helix SVS program. The FBAT
+statistic is a generalization of the transmission disequilibrium test
+(TDT), in which the alleles transmitted to probands are compared
+with the distribution of alleles expected among the offspring. In
+the FBAT approach, the expected allele distributions are conditioned
+
+on the parental genotypes and based on Mendelian transmissions.
+Thus, unlike a typical case-control design, the FBAT technique uses
+each child’s parents as pseudo-controls, thereby controlling for the
+widespread confounds of population admixture and stratiﬁcation. In
+contrast to a case-control design, the result of the FBAT analysis is
+a robust and unbiased test statistic that, when signiﬁcant, allows
+researchers to infer both association and linkage.
+In this study,
+we tested an additive model
+in which genotypes were coded to
+reﬂect the number of copies of each allele. The quantitative trait of
+interest was the social cognition factor score described above. As
+recommended by Lange, Laird and colleagues, a phenotypic residual
+was used for the coded phenotype by offsetting each individual’s
+score by the phenotypic mean, which has been shown to improve
+the statistical power of the FBAT statistic (Lange et al. 2002). We
+also controlled for non-genomic factors known to be associated
+with the quantitative trait (i.e. social cognition) by adjusting the raw
+measurements for important covariates in order to reduce outcome
+variability and improve power (Laird & Lange 2008). Alpha was set at
+P < 0.05.
+
+Results
+
+Table 1 presents key demographic variables of the sam-
+ple (N = 350) at wave 1, including the number of children
+born low birth weight (<2.5 kg) and number of children born
+pre-term (<37 weeks gestation). Preliminary correlation anal-
+ysis revealed that none of these wave 1 demographic char-
+acteristics, nor birth weight or gestational age, was signiﬁ-
+cantly associated with social cognition at 18 months (wave
+2; all P’s > 0.10). Moreover, mean comparisons between low
+birth weight vs. average birth weight children [t = 0.076,
+P = 0.94], and preterm vs. term-born children [t = 0.074,
+p = 0.94], revealed no differences in social cognition.
+
+Table 3 reports the bivariate associations between study
+variables, grouped into contextual variables (including covari-
+ates) and child variables. Although the primary outcome
+phenotype was the social cognition factor score, we have
+included all four social-cognitive skills that made up this factor
+(joint attention, empathy, cooperation and self-recognition)
+for a more detailed descriptive analysis. As seen in Table 3,
+the socio-economic variables showed little relation to any
+of the social-cognitive measures, while maternal responsiv-
+ity and child language were signiﬁcantly associated with the
+social cognition factor and the individual skills that comprised
+this factor. As expected, there were signiﬁcant inter-relations
+among social-cognitive skill variables, and all were associ-
+ated with the social cognition factor. All subsequent genetic
+association analyses were conducted on the social cognition
+factor.
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+605
+
+Wade et al.
+
+Table 3: Bivariate associations between study variables
+
+1.
+
+–
+
+Contextual variables
+1. Maternal education
+2. Income and assets
+3. Maternal responsivity
+Child variables
+4. Language
+5. Social cognition
+6. Cooperation
+7. Empathy
+8. Joint attention
+9. Self-recognition
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+M
+
+SD
+
+N
+
+Range
+
+0.45**
+0.26**
+
+–
+
+0.32**
+
+0.02
+0.06
+0.07
+0.01
+–0.09
+0.08
+
+0.05
+0.08
+0.08
+–0.02
+0.03
+0.08
+
+–
+
+0.17**
+0.24**
+0.27**
+0.04
+0.08
+0.14*
+
+–
+
+–
+
+0.27**
+0.20** 0.80**
+0.16** 0.44** 0.19**
+0.14*
+0.62** 0.17**
+0.18** 0.63** 0.23**
+
+–
+
+–
+
+0.19**
+0.07
+
+–
+
+0.21**
+
+15.5
+2.60 350
+0.00† 0.77 350
+0.79 350
+3.52
+
+[8, 22]
+
+[–2.2, .90]
+[1.3, 6.2]
+
+1.00 350
+
+0.00†
+[–2.0, 3.5]
+0.00† 0.14 373 [–0.48, 0.32]
+–0.59
+[–2.2, 0.82]
+3.53
+3.29
+–‡
+
+0.64 363
+1.10 321
+0.92 281
+0.49 324
+
+[1.2, 7.0]
+[1.0, 4.0]
+
+[0, 1]
+
+**P < 0.01; *P < 0.05
+†These are standardized scores with a mean of zero.
+‡Self-recognition was a binary variable.
+
+We performed a preliminary multi-marker analysis by
+combining all individual SNPs and pairwise correlations into
+a single test of association. This test behaves similarly to
+a global (omnibus) test of association, without examining
+a speciﬁc haplotype structure (Rakovski et al. 2007). Using
+the FBAT-GEE estimator, results showed a signiﬁcant asso-
+ciation of the combined ﬁve-marker score and the social
+cognition phenotype (P = 0.005), suggesting the presence
+of a genetic association. To evaluate the speciﬁc nature
+of this association, single SNP analyses were performed
+using the same statistical parameters. Table 2 reports the
+allele frequencies, the number of informative families (i.e.
+families with at least one heterozygous parent), the P-value
+of Hardy–Weinberg equilibrium, the P-value of the FBAT
+statistic, and the heritability coefﬁcient for each SNP. The
+heritability coefﬁcient is a measure of the proportion of the
+phenotypic variance explained by the analyzed marker. The
+results indicated that we cannot reject the null hypothesis
+of Hardy–Weinberg equilibrium at standard levels of signiﬁ-
+cance for all but one marker (rs1042778). FBAT analyses for
+the ﬁve individual SNPs revealed that there was a signiﬁcant
+association between the rs11131149 marker and social cogni-
+tion (P = 0.009), which was robust to correction for multiple
+comparisons. There was also a nominal association between
+the rs237897 marker and social cognition (P = 0.018), but this
+association did not survive correction for multiple testing.
+None of the other markers showed signiﬁcant associations
+with social cognition. For the rs11131149 marker,
+it was
+observed that more copies of the major allele (0 to 1 to 2
+copies of G) were associated with higher levels of social
+cognition, and more copies of the minor allele (0 to 1 to 2
+copies of A) were associated with lower social cognition.
+An examination of the heritability coefﬁcient showed that
+approximately 1.6% of the variance in the social cognition
+phenotype was explained by the rs11131149 marker.
+
+We also conducted haplotype analysis using PBAT’s hap-
+lotype function, which behaves similarly to the Haploview
+program of Barrett et al. (2005). There was minimal linkage
+disequilibrium (LD) between genotyped markers except the
+single signiﬁcant SNP, rs11131149 and rs2254298, as well
+
+as between rs237897 and rs237899 (D′ > 0.7 for both; see
+Fig. 1). Haplotype tests of association for each of these
+two-marker haplotypes revealed the following pattern of
+results: For the rs237897–rs237899 haplotype, an A–G
+allelic combination was shown to be associated with higher
+social cognition (P = 0.010), although the proportion of
+variability accounted for by this haplotype was extremely
+small (h2 < 0.0001). For the rs11131149–rs2254298 haplo-
+type, a G–G allelic combination was also associated with
+higher social cognition (P = 0.035, h2 = 0.013), and an A–G
+allelic combination was associated with lower social cog-
+nition (P = 0.020, h2 = 0.036). None of these haplotypes
+offered a statistical
+the single SNP
+association involving rs11131149 alone. Follow-up analyses
+using the multi-marker FBAT-GEE showed that,
+indeed,
+any two-, three- or four-marker combination involving the
+rs11131149 was signiﬁcantly associated with social cognition
+(all P’s < 0.05). Thus, the rs11131149 marker appears to be
+the SNP most robustly associated with social cognition at 18
+months.
+
+improvement over
+
+Discussion
+
+The results of this study show that variability in OXTR is asso-
+ciated with children’s social cognition in the second year of
+life – a critical period of neurocognitive development during
+which children’s understanding of others’ intentions supports
+engagement in an array of social-cognitive behaviors (e.g.
+joint attention, empathy, cooperation and self-recognition).
+This ﬁnding supports a large body of literature delineating the
+involvement of the oxytocin system in human social behav-
+ior (Skuse & Gallagher 2011). Moreover, these results lend
+support to the idea that variability in the OXTR gene is asso-
+ciated with human-speciﬁc social-cognitive capacities such
+as empathy (Rodrigues et al. 2009), prosocial engagement
+(Israel et al. 2009), and theory of mind (Wu & Su 2013).
+This study is the ﬁrst to demonstrate such an association in
+18-month-old children, the stage at which these social behav-
+iors and cognitions are beginning to emerge. That there is
+
+606
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+OXTR gene and social cognition
+
+et al. 2012). Moreover, OXT may indirectly promote encephal-
+ization by tuning the human nervous system to socialization
+factors that support brain growth and, by extension, human
+cognition and sociality (Adolphs 2008; Carter 2014). Thus,
+genetic and epigenetic variations in OXTR may contribute
+to the genetic modulation of neocortical growth that begets
+individual differences in social cognition (Carter 2014; Ebstein
+et al. 2012; Meyer-Lindenberg et al. 2011).
+
+Social cognition – broadly deﬁned – is an important cog-
+nitive endophenotype for many behavioral and psychiatric
+conditions in children and adults (Buitelaar et al. 1999;
+Hughes & Ensor 2006; Wang et al. 2008). In a previous
+study of probands with attention-deﬁcit hyperactivity disor-
+der (ADHD), Park et al. (2010) demonstrated an association
+between the OXTR SNP rs53576 and parent-reported mea-
+sures of social behavior in 4- to 16-year-old children, including
+social reciprocity, non-verbal skills, pragmatic language use
+and functional impairment. Interestingly, there was no asso-
+ciation between OXTR and the broad ADHD phenotype.
+This study builds on these ﬁndings by showing that the
+relationship between OXTR and social cognition extends to
+18-month-old children within the normative range. Together,
+these ﬁndings are interesting as they speak to a potential
+relationship between genetic variability in OXTR and discrete
+cognitive substrates that are impaired in complex disease
+conditions. Indeed, studies demonstrating a link between
+OXTR and particular disorders (e.g. ASD, ADHD, depres-
+sion, etc.) may have been tapping into a more speciﬁc and
+unmeasured relationship that involves impairments in social
+cognition that typify these conditions (Lerer et al. 2007).
+Future studies on the meditational role of social cognition in
+linking genetic variability to neurodevelopmental and psychi-
+atric problems would prove useful in elucidating the nature
+of these intricate relationships.
+
+In this study, variability in a speciﬁc SNP of OXTR,
+rs11131149, was associated with social cognition at 18
+months. No previous study has demonstrated the associa-
+tion of this SNP with any social-cognitive phenotype using
+either case-control or family-based methodology. However,
+Liu et al. (2010) showed that the rs11131149 marker belonged
+to a haplotype block that was linked to ASD classiﬁcation, and
+a separate investigation showed an association between this
+marker and depressive temperament (Kawamura et al. 2010).
+Again, owing to the known social-cognitive deﬁcits of indi-
+viduals with both unipolar and bipolar depression (Schenkel
+et al. 2008; Wang et al. 2008) as well as ASD (Gallese 2006),
+it is conceivable that variability in rs11131149 confers risk
+not for psychopathology per se, but for the social-cognitive
+impairments that underlie these various disorders.
+
+Most studies examining the link between OXTR and
+human behavior have implicated the rs53576 and rs2254298
+markers in social outcomes, psychopathology and autism
+(see Meyer-Lindenberg et al. 2011). In the current study we
+were unable to genotype rs53576 successfully. However,
+there was a nominally signiﬁcant association between the
+rs237897 SNP and social cognition that, based on Hapmap,
+has been shown to be in the same haplotype block as
+rs52576. Future studies capable of including rs52576 would
+prove useful in determining its role in social-cognitive devel-
+opment. With regard to rs2254298, this marker was not
+
+Figure 1: Haplotype ﬁgure for the ﬁve genotyped SNPs
+showing pairwise D′ linkage disequilibrium.
+
+continuity in social cognition from infancy to middle child-
+hood supports the prospect that variability in OXTR may help
+to shape the development of early social-cognitive abilities
+that mature over developmental time. The present results
+are particularly noteworthy given the difﬁculty in assess-
+ing social-cognitive traits in young children using develop-
+mentally sensitive observational tasks – the gold standard in
+developmental research.
+
+Social cognition undergoes a protracted development over
+early childhood, in accordance with the rapid maturation of
+frontal brain regions (Adolphs 2008; Petanjek et al. 2008). Var-
+ious aspects of social cognition have been mapped onto dis-
+tinct cortical areas, including the orbito-frontal cortex (Stone
+et al. 1998), anterior cingulate and paracingulate cortex (Gal-
+lagher & Frith 2003), and medial prefrontal areas (Spreng
+et al. 2009). The link between OXTR and human social cogni-
+tion can be considered in light of the role that OXT plays in the
+development and expression of the human nervous system.
+As noted above, the behavioral functions of OXT depend on
+its capacity to bind its receptor. Interestingly, OXTR has been
+found in non-human species to be distributed in several brain
+regions known to support social cognition (Freeman et al.
+2014; Vaccari et al. 1998). The localization of OXTR to these
+cortical regions is suggestive that OXT may have played an
+evolutionary role in the anatomical and functional organization
+of these neural substrates (Carter 2014). In fact, it has been
+reported that the physiological actions of OXT can actually
+shape cortical development. In humans, the large neocortex
+is primarily due to cortical tissues and neurons in prefrontal
+brain regions. It has been suggested that the encephalization
+of the neocortex may depend on OXT’s ability to encourage
+stem cell differentiation into cortical cells, and possibly its
+capacity to inhibit apoptosis of critical brain cells (Gutkowska
+& Jankowski 2012). In adults, OXT has been shown to reduce
+programmed cell death and facilitate neurogenesis (Leuner
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+607
+
+Wade et al.
+
+shown to be individually associated social cognition in the
+present study. However, rs11131149 has been shown in
+previous studies to belong to the same haplotype block as
+rs2254298 (Liu et al. 2010), and was shown in the present
+analysis to be in linkage disequilibrium with this SNP. Indeed,
+a haplotype involving rs11131149–rs2254298 was shown
+to be associated with social cognition in this study. More-
+over, it is interesting to note that the rs11131149 marker
+is chromosomally located directly between rs2254298 and
+rs53576. The proximity of rs11131149 to these adjacent
+markers suggests that this set of SNPs (and perhaps others)
+may all be involved in the pathophysiology of social cogni-
+tion and/or disorders characterized by impairments in social
+cognition.
+
+Although the functionality of rs11131149 has not yet been
+ﬂeshed out, Mizumoto et al. (1997) have shown that a spe-
+ciﬁc motif of ca. 10–15 nucleotides close to the middle
+of intron 3 of the OXTR gene binds nuclear suppression
+proteins that may be involved in downregulation of this
+gene. The rs11131149 marker appears to be localized either
+near or within this small genomic fragment. However, the
+absence of linkage between rs11131149 and known func-
+tional variant rs237897 (Tansey et al. 2010) in the current
+analysis, as well as the lack of knowledge about the func-
+tionality of rs11131149, prevents us from knowing whether
+this marker is a real causal variant of social cognition, of
+whether another unknown variant in strong LD with this
+SNP is responsible for variability in social cognition. Alterna-
+tively, it is possible that a presently unidentiﬁed haplotype
+(perhaps involving multiple SNPs, including those mentioned
+above) is in fact the functional variant that drives differences
+in social cognition. Future studies on the functionality of
+OXTR variants will be critical in expanding our understanding
+of the mechanism through which these markers contribute
+to both normative and pathological
+levels of social cogni-
+tion.
+
+This study showed that, for the rs11131149 marker, more
+copies of the major allele (G) were associated with higher
+levels of social cognition, whereas more copies of the minor
+allele (A) were associated with lower levels of social cognition
+after controlling for a number of contextual and demographic
+variables known to be related to social cognition. More-
+over, simultaneous inheritance of a G–G haplotype involving
+rs11131149–rs2254298 (both major alleles) was associated
+with higher social cognition, whereas an A–G haplotype was
+associated with lower social cognition. Taken together, these
+results suggest that the A allele of the rs11131149 marker
+may be a risk allele for the development of social-cognitive
+difﬁculties in childhood. Thus, something about this genetic
+variant may be responsible for the low levels of social cog-
+nition observed in some children, perhaps through genetic
+suppression or modiﬁcation by other genetic elements or
+environmental factors. Importantly, the proportion of variance
+accounted for by this SNP was small, on the order of 1.6%.
+Although consistent with estimates for the expected pro-
+portion of variance explained by individual SNPs for quan-
+titative traits (Plomin 2013), this ﬁnding is a reminder that
+single gene variants should not be considered alone in the
+etiology or pathogenesis of any disorder or behavioral phe-
+notype. Given the known effects of social-environmental
+
+inﬂuences on social cognition (Meins et al. 2002; Ruffman
+et al. 2006), a systematic examination of OXTR-environment
+interactions may prove useful in broadening our understand-
+ing of the biopsychosocial mechanism of social-cognitive
+development.
+
+Limitations
+Genetic association studies have been criticized for produc-
+ing effects that are potentially spurious and study-speciﬁc.
+Though it is desirable to demonstrate replication of genetic
+associations across samples, this study was unable to con-
+duct cross-study comparisons as we know of no other sam-
+ple that contains data for OXTR and all four measures of
+social cognition in this study. Future replication studies are
+encouraged to enhance our understanding of the relation-
+ship between OXTR and social cognition in early childhood.
+Moreover, studies including the rs53576 SNP would be partic-
+ularly informative given this variant’s widespread involvement
+in human social behavior and psychopathology.
+
+References
+Acock, A.C. (2005) Working with missing values. J Marriage Fam 67,
+
+1012–1028.
+
+Adolphs, R. (2008) The social brain: neural basis of social knowledge.
+
+Amsterdam, B. (1972) Mirror self-image reactions before age two.
+
+Annu Rev Psychol 60, 693–716.
+
+Dev Psychobiol 5, 297–305.
+
+Astington, J.W.
+
+(2003) Sometimes necessary, never sufﬁcient:
+False-belief understanding and social competence. In Repacholi,
+B. & Slaughter, V. (eds), Individual Differences in Theory of Mind:
+Implications for Typical and Atypical Development. Psychology
+Press, New York, pp. 13–38.
+
+Barraza, J.A. & Zak, P.J. (2009) Empathy toward strangers triggers
+oxytocin release and subsequent generosity. Ann N Y Acad Sci
+1167, 182–189.
+
+Barrett, J.C., Fry, B., Maller, J. & Daly, M. (2005) Haploview: analysis
+and visualization of LD and haplotype maps. Bioinformatics 21,
+263–265.
+
+Bartz, J.A., Zaki, J., Bolger, N., Hollander, E., Ludwig, N.N., Kolevzon,
+A. & Ochsner, K.N. (2010) Oxytocin selectively improves empathic
+accuracy. Psychol Sci 21, 1426–1428.
+
+Buitelaar, J.K., Van der Wees, M., Swaab–Barneveld, H. & Van
+der Gaag, R.J. (1999) Theory of mind and emotion-recognition
+functioning in autistic spectrum disorders and in psychiatric control
+and normal children. Dev Psychopathol 11, 39–58.
+
+Campbell, D.B., Datta, D., Jones, S.T., Lee, E.B., Sutcliffe, J.S., Ham-
+mock, E.A. & Levitt, P. (2011) Association of oxytocin receptor
+(OXTR) gene variants with multiple phenotype domains of autism
+spectrum disorder. J Neurodev Disord 3, 101–112.
+
+Carter, C.S. (2014) Oxytocin pathways and the evolution of human
+
+behavior. Annu Rev Psychol 65, 17–39.
+
+Declerck, C.H., Boone, C. & Kiyonari, T. (2010) Oxytocin and coopera-
+tion under conditions of uncertainty: the modulating role of incen-
+tives and social information. Horm Behav 57, 368–374.
+
+Di Simplicio, M., Massey-Chase, R., Cowen, P. & Harmer, C. (2009)
+Oxytocin enhances processing of positive versus negative emo-
+tional information in healthy male volunteers. J Psychopharmacol
+23, 241–248.
+
+Domes, G., Heinrichs, M., Michel, A., Berger, C. & Herpertz, S.C.
+(2007) Oxytocin improves “mind-reading” in humans. Biol Psychi-
+atry 61, 731–733.
+
+Ebstein, R.P., Knafo, A., Mankuta, D., Chew, S.H. & Lai, P.S. (2012)
+The contributions of oxytocin and vasopressin pathway genes to
+human behavior. Horm Behav 61, 359–379.
+
+608
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+Fenson, L., Dale, P.S., Reznick, J.S., Bates, E., Thal, D.J., Pethick,
+S.J., Tomasello, M., Mervis, C.B. & Stiles, J. (1994) Variability in
+early communicative development. Monogr Soc Res Child Dev 59,
+1–173.
+
+Freeman, S.M., Inoue, K., Smith, A.L., Goodman, M.M. & Young,
+L.J. (2014) The neuroanatomical distribution of oxytocin receptor
+binding and mRNA in the male rhesus macaque (Macaca mulatta).
+Psychoneuroendocrinology 45, 128–141.
+
+Gallagher, H.L. & Frith, C.D. (2003) Functional imaging of theory of
+
+mind. Trends Cogn Sci 7, 77–83.
+
+Gallese, V. (2006) Intentional attunement: a neurophysiological per-
+spective on social cognition and its disruption in autism. Brain Res
+1079, 15–24.
+
+Gamer, M., Zurowski, B. & Büchel, C. (2010) Different amygdala sub-
+regions mediate valence-related and attentional effects of oxytocin
+in humans. Proc Natl Acad Sci U S A 107, 9400–9405.
+
+Gimpl, G. & Fahrenholz, F. (2001) The oxytocin receptor system:
+
+structure, function, and regulation. Physiol Rev 81, 629–683.
+
+Graham, J.W. (2009) Missing data analysis: making it work in the real
+
+world. Annu Rev Psychol 60, 549–576.
+
+Gutkowska, J. & Jankowski, M. (2012) Oxytocin revisited: its role in
+
+cardiovascular regulation. J Neuroendocrinol 24, 599–608.
+
+Hu, L. & Bentler, P.M. (1999) Cutoff criteria for ﬁt indexes in covariance
+structure analysis: conventional criteria versus new alternatives.
+Struct Equ Modeling 6, 1–55.
+
+Hughes, C. & Ensor, R. (2006) Behavioural problems in 2 year olds:
+links with individual differences in theory of mind, executive func-
+tion and harsh parenting. J Child Psychol Psychiatry 47, 488–497.
+Israel, S., Lerer, E., Shalev, I., Uzefovsky, F., Riebold, M., Laiba, E.,
+Bachner-Melman, R., Maril, A., Bornstein, G. & Knafo, A. (2009) The
+oxytocin receptor (OXTR) contributes to prosocial fund allocations
+in the dictator game and the social value orientations task. PLoS
+One 4, e5535.
+
+Jacob, S., Brune, C.W., Carter, C., Leventhal, B.L., Lord, C. & Cook,
+E.H. Jr. (2007) Association of the oxytocin receptor gene (OXTR)
+in Caucasian children and adolescents with autism. Neurosci Lett
+417, 6–9.
+
+Kawamura, Y., Liu, X., Akiyama, T., Shimada, T., Otowa, T., Sakai, Y.,
+Kakiuchi, C., Umekage, T., Sasaki, T. & Akiskal, H.S. (2010) The asso-
+ciation between oxytocin receptor gene (OXTR) polymorphisms
+and affective temperaments, as measured by TEMPS-A. J Affect
+Disord 127, 31–37.
+
+Kochanska, G., DeVet, K., Goldman, M., Murray, K. & Putnam, S.P.
+(1994) Maternal reports of conscience development and tempera-
+ment in young children. Child Dev 65, 852–868.
+
+Kosfeld, M., Heinrichs, M., Zak, P.J., Fischbacher, U. & Fehr, E. (2005)
+
+Oxytocin increases trust in humans. Nature 435, 673–676.
+
+Laird, N.M. & Lange, C. (2008) Family-based methods for linkage and
+
+association analysis. Adv Genet 60, 219–252.
+
+Lange, C., DeMeo, D.L. & Laird, N.M. (2002) Power and design
+considerations for a general class of family-based association tests:
+quantitative traits. Am J Hum Genet 71, 1330–1341.
+
+Lerer, E., Levi, S., Salomon, S., Darvasi, A., Yirmiya, N. & Ebstein,
+R. (2007) Association between the oxytocin receptor (OXTR) gene
+and autism: relationship to Vineland Adaptive Behavior Scales and
+cognition. Mol Psychiatry 13, 980–988.
+
+Leuner, B., Caponiti, J.M. & Gould, E. (2012) Oxytocin stimulates
+adult neurogenesis even under conditions of stress and elevated
+glucocorticoids. Hippocampus 22, 861–868.
+
+Liu, X., Kawamura, Y., Shimada, T., Otowa, T., Koishi, S., Sugiyama,
+T., Nishida, H., Hashimoto, O., Nakagami, R. & Tochigi, M. (2010)
+Association of the oxytocin receptor (OXTR) gene polymorphisms
+with autism spectrum disorder (ASD) in the Japanese population.
+J Hum Genet 55, 137–141.
+
+Malik, A.I., Zai, C.C., Abu, Z., Nowrouzi, B. & Beitchman, J.H.
+(2012) The role of oxytocin and oxytocin receptor gene variants in
+childhood-onset aggression. Genes Brain Behav 11, 545–551.
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta, M., Fradley,
+E. & Tuckey, M. (2002) Maternal mind-mindedness and attachment
+
+OXTR gene and social cognition
+
+security as predictors of theory of mind understanding. Child Dev
+73, 1715–1726.
+
+Meyer-Lindenberg, A., Domes, G., Kirsch, P. & Heinrichs, M. (2011)
+Oxytocin and vasopressin in the human brain: social neuropeptides
+for translational medicine. Nat Rev Neurosci 12, 524–538.
+
+Mizumoto, Y., Kimura, T. & Ivell, R. (1997) A genomic element within
+the third intron of the human oxytocin receptor gene may be
+involved in transcriptional suppression. Mol Cell Endocrinol 135,
+129–138.
+
+Mundy, P., Delgado, C., Block, J., Venezia, M., Hogan, A. & Seibert,
+J. (2003) Early Social Communication Scales (ESCS). University of
+Miami, Coral Gables, FL.
+
+Muthén, B. & Muthén, L. (2010) Mplus (Version 6). Muthén & Muthén,
+
+Los Angeles, CA.
+
+Nielsen, M. & Dissanayake, C.
+
+(2004) Pretend play, mirror
+self-recognition and imitation: a longitudinal investigation through
+the second year. Infant Behav Dev 27, 342–365.
+
+Park, J., Willmott, M., Vetuz, G., Toye, C., Kirley, A., Hawi, Z.,
+Brookes, K., Gill, M. & Kent, L. (2010) Evidence that genetic vari-
+ation in the oxytocin receptor (OXTR) gene inﬂuences social cog-
+nition in ADHD. Prog Neuropsychopharmacol Biol Psychiatry 34,
+697–702.
+
+Petanjek, Z., Judaš, M., Kostovi´c, I. & Uylings, H.B. (2008) Lifespan
+alterations of basal dendritic trees of pyramidal neurons in the
+human prefrontal cortex: a layer-speciﬁc pattern. Cereb Cortex 18,
+915–929.
+
+Plomin, R. (2013) Child development and molecular genetics: 14 years
+
+later. Child Dev 84, 104–120.
+
+Rakovski, C.S., Xu, X., Lazarus, R., Blacker, D. & Laird, N.M. (2007) A
+new multimarker test for family-based association studies. Genet
+Epidemiol 31, 9–17.
+
+Rodrigues, S.M., Saslow, L.R., Garcia, N., John, O.P. & Keltner,
+D. (2009) Oxytocin receptor genetic variation relates to empathy
+and stress reactivity in humans. Proc Natl Acad Sci U S A 106,
+21437–21441.
+
+Ruffman, T., Slade, L., Devitt, K. & Crowe, E. (2006) What mothers
+say and what they do: the relation between parenting, theory of
+mind, language and conﬂict/cooperation. Br J Dev Psychol 24,
+105–124.
+
+Schenkel, L., Marlow-O’Connor, M., Moss, M., Sweeney, J. & Pavu-
+luri, M. (2008) Theory of mind and social inference in children and
+adolescents with bipolar disorder. Psychol Med 38, 791–800.
+
+Skuse, D.H. & Gallagher, L.
+
+(2011) Genetic inﬂuences on social
+
+cognition. Pediatr Res 69, 85R–91R.
+
+Skuse, D.H., Lori, A., Cubells, J.F., Lee, I., Conneely, K.N., Puura,
+K., Lehtimaki, T., Binder, E.B. & Young, L.J. (2013) Common poly-
+morphism in the oxytocin receptor gene (OXTR) is associated
+with human social recognition skills. Proc Natl Acad Sci U S A.
+DOI:10.1073/pnas.1302985111.
+
+Spreng, R.N., Mar, R.A. & Kim, A.S. (2009) The common neural
+basis of autobiographical memory, prospection, navigation, theory
+of mind, and the default mode: a quantitative meta-analysis. J Cogn
+Neurosci 21, 489–510.
+
+Stone, V.E., Baron-Cohen, S. & Knight, R.T. (1998) Frontal lobe contri-
+
+butions to theory of mind. J Cogn Neurosci 10, 640–656.
+
+Tansey, K.E., Brookes, K.J., Hill, M.J., Cochrane, L.E., Gill, M., Skuse,
+D., Correia, C., Vicente, A., Kent, L. & Gallagher, L. (2010) Oxy-
+tocin receptor (OXTR) does not play a major role in the aetiol-
+ogy of autism: genetic and molecular studies. Neurosci Lett 474,
+163–167.
+
+Tost, H., Kolachana, B., Hakimi, S., Lemaitre, H., Verchinski, B.A.,
+Mattay, V.S., Weinberger, D.R. & Meyer-Lindenberg, A. (2010) A
+common allele in the oxytocin receptor gene (OXTR) impacts
+prosocial temperament and human hypothalamic-limbic structure
+and function. Proc Natl Acad Sci U S A 107, 13936–13941.
+
+Vaccari, C., Lolait, S.J. & Ostrowski, N.L. (1998) Comparative distribu-
+tion of vasopressin V1b and oxytocin receptor messenger ribonu-
+cleic acids in brain. Endocrinology 139, 5015–5033.
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+609
+
+Wade et al.
+
+Wade, M., Moore, C., Astington, J.W., Frampton, K. & Jenkins,
+J.M.
+respon-
+sivity, and social cognition at 18 months. Dev Psychopathol
+(in press).
+
+(in press) Cumulative contextual
+
+risk, maternal
+
+Wang, Y.-G., Wang, Y.-Q., Chen, S.-L., Zhu, C.-Y. & Wang, K. (2008)
+Theory of mind disability in major depression with or without
+psychotic symptoms: a componential view. Psychiatry Res 161,
+153–161.
+
+Warneken, F., Chen, F. & Tomasello, M.
+
+(2006) Cooperative
+activities in young children and chimpanzees. Child Dev 77,
+640–663.
+
+Wellman, H.M., Lopez-Duran, S., LaBounty, J. & Hamilton, B. (2008)
+Infant attention to intentional action predicts preschool theory of
+mind. Dev Psychol 44, 618.
+
+Wu, N. & Su, Y.
+
+(2013) Oxytocin receptor gene relates to the-
+ory of mind and prosocial behavior in children. J Cogn Dev.
+DOI:10.1080/15248372.2013.858042.
+
+Wu, S., Jia, M., Ruan, Y., Liu, J., Guo, Y., Shuang, M., Gong, X., Zhang,
+Y., Yang, X. & Zhang, D. (2005) Positive association of the oxytocin
+receptor gene (OXTR) with autism in the Chinese Han population.
+Biol Psychiatry 58, 74–77.
+
+Zak, P.J., Stanton, A.A. & Ahmadi, S. (2007) Oxytocin increases
+
+generosity in humans. PLoS One 2, e1128.
+
+Acknowledgements
+We are grateful to the families who give so generously of their
+time, to the Hamilton and Toronto Public Health Units for facilitat-
+ing recruitment of the sample, and to Mira Boskovic for project
+management. The grant ‘Transactional processes in emotional
+and behavioral regulation: individuals in context’ was awarded to
+Jennifer M. Jenkins and Michael Boyle from the Canadian Insti-
+tutes of Health Research and covered data collection. The study
+team, beyond the current authors includes: Cathy Barr, Kathy
+Georgiades, Greg Moran, Tom O’Connor, Michal Perlman, Hildy
+Ross, Louis Schmidt. A special thank you goes to Cathy Barr for
+her comments on earlier versions of this manuscript. The authors
+have no conﬂicts of interest to declare.
+
+Supporting Information
+Additional supporting information may be found in the online
+version of this article at the publisher’s web-site:
+
+Appendix S1: Measurement information for social cogni-
+
+tion factor and covariates.
+
+610
+
+Genes, Brain and Behavior (2014) 13: 603–610
+
+

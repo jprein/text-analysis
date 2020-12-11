@@ -1,0 +1,4553 @@
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+NIH Public Access
+Author Manuscript
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+Published in final edited form as:
+
+J Appl Dev Psychol. 2009 May 1; 30(3): 332–343. doi:10.1016/j.appdev.2008.12.020.
+
+Associations among False-belief Understanding, Executive
+Function, and Social Competence: A Longitudinal Analysis
+
+Rachel A. Razza
+Clancy Blair The Pennsylvania State University
+
+Abstract
+
+A growing number of studies demonstrate associations among false-belief understanding (FBU),
+executive function (EF), and social competence. This study extends previous studies by exploring
+longitudinal associations among FBU and its correlates within a low-income sample of preschoolers
+attending Head Start. Sixty-eight children (time 1 mean age = 5 years 2 months) were assessed over
+their preschool and kindergarten years. Results indicated bidirectional relations between FBU and
+social competence; FBU in preschool was positively associated with social competence in
+kindergarten and social competence in preschool was positively associated with FBU in kindergarten.
+Preschool EF was positively associated with social competence both in preschool and kindergarten
+and with FBU in preschool. Mediation analyses suggest that the bidirectional longitudinal link
+between FBU and social competence was independent of EF. These findings extend the FBU
+literature by examining its development and correlates in early childhood. Implications for future
+research and practice are discussed.
+
+Keywords
+
+Early childhood; Executive function; False-belief understanding; Social cognition; Social
+competence
+
+1. Introduction
+
+One aspect of social cognition that has received increased attention in recent years is the
+development of children's understanding of mind. Within this domain, false-belief
+understanding (FBU) has been the most often studied theory of mind development. Research
+suggests that during the preschool years, children acquire an understanding of false-belief; that
+is, they recognize that others can hold and act on beliefs that are untrue. Once children have
+acquired false-belief understanding, they are able to mentally represent one's own, as well as
+another's, mental state (Gopnik & Astington, 1988). Consequently, false-belief understanding
+serves as a primary indicator of developing theory of mind in young children.
+
+© 2009 Elsevier Inc. All rights reserved
+Address correspondence to Rachel A. Razza, 426 Ostrum Avenue, Syracuse, NY 13244. Telephone: 315-443-7377; Fax: 315-443-9807.
+Email: rrazza@syr.edu.
+Author notes Rachel A. Razza and Clancy Blair, Pennsylvania State University
+Rachel A. Razza is now in the Department of Child and Family Studies at Syracuse University. This research reflects work conducted
+to fulfill the requirements for the doctoral degree in the Department of Human Development and Family Studies at the Pennsylvania
+State University.
+Publisher's Disclaimer: This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers
+we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting
+proof before it is published in its final citable form. Please note that during the production process errors may be discovered which could
+affect the content, and all legal disclaimers that apply to the journal pertain.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 2
+
+Given that an understanding of the mind is believed to be a powerful social tool (Moore &
+Frye, 1991), researchers hypothesized that FBU serves important social functions. As expected,
+a growing body of research has linked FBU with increased prosocial behavior and decreased
+problem behavior (for review see Astington, 2003; Hughes & Leekam, 2004). A correlate of
+FBU and social competence that has received considerable attention in recent years is executive
+function (EF). EF refers to a collection of cognitive skills that underlie goal-directed behaviors
+(Welsh, Pennington, & Grossier, 1991). Research supports an association between EF and FBU
+during early childhood (Carlson, Mandell, & Williams, 2004; Frye, Zelazo, & Palfai, 1995).
+Moreover, research suggests that EF has implications for children's social competence (Fahie
+& Symons, 2003; Hughes, Dunn, & White, 1998).
+
+Although a number of studies have shown that FBU and EF are important correlates of social
+competence, no studies have simultaneously examined the longitudinal associations among
+these constructs. To clarify the developmental pathways among FBU, EF, and social
+competence, we focused on the transition from preschool to kindergarten. This timeframe has
+special significance to both researchers and educators in that FBU and EF each have substantial
+implications for children's readiness for and adjustment to school, both socially and
+academically (Astington, 2003; Blair, 2002; Blair & Razza, 2007). Moreover, little is known
+about FBU and its links with EF and social competence in children from low-income and
+ethnically heterogeneous backgrounds. Thus, the present study explores these associations in
+a sample of children enrolled in Head Start, the federal educational daycare program for low
+SES children. The promotion of school readiness is especially important for such children, as
+they are at increased risk for school failure (Klebanov, Brooks-Gunn, McCarton, &
+McCormick, 1998; McLoyd, 1998).
+
+1.1. The association between false-belief understanding and social competence
+
+By definition, children who demonstrate an understanding of false-belief are able to interpret
+another person's mental state (Kuhn, 1999). From a theoretical perspective, this ability to
+interpret the perceptions, desires, and beliefs of other people has important implications for
+children's social development. Specifically, over the preschool years children become
+increasingly able to predict and explain associations between mental states and actions (Gopnik
+& Astington, 1988). During this time, children learn that mental states are related to both
+emotional and behavioral outcomes (Wimmer & Perner, 1983). Thus, children's knowledge of
+false-belief, coupled with their understanding of the association between belief and behavior,
+may influence children's social competence.
+
+Although the concurrent association between FBU and social competence is supported within
+both normative and clinical samples (see Hughes & Leekam, 2004), the direction of this
+association remains unclear. One possibility frequently implied in the literature is that FBU
+promotes social competence. According to this theory, the ability to simultaneously represent
+multiple and conflicting beliefs may allow children to better coordinate their own thoughts and
+beliefs with those of others, which would result in more successful interactions (Astington &
+Jenkins, 1995). Empirical support for this theory comes from studies in which FBU accounts
+for unique and significant variance in children's social competence (Capage & Watson,
+2001; Razza & Blair, 2003). Furthermore, longitudinal studies support FBU as a predictor of
+peer communication skills and social behavior (see Astington, 2003).
+
+A second possibility is that positive social interaction stimulates the development of FBU. This
+theory is based on the premise that children's experiences with other people's thoughts and
+beliefs during pretend play may increase their awareness of the distinction between mental
+states and reality, which would foster FBU (Flavell, Flavell, & Green, 1987; Youngblade &
+Dunn, 1995). Empirical support for this theory is found in the literature, albeit via a broad
+interpretation of social competence. For instance, cooperation with siblings and engagement
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 3
+
+in conversation about emotions and the causes of behavior predicted FBU in young children
+(Dunn, 1995). A third possibility also exists, which is that the association between FBU and
+social competence is bidirectional, whereby positive social interactions present the opportunity
+for learning more about the association between thought and behavior, and increased
+understanding of one's own and other's minds encourages successful social behavior (Moore,
+Barresi, & Thompson, 1998; Watson, Nixon, Wilson, & Capage, 1999). Moreover, recent
+reviews of the literature provide support in favor of a reciprocal association (Astington,
+2003; Hughes & Leekam, 2004). Unfortunately, however, this model has not been widely tested
+in single studies. Thus, the first goal of this study is to clarify the direction of the association
+between FBU and social competence across the preschool and kindergarten years.
+
+1.2. The association between false-belief understanding and executive function
+
+EF refers generally to cognitive processes that support goal-oriented behavior. More
+specifically, EF refers to inhibitory control, attentional flexibility, and working memory
+processes that are understood to be central to engagement in and successful completion of
+relational reasoning and planning and problem solving tasks (Diamond, 2002; Welsh et al.,
+1991). The extant literature supports EF as an important correlate of FBU during the preschool
+years (Carlson & Moses, 2001; Hughes, 1998a, 1998b). Specifically, concurrent associations
+have been found between FBU and EF components, including attentional flexibility (Frye et
+al., 1995), inhibitory control (Carlson & Moses, 2001), and working memory (Hughes,
+1998a).
+
+A growing body of research supports the hypothesis that EF precedes and is necessary for the
+acquisition of FBU. This argument is consistent with the emergence account of false-belief
+development, which asserts that a certain level of executive ability is required for the
+construction of mental concepts. In other words, the ability to consider multiple mental
+representations is not possible without some executive skill (see Moses, 2001). Consistent with
+this hypothesis, cross-sectional research suggests that EF accounts for unique and significant
+variance in children's FBU (Carlson, Moses, & Breton, 2002; Hughes, 1998a). Moreover,
+longitudinal research suggests that EF, specifically inhibitory control, contributes to FBU, but
+not vice versa (Carlson et al., 2004; Hughes, 1998b). Despite these findings, the developmental
+ordering of EF and FBU remains unclear. For example, once initial FBU scores were
+considered in a model predicting later FBU from initial EF, only one of four EF tasks was an
+independent predictor of later FBU (Hughes, 1998b). Moreover, when EF was an independent
+predictor of FBU, FBU scores were not correlated across the two time points (Carlson et al.,
+2004). Given that EF may influence later FBU primarily through its concurrent association
+with FBU, we examined FBU at T1 as a mediator of the link between EF at T1 and FBU at T2
+(see Figure 1).
+
+Although the directional association between EF and FBU has important implications for
+understanding cognitive development, this association may also reveal specific links between
+cognitive and social development. EF has been linked with self-regulation (Cole, Usher, &
+Cargo, 1993), and impairments in EF have been consistently reported for childhood disorders
+including autism and ADHD (for review, see Pennington & Ozonoff, 1996). Given the
+associations among EF and social competence (Hughes et al., 1998; Shultz, Izard, Ackerman,
+& Youngstrom, 2001), EF and FBU (Carlson et al., 2004; Hughes, 1998b), and FBU and social
+competence (for review, see Astington, 2003; Hughes & Leekam, 2004), it has been proposed
+that EF may impact social competence both directly and indirectly (Hughes et al., 1998). Thus,
+it is possible that FBU partially mediates the association between EF and social competence.
+Interestingly, the results from previous correlational studies that indirectly examined a
+mediator model are conflicting. Specifically, while some research supports FBU as an
+independent predictor of behavioral problems (Hughes & Ensor, 2006), other studies fail to
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 4
+
+find a significant link between FBU and social problems once EF is partialled out (Fahie &
+Symons, 2003). Given that this model has not been tested with longitudinal data, we examined
+FBU at T1 as a mediator of the link between EF at T1 and social competence at T2 (see Figure
+2).
+
+1.3. Low-income sample
+
+Despite the fact that interest in the development of FBU has grown over the last two decades,
+the majority of the research has been conducted with a select population. Specifically, we know
+about FBU and its correlates primarily through work with Caucasian, middle and upper-income
+samples. This trend has begun to change in recent years, however, as the field has extended to
+include low SES samples. In the first study to examine FBU in a low SES sample, children
+exhibited only moderate consistency across a variety of false-belief tasks (Holmes, Black, &
+Miller, 1996) and their performance fell below that typically reported for more advantaged
+populations (see Wellman, Cross, & Watson, 2001). While subsequent studies of FBU within
+low SES samples support reduced consistency across tasks (Curenton, 2003; Garner, Curenton,
+& Taylor, 2005; Razza & Blair, 2003), findings regarding overall performance level have been
+mixed. Specifically, some researchers continue to report lower levels of FBU for children from
+low SES backgrounds (Cutting & Dunn, 1999; Shatz, Diesendruck, Martinez-Beck, & Akar,
+2003), while others fail to find a link between SES and FBU (Garner et al., 2005; Lucariello,
+Durand, & Yarnell, 2007; Weimer & Guajardo, 2005).
+
+Given that the above studies have focused predominantly on the impact of SES on children's
+performance on false-belief tasks, we still know little about whether the associations between
+FBU and its correlates are consistent across income-levels. For example, research on the
+association between FBU and EF within low SES samples has been supportive, but rare (Blair
+& Razza, 2007; Hughes, 1998b). Although some studies suggest that FBU is associated with
+social behavior for low SES children (Razza & Blair, 2003; Hughes, 1998b), others have failed
+to find an independent association between FBU and social competence (Garner et al., 2005;
+Weimer & Guajardo, 2005). Thus, this study seeks to further explore the associations among
+FBU, EF, and social competence within low SES children.
+
+1.4. Research aims
+
+The primary purpose of this study was to increase our understanding of FBU and its correlates
+within disadvantaged children over the transition from preschool to kindergarten. The first aim
+was to examine the longitudinal association between FBU and social competence. The second
+aim was to investigate associations among EF, FBU, and social competence using mediation
+analyses. Finally, a strong interest for us in this study was the opportunity to examine FBU
+within low-income children. Given that all children in this sample were low-income, it was
+not the intent, or within the ability, of this study to make direct comparisons of children's FBU
+across SES levels.
+
+2. Method
+2.1. Participants
+
+Participants were recruited from two Head Start programs, which were comprised of 15
+classrooms spanning three rural counties in central Pennsylvania. Participants were part of a
+larger longitudinal study (N = 170) targeting school readiness among Head Start preschool
+children. The study included 88 of the 170 children from the larger sample who were included
+in previously published research (Blair, Granger, & Razza, 2005; Blair, Peters, & Granger,
+2004; Blair & Razza, 2007). Children who were between 3.5 and 6 years of age at the first
+wave of data collection and entered kindergarten the following school year were eligible for
+the present study. Eighty-eight children met these requirements and were included in the Time
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 5
+
+1 (T1) sample. Head Start personnel obtained parental consent for the T1 data collection during
+a routine home visit. Parental consent for the kindergarten year, or Time 2 (T2), was collected
+via mail or was provided at the time of the child interview. At T2, children were enrolled in
+36 kindergarten classrooms in 26 schools in central Pennsylvania. Children provided verbal
+assent at both time points. Of the 88 families at T1, 5 children were excluded from analyses (3
+identified as having developmental problems, 1 moved, 1 received a score greater than 2.5
+standard deviations from the sample mean on the social competence measure). The final
+number of families available at T1 was 83.
+
+At T1, the mean age of the primary caregiver was 31 years (range = 21 - 57 years). The majority
+of primary caregivers were mothers (88%), had either a high school degree or GED (58%),
+and were employed (54%). For those who reported their earnings (88%), the mean monthly
+income was $1,720 (range = $279 to $6500). The majority of households were comprised of
+two adults (69%), the mean number of children per household was 2.4, and the mean number
+of moves per year was 1. The majority of children were over 5 years of age (69%), female
+(59%), and Caucasian (87%).
+
+Parental consent for T2 was received from 72 families. Three of these families were living out
+of state, and child and teacher assessments were not collected. The retention rate was 83%,
+which is notable given the high mobility of many Head Start families. With two exceptions,
+attrition was due to the inability to contact a family due to relocation rather than to refusal to
+participate. One child was missing all child assessment data across both T1 and T2 and was
+dropped from the sample. Sixty-eight children were included in the longitudinal sample. The
+mean chronological age of these children at T1 was 5 years 2 months (range = 4 years 7 months
+to 5 years 7 months). Results of independent t-tests revealed that the returning participants
+(n = 68) and the missing participants (n = 15) did not differ significantly on the primary
+variables of interest. Similarly, these groups did not differ on demographic variables, with the
+exception of employment status; participants lost to attrition were more likely to have
+unemployed primary caregivers than returning participants, χ2(1, N = 83) = 4.46, p ≤ .05.
+
+2.2. Measures
+
+Table 1 provides information on the study design and the measures for each construct at each
+time.
+
+2.2.1 False-belief understanding tasks—Four false-belief tasks commonly used in
+research with preschoolers were included in the false-belief battery. These tasks were the
+unexpected contents task, two sub-tasks of an unexpected identity task, and the changed
+locations task. With the exception of the unexpected contents task, the materials were identical
+at T1 and T2. Tasks were administered in a standard order. Similar studies employ a fixed order
+rather than counterbalancing (e.g., Shatz et al., 2003; Weimer & Guajardo, 2005), as order
+effects are typically not found for false-belief tasks (Fahie & Symons, 2003; Wellman & Lui,
+2004). Children were successful if they responded correctly to both the test and control
+questions. Each task was scored as pass (1) or fail (0).
+
+Although the reliability of false-belief tasks has not been formally established, there is evidence
+of strong test-retest reliability, r(46) = .77, as well as substantial internal consistency, α = .76
+and .82 at times 1 and 2, for a battery of standard tasks (Hughes, Adlam, Happe, Jackson,
+Taylor, & Caspi, 2000). Moreover, the results of a recent meta-analysis suggest that children
+perform similarly across false-belief tasks with a similar conceptual content (Wellman & Lui,
+2004).
+
+2.2.1.1. Unexpected contents task: This task is a descendent of Perner, Leekam, and
+Wimmer's (1987) “smarties” task. The version used in this study is similar to
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 6
+
+Hughes' (1998b) adaptation of the original task. At T1, an egg carton was placed in front of
+the child and the child was asked, “What do you think is inside this carton?” Children were
+required to answer this pretest question correctly (i.e., “eggs”) to continue, but this question
+was not scored. The egg carton was then opened and the child was shown that the carton really
+contained crayons. The carton was shut and the child was asked the test question, “What did
+you think was inside the carton, before we opened it?” followed by the control question, “What
+is in the carton really?” If the child did not respond, a forced-choice prompt was provided (i.e.,
+“eggs or crayons”). A similar procedure was followed at T2, but a crayon box containing gum
+was used as the prop.
+
+2.2.1.2. Unexpected identity - subtask 1: In subtask 1, children's understanding of their own
+false-belief was assessed via a storybook task modeled after Slaughter and Gopnik's (1996)
+“Ears book”. Each page of the book contained a clear window, through which the child could
+see part of the picture from the subsequent page. For the first three pages, the picture appeared
+to be ears of different animals. Before turning to the final page, the child was asked, “What do
+you think these are?” This pretest question was not scored, but it had to be answered correctly
+(i.e., “ears”) in order to administer the task. Next, the page was turned, revealing that the ears
+were really petals on a flower. The book was then turned back to the prior page and the child
+was asked the test question, “Before we turned the page, what did you think these would be,
+ears or petals?” and a control question, “What are these really, ears or petals?”
+
+2.2.1.3. Unexpected identity - subtask 2: The second subtask assessed children's
+understanding of another person's false-belief. For subtask 2, the book was closed and the child
+was shown a cat cut-out, who was introduced as follows: “Look, this is Charlie. Charlie has
+never seen this book before. If he comes over and looks through this window, what will he
+think these are, ears or petals?” This test question was followed by a control question, “What
+are they really, ears or petals?”
+
+2.2.1.4. Changed locations task: This task was modeled after the original Wimmer and Perner
+(1983) Maxi task. Children were told a story where the location of an object was changed by
+Character A while Character B was out of sight and were then asked to predict where Character
+B would look for the object upon his/her return. Figurines of two familiar characters, Big Bird
+and Elmo, were used to act out this scenario. The protocol was identical to scenario 1 of the
+location trial for the standard condition (i.e., non-deceptive condition) presented by Holmes et
+al. (1996). Specifically, Elmo put a chocolate bar in a drawer and went out to play. While he
+was gone, Big Bird moved the chocolate from the drawer to the refrigerator. Elmo returned
+home and wanted some chocolate. Children were asked, “Do you remember where Elmo put
+the chocolate in the beginning?” If the child could not remember, he/she was reminded of the
+original location. This memory question was not scored. Next, children were asked the control
+question, “Do you remember where the chocolate is now?” If the child could not remember,
+he/she was shown the correct location. This question was followed by the test question, “Where
+will Elmo look for the chocolate?”
+
+2.2.2. Language ability task—Language ability was assessed using the Peabody Picture
+Vocabulary Test (PPVT-III; Dunn & Dunn, 1997), a norm-referenced measure of receptive
+vocabulary. In this task, children were presented with a series of plates, each containing four
+pictures, and were asked to point to single picture that corresponded to the word spoken by the
+interviewer (e.g., “Point to dog”). Children's raw scores were converted to age-based
+standardized scores based on a mean of 100 and a standard deviation of 15. The PPVT has high
+internal reliability, α = .94, for children ages 3 to 6 years, as well as strong validity (Williams
+& Wang, 1997). The extant literature supports an association between language ability and
+FBU (for a review, see Milligan, Astington, & Dack, 2007). Thus, it is critical and common
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 7
+
+practice to control for language ability when assessing the associations among FBU and its
+correlates.
+
+2.2.3. Executive function tasks—The executive function battery consisted of two tasks
+that assessed inhibitory control and working memory (peg tapping) and set shifting or mental
+flexibility (flexible item selection task; FIST). Although the psychometrics of these tasks have
+not been formally established, both tasks were derived from standard neuropsychological tests
+used with adults, which are reliable and valid tests of prefrontal functions (Hughes, 1998a;
+Zelazo & Jacques, 1996).
+
+2.2.3.1. Peg-tapping task (PEG): The peg-tapping task (Diamond & Taylor, 1996; Luria,
+1966) requires children to inhibit a natural response to imitate the interviewer's tapping pattern,
+and thus it is primarily a measure of children's inhibitory control. Given that participants must
+also hold two rules in memory to succeed, working memory is inherent in the task. For this
+task, children were presented with a wooden peg and instructed to tap twice on the table when
+the interviewer tapped once (Rule 1), and to tap once when the interviewer tapped twice (Rule
+2). Children who demonstrated an understanding of both rules during practice trials were
+administered a series of 16 test trials presented in a fixed order. Coefficient α for the 16 trials
+in these data was .84. The child's total score was the proportion of correct responses on 16 trials
+(Blair & Razza, 2007; Diamond & Taylor, 1996).
+
+2.2.3.1. Flexible item selection task (FIST): The FIST (Jacques & Zelazo, 2001) assesses
+attention shifting. Each page of a booklet contained three pictures that varied in two out of
+three possible dimensions (e.g., size, shape, and color). Children selected two out of three
+pictures that matched on one dimension first (e.g., color), and then select a different pair of
+pictures that match on another dimension (e.g., size). Children who correctly identified both
+matches on at least one of the two practice pages qualified for the testing session, which
+consisted of 15 trials. Coefficient α for the 15 trials was .77. The child's total score was the
+proportion of correct responses on 15 trials (Blair & Razza, 2007; Jacques & Zelazo, 2001).
+
+2.2.4. Social competence task—Social competence was measured using the Preschool
+and Kindergarten Behavior Scales (PKBS; Merrell, 1994). The PKBS is a standardized
+instrument for assessing typical problem behaviors and social skills in preschool- and
+kindergarten-aged children. The Social Skills scale (Scale A) was included in the present study.
+Teachers rated children on 34 items assessing typical classroom behaviors using a Likert scale
+(0 = “Never,” 1 = “Rarely,” 2 = “Sometimes,” 3 = “Often”). Scale A taps three sub-domains
+of social skills, which include social cooperation (e.g., shows self control), social interaction
+(e.g., tries to understand another child's behavior), and social independence (e.g., is confident
+in social situations). Scores were summed across these subscales to create an overall social
+skills score. Typical mean values for overall social skills derived from sub-samples of a national
+normative group range between 81 and 83 (e.g., Holland & Merrell, 1998).
+
+2.3. Procedure
+
+Children were seen individually on two separate occasions in the spring of their Head Start
+year and then again on one occasion in the spring of their kindergarten year. A team of trained
+child interviewers consisting of two graduate students and two hired research staff, all of whom
+had previous experience working with children, administered the interviews. All Head Start
+interviews were conducted in a quiet area down the hall from the child's classroom. A member
+of the Head Start staff, who remained in the room throughout both interviews, accompanied
+children at T1. Given the length of the T1 battery, the preschool interview was conducted over
+two 45-minute sessions (Sessions A and B), approximately two weeks apart. During Session
+A, children completed the PPVT and the FIST measure of EF. Over the course of this interview,
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 8
+
+children's heart rates were recorded and saliva samples were collected as part of the larger
+study. During Session B, children performed the PEG measure of EF and four FBU tasks. All
+measures were administered in a standard order within each session, as there was no reason to
+expect order effects. Due to scheduling issues and child absences, approximately two-thirds
+of the children were administered Session A first. Teachers received questionnaires assessing
+children's social competence, behavior, and temperament. Teachers were paid $10 for each
+child that they assessed and were provided with a self-addressed stamped envelope.
+
+Kindergarten interviews were conducted in either an unoccupied room of a centrally located
+Head Start center or in a university child research laboratory. A primary caregiver or guardian
+who remained in the room throughout the interview accompanied children at T2. Due to
+transportation or employment issues, a few kindergarten interviews were conducted in the
+family's home. In these cases, a primary caregiver as well as a second child interviewer was
+present. Due to variation in children's kindergarten schedules, some children were seen before
+or after their school day and others were seen on their day off. During the visit, children
+performed the same four false-belief tasks, again in a fixed order. Over the course of this
+interview, children also completed additional measures of executive function, fluid
+intelligence, and academic competence that were collected as part of the larger study. Each
+interview lasted approximately 45 minutes and children were rewarded with stickers,
+regardless of their performance. Families were paid $50 at both T1 and T2 for their
+participation. Teachers received questionnaires tapping children's social competence,
+behavior, and temperament. Teachers were paid $10 for each child that they assessed and were
+provided with a self-addressed stamped envelope.
+
+2.4. Missing data
+
+For the longitudinal sample of 68 participants, the following data were missing. At T1, FBU
+data were missing for 5 children, FIST data were missing for 13 children, and PEG data were
+missing for 5 children. The primary reason for missing data was child refusal to participate in
+the particular assessment. The high rate of refusals on the FIST was believed to be due to fatigue
+on the part of the child, as this was the final task in the session and children were often eager
+to get back to their classroom for an activity or get ready for departure. In addition, due to
+teacher nonresponse, 6 children were missing PKBS data at T2. In sum, 91% of the children
+had complete data or were missing only one measure across both time points. The remaining
+9% of children were missing no more than four measures.
+
+Missing data patterns for the primary variables of interest were assessed using SPSS version
+11.5 Missing Value Analysis module (SPSS, 2001). Little's (1988) MCAR test failed to reach
+significance, χ2(1, N = 68) = 8.31, which suggests that the variables in the data set as a whole
+exhibit a pattern of values that are missing at random. To maximize statistical power, missing
+data were imputed using the EM estimation method from the SPSS Missing Value Analysis
+module. The EM method uses an iterative process to replace missing values with imputed
+values.
+
+3. Results
+3.1. Preliminary analyses
+
+Analyses were based on data from 68 participants. Although children's success rates varied
+across false-belief tasks, their pattern of success was consistent over time. At T1, 50 children
+(74%) passed the changed locations task, 37 (54%) passed the unexpected contents teask, 21
+(31%) passed the “own” question for unexpected identity, and 20 (29%) passed the “other”
+question for unexpected identity. Similarly, at T2, 61 children (90%) passed changed locations,
+54 (79%) passed unexpected contents, 51 (75%) passed the “own” question for unexpected
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 9
+
+identity, and 35 (52%) passed the “other” question for unexpected identity. One sex difference
+in performance was reported; girls outperformed boys on changed locations at T1, t(66) = 2.81,
+p ≤ .05.
+
+Coherence across false-belief tasks was assessed using the phi contingency statistic (see Table
+2), which is a measure of association between dichotomous variables, similar to a Pearson
+correlation among continuous variables (Hays, 1988). Overall, findings indicate coherence
+among the tasks and support the use of an aggregate measure. Given the low success rate of
+the “other” question at T2 and the lack of consistency between the “other” and “own” questions
+across both time points, however, we excluded the “other” subtask from the aggregate. Thus,
+the FBU aggregate represents performance across 3 tasks (i.e., contents, location, and “own”
+subtask of identity) and ranged from 0 to 3. In addition to providing a robust indicator of FBU,
+an aggregate variable has distributional properties that are superior to those of any one task
+and improves the reliability with which children's theory of mind can be measured (Rushton,
+Brainerd, & Pressley, 1983). Children's performance across EF measures was also examined
+for coherence. The PEG and FIST were not significantly related at T1, r(68) = .19, and were
+entered as separate variables in analyses.
+
+Table 3 presents the means and standard deviations for the primary variables as well as partial
+correlations controlling for language ability (M = 97.89, SD = 8.90). There were no significant
+performance differences between boys and girls across these measures, with one exception at
+T1: girls received higher social competence scores than boys, t(66) = 2.19, p ≥ .05. Age was
+not included as a control, as it was significantly correlated only with social competence at T2,
+r(66) = .24, p ≤ .05. Results supported longitudinal stability for FBU and social competence.
+Furthermore, results from paired samples t-tests indicated that FBU increased significantly
+between T1 and T2, t(67) = 6.67, p ≤ .001, suggesting that children experienced significant
+developments in their FBU skills during early childhood. In contrast, change in social
+competence across that time was not significant, t(67) = -1.50, ns, which is not entirely
+unexpected, as the development of social competence is a gradual process.
+
+As expected, FBU was positively correlated with social competence both at T1 and T2,
+although this association was stronger at T1. Longitudinal associations between FBU and social
+competence were also supported, such that FBU at T1 was linked with social competence at
+T2, and vice versa. The hypothesized positive link between EF and FBU at T1 was also
+supported for the peg-tapping task. After controlling for language ability, the FIST was not
+associated with any of the primary variables and thus was excluded from further analyses.
+Based on the correlations, a series of step-wise hierarchical regressions and mediation analyses
+were conducted to determine directions of associations among FBU, EF, and social
+competence.
+
+3.2. Association between false-belief understanding and social competence
+
+The first regression analysis addressed the hypothesis that FBU in preschool (T1) would predict
+social competence in kindergarten (T2). Given that social competence did not increase over
+time and the preschool score was included as a control, this model does not predict change in
+children's social competence, but rather models social competence as a more stable
+characteristic of the child. The final model is presented in Table 4. In Step 1, language ability
+and social competence at T1 were entered and accounted for 16% of the variance in T2 social
+competence, F(2, 65) = 7.41, p ≤ .001. In Step 2, FBU at T1 was significant and accounted for
+an additional 7% of the variance in social competence at T2, F(3, 64) = 7.69, p ≤ .001. Thus,
+FBU in preschool independently predicted social competence in kindergarten.
+
+A second regression analysis addressed the hypothesis that social competence in preschool
+(T1) would predict FBU in kindergarten (T2). The final model is displayed in Table 5. In Step
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 10
+
+1, language ability and FBU at T1 were entered and accounted for 20% of the variance in FBU
+at T2, F(2, 65) = 9.36, p ≤ .001. In Step 2, social competence at T1 was significant and accounted
+for an additional 10% of the variance in FBU at T2, F (3, 64) = 10.50, p ≤ .001. Thus, social
+competence in preschool (T1) independently predicted FBU in kindergarten (T2).
+
+3.3. Association between false-belief understanding and executive function
+
+Next, we addressed the hypothesis that FBU in preschool (T1) would mediate the association
+between EF in preschool (T1) and FBU in kindergarten (T2), which is presented in Figure 1.
+Formal mediation tests were conducted in STATA using sgmediation, which uses bootstrap
+analyses to estimate the indirect effect of the predictor variable on the dependent variable
+through the mediator variable. Bootstrap analysis involves drawing a large number of samples
+(with replacement) from a data set, computing the indirect effect for each sample, and then
+generating an average indirect effect across all samples. This procedure is especially useful for
+small samples as it estimates standard errors more appropriately and thus increases statistical
+power (Dearing & Hamilton, 2006).
+
+Results of this mediation analysis, which included a series of three distinct regression models,
+are displayed in Table 6. Language ability at T1 was included as a control. In Step 1, EF at T1
+predicted FBU at T2 (path c). In Step 2, EF at T1 predicted FBU at T1 (path a). In Step 3, EF
+at T1 was no longer a significant predictor of FBU at T2 (path c'), once the link between FBU
+at T1 and FBU at T2 (path b) was accounted for in the model. These results suggest that there
+is no independent association of EF at T1 with FBU at T2, but rather this association is fully
+mediated by FBU at T1. Thus, EF in preschool does not predict FBU in kindergarten directly,
+but likely affects it indirectly through its concurrent association with FBU.
+
+3.4. Associations among false-belief understanding, executive function, and social
+competence
+
+A similar mediation analyses was conducted in STATA to test the hypothesis that FBU in
+preschool (T1) partially mediates the association between EF in preschool (T1) and social
+competence in kindergarten (T2), which is presented in Figure 2.
+
+Results are displayed in Table 7. Language ability and social competence at T1 were included
+as controls. Although EF at T1 and social competence at T2 were moderately correlated (r = .
+22, p ≤ .10), results from Step 1 indicate that this link was not significant once social
+competence at T1 was considered (path c). Although the proposed mediation model was not
+supported given the failure of EF to predict social competence in Step 1, we continued the
+analyses to learn more about how these variables are associated over time. In Step 2, EF at T1
+predicted FBU at T1 (path a). In Step 3, the nonsignificant link between EF at T1 and social
+competence at T2 (path c) was further reduced (path c') once the significant link between FBU
+at T1 and social competence at T2 (path b) was accounted for in the model. Thus, the
+longitudinal association between FBU in preschool and social competence in kindergarten is
+independent of early language ability, social competence, and EF.
+
+4. Discussion
+
+This longitudinal study made three important contributions to the false-belief literature. First,
+this study increased our understanding of the reciprocal association between FBU and social
+competence. Specifically, FBU in preschool accounted for unique and significant variance in
+social competence in kindergarten. Similarly, early social competence accounted for unique
+and significant variance in later FBU. Second, this study furthered our knowledge of the
+associations among FBU, EF, and social competence. Specifically, results support EF in
+preschool as a predictor of FBU in kindergarten, although this association was mediated by
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 11
+
+FBU in preschool and was only examined for the inhibitory control aspect of EF. In addition,
+FBU was supported as an independent predictor of social competence, even after accounting
+for EF, and was identified as a possible mechanism through which early EF may affect later
+social competence. Third, this study extended the investigation of FBU and its correlates to
+low-income children. Results suggest that the proposed associations between FBU and its
+correlates do not appear to be specific to children from advantaged backgrounds, but generalize
+to low-income samples.
+
+Overall, the associations supported in this study identify FBU as an important component for
+future interventions or curricula designed to promote children's social competence or correct
+problem behavior. Extant literature suggests that disruptive behavior disorders may begin as
+early as preschool and are relatively stable throughout childhood (Rose, Rose, & Feldman,
+1989; Wehby, Dodge, Valente, et al., 1993). Furthermore, recent research suggests that
+children's social competence in preschool has a lasting effect on peer acceptance, regardless
+of subsequent modifications in their social conduct (see review, Johnson, Ironsmith, Snow, &
+Poteat, 2000). The implications of our research for such efforts are highlighted below.
+
+The first aim of this study was to determine the direction of the association between FBU and
+social competence over the transition from preschool to kindergarten. Results indicated that
+early FBU accounted for significant variance in later social competence. This finding supports
+the theory that the ability to simultaneously consider counterfactual and conflicting beliefs
+stimulates positive social interaction (Astington & Jenkins, 1995; Capage & Watson, 2001).
+There was also support for the opposite association, in which social competence in preschool
+accounted for unique variance in FBU in kindergarten. This finding supports the theory that
+positive social interaction motivates the acquisition of FBU (Flavell et al., 1987; Youngblade
+& Dunn, 1995). Taken together, these results indicate a reciprocal association between FBU
+and social competence, which is consistent with the notion that the ability to understand one's
+own and other's minds promotes favorable social interaction, and that constructive social
+interactions present the opportunity for learning more about mental states (Astington, 2003;
+Hughes & Leekam, 2004). These results have implications for efforts to enhance FBU and
+social competence, as they highlight the closely intertwined nature of these constructs during
+early childhood and support the need for training studies of FBU to further specify the
+mechanisms underling this association.
+
+The second aim of this study was to examine the longitudinal association between FBU and
+EF, as well as to investigate how these constructs fit into a mediation model predicting social
+competence. Results indicated that early EF, particularly inhibitory control, was related to later
+FBU, but that the association was a result of the concurrent EF-FBU link in preschool. Thus,
+although a direct association between early EF and later FBU was not supported in the present
+study, analyses did support an indirect association between these variables, via initial FBU.
+This finding is consistent with previous research reporting EF as predictor of FB (Carlson et
+al., 2004; Hughes, 1998b) and suggests the need for further research into the basis of this
+association.
+
+Associations among EF, FBU, and social competence were also examined within a mediation
+framework. Although the results of previous studies have implied mediation models (e.g.,
+Hughes et al., 1998), this study is the first to specify and test such a model using longitudinal
+data. Specifically, it was hypothesized that FBU would partially mediate the association
+between early EF and later social competence. Although the proposed model was not
+supported, the results of the analyses are interesting and offer insight into the longitudinal
+associations among these constructs. First, the results from Step 2 (FBU at T1 regressed on EF
+at T1) are consistent with literature reporting a concurrent association between FBU and EF,
+particularly inhibitory control, in preschool (Carlson & Moses, 2001). Second, the results from
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 12
+
+Step 3 (social competence at T2 regressed simultaneously on EF at T1 and FBU at T1) identify
+FBU in preschool as a unique predictor of social competence in kindergarten, even after
+accounting for early inhibitory control. In sum, this study highlights the early EF-FBU link as
+an important contributor to the development of children's social competence. While there is
+evidence that training can promote children's EF (Rueda, Rothbart, McCandliss, Saccomanno,
+& Posner, 2005) and FBU (Clements, Rustin, & McCallum, 2000), the implications of these
+enhancements for children's social competence are unknown. Thus, incorporating EF and FBU
+skills in early curricula may enhance development across both cognitive and social domains.
+
+The third aim of this study was to learn more about the associations between FBU and its
+correlates among low-income children. Research has only recently begun to extend the study
+of FBU to low SES samples. Although the study was not designed to make direct comparisons
+of FBU across income levels, several remarks can be made with respect to the performance of
+these children relative to previous studies. The rates of success on the unexpected locations
+and unexpected contents tasks at T1 for the children in this study were almost identical to those
+reported for a sample of Head Start preschoolers of a similar age (Holmes et al., 1996), but fall
+below the 55% and higher rates typically reported for higher SES children (Wellman et al.,
+2001). The children in this sample also demonstrated difficulty with EF. The mean percent
+correct for the peg-tapping task was 59% at T1, compared with 80% and above in higher SES
+samples of children the same age (Diamond & Taylor, 1996).
+
+It is important to note that FBU and EF performance may differ across income levels due to a
+number of factors, such as familiarity with the format of the tasks or comfort level with the
+interview process. Moreover, the assumed norms for the FBU and EF tasks were derived from
+studies with nonrepresentative samples. Thus, it is possible that if FBU tasks were administered
+nationally, the norms might lag behind the assumed norms based on studies with more
+advantaged children. Therefore, we urge caution in concluding that these variations in
+performance reflect fundamental differences in the acquisition of FBU or EF.
+
+The children in this study demonstrated levels of language ability and social competence that
+approximated national averages. Specifically, the mean PPVT score for this sample was almost
+equivalent to aged-based standard mean score of 100. Similarly, the mean PKBS scores for the
+present sample were within or slightly above the normative range of 81 to 83. Thus, despite
+their low-income backgrounds, children in this sample did not demonstrate deficits in receptive
+vocabulary or social competence. Given that assessments occurred at the end of the preschool
+year, and that Head Start has been especially successful in promoting children's vocabulary
+and social skills (Administration for Children and Families, 2003), it is possible that children
+entered preschool at a disadvantage in terms of these skills and benefited from the program.
+Future research should explore whether similar benefits can be achieved for FBU and EF.
+
+As expected, the results of the present study suggest that the targeted associations previously
+reported for higher-income samples are also relevant for low SES samples. Moreover, the
+magnitudes of these associations closely resemble those reported for advantaged samples. For
+example, in the present study, after controlling for its correlates, FBU in preschool accounted
+for 7% of unique variance in social competence in kindergarten, which approximates the 8 to
+14% range reported for higher income samples (see Astington, 2003; Watson et al., 1999).
+Likewise, the strength of the correlations between FBU and EF coincided with the .30 to .60
+range typically reported in the literature (Carlson & Moses, 2001; Frye et al., 1995). These
+results suggest consistency for the associations between FBU and its correlates across SES
+levels. Thus, the above-mentioned intervention applications might benefit children from
+different SES levels in similar ways, although given the assumed deficit of low SES children,
+differences in the magnitude of the effects would be interesting to examine.
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 13
+
+Although this study provides important information in an area largely unaddressed by previous
+research, it is not without limitations. First, findings indicate potential methodological
+limitations. For example, the correlation between FBU and social competence in kindergarten
+was moderate and in the expected direction, but failed to reach the level of significance, which
+is surprising and inconsistent with previous research (e.g., Astington & Jenkins, 1995; Razza
+& Blair, 2003; Watson et al., 1999). Teacher-bias in preschool and a ceiling effect in
+kindergarten may have resulted in reduced variance on the social competence measure at T1
+and the FBU measures at T2, respectively. Thus, future research should include observational
+measures of social competence and FBU batteries that vary with age in the interest of detecting
+meaningful associations. In addition, children's above-average performance on the FIST may
+have contributed to the lack of findings with this measure in our study. Specifically, the mean
+score of children in this sample was 73%, which is substantially higher than the mean score of
+similaraged children, which approximates 50% (Jacques and Zelazo, 2001). Thus, the lack of
+an association between the FIST and FBU might be due to the low variance resulting from high
+scores on the FIST paired with floor effects on FBU at T1 and ceiling effects at T2.
+
+Second, the present study examined associations between FBU and its correlates over one year
+in early childhood. Consequently, the results are specific to the period across preschool and
+kindergarten. Given that FBU is typically acquired by 5 years of age (Wellman et al., 2001),
+it is possible that the associations among constructs may differ with age. For example, the
+longitudinal association between EF and FBU may be stronger, or only exist, across earlier
+ages. Furthermore, the present study can only identify the immediate implications of FBU for
+children's social competence. Thus, the question of whether early FBU has long-term
+implications for children's social competence remains unanswered. Future research should
+address these related issues by altering the timeframe of the study. Specifically, to learn more
+about the directional association between FBU and EF, future studies should examine these
+constructs across earlier periods in childhood and continue to assess children's social
+competence across the elementary school years.
+
+Given that majority (87%) of children in the present study were Caucasian, a third limitation
+is the homogeneity of the sample. According to the Head Start Bureau (2006), in the fiscal year
+2005, the national Head Start racial composition was dominated by the following three groups:
+Hispanic (31.2%), Black (31.1%), and White (26.9%). Although Hispanic and Black children
+embody a substantial proportion of the Head Start population, these two groups were largely
+underrepresented in the present study. Therefore, it is unclear whether the current findings
+would generalize to low-income children from these or other ethnic backgrounds. Future
+research should examine the proposed associations in more ethnically diverse samples.
+
+In sum, our study highlights significant associations among FBU, EF, and social competence
+during early childhood and supports their relevance for low-income children. Results identify
+FBU as an important component for the promotion of children's social competence and suggest
+avenues for future research in this area.
+
+References
+
+Administration for Children and Families. Head Start FACES 2000: A whole-child perspective on
+program performance, fourth progress report. U.S. Department of Health and Human Services;
+Washington, DC: 2003.
+
+Astington, JW. Sometimes necessary, never sufficient: False-belief understanding and social competence.
+In: Repacholi, B.; Slaughter, V., editors. Individual differences in theory of mind. Psychology Press;
+New York: 2003. p. 13-38.
+
+Astington JW, Jenkins JM. Theory of mind development and social understanding. Cognition and
+
+Emotion 1995;9:151–165.
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 14
+
+Blair C. School readiness: Integrating cognition and emotion in a neurobiological conceptualization of
+
+child functioning at school entry. American Psychologist 2002;57:111–127. [PubMed: 11899554]
+
+Blair C, Granger D, Razza RP. Cortisol reactivity is positively related to executive function in preschool
+
+children attending Head Start. Child Development 2005;76:554–567. [PubMed: 15892778]
+
+Blair C, Peters RP, Granger D. Physiological and neuropsychological correlates of approach/withdrawal
+behavior in preschool: Further examination of the BIS/BAS scales for young children. Developmental
+Psychobiology 2004;45:113–124. [PubMed: 15505800]
+
+Blair C, Razza RP. Relating effortful control, executive function, and false belief understanding to
+
+emerging math and literacy ability in kindergarten. Child Development 2007;78:647–663. [PubMed:
+17381795]
+
+Capage L, Watson AC. Individual differences in theory of mind, aggressive behavior, and social skills
+
+in young children. Early Education and Development 2001;12:613–628.
+
+Carlson SM, Moses LJ, Breton C. How specific is the relation between executive function and theory of
+
+mind? Contributions of inhibitory control and working memory. Infant and Child Development
+2002;11:73–92.
+
+Carlson SM, Mandell DJ, Williams L. Executive function and theory of mind: Stability and prediction
+
+from ages 2 to 3. Developmental Psychology 2004;40:1105–1122. [PubMed: 15535760]
+
+Carlson SM, Moses LJ. Individual differences in inhibitory control and children's theory of mind. Child
+
+Development 2001;72:1032–1053. [PubMed: 11480933]
+
+Clements WA, Rustin CL, McCallum S. Promoting the transition from implicit to explicit understanding:
+
+A training study of false belief. Developmental Science 2000;3:81–92.
+
+Cole PM, Usher BA, Cargo AP. Cognitive risk and its association with risk for disruptive behavior
+
+disorder in preschoolers. Journal of Clinical Child Psychology 1993;22:154–164.
+
+Curenton SM. Low-income preschoolers' false-belief performance. Journal of Genetic Psychology
+
+2003;164:411–424. [PubMed: 14719776]
+
+Cutting AL, Dunn J. Theory of mind, emotion understanding, language, and family background:
+
+Individual differences and interrelations. Child Development 1999;70:853–865. [PubMed:
+10446724]
+
+Dearing E, Hamilton LC. Contemporary advances and classic advice for analyzing mediating and
+
+moderating variables. Monographs for the Society for Research in Child Development 2006;71:88–
+104.
+
+Diamond, A. Normal development of prefrontal cortex from birth to young adulthood: Cognitive
+
+functions, anatomy, and biochemistry. In: Stuss, DT.; Knight, RT., editors. Principles of frontal lobe
+function. Oxford University Press; London , UK: 2002. p. 466-503.
+
+Diamond A, Taylor C. Development of an aspect of executive control: Development of the abilities to
+remember what I said and to “do as I say, not as I do”. Developmental Psychobiology 1996;29:315–
+334. [PubMed: 8732806]
+
+Dunn J. Children as psychologists: The later correlates of individual differences in understanding of
+
+emotions and other minds. Cognition and Emotion 1995;9:197–201.
+
+Dunn, LM.; Dunn, LM. Peabody Picture Vocabulary Test: Third Edition. American Guidance Service,
+
+Inc.; Circle Pines, MN: 1997.
+
+Fahie CM, Symons DK. Executive functioning and theory of mind in children clinically referred for
+attention and behavior problems. Journal of Applied Developmental Psychology 2003;24:51–73.
+
+Flavell JH, Flavell ER, Green FL. Young children's knowledge about the apparent-real and pretend-real
+
+distinctions. Developmental Psychology 1987;23:816–822.
+
+Frye D, Zelazo PD, Palfai T. Theory of mind and rule-based reasoning. Cognitive Development
+
+1995;10:483–527.
+
+Garner P, Curenton S, Taylor K. Predictors of mental state understanding in preschoolers of varying
+socioeconomic background. International Journal of Behavioral Development 2005;29:271–281.
+Gopnik A, Astington JW. Children's understanding of representational change and its relation to the
+
+understanding of false-belief and the appearance-reality distinction. Child Development 1988;59:26–
+37. [PubMed: 3342716]
+
+Hays, WL. Statistics. Holt, Rinehart, and Winston, Inc.; Chicago: 1988.
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Razza
+
+Page 15
+
+Head Start Bureau. Head Start Bureau; Washington, DC: 2006. Head Start program fact sheet: Fiscal
+
+year 2005. http://www.acf.hhs.gov/programs/hsb/research/2005.htm
+
+Holland ML, Merrell KW. Social-emotional characteristics of preschool-aged children referred for Child
+
+Find screening and assessment: A comparative study. Research in Developmental Disabilities
+1998;19:167–179. [PubMed: 9547527]
+
+Holmes HA, Black C, Miller SA. A cross-task comparison of false belief understanding in a Head Start
+
+population. Journal of Experimental Child Psychology 1996;63:263–285. [PubMed: 8954606]
+Hughes C. Executive function in preschoolers: Links with theory of mind and verbal ability. British
+
+Journal of Developmental Psychology 1998a;16:233–253.
+
+Hughes C. Finding your marbles: Does preschoolers' strategic behavior predict later understanding of
+
+mind? Developmental Psychology 1998b;34:1326–1339. [PubMed: 9823515]
+
+Hughes C, Adlam A, Happe F, Jackson J, Taylor A, Caspi A. Good test-retest reliability for standard and
+
+advanced false-belief tasks across a wide range of abilities. Journal of Child Psychology and
+Psychiatry 2000;41:483–490. [PubMed: 10836678]
+
+Hughes C, Dunn J, White A. Trick or treat?: Uneven understanding of mind and emotion and executive
+
+dysfunction in “hard-to-manage” preschoolers. Journal of Child Psychology and Psychiatry
+1998;39:981–994. [PubMed: 9804031]
+
+Hughes C, Ensor R. Behavioural problems in 2-year-olds: Links with individual differences in theory of
+
+mind, executive function and harsh parenting. Journal of Child Psychology and Psychiatry
+2006;47:488–497. [PubMed: 16671932]
+
+Hughes C, Leekam S. What are the links between theory of mind and social relations? Review, reflections
+
+and new directions for studies of typical and atypical development. Social Development
+2004;13:590–619.
+
+Jacques S, Zelazo PD. The Flexible Item Selection Task (FIST): A measure of executive function in
+
+preschoolers. Developmental Neuropsychology 2001;20:573–591. [PubMed: 12002094]
+
+Johnson C, Ironsmith M, Snow CW, Poteat GM. Peer acceptance and social adjustment in preschool and
+
+kindergarten. Early Childhood Education Journal 2000;27:207–212.
+
+Klebanov PK, Brooks-Gunn J, McCarton C, McCormick MC. Contribution of neighborhood and family
+
+income to developmental test scores over the first three years of life. Child Development
+1998;69:1420–1436. [PubMed: 9839425]
+
+Kuhn, D. Metacognitive development. In: Balter, L.; Tamis-LeMonda, CS., editors. Child psychology:
+
+A handbook of contemporary issues. Psychology Press; Philadelphia, PA: 1999. p. 259-286.
+
+Little RJA. A test of missing completely at random for multivariate data with missing values. Journal of
+
+the American Statistical Association 1988;83:1198–1202.
+
+Lucariello JM, Durand TM, Yarnell L. Social versus intrapersonal ToM: Social ToM is a cognitive
+
+strength for low- and middle-SES children. Journal of Applied Developmental Psychology
+2007;28:285–297.
+
+Luria, AR. Higher cortical functions in man. Basic Books; New York, NY: 1966.
+McLoyd VC. Socioeconomic disadvantage and child development. American Psychologist 1998;53:185–
+
+204. [PubMed: 9491747]
+
+Merrell, KW. Preschool and Kindergarten Behavior Scales. Clinical Psychology Publishing Company;
+
+Brandon, VT: 1994.
+
+Milligan K, Astington JW, Dack LA. Language and theory of mind: Meta-analysis of the relation between
+
+language ability and false-belief understanding. Child Development 2007;78:622–646. [PubMed:
+17381794]
+
+Moore C, Barresi J, Thompson C. The cognitive basis of future-oriented prosocial behavior. Social
+
+Development 1998;7:198–218.
+
+Moore, C.; Frye, D. The acquisition and utility of theories of mind. In: Frye, D.; Moore, C., editors.
+
+Children's theories of mind. Lawrence Erlbaum Associates, Publishers; Hillsdale, NJ: 1991. p. 1-13.
+Moses LJ. Executive accounts of theory of mind development. Child Development 2001;72:688–690.
+
+[PubMed: 11405573]
+
+Pennington BF, Ozonoff S. Executive function and developmental psychopathology. Journal of Child
+
+Psychology and Psychiatry 1996;37:51–87. [PubMed: 8655658]
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 16
+
+Perner J, Leekam SR, Wimmer H. Three-year olds' difficulty with false belief: The case for a conceptual
+
+deficit. British Journal of Developmental Psychology 1987;5:125–137.
+
+Razza RP, Blair C. False-belief understanding in a low-income population. Early Education and
+
+Development 2003;14:425–439.
+
+Rose SL, Rose SA, Feldman JF. Stability of behavior problems in very young children. Development
+
+and Psychopathology 1989;1:5–19.
+
+Rueda R, Rothbart M, McCandliss B, Saccomanno L, Posner M. Training, maturation, and genetic
+influences on the development of executive attention. Proceedings of the National Academy of
+Sciences, USA 2005;102:14931–14936.
+
+Rushton JP, Brainerd CJ, Pressley M. Behavioral development and construct validity: The principle of
+
+aggregation. Psychological Bulletin 1983;94:18–38.
+
+Shatz M, Diesendruck G, Martinez-Beck I, Akar D. The influence of language and socioeconomic status
+on children's understanding of false belief. Developmental Psychology 2003;39:717–729. [PubMed:
+12859125]
+
+Shultz D, Izard CE, Ackerman BP, Youngstrom EA. Emotion knowledge in economically disadvantaged
+
+children: Self-regulatory antecedents and relations to social difficulties and withdrawal.
+Development and Psychopathology 2001;13:53–67. [PubMed: 11346052]
+
+Slaughter V, Gopnik A. Conceptual coherence in the child's theory of mind: Training children to
+
+understand belief. Child Development 1996;67:2967–2988. [PubMed: 9071768]
+SPSS Inc.. SPSS Base 10.0 for Windows User's Guide. SPSS Inc.; Chicago IL: 2001.
+Watson AC, Nixon CL, Wilson A, Capage L. Social interaction skills and theory of mind in young
+
+children. Developmental Psychology 1999;35:386–391. [PubMed: 10082009]
+
+Wehby JH, Dodge KA, Valente E, The Conduct Disorders Prevention Research Group. School behavior
+
+of first grade children identified as at-risk for development of conduct problems. Behavioral
+Disorders 1993;19:67–78.
+
+Weimer AA, Guajardo NR. False belief, emotion understanding, and social skills among Head Start and
+
+non-Head Start children. Early Education and Development 2005;16:341–366.
+
+Wellman HM, Cross D, Watson J. Meta-analysis of theory-of-mind development: The truth about false
+
+belief. Child Development 2001;72:655–684. [PubMed: 11405571]
+
+Wellman HM, Lui D. Scaling of theory-of-mind tasks. Child Development 2004;75:523–541. [PubMed:
+
+15056204]
+
+Welsh MC, Pennington BF, Groisser DB. A normative-developmental study of executive function: A
+
+window on prefrontal function in children. Developmental Neuropsychology 1991;7:131–149.
+
+Williams, KT.; Wang, J. Technical references to the Peabody Picture Vocabulary Test: Third Edition.
+
+American Guidance Service, Inc.; Circle Pines, MN: 1997.
+
+Wimmer H, Perner J. Beliefs about beliefs: Representation and constraining function of wrong beliefs in
+
+young children's understanding of deception. Cognition 1983;13:103–128. [PubMed: 6681741]
+Youngblade LM, Dunn J. Individual differences in young children's pretend play with mother and
+siblings: Links to relationships and understanding of other people's feelings and beliefs. Child
+Development 1995;66:1472–1492. [PubMed: 7555225]
+
+Zelazo, PD.; Jacques, S. Children's rule use: Representation, reflection, and cognitive control. In: Vasta,
+
+R., editor. Annals of child development. Vol. Vol. 12. Jessica Kingsley Press; London: 1996. p.
+119-176.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 17
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 1.
+False-belief understanding in preschool as a mediator of the association between executive
+function in preschool and false-belief understanding in kindergarten
+Note. Path a represents the effect of the predictor on the mediator. Path b represents the effect
+of the mediator on the outcome, controlling for the predictor. Path c (not shown) represents
+the effect of the predictor on the outcome. Path c' represents the indirect effect of the predictor
+on the outcome, after including the mediator in the model.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 18
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Figure 2.
+False-belief understanding in preschool as a mediator of the association between executive
+function in preschool and social competence in kindergarten
+Note. Path a represents the effect of the predictor on the mediator. Path b represents the effect
+of the mediator on the outcome, controlling for the predictor. Path c (not shown) represents
+the effect of the predictor on the outcome. Path c' represents the indirect effect of the predictor
+on the outcome, after including the mediator in the model.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 19
+
+List of constructs, measures, and time points of assessment for the study
+
+Table 1
+
+Construct
+
+Measure/battery
+
+False-belief understanding
+
+Unexpected contents task
+Unexpected identity - subtask 1
+Unexpected identity - subtask 2
+Changed locations task
+Peabody Picture Vocabulary Test
+Peg-tapping task
+Flexible-item selection task
+Preschool and Kindergarten Behavior Scales
+
+Assessment Time points
+
+T1 and T2
+
+T1
+T1
+
+T1 and T2
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Language ability
+Executive function
+
+Social competence
+
+Note. T1 = Time 1, T2 = Time 2.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 20
+
+Table 2
+Phi contingency coefficients for false-belief tasks (N = 68)
+
+Tasks
+
+BOX - OWN
+
+BOX - OTHER
+
+BOX - LOC
+
+OWN - OTHER
+
+OWN - LOC
+OTHER - LOC
+
+T1
+.23+
+.27*
+.32**
+.20+
+
+.19
+.10
+
+T2
+.63**
+.23*
+.31**
+.39**
+.25+
+.16
+
+Note. BOX = unexpected contents task, OWN = subtask 1 of unexpected identity task, OTHER = subtask 2 of unexpected identity task, LOC = changed
+locations task, T1 = Time 1, T2 = Time 2.
++
+
+p ≤ .10.
+
+*
+
+p ≤ .05.
+**
+
+p ≤ .01.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 21
+
+ 
+
+l
+
+3
+e
+b
+a
+T
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+ 
+
+n
+e
+t
+r
+a
+g
+r
+e
+d
+n
+i
+K
+d
+n
+a
+ 
+l
+o
+o
+h
+c
+s
+e
+r
+P
+=
+S
+B
+K
+P
+
+ 
+
+ 
+
+ 
+,
+
+k
+s
+a
+t
+ 
+
+n
+o
+i
+t
+c
+e
+l
+e
+s
+ 
+
+m
+e
+t
+i
+ 
+e
+l
+b
+i
+x
+e
+l
+f
+=
+T
+S
+I
+F
+
+ 
+
+ 
+,
+
+k
+s
+a
+t
+ 
+
+g
+n
+i
+p
+p
+a
+t
+-
+g
+e
+p
+=
+G
+E
+P
+
+ 
+
+ 
+
+D
+S
+
+0
+0
+
+.
+
+1
+
+7
+3
+
+.
+
+0
+
+5
+1
+
+.
+
+0
+
+M
+
+9
+5
+
+.
+
+1
+
+9
+5
+
+.
+
+0
+
+3
+7
+
+.
+
+0
+
+0
+8
+
+.
+
+1
+1
+
+0
+4
+
+.
+
+5
+8
+
+0
+9
+
+.
+
+0
+
+4
+4
+
+.
+
+2
+
+0
+3
+
+.
+
+3
+1
+
+4
+8
+
+.
+
+2
+8
+
+ 
+
+2
+T
+S
+B
+K
+P
+
+ 
+
+2
+T
+U
+B
+F
+
+ 
+
+1
+T
+S
+B
+K
+P
+
+ 
+
+1
+T
+T
+S
+I
+F
+
+ 
+
+1
+T
+G
+E
+P
+
+ 
+
+1
+T
+U
+B
+F
+
+*
+*
+
+7
+3
+
+.
+
++
+2
+2
+
+.
+
+*
+
+9
+3
+
+.
+
++
+0
+2
+
+.
+
+7
+0
+
+.
+
+*
+*
+
+1
+3
+
+.
+
+*
+
+4
+2
+
+.
+
+0
+0
+
+.
+
+*
+*
+*
+
+2
+4
+
+.
+
+*
+*
+*
+
+9
+3
+
+*
+
+4
+2
+
+.
+
+6
+1
+
+.
+
+8
+1
+
+.
+
+5
+0
+
+.
+
+*
+*
+
+1
+3
+
+.
+
+-
+-
+
+1
+T
+U
+B
+F
+
+1
+T
+G
+E
+P
+
+ 
+
+1
+T
+T
+S
+I
+F
+
+ 
+
+1
+T
+S
+B
+K
+P
+
+ 
+
+2
+T
+S
+B
+K
+P
+
+2
+T
+U
+B
+F
+
+ 
+,
+e
+t
+a
+g
+e
+r
+g
+g
+a
+ 
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+ 
+f
+e
+i
+l
+e
+b
+-
+e
+s
+l
+a
+f
+ 
+=
+U
+B
+F
+
+ 
+
+ 
+.
+
+1
+T
+
+ 
+t
+a
+ 
+
+y
+t
+i
+l
+i
+b
+a
+ 
+e
+g
+a
+u
+g
+n
+a
+l
+ 
+r
+o
+f
+ 
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+ 
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+ 
+l
+a
+i
+t
+r
+a
+P
+
+ 
+.
+e
+t
+o
+N
+
+ 
+
+)
+8
+6
+=
+N
+(
+2
+d
+n
+a
+ 
+
+ 
+
+1
+
+ 
+s
+e
+m
+
+i
+t
+ 
+t
+a
+ 
+s
+e
+l
+b
+a
+i
+r
+a
+v
+ 
+y
+r
+a
+m
+
+i
+r
+p
+
+ 
+
+g
+n
+o
+m
+a
+ 
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+ 
+l
+a
+i
+t
+r
+a
+P
+
+.
+
+2
+
+i
+
+ 
+e
+m
+T
+=
+2
+T
+
+ 
+
+ 
+
+ 
+,
+
+1
+
+i
+
+ 
+e
+m
+T
+=
+1
+T
+
+ 
+
+ 
+
+ 
+;
+e
+l
+a
+c
+S
+ 
+s
+l
+l
+i
+k
+S
+ 
+l
+a
+i
+c
+o
+S
+ 
+-
+ 
+s
+e
+l
+a
+c
+S
+ 
+r
+o
+i
+v
+a
+h
+e
+B
+
+.
+
+5
+0
+
+.
+ 
+
+≤
+p
+
+ 
+
+*
+
+.
+
+1
+0
+
+.
+ 
+
+≤
+p
+
+ 
+
+*
+*
+
+.
+
+1
+0
+0
+
+.
+ 
+
+≤
+p
+
+ 
+
+*
+*
+*
+
+.
+
+0
+1
+
+.
+ 
+
+≤
+p
+
+ 
+
++
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 22
+
+Summary of hierarchical regression analysis of T2 social competence on false-belief understanding (N = 68)
+
+Table 4
+
+Variable
+
+Step 1
+
+Language ability, T1
+
+Social competence, T1
+
+Step 2
+Language ability, T1
+
+Social competence, T1
+
+False-belief understanding, T1
+
+R2 or ΔR2
+.16***
+
+.07***
+
+B
+
+SE B
+
+β
+
+.30
+
+.43
+
+.17
+
+.36
+
+4.05
+
+.17
+
+.13
+
+.17
+
+.12
+
+1.54
+
+.20+
+.38***
+
+.11
+.32**
+.30*
+
+Note. Dependent variable = social competence at Time 2. T1 = Time 1.
++
+
+p ≤ .10.
+
+*
+
+p ≤ .05.
+**
+
+p ≤ .01.
+
+***
+
+p ≤ .001.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 23
+
+Summary of hierarchical regression of T2 false-belief understanding on social competence (N = 68)
+
+Table 5
+
+Variable
+
+Step 1
+
+Language ability, T1
+
+False-belief understanding, T1
+
+Step 2
+
+Language ability, T1
+
+False-belief understanding, T1
+
+Social competence, T1
+
+R2 or ΔR2
+.20***
+
+.10***
+
+B
+
+.03
+
+.28
+
+.03
+
+.20
+
+.03
+
+SE B
+
+β
+
+.01
+
+.10
+
+.01
+
+.10
+
+.01
+
+.28*
+.30**
+
+.31**
+.22*
+.36**
+
+Note. Dependent variable = false-belief understanding at Time 2. T1 = Time 1.
+*
+
+p ≤ .05.
+**
+
+p≤ .01.
+
+***
+
+p ≤ .001.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 24
+
+Mediation analysis examining executive function and false-belief understanding (N = 68)
+
+Table 6
+
+Variable
+Step la (Path c)
+
+Executive function, T1
+Step 2b (Path a)
+
+Executive function, T1
+Step 3a (Paths b and c')
+Executive function, T1 (Path c')
+
+False-belief understanding, T1 (Path b)
+
+Note. Language ability at T1 was a control in these analyses.
+a
+
+Dependent variable = T2 false-belief understanding
+
+b
+
+Dependent variable = T1 false-belief understanding.
+
+B
+
+.58
+
+.88
+
+.37
+
+.23
+
+SE B
+
+β
+
+.30
+
+.33
+
+.31
+
+.11
+
+.24*
+
+.33**
+
+.15
+.26*
+
+R2
+.16***
+
+.15**
+
+.21***
+
+*
+
+p ≤.05.
+**
+
+p ≤ .01.
+
+***
+
+p ≤ .001.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+Razza
+
+Page 25
+
+Mediation analyses examining associations among false-belief understanding, executive function, and social
+competence (N = 68)
+
+Table 7
+
+Variable
+Step la (Path c)
+Executive function, T1
+Step 2b (Path a)
+
+Executive function, T1
+Step 3a (Paths b and c')
+Executive function, T1
+
+False-belief understanding, T1
+
+B
+
+SE B
+
+β
+
+2.97
+
+.74
+
+.00
+
+4.05
+
+4.78
+
+.08
+
+.36
+
+.28*
+
+4.74
+
+1.60
+
+.00
+.30*
+
+R2
+.15**
+
+.15**
+
+.22***
+
+Note. Language ability and social competence at Time 1 (Tl) were controls in these analyses.
+a
+
+Dependent variable = social competence at T2
+
+b
+
+dependent variable = false-belief understanding at Tl.
+
+*
+
+p ≤ .05.
+**
+
+p ≤ .01.
+
+***
+
+p ≤ .001.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+J Appl Dev Psychol. Author manuscript; available in PMC 2010 May 1.
+
+

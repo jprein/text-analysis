@@ -1,0 +1,1774 @@
+Social understanding and self-regulation
+predict pre-schoolers’ sharing with friends
+and disliked peers: A longitudinal study
+
+International Journal of
+Behavioral Development
+2015, Vol. 39(1) 53–64
+ª The Author(s) 2014
+Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav
+DOI: 10.1177/0165025414537923
+ijbd.sagepub.com
+
+Markus Paulus,1 Maria Licata,1 Susanne Kristen,1
+Claudia Thoermer,1 Amanda Woodward,2 and Beate Sodian1
+
+Abstract
+This study examined longitudinal relations between early measures of prosocial action in infancy as well as cognitive and social-cognitive
+abilities, and the sharing behaviour of preschool children. The results reveal relations between delay-of-gratification at 24 months and inhi-
+bitory control at 30 months, and children’s sharing at 5 years. Moreover, the analyses showed specific relations between distress under-
+standing at 24 months and preschool children’s sharing with friends, and a relation between goal encoding at 7 months and sharing with a
+disliked other at 5 years. Yet, there were no relations between early measures of prosociality in infancy and preschool children’s sharing.
+The results support the view that inhibitory control competencies and social-cognitive abilities play an important role in the early
+development of prosocial action.
+
+Keywords
+infancy, infant cognition, moral reasoning, psychosocial development
+
+Developmental science has recently experienced a growing interest
+in the early development of prosocial behavior. Extending previous
+research (e.g., Kienbaum, Volland, & Ulich, 2001; Rheingold, Hay, &
+West, 1976; Zahn-Waxler, Radke-Yarrow, Wagner, & Chapman,
+1992; Zahn-Waxler, Robinson, & Emde, 1992), a number of recent
+studies have provided evidence that infants engage in a variety of pro-
+social actions such as helping, comforting and sharing already in the
+second year of life (Brownell, Iesue, Nichols, & Svetlova, 2012;
+Brownell, Svetlova, & Nichols, 2009; Dunfield & Kuhlmeier,
+2010; Ka¨rtner, Keller, & Chaudhary, 2009; Over & Carpenter,
+2008; Paulus, Ku¨hn-Popp, Licata, Sodian, & Meinhardt, 2013;
+Svetlova, Nichols, & Brownell, 2010; Vaish, Carpenter, & Toma-
+sello, 2009; Warneken & Tomasello, 2006; for reviews see Eisen-
+berg, Fabes, & Spinrad, 2006; Paulus & Moore, 2012).
+
+For example, Warneken and Tomasello (2006) showed that
+already 1.5-year-old children engage in instrumental helping. They
+presented the infants with situations in which an adult needed help
+to accomplish an action (e.g., putting clothes on a washing line) by
+overcoming problems (e.g., a clothespin fell to the ground). The
+results showed that infants readily provided help (e.g., handing over
+the clothespin). Further cross-sectional studies suggested that chil-
+dren’s prosocial behaviours become more differentiated and less
+dependent on communicative cues with increasing age (e.g., Blake
+& McAuliffe, 2011; Kenward & Dahl, 2011; Shaw & Olson, 2012;
+Svetlova et al., 2010). It has, for example, been demonstrated that
+3-year-old children will usually share equally with a peer after they
+have collaborated with him to obtain resources (e.g., Hamann, War-
+neken, Greenberg, & Tomasello, 2011). In addition, studies have
+shown that children are less inclined to share when it is costly than
+when it is not (Paulus, 2014b; Thompson, Barresi, & Moore, 1997),
+and that altruistic (that is, costly) sharing is a later developmental
+outcome than non-costly prosocial behavior (e.g., Svetlova et al.,
+2010). Moreover, using sharing scenarios and dictator-games, it has
+been shown that 4- to 5-, but not 3-year-old preschoolers are more
+
+inclined to share with friends than with disliked peers (Moore,
+2009; Paulus & Moore, 2013), and that school-aged children share
+more with in-group members than with out-group members (Fehr,
+Bernhard, & Rockenbach, 2008). This suggests that early sharing
+behavior becomes more selective in the course of the preschool
+years (cf. Hay & Cook, 2007).
+
+From one theoretical point of view, it has been suggested that
+perceiving other people’s distress first leads to self-distress by
+means of affect sharing (e.g., Preston & de Waal, 2002). With the
+increasing ability to differentiate between self and other, children
+become able 1) to understand that their perceived self-distress is
+caused by the other’s distress and 2) to transform their own negative
+emotionality into constructive and solution-oriented behaviours
+such as comforting the other (Moore, 2007; see also Hoffman,
+2000). Thus, the capacity to regulate one’s own negative emotions
+plays an important role in the development of prosocial behavior
+(Decety & Svetlova, 2012). Accordingly, it has been suggested that
+the capacity to act prosocially is related to low impulsivity and high
+self-regulation capacities (Eisenberg & Fabes, 1998). Support for
+these notions comes from a number of studies that pointed to the
+impact of emotion-regulation capacities, in particular inhibitory
+control and attentional control, on young children’s prosocial beha-
+vior (e.g., Eisenberg et al., 1996; Hastings, Rubin, & DeRose, 2005;
+Kestenbaum, Farber, & Sroufe, 1989; Kienbaum, 2001; Liew et al.,
+2011; Spinrad & Stifter, 2006).
+
+1 Ludwig-Maximilian-Universita¨t Mu¨nchen, Germany
+2 University of Chicago, USA
+
+Corresponding author:
+Markus Paulus, Ludwig-Maximilian-Universita¨t Mu¨nchen, Leopoldstr. 13,
+Munich, 80802, Germany.
+Email: markus.paulus@lmu.de
+
+54
+
+International Journal of Behavioral Development 39(1)
+
+Building on findings that empathic concern and prosocial beha-
+vior increases with the ability to differentiate self from other, the-
+ories have claimed relations between prosocial behavior, and
+the abilities to take another person’s perspective and to understand
+other’s intentionality (Decety & Svetlova, 2012; Eisenberg &
+Eggum, 2009; Kagan, 1981; Moore, 2007). These theoretical con-
+siderations have been supported by findings on the relation
+between perspective taking as well as intention understanding and
+prosocial behavior (e.g., Carlo, Knight, Eisenberg, & Rotenberg,
+1991; Eisenberg, Zhou, & Koller, 2001; Garner, Jones, & Miner,
+1994; Guroglu, van den Bos, & Crone, 2009; Killen, Mulvey,
+Richardson, Jampol, & Woodward, 2011; Strayer & Roberts,
+2004; but for different results see Astington & Jenkins, 1995;
+Peterson, 1983; for a comprehensive review see Eisenberg et al.,
+2006).
+
+Yet, notwithstanding the insights gained by these cross-
+sectional studies, less is known about the longitudinal relations
+between measures of early prosocial action and prosocial behavior
+at preschool age, and the developmental precursors of preschool
+children’s prosocial actions. Longitudinal studies with older chil-
+dren and adolescents have pointed to some consistency in chil-
+dren’s prosocial dispositions and behaviors (e.g., Eisenberg,
+Carlo, Murphy, & van Court, 1995; Eisenberg et al., 1987, 1999).
+Evidence for a relation between early prosocial behavior and
+school-aged children’s prosocial actions comes from studies by Knafo
+and Plomin (2006a, 2006b). Knafo and Plomin (2006a) conducted a
+longitudinal examination of genetic and environmental influences
+on the development of prosocial behavior from 2 to 7 years of age.
+Children’s prosocial behavior was assessed by means of parental
+reports. The authors reported high correlations for 1-year lags of
+assessment (that is, between 2 and 3 years, or between 4 and 5 years)
+and some stability from 2 to 7 years of age (correlations ranging from
+r ¼ .13 to r ¼ .21). Yet, the assessment of prosocial behaviours was
+restricted to parents’ reports and it would be desirable to have more
+evidence from direct measures of young children’s prosocial beha-
+viour. Directly examining infants’ prosocial behaviour, Knafo and
+colleagues (Knafo, Zahn-Waxler, van Hulle, Robinson, & Rhee,
+2008) provided evidence that empathic concern towards mothers and
+examiners simulating pain was a stable disposition between 14 and
+36 months of age. Moreover, Hay and colleagues (Hay, Castle,
+Davies, Demetrious, & Stimson, 1999) examined children’s sharing
+behaviour towards a friend in three age cohorts of children at age
+18, 24 and 30 months as well as 6 months later. The results were mixed
+as they, on the one hand, pointed to some stability in the rate of sharing
+on the group level across the ages, but on the other hand also provided
+evidence for a decline of sharing behaviour in girls between 18 and
+24 months of age, and a similar decline in sharing by boys between
+30 and 36 months. Examining stability of individual differences, anal-
+yses showed a modest, though not significant stability in sharing in the
+two oldest age groups. Recently, Liew et al. (2011) investigated the
+relation between 18- and 30-month-old infants’ physiological regula-
+tions as well as fearfulness and their sympathetic reactions to others’
+distress. The results showed that low fearfulness and the ability to cope
+with arousing situations at 18 months predicted comforting behaviour
+at 30 months, even when controlling for comforting at 18 months, sug-
+gesting a predictive relation between early temperamental and self-
+control abilities and the development of prosocial behaviour. Taken
+together, the overall picture is rather mixed. The studies suggest some
+stability in the early development of prosocial behaviour, but some-
+times the effects are rather small or fail to reach conventional levels
+of significance.
+
+Given that previous studies have focused on stability, employ-
+ing the same measure across ages, it would be interesting to exam-
+ine in greater detail whether there is developmental stability
+between the different tasks that have been applied to examine pro-
+social behaviour at different ages, e.g. instrumental helping in
+infancy (Warneken & Tomasello, 2006) and sharing in preschoo-
+lers (Fehr et al., 2008; Moore, 2009). From a theoretical point of
+view, such an examination not only would reveal whether the age-
+typical forms of prosocial behaviour relate to each other; such an
+investigation would also reveal whether all of these tasks are sub-
+served by the same underlying prosocial motivation or whether
+they may be subserved by different psychological processes (for
+discussions see Decety & Svetlova, 2012; Hay, 2009; Paulus,
+2014; Warneken & Tomasello, 2009).
+
+In particular, recent
+
+theoretical models of early prosocial
+development have suggested that early forms of prosocial action
+(that is, helping, sharing, comforting) are conceptually distinct.
+For example, Dunfield and colleagues have pointed out that
+these behaviours are based on different evaluations of the oth-
+er’s
+situation (Dunfield, Kuhlmeier, O’Connell, & Kelley,
+2011; Dunfield & Kuhlmeier, 2013). Svetlova and colleagues
+(2010) differentiated the variety of prosocial actions based on
+the costs involved for the prospective helpee. Moreover, Paulus
+(2014) suggested that, besides different evaluations and social-
+cognitive abilities, also varied types of motivation might under-
+lie the different forms of prosocial action: some could be based
+on a sympathetic motivation to reduce the other’s pain, some
+could be motivated by normative considerations, and others
+could be motivated by a wish to socially interact with the other.
+Yet, on the other hand, it has been argued that all prosocial
+behaviours are subserved by the same psychological mechan-
+isms (e.g., Hauser, 2006). Knowledge about longitudinal rela-
+tions
+be
+informative for the recent theoretical debate on the psychologi-
+cal mechanisms underlying early prosocial action.
+
+behaviours would
+
+between
+
+different
+
+prosocial
+
+In conclusion, the reviewed literature showed that prosocial
+behaviour becomes more differentiated in the course of the pre-
+school period and provided some (limited) evidence that the ten-
+dency to act prosocially is a stable disposition. Furthermore,
+theories suggested an impact of self-control abilities and social
+competencies on prosocial action. Building on these previous find-
+ings and theoretical considerations, the aim of the present study was
+threefold.
+
+First, we wanted to investigate longitudinal relations between
+early forms of prosocial action in infancy, such as instrumental
+helping and comforting, and prosocial behaviour at preschool age
+to examine whether there was developmental stability between the
+tasks that have typically been applied in infancy and preschool
+age. We hypothesized that, if the tasks tapped into the same under-
+lying psychological process, we should find interrelations
+between the tasks. Yet, if prosocial behaviour has qualitatively
+distinct roots (Radke-Yarrow et al., 1976) and is conceptually dis-
+tinct (e.g., Dunfield & Kuhlmeier, 2013; Paulus, 2014), we should
+not find interrelations between children’s performances in these
+tasks. That is, the current study aim at informing the debate
+whether a single or a multiplicity of mechanisms subserves early
+prosocial behaviour.
+
+Second, given the theoretical claims and empirical findings
+about the relation between early self-regulation as well as social-
+cognitive abilities and prosocial behaviour, we assessed the predic-
+tive relations between early forms of these competencies and
+
+Paulus et al.
+
+55
+
+preschool children’s prosocial action. More concretely speaking,
+based on theoretical considerations about relations between proso-
+cial action and self-regulation (Eisenberg & Fabes, 1998) as well as
+social understanding (Moore, 2007), we hypothesized that early
+developments in these abilities would be predictive for later proso-
+cial behaviour.
+
+In addition, we were particularly interested whether children’s
+increasingly differentiated prosocial behaviour as evident in their
+recipient-dependent sharing with friends and disliked peers
+(Moore, 2009; Paulus & Moore, 2013) as well as their sharing
+in costly and non-costly situations (Svetlova et al., 2010; Thomp-
+son et al., 1997) would be predicted by the same measures, or
+whether different abilities and mechanisms support the emergence
+of these different forms of sharing. On the one hand, one could
+argue that the same psychological mechanisms support the devel-
+opment of sharing in general, and that purely situational factors
+subserve differentiated sharing in concrete situations (cf. Penner,
+Dovidio, Piliavin, & Schroeder, 2005). Given that, for example,
+all forms of costly sharing require an inhibition of the tendency
+to keep all valuable resources for oneself, one could hypothesize
+that sharing behaviour is predicted by young children’s develop-
+ing self-control abilities—independent from whether they share
+with a friend or a disliked peer.
+
+Yet, on the other hand, it is possible that different psychological
+processes might be involved in the emergence of differentiated pro-
+social behaviour. Research has shown that interpersonal under-
+standing between peers who dislike each other is considerably
+lower than interpersonal understanding between friends (Kurdek
+& Krile, 1982). At the same time, concurrent measures of social
+understanding and prosocial actions in children and adolescents
+demonstrated positive relations between an understanding of inten-
+tionality and resource distribution decisions (e.g., Cassidy, Werner,
+Rourke, Zubernis, & Balaraman, 2003; Guroglu et al., 2009; Killen
+et al., 2011; Moore, Barresi, & Thompson, 1998). Based on these
+findings, one could hypothesize that early precursors of social
+understanding predict children’s sharing behaviour; and that—
+given that interpersonal understanding is anyhow high between
+friends—the relation between social understanding and sharing
+might be particularly high for sharing with disliked others.
+
+In addition, given the findings that preschoolers allocate more
+resources to friends than to disliked others and even expect others
+to do so (Moore, 2009; Olson & Spelke, 2008; Paulus & Moore,
+2013), preschoolers may understand sharing with friends as norma-
+tive. As a consequence, inferences about the friend’s intentionality
+may not be necessary to make a distribution decision. In contrast, in
+the case of other recipients the decision to share will depend on a
+careful consideration of the others’ wants and needs. Thus, the rela-
+tion between social understanding and sharing may be closer for
+sharing with disliked peers than with friends.
+
+Thus, as outcome variable at preschool age, we assessed chil-
+dren’s sharing behaviour by adapting a task following Moore
+(2009) and Fehr and colleagues (2008). In this task, children are
+presented with either a friend or a disliked peer as potential shar-
+ing partners. Furthermore, children are presented with different
+trial types in which their sharing of resources with the other is
+either costly for themselves or not. Given that this differentiation
+between friends and disliked peers seems to emerge between 4 and
+5 years of age, but not before (Paulus & Moore, 2013), we
+assessed sharing at 5 years.
+
+As early forms of prosocial behaviour, we assessed infants’
+helping behaviour at 18 months in an instrumental helping
+
+paradigm (Warneken & Tomasello, 2006), and their prosocial
+responding at 24 months in a comforting task following Zahn-
+Waxler and colleagues (1992). We decided to employ these mea-
+sures at these (but not later) ages as they have often been concep-
+tually replicated in the literature and provide some variation at
+the respective age (e.g., Dunfield & Kuhlmeier, 2011; Paulus
+et al., 2013; Young, Fox, & Zahn-Waxler, 1999), whereas ceiling
+effects have been reported for some of these tasks at later ages
+(Dunfield & Kuhlmeier, 2013).
+
+In order to examine the impact of self-control abilities, we assessed
+1) children’s ability to tolerate a delay of gratification (cf. Mischel,
+Shoda, & Rodriguez, 1989), building on a task by Kochanska and col-
+leagues (Kochanska, Murray, Jacques, Koenig, & Vandegeest,
+1996; see also Kochanska, Murray, & Harlan, 2000) that has been
+successfully employed with toddlers and preschool children.
+Furthermore, we assessed 2) children’s inhibitory control and
+attentional control by means of parent’s reports on the Early Child-
+hood Behavior Questionnaire (Putnam, Gartstein, & Rothbart,
+2006). As theories have suggested relations between the under-
+standing of other’s intentionality and perspective on the one hand,
+and prosocial behavior on the other hand (Decety & Svetlova,
+2012; Eisenberg & Eggum, 2009; Kagan, 1981; Moore, 2007),
+we administered two further tasks. First, as an early measure of
+social-cognitive development, we administered a looking-time
+task on infants’ goal-encoding abilities following the design of
+Woodward (1998, 1999). In this task, infants are presented with
+an actor reaching and grasping one of two objects. In the test trials,
+the position of both objects is switched. Infants are presented either
+with the actor grasping the same object (at the novel position) or
+following the old movement path (and hence grasping the other
+object). Infants’ dishabituation (e.g., longer looking) to the trial
+in which the actor grasps the novel object (compared to the grasping
+of the same object in the habituation trials) is interpreted as evi-
+dence for their encoding of the other’s action goal. It has been
+argued that the ability to encode others’ goals is the earliest devel-
+opmental precursor for an understanding of others as intentional
+agents (Woodward, 2013). Supporting this claim studies have
+provided evidence for a link between children’s ability to under-
+stand others’ goals in infancy and their theory-of-mind compe-
+tencies at preschool age (Aschersleben, Hofer, & Jovanovic,
+2008; Wellman & Brandone, 2009; Wellman, Lopez-Duran,
+LaBounty, & Hamilton, 2008; Wellman & Philips, 2001). Sec-
+ond, we included a perspective-taking task following McGuigan
+and Doherty (2002), who extended on a classical task by Flavell
+and colleagues (Flavell, Shipstead, & Croft, 1978).
+
+Finally, we included children’s gender as further variable as
+some studies have pointed to an impact of gender (e.g., Birch &
+Billman, 1986; but for different findings see, for example, Moore,
+2009). It is important to control for children’s general cognitive
+capacities to ensure that possible relations between the tasks are not
+due to increased cognitive abilities. Thus, we included measures of
+infants’ working memory and children’s verbal intelligence to con-
+trol for the impact of domain-general cognitive abilities.
+
+Method
+
+Participants
+
+The final sample for the outcome measure at 5 years of age, the
+sharing task, consisted of 72 healthy children with a mean age of
+60.8 months (SD ¼ 0.71; 35 girls) at the sixth appointment. Four
+
+56
+
+International Journal of Behavioral Development 39(1)
+
+further children initially started, but did not complete, the longitu-
+dinal study (e.g., due to having moved to another city). All those
+children were also invited at earlier points in their development.
+From these children who contributed data to the last measurement
+point, data at
+the following earlier measure points were also
+obtained: At the first appointment, data from 65 children (mean
+age ¼ 7.0 months, SD ¼ 0.26; 32 female) could be obtained in the
+working memory task, and data from 34 children (mean age ¼ 7.0
+months, SD ¼ 0.26; 21 female) could be obtained in the goal encod-
+ing task.1 At the second appointment, data from 61 children (mean
+age ¼ 18.1 months, SD ¼ 0.24; 31 female) could be obtained in the
+instrumental helping task. At the third appointment, data from 62
+children (mean age ¼ 24.0 months, SD ¼ 0.25; 32 female) could
+be obtained in the empathy task. At the fourth appointment, data
+from 58 children (mean age ¼ 29.9 months, SD ¼ 0.36; 29 female)
+could be obtained in the Early Childhood Behavior Questionnaire
+(ECBQ) and data from 64 children (mean age ¼ 30.1 months,
+SD ¼ 0.36; 33 female) could be obtained in the perspective taking
+task. At the fifth appointment, data from 50 children (mean age ¼
+48.3 months, SD ¼ 0.25; 26 female) could be obtained in the intel-
+ligence measure. Please note that the lower number of participants
+in the earlier task is due to the fact that for some children, the tasks
+were unusable at these time points due to experimenter errors,
+equipment failure, or children’s unwillingness to participate in or
+finish the respective task.
+
+Children came from predominantly white middle-class families
+in an urban area in Germany. They were part of a larger longitudinal
+study on the development of theory-of-mind (e.g., Licata et al.,
+2013; Thoermer, Sodian, Vuori, Perst, & Kristen, 2012). From the
+72 mothers, 18 had attended 10 years of schooling (based on a non-
+college-bound track in the German school system), 15 had a high-
+school degree (13 years), 32 had a bachelor or master’s degree, and
+7 had a PhD degree. Addresses were obtained through local birth
+records. Families received a travel reimbursement and a small gift
+for their participation.
+
+Procedure
+
+Measures
+
+Goal encoding. At the first appointment (7 months), we assessed
+infants’ goal-encoding abilities. Testing setup and procedure were
+closely modelled following the infant-controlled habituation-
+based procedure employed by Woodward (1998). Participants were
+seated in a high chair in front of a puppet-stage opening. Infants
+were first presented with a minimum of six and a maximum of
+14 habituation trials, followed by six test trials (in order to maxi-
+mize sample size, results will be reported only for the first pair of
+test trials). In the habituation trials, a human hand and arm slowly
+moved into the stage from the side and grasped one of the two avail-
+able objects. The hand remained in this position until the infant had
+looked away for two consecutive seconds. Subsequently, the cur-
+tain closed. After 3 seconds, a novel habituation trial was adminis-
+tered. In all habituation trials, the two possible target objects were at
+the same position and the hand always grasped the same target.
+When the looking times over three consecutive trials was less than
+half the looking time of the first three trials (which had to sum up to
+at least 12 seconds), habituation was terminated.
+
+new location (preserving the goal object; new path trial) or to the
+old location (preserving the movement path; new goal
+trial).
+Whether the test phase started with the new path or new goal trials
+was balanced between participants. Two independent observers
+who were blind towards the condition, coded the looking times off-
+line from the videotapes.
+Inter-rater reliability was r > .90
+(cf. Woodward, 1998).
+
+To assess whether the infants preferentially encoded the goal-
+object of the actor’s reach and to allow for an investigation of
+inter-individual differences, we first summed up the total looking
+time for both events (new path trial, new goal trial) for every parti-
+cipant. We then built an individual percentage score by dividing the
+individual’s looking time to the new path trial by the total looking
+time to both events, reflecting how much more time infants spent
+looking at a change in target object (which would be indicative for
+having encoded the goal of the other’s action).
+
+Working memory. Furthermore, at the first appointment, infants’
+working memory was assessed by a task modelled after Reznick,
+Morrow, Goldman, and Snyder (2004). Infants sat on their care-
+giver’s lap facing a frame with two openings. The openings were
+side to side and 42 cm apart from centre to centre. To cover the win-
+dows, two curtains were attached to the back of the frame. At the
+beginning of each of the six trials, the experimenter (E) pulled aside
+two curtains, put her face in one of the windows, and engaged the
+infant’s attention. E then withdrew her face, replaced the two cur-
+tains, and wiggled her fingers at the top centre of the frame. As soon
+as the infant looked toward the fingers, E reopened the curtains, and
+after a 2- to 3-s pause, she reappeared in her previous location. The
+curtains were then closed again. After a short pause, E reopened the
+curtains to initiate the next trial. E’s location of appearance was
+counterbalanced between the left and right windows, and the proce-
+dure lasted for six trials (for further description of the apparatus and
+procedure, see Reznick et al., 2004).
+
+To assess the direction of the infant’s first gaze in each trial after
+the reopening of the curtain, a research assistant coded the video-
+tapes in the following manner. A score of 1 was given if the infants
+looked towards the cued direction, and a score of 0 was given if
+infants’ looked towards another location. Participants’ scores were
+averaged over the test trials. A second person coded a random sam-
+ple of 25% children. Cohen’s Kappa was .72.
+
+Instrumental helping. At the second appointment (18 months),
+infants’ instrumental helping behaviour was assessed following a
+procedure of Warneken and Tomasello (2006). The assessment
+included two trials, an experimental trial and a control trial, which
+were always administered in this order to keep the situation compa-
+rable for all children. In both trials, the child was seated on a child-
+sized chair at a small table. In the experimental trial, the experimen-
+ter fixed a piece of cloth on a washing line and accidentally dropped
+a clothespin on the floor. She tried to reach for it while looking at
+the clothespin, but was not able to reach it. In the control trial, chil-
+dren were presented with the experimenter sitting on the other side
+of the table with a pen in front of her. The experimenter took the
+pen, looked at it, and intentionally threw it away. Subsequently, she
+looked in a bored fashion in the other direction, without paying any
+attention to the pen. In both trials, infants were given 30 seconds to
+respond.
+
+For the test phase, the object locations were switched. First,
+infants were familiarized with the novel display. Subsequently, the
+test trials started. In the test trials the hand alternately reached to the
+
+For each trial, a first experimenter coded from video recordings
+whether the child showed helping behaviour or not. Helping beha-
+viour was defined as returning the object (that is, clothespin, pen) to
+
+Paulus et al.
+
+57
+
+the experimenter. To allow an analysis of inter-individual differ-
+ences, a competence score was calculated following Paulus and col-
+leagues (2013). Infants who helped in the experimental condition,
+but not in the control condition (that is, where the adult deliberately
+threw the pen away) were classified as competent. Infants who
+showed no helping behaviour or infants who helped in the control
+condition, were classified as not competent. Although infants who
+helped in both conditions or just in the control condition returned
+the object as well, we have no evidence to assume that the returning
+of the object was based on a motivation to help as it (also) appeared
+in a situation in which the adult clearly indicated no interest in the
+respective object (that is, control condition). We therefore lumped
+these conditions. A second rater coded 44% of the data. The inter-
+rater agreement was 100%.
+
+Empathic responding. At
+the third appointment (24 months),
+infants’ reactions towards a person in distress were assessed by
+means of a procedure developed by Zahn-Waxler and colleagues
+(1992). Mothers were instructed to pretend their finger to be
+clamped in a clipboard and to simulate pain during a free play phase
+of their child. In particular, they were asked to simulate enduring
+pain for 30 seconds and decreasing pain for further 30 seconds.
+Mothers were also instructed not to request help from their child
+and not to directly look at him/her during the simulation. Infants’
+reactions during the mothers’ simulation was assessed.
+
+Infants’ behaviour was coded from recordings following the
+scheme of Young and colleagues (Young, Fox, & Zahn-Waxler,
+1999). We coded whether infants understood the distress of their
+mother on a 5-point scale (1: no understanding; 2: nonverbal ges-
+tures, e.g., pointing at the clipboard as cause of the pain; 3: verbal
+expressions, questions; 4: verbal expression and nonverbal explora-
+tion; 5: repeated verbal and nonverbal exploration). Furthermore,
+we assessed infants’ prosocial behaviour on a 4-point scale (1: no
+signs of worriedness; 2: little help; 3: moderate help for 3 5 sec-
+onds; 4: repeated or enduring help for more than 5 seconds). Help
+was defined as any behaviour that aimed to diminish the pain of the
+other, such as blowing the finger, verbally offering help, or bringing
+a band-aid. A second rater coded 34% of the data. Cohen’s Kappa
+ranged from k ¼ .75 to k ¼ .92.
+
+Gift delay. At the third appointment (24 months), infants’ behaviour
+in a delay-of-gratification task was assessed adapting a procedure
+after Kochanska and colleagues (1996). The experimenter told
+the child that she has a gift for her in a bag. She shows the bag to
+the child, yet not the content of the bag. Before handing over the
+bag that contains the gift, she pretends to have forgotten the ribbon
+to prepare the gift. She puts the bag on a table and asks the child to
+not touch it until she is back. Subsequently she leaves the room for
+3 minutes.
+
+Children’s behaviour during the 3 minutes was coded from
+video recordings on a 6-point scale (6: bag not touched; 5: bag
+touched; 4: looked in bag; 3: hand in bag; 2: gift taken out of bag;
+1: gift unwrapped). A second rater coded 30% of the data. The inter-
+rater agreement was k ¼ .89.
+
+Inhibitory control and attentional control. At the fourth appoint-
+ment (30 months), the children’s caregiver (mostly the mother)
+completed the respective subscales of the Early Childhood Beha-
+vior Questionnaire (Putnam, Gartstein, & Rothbart, 2006) in order
+to assess children’s inhibitory control and attentional control com-
+petencies. This questionnaire contains items in a 7-point Likert-
+
+scale format that asks them to report on the frequency of particular
+behaviours in everyday situations. As parents’ answered all items,
+we calculated a sum value indicating toddler’s inhibitory control
+competencies and attentional control competencies.
+
+#
+
+Perspective-taking. At the fourth appointment (30 months), hiding
+skill was assessed with a task adopted from Flavell and colleagues
+(1978) as well as McGuigan and Doherty (2002). The task consisted
+of two sub-tasks, first the hiding and then the judgement task.2
+For the hiding task, experimenter and child sat at opposite sides
+of a table. A cardboard screen (18 cm high  23 cm wide) with an
+attached wooden base was placed between them and a teddy
+(a 10 cm  5 cm  3 cm Pooh
+toy teddy) was used as item. The
+child was then asked by the experimenter to ‘‘put the teddy on the
+table so that I don’t see him.’’ This was repeated four times, with
+varying positions of the experimenter in relation to the child’s posi-
+tion: sitting 180 opposite the child, 90 to the child’s right, 90 to
+the child’s left, and then next to the child. For each trial, the child
+was awarded one point for each trial in which the teddy was placed
+so that the screen was between the experimenter and the teddy.
+Thus the score for this perspective hiding task could range from
+0 to 4. A random sample of 30% of the valid sample were coded
+by a second coder blind to the judgement of the first coder, interra-
+ter agreement was  ¼ .95.
+
+The judgement was modelled after McGuigan and Doherty
+(2002). Overall, children received 2 trials with 4 test questions.
+On the first trial (180 trial), the experimenter (E) sat opposite of
+the child at a narrow table. The same items as in the hiding task
+were used. E put the cardboard screen broadside to herself, in such
+a way that the bear was blocked from her view, but in clear sight of
+the child. The child was asked: ‘‘Can I see the bear, now?’’ and
+‘‘Can you see the bear, now?’’ Then, the experimenter put the card-
+board screen broadside to the child, so that the bear was blocked
+from the child’s view, but in clear sight of the experimenter. Again,
+the child was asked the same questions.
+
+Depending on the trial, to be correct, children had to either nod
+or answer the question with ‘‘yes’’ or to shake their head or answer
+the question with ‘‘no’’, respectively. Coding was done from
+recordings. For each correct answer, children received a score of
+1. For each incorrect answer children received a score of 0. Thus,
+across the 2 trials, children could receive a maximum score of 4.
+Due to experimenter error or lack of cooperation, not all children
+received all trials. Consequently, only children who had received
+and answered at least 3 out of 4 questions of each subtask were
+included in the analyses and the percentage of correct answers of
+both subtasks out of all valid questions was used as the dependent
+variable. Approximately 30% of the sample were coded by a second
+coder blind to the judgement of the first coder, which yielded 100%
+interrater agreement.
+
+Verbal IQ. At the fifth appointment (48 months), we administered
+the subscales Comprehension and Similarities of the Wechsler Pre-
+school and Primary Scale of Intelligence (WPPSI-III, Petermann,
+2009, following Wechsler, 2002) to control for the impact of verbal
+IQ on the sharing task. Children’s performances in the subscales
+of the Wechsler Preschool and Primary Scale of Intelligence were
+analysed following the scheme of Wechsler (2002) to estimate the
+participants’ verbal IQ.
+
+Sharing behaviour. At the sixth appointment (60 months), sharing
+behaviour was assessed adapting a task by Fehr et al. (2008) and
+
+58
+
+International Journal of Behavioral Development 39(1)
+
+Table 1. Descriptive results of the predictor variables.
+
+Variable
+Goal encoding (7 months; n ¼ 34)
+Working memory (7 months; n ¼ 65)
+Prosocial responding (24 months; n ¼ 62)
+Distress understanding (24 months; n ¼ 62)
+Gift delay (24 months; n ¼ 70)
+Inhibitory control (30 months; n ¼ 58)
+Attentional control (30 months; n ¼ 58)
+Perspective-taking (30 months; n ¼ 64)
+Verbal IQ (48 months; n ¼ 50)
+
+Mean
+
+59.5%
+0.67
+3.8
+1.8
+3.99
+47.6
+49.2
+59%
+107
+
+SE
+
+3.5
+0.02
+0.15
+0.15
+0.24
+1.2
+0.7
+2.2
+1.7
+
+Note. The table shows the descriptive results for the predictor tasks. Goal encod-
+ing could range from 0 to 100 and Working memory from 0 to 1. Empathic
+responding was coded on a 4-point scale, Distress understanding on a 5-point
+scale, and Gift delay on a 6-point scale. Possible scores for Inhibitory control and
+Attentional control could range from 0 to 70. Perspective-taking ranged from 0
+to 100.
+
+Moore (2009). Children were prompted to think about the name of a
+friend and a disliked peer (that is, somebody they did not like to
+play with). Children were then asked to choose amongst a set of
+puppets one that represents their friend and one that represented the
+disliked peer. Each puppet was paired with a paper envelope. The
+participant was told that the envelope would go to the child whose
+was represented by the respective puppet. Additionally, the children
+themselves received an envelope. Following Moore (2009), stickers
+were used for the sharing task. The sharing task consisted of two
+types of trials. In the prosocial trials, children could choose between
+one sticker for themselves and no sticker for the other, or one
+sticker for themselves and one sticker for the other (that is, sharing
+without costs). In the sharing trials, children could choose between
+two stickers for themselves and no sticker for the other, or one
+sticker for themselves and one for the other (that is, sharing with
+costs). Each trial type was administered with each sharing partner,
+giving raise to a 2 (sharing partner: friend, disliked peer)  2 (trial
+type: prosocial, sharing) design. Children were presented with three
+blocks of trials, with each block containing all four possible trials.
+Children’s choices in the sharing task were coded online by the
+experimenter. For each trial, participants received a score of 0 if
+they chose the inequitable (1,0) or (2,0) option and a score of 1 if
+they chose the equitable (1,1) option. To assess interrater reliability,
+26 randomly chosen children were recoded by a second person from
+video recordings. Correlation analyses for the four measures were
+between r ¼ .99 and r ¼ 1, showing an excellent agreement
+between both raters.
+
+Results
+
+Descriptive results. Table 1 gives an overview on the descriptive
+results for each task.
+
+Goal encoding. To ensure that participants’ showed the expected
+effect (that is, longer looking to a switch in the actor’s goal than the
+movement path, indicating a preferential encoding of the other’s
+action goal), a one-sample t test against chance level (50%) was
+performed. It revealed that infants’ looking pattern was highly sig-
+nificant, t(33) ¼ 2.681, p ¼ .01, replicating earlier findings (Wood-
+ward, 1998).
+
+Figure 1. Mean number of trials on which participants (n ¼ 72) choose the
+equitable (1,1) option as a function of trial type (prosocial or sharing) and
+recipient (i.e., friend or disliked peer). Note that the y-axis starts with 1
+(item range: 0–3). Error bars indicate standard errors of the means.
+
+Instrumental helping. Of the 61 infants, 24 received a score of 1 and
+37 a score of 0. The number of infants showing competent helping
+(around 40%) were comparable to Warneken and Tomasello (2006)
+who reported 70% helping in the experimental trial of the clothe-
+spin task and 25% helping in the control trial of the marker task
+(ca. 45% difference).
+
+Sharing behaviour. The results of the sharing task can be seen in
+Figure 1. A repeated-measures ANOVA was conducted with the
+factors Friendship (friend, disliked peer) and Trial Type (sharing,
+prosocial). The analysis yielded a significant main effect of Friend-
+ship, F(1, 71) ¼ 54.193, p < .001, 2 ¼ .43, showing that the chil-
+dren were more inclined to share with their friends than the disliked
+peers. Moreover, the analysis yielded a significant main effect of
+Trial Type, indicating that the children shared more in the prosocial
+trials than in the sharing trials, F(1, 71) ¼ 9.252, p < .005, 2 ¼ .12.
+There was no effect of the interaction term, F < 1.
+
+Given that the different trial types (i.e., sharing and prosocial)
+for each sharing partner (friend, disliked peer) were highly corre-
+lated (both rs ¼ .70, ps < .001), we decided to build a compound
+measure for each partner by averaging the data across trial types.
+This was justified by the fact that we were interested in examining
+whether the variance in this task could be explained by variance in
+the earlier measures and the fact that both trial types shared large
+parts of their variance.
+
+Relations between the predictors and the outcome measure. To
+investigate our main research question, that is, the relation between
+the early measures of prosocial behaviour as well as the early cor-
+relates and children’s sharing, we conducted correlational analyses
+employing Pearson’s coefficients. Missing data led to pairwise
+deletion. The results of these analyses are presented in Table 2. Cor-
+relational analysis revealed significant correlations between early
+measures of social-cognitive competencies in infancy and toddler-
+hood, and preschool children’s sharing. In particular, analyses
+showed that self-control abilities (e.g., gift delay, inhibitory and
+attentional control) were positively related to preschool children’s
+sharing behaviour with friends and disliked peers. Furthermore, for
+sharing with friends distress understanding was a predictor variable,
+
+Paulus et al.
+
+59
+
+Table 2. Intercorrelations between the predictor and the outcome variables.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+1. Goal encoding (7 months)
+2. Working memory (7 months)
+3. Instrumental helping (18 months)
+4. Distress understanding (24 months)
+5. Prosocial behavior (24 months)
+6. Gift delay (24 months)
+7. Inhibitory control (30 months)
+8. Attentional control (30 months)
+9. Perspective-taking (30 months)
+
+10. Verbal IQ (48 months)
+11. Gender
+12. Sharing friend (60 months)
+13. Sharing disliked peer (60 months)
+
+–
+ .34*
+ .09
+ .16
+.22
+.08
+.27
+.06
+ .1
+.08
+ .07
+.07
+.39*
+
+–
+.14
+.10
+.00
+ .01
+ .19
+.16
+ .10
+ .16
+.12
+ .06
+.03
+
+–
+ .24
+ .04
+ .01
+ .26
+ .09
+.16
+ .11
+.32**
+ .01
+ .02
+
+–
+.19
+.00
+.19
+.21
+ .19
+ .17
+ .02
+.29*
+ .02
+
+–
+.00
+.14
+.02
+ .12
+.19
+ .10
+.15
+.20
+
+–
+.10
+ .07
+.09
+.04
+ .20
+.35**
+.15
+
+–
+.13
+.13
+.01
+ .21
+.31*
+.31*
+
+–
+ .03
+ .10
+ .13
+.28*
+.15
+
+–
+.14
+ .25
+ .12
+ .16
+
+–
+.00
+.09
+.02
+
+–
+ .08
+ .14
+
+–
+
+.35**
+
+Note. The table shows the intercorrelations between the predictor variables (rows) and the target variables (columns). For each variable, the age of assessment and the
+n’s for the zero point correlations are given in brackets. Two-tailed tests were employed to assess the significance of the correlations. ** p  .01; * p  .05.
+
+whereas sharing with disliked peers was predicted by goal encoding
+abilities.
+
+It is possible that the relations between the social-cognitive vari-
+ables (that is, goal encoding and distress understanding) and pre-
+schoolers’ sharing were mediated by self-control abilities. Indeed,
+research on the neurocognitive substrate of theory of mind has sug-
+gested that inhibitory competencies play an important role in chil-
+dren’s developing social understanding (e.g., Perner & Lang, 1999).
+Thus, we further analysed whether the relations between the social-
+cognitive competencies (that is, goal encoding, distress understand-
+ing) were independent of more general self-control abilities (cf.
+Wellman et al., 2008). Due to the small sample size of participants
+for which we had data in all tasks (e.g., only 24 children remained
+for whom we had data on the goal-encoding task, the inhibitory
+control measure, and the sharing task), we were not able to conduct
+regression analyses (cf. Draper & Smith, 1998). For this reason,
+partial correlations—controlling for children’s self-regulation abil-
+ities—were used instead of regression analyses.
+
+More concretely speaking, we controlled for these measures of
+self-control that in the previously reported correlational analyses
+had shown significant interrelations with the sharing task, that is,
+inhibitory control for sharing with friends, and inhibitory control,
+attentional control, and gift delay for sharing with the disliked peer.
+In other words, we calculated partial correlations between chil-
+dren’s distress understanding and their sharing with friends, con-
+trolling for
+inhibitory control, and between
+children’s goal encoding and their sharing with disliked peers, con-
+trolling for the impact of inhibitory control, attentional control, and
+gift delay.
+
+the impact of
+
+The partial correlation for distress understanding and sharing
+with friend, controlling for the impact of gift delay, inhibitory
+control, and attentional control, revealed a significant relation,
+r(n ¼ 45) ¼ .31, p ¼ .03. The partial correlation for goal encoding
+and sharing with the disliked peer, controlling for the impact of
+inhibitory control, revealed a significant effect, r(n ¼ 24) ¼ .40,
+p < .05.
+
+Discussion
+
+The present study examined the early development of prosocial
+behaviour by means of a longitudinal investigation. In particular,
+
+we examined the longitudinal relations between early measures
+of prosocial behaviour—such as instrumental helping and comfort-
+ing—as well as social-cognitive abilities in the first 2 years of life,
+and sharing behaviour at 5 years of age. Results suggest that early
+instances of prosocial behaviour do not relate to preschool chil-
+dren’s sharing. Yet, they provide evidence that self-regulation com-
+petencies and early social-cognitive abilities play an important role
+in the development of sharing behaviour.
+
+Overall, the study aimed at examining three interrelated ques-
+tions. The first question was whether or not there are longitudinal
+relations between early forms of prosocial behaviour present in
+infancy (that is, instrumental helping, comforting) and later forms
+of prosocial action such as sharing behaviour in the preschool age.
+A second question concerned potential relations between early self-
+regulation as well as social-cognitive abilities and preschool chil-
+dren’s prosocial behaviour. Finally, given recent findings that pre-
+schoolers’ prosocial behaviour is recipient-dependent (Moore,
+2009; Paulus & Moore, 2013) and dependent on the costs related
+to sharing (Svetlova et al., 2010), we were interested whether chil-
+dren’s increasingly differentiated prosocial behaviour would be
+predicted by the same measures. Let us consider each point turn
+by turn.
+
+First, we were interested in assessing developmental continuity
+and discontinuity between early measures of prosocial behaviour
+such as instrumental helping and later developing instances of pro-
+social action such as differentiated sharing at preschool age. That is,
+whereas previous longitudinal research on early prosocial develop-
+ment has focused on developmental stability within one particular
+measure (e.g., Hay et al., 1999; Knafo & Plomin, 2006a, 2006b),
+we examined possible developmental interrelations between differ-
+ent forms of prosocial behaviour. To avoid ceiling or floor effects,
+we assessed each task at a suitable point in development, that is,
+when they were first reliably shown and when there was sufficient
+variation in children’s performance. Interestingly, we neither found
+a relation between instrumental helping at 18 months and preschool
+children’s sharing nor between prosocial behaviour in a comforting
+task at 24 months and later sharing behaviour at 5 years. Whereas
+previous cross-sectional studies indicated that there were no inter-
+relations between the different instances of prosocial behaviour
+(Dunfield et al., 2011; Dunfield & Kuhlmeier, 2013), the present
+study is amongst the first to systematically examine longitudinal
+relations between different measures of prosocial action in the first
+
+60
+
+International Journal of Behavioral Development 39(1)
+
+years of life, indicating that the variety of prosocial actions do not
+relate to each other.
+
+How can we interpret these findings? On the one hand, one can
+assume a common underlying prosocial motive, subserving chil-
+dren’s behaviour in all prosocial tasks. Yet, given different task
+demands, these measures do not relate to each other. However,
+while we agree that the different task demands might decrease the
+potential interrelations between tasks, we should still expect at least
+some interrelations when we were to assume a common underlying
+mechanism. We therefore suggest a second interpretation:
+the
+results could suggest that different social-cognitive mechanisms
+might underlie different forms of prosocial actions. From a concep-
+tual point of view, our findings thus provide longitudinal support
+for recent proposals that the varieties of prosocial actions are based
+on partly distinct mechanisms and follow their own developmental
+pathways (e.g., Dunfield & Kuhlmeier, 2013; for a review, see Pau-
+lus, 2014). Further research is needed to examine the developmen-
+tal pathway of each prosocial action in greater detail.
+
+A second aim of the current study was an assessment of the
+social-cognitive and cognitive precursors of preschool children’s
+sharing behaviour. Here, our study revealed significant relations
+between domain-general self-control abilities as well as more spe-
+cific social-cognitive abilities, and preschoolers’ inclination to
+share with others. Relatively independent of the specific recipient,
+toddlers’ self-control competencies were important predictors for
+their later sharing behaviour. This is in line with findings and the-
+oretical proposals that self-control plays an important role in the
+development of social competence in general (e.g., Eisenberg
+et al., 2009; Kochanska et al., 2000; Rubin, Burgess, Dwyer, &
+Hastings, 2003; Steinbeis, Bernhardt, & Singer, 2012) and of pro-
+social behaviour,
+in particular (for a review, see Eisenberg,
+2000). It suggests that an important psychological mechanism in the
+development of sharing behaviour is the ability to inhibit one’s own
+behavioural tendencies, e.g. to take all of the items for oneself.
+These findings extent research on longitudinal relations between
+early delay of gratification and inhibitory control (e.g., Eigsti
+et al., 2006; Funder, Block, & Block, 1983; Shoda, Mischel, &
+Peake, 1990) to the realm of sharing behavior in preschool children
+by showing that already early interpersonal differences in self-
+control at 2 years of age are predictive for sharing behavior at
+5 years.
+
+Yet, our study revealed no relation between the early develop-
+ment of perspective-taking and preschool children’s prosocial
+behaviour. This finding could be interpreted in two ways. On the
+one hand, it corresponds to a few other studies that reported no rela-
+tion between perspective-taking abilities and prosociality (e.g.,
+Astington & Jenkins, 1995; Peterson, 1983),
+indicating that
+perspective-taking is not conceptually related to prosocial action
+(but see Eisenberg et al., 2006, for a review on a considerable num-
+ber of studies that reported relations between perspective-taking
+and prosocial behaviour). Then, it is possible that by 5 years of age,
+all children had reached the same level of perspective-taking and
+that, consequently, early differences in this ability were not predic-
+tive of later prosocial behaviour. Yet, this interpretation stands in
+contrast to findings of concurrent relations between perspective-
+taking and prosocial behaviour (cf. Eisenberg et al., 2006). On the
+other hand, potential relations between perspective-taking and pro-
+social behaviour could strongly depend on the specific aspect (of
+the rather broad concept) of perspective-taking that is assessed in
+the respective investigation. We assessed perspective-taking by
+means of a task of McGuigan and Doherty (2002), which followed
+
+the classical design of Flavell and colleagues (1978). This task
+assessed spatial perspective-taking as it examined children’s eva-
+luations of what others can see. In contrast, Eisenberg and col-
+leagues (2001), for example, reported on a relation between
+cognitive perspective-taking and prosocial behaviour. Our results
+could thus indicate that cognitive, but not perceptual, perspective-
+taking plays an important role in the development of prosocial
+behaviour. It remains a task for future research to examine the dif-
+ferent notions of perspective-taking and their relation to prosocial
+behaviour in greater detail.
+
+Our finding of specific relations between social-cognitive pre-
+cursors and preschoolers’ sharing relates to our third question. In
+particular, we were interested whether we were to find different
+developmental precursors for sharing with different recipients. In
+other words, we aimed at examining whether different psychologi-
+cal processes related to the emergence of differentiated prosocial
+behaviour.
+
+Notably, the difference between sharing with friends vs. disliked
+peers was quite substantial indicating that different processes might
+subserve these decisions (that is, sharing with friends or disliked
+peers), and that, as a consequence, the nature of the individual var-
+iation that needs to be explained is also different. The present study
+confirms previous studies, which also showed an effect of type of
+recipient on preschool- and school-aged children’s sharing beha-
+viour (Birch & Billman, 1986; Fehr et al., 2008; Moore, 2009;
+Paulus & Moore, 2013), and relates to research showing that chil-
+dren treat and reason about friends and non-friends differently
+(e.g., Bigelow, 1977; Olson & Spelke, 2008; Slomkowski & Killen,
+1992). However, whereas these previous studies have provided
+compelling evidence that preschool (and older) children treat dif-
+ferent recipients differently, the developmental pathway and the
+precise underlying psychological mechanisms of this recipient-
+dependent sharing behaviour have remained an open question.
+
+One of the most interesting findings of our study was that chil-
+dren’s inclination to share with the disliked peer was predicted by
+their goal-encoding abilities. That is, 7-month-old infants’ perfor-
+mance in the goal-encoding task following Woodward (1998) pre-
+dicted their likelihood to share resources with the disliked peer at
+5 years of age. Previous research had demonstrated that goal encod-
+ing is an important precursor ability for young children’s develop-
+ing concept of others as intentional agents with own beliefs and
+desires (Aschersleben et al., 2008). Accordingly, our finding indi-
+cates that early competences in encoding other’s goal-directed
+behaviour support the emergence of prosocial behaviour. The pres-
+ent study extents findings about concurrent relations between social
+understanding and prosocial behaviour (e.g., Guroglu et al., 2009;
+Moore et al., 1998) to very early childhood, by demonstrating that
+individual differences as early as age 7 months are predictive for
+later-developing prosocial behaviours.
+
+Interestingly, such a relation was not found for sharing with the
+friend. Yet, distress understanding selectively predicted sharing
+with the friend, but not with the disliked peer. This finding further
+supports the notion that partly different social-cognitive processes
+might underlie prosocial behaviour directed towards friends and
+towards disliked others. The relation between infants’ developing
+ability to understand others’ distress (that is, cognitive empathy)
+and their later sharing with friends could indicate that the better the
+preschool children were in anticipating their friends becoming dis-
+tressed when not being shared with, the more they shared. In other
+words, their understanding of the friend’s potential distress led
+them to be more generous, pointing to the impact of early
+
+Paulus et al.
+
+61
+
+differences in cognitive empathy on the development of prosocial
+behaviour.
+
+From a process-developmental point of view, it is of high inter-
+est to examine possible mediator effects. Given that we found inter-
+relations between 5-year-old children’s sharing behaviour, and
+distress understanding as well as goal encoding on the one hand,
+and inhibitory control as well as delay-of-gratification on the other
+hand, we investigated in greater detail whether children’s self-
+control abilities were the common underlying capacities that sub-
+served or mediated the developmental effect between distress
+understanding as well as goal encoding and children’s sharing.
+Given that distress understanding and goal encoding were indepen-
+dently (of inhibitory control and delay-of-gratification) related to
+sharing with friends and disliked peers, we can exclude that these
+effects were subserved or mediated by children’s self-control abil-
+ities. Rather, our data suggest a specific developmental pathway
+between the social-cognitive precursor variables and preschool
+children’s sharing behaviour.
+
+that
+
+This interpretation is further supported by the fact that we did
+not find positive relations between measure of general cognitive
+abilities,
+is, working memory/information processing in
+infancy and verbal IQ at the preschool age, and children’s sharing
+behaviour. This suggests that our findings of positive relations
+between early social-cognitive measures and preschool children’s
+sharing cannot be reduced to general cognitive abilities. Rather, it
+suggests that these links are specific for social-cognitive and self-
+control abilities.
+
+How should we then interpret the finding of a zero correlation
+between goal encoding and sharing with the friend? On the one
+hand, one could argue that this lack of correlation could be due
+to the fact that different social partners were employed in the differ-
+ent tasks (e.g., the mother in the distress task, a stranger in the help-
+ing task, an unknown person in the goal-encoding task). This
+variation in social partner could explain the differential associations
+between distress understanding and sharing with friends, as both
+were related to partners one has social relations to (that is, mother,
+friend); as well as goal encoding and sharing with disliked peers, as
+both relate to persons with which the child has no close relations. If
+this interpretation were true, it would suggest that from its develop-
+mental origins onwards, prosocial behaviour is quite partner-
+specific and keeps this specificity to the preschool age. Yet, this
+interpretation cannot account for all of our findings. For example,
+also in the instrumental helping task a stranger served as social part-
+ner. Nevertheless, there was no relation between goal encoding and
+instrumental helping nor between sharing with disliked peer and
+instrumental helping.
+
+We thus suggest a second interpretation. Note that previous
+interpersonal understanding between
+research has shown that
+friends is considerably higher than interpersonal understanding
+between non-friends (Kurdek & Krile, 1982). We think that through
+repeated interaction with friends, children were quite aware about
+the friends’ subjective nature (that is, their individual preferences
+and goals; Hughes & Dunn, 1998; Maguire & Dunn, 1997), so that
+their general ability to reason about the others’ intentionality had no
+impact on prosocial behaviour directed towards the friends (with
+variance mainly explained by level of empathic concern). With dis-
+liked peers, the tendency to share is low and, given generally lower
+social understanding between non-friends, whether one shares at all
+may depend on levels of social understanding (e.g., being aware, at
+all, of the others’ goals). In other words, with friends, levels of
+social understanding are high (Kurdek & Krile, 1982), and the
+
+tendency to share is high anyway, with individual variation maybe
+depending on degree of empathic concern. Assuming that early dif-
+ferences in goal encoding predict later social-cognitive abilities
+(e.g., Aschersleben et al., 2008), this could explain the relation
+between goal encoding in infancy and sharing in preschool chil-
+dren. It is also possible that the link between early goal encoding
+and later sharing is not mediated through the development of social
+understanding, but other social abilities or tendencies. For example,
+it is possible that early social-cognitive abilities relate to quality of
+peer interactions, enhancing children’s social experiences. As a
+consequence of these experiences, children could become more
+inclined to behave generously even towards disliked others. Further
+research is thus needed to examine the nature of infants’ social-
+cognitive abilities (for discussions see Uithol & Paulus, 2013;
+Woodward, 2009) and, in particular, the specific developmental
+pathway between early goal understanding and the development
+of prosocial behaviour.
+
+The present study thus joins recent findings on developmental
+continuity within social cognition from the infant age to the pre-
+school years (Wellman et al., 2008; Yamaguchi, Kuhlmeier,
+Wynn, & vanMarle, 2009). It extends previous studies by demon-
+strating for the first time a relation between tasks employed to
+assess social cognition in infancy and later prosocial behaviour,
+which was independent from general cognitive abilities such as
+inhibitory control. Although the data demonstrate a longitudinal
+relation between infant social cognition and preschool children’s
+prosocial action, the precise neurocognitive mechanisms that sub-
+serve this continuity in social-cognitive abilities need further
+investigation.
+
+While the present study informs current theorizing about the
+early development of prosocial behaviour, it also has clear limita-
+tions. Instead of examining developmental stability of one type of
+prosocial behaviour across age, the current study assessed interrela-
+tions between tasks that have usually been applied at different
+points in development, such as simple instrumental helping at 18
+months (Warneken & Tomasello, 2006), and recipient-dependent
+resource allocation at 5 years (Moore, 2009). A more comprehen-
+sive design, assessing the same tasks at the same time points, would
+allow for an extended analysis of concurrent and longitudinal
+relations.
+
+Taken together, the current study provides longitudinal evidence
+for an impact of early self-control and goal encoding abilities on
+preschoolers’ sharing behaviour. Furthermore, it shows a relation
+between distress understanding in the infant age and preschool chil-
+dren’s prosociality, pointing thus to social-cognitive precursors of
+early development of sharing behaviour.
+
+Acknowledgements
+
+We would like to thank Sabrina Krimmel, Stefanie Sabot, Kathrin
+Perzylo, and the whole Babylab team for support in data acquisition
+and coding as well as all families who participated in this study.
+
+Conflict of interests
+
+None declared.
+
+Funding
+
+The study was supported by a DFG grant So 213/27-1,2 to the last
+author.
+
+62
+
+Notes
+
+1. Although the drop-out rate for this task seems high, it is compa-
+rable to other habituation-based studies with infants that
+employed similar designs (e.g., Csibra, Gergely, Bı´ro´, Koo´s, &
+Brockbank, 1999). To check whether this high rate was selective
+with respect to our outcome measures, we performed independent-
+samples t tests comparing the sharing rates of children for which
+we had data points in the goal encoding task with the children for
+which we had no data points. These tests revealed no significant
+differences (all ps > .21). The same was true for the working
+memory task (all ps > .16), the helping task (all ps > .12), the
+measures of the comforting task (all ps > .81), the perspective-
+taking task (all ps > .54), the ECBQ measures (all ps > .55), and
+the IQ (all ps > .52).
+
+2. Piloting showed that the ‘move screen’ task as employed by
+Flavell et al. (1978) yielded performance at floor level. There-
+fore it was replaced by the judgement task described here.
+
+References
+
+Aschersleben, G., Hofer, T., & Jovanovic, B. (2008). The link between
+infant attention to goal directed action and later theory of mind abil-
+ities. Developmental Science, 11, 862–868.
+
+Astington, J. W., & Jenkins, J. M. (1995). Theory of mind development
+
+and social understanding. Cognition and Emotion, 9, 151–165.
+
+Bigelow, B. J. (1977). Children’s friendship expectations: A cognitive
+
+developmental study. Child Development, 48, 246–253.
+
+Birch, L. L., & Billman, J. (1986). Preschool children’s food shar-
+ing with friends and acquaintances. Child Development, 57,
+387–395.
+
+Blake, P. R., & McAuliffe, K. (2011). ‘‘I had so much, it didn’t seem
+fair’’: Eight-year-olds reject two forms of inequity. Cognition,
+120, 215–224.
+
+Brownell, C. A., Iesue, S. S., Nichols, S. R., & Svetlova, M. (2012).
+Mine or yours? Development of sharing in toddlers in relation to
+ownership understanding. Child Development, 84(3), 906–920.
+doi:10.1111/cdev.12009
+
+Brownell, C. A., Svetlova, M., & Nichols, S. (2009). To share or not to
+share: When do toddlers respond to another’s needs? Infancy, 14,
+117–130.
+
+Carlo, G., Knight, G. P., Eisenberg, N., & Rotenberg, K. J. (1991). Cog-
+nitive processes and prosocial behaviors among children: The role
+of affective attributions and reconciliations. Developmental Psy-
+chology, 27, 456–461.
+
+Cassidy, K. W., Werner, R. S., Rourke, M., Zubernis, L. S., & Balara-
+man, G. (2003). The relationship between psychological under-
+standing and positive social behaviors. Social Development, 12,
+198–221.
+
+Csibra, G., Gergely, G., Bı´ro´, S., Koo´s, O., & Brockbank, M. (1999).
+Goal attribution without agency cues: The perception of ‘‘pure rea-
+son’’ in infancy. Cognition, 72, 237–267.
+
+Decety, J., & Svetlova, M. (2012). Putting together phylogenetic and
+ontogenetic perspectives on empathy. Developmental Cognitive
+Neuroscience, 2, 1–24.
+
+Draper, J., & Smith, H. (1998). Applied regression analyses. New York,
+
+NY: Wiley.
+
+International Journal of Behavioral Development 39(1)
+
+Dunfield, K. A., & Kuhlmeier, V. A. (2013). Classifying prosocial
+behaviour: Children’s responses to instrumental need, emotional
+distress, and material desire. Child Development, 84, 1766–1776.
+
+Eigsti, I. M., Zayas, V., Mischel, W., Shoda, Y., Ayduk, O., Dadlani, M.
+B., . . . Casey, B. J. (2006). Predicting cognitive control from pre-
+school to late adolescence and young adulthood. Psychological Sci-
+ence, 17, 478–484.
+
+Eisenberg, N. (2000). Emotion, regulation, and moral development.
+
+Annual Review of Psychology, 51, 665–697.
+
+Eisenberg, N., Carlo, G., Murphy, B., & van Court, P. (1995). Pro-
+social development in late adolescence. Child Development, 66,
+1179–1197.
+
+Eisenberg, N., & Eggum, N. D. (2009). Empathic responding: Sympa-
+thy and personal distress. In J. Decety & W. Ickes (Eds.), The social
+neuroscience of empathy (pp. 71–83). Cambridge, MA: MIT Press.
+Eisenberg, N., & Fabes, R. (1998). Prosocial development. In N. Eisen-
+berg & W. Damon, (Series Eds.), Handbook of child psychology:
+(pp.
+Vol. 3. Social, emotional, and personality development
+701–778). New York, NY: Wiley.
+
+Eisenberg, N., Fabes, R. A., Karbon, M., Murphy, B. C., Wosinski, M.,
+Polazzi, L., . . . Juhnke, C. (1996). The relations of children’s dispo-
+sitional prosocial behavior to emotionality, regulation, and social
+functioning. Child Development, 67, 974–992.
+
+Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Prosocial devel-
+opment. In W. Damon, R. M. Lerner (Series Eds.), & N. Eisenberg
+(Vol. Ed.), Handbook of child psychology: Vol. 3. Social, emotional,
+and personality development (pp. 646–718). New York, NY: Wiley.
+Eisenberg, N., Guthrie, I. K., Murphy, B. C., Shepard, S. A., Cumberland,
+A., & Carlo, G. (1999). Consistency and development of prosocial dis-
+positions: A longitudinal study. Child Development, 70, 1360–1372.
+Eisenberg, N., Shell, R., Pasternack, J., Lennon, R., Beller, R., &
+Mathy, R. M. (1987). Prosocial development in middle childhood:
+A longitudinal study. Developmental Psychology, 24, 712–718.
+
+Eisenberg, N., Valiente, C., Spinrad, T. L., Liew, J., Zhou, Q., Losoya,
+S. H., . . . Cumberland, A. (2009). Longitudinal relations of chil-
+dren’s effortful control, impulsivity, and negative emotionality to
+their externalizing, internalizing, and co-orcurring behavior prob-
+lems. Developmental Psychology, 45, 988–1008.
+
+Eisenberg, N., Zhou, Q., & Koller, S. (2001). Brazilian adolescents’
+prosocial moral judgment and behavior: Relations to sympathy, per-
+spective taking, gender-role orientation, and demographic charac-
+teristics. Child Development, 72, 518–534.
+
+Fehr, E., Bernhard, H., & Rockenbach, B. (2008). Egalitarianism in
+
+young children. Nature, 454, 1079–1084.
+
+Flavell, J. H., Shipstead, S. G., & Croft, K. (1978). Young children’s
+knowledge about visual perception: Hiding objects from others.
+Child Development, 49, 1208–1211.
+
+Funder, D. C., Block, J. H., & Block, J. (1983). Delay of gratification:
+Some longitudinal personality correlates. Journal of Personality
+and Social Psychology, 44, 1198–1213.
+
+Garner, P. W., Jones, D. C., & Miner, J. L. (1994). Social competence
+among low-income preschoolers: Emotion socialization practices
+and social cognitive correlates. Child Development, 65, 622–637.
+
+Guroglu, B., van den Bos, W., & Crone, E. A. (2009). Fairness consid-
+erations: Increasing understanding of intentionality in adolescence.
+Journal of Experimental Child Psychology, 104, 398–409.
+
+Dunfield, K., Kuhlmeier, V. A., O’Connell, L., & Kelley, E. (2011).
+Examining the diversity of prosocial behavior: Helping, sharing,
+and comforting in infancy. Infancy, 16, 227–247.
+
+Hamann, K., Warneken, F., Greenberg, J., & Tomasello, M. (2011).
+Collaboration encourages equal sharing in children but not chim-
+panzees. Nature, 476, 328–331.
+
+Dunfield, K. A., & Kuhlmeier, V. A. (2010). Intention-mediated selec-
+
+tive helping in infancy. Psychological Science, 21, 523–527.
+
+Hastings, P. D., Rubin, K. H., & DeRose, L. M. (2005). The links
+and the
+
+inhibition, parental
+
+between gender,
+
+socialization,
+
+Paulus et al.
+
+63
+
+developmental of prosocial behavior. Merrill-Palmer Quarterly, 51,
+467–493.
+
+ability to encode actions as goal-directed. Social Development,
+23(2), 340–356. doi:10.1111/sode.12057
+
+Hauser, M. (2006). Moral minds: How nature designed a universal
+
+sense of right and wrong. New York, NY: HarperCollins.
+
+Hay, D. F. (2009). The roots and branches of human altruism. British
+
+Journal of Psychology, 100, 473–479.
+
+Liew, J., Eisenberg, N., Spinrad, T. L., Eggum, N. D., Haugen, R. G.,
+Kupfer, A., . . . Baham, M. E. (2011). Physiological regulation and
+fearfulness as predictors of young children’s empathy-related reac-
+tions. Social Development, 20, 111–134.
+
+Hay, D. F., Castle, J., Davies, L., Demetrious, H., & Stimson, C. (1999).
+Prosocial action in very early childhood. Journal of Child Psychol-
+ogy and Psychiatry, 40, 905–916.
+
+Maguire, M. C., & Dunn, J. (1997). Friendship in early childhood, and
+social understanding. International Journal of Behavioral Develop-
+ment, 21, 669–686.
+
+Hay, D. F., & Cook, K. V. (2007). The transformation of prosocial
+behavior from infancy to childhood. In C. A. Brownell & C. B.
+Kopp (Eds.), Transitions in Early Socioemotional Development:
+The Toddler Years (pp. 100–131). New York, NY: Guilford.
+
+McGuigan, N., & Doherty, M. J. (2002). The relation between hiding
+skill and judgment of eye-direction in preschool children. Develop-
+mental Psychology, 38, 418–427.
+
+Mischel, W., Shoda, Y., & Rodriguez, M. L. (1989). Delay of gratifica-
+
+Hoffman, M. L. (2000). Empathy and moral development. Implications
+for caring and justice. New York, NY: Cambridge University Press.
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion:
+Longitudinal associations with mental-state talk between young
+friends. Developmental Psychology, 34, 1026–1037.
+
+tion in children. Science, 244, 933–938.
+
+Moore, C. (2007). Understanding self and other in the second year. In
+C. A. Brownell & C. B. Kopp (Eds.), Socioemotional development
+in the toddler years: Transitions and transformations (pp. 43–65).
+New York, NY: Guilford Press.
+
+Kagan, J. (1981). The second year: Emergence of self-awareness. Cam-
+
+Moore, C. (2009). Fairness in children’s resource allocation depends on
+
+bridge, MA: Harvard University Press.
+
+the recipient. Psychological Science, 20, 944–948.
+
+Ka¨rtner, J., Keller, H., & Chaudhary, N. (2009). Cognitive and social
+influences on early prosocial behaviors in two sociocultural con-
+texts. Developmental Psychology, 46, 905–914.
+
+Moore, C., Barresi, J., & Thompson, C. (1998). The cognitive basis
+of future-oriented prosocial behavior. Social Development, 7,
+198–218.
+
+Kenward, B., & Dahl, M. (2011). Preschoolers distribute scarce
+resources according to the moral valence of recipients’ previous
+actions. Developmental Psychology, 47, 1054–1064.
+
+Kestenbaum, R., Farber, E. A., & Sroufe, L. A. (1989). Individual dif-
+ferences in empathy among preschoolers: Relation to attachment
+history. New Directions for Child and Adolescent Development,
+44, 51–64.
+
+Kienbaum, J. (2001). The socialization of compassionate behavior by
+child care teachers. Early Education and Development, 12,
+139–153.
+
+Kienbaum, J., Volland, C., & Ulich, D. (2001). Sympathy in the context
+of mother–child and teacher–child relationships. International Jour-
+nal of Behavioral Development, 25, 302–309.
+
+Killen, M., Mulvey, K. L., Richardson, C., Jampol, N., & Woodward,
+A. (2011). The accidental transgressor: Morally-relevant theory of
+mind. Cognition, 119, 197–215.
+
+Knafo, A., & Plomin, R. (2006a). Prosocial behavior from early to mid-
+dle childhood: Genetic and environmental influences on stability
+and change. Developmental Psychology, 42, 771–786.
+
+Knafo, A., & Plomin, R. (2006b). Parental discipline and affection, and
+children’s prosocial behavior: Genetic and environmental links.
+Journal of Personality and Social Psychology, 90, 147–164.
+
+Knafo, A., Zahn-Waxler, C., Van Hulle, C., Robinson, J., & Rhee, S. H.
+(2008). The developmental origins of a disposition toward empathy:
+Genetic and environmental contributions. Emotion, 8, 737–752.
+
+Kochanska, G., Murray, K., Jacques, T. Y., Koenig, A. L., & Vandege-
+est, K. A. (1996). Inhibitory control in young children and its role in
+emerging internalization. Child Development, 67, 490–507.
+
+Kochanska, G., Murray, K. T., & Harlan, E. (2000). Effortful control in
+early childhood: Continuity and change, antecedents, and implica-
+tions for social development. Developmental Psychology, 36,
+220–232.
+
+Kurdek, L. A., & Krile, D. (1982). A developmental analysis of the relation
+between peer acceptance and both interpersonal understanding and per-
+ceived social self-competence. Child Development, 53, 1485–1491.
+
+Olson, K., & Spelke, E. S. (2008). Foundations of cooperation. Cogni-
+
+tion, 108, 222–231.
+
+Over, H., & Carpenter, M. (2008). Eighteen-month-old infants show
+increased helping following priming with affiliation. Psychological
+Science, 20, 1189–1193.
+
+Paulus, M. (2014). The emergence of prosocial behavior: Why do
+infants and toddlers help, comfort, and share? Child Development
+Perspectives, 8(2), 77–81. doi:10.1111/cdep.12066
+
+Paulus, M. (2014b). The early origins of human charity: Preschoolers
+share more with poor than wealthy individuals. Frontiers in Psy-
+chology, 5, 344. doi: 10.3389/fpsyg.2014.00344
+
+Paulus, M., Ku¨hn-Popp, N., Licata, M., Sodian, B., & Meinhardt, J.
+(2013). Neural correlates of prosocial behavior in infancy: Different
+neurophysiological mechanisms support the emergence of helping
+and comforting. NeuroImage, 66, 522–530.
+
+Paulus, M., & Moore, C. (2012). Producing and understanding proso-
+cial actions in early childhood. Advances in Child Development and
+Behavior, 42, 271–305.
+
+Paulus, M., & Moore, C. (2013). The development of recipient-dependent
+sharing behavior and sharing expectations in preschool children.
+Developmental Psychology, 50(3), 914–921. doi:10.1037/a0034169
+
+Penner, L. A., Dovidio, J. F., Piliavin, J. A., & Schroeder, D. A. (2005).
+Prosocial behavior: Multilevel perspectives. Annual Review of Psy-
+chology, 56, 365–392.
+
+Perner, J., & Lang, B. (1999). Development of theory and mind and
+
+executive control. Trends in Cognitive Sciences, 3, 337–344.
+
+Peterson, L. (1983). Influence of age, task competence, and responsibil-
+ity focus on children’s altruism. Developmental Psychology, 19,
+141–148.
+
+Preston, S. D., & de Waal, F. B. M. (2002). Empathy: Its ultimate and
+
+proximate bases. Behavioral and Brain Sciences, 25, 1–20.
+
+Putnam, S. P., Gartstein, M. A., & Rothbart, M. K. (2006). Measure-
+ment of fine-grained aspects of toddler temperament: The Early
+Childhood Behavior Questionnaire. Infant Behavior & Develop-
+ment, 29, 386–401.
+
+Licata, M., Paulus, M., Thoermer, C., Kristen, S., Woodward, A., &
+Sodian, B. (2013). Mother–infant-interaction quality and infants’
+
+Radke-Yarrow, M., Zahn-Waxler, C., Barrett, D., Darby, J., King,
+R., Pickett, M., & Smith, J. (1976). Dimensions and correlates
+
+64
+
+International Journal of Behavioral Development 39(1)
+
+of prosocial behavior in young children. Child Development, 47,
+118–125.
+
+Psychological Research. Advance online publication.doi:10.
+1007/s00426-013-0519-3
+
+Reznick, J. S., Morrow, J. D., Goldman, B. D., & Snyder, J. (2004). The
+
+onset of working memory in infants. Infancy, 6, 145–154.
+
+Rheingold, H. L., Hay, D., & West, M. J. (1976). Sharing in the second
+
+Vaish, A., Carpenter, M., & Tomasello, M. (2009). Sympathy through
+affective perspective-taking and its relation to prosocial behavior in
+toddlers. Developmental Psychology, 45, 534–543.
+
+year of life. Child Development, 47, 1148–1158.
+
+Warneken, F., & Tomasello, M. (2006). Altruistic helping in human
+
+Rubin, K. H., Burgess, K. B., Dwyer, K. M., & Hastings, P. D. (2003).
+Predicting preschoolers externalizing behavior from toddler tem-
+perament, conflict, and maternal negativity. Developmental Psy-
+chology, 39, 164–176.
+
+Shaw, A., & Olson, K. R. (2012). Children disregard a source to avoid
+inequity. Journal of Experimental Psychology: General, 141, 382–395.
+Shoda, Y., Mischel, W., & Peake, P. K. (1990). Predicting adolescent
+cognitive and self-regulatory competencies from preschool delay
+of gratification: Identifying diagnostic conditions. Developmental
+Psychology, 26, 978–986.
+
+Slomkowski, C. L., & Killen, M. (1992). Young children’s conceptions
+of transgressions with friends and nonfriends. International Journal
+of Behavioral Development, 15, 247–258.
+
+Spinrad, T. L., & Stifter, C. A. (2006). Toddlers’ empathy-related
+responding to distress: Predictions from negative emotionality and
+maternal behavior in infancy. Infancy, 10, 97–121.
+
+Steinbeis, N., Bernhardt, B. C., & Singer, T. (2012). Impulse control
+and underlying functions of the left DLPFC mediate age-related and
+age-independent individual differences in strategic social behavior.
+Neuron, 73, 1040–1051.
+
+Strayer, J., & Roberts, W. (2004). Children’s anger, emotional expres-
+siveness, and empathy: Relations with parents’ empathy, emotional
+expressiveness, and parenting practices. Social Development, 13,
+229–254.
+
+Svetlova, M., Nichols, S., & Brownell, C. (2010). Toddlers’ prosocial
+behavior: From instrumental to empathic to altruistic helping. Child
+Development, 81, 1814–1827.
+
+Thoermer, C., Sodian, B., Vuori, M., Perst, H., & Kristen, S. (2012).
+Continuity from an implicit to an explicit understanding of false
+belief from infancy to preschool age. British Journal of Develop-
+mental Psychology, 30, 172–187.
+
+infants and young chimpanzees. Science, 311, 1301–1303.
+
+Warneken, F., & Tomasello, M. (2009). The roots of human altruism.
+
+British Journal of Psychology, 100, 455–471.
+
+Wechsler, D. (2002). Wechsler preschool and primary scale of intelli-
+gence – Third edition. San Antonio, TX: The Psychological
+Corporation.
+
+Wellman, H. M., & Brandone, A. C. (2009). Early intentional under-
+standings that are common to primates predict children’s later the-
+ory of mind. Current Opinion in Neurobiology, 19, 57–62.
+
+Wellman, H. M., Lopez-Duran, S., LaBounty, J., & Hamilton, B.
+(2008). Infant attention to intentional action predicts preschool the-
+ory of mind. Developmental Psychology, 44, 618–623.
+
+Wellman, H. M., & Phillips, A. T. (2001). Developing intentional
+understandings. In B. F. Malle (Ed.), Intentions and intentionality:
+Foundations of social cognition (pp. 125–148). Cambridge, MA:
+MIT Press.
+
+Woodward, A. L. (1998). Infants selectively encode the goal object of
+
+an actor’s reach. Cognition, 69, 1–34.
+
+Woodward, A. L. (1999). Infants’ ability to distinguish between purpo-
+seful and non-purposeful behaviors. Infant Behavior and Develop-
+ment, 22, 145–160.
+
+Woodward, A. L. (2013). Infant foundations of intentional understand-
+ing. In M. R. Banaji & S. A. Gelman (Eds.). Navigating the social
+world: A developmental perspective (pp. 75–80). Oxford, UK:
+Oxford University Press.
+
+Yamaguchi, M., Kuhlmeier, V. A., Wynn, K., & vanMarle, K. (2009).
+Continuity in social cognition from infancy to childhood. Develop-
+mental Science, 12, 746–752.
+
+Young, S., Fox, N. A., & Zahn-Waxler, C. (1999). The relations
+between temperament and empathy in 2-year-olds. Developmental
+Psychology, 35, 1189–1197
+
+Thompson, C., Barresi, J., & Moore, C. (1997). The development of
+future-oriented prudence and altruism in preschoolers. Cognitive
+Development, 12, 199–212.
+
+Zahn-Waxler, C., Radke-Yarrow, M., Wagner, E., & Chapman, M.
+(1992). Development of concern for others. Developmental Psy-
+chology, 28, 126–136.
+
+Uithol, S., & Paulus, M. (2013). What do infants understand of oth-
+ers’ action? A theoretical account on early social cognition.
+
+Zahn-Waxler, C., Robinson, J., & Emde, R. N. (1992). The development
+
+of empathy in twins. Developmental Psychology, 28, 1038–1047.
+
+

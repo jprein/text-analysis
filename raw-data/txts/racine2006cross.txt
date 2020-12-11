@@ -1,0 +1,1809 @@
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+British Journal of Psychology (2006), 97, 521–536
+q 2006 The British Psychological Society
+
+521
+
+The
+British
+Psychological
+Society
+
+www.bpsjournals.co.uk
+
+Cross-sectional and longitudinal relations
+between mother-child talk about conﬂict and
+children’s social understanding
+
+Timothy P. Racine1*, Jeremy I. M. Carpendale2 and
+William Turnbull2
+1University of Manitoba, Canada
+2Simon Fraser University, Canada
+
+We examined the relations between the ways 48 mothers and their 3- to 5-year-olds
+talked about a conﬂict depicted in a picture book and their children’s current and
+subsequent level of social understanding. We distinguished explanatory talk, which
+directed attention to the actions that generated the conﬂict, from non-explanatory talk,
+which discussed the conﬂict in terms of, for example, making up or saying sorry.
+Controlling for child age and overall talk by mother, explanatory talk was positively
+associated with contemporaneous social understanding. Social understanding at time
+one was also positively associated with social understanding 30 months later. These
+data suggest that dialogue about conﬂict may be helpful for 3- to 5-year old children’s
+understanding of the mental world, to the extent that it facilitates their understanding
+of particular social situations.
+
+It is now well established that children’s social cognitive development is closely related
+to aspects of their social experience (for reviews see, for example, Carpendale & Lewis,
+2004, 2006). Although the focus of much of this research has been on children’s
+understanding that beliefs can be false, which is considered an essential aspect of an
+understanding of mind (e.g. Perner, 1991), some researchers have investigated later
+developing social cognitive transitions such as coming to an interpretive understanding
+of beliefs (e.g. Carpendale & Chandler, 1996; Lalonde & Chandler, 2002). Other bodies
+of research have investigated children’s understanding of emotions (e.g. Denham,
+1998), and some have considered social understanding as constituted by an
+understanding of both emotion and belief (e.g. Dunn, Brown, Slomkowki, Tesla, &
+Youngblade, 1991).
+
+There is growing consensus that aspects of
+
+the relationships that children
+experience such as parenting (Hughes, Deater-Deckard, & Cutting, 1999; Pears &
+
+* Correspondence should be addressed to Tim Racine, Department of Psychology, University of Manitoba, 190 Dysart Rd.,
+Canada R3T 2N2 (e-mail: racine@cc.umanitoba.ca).
+
+DOI:10.1348/000712606X105714
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+522 Timothy P. Racine et al.
+
+Moses, 2003; Ruffman, Perner, & Parkin, 1999; Vinden, 2001), as well as family discourse
+about the psychological world are associated with advanced understanding of belief and
+emotion (Dunn et al., 1991; Moore, Furrow, Chiasson, & Patriquin, 1994) and may play a
+causal role in the development of children’s social understanding (Ruffman, Slade, &
+Crowe, 2002). This sort of evidence has led to a great deal of debate concerning what it
+is about social interaction and family talk about mind and emotions that facilitates the
+development of social understanding (Astington & Baird, 2005; Carpendale & Lewis,
+2004, 2006; Harris, 2005; Lohmann & Tomasello, 2003; Nelson, 1996; Nelson et al.,
+2003; Racine, 2004; Racine & Carpendale, in press; Turnbull & Carpendale, 1999).
+
+Disciplinary situations involving conﬂict between children are one context in which
+family talk may play an important role in social cognitive development. Ruffman and
+colleagues (1999) used a questionnaire to ask parents what they had done or would do
+in ﬁve different disciplinary situations. They found that parents who reported that they
+would ask their child to reﬂect on the feelings of others in disciplinary situations had
+children who were more advanced in false belief understanding than their age-mates.
+Dunn and colleagues (1991) have also suggested that disciplinary situations often
+expose children to conﬂicting perspectives that might facilitate their understanding of
+false beliefs and emotions. However, in order to beneﬁt from witnessing conﬂict,
+children would presumably need to understand such situations. We suggest that one
+way in which children learn about conﬂict is within conversation. Further, we propose
+that social interaction is beneﬁcial for social development to the extent that such
+interaction facilitates children’s understanding of particular social situations
+(Carpendale & Lewis, 2004; Carpendale, Lewis, Mu¨ller, & Racine, 2005; Racine, 2004;
+Turnbull, 2003; Turnbull & Carpendale, 1999, 2001).
+
+To assess this proposal, following Ruffman and colleagues (1999), we focus on the
+different ways that parents and their young children talk about disciplinary situations.
+One limitation of Ruffman et al.’s study, acknowledged by the authors, is a reliance on
+parental self-reports. In another study on the role of parenting in social cognitive
+development Hughes et al. (1999) utilized both observational and self-report measures
+of parenting, but these yielded conﬂicting results. In further research on this topic,
+rather than assessing general attitudes, Pears and Moses (2003) utilized a self-report
+measure on speciﬁc parenting practices during only the preceding 24 hours (the Parent
+Daily Report, Chamberlain & Reid, 1987). Still, social desirability in the above cases is a
+concern, and even if parents were being totally honest they still might not know how
+they would respond to their children in particular situations or remember exactly how
+they did respond and thus not be able to complete their report accurately.
+
+In order to build upon and extend Ruffman et al.’s study, we designed the present
+study to overcome this limitation by examining actual discussions between parents and
+their 3- to 5-year-old children. Unlike Hughes et al. (1999), our study is not concerned
+with observation of a general parental disciplinary style, but rather with the details of
+parent–child talk about a disciplinary situation and its relation to children’s social
+development. Like Dunn and colleagues (1991), we conceive of social understanding in
+a broader sense than Ruffman and colleagues (1999) in that in addition to assessing
+children’s understanding of beliefs and we also assess their understanding of emotions
+in relation to conﬂict. In particular, we investigate whether dyads differ in the extent to
+which their talk seems helpful for learning about a speciﬁc conﬂict situation. In the
+same way that Hughes and colleagues assume that a measure of parenting style reﬂects
+something about the way in which parent and child interact, we assume that a sample of
+parent–child talk reﬂects something about the dyad’s typical interaction.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+523
+
+In conceptualizing forms of talk and relationships in terms of whether or not they
+facilitate development by helping children understand situations, we draw on Piaget’s,
+(1932/1965, 1977/1995) distinction between constraint and cooperation. According to
+Piaget, relationships of constraint are based on an imbalance of power and one-sided
+respect. This means that parents may not feel obliged to fully explain the reasons for
+their position and can simply imposes their own point of view. In contrast, cooperative
+relationships are characterized by mutual respect and therefore parents will be
+motivated to achieve mutual understanding by fully explaining their position and
+attempting to understand the child’s views. Piaget argued that this form of relationship is
+best suited for the achievement of mutual understanding and the developmental of
+knowledge. We suggest that this is a fruitful framework within which to understand the
+work of Ruffman and colleagues (1999) and Dunn and colleagues (1991). Such a
+framework could also be applied to other aspects of the parent–child relationship. To
+give one example, reported relations between high and low elaborative parental talk
+and children’s autobiographical memory could be seen in this light (see, for example,
+Nelson & Fivush, 2004). That is, cooperative relationships may be typiﬁed by elaborative
+talk, whereas constraining relations may be typiﬁed by non-elaborative talk.
+
+There are, of course, different ways to assess parent–child talk and the nature of
+relationships. One approach is in-home observation. This has the advantage of
+naturalistic observation but the disadvantage that families would talk about different
+events. We argue that it is important that all the parent–child dyads talk about the same
+conﬂict because this reduces variability in parental response due to the varying nature
+of disciplinary situations. We therefore asked dyads to discuss the same series of
+drawings presented as a wordless picture book depicting a conﬂict between two
+siblings and their mother’s intervention. Thus, all dyads talked about the same event but
+because they were not constrained by text in the book it was possible to examine their
+different ways of construing the event and its resolution. We could accordingly compare
+families’ different ways of dealing with a disciplinary situation with the child’s
+independent performance on tests of social understanding.
+
+We examined aspects of the talk that might facilitate understanding of the conﬂict.
+Speciﬁcally, we distinguished forms of talk that directed attention to the actions that
+generated the conﬂict from talk that seemed to simply involve telling the child what
+should be done without necessarily leading the child to a more complete appreciation of
+the conﬂict. The ﬁrst form of talk we refer to as explanatory talk, which is talk that directs
+attention to the intentions and motivation and consequences of the actions that
+generated the conﬂict. We argue that this form of talk reﬂects a cooperative relationship in
+that it shows an attempt to help the child understand the psychological context of the
+conﬂict. For example, saying that it is not nice that one child took a sibling’s possession
+and that it is not nice that the sibling reacted by pushing, should direct the child’s
+attention to the reasons for the actions as well as the consequences for the other sibling’s
+feelings and this should help the child more completely understand the two perspectives
+in conﬂict. This ﬁts with Ruffman et al.’s (1999) ﬁnding that parents who reported talking
+to their child about the feelings of the other child when their child was involved in a
+disciplinary situation had children who were advanced in false belief understanding.
+
+We refer to the second form as non-explanatory talk because it merely imposes a
+solution, such as the story characters being told that they should say sorry or be friends
+again, without explicitly drawing the child’s attention to why the two siblings depicted in
+the picture book are in conﬂict. We argue that this form of talk reﬂects a relationship of
+constraint because adult solutions, such as ‘stop it, don’t ﬁght’, ‘say sorry’, and ‘make
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+524 Timothy P. Racine et al.
+
+friends’ are simply imposed without an attempt to ensure that the child fully understands
+the causes of the conﬂict and the thoughts and feelings of the children involved (Ruffman
+et al., 1999). There is nothing inherently negative about non-explanatory talk but it does
+seem to presuppose that an understanding of the conﬂict is already in place and may do
+little to facilitate such an understanding if it is lacking. As such we expected that
+explanatory talk would be positively associated with children’s social understanding,
+whereas non-explanatory talk would not be associated with social understanding.
+
+In this study, we investigated the cross-sectional relations between these forms of
+talk and 3- to 5-year-old children’s social understanding by assessing these children’s
+understanding of beliefs and emotions. False belief understanding was measured using
+the unexpected transfer and unexpected contents paradigms (e.g. Gopnik & Astington,
+1988; Wimmer & Perner, 1983) because these are well-established tests of children’s
+understanding of belief. For similar reasons, we used Denham’s (1986) measures of
+affective labelling and perspective-taking as our measures of emotion understanding. We
+then investigated the longitudinal relations between explanatory and non-explanatory
+talk and these children’s social understanding some 30 months later by assessing
+children’s understanding of beliefs and emotions with tasks more appropriate for that
+age group. We used Carpendale and Chandler’s (1996)
+interpretative
+understanding and Dunn’s (1995) mixed emotions test. Both of these assess later
+arriving social cognitive transitions that are appropriate for the age of this sample.
+
+test of
+
+Method
+Participants
+Forty-eight mothers and their children (24 girls, 24 boys) participated in this study when
+the children were 37 to 69 months of age (M ¼ 53:52, SD ¼ 8:82).1 A follow-up visit
+occurred on average 30 months later (range ¼ 27 – 34, SD ¼ 1:4). This was a broad
+urban community sample selected from a western Canadian city. Eighty-six per cent of
+the children were Caucasian, 10% were Asian and 4% were of African descent. Given the
+educational and employment status of parents in this study, this was a primarily middle
+class sample.2
+
+Design and procedure
+Sixty per cent of the Time 1 observational sessions were conducted in a university
+laboratory and the remainder was conducted in participants’ homes.3 Dyads were
+videotaped while they were engaged in two tasks designed to elicit talk about the
+mental world. The interaction task employed in the present article explicitly depicted a
+conﬂict that was held constant across all participants; the other interaction task did not
+
+1 Two grandmother–child dyads and six father–child dyads were excluded from analyses.
+2 Thirty-nine per cent of mothers had completed a university degree, 55% had attended a university or college, and the
+remainder had all completed high school. Eighty-one per cent of these dyads were from two-parent families. In the two-parent
+families, 35% of spouses had completed a university degree, 35% had attended a university or college, 8% had completed high
+school, and the remainder had completed elementary school. Thirty-seven per cent of the parents were employed full-time,
+46% were employed part-time, and the remainder was unemployed. In two-parent families, 91% of spouses worked full-time,
+4% worked part-time, and the remainder was unemployed.
+3 Dyads were assessed in the laboratory or at home at the mothers’ convenience because the present study involved a simple
+storybook task and the administration of straightforward protocols. There were no differences in the measures as a function of
+where the data were collected.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+525
+
+and was therefore not selected for analysis in the present article. We then assessed
+children’s false belief and emotion understanding. The order of presentation of the two
+interaction tasks and the measures of social understanding was counterbalanced for
+approximately half of the period of data collection; for the second half of the data
+collection the interaction tasks were presented before the social understanding
+measures.4 Sixty-eight per cent of the Time 2 follow-up observational sessions were
+conducted in a university laboratory and the remainder were conducted in participants’
+homes. Children were administered two Time 2 social understanding measures that
+were appropriate in complexity for the age of the children at the time of follow up,
+namely the understanding of interpretation and mixed emotion.
+
+Dyads were asked to make up a story based on a picture book without text depicting
+two children, Sarah and Billy, getting chocolate bars from their mother. Sarah immediately
+eats her chocolate bar, making a mess in the process. Billy saves his chocolate bar for later
+by hiding it under a sleeping dog. Unbeknownst to Billy, Sarah sees him hide the
+chocolate, and while he is outside playing she takes Billy’s chocolate and puts it in her
+pocket. When Billy returns to look for his chocolate, he does not ﬁnd it under the dog.
+When Sarah laughs at this, Billy gets angry, pushes Sarah off a chair, and the chocolate bar
+falls out of her pocket. At this point their mother intervenes and is shown talking to each
+child individually. The resolution of the conﬂict between the children is shown in a
+picture in which the mother is standing with the two children beside her and they are
+both smiling. It is important to note that the storybook task provides some structure so
+that all the parent–child dyads needed to talk about the same event depicted in a series of
+17 coloured drawings, yet there was no constraint on how the participants talked about
+the event. Thus, this procedure gave us an indication of the manner in which and extent
+to which these family dyads might talk about conﬂict situations while controlling to some
+degree for the content of accounts that parents and children might give. We also took into
+account overall talk by mother and overall talk by child (in words) in order to control for
+the amount of talk used in conversations about the story.
+
+Scoring
+
+Time 1 mother–child talk about conﬂict
+We transcribed the videotaped mother–child interaction, and coded transcriptions for
+the ways in which the dyads talked about Billy and Sarah’s actions and their mother’s
+intervention. Parents overwhelmingly initiated the majority of talk about the picture
+book (90% on average). There were no differences as a function of whether parent or
+child initiated the talk related to the variables under study.
+
+A research assistant coded transcripts for the presence of 50 storybook elements that
+might be helpful for understanding the entire story depicted in the picture book.
+A second research assistant coded 14 of these transcripts to establish reliability. Initially,
+a total of 309 elements were identiﬁed across the 14 transcripts, and coders agreed on
+269, for an 87% rate of agreement. After discussion, the coders agreed that 305 elements
+were present. When the 305 elements were then independently coded for who
+
+4 We were not always able to test children’s Time 1 understanding of false belief and emotion without the presence of the
+parent. Given that parents may have picked up on what the tests were assessing and may have then focussed on the mental or
+emotional states of the characters depicted in the storybook more than they normally might, we elected to discontinue
+counterbalancing midway through the study. There were no differences as a function of
+the presence/absence of
+counterbalance in the variables examined in this study.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+526 Timothy P. Racine et al.
+
+(i.e. parent or child) initiated and who produced the element, interrater reliability was
+k ¼ :77 and¼.92, respectively.
+
+The present study reports on a subset of 10 of the elements of the story related
+speciﬁcally to discussing the conﬂict between Billy and Sarah and the manner in which
+their mother dealt with it (see Table 1). The relevant sections of the storybook for
+present purposes include dialogue pertaining to: (a) Sarah taking Billy’s sweets; (b) Billy
+pushing Sarah off the chair for taking his sweets; (c) the point at which Billy and Sarah’s
+mother intervenes; and (d) the children are happy again standing by their mother.
+
+Table 1. Time 1 explanatory and non-explanatory talk about the storybook characters in conﬂict
+
+Explanatory talk
+
+It is not good/funny/nice that Sarah took Billy’s chocolate bar
+It is not good/funny that Sarah took Billy’s chocolate bar because: : :
+It is not nice that Billy pushed Sarah
+Mother says that Sarah shouldn’t take Billy’s chocolate bar
+Mother says that Billy shouldn’t push Sarah
+
+Non-explanatory talk
+
+Mother says ‘stop it, don’t ﬁght’
+Sarah and Billy tell their sides
+Sarah and Billy say sorry/should say sorry
+Sarah and Billy make friends/should make friends
+Mother tells Sarah and Billy what they should have done
+
+Talk about Billy’s, Sarah’s and the mother’s actions was coded for the degree to which
+such conversation should help a child reach an understanding of the conﬂict situation.
+Talk that seemed to draw attention to the speciﬁc details and feelings of the characters
+involved and encouraged children to think about the consequences of actions for the
+other characters was coded as explanatory talk. Talk that seemed to orient to the conﬂict
+situation in terms that were not clearly linked to Billy and Sarah’s actions, thoughts and
+feelings was coded as non-explanatory talk.
+
+In order to demonstrate the way which these two mutually-exclusive categories are
+meant to be conceived, the non-explanatory talk element ‘M tells S and B what they
+should have done’ was coded as non-explanatory because it does not specify what Sarah
+and Billy should have done and as such it may be of little value to a child who does not
+understand the conﬂict being depicted. Further, simply imposing a solution like this
+does little to direct the child’s attention to Billy and Sarah’s thoughts and feelings that
+might underlie the conﬂict and result from the conﬂict. In this sense it is similar to
+‘Mother says “stop it, don’t ﬁght”’ or ‘Sarah and Billy tell their sides’. The utterances
+‘Billy and Sarah make friends/should make friends’ or ‘say sorry/should say sorry’ may
+show that these children are in conﬂict and therefore facilitate a child’s understanding of
+conﬂict. However, consistent with Ruffman et al. (1999), we would not expect such
+utterances to be helpful because they simply impose a solution without requiring that
+children think about the consequences of actions for others. Simply put, telling children
+in conﬂict to say sorry/be friends does not necessarily help them understand their
+interlocutors’ perspective. This may be the reason that Ruffman et al. found that parents
+who report imposing these sorts of conventional solutions on their children in conﬂict
+situations have children who are less socially mature. Compare these statements with
+the explanatory items ‘Mother says that Sarah shouldn’t take Billy’s chocolate bar’,
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+527
+
+‘Mother says that Billy shouldn’t push Sarah’ and ‘It is not nice that Billy pushed Sarah’,
+wherein both Sarah’s and Billy’s actions are concretely shown to be inappropriate. In
+contrast to simply imposing a solution, directing children’s attention to the moral
+implications of Billy and Sarah’s actions should encourage them to think about the
+consequences of the actions for the others’ feelings. Indeed Ruffman et al. (1999) found
+that parents who report adopting such a strategy in their interactions with their children
+around conﬂict had children with more advanced social cognition.
+
+Total Time 1 mother–child talk about conﬂict
+Total mother talk was measured by counting the number of words uttered by the
+mother overthe course of the section of the interaction task that speciﬁcally addressed
+the conﬂict between Billy and Sarah; total child talk was measured by counting the
+number of words uttered by the child in this section of the story.
+
+Time 1 social understanding measures
+False belief understanding was measured using the unexpected transfer and unexpected
+contents tests (e.g. Gopnik & Astington, 1988; Wimmer & Perner, 1983). In the
+unexpected transfer task, children were shown a puppet (Maxi) leaving a toy in one
+location and exiting a room. While Maxi is outside, the toy is moved to a different
+location by a second puppet. Maxi returns and is about to look for the toy. Children were
+asked, ‘Where do you think Maxi will look for the toy?’ and ‘Why do you think Maxi will
+look there?’ In the unexpected contents task, children were shown a Smarties box (a
+sweet well known to Canadian children), and asked ‘What do you think is inside this
+box?’ After they had answered ‘Smarties’ or ‘candies’ they were shown that the box
+actually contained crayons. Children were then told that a puppet character named
+Mary hadn’t seen inside the box and they were asked, ‘What would Mary think is inside
+the box?’
+
+On the unexpected transfer task, children were given a point for correctly predicting
+where they thought Maxi would look for the toy and another point for correctly
+explaining why Maxi would look there. Answers that were based solely on desire were
+considered incorrect. If children were incorrect on the prediction question they were
+told where Maxi would actually look and then they were asked the explanation
+question. Thus, it was possible for children to fail the prediction question but when
+corrected to go on to explain that Maxi would look in that location because that is where
+he left it. On the unexpected contents task, after children had conﬁrmed that they
+thought the box contained Smarties (or sweets) they were given a point for correctly
+predicting what the puppet would think the box contained Smarties or sweets. This
+results in a possible maximum score of 3.
+
+To assess understanding of emotions, children were administered an expressive
+labelling task where they were asked to label the emotions depicted by drawings of a
+female face expressing one of ﬁve emotions (happy, sad, angry, afraid, surprised), and a
+receptive labelling task where children were shown these same drawings and asked to
+point to the face that expressed the given emotion. An understanding of more complex
+emotions was assessed using measures of affective perspective taking (adapted from
+Denham, 1986). In the affective perspective taking task, children were presented with
+ﬁve story cards that depicted an event requiring the child to infer a character’s emotion
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+528 Timothy P. Racine et al.
+
+from the situation described. The character’s face was blank, and the child had to select
+from ﬁve detachable faces expressing the same emotions as above.
+
+On the receptive and expressive labelling tasks, children received one point for
+reporting the correct emotion for a total possible score of 10. On the affective
+perspective taking task, children received one point for selecting the correct face and
+one point for reporting the correct emotion for a possible total score of 10.
+total possible score of 23 (a ¼ :78).
+
+All Time 1 social understanding measures were combined into a single scale with a
+
+Time 2 social understanding measures
+Children’s understanding of interpretation was assessed by presenting them with a
+series of three situations in which two puppet characters, Maxi and Mary, were each
+made to offer different, but equally legitimate,
+interpretations of the very same
+ambiguous stimuli. The three types of ambiguous stimuli used were referential, lexical
+and ﬁgural. Children were asked to explain the source of the diversity in interpretation
+and to state whether or not they could predict how another puppet would interpret the
+same ambiguous stimuli (Carpendale & Chandler, 1996).
+
+In the case of referential ambiguity, the child watched the experimenter tell two
+puppets that a sticker was hidden under a card with a picture of a big block. This
+statement was referentially ambiguous because there were three cards; two with big
+blocks, one red and one blue, and one with a small red block. Each of the two puppets
+was made to interpret the statement in one of the two possible ways; in particular, one
+puppet said that the sticker was under the big blue block, whereas the other puppet
+said that it was under the big red block. In the case of lexical ambiguity, the two puppets
+were both told to ‘wait for a ring’. Again, the two puppets endorsed two different but
+equally legitimate meanings of the word ring; namely, one puppet said he was waiting
+for a ring for his ﬁnger, whereas the other puppet said she was waiting for the telephone
+to ring. Finally, in the case of ﬁgural ambiguity, puppets were shown Jastrow’s (1900)
+classic ‘duck-rabbit’ ambiguous ﬁgure, which can be seen as either a duck or a rabbit.
+One puppet was made to claim that it was a duck, whereas the other claimed that it was
+really a rabbit. Presentation of
+the three types of ambiguous situations was
+counterbalanced.
+
+The experimenter ﬁrst ensured that the child understood both interpretations of the
+ambiguous statement about the boxes, both meanings of the ambiguous word, and
+could see both the duck and the rabbit in the ambiguous ﬁgure. When the child was
+clearly faced with the two conﬂicting interpretations of the very same stimulus, the
+experimenter asked two types of questions, an explanation question and a prediction
+question. The explanation question involved asking children why Mary and Maxi say
+two different things. This was followed up with a probe question: ‘Does it make sense
+for Mary to say one thing and Maxi to say something else?’ The prediction question
+involved asking children if they could predict how a third puppet would interpret the
+same ambiguous stimuli.
+
+Children were considered to have passed the explanation question by explaining
+that both interpretations were legitimate because of the ambiguous nature of the
+stimulus. Children failed this question if they insisted that one puppet had the correct
+interpretation and the other puppet was wrong. Passing the prediction question
+involved refusing to make a ﬁrm prediction about how another puppet might interpret
+the ambiguous stimulus and explaining that it was not possible to predict because there
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+529
+
+were two equally likely interpretations, or by making a prediction but acknowledging
+that there was no way to be completely certain. Failing involved making a ﬁrm
+prediction regarding the third puppet’s response to the ambiguous stimuli. Children
+were given one point for each correct response to the explanation question and for each
+correct response to the prediction question in the three ambiguity tasks, for a possible
+score of 6.
+
+In order to assess their understanding of mixed emotions, children were presented
+with two situations in which a child might feel two emotions of opposite valence
+(adapted from Dunn, 1995). In the ﬁrst situation, children were shown a drawing
+depicting a child about to ride a bicycle with his/her father standing nearby (the stories
+were matched for child gender). Children were told that the father was going to help the
+child ride a two-wheeled bicycle for the ﬁrst time. They were asked a prediction
+question, ‘How might Jason/Jennifer feel about riding a two-wheeled bicycle for the ﬁrst
+time?’ Children were then asked to explain why Jason/Jennifer might feel that way. If
+only one emotion was spontaneously reported, the child was then asked, ‘Is there
+anything else that Jason/Jennifer might feel at the same time?’ followed again by the
+explanation question. If the child still only reported one emotion, they were told
+‘Actually, Jason/Jennifer feels both excited and scared’ and then asked ‘Why might
+he/she feel both excited and scared about riding a two-wheeler for the ﬁrst time?’
+(Dunn, 1995).
+
+In the second story, Jason/Jennifer’s mother was to take Jason/Jennifer and his/her
+best friend to the movies but children are told that the best friend phones to say s/he
+cannot go because s/he is sick. The children are told that Jason/Jennifer will have to go
+to the movie without his/her best friend. They are then asked a predictor question,
+‘How might Jason/Jennifer feel about going to the movie without his/her best friend?’ As
+before, if only one emotion is spontaneously predicted, the children were prompted for
+an additional appropriate oppositely valenced emotion, and failing that were informed
+that Jason/Jennifer would feel both happy and sad and asked why.
+
+Children were given one point for one emotion predicted and another point for
+explaining that emotion in each story. They were given two points for two appropriate
+opposite valenced pairs of emotions predicted and two points for explaining these
+emotions in each story. Children were given a ﬁnal point for each story if they generated
+the two opposite valenced emotions spontaneously (i.e. without the prompting ‘Is
+there anything else that Jason/Jennifer might feel?’). This resulted in a possible total
+score of 10.
+total possible score of 16 (a ¼ :71).
+
+All Time 2 social understanding measures were combined into a single scale with a
+
+Results
+Tables 2 and 3 present descriptive statistics for, and two-tailed zero-order correlations,
+between all cross-sectional and longitudinal variables. Table 3 shows that there were no
+signiﬁcant zero-order associations between the control total mother talk and total child
+talk variables and Time 1 social understanding, rð47Þ ¼ 2:10 and .09 respectively, or
+Time 2 social understanding, rð47Þ ¼ :14 and 2 .08, respectively. As hypothesized, the
+associations between non-explanatory talk and Time 1, rð47Þ ¼ :18, and Time 2 social
+understanding, rð47Þ ¼ :10, were also non-signiﬁcant. Although the zero-order
+correlation between explanatory talk and Time 2 social understanding was signiﬁcant
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+530 Timothy P. Racine et al.
+
+Table 2. Descriptive statistics for Time 1 false belief understanding, emotion understanding,
+explanatory talk, non-explanatory talk, total mother talk, total child talk and Time 2 understanding of
+interpretation and mixed emotions
+
+Variables
+Time 1 (37–69 months, N ¼ 48)
+Conversational measures
+
+Explanatory talk
+Non-explanatory talk
+Mother talk
+Child talk
+
+Social understanding measures
+
+False belief
+Affective labelling
+Affective perspective taking
+
+Time 2 (61–99 months, N ¼ 48)
+Social understanding measures
+
+Interpretation
+Mixed emotions
+
+M
+
+SD
+
+Range
+
+1.71
+1.31
+681.38
+212.73
+
+1.75
+6.54
+4.71
+
+2.81
+6.25
+
+1.53
+1.13
+237.22
+120.61
+
+1.10
+2.24
+2.27
+
+1.70
+1.71
+
+0–5
+0–4
+
+246–1,371
+
+26–728
+
+0–3
+1–10
+1–10
+
+0–6
+3–10
+
+as hypothesized, rð47Þ ¼ :30, p , :05, the zero-order correlation between explanatory
+talk and Time 1 social understanding was not, rð47Þ ¼ :25. However, child age was
+associated with Time 1 social understanding, rð47Þ ¼ :52, p , :001. In addition, when
+age was controlled, the correlation between explanatory talk and Time 1 social
+understanding became signiﬁcant, prð45Þ ¼ :36, p , :05, whereas the correlation
+between non-explanatory talk and Time 1 social understanding did not, prð45Þ ¼ :21.
+In order to control for the covariances between all control (child age, total mother
+talk, total child talk) and predictor variables (explanatory talk, non-explanatory talk), we
+performed hierarchical linear regressions on Time 1 and Time 2 social understanding.
+
+Predicting Time 1 cross-sectional social understanding from Time 1 child age, total mother talk, total
+child talk, explanatory talk and non-explanatory talk
+Hierarchical regression analyses were performed to predict Time 1 social understanding
+as a function of child age, total mother talk, total child talk, explanatory talk and
+
+Table 3. Time 1 two-tailed zero-order correlations between Time 1 child age and forms of talk and
+Time 1 and Time 2 social understanding measures
+
+Social understanding
+
+Time 1 predictor variables
+
+Child age
+Mother talk
+Child talk
+Explanatory talk
+Non-explanatory talk
+Time 1 social understanding
+
+***p , :001; **p , :01; *p , :05;
+
+þ
+
+p , :10.
+
+Time 1
+
+.52***
+
+2 .10
+.09
+.25
+.18
+–
+
+Time 2
+þ
+.28
+.14
+2 .08
+.30*
+.07
+.45**
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+531
+non-explanatory talk. The model was signiﬁcant, Fð5; 42Þ ¼ 5:473, p , :001,
+accounting for 40% of the variance in children’s social understanding. Child age and
+explanatory talk were signiﬁcant predictors of Time 1 social understanding, accounting
+for 27 and 9% of the variance, respectively (see Table 4).5
+
+Conﬂict and social understanding
+
+Predicting Time 2 longitudinal social understanding from Time 1 child age, total mother talk, total
+child talk, explanatory talk, non-explanatory talk and social understanding
+Hierarchical regression analyses were performed to predict Time 2 social understanding
+as a function of Time 1 social understanding, child age, total mother talk, total child talk,
+explanatory talk and non-explanatory talk. The model was signiﬁcant, Fð6; 41Þ ¼ 3:387,
+p , :01, accounting for 33% of the variance in children’s social understanding at Time 2.
+Time 1 social understanding talk was the only signiﬁcant predictor of Time 2 social
+understanding, accounting for 8% of the variance (see Table 4).
+
+Discussion
+Previous researchers (Dunn et al., 1991; Ruffman et al., 1999) have suggested that
+exposure to conﬂict may be helpful for social understanding. We found that explanatory
+talk about a conﬂict predicted 3- to 5-year-old children’s contemporaneous social
+understanding over and above the variance it shared with age, non-explanatory talk,
+total mother talk and total child talk. We also found that social understanding at Time 1
+predicted children’s social understanding 21
+2 years later. Thus, we have presented
+evidence supportive of the view that ways of talking about conﬂict that facilitate
+understanding is cross-sectionally associated with advanced social understanding for
+3- to 5-year-old children. The former ﬁnding is consistent with the work of Ruffman and
+colleagues (1999). The fact that social understanding is associated at both time points
+gives us conﬁdence that our measures were assessing similar competencies. Although
+the total variance explained in our models is considerable (40% at Time 1 and 33% at
+Time 2), the amount of unique variance accounted for cross-sectionally by Time 1
+explanatory talk and longitudinally by Time 1 social understanding was modest (9% and
+8%), suggesting that other factors are also involved in this development. Still, these
+variables have not been linked in many studies.
+
+This is a correlational design but it is tempting to speculate about what might cause
+what. We found an association between explanatory talk when children were 3–5 years
+old and their social understanding, but although such talk was correlated with social
+understanding 30 months later, this did not account for additional variance beyond Time
+1 social understanding. It is possible that children who are more mature in terms of
+social understanding are easier to talk to in a cooperative way and so they tend to elicit
+this form of talk from their parents when they are 3–5 years old. Their level of social
+understanding is also linked to their maturity in this area some years later. However, if
+this interpretation were correct, then we should not expect explanatory talk to be a
+signiﬁcant predictor of social understanding when age is taken into account because
+low levels of such talk would be used when children are young and high levels when
+
+5 When these scales are analysed individually, the Time 1 belief and Time 1 emotion measures and the Time 2 belief measures
+are signiﬁcantly associated with Time 1 explanatory talk, but the Time 2 emotion measure was marginal. We have combined
+the scales for ease of presentation and because the reliability was adequate.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+532 Timothy P. Racine et al.
+
+t
+
+þ
+
+4
+2
+8
+0
+
+.
+
+5
+9
+9
+1
+
+.
+
+*
+1
+2
+2
+2
+
+.
+
+5
+6
+6
+1
+2
+
+.
+
+7
+0
+5
+1
+
+.
+
+9
+2
+5
+0
+2
+
+.
+
+b
+
+0
+8
+1
+
+.
+
+3
+8
+2
+
+.
+
+4
+3
+2
+2
+
+.
+
+9
+0
+2
+
+.
+
+0
+7
+0
+2
+
+.
+
+4
+6
+3
+
+.
+
+E
+S
+
+6
+4
+0
+
+.
+
+2
+0
+0
+
+.
+
+3
+0
+0
+
+.
+
+3
+2
+2
+
+.
+
+2
+0
+3
+
+.
+
+8
+9
+0
+
+.
+
+1
+0
+:
+
+,
+p
+
+1
+3
+3
+:
+
+¼
+
+,
+
+7
+8
+3
+:
+2
+3
+R
+¼
+l
+a
+t
+o
+T
+
+Þ
+1
+4
+
+B
+
+3
+5
+0
+
+.
+
+3
+0
+0
+
+.
+
+5
+0
+0
+2
+
+.
+
+1
+5
+3
+
+.
+
+0
+9
+1
+2
+
+.
+
+7
+1
+2
+
+.
+
+;
+6
+ð
+F
+
+2
+R
+D
+
+1
+2
+0
+
+.
+
+5
+6
+0
+
+.
+
+5
+4
+0
+
+.
+
+7
+3
+0
+
+.
+
+5
+0
+0
+
+.
+
+0
+8
+0
+
+.
+
+t
+
+*
+*
+*
+8
+9
+2
+4
+
+.
+
+6
+2
+6
+0
+-
+
+.
+
+8
+6
+4
+0
+
+.
+
+*
+3
+2
+4
+2
+
+.
+
+4
+5
+2
+1
+
+.
+
+–
+
+b
+
+2
+6
+0
+
+.
+
+5
+9
+2
+
+.
+
+4
+5
+1
+
+.
+
+–
+
+5
+3
+5
+
+.
+
+3
+8
+0
+2
+
+.
+
+1
+0
+0
+:
+
+,
+p
+
+,
+
+5
+9
+3
+:
+
+E
+S
+
+1
+6
+0
+
+.
+
+2
+0
+0
+
+.
+
+9
+0
+0
+
+.
+
+5
+4
+3
+
+.
+
+0
+7
+4
+
+.
+
+–
+
+¼
+
+3
+7
+4
+2
+:
+R
+5
+¼
+l
+a
+t
+o
+T
+
+Þ
+2
+4
+
+B
+
+2
+0
+0
+
+.
+
+6
+3
+8
+
+.
+
+9
+8
+5
+
+.
+
+–
+
+2
+6
+2
+
+.
+
+2
+0
+0
+2
+
+.
+
+;
+5
+ð
+F
+
+2
+R
+D
+
+6
+6
+2
+
+.
+
+6
+0
+0
+
+.
+
+3
+0
+0
+
+.
+
+5
+8
+0
+
+.
+
+3
+2
+0
+
+.
+
+–
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+l
+a
+i
+c
+o
+s
+
+1
+
+e
+m
+T
+
+i
+
+k
+l
+a
+t
+
+y
+r
+o
+t
+a
+n
+a
+l
+p
+x
+e
+-
+n
+o
+N
+
+k
+l
+a
+t
+
+y
+r
+o
+t
+a
+n
+a
+l
+p
+x
+E
+
+k
+l
+a
+t
+
+r
+e
+h
+t
+o
+M
+
+k
+l
+a
+t
+
+d
+
+l
+i
+
+h
+C
+
+e
+g
+a
+
+d
+
+l
+i
+
+h
+C
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+V
+
+.
+
+0
+1
+:
+
+,
+p
+
+þ
+
+;
+
+5
+0
+:
+
+,
+p
+*
+
+;
+
+1
+0
+:
+
+,
+p
+*
+*
+
+;
+
+1
+0
+0
+:
+
+,
+p
+*
+*
+*
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+l
+a
+i
+c
+o
+s
+
+2
+
+e
+m
+T
+
+i
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+l
+a
+i
+c
+o
+s
+
+1
+
+e
+m
+T
+
+i
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+u
+
+l
+a
+i
+c
+o
+s
+
+2
+
+i
+
+e
+m
+T
+d
+n
+a
+
+1
+
+i
+
+e
+m
+T
+r
+o
+
+f
+
+s
+e
+s
+y
+l
+a
+n
+a
+
+n
+o
+i
+s
+s
+e
+r
+g
+e
+r
+
+f
+
+o
+
+y
+r
+a
+m
+m
+u
+S
+
+.
+
+4
+
+l
+
+e
+b
+a
+T
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+533
+
+children are older. However, we found that age and explanatory make independent
+contributions at Time 1. We would argue instead that the ways in which parents talk to
+their children facilitate social development, and these children’s social development at
+Time 2 would be inﬂuenced by this relative maturity as well, presumably, by the
+continued helpful parenting style we found at Time 1. A third possibility is that both
+factors play a role in a bidirectional, transactional process of interaction. That is, parent–
+child interaction may facilitate social development, which makes more complex forms
+of interaction possible, and this interaction in turn results in further social development.
+The storybook task used in this study provides some structure so that all the parent–
+child dyads talked about the same event depicted in a series of coloured drawings, yet
+there was no constraint on how the participants talked about the event. Thus, this
+procedure generates an example of how these family dyads might talk about the sorts of
+disciplinary situations that inevitably arise in young children’s lives. However, it is likely
+that such conversations are only one aspect of the ways in which conﬂict is actually
+treated in families. Real-life conﬂict might be more dominated by emotional reactions.
+Constructing a story about another party’s conﬂict might evoke quite different reactions
+than responding to a family member who has just provoked you. Thus, we need to be
+careful about fully generalizing from a discussion of a conﬂict depicted in a story to how
+conﬂict might actually be managed within a given family. That caveat notwithstanding,
+when compared to Ruffman et al. (1999), an advantage of our method is that all families
+talked about the same event.
+
+From our theoretical perspective, we assume that one aspect of conﬂict likely to be
+helpful for children’s social development might be that some parents talk about
+particular social situations like the one depicted in our study in ways that direct their
+children’s attention to important features of the psychological world, whereas others do
+not to the same extent (Carpendale & Lewis, 2004; Carpendale et al., 2005; Racine,
+2004; Racine & Carpendale, in press; Turnbull, 2003; Turnbull & Carpendale, 1999,
+2001). Given this, a training study could be designed that is based on the present
+correlation data. A way to do so would be to explain conﬂict situations to randomly
+assigned children in either explanatory or non-explanatory terms over a series of time
+points and then assess social understanding in comparison with controls.
+
+As well as the role of relationships in social development, a second assumption of our
+perspective concerns the relations between language and social development. To
+introduce our theory we need to place it in the context of the recent debate about the
+role or roles of language in social cognitive development (see also Carpendale & Lewis,
+2004). Many approaches share the assumption of a causal psychological view of the
+mind according to which mental states casually produce behaviour (Carpendale &
+Lewis, 2004; Racine, 2004; Racine & Carpendale,
+in press). Following from this
+assumption, children are assumed to learn about the mind either through an inferential
+process of theory building (e.g. Gopnik & Wellman, 1994), a process of simulation (e.g.
+Harris, 1991), or the unfolding of a chieﬂy biological process (e.g. Baron-Cohen, 1995).
+We have clearly not designed the present study to pit these theories against one
+another in contrast to our own. Indeed, similarly we have not explicitly controlled for a
+variety of sources of variance in social understanding. For example, although our sample
+is primarily middle class, we did not quantify this and enter it as a variable in our
+regressions. Further, although we included the amount of children’s talk in our
+regressions, we did not per se have a measure of linguistic ability (e.g. Astington &
+Baird, 2005). We also did not take genotypic differences into account (e.g. Hughes et al.,
+2005). Nor have we controlled for executive function (e.g. Carlson, Moses, & Claxton,
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+534 Timothy P. Racine et al.
+
+2004) and thus cannot be sure whether explanatory talk has some broad effect on
+cognitive development that is not exclusive to social cognition. These limitations
+notwithstanding, it is still not clear that the theoretical differences between the various
+accounts of children’s social development can be resolved on strictly empirical grounds
+(Racine, 2004; Racine & Carpendale, in press). Although the more familiar social
+developmental accounts might be able to account for the ﬁndings of the present study
+to a greater or lesser degree, we conducted the present study as a demonstration of a
+way of thinking about social development that is not as well represented in the existing
+literature.
+
+The present research is based on an alternative view of how children learn about the
+mind, wherein children learn about their own minds and the minds of others through
+learning the appropriate circumstances that justify the use of words that refer to the
+psychological world – i.e. the criteria for the use of such terms (see Carpendale & Lewis,
+2004; Racine, 2004; Racine & Carpendale,
+in press; Turnbull, 2003; Turnbull &
+Carpendale, 1999, 2001). From this point of view, psychological talk is built on to the
+prior practices or patterns of human interaction in which the child participates. Talking
+with others is important because it is the major way that children are exposed to and
+learn the criteria for the use of psychological terms (Carpendale & Lewis, 2004, 2006;
+Turnbull, 2003; Turnbull & Carpendale, 1999, 2001).
+
+Harris (1996, 2005) has also argued for the importance of talk and has claimed that
+conversation facilitates the development of social understanding because in
+conversation a child is constantly reminded that other people may have different
+perspectives. On these terms, engaging in conversation would confront children with
+the fact that others differ in their perspective and the information they have. We clearly
+agree with Harris about the importance of conversation in social development.
+However, it seems that Harris conceives of conversation as primarily a means for the
+transmission of information. Although aspects of our results are consistent with Harris,
+we should clarify the differences and similarities between our position and those of
+Harris.
+
+First, we point out that conversation has many functions, only one of which is
+exchanging information (see, for example, Turnbull, 2003). More centrally, a way in
+which our approach differs from that of Harris is that we emphasize that conversations
+differ in the extent to which they facilitate mutual understanding, and, thus, the extent
+to which they facilitate social development
+(Piaget, 1932/1965, 1945/1962,
+1977/1995). In the present study, all the dyads were engaged in conversation, yet our
+ﬁndings suggest a role for different
+types of conversation in facilitating social
+development. Finally, we argued earlier that mental states are learned about in
+linguistically referenced patterns of activity, whereas Harris (1991) has argued that
+children learn about minds through a process of introspection and simulation (but see
+Racine, 2004; Racine & Carpendale, in press).
+
+In this article, we have suggested a theoretical basis for an important set of ﬁndings
+regarding the relation between the nature of parent–child interaction and children’s
+social development (Hughes et al., 1999; Pears & Moses, 2003; Ruffman et al., 1999;
+Vinden, 2001). We have reported evidence consistent with this position that replicates
+and extends the work of Ruffman and colleagues (1999) in particular. Our position is
+that understanding particular social situations is critical for developing a mature
+understanding of mind. If this is true, it follows that children’s social understanding
+should be facilitated by interaction that directs their attention to important aspects of
+the psychological world.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Conﬂict and social understanding
+
+535
+
+Acknowledgements
+This study was supported by doctoral fellowships from the Social Sciences and Humanities
+Research Council of Canada (SSHRC) and the Michael Smith Foundation for Health Research to the
+ﬁrst author and by SSHRC Standard Research Grants 410-1999-0476 and 410-2002-1416 awarded
+to the second and third authors. We thank Sherrie Atwood, Sharon Baxter, Harkirat Kaur, Andrea
+Lee, Liana Pegura and Laura Stevens for transcribing and coding the parent–child talk. We thank
+the anonymous reviewers for helpful comments on an earlier version of this article.
+
+References
+Astington, J. W., & Baird, J. (Eds.). (2005). Why language matters for theory of mind. New York:
+
+Oxford University Press.
+
+Baron-Cohen, S. (1995). Mindblindness: An essay on autism and theory of mind. Cambridge,
+
+MA: MIT Press.
+
+Carlson, S. M., Moses, L. J., & Claxton, L. J. (2004). Individual differences in executive functioning
+and theory of mind: An investigation of inhibitory control and planning ability. Journal of
+Experimental Child Psychology, 87, 299–319.
+
+Carpendale, J. I. M., & Chandler, M. (1996). On the distinction between false belief understanding
+
+and subscribing to an interpretive theory of mind. Child Development, 67, 1686–1706.
+
+Carpendale, J. I. M., & Lewis, C. (2004). Constructing an understanding of mind: The development
+of children’s social understanding within social interaction. Behavioral and Brain Sciences,
+27, 79–151.
+
+Carpendale, J. I. M., & Lewis, C. (2006). How children develop social understanding. Oxford:
+
+Blackwell.
+
+Carpendale, J. I. M., Lewis, C., Mu¨ller, U., & Racine, T. P. (2005). Constructing perspectives in the
+
+social making of minds. Interaction Studies, 6, 341–358.
+
+Chamberlain, P., & Reed, J. (1987). Parent observation and report of child symptoms. Behavioral
+
+Assessment, 9, 97–109.
+
+Denham, S. A. (1986). Social cognition, social behavior, and emotions in preschoolers: Contextual
+
+validation. Child Development, 57, 194–201.
+
+Denham, S. A. (1998). Emotional development in young children. New York: Guilford Press.
+Dunn, J. (1995). Children as psychologists: The later correlates of individual differences in
+
+understanding of emotions and other minds. Cognition and Emotion, 9, 187–201.
+
+Dunn, J., Brown, J., Slomkowki, C., Tesla, C., & Youngblade, L. (1991). Young children’s
+Individual differences and their
+
+understanding of other people’s feelings and beliefs:
+antecedents. Child Development, 62, 1352–1366.
+
+Gopnik, A., & Astington, J. W. (1988). Children’s understanding of representational change and its
+relation to the understanding of false belief and the appearance-reality distinction. Child
+Development, 59, 26–37.
+
+Gopnik, A., & Wellman, H. M. (1994). The theory theory. In L. A. Hirschfeld & S. A. Gelman (Eds.),
+Mapping the mind: Domain speciﬁcity in cognition and culture (pp. 257–293). New York:
+Cambridge University Press.
+
+Harris, P. L. (1991). The work of the imagination. In A. Whiten (Ed.), Natural theories of mind
+
+(pp. 283–304). Oxford: Blackwell.
+
+Harris, P. L. (1996). Desires, beliefs, and language. In P. Carruthers & P. K. Smith (Eds.), Theories of
+
+theories of mind (pp. 200–220). Cambridge: Cambridge University Press.
+
+Harris, P. L. (2005). Conversation, pretence, and theory of mind. In J. W. Astington & J. Baird (Eds.),
+Why language matters for theory of mind (pp. 70–83). New York: Oxford University Press.
+Hughes, C., Deater-Deckard, K., & Cutting, A. L. (1999). Speak roughly to your little boy? Sex
+differences in the relations between and preschoolers’ understanding of mind. Social
+Development, 8, 143–160.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+536 Timothy P. Racine et al.
+
+Hughes, C., Jaffee, S. R., Happe´, F., Taylor, A., Caspi, A., & Mofﬁtt, T. E. (2005). Origins of individual
+
+differences in theory of mind: From nature to nurture? Child Development, 76, 356–370.
+
+Jastrow, J. (1900). Fact and fable in psychology. Boston: Houghton-Mifﬂin.
+Lalonde, C. E., & Chandler, M. J. (2002). Children’s understanding of interpretation. New Ideas in
+
+Psychology, 20, 163–198.
+
+Lohmann, H., & Tomasello, M. (2003). The role of language in the development of false belief
+
+understanding: A training study. Child Development, 74, 1130–1144.
+
+Moore, C., Furrow, D., Chiasson, L., & Patriquin, M. (1994). Developmental relationships between
+
+production and comprehension of mental terms. First Language, 14, 1–17.
+
+Nelson, K. (1996). Language in cognitive development: The emergence of the meditated mind.
+
+New York: Cambridge University Press.
+
+Nelson, K., & Fivush, R. (2004). The emergence of autobiographical memory: A social cultural
+
+developmental theory. Psychological Review, 111, 486–511.
+
+Nelson, K., Skwerer, D. P., Goldman, S., Henseler, S., Presler, N., & Walkenfeld, F. F. (2003).
+Entering a community of minds: An experiential approach to theory of mind. Human
+Development, 46, 24–46.
+
+Pears, K. C., & Moses, L. J. (2003). Demographics, parenting, and theory of mind in preschool
+
+children. Social Development, 12, 1–20.
+
+Perner, J. (1991). Understanding the representational mind. Cambridge, MA: MIT Press.
+Piaget, J. (1962). Play, dreams and imitation in childhood. New York: Norton. (Original work
+
+published 1945).
+
+Piaget, J. (1965). The moral judgment of the child. New York: The Free Press. (Original work
+
+published 1932).
+
+Piaget, J. (1995). Sociological Studies. London: Routledge. (Original work published 1977).
+Racine, T. P. (2004). Wittgenstein’s internalistic logic and children’s theories of mind. In J. I. M.
+Carpendale & U. Mu¨ller (Eds.), Social interaction and the development of knowledge
+(pp. 257–276). Mahwah, NJ: Erlbaum.
+
+Racine, T. P., & Carpendale, J. I. M. (in press). The embodiment of mental states. In W. F. Overton,
+U. Mu¨ller, & J. Newman (Eds.), Body in mind, mind in body: Developmental perspectives on
+embodiment and consciousness. Mahwah, NJ: Erlbaum.
+
+Ruffman, T., Perner, J., & Parkin, L. (1999). How parenting style affects false belief understanding.
+
+Social Development, 8, 395–411.
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation between children’s and mother’s mental
+
+state language and theory-of-mind understanding. Child Development, 73, 734–751.
+
+Turnbull, W. (2003). Language in action: Psychological models of conversation. New York:
+
+Psychology Press.
+
+Turnbull, W., & Carpendale, J. I. M. (1999). A social pragmatic model of talk: Implications for research
+
+on the development of children’s social understanding. Human Development, 42, 328–355.
+
+Turnbull, W., & Carpendale, J. I. M. (2001). Talk and the development of social understanding.
+
+Early Education and Development, 12, 455–477.
+
+Vinden, P. G. (2001). Parenting attitudes and children’s understanding of mind: A comparison of
+
+Korean-American and Anglo-American families. Cognitive Development, 16, 793–809.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and the constraining
+function of wrong beliefs in young children’s understanding of deception. Cognition, 13,
+103–128.
+
+Received 10 November 2004; revised version received 17 December 2005
+
+

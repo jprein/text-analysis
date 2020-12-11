@@ -1,0 +1,4455 @@
+Developmental Psychology
+2017, Vol. 53, No. 3, 450 – 462
+
+0012-1649/17/$12.00
+
+© 2016 American Psychological Association
+http://dx.doi.org/10.1037/dev0000260
+
+Scientific Thinking in Elementary School: Children’s Social Cognition and
+
+Their Epistemological Understanding Promote Experimentation Skills
+
+Christopher Osterhaus
+
+Freiburg University of Education and University of
+
+Wisconsin—Madison
+
+Susanne Koerber
+
+Freiburg University of Education
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Beate Sodian
+
+Ludwig-Maximilians-University of Munich
+
+Do social cognition and epistemological understanding promote elementary school children’s experi-
+mentation skills? To investigate this question, 402 children (ages 8, 9, and 10) in 2nd, 3rd, and 4th grades
+were assessed for their experimentation skills, social cognition (advanced theory of mind [AToM]),
+epistemological understanding (understanding the nature of science), and general information-processing
+skills (inhibition, intelligence, and language abilities) in a whole-class testing procedure. A multiple
+indicators multiple causes model revealed a significant influence of social cognition (AToM) on
+epistemological understanding, and a McNemar test suggested that children’s development of AToM is
+an important precursor for the emergence of an advanced, mature epistemological understanding.
+Children’s epistemological understanding, in turn, predicted their experimentation skills. Importantly,
+this relation was independent of the common influences of general information processing. Significant
+relations between experimentation skills and inhibition, and between epistemological understanding,
+intelligence, and language abilities emerged, suggesting that general information processing contributes
+to the conceptual development that is involved in scientific thinking. The model of scientific thinking that
+was tested in this study (social cognition and epistemological understanding promote experimentation
+skills) fitted the data significantly better than 2 alternative models, which assumed nonspecific, equally
+strong relations between all constructs under investigation. Our results support the conclusion that social
+cognition plays a foundational role in the emergence of children’s epistemological understanding, which
+in turn is closely related to the development of experimentation skills. Our findings have significant
+implications for the teaching of scientific thinking in elementary school and they stress the importance
+of children’s epistemological understanding in scientific-thinking processes.
+
+Keywords: scientific thinking (scientific reasoning), social cognition, epistemological understanding,
+nature of science (NOS), elementary school
+
+Supplemental materials: http://dx.doi.org/10.1037/dev0000260.supp
+
+To understand the difference between a conclusive and an
+inconclusive experiment, to be able to interpret complex patterns
+of data, or to understand that science is a quest for knowledge are
+just few of the important scientific-thinking skills that enable us to
+intentionally seek an understanding of our environment (Kuhn,
+
+This article was published Online First December 15, 2016.
+Christopher Osterhaus, Department of Psychology, Freiburg University
+of Education, and Wisconsin Center for Education Research, School of
+Education, University of Wisconsin—Madison; Susanne Koerber, Depart-
+ment of Psychology, Freiburg University of Education; Beate Sodian,
+Department of Psychology, Ludwig-Maximilians-University of Munich.
+
+We are grateful to all research assistants for their help in the data
+collection, as well as to all teachers, children, and parents for their friendly
+collaboration and support of this research.
+
+Correspondence concerning this article should be addressed to Christo-
+pher Osterhaus, Wisconsin Center for Education Research, School of
+Education, University of Wisconsin—Madison, 1025 West Johnson Street,
+Madison, WI 53706. E-mail: costerhaus@wisc.edu
+
+450
+
+2011). Although an increasing body of research suggests that
+relevant precursors of scientific thinking already emerge in infancy
+(see, e.g., Gopnik et al., 2004; Sobel, Tenenbaum, & Gopnik,
+2004), significant advances in children’s scientific-thinking skills
+occur in and around elementary school age (Koerber, Mayer,
+Osterhaus, Schwippert, & Sodian, 2015; Piekny & Maehler, 2013),
+where a broad range of advanced, more mature abilities first
+emerges (for a review, see Zimmerman, 2007).
+
+Experimentation skills have traditionally been the hallmark of
+research on scientific thinking (e.g., Bullock & Ziegler, 1999;
+Case, 1974; Chen & Klahr, 1999; Inhelder & Piaget, 1958; Kuhn
+et al., 1995). Using diverse tasks—ranging from hands-on over
+choice and selection tasks to interviews, researchers have assessed
+children’s ability to design controlled experiments across a wide
+range of domains (e.g., physics, mechanics, earth science, psychol-
+ogy, etc.). In these tasks, children need to demonstrate that they
+master the so-called control of variables strategy, which demands
+that controlled experiments only vary the focal variable while
+holding constant all nonfocal variables (see, e.g., Kuhn et al.,
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+451
+
+1995). Whereas studies indicate that usually only few young
+elementary school children solve these tasks correctly (see, e.g.,
+Bullock & Ziegler, 1999), around 65% of fourth-graders (10-year-
+olds) prefer controlled over confounded experiments when they
+are allowed to choose an experiment that can be used to test a
+specific hypothesis (Bullock, Sodian, & Koerber, 2009).
+
+Influences of Scientific Thinking: General Information
+
+Processing and Epistemological Understanding
+
+Advances in experimentation skills in particular, and in scien-
+tific thinking in general, have been attributed to influences on two
+broad levels, which are (a) children’s development of increased
+general information-processing skills (e.g., Klahr, 2000) and (b)
+their development of a conceptual understanding of the construc-
+tive nature of the knowing process (e.g., Carey & Smith, 1993;
+Kuhn, 2011). Evidence that supports the hypothesis that increased
+general information-processing skills promote scientific thinking
+comes from a growing number of research studies that reveal close
+relations between interindividual differences in scientific thinking
+and children’s general cognitive abilities, such as their inhibition,
+intelligence, or language skills (e.g., Bullock et al., 2009; Koerber
+et al., 2015; Kwon & Lawson, 2000; Mayer, Sodian, Koerber, &
+Schwippert, 2014; van der Graaf, Segers, & Verhoeven, 2016).
+
+For instance, a recent large-scale study by Koerber et al. (2015)
+showed that elementary school children’s scientific thinking was
+significantly related to their intelligence and language abilities,
+which together explained a considerable amount of the variance
+that was found in a comprehensive measure of elementary school
+scientific thinking in Grades 2 to 4. Findings from Kwon and
+Lawson (2000) in adolescence, in addition, suggest a firm associ-
+ation between inhibition and experimentation skills, supporting the
+hypothesis that the use of adequate experimentation strategies may
+require reasoners to inhibit their spontaneous desire to produce a
+positive outcome in favor of a thorough test of the given hypoth-
+esis (Amsel et al., 2008; Kuhn & Franklin, 2006; Kuhn & Pease,
+2006). Although the evidence from both the Koerber et al. (2015)
+and the Kwon and Lawson (2000) study, as well as from several
+other studies (e.g., Bullock et al., 2009; Mayer et al., 2014; van der
+Graaf et al., 2016), highlights the importance of increased general
+information-processing skills in children’s development of scien-
+tific thinking, studies of interindividual differences in scientific
+thinking often leave a considerable amount of variance unex-
+plained when only predictors on the level of general information
+processing are included.
+
+Social Cognition and Scientific Thinking
+
+Many theorists have argued that a reference to general informa-
+tion processing alone does not allow to fully explain advances in
+children’s scientific thinking (e.g., Kuhn, Cheney, & Weinstock,
+2000; Sodian & Bullock, 2008). Rather, they suggest, children
+need to develop an epistemological understanding and an appre-
+ciation of the constructive nature of knowledge acquisition. This
+understanding entails an appreciation of the nature of science
+(NOS), which involves a conceptual understanding of the nature of
+knowledge (conditions of knowing), as well as an appreciation of
+the broad epistemic concepts that are relevant in science, such as
+for instance theory, hypothesis, evidence, or falsification (see, e.g.,
+
+Koerber, Osterhaus, & Sodian, 2015). All these aspects of NOS
+require that children understand the distinction between ideas and
+states of the world (Carey, Evans, Honda, Jay, & Unger, 1989),
+that is, they have to understand that hypothesis and evidence are
+two epistemologically distinct categories that inform each other,
+but which do not need to coincide (Kuhn, 2011).
+
+Children acquire the most fundamental prerequisite for the
+emergence of this understanding already before they enter elemen-
+tary school, around the age 4, when they develop an initial theory
+of mind, which allows them to understand that mental states are
+constructed by an active subject (Carpendale & Chandler, 1996;
+Kuhn, 2000). From this point on, children understand that beliefs
+may differ in content from reality. Once they are able to make this
+distinction (between beliefs and reality), they are also able to
+understand how empirical evidence can be brought to bear on
+hypothetical beliefs. Studies of false belief understanding in self
+and others indicate that a conceptual grasp of one’s own epistemic
+states develops around the same time as the ability to infer others’
+epistemic states, and is supported by a common conceptual system
+(Wellman, Cross, & Watson, 2001).
+
+There is reason to assume that later developing social cognition
+and advanced theory of mind (AToM), which fully emerges in
+elementary school age (Osterhaus, Koerber, & Sodian, 2016; for a
+review, see Miller, 2009), are conceptually closely related to the
+epistemological understanding involved in NOS. Specifically, it
+has been suggested that children need to acquire an AToM before
+they can understand that hypotheses (beliefs) are informed not
+directly by evidence but rather are supported by a number of
+reasons (our interpretation of evidence or other beliefs, which, e.g.,
+may be drawn from the specific cultural background; see Asting-
+ton, Pelletier, & Homer, 2002). This understanding requires the
+representation of higher order beliefs and an appreciation of the
+recursive nature of mental states (Perner, 1988), which are two
+aspects that are crucially involved in AToM cognition (Miller,
+2009). It thus seems likely that these abilities are foundational for
+the emergence of children’s epistemological understanding and
+their grasp of the hypothesis– evidence relation, which is critically
+involved in NOS (see, e.g., Carey & Smith, 1993).
+
+According to this hypothesis, children who have not acquired
+the ability to represent higher order beliefs and who do not under-
+stand the recursive nature of mental states will be less likely to
+reveal a mature epistemological understanding: Specifically, they
+will be less likely to recognize that the truthfulness of a hypothesis
+depends on the collection of individual beliefs that support it; they
+will not appreciate that these beliefs need not exclusively be based
+on evidence, but that they can also be drawn from a framework
+theory or be grounded in the specific sociocultural context; and
+finally, they will not immediately understand falsification, which
+requires understanding that hypotheses are disconfirmed by true
+beliefs that state the opposite of the initial belief.
+
+Evidence that supports the hypothesis that children’s AToM is
+related to their development of an epistemological understanding
+comes from a study by Astington et al. (2002), who investigated
+the relation between children’s performance on two second-order
+false-belief tasks (AToM) and two evidence tests (epistemological
+understanding) in a sample of 5- to 7-year-olds. In one of the
+second-order false-belief tasks, for instance, Astington and col-
+leagues presented children with a story about a Protagonist A who
+secretly displaces an object, an action that is observed by a second
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+452
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Protagonist B (Protagonist A does not want Protagonist B to know
+about the displacement of the object, and Protagonist A does not
+know that Protagonist B observes her while she displaces the
+object). The test question asked children where Protagonist A
+thinks that Protagonist B will look for the object. The evidence
+tasks tested children for their ability to reason about evidence, and
+specifically, children were asked about the physical cause of an
+event and about a person’s evidence for it (e.g., someone spilling
+water and the floor being wet). To solve the evidence tasks
+correctly, children needed to successfully distinguish between
+cause and evidence, revealing an understanding of the differenti-
+ation between these two epistemologically distinct entities. Asting-
+ton et al.’s results indicated that AToM (here second-order false-
+belief understanding) was indeed significantly related to children’s
+epistemological understanding (here performance on the evidence
+test). This was true even when the influences of general language
+and nonverbal abilities were accounted for. Whereas the study by
+Astington et al. (2002) thus shows that children’s AToM is sig-
+nificantly related to their understanding of evidence, which is a
+relevant aspect of children’s epistemological understanding, there
+is hitherto no study that investigated whether children’s general
+AToM is related to their broader epistemological understanding
+and their general views on NOS, which involve broader epistemic
+concepts such as theory, inference, or falsification.
+
+Epistemological Understanding and Scientific Thinking
+
+Several theorists have suggested that children’s epistemological
+understanding is closely related to their experimentation skills
+(e.g., Kuhn, 2011). Evidence in favor of this hypothesis comes
+from a number of training studies on children’s experimentation
+skills (e.g., Strand-Cary & Klahr, 2008) that revealed the impor-
+tance of including instruction strategies targeted at children’s
+conceptual understanding of experimentation, analysis, or infer-
+ence. Further evidence that points to the importance of children’s
+epistemological understanding for their experimentation skills
+comes from a study by Sodian, Thoermer, Kircher, Grygier, and
+Günther (2002) who, in accordance with this hypothesis, observed
+more adequate experimentation strategies in fourth-graders after
+children had received an intervention that promoted their episte-
+mological understanding. Specifically, the curricular intervention
+that Sodian and her colleagues used addressed children’s views on
+NOS, and it sought to foster their understanding of the relation
+between hypotheses and evidence. Children were instructed about
+the goals of science, and they learned that the purpose of science
+is to construct knowledge, and that scientists conduct experiments
+to find deeper explanations for observed phenomena (see also
+Carey et al., 1989). Interestingly, and despite the fact that exper-
+imentation strategies were not explicitly addressed in the interven-
+tion, the increase in adequate, systematic experimentation that
+Sodian and her colleagues observed from pre- to posttest was
+significant: While only 35% of all children in the treatment group
+chose an adequate experiment prior to the intervention, this per-
+centage increased to 65% on posttest, clearly supporting the hy-
+pothesis that promoting children’s understanding of the NOS is not
+only reflected by more mature views on NOS, but also that
+beneficial effects emerge for experimentation skills. Whereas the
+literature on training studies on experimentation thus highlights the
+importance of a mature epistemological understanding for promot-
+
+ing children’s experimentation skills, little is hitherto known about
+the relation between interindividual differences in these two con-
+structs across different age groups in elementary school.
+
+The Present Study
+
+The present study, therefore, investigates whether AToM and
+NOS promote children experimentation skills in a broad range of
+age groups in elementary school. Specifically, we investigate (a)
+whether AToM is, as hypothesized, an important precursor of
+children’s broad epistemological understanding (NOS);
+(b)
+whether interindividual differences in NOS relate to children’s
+experimentation skills; and (c) whether the potentially emerging
+relations between AToM, NOS, and experimentation skills are
+independent of the influences of general information processing. In
+line with findings from Sodian et al. (2002), who showed a
+significant influence of NOS on experimentation skills in fourth-
+graders, we expect to find a substantial relation between these two
+aspects of scientific thinking (see Figure 1 for a summary of the
+hypotheses of this study). In addition, we expect that AToM will
+be related to NOS, and that AToM will be a significant precursor
+of children’s epistemological understanding (NOS). In accordance
+with findings from Kwon and Lawson (2000) in adolescence, we
+expect to find a significant relation between experimentation and
+inhibition, but not between inhibition and NOS (see Mayer et al.,
+2014, for a finding of nonsignificant relation between inhibition
+and a scientific-thinking measure that included many items on
+NOS). Finally, we expect the data to reveal significant relations
+between intelligence, language abilities, and NOS. We expect
+these general information-processing variables to have a stronger
+influence on NOS than on experimentation skills because NOS not
+only requires the acquisition of conceptual knowledge but, unlike
+experimentation strategies, it also involves knowledge about spe-
+cific terminology, which may be easier to acquire for children with
+high general abilities. We tested these hypotheses in a sample of
+402 elementary school children in Grades 2, 3, and 4 (8-, 9-, and
+
+Figure 1. Theoretical model of elementary school scientific thinking, and
+influences of social cognition (advanced theory of mind [AToM]), episte-
+mological understanding (nature of science), and general information pro-
+cessing (inhibition, intelligence, and language abilities). See the online
+article for the color version of this figure.
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+453
+
+10-year-olds) who were tested for their experimentation skills,
+their social cognition (AToM), epistemological understanding
+(NOS), and their general information-processing skills (inhibition,
+intelligence, and language abilities) in a whole-class testing pro-
+cedure.
+
+Method
+
+Participants
+
+Participants were 402 second-, third-, and fourth-graders (203
+girls). There were 124 second-graders (M ⫽ 8 years 3 months,
+SD ⫽ 9 months; 64 girls), 135 third-graders (M ⫽ 9 years 4
+months, SD ⫽ 7 months; 62 girls), and 143 fourth-graders (M ⫽ 10
+years 2 months, SD ⫽ 9 months, 77 girls). We recruited the
+children from 25 classrooms from mostly middle-class schools in
+Germany. These schools participated in a larger project on cogni-
+tive development in elementary school (Osterhaus, Koerber, &
+Sodian, 2015, 2016). Twenty-eight percent of all children spoke at
+least one language other than German at home. Parents’ written
+consent was obtained for all children. Data were collected from
+June 2013 to July 2013.
+
+Materials and Procedure
+
+The children were tested in a whole-class testing procedure for
+their experimentation skills, their epistemological understanding
+social cognition (AToM), and their general
+(NOS),
+information-processing skills (inhibition,
+intelligence, and lan-
+guage skills).
+
+their
+
+Experimentation skills. Children’s experimentation skills
+were assessed with an inventory that comprises 11 fictitious ex-
+periments in artificial contexts, each containing a design error that
+
+violates the demands of experimental contrast or experimental
+control (e.g.,
+lack of a control group, no premeasure in a
+pre–post design, or a missing control of nonfocal variables; for
+an example, see Figure 2; for the full item set, see the online
+supplement; see also Bullock et al., 2009; Osterhaus, Koerber,
+& Sodian, 2015). On each of the items, children have to indicate
+whether they agree with each of three statements: two of them
+give a justification of why the experiment described in the item
+is good, one of them explains why it is not, indicating the
+design error in question.
+
+Items were coded dichotomously, and children only obtained a
+correct score for the entire item when they selected the correct
+answer option and rejected the two incorrect ones. The instrument
+has been shown to be a valid indicator of children’s experimenta-
+tion skills (as compared to an interview measure and several other
+widely used experimentation tasks), and a Rasch analysis indicated
+good item fit indices for all 11 items and a good reliability
+(Cronbach’s ␣ ⫽ .72; Osterhaus et al., 2015).
+
+Epistemological understanding (NOS). Children’s episte-
+mological understanding and their views on NOS were assessed
+using five items that tapped children’s understanding of the
+nature of (a) theories (Items 1 and 2), (b) the influences of
+cultural framework theories (Item 3), (c) the role of basic
+assumptions in science (Item 4), and (c) falsification (Item 5).
+All five items address children’s understanding of the relation
+between hypotheses or theories and evidence (see Kuhn, 2011),
+and each item contains three answers that children have to agree
+or disagree with. These answers correspond to three compe-
+tence levels, which are defined as naïve,
+intermediate, and
+advanced (see Koerber et al., 2015).
+
+Item 1 (nature of theories) asks children to indicate whether three
+statements are each a good example of a theory (see Figure 3). Only
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Figure 2. Sample item for the assessment of experimentation strategies. Adapted with permission from
+“Children’s Understanding of Experimental Contrast and Experimental Control: An Inventory for Primary
+School” by C. Osterhaus, S. Koerber, & B. Sodian, 2015, Frontline Learning Research, 3, p. 60. Copyright,
+2015, by the European Association for Research on Learning and Instruction. See the online article for the color
+version of this figure.
+
+454
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+the advanced level (“Simon believes that children get bad grades
+because they do not do their homework”) presents children with a
+theory that allows for a full evaluation of the supporting belief.
+While being true statements, the naïve and intermediate level
+(“Lucas believes that 1 ⫹ 1 ⫽ 2 because every little child knows
+this,” and “Marc believes that the earth rotates because he has a
+globe at home,” respectively) are not testable beliefs.
+
+Item 2 (nature of theories) tests whether children understand that
+theories are not immediately given up when evidence is presented
+that may contradict the initial theory, but that rather reasoners will
+try to find an explanation that can justify the occurrence of the
+counterevidence, allowing them to maintain the initial theory. To
+test for this understanding, the item asks children to evaluate three
+possibilities of how a girl with a given theory (“If you study hard,
+you get good grades”) will react to counterevidence (“This boy,
+Paul, says he does not study hard, but nonetheless he gets good
+grades”). Only the advanced answer comprises an explanation that
+allows the protagonist to fully maintain her initial theory (“Paul
+secretly does study”). The other two answers options (“Paul is
+super smart, he does not need to study” and “The exam was too
+easy”) reflect answers that are not fully theory-conform but rather
+describe exceptions to the initial theory. Note that all three answer
+options were equally likely (i.e., no information was given about
+whether or not Paul is smart or lying, or whether the exam was
+easy or difficult). Thus all three answer options differ substantially
+in the degree to which they allow the story protagonist to maintain
+her initial theory.
+
+Item 3 (frameworks theories) presents children with a fictitious
+encounter between a medieval and a modern-day scientist. This
+item is based on work by Sodian, Carey, Grosslight, and Smith
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Figure 3. Sample item for the assessment of nature of science (Item 1).
+See the online article for the color version of this figure.
+
+(1992), and it was drawn from a study by Koerber et al. (2015).
+Specifically, the item tests whether children understand that hy-
+potheses are not only supported by evidence, but that they can also
+obtain support from cultural beliefs, which, in addition, may in-
+fluence the interpretation of evidence (see Figure 4).
+
+Item 4 (role of basic assumptions) probes children’s understand-
+ing of the potential influences of scientists’ basic assumptions on
+their interpretation of evidence. Children are asked to indicate
+whether scientists can make mistakes (naïve answer: “Scientists
+know a lot; therefore, they do not make mistakes”; intermediate
+answer: “Sometimes they use instruments that do not work; then
+they make mistakes,” and advanced answer: “Their basic assump-
+tions can be wrong”).
+
+Item 5 (falsification) tests whether children understand the su-
+periority of falsification over verification and over strategies aimed
+at the production of an effect (see Figure 5).
+
+Items were coded as naïve (0), intermediate (1), or advanced (2);
+decisive for the final item score was the lowest level accepted. The
+reliability for the five items was low (Cronbach’s ␣ ⫽ .45). Prior
+studies in which these items were used, however, revealed that
+these items adequately tap children’s scientific-thinking skills, as
+revealed by several Rasch analyses (see Koerber, Mayer, et al.,
+2015; Mayer et al., 2014). In addition, Items 3 and 5 were vali-
+dated in a study which revealed a good convergence between
+children’s performance on the paper-and-pencil version and their
+understanding as revealed in an interview (see Koerber et al.,
+2015).
+
+Social cognition (AToM). Children’s AToM was measured
+with seven items that assess their “social reasoning” (see Oster-
+haus et al., 2016). These items tap children’s understanding of the
+recursive nature of mental states, and they include various, meth-
+odologically distinct task. Specifically, we used three items on
+second- and higher order false belief understanding (Astington et
+al., 2002; Liddle & Nettle, 2006), one item from Happé’s (1994)
+Strange Stories, and four items from the Reading the Mind in the
+Eyes Test (Baron-Cohen, Wheelwright, Hill, Raste, & Plumb,
+2001).
+
+The second-order false-belief item is based on a task designed
+by Astington et al. (2002), which is described in the introduction.
+In this task, children are presented with a cover story about a
+protagonist who displaces an object, an action that is observed by
+a second protagonist (this is, however, unknown to the first pro-
+tagonist). The target question asks children where they believe the
+first protagonist thinks the second protagonist will look for the
+object. To assess children’s understanding of more complex,
+higher order false-belief reasoning we used two tasks that were
+adapted from Liddle and Nettle (2006). These tasks are presented
+in Figure 6.
+
+In addition to children’s higher order false-belief understanding,
+we assessed their understanding of intentional, nonliteral speech,
+using one task from the Strange Stories (Happé, 1994). In this
+story problem, children are presented with a story about a soldier
+who uses a double bluff as not to reveal the true location of an
+arsenal. The test questions asks children whether it is true what the
+protagonist says, and why he says that. Children were presented
+with two answer options, which are (a) a mental-state justification
+(correct) and (b) a physical-state justification (incorrect).
+
+Also, we assessed children’s ability to read nonaffective mental
+states from the eyes. Specifically, we used four items from the
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+455
+
+Procedure. All tests were administered in a whole-class test-
+ing procedure. Tasks were read out to the children, and they were
+also presented in a PowerPoint presentation. Test assistants made
+sure that the children remained quiet and worked on their own
+booklet. On Day 1, children were tested for their experimentation
+skills, inhibition, and AToM. On Day 2, NOS, intelligence, and
+language skills were assessed. Each of the two sessions took about
+80 min, and their order was counterbalanced between classrooms.
+
+Results
+
+Core Performance
+
+A multivariate analysis of children’s core performance (see
+Figure 7) revealed a significant main effect for grade (Pillai’s
+trace ⫽ .46), F(12, 790) ⫽ 19.86, p ⬍ .001, ␩p
+2 ⫽ .23. Univariate
+testing indicated that main effects were significant on all six
+measures: experimentation skills, F(2, 399) ⫽ 20.66, p ⬍ .001,
+␩p
+2 ⫽ .09, NOS, F(2, 399) ⫽ 5.49, p ⫽ .004, ␩p
+2 ⫽ .03, intelligence,
+F(2, 399) ⫽ 38.48, p ⬍ .001, ␩p
+2 ⫽ .16, inhibition, F(2, 399) ⫽
+97.02, p ⬍ .001, ␩p
+2 ⫽ .33, language skills, F(2, 399) ⫽ 86.81, p ⬍
+.001, ␩p
+2 ⫽ .09.
+Planned contrasts indicated a significant difference in experimen-
+tation skills between Grades 3 and 4, t(276) ⫽ 4.65, p ⬍ .001,
+Cohen’s d ⫽ .56 but not between Grades 2 and 3, t(257) ⫽ 1.21,
+p ⫽ .23. NOS and AToM, in turn, differed significantly between
+Grades 2 and 3, t(257) ⫽ 2.12, p ⫽ .04, Cohen’s d ⫽ .26; and
+
+2 ⫽ .30, and AToM, F(2, 399) ⫽ 19.40, p ⬍ .001, ␩p
+
+Figure 4. Sample item for the assessment of nature of science (Item 3).
+Adapted with permission from “Testing Primary-School Children’s Un-
+derstanding of the Nature of Science” by S. Koerber, C. Osterhaus, & B.
+Sodian, 2015, British Journal of Developmental Psychology, 33, p. 60.
+Copyright, 2015, by John Wiley and Sons. See the online article for the
+color version of this figure.
+
+German version (Bölte, 2005) of the Eyes Test (Baron-Cohen,
+Wheelwright, Hill, et al., 2001). Each of these four items presents
+the children with a photograph of an either male or female face
+showing only the eyes. Four answer options (mental states) are
+presented for each item, and the children have to select the appro-
+priate one. The mental states that were used in this study were
+serious, interested, uneasy, and assertive.
+
+Items were scored dichotomously, and the reliability was mod-
+erate (Cronbach’s ␣ ⫽ .51). All items have, in prior studies, been
+shown to be valid assessments of children’s AToM, all loading on
+a single factor. In addition, a latent class analysis revealed that
+children’s performance on these items depends, despite their meth-
+odological differences, on a common underlying conceptual un-
+derstanding (see Osterhaus et al., 2016).
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Inhibition. Children’s
+
+inhibition was measured with an
+adapted and shortened version of the Stroop test (Stroop, 1935; 36
+inferential test items; speeded test of 30 s; Cronbach’s ␣ ⫽ .89).
+Intelligence was measured with Subtests 1
+(“Progressive Series,” 15 items) and 4 (“Topological Relation-
+ships,” 10 items) of the German version of the Culture Fair
+Intelligence Test (Wei␤, 2006; Cronbach’s ␣ ⫽ .68).
+
+Intelligence.
+
+Language abilities. Language skills were assessed by mea-
+suring children’s text comprehension with a 20 multiple-choice
+speeded test (Lenhard & Schneider, 2006; Cronbach’s ␣ ⫽ .90).
+
+Figure 5. Sample item for the assessment of nature of science (Item 5).
+Adapted with permission from “Testing Primary-School Children’s Un-
+derstanding of the Nature of Science” by S. Koerber, C. Osterhaus, & B.
+Sodian, 2015, British Journal of Developmental Psychology, 33, p. 71.
+Copyright, 2015, by John Wiley and Sons. See the online article for the
+color version of this figure.
+
+456
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Figure 6. Example of third- (left) and fourth-order (right) false belief task. Reprinted with permission from
+“Scaling of Advanced Theory-of-Mind Tasks,” by C. Osterhaus, S. Koerber, & B. Sodian, 2016, Child
+Development. Copyright, 2016, by John Wiley and Sons.
+
+t(257 ⫽ 5.02, p ⬍ .001, Cohen’s d ⫽ .63) but not between Grades
+3 and 4, t(278) ⫽ 1.34, p ⫽ .18; and t(278 ⫽ 0.46, p ⫽ .64,
+respectively). Inhibition, intelligence, and language skills were
+each significantly higher in Grade 3 than in Grade 2, inhibition:
+t(257) ⫽ 7.72, p ⬍ .001, Cohen’s d ⫽ .96; intelligence: t(257) ⫽
+5.86, p ⬍ .001, Cohen’s d ⫽ .73; language skills: t(257) ⫽ 5.64,
+p ⬍ .001, Cohen’s d ⫽ .70; the same was true for the comparison
+between Grades 3 and 4, inhibition: t(278) ⫽ 6.64, p ⬍ .001,
+Cohen’s d ⫽ .80; intelligence: t(278) ⫽ 2.67, p ⫽ .008, Cohen’s
+d ⫽ .32; language skills: t(278) ⫽ 5.08, p ⬍ .001, Cohen’s d ⫽
+.61.
+
+Testing the Postulated Model of Scientific Thinking
+
+To test the assumption that experimentation skills and NOS
+comprise two separable aspects of scientific thinking on which
+many of our hypotheses under investigation in this study are built
+on, we conducted an exploratory factor analysis of all
+items
+assessing experimentation and NOS in Mplus 7 (Muthén &
+Muthén, 2012), using a mean- and variance-adjusted weighted
+least-squares estimator and oblique geomin rotation, which al-
+
+lowed factors to correlate. The results indicated a poor fit of a
+one-factor model: Although some fit indices pointed toward an
+adequate fit of this one-dimensional model (comparative fit index
+[CFI] ⫽ .99, Tucker–Lewis index [TLI] ⫽ .98, and root-mean-
+square error of approximation [RMSEA] ⫽ .03 [.02, .04]), the ␹2
+statistic indicated a significant deviation of the model from the
+data, with ␹2(104) ⫽ 143.88, p ⫽ .01. In contrast, the two-factor
+model revealed a good fit to the data according to all fit indices,
+with ␹2(89) ⫽ 89.00, p ⫽ .48, CFI ⫽ 1.00, TLI ⫽ 1.00, and
+RMSEA ⫽ .00 [.00, .03]. With the exception of a single cross-
+loading, all experimentation and NOS items loaded exclusively on
+their respective factor (see Table 1). The factor correlation was .54.
+The two-factor model was also supported by parallel analysis
+(Dinno, 2009), which gives a more conservative estimate of the
+number of factors by correcting for the effects of sampling error on
+eigenvalues. This analysis revealed two corrected eigenvalues
+larger than the retention criterion of 0.
+
+To test whether children’s experimentation skills and their NOS
+are interrelated, as well as to test whether AToM predicts chil-
+dren’s NOS, we fitted a multiple indicators multiple causes
+
+Figure 7. Percent correct per grade in experimentation, nature of science (NOS), intelligence, inhibition,
+language skills, and advanced theory of mind (AToM). Error bars indicate 95% confidence intervals.
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+457
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+Table 1
+Factor Loadings for the Two-Factor Solution
+
+Items
+
+Experimentation
+
+Exp. 1
+Exp. 2
+Exp. 3
+Exp. 4
+Exp. 5
+Exp. 6
+Exp. 7
+Exp. 8
+Exp. 9
+Exp. 10
+Exp. 11
+NOS 1
+NOS 2
+NOS 3
+NOS 4
+NOS 5
+Note. Exp. ⫽ experimentation; NOS ⫽ nature of science.
+ⴱ p ⬍ .05.
+
+.66ⴱ
+.71ⴱ
+.73ⴱ
+.68ⴱ
+.81ⴱ
+.66ⴱ
+.76ⴱ
+.91ⴱ
+.72ⴱ
+.84ⴱ
+.85ⴱ
+.00
+–.12
+.01
+.05
+.01
+
+NOS
+
+⫺.02
+.01
+–.08
+.12
+⫺.06
+.25ⴱ
+⫺.02
+.00
+.16
+.00
+.03
+.48ⴱ
+.46ⴱ
+.39ⴱ
+.49ⴱ
+.40ⴱ
+
+(MIMIC) model (Jöreskog & Goldberger, 1975) to the data (see
+Table 2 for the sample correlation matrix). The MIMIC approach
+can be compared to multivariate multivariate analysis of variance
+in that these models evaluate the effect of the covariates (here
+inhibition, AToM, intelligence, and language) on the latent means
+of the dependent variables (Elosua & Muñiz, 2010). The MIMIC
+model (see Table 3, unconstrained model, and Figure 8) includ-
+ed—next to a path from NOS to experimentation—paths from all
+independent variables to NOS and experimentation, as well as
+correlations between all independent variables, so that common
+mutual influences were controlled for. The results revealed a good
+fit of the model, with ␹2(159) ⫽ 167.35, p ⫽ .31, and CFI ⫽ 1.00,
+TLI ⫽ 1.00, and RMSEA ⫽ .01 [.00, .03]. As predicted, there was
+a significant relation between NOS and experimentation (.57), and
+between inhibition and experimentation (.22), resulting in an ex-
+plained variance of 39% in experimentation. The path from inhi-
+bition to NOS (.00) was not significant, indicating that the ob-
+served sample correlation between these two constructs most
+probably resulted from the influence of inhibition on AToM.
+
+The hypothesis that children’s acquisition of AToM is an im-
+portant precursor for the development of their epistemological
+understanding was supported by a significant path (.20) between
+AToM and NOS. Additional support came from a McNemar test,
+which showed that the two proportions of children with no mastery
+in AToM but mastery in NOS (5%) and of those with mastery in
+AToM but no mastery of NOS (52%) were different (p ⬍ .001, see
+Table 3). These proportions were similar within each grade level:
+they were 6 and 46% in Grade 2, 4 and 59% in Grade 3, and 4 and
+49% in Grade 4 (all ps ⬍ .001).
+
+Finally, we predicted that children’s general information pro-
+cessing is more closely related to the development of NOS than to
+experimentation strategies. This hypothesis was supported by sig-
+nificant paths from intelligence (.19) and language skills (.26) on
+NOS, which were nonsignificant for experimentation skills (.01
+and ⫺.05, respectively). Together with the influence of AToM, the
+amount of explained variance in NOS was 21%.
+
+Because the NOS items included in our study revealed a low
+internal consistency and prior research suggested that children’s
+
+development of an epistemological understanding may follow dis-
+tinct pathways (Koerber et al., 2015), we inspected whether the
+relation between NOS, AToM, and experimentation skills differed
+between the two distinct types of NOS items included in this study.
+Specifically, we investigated whether the correlation between ex-
+perimentation skills, AToM, and NOS Items 2 and 3 differed from
+the correlation with NOS Items 1, 4, and 5. NOS Items 2 and 3 tap
+children’s knowledge about knowledge in a more direct way than
+NOS Items 1, 4, and 5 which assess children’s epistemological
+understanding of a scientific principle. The correlation between
+experimentation skills and NOS was .20 [.11, .29] for Items 2 and
+3, and .31 [.21, .40] for Items 1, 4, and 5 (95% confidence interval
+in square brackets). The correlation between AToM the two as-
+pects of NOS was .15 [.05, .25] and .13 [.03, .22], respectively,
+indicating that the strength of the association did not differ for
+these two types of items.
+
+To test whether our model of scientific thinking with its specific
+hypotheses (see Figure 1) fitted the data better than any other
+theoretically motivated model, we compared our account of the
+influences of interindividual differences in scientific thinking to
+two competing models. These models predicted relations between
+scientific thinking and all cognitive variables included in this study
+(AToM, inhibition, intelligence, and language) that differed from
+the predictions of our model: The first model defines scientific-
+thinking skills as a unitary construct, thereby positing equal cog-
+nitive influences of inhibition, intelligence, and language on ex-
+perimentation skills and NOS (equal-influences model; see Mayer
+et al., 2014). The second model that we compared to our account
+of scientific thinking assumes that the hypothesized correlation
+between NOS and AToM merely is a product of the common task
+demand of constructing multiple mental representations, which
+underlies three of the six constructs that we address in this study
+(NOS, experimentation, and AToM). Specifically, we reasoned
+that, if this competing model holds and the postulated relation
+between NOS and AToM is a spurious one, a significant relation
+should not only emerge between AToM and NOS but also between
+AToM and experimentation skills, which—just like NOS—are
+abilities that require that children entertain multiple mental repre-
+sentations simultaneously (common task-demands model).
+
+We estimated and compared these two models (the equal-
+influences and common task-demands models) to the uncon-
+strained model, which included paths from all covariates to both
+NOS and experimentation (as reported above). Chi-square differ-
+ence testing for these two models and the unconstrained, full
+model (see Table 3) revealed that both the equal-influences and the
+common task-demands model fitted significantly worse than the
+
+Table 2
+Correlations Between All Assessed Variables
+
+Variables
+
+NOS AToM Inhibition
+
+Intelligence
+
+Language
+
+.29ⴱⴱⴱ
+.17ⴱⴱⴱ
+.37ⴱⴱⴱ
+
+.25ⴱⴱⴱ
+Experimentation
+.26ⴱⴱⴱ
+NOS
+.43ⴱⴱⴱ
+AToM
+.54ⴱⴱⴱ
+Inhibition
+.50ⴱⴱⴱ
+Intelligence
+Note. NOS ⫽ nature of science; AToM ⫽ advanced theory of mind.
+ⴱⴱ p ⬍ .01.
+
+.20ⴱⴱⴱ
+.23ⴱⴱⴱ
+.36ⴱⴱⴱ
+.41ⴱⴱⴱ
+
+.33ⴱⴱⴱ
+
+.07
+.17ⴱⴱ
+
+ⴱⴱⴱ p ⬍ .001.
+
+458
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+Table 3
+Model Comparisons Between the Full, Unconstrained Model; the Equal-Influences Model; the
+Common-Task Demands Model; and Our Hypothesized Model
+
+Model
+
+␹2
+
+df
+
+p
+
+CFI
+
+TLI
+
+RMSEA
+
+⌬␹2
+
+⌬df
+
+p
+
+Comparison
+
+Full, unconstrained model
+Equal-influences model
+.001
+Common task-demands model
+.01
+Hypothesized model
+.28
+Note. CFI ⫽ comparative fit index; TLI ⫽ Tucker–Lewis index; RMSEA ⫽ root-mean-square error of
+approximation.
+
+.01 [.00, .03]
+.02 [.01, .03]
+.02 [.01, .03]
+.01 [.00, .03]
+
+167.35
+197.84
+179.10
+172.57
+
+20.19
+8.40
+5.11
+
+4
+1
+4
+
+159
+163
+160
+163
+
+.31
+.03
+.14
+.29
+
+1.00
+.99
+.99
+1.00
+
+1.00
+.98
+.99
+1.00
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+unconstrained model. Compared to the unconstrained model, only
+our hypothesized model revealed no significant difference in fit.
+This model included, next to all postulated paths (see Figure 1),
+paths from inhibition to NOS, and from AToM, language, and
+intelligence to experimentation skills that were all constrained to
+be equal to 0. The nonsignificant difference in fit from the uncon-
+strained model hereby supports the hypothesis that the influences
+of the cognitive covariates indeed are, as hypothesized specific and
+of different magnitudes for NOS and experimentation skills.
+
+Discussion
+
+Do children’s social cognition and their epistemological under-
+standing promote experimentation skills in elementary school?
+The findings of the present study revealed that (a) social cognition
+(AToM) is an important precursor of children’s broad epistemo-
+logical understanding (NOS), which (b) in turn explains a large
+amount of interindividual differences in elementary school chil-
+dren’s experimentation skills. Importantly, the relation between
+epistemological understanding and experimentation was (c) inde-
+pendent of the influences of children’s general information pro-
+cessing. This finding gives support to the hypothesis that chil-
+dren’s development of an epistemological understanding is
+foundational for the emergence of scientific thinking.
+
+Social Cognition as a Precursor of Children’s
+Epistemological Understanding
+
+Children’s epistemological understanding, we suggested, builds
+on their social cognition, and specifically, on their development of
+an AToM, which enables children to represent higher order beliefs
+and to understand that mental states are of a recursive nature
+
+Table 4
+Cross Tabulation for Mastery of Advanced Theory of Mind
+(AToM) and Nature of Science (NOS)
+
+NOS
+
+AToM
+
+No mastery
+
+(⬍50% correct)
+
+Mastery
+
+(ⱖ50% correct)
+
+Total
+
+No mastery (⬍50%
+
+correct)
+
+Mastery (ⱖ50%
+
+correct)
+
+Total
+
+77 (19)
+
+207 (52)
+284 (71)
+
+20 (5)
+
+97 (24)
+
+98 (24)
+118 (29)
+
+305 (76)
+402 (100%)
+
+(Perner, 1988). Indeed, our results showed that AToM is an im-
+portant precursor of NOS: Only 5% of all children who did not
+master ATOM mastered NOS. Being able to understand that
+beliefs are informed by reasons (supporting beliefs), seems to
+enable children to develop an evaluative epistemology (see Kuhn
+et al., 2000), which allows them to acknowledge that hypotheses
+and evidence do not necessarily need to coincide, but that they
+rather are two distinct epistemological categories. Having acquired
+this understanding, children begin to appreciate that hypotheses
+need to build on testable beliefs, that they gain their support not
+only from evidence but also from theoretical considerations (Ko-
+slowski, 1996), and that informative experiments should not give
+support to multiple beliefs with conflicting content. Further sup-
+port for the hypothesis that AToM is indeed an important precursor
+of children’s epistemological understanding comes from recent
+results from longitudinal study (see Sodian, Kristen-Antonow, &
+Koerber, 2016) that revealed that first- and second-order false-
+belief understanding at age 5 predict scientific reasoning at 8 years
+independently of intelligence and executive functions.
+
+AToM has been associated in a prior study with children’s
+understanding of evidence (Astington et al., 2002), which is one
+aspect of epistemological understanding, and researchers are in-
+
+Figure 8. Multiple indicators multiple causes model of elementary school
+scientific thinking and its cognitive influences. Indictors of nature of
+science (NOS) and of experimentation strategies (Exp.) are not included in
+the figure. Nonsignificant paths are printed in gray. AToM ⫽ advanced
+theory of mind. ⴱⴱ p ⬍ .01. ⴱⴱⴱ p ⬍ .001.
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+459
+
+vestigating how children’s growing understanding of the interpre-
+tative nature of the mind influences their understanding of NOS
+(Weinstock, Danay, & Harari, 2016). Our study however is the
+first to relate children’s AToM to diverse aspects of NOS, which
+include epistemic concepts as broad as theory, inference, or falsi-
+fication. It is important to note that our study used thoroughly
+investigated measures of AToM, which all tap a common concep-
+tual understanding (see Osterhaus et al., 2016). Having used
+AToM measures that were methodologically distinct (e.g., some
+measures were story problems, others required children to read of
+mental states from the eyes), but
+that all require a common
+underlying ability (understanding the recursive nature of mental
+states), makes it unlikely that relations between AToM and NOS
+arose from possible common task demands that were not con-
+trolled for by the model (as inhibition, intelligence, or language
+abilities).
+
+The finding that AToM is an important precursor for NOS is an
+interesting finding that will contribute to our understanding of the
+emergence of children’s epistemological understanding. In addi-
+tion, it may explain some of the empirical findings regarding the
+developmental influences of NOS. For instance, Koerber et al.
+(2015) found a significant influence of parents’ education on
+children’s NOS. Influences of parents’ education on children’s
+social cognition have widely been reported in the literature (e.g.,
+Cutting & Dunn, 1999), and indeed this relation may explain why
+parental education effects merge for NOS, which may be mediated
+by their influences on social cognition. Specifically, there is reason
+to assume that parents with a higher education may engage with
+their children in different kinds of talk and interaction, which may
+involve more ascriptions of and reflections on complex mental
+states, potentially leading to children’s increased ability to engage
+in “transactive” discussions. In transactive discussions, children’s
+reasoning operates on their partner’s reasoning, which is an activ-
+ity that requires AToM and that research has related to advances in
+scientific thinking (Azmitia & Montgomery, 1993). Although fur-
+ther research is needed, it is conceivable that social cognition and
+transactive discussions are the potential mechanisms that link
+parents’ education and children’s epistemological understanding.
+
+Scientific Thinking and Children’s
+Epistemological Understanding
+
+Children’s epistemological understanding has been attributed an
+important role in scientific thinking by multiple authors (Kuhn,
+2011; Sodian & Bullock, 2008). Research has shown that promot-
+ing children’s understanding of the hypothesis– evidence relation
+indeed not only increases their understanding of NOS, but also
+leads to better experimentation strategies (Sodian et al., 2002). A
+recent study on the development of scientific thinking in elemen-
+tary school (Koerber, Mayer, et al., 2015), in addition, suggests
+that children’s understanding of the hypothesis– evidence relation
+may underlie performance gains not only in experimentation but in
+a wide range of tasks, including data interpretation. The substantial
+correlation that we identified between NOS and experimentation
+skills supports this conclusion.
+
+There has been a debate in the literature as to whether NOS and
+inquiry skills, such as experimentation skills, indeed form two
+separable aspects of scientific thinking (see Lederman, 2006; Neu-
+mann, Neumann, & Nehm, 2011). The results of our exploratory
+
+factor analysis, which revealed a superior fit of a two-factor model
+to the data, suggest indeed a separation of these two components,
+which is a finding that is in line earlier findings for adults (Neu-
+mann et al., 2011). However, the substantial correlation that we
+observed between NOS and experimentation skills clearly shows
+that children’s epistemological understanding is closely related to
+their abilities in experimentation, suggesting that NOS may be a
+foundational skill that helps to guide children’s inquiry. Although
+a separation of NOS and inquiry skills may thus not seem entirely
+warranted on a theoretical level, our results do however show that
+the empirical distinction is useful: The MIMIC model revealed
+differential cognitive influences on NOS and experimentation,
+suggesting that a separate assessment of these constructs may lead
+to more robust results. Indeed, the differential cognitive influences
+may explain why a recent study by Mayer et al. (2014) did not find
+a significant relation between scientific thinking and inhibition,
+when NOS and inquiry skilled were not modeled separately.
+
+Whereas experimentation skills were found to be a relatively
+homogeneous construct in the present study (as revealed by high
+factor loadings for all items and a good reliability), and no sub-
+stantially different results emerged for specific subgroups of ex-
+perimentation items (e.g., contrastive vs. controlled-contrastive
+experiments), our results again pointed to the broad nature of NOS,
+as revealed by the low internal consistency that we found for our
+five NOS items. Indeed, researchers have suggested that there may
+be different pathways along which children acquire NOS. Thus
+while some children may for instance first acquire an understand-
+ing of the epistemic concept theory, others’ epistemological un-
+derstanding may emerge with a nascent understanding of falsifi-
+cation (see Koerber et al., 2015). Whereas this may be one possible
+explanation for the low internal consistency that we found for our
+NOS measure, this lack of reliability does not question our find-
+ings at large: First, our exploratory factor analysis revealed that all
+NOS items were indicators of the latent construct NOS. Second,
+we used a latent variable model to estimate the relation between
+NOS and experimentation skills, as well as their cognitive influ-
+ences, which is less sensitive to possibly distorting influences of
+the low reliability of a measure. And third, neither the association
+between NOS and experimentation nor between NOS and AToM
+diverged for different subgroups of NOS items.
+
+General Information Processing and Interindividual
+Differences in Scientific Thinking
+
+In addition to the influence of AToM on NOS, and of NOS on
+experimentation skills, our study revealed significant influences of
+children’s general cognitive development (inhibition, intelligence,
+and language skills) on their scientific thinking. Inhibition has
+been associated in prior studies with adolescents’ scientific think-
+ing (Kwon & Lawson, 2000). The current study, however, is the
+first to identify a positive relation between inhibition and experi-
+mentation skills in elementary school. It is hereby important to
+note that our experimentation task required children to evaluate
+experimental designs rather than to produce or choose an adequate
+strategy. Production and choice tasks are often overly biased by
+nonessential, task-related influences, such as the specific hypoth-
+eses presented in the task or by children’s prior knowledge (Croker
+& Buchanan, 2011; Tschirgi, 1980), which are two factors that
+strongly influence their desire to produce a certain outcome.
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+460
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+Therefore, it is likely that our study would have identified an even
+higher influence of inhibition if we had not chosen for a justifica-
+tion task, which may trigger less effect-production strategies.
+
+Although our analyses revealed an observed correlation between
+inhibition and NOS, the MIMIC model indicated that this relation
+was not significant, suggesting that
+the observed association
+emerged from the influence of inhibition on AToM. This finding
+is in line with results from Mayer et al. (2014) who did not find a
+relation between inhibition and a scientific-thinking assessment
+that included a wide range of NOS tasks, suggesting that inhibition
+is indeed more closely linked to experimentation strategies than to
+the conceptual knowledge about the nature of knowing involved in
+NOS.
+
+Inhibitory processes have, however, been related to tests of
+conceptual knowledge, which are hypothesized to require an inhi-
+bition of intuitive or naïve conceptions (Vosniadou, 2014). Fol-
+lowing this line of reasoning, one may connect NOS and its
+conceptual-development account
+to inhibition on a theoretical
+level. Because influences of executive control on conceptual
+knowledge, however, typically emerge when speeded tests are
+used (Vosniadou et al., 2015), our finding that inhibition and
+children’s conceptions of NOS are not significantly associated
+does not contradict a conceptual-development account of NOS
+(Carey et al., 1989). Rather, it reveals that an inhibition of naïve
+epistemological beliefs may not be necessary when children solve
+tasks that explicitly address different conceptions, offering suffi-
+cient time for the evaluation of each single statement.
+
+Implications and Future Directions
+
+Implications for research concern first and foremost the devel-
+opment of tasks designed to assess scientific thinking. Children’s
+poor performance in experimentation tasks is often attributed to
+their immature epistemological understanding and their inability to
+differentiate hypotheses from evidence. Indeed, our results regard-
+ing the close relation between our NOS and experimentation tasks
+support this interpretation. However, our results also show that
+experimentation skills are not only influenced by children’s epis-
+temological understanding, but also by their inhibition. And be-
+cause research has shown that inhibition on a given task can be
+obtained when children for instance are presented with a hypoth-
+esis that contradicts their intuitive beliefs (Klaczynski, 2000),
+researchers need to carefully develop and thoroughly test their
+tasks so that performance is not overly influenced by nonessential
+task characteristics (such as the intuitive or contraintuitive nature
+of the hypotheses presented). Only tasks that take these effects into
+consideration will result in valid estimates of children’s scientific-
+thinking skills
+the
+hypothesis– evidence relation in particular.
+
+in general and their understanding of
+
+Implications for the teaching of scientific thinking in elementary
+school, on the contrary, include the make use of this effect, which
+is undesired in research. Specifically, children’s scientific-thinking
+skills may particularly benefit from classroom experimentation
+when teachers instruct children to test hypotheses that contradict
+their initial beliefs. Although this may not always lead to a revision
+of conceptual knowledge within the domain within which the
+experiment is carried out (see, e.g., Chinn & Malhotra, 2002),
+children may gain insights about how to design informative ex-
+periments when they are instructed to conduct experiments that
+
+test hypotheses in which they do not initially believe. This may
+lead to an inhibition of children’s desire to produce a certain
+outcome in favor of a more analytical processing, thereby serving
+as a form of scaffolding, which may lead to better strategy use than
+the use of illustrative experiments (i.e., experiments that teachers
+use to illustrate a given scientific law or principle). It seems
+reasonable to assume that this approach, which calls for testing
+counterintuitive hypotheses, may initiate the learning of adequate
+experimentation strategies. Meanwhile, our results suggest that an
+active engagement in complex scientific-thinking activities in el-
+ementary school may only be useful once children acquire an
+AToM, which allows them to fully appreciate the differentiation
+between hypothesis and evidence and to build a constructivist
+understanding of NOS.
+
+Future directions include two main lines of research. First, the
+present study suggests that social cognition is an important pre-
+requisite for the development of NOS and experimentation skills.
+Therefore, future work should investigate whether a training of
+AToM in elementary school may help to increase children’s epis-
+temological understanding and their experimentation skills. Sec-
+ond, future research needs to disentangle the precise nature of the
+relation between children’s epistemological understanding and
+their experimentation skills. While we were primarily interested in
+the influence of epistemological understanding on experimenta-
+tion, future research needs to investigate whether this relation may
+indeed be bidirectional (i.e., does children’s experience with ex-
+perimentation aid the emergence of NOS?). Microgenetic studies
+of experimentation strategies (e.g., Schauble, 1996) typically find
+that children begin their exploration of a causal domain with
+unguided experiments, and that systematic and adequate experi-
+mentation strategies are more often used once children discover
+that their (wrong) hypotheses do not permit a successful prediction
+of the outcome. It is conceivable that this feedback fosters an
+adequate NOS understanding, especially so when children possess
+the necessary general cognitive abilities that are relevant to ab-
+stract conclusions and conceptual knowledge from this learning
+experience. While being an important precursor, AToM develop-
+ment alone does not fully explain the emergence of NOS in
+elementary school, making necessary future research on additional
+developmental mechanisms that together with AToM bring about
+the emergence of NOS.
+
+Conclusion
+
+Our results relate elementary school children’s scientific think-
+ing to their epistemological understanding and their social cogni-
+tion. AToM seems to play a crucial role in the development of
+children’s epistemological understanding, which is critically in-
+volved in scientific-thinking skills in elementary school.
+
+References
+
+Amsel, E., Klaczynski, P. A., Johnston, A., Bench, S., Close, J., Sadler, E.,
+& Walker, R. (2008). A dual-process account of the development of
+scientific reasoning: The nature and development of metacognitive in-
+tercession skills. Cognitive Development, 23, 452– 471. http://dx.doi.org/
+10.1016/j.cogdev.2008.09.002
+
+Astington, J. W., Pelletier, J., & Homer, B. (2002). Theory of mind and
+epistemological development: The relation between children’s second-
+order false-belief understanding and their ability to reason about evi-
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+SOCIAL COGNITION AND NOS PROMOTE EXPERIMENTATION
+
+461
+
+dence. New Ideas in Psychology, 20, 131–144. http://dx.doi.org/10
+.1016/S0732-118X(02)00005-3
+
+Azmitia, M., & Montgomery, R. (1993). Friendship, transactive dialogues,
+and the development of scientific reasoning. Social Development, 2,
+202–221. http://dx.doi.org/10.1111/j.1467-9507.1993.tb00014.x
+
+Baron-Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001).
+The “Reading the Mind in the Eyes” Test revised version: A study with
+normal adults, and adults with Asperger syndrome or high-functioning
+autism. Journal of Child Psychology and Psychiatry, and Allied Disci-
+plines, 42, 241–251. http://dx.doi.org/10.1111/1469-7610.00715
+
+Bölte, S. (2005). Reading the Mind in the Eyes Test für Kinder (dt.
+Version) [Reading the mind in the eyes test for children (German
+version) by S. Baron-Cohen]. Retrieved from http://www.kgu.de/
+fileadmin/redakteure/Fachkliniken/Kinder-Jugendmedizin/Psychiatrie_
+I/Eyes_test_kinder.pdf
+
+Bullock, M., Sodian, B., & Koerber, S. (2009). Doing experiments and
+understanding science: Development of scientific reasoning from child-
+hood to adulthood. In W. Schneider & M. Bullock (Eds.), Human
+development from early childhood to early adulthood. Findings from the
+Munich Longitudinal Study (pp. 173–197). Mahwah, NJ: Erlbaum.
+
+Bullock, M., & Ziegler, A. (1999). Scientific reasoning: Developmental
+and individual differences. In F. E. Weinert & W. Schneider (Eds.),
+Individual development from 3 to 12: Findings from the Munich Lon-
+gitudinal Study (pp. 38 –54). Cambridge, United Kingdom: Cambridge
+University Press.
+
+Carey, S., Evans, R., Honda, M., Jay, E., & Unger, C. (1989). An exper-
+iment is when you try it and see if it works. A study of junior high school
+students’ understanding of the construction of scientific knowledge.
+International Journal of Science Education, 11, 514 –529. http://dx.doi
+.org/10.1080/0950069890110504
+
+Carey, S., & Smith, C. (1993). On understanding the nature of scientific
+knowledge. Educational Psychologist, 28, 235–251. http://dx.doi.org/10
+.1207/s15326985ep2803_4
+
+Carpendale, J. I., & Chandler, M. J. (1996). On the distinction between
+false belief understanding and subscribing to an interpretive theory of
+mind. Child Development, 67, 1686 –1706. http://dx.doi.org/10.2307/
+1131725
+
+Case, R. (1974). Structures and strictures: Some functional limitations on
+the course of cognitive growth. Cognitive Psychology, 6, 544 –573.
+http://dx.doi.org/10.1016/0010-0285(74)90025-5
+
+Chen, Z., & Klahr, D. (1999). All other things being equal: Acquisition and
+transfer of the control of variables strategy. Child Development, 70,
+1098 –1120. http://dx.doi.org/10.1111/1467-8624.00081
+
+Chinn, C. A., & Malhotra, B. A. (2002). Children’s responses to anomalous
+scientific data: How is conceptual change impeded? Journal of Educa-
+tional Psychology, 94, 327–343. http://dx.doi.org/10.1037/0022-0663.94
+.2.327
+
+Croker, S., & Buchanan, H. (2011). Scientific reasoning in a real-world
+context: The effect of prior belief and outcome on children’s hypothesis-
+testing strategies. British Journal of Developmental Psychology, 29,
+409 – 424. http://dx.doi.org/10.1348/026151010X496906
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding,
+language, and family background: Individual differences and interrela-
+tions. Child Development, 70, 853– 865. http://dx.doi.org/10.1111/1467-
+8624.00061
+
+Dinno, A. (2009). Exploring the sensitivity of Horn’s parallel analysis to
+the distributional form of random data. Multivariate Behavioral Re-
+search, 44, 362–388. http://dx.doi.org/10.1080/00273170902938969
+
+Elosua, P., & Muñiz, J. (2010). Exploring the factorial structure of the
+self-concept. European Psychologist, 15, 58 – 67. http://dx.doi.org/10
+.1027/1016-9040/a000006
+
+Gopnik, A., Glymour, C., Sobel, D. M., Schulz, L. E., Kushnir, T., &
+Danks, D. (2004). A theory of causal learning in children: Causal maps
+
+and Bayes nets. Psychological Review, 111, 3–32. http://dx.doi.org/10
+.1037/0033-295X.111.1.3
+
+Happé, F. G. E. (1994). An advanced test of theory of mind: Understanding
+of story characters’ thoughts and feelings by able autistic, mentally
+handicapped, and normal children and adults. Journal of Autism and
+Developmental Disorders, 24, 129 –154. http://dx.doi.org/10.1007/
+BF02172093
+
+Inhelder, B., & Piaget, J. (1958). The growth of logical thinking from
+childhood to adolescence. New York, NY: Basic Books. http://dx.doi
+.org/10.1037/10034-000
+
+Jöreskog, K. G., & Goldberger, A. S. (1975). Estimation of a model with
+multiple indicators and multiple causes of a single latent variable.
+Journal of the American Statistical Association, 70, 631– 639.
+
+Klaczynski, P. A. (2000). Motivated scientific reasoning biases, epistemo-
+logical beliefs, and theory polarization: A two-process approach to
+adolescent cognition. Child Development, 71, 1347–1366. http://dx.doi
+.org/10.1111/1467-8624.00232
+
+Klahr, D. (2000). Exploring science: The cognition and development of
+
+discovery processes. Cambridge, MA: MIT Press.
+
+Koerber, S., Mayer, D., Osterhaus, C., Schwippert, K., & Sodian, B.
+(2015). The development of scientific thinking in elementary school: A
+comprehensive inventory. Child Development, 86, 327–336. http://dx
+.doi.org/10.1111/cdev.12298
+
+Koerber, S., Osterhaus, C., & Sodian, B. (2015). Testing primary-school
+children’s understanding of the nature of science. British Journal of
+Developmental Psychology, 33, 57–72. http://dx.doi.org/10.1111/bjdp
+.12067
+
+Koerber, S., Sodian, B., Thoermer, C., & Nett, U. (2005). Scientific
+reasoning in young children: Preschoolers’ ability to evaluate covaria-
+tion evidence. Swiss Journal of Psychology, 64, 141–152. http://dx.doi
+.org/10.1024/1421-0185.64.3.141
+
+Koslowski, B. (1996). Theory and evidence: The development of scientific
+
+reasoning. Cambridge, MA: MIT Press.
+
+Kuhn, D. (2000). Metacognitive development. Current Directions in Psy-
+chological Science, 9, 178 –181. http://dx.doi.org/10.1111/1467-8721
+.00088
+
+Kuhn, D. (2011). What is scientific thinking and how does it develop? In
+U. Goswami (Ed.), Handbook of childhood cognitive development (2nd
+ed., pp. 472–523). Oxford, United Kingdom: Blackwell.
+
+Kuhn, D., Cheney, R., & Weinstock, M. (2000). The development of
+epistemological understanding. Cognitive Development, 15, 309 –328.
+http://dx.doi.org/10.1016/S0885-2014(00)00030-7
+
+Kuhn, D., & Franklin, S. (2006). The second decade: What develops (and
+how). In W. Damon, R. M. Lerner, D. Kuhn, & R. Siegler (Eds.),
+Handbook of child psychology (6th ed., Vol. 2, pp. 953–994). New York,
+NY: Wiley.
+
+Kuhn, D., Garcia-Mila, M., Zohar, A., Andersen, C., White, S. H., Klahr,
+D., & Carver, S. M. (1995). Strategies of knowledge acquisition. Mono-
+graphs of the Society for Research in Child Development, 60, 1–128.
+
+Kuhn, D., & Pease, M. (2006). Do children and adults learn differently?
+Journal of Cognition and Development, 7, 279 –293. http://dx.doi.org/
+10.1207/s15327647jcd0703_1
+
+Kwon, Y. J., & Lawson, A. E. (2000). Linking brain growth with the
+development of scientific reasoning ability and conceptual change dur-
+ing adolescence. Journal of Research in Science Teaching, 3, 44 – 62.
+http://dx.doi.org/10.1002/(SICI)1098-2736(200001)37:1⬍44::AID-
+TEA4⬎3.0.CO;2-J
+
+Lederman, N. G. (2006). Syntax of nature of science within inquiry and
+science instruction. In L. B. Flick & N. G. Lederman (Eds.), Scientific
+inquiry and nature of science (pp. 301–317). Dordrecht, The Nether-
+lands: Springer.
+
+Lenhard, W., & Schneider, W. (2006). Ein Leseverständnistest für Erst- bis
+Sechstklässler: ELFE 1– 6 [A reading comprehension test for first to
+sixth graders: ELFE 1– 6]. Göttingen, Germany: Hogrefe.
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+462
+
+OSTERHAUS, KOERBER, AND SODIAN
+
+Liddle, B., & Nettle, D. (2006). Higher order theory of mind and social
+competence in school-age children. Journal of Cultural and Evolutionary
+Psychology, 4, 231–244. http://dx.doi.org/10.1556/JCEP.4.2006.3-4.3
+
+Mayer, D., Sodian, B., Koerber, S., & Schwippert, K. (2014). Scientific
+reasoning in elementary school children: Assessment and relations with
+cognitive abilities. Learning and Instruction, 29, 43–55. http://dx.doi
+.org/10.1016/j.learninstruc.2013.07.005
+
+Miller, S. A. (2009). Children’s understanding of second-order mental
+states. Psychological Bulletin, 135, 749 –773. http://dx.doi.org/10.1037/
+a0016854
+
+Muthén, L. K., & Muthén, B. O. (2012). Mplus user’s guide (7th ed.). Los
+
+Angeles, CA: Author.
+
+Neumann, I., Neumann, K., & Nehm, R. (2011). Evaluating instrument
+quality in science education: Rasch-based analyses of a nature of science
+test. International Journal of Science Education, 33, 1373–1405. http://
+dx.doi.org/10.1080/09500693.2010.511297
+
+Osterhaus, C., Koerber, S., & Sodian, B. (2015). Children’s understanding
+of experimental contrast and experimental control: An inventory for
+primary school. Frontline Learning Research, 3, 37–75.
+
+Osterhaus, C., Koerber, S., & Sodian, B. (2016). Scaling of advanced
+theory-of-mind tasks. Child Development. Advance online publication.
+http://dx.doi.org/10.1111/cdev.12566
+
+Perner, J. (1988). Higher order beliefs and intentions in children’s under-
+standing of social interaction. In J. W. Astington, P. L. Harris, & D. R.
+Olson (Eds.), Developing theories of mind (pp. 271–294). Cambridge,
+England: Cambridge University Press.
+
+Piekny, J., & Maehler, C. (2013). Scientific reasoning in early and middle
+childhood: The development of domain-general evidence evaluation,
+experimentation, and hypothesis generation skills. British Journal of
+Developmental Psychology, 31, 153–179. http://dx.doi.org/10.1111/j
+.2044-835X.2012.02082.x
+
+Schauble, L. (1996). The development of scientific reasoning in
+knowledge-rich contexts. Developmental Psychology, 32, 102–119.
+http://dx.doi.org/10.1037/0012-1649.32.1.102
+
+Sobel, D. M., Tenenbaum, J. B., & Gopnik, A. (2004). Children’s causal
+inferences from indirect evidence: Backwards blocking and Bayesian
+reasoning in preschoolers. Cognitive Science, 28, 303–333.
+
+Sodian, B., & Bullock, M. (2008). Scientific reasoning—Where are we
+now? Cognitive Development, 23, 431– 434. http://dx.doi.org/10.1016/j
+.cogdev.2008.09.003
+
+Sodian, B., Carey, S., Grosslight, L., & Smith, C. (1992). Junior high school
+students’ understanding of the nature of scientific knowledge. The notion of
+interpretive frameworks. Paper presented at the Annual Meeting of the
+American Educational Research Association, San Francisco, CA.
+
+Sodian, B., Kristen-Antonow, S., & Koerber, S. (2016, July). Theory of
+mind predicts scientific reasoning: A longitudinal study from preschool
+
+to elementary school age. Paper presented at the 31st International
+Congress of Psychology, Yokohama, Japan.
+
+Sodian, B., Thoermer, C., Kircher, E., Grygier, P., & Günther, J. (2002).
+Vermittlung von Wissenschaftsverständnis in der Grundschule [Teach-
+ing understanding the nature of science in elementary school]. Zeitschrift
+fur Padagogik, 45, 192–206.
+
+Strand-Cary, M., & F, D. (2008). Developing elementary science skills:
+Instructional effectiveness and path independence. Cognitive Develop-
+ment, 23, 488 –511. http://dx.doi.org/10.1016/j.cogdev.2008.09.005
+
+Stroop, J. R. (1935). Studies of interference in serial verbal reactions.
+Journal of Experimental Psychology, 18, 643– 662. http://dx.doi.org/10
+.1037/h0054651
+
+Tschirgi, J. E. (1980). Sensible reasoning: A hypothesis about hypotheses.
+
+Child Development, 51, 1–10. http://dx.doi.org/10.2307/1129583
+
+van der Graaf, J., Segers, E., & Verhoeven, L. (2016). Scientific reasoning
+in kindergarten: Cognitive factors in experimentation and evidence
+evaluation. Learning and Individual Differences, 49, 190 –200. http://dx
+.doi.org/10.1016/j.lindif.2016.06.006
+
+Vosniadou, S. (2014). Examining cognitive development from a concep-
+tual change point of view: The framework theory approach. European
+Journal of Developmental Psychology, 11, 645– 661. http://dx.doi.org/
+10.1080/17405629.2014.921153
+
+Vosniadou, S., Pnevmatikos, D., Lepenioti, D., Chountala, A., Ikospentaki,
+K., & Makris, D. (2015, August). Relationships between executive
+functions and conceptual change learning in science and mathematics.
+Paper presented at the 16th Biennial EARLI Conference for Research on
+Learning and Instruction, Limassol, Cyprus.
+
+Weinstock, M., Danay, Y., & Harari, Y. (2016, June). Interpretive theory
+of mind and dimensions of epistemic thinking among young children.
+Paper presented at the 46th Annual Meeting of the Jean Piaget Society,
+Chicago, IL.
+
+Weiß, R. H. (2006). Grundintelligenztest Skala 2 (CFT 20-R) mit Worts-
+chatztest (WS) und Zahlenfolgentest (ZF) - Revision 2006. Göttingen,
+Germany: Hogrefe.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-
+of-mind development: The truth about false belief. Child Development,
+72, 655– 684. http://dx.doi.org/10.1111/1467-8624.00304
+
+Zimmerman, C. (2007). The development of scientific thinking skills in
+elementary and middle school. Developmental Review, 27, 172–223.
+http://dx.doi.org/10.1016/j.dr.2006.12.001
+
+Received January 29, 2016
+Revision received October 20, 2016
+
+Accepted October 21, 2016 䡲
+
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+
+d
+e
+i
+l
+l
+a
+
+s
+t
+i
+
+f
+o
+
+e
+n
+o
+
+r
+o
+
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+
+n
+a
+c
+i
+r
+e
+m
+A
+e
+h
+t
+
+y
+b
+
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+
+s
+i
+
+t
+n
+e
+m
+u
+c
+o
+d
+
+s
+i
+h
+T
+
+.
+
+y
+l
+d
+a
+o
+r
+b
+
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+
+e
+b
+
+o
+t
+
+t
+o
+n
+
+s
+i
+
+d
+n
+a
+
+r
+e
+s
+u
+
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+
+e
+h
+t
+
+f
+o
+
+e
+s
+u
+
+l
+a
+n
+o
+s
+r
+e
+p
+
+e
+h
+t
+
+r
+o
+f
+
+y
+l
+e
+l
+o
+s
+
+d
+e
+d
+n
+e
+t
+n
+i
+
+s
+i
+
+e
+l
+c
+i
+t
+r
+a
+
+s
+i
+h
+T
+
+

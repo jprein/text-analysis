@@ -1,0 +1,915 @@
+Developmental  Psychology
+1999, Vol.  35, No. 2,  386-391
+
+Copyright  1999 by the American  Psychological  Association, Inc.
+0012-1649/99/$3.00
+
+Social  Interaction  Skills  and Theory  of  Mind  in  Young  Children
+
+Anne C. Watson,  Charisse Linkie Nixon,  Amy  Wilson,  and Laura  Capage
+
+West  Virginia  University
+
+Two  studies  explored  relations  between  peer  social  skills  and  theory  of  mind  in  young  children.  In
+Study  1, a global teacher rating of social skills with peers, performance  on a traditional false-belief  task,
+a standardized assessment of auditory language comprehension, and a time sampling of amount of speech
+with  peers  were  obtained.  Positive,  but  moderate,  zero-order  correlations  were  observed  between  the
+false-belief  measure  and  social  skills, and  false  belief  accounted  for  a  significant  amount  of  additional
+variance  in  social  skills  after  covarying  age  and  the  2  measures  of  language.  Study  2  replicated  the
+findings  of  Study  1 by  using  a larger  sample  and  a standardized  teacher  questionnaire. The results  are
+discussed with regard to the critical role of a mentalistic theory of behavior for human social interactions.
+
+In  the  past  15  years,  there  has  been  an  explosion  of  research
+concerning  children's  ability  to describe, predict,  and explain  the
+relations  between  human  behavior  and  environmental  events  by
+appeal  to  mental  phenomena  (e.g.,  perceptions,  desires,  beliefs,
+and  intentions; Astington,  Harris, & Olson,  1988; Frye  & Moore,
+1991; Wellman,  1990). Much of the empirical work in the area of
+theory  of  mind  has  concentrated  on  the  ascertainment  of  age
+differences  in performance  and the effects  of task modifications  on
+performance  during  the  preschool  years  (e.g.,  Hala,  Chandler,  &
+Fritz,  1991;  Mitchell  &  Lacohee,  1991;  Robinson  &  Mitchell,
+1992). However,  attention  is now  turning to the question  of  indi-
+vidual  differences  and  examination  of  potential  correlates  in  the
+domain  of  social  interaction  (Astington  & Jenkins,  1995; Bartsch
+&  Estes,  1996;  Dunn,  1994,  1995;  Feldman,  1992;  Lalonde  &
+Chandler,  1995; Lewis & Mitchell, 1994). For example, features of
+the  home  social  environment  (e.g.,  maternal  talk  about  causal
+relations) and child  social behavior  (e.g., talk about feeling  states,
+amount  of  cooperation  with  siblings), assessed  in the 2nd year of
+life,  predict  performance  on  a  false-belief  task  in  the  3rd  year
+(Brown, Donelan-McCall, & Dunn,  1996; Dunn, Brown, & Beard-
+sail,  1991;  Dunn,  Brown,  Slomkowski,  Tesla,  &  Youngblade,
+1991;  Youngblade  &  Dunn,  1996).  Similarly,  maternal  use  of
+mental  terms  when  children  are  2  years  old  predicts  children's
+mental-term usage at age 3 (Furrow, Moore, Davidge, & Chiasson,
+1992), and preschoolers who engage in more verbal behavior about
+internal  states  with  their  siblings  have  higher  levels  of  positive
+affective  behavior  during  family  interactions  (Howe,  1991).
+
+Positive  correlations  have  also  been  found  between  theory-of-
+mind ability and number of siblings, suggesting that children  from
+
+Anne  C.  Watson,  Charisse  Linkie  Nixon,  Amy  Wilson,  and  Laura
+
+Capage,  Department  of  Psychology, West  Virginia  University.
+
+Portions of this research were presented at the 25th Annual  Symposium
+
+of  the Jean  Piaget  Society,  Berkeley,  California,  June  1995.
+
+We  thank  the  children,  teachers,  and  parents  who  participated  in  the
+
+study.  We  also  thank  Stanley  Cohen  for  his  advice on  data  analysis.
+
+Correspondence  concerning this article should be addressed  to Anne C.
+Watson,  Department  of  Psychology,  West  Virginia  University,  P.O.  Box
+6040,  Morgantown,  West  Virginia  26506-6040.  Electronic  mail  may  be
+sent  to  aoreilly@wvu.edu.
+
+386
+
+larger families  may have more opportunity  to engage in the types
+of  social  interactions  that  contain  information  about  mental  con-
+cepts  (Jenkins  &  Astington,  1993; Perner,  Ruffman,  &  Leekam,
+1994).  In  particular,  contrasting  perspectives,  such  as  those  that
+occur  in  cooperative  play,  negotiations  over  property,  and  culpa-
+bility for wrongful  actions may be more plentiful  in larger families.
+In other words, a home environment with more interactions simply
+due  to  more  people  may  provide  more  opportunities  for  learning
+thought-behavior  relations.
+
+Additional  research  has  examined  false-belief  understanding
+and  social  interactions  with  peers  in  the  school  setting.  Positive
+correlations  have  been  found  between  specific  social  behaviors
+observed  during  a  pretend  play  session  with  peers,  namely,  pro-
+duction of joint proposals for pretense (e.g., "Let's make cookies")
+and  the explicit  assignment  of  roles  (e.g.,  "You  be the  mommy";
+Astington  &  Jenkins,  1995).  Subsequent  to  exploratory  analyses
+concerning  performance  on  a  series  of  theory-of-mind  tasks  and
+teacher ratings of multiple social behaviors, Lalonde and Chandler
+(1995)  concluded  that  the  social  skills  that  were  not  related  to
+theory  of  mind  were  ones  that  required  a  knowledge  of  only
+routine social conventions  (e.g., saying "please" and "thank you")
+and  suggested  that  the  traditional  false-belief  tasks  tapped  into
+those  real-world  skills  requiring  some  understanding  of  mental
+events  (e.g.,  following  simple  rules  in  games  without  being  re-
+minded,  appropriately  ending  conversations).  This  possibility
+needs further  examination  given the poor false-belief  task  perfor-
+mance of children with autism (see Baron-Cohen,  Tager-Flusberg,
+& Cohen,  1993, for  a review), because it suggests that a theory of
+mind  could  have  profound  ramifications  for  successful  complex
+social  behavior.
+
+The  present  studies,  therefore,  sought  to  replicate  and  extend
+research  in  this  area,  specifically,  the relation  of  false-belief  un-
+derstanding  to  positive  interactions  with  peers.  In  Study  1,  we
+assessed false-belief  understanding in children and asked  teachers
+to rate children's ability to get along well with their peers. Previous
+research  (e.g.,  Bierman  &  Montminy,  1993)  has  suggested  that
+teacher report is a reliable indicator of these types of child behav-
+ior  in  the  classroom.  In  addition,  of  critical  importance  to  corre-
+lational work on false-belief  understanding  and social skills is the
+assessment  of  control  variables.  First,  overall  verbal  ability  has
+
+SOCIAL  SKILLS  AND THEORY  OF MIND
+
+387
+
+been  found  to  relate  significantly  to  performance  on  false-belief
+tasks  (e.g.,  Brown  et  al.,  1996;  Watson,  Painter,  &  Bornstein,
+1998). In  addition,  verbal  skills  are  tied  to performance  on  false-
+belief  tasks of children  with autism (Happe,  1995). In all  previous
+work,  however,  significant  correlations  between  social  behaviors
+and false-belief  task performance,  although attenuated, were  found
+when  age,  verbal  ability,  or  verbal  intelligence  was  partialed  out
+(Astington  &  Jenkins,  1995;  Taylor,  Gerow,  &  Carlson,  1993;
+Youngblade  &  Dunn,  1996).  Therefore,  we  used  a  measure  of
+language  comprehension  ability  as  one  control  variable.  We  also
+looked  at  talkativeness  to  assess  its  relation  to  teacher  ratings  of
+social skills and theory  of mind. Dunn, Brown, Slomkowski, et al.
+(1991)  found  no  relations  between  overall  number  of  conversa-
+tional  turns  between  children,  siblings,  and  mothers  in  a  1-hr
+sample  of  talk  and  performance  on  a  false-belief  task.  However,
+we  posited  that  an  observational  measure  of  frequency  of  speech
+acts during  a free-play  period  on the playground,  as  a measure  of
+interest  in interacting  with others, might be related to both  teacher
+ratings of  social  skills and theory-of-mind  understanding  in young
+children. Therefore,  talkativeness  was used as a covariate  in these
+analyses.
+
+Study  1
+
+Method
+
+Participants
+
+The  participants  were  26  three-  to  six-year-old  children  (range  =  3
+years 9 months to 6 years 8 months, mean age = 5 years 3 months, SD =  9
+months,  14 boys  and  12  girls)  attending  local  preschools  and  private
+kindergartens  in Morgantown,  West  Virginia.  None  of the children had
+completed  kindergarten.  Although  4  years  is  usually  used  to  mark  the
+transitional  age for successful  false-belief  task  performance,  most  of the
+previous work in theory of mind has looked at average performance  across
+children,  not individual  variability  (e.g.,  Hala  et al.,  1991; Robinson  &
+Mitchell,  1992). The range  of ages  at which  all children  can pass  false-
+belief  tasks  is not known.  Children  were  predominantly  Caucasian and
+from  middle-class  families.
+
+Measures
+
+Talkativeness.  Each  child  was observed  on one occasion  during  an
+outside free-play  period  with peers. A time-sampling  procedure  was used,
+with  observations  being  recorded  every  other  5  s for 5 min. Observers
+recorded in an interval if the child made a vocalization directed  specifically
+toward a peer. Two raters coded the same 6 children to assess interobserver
+reliability.  Reliabilities  averaged  .94  (range  = 
+.93-1.00)  by  Cohen's
+(1968)  kappa.
+
+Language  assessment.  The three  scales  of the Test  for the Auditory
+Comprehension  of  Language—Revised  (TACL-R;  Carrow-Woolfolk,
+1985)  were  administered  to  each  child:  (a)  Words—assessment  of the
+"literal  and most common meanings of word classes such as nouns, verbs,
+adjectives,  and adverbs, and of basic  word  relations  expressing  nonexist-
+ence, agent—action, agent—agent, action-object,  attribution-object,  action—
+attribution-object,  and  attribution-agent-action";  (b)  Morphology—as-
+sessment of the "meaning of grammatical morphemes such as prepositions,
+noun  number  and case,  verb  number  and tense,  noun-verb  agreement,
+derivational  suffixes,  and the  meaning  of  pronouns,  tested  within  the
+context  of  a  simple  sentence";  and  (c)  Sentences—assessment  of the
+"meaning of elaborated sentence constructions, including the modalities of
+single and combined  constructions  (interrogative  sentences, negative sen-
+tences,  active  and passive  voice,  direct  and indirect  object),  embedded
+
+sentences,  and partially  and completely  conjoined  sentences"  (Carrow-
+Woolfolk,  1985, p.  1). For each  item,  the experimenter  read  a  word,  a
+group of words, or a sentence to the child, who was then instructed to point
+to  one of  three  pictures  that  best  corresponded  to  the  experimenter's
+utterance. Raw scores for each of these scales were calculated according to
+procedures  outlined  in the TACL-R  manual. (Age in months was entered
+as a covariate  in the analyses so a standardized  score was not calculated;
+see the Results  section.)
+
+False belief.  Children  were led through a series of questions about the
+contents of a box that did not contain what it appeared to contain  (adapted
+from  Astington  & Gopnik,  1988;  Bartsch  & Wellman,  1989;  Gopnik &
+Astington,  1988; Gopnik  &  Slaughter,  1991;  Lewis  &  Osborne, 1990;
+Perner  & Wimmer,  1987). There  were two components to the false-belief
+task.  The  first  required  the  children  to  remember  back  to  a  previous
+knowledge  state  that  differed  from  their  current  knowledge  state  (they
+thought that a box contained  Band-Aids and then learned that it contained
+a  small  plastic  dog). This  question  has been  referred  to as the "represen-
+tational change" false-belief  question. The second asked children to explain
+the actions of a doll in terms of a belief that was false. Children were shown
+that  a second  plain  box actually  contained  Band-Aids.  A doll  was intro-
+duced,  and the children  were told that the doll had cut herself  and  needed
+a Band-Aid. The doll was placed in front  of the Band-Aid  box (which the
+children knew did not contain Band-Aids), rather than in front  of the plain
+box  that  held the Band-Aids.  Then  the children  were  asked  why the doll
+was  looking  in the Band-Aid  box for  Band-Aids  (Bartsch  &  Wellman,
+1989).
+
+Both  components  had a second  prompt  question  if the children did not
+correctly answer the original question. In the representational-change  task,
+children  were  first  asked,  "What  did you think  was in this  box?" If they
+failed to answer that they thought it contained Band-Aids, they were asked,
+"What  did  you  think  was  in  this  box  before  we  opened  it?" In the
+explanation  task,  children  were  first  asked,  "Why  is Pam looking  in the
+Band-Aid  box?"  If  they  failed  to  answer  that  she thought  it  contained
+Band-Aids, they were asked, "What does she think?" The prompt questions
+were  intended  to capture  additional  variability  in performance  under the
+assumption  that  some  children  would  not be  able  to  answer  correctly
+without the prompts whereas others would. More children correctly answer
+the  questions  with  the prompts,  suggesting  that  they  are easier  than the
+standard  questions  (Lewis & Osborne,  1990).
+
+A correct response to each original question was scored as a 2, a correct
+response  to each  prompt  was scored  as a  1, and an incorrect  response to
+each  question  was scored  as a 0. Responses  to the two questions  were
+summed for a score that ranged  from  0 to 4. Past research has  shown  that
+performance  across  various theory-of-mind  tasks is correlated,  suggesting
+that  aggregating  scores  across  tasks  is appropriate  (Slaughter  & Gopnik,
+1996; Taylor  & Carlson,  1997).
+
+Teacher  ratings of social  skills.  Teachers  at the children's  preschool
+were asked to rate each of the children in terms of social skills with peers.
+Teachers  responded  on a Likert  scale  from  1 to 5 to a  global  question
+concerning  the extent  to  which  the children  engaged  in  positive  social
+interactions with peers, with  1  being less socially skilled and 5 being highly
+socially skilled.
+
+Results
+
+Table 1  shows the means, standard deviations, and ranges for all of
+the  measures.  Children's  scores  were  in  the  normal  range  on  the
+standardized  assessment  of  language.  All  data  were  examined  for
+univariate  and bivariate  outliers. Data  were not complete  for  2 chil-
+dren (1 child was missing the false-belief  task score, and  1 child was
+missing the count of vocalizations to peers); these missing data points
+were replaced  with the mean across participants.
+
+Table  2  shows  the  correlations  between  the  covariates  and  the
+other variables. Age was not significantly  related to false belief  or
+
+388
+
+WATSON,  NIXON,  WILSON,  AND  CAPAGE
+
+Table  1
+Means,  Standard  Deviations,  and Ranges  of  Measures:
+Study  1 (N  =  26)
+
+Measure
+
+Age  (in  months)
+TACL-R
+Vocalizations  to  peers
+False-belief  task  score
+Teacher  social  skills  rating
+
+M
+
+63
+80
+12
+2.24
+3.6
+
+SD
+
+9
+16
+7
+1.36
+1.0
+
+Range
+
+45-80
+41-104
+2-25
+0-4
+1-5
+
+Note.  TACL-R  =  Test for  the Auditory Comprehension  of  Language—
+Revised.
+
+social skills. The language comprehension measure was positively,
+but  not  significantly,  correlated  with  both  variables.  Count  of
+vocalizations  to peers  was  significantly  and  positively  correlated
+with  teacher  ratings  of  social  skills  but  was  not  significantly
+correlated  with  false-belief  scores.  In  addition,  at  the  zero-order
+correlation level, the false-belief  task score was positively, but not
+significantly,  correlated  with  the social  skills rating  (r  =  .35).
+
+Although we did not obtain the expected pattern of relations of the
+covariates  to false  belief  and  social  skills, we conducted  an explor-
+atory  regression  analysis considering  the hypothesized  interrelations
+of  these  variables.  Age,  language  comprehension,  and  amount  of
+vocalizations  to  peers  were  entered  first  in  a  block  in  a  multiple
+regression  analysis with teacher ratings of social skills as the depen-
+dent variable. These variables  accounted  for  37% of the variance in
+the teacher ratings, F(3, 22) =  4.35, p  <  .05. The beta weights for the
+TACL-R score and for the number of vocalizations to peers (.42 and
+.44, respectively) were significant at the/? <  .05 level. The false-belief
+score  was  then  entered  on  the  second  step, producing  a  significant
+multiple correlation squared OR2) incremental change of 10%, F(\, 21)
+=  4.34, p  <  .05. The final regression equation accounted for 48% of
+the variance in teacher reports of social skills, F(4, 21)  =  4.84, p  <
+.01.  Only  the beta  weights for  the number  of  vocalizations  to peers
+(.51, p  <  .01) and the false-belief  score (.36,/? <  .05) were significant
+in the final  equation.
+
+Discussion
+
+This  study  found  that  false-belief  understanding  was  a  signifi-
+cant  predictor  of  teacher  ratings  of  preschoolers'  and  kindergart-
+ners'  positive  social  skills after  the effects  of  age, language  com-
+prehension ability, and a measure of talkativeness with peers were
+considered. These findings  link the study of this important  aspect
+of  cognitive  development  to  the  social  context  in  which  it  devel-
+ops:  The  use  of  teacher  ratings  of  positive  social  interactions
+continues  the  work  on  how  a  theory  of  mind  might  be related  to
+actual  behavior.  Furthermore,  because  social  interaction  deficits
+are  a  central  feature  of  the  syndrome  of  autism,  the  finding  of  a
+relation  between  false-belief  understanding  and  positive  social
+skills  in  normal  children  supports  the  characterization  of  autism,
+with its associated  feature  of poor social skills, as involving  some
+kind  of  deficit  in  theory-of-mind  ability.
+
+Study  2 was  undertaken  to  address  two issues. First,  a  signifi-
+cant hypothesized  relation between false-belief  understanding  and
+social skills ratings was found  in Study  1, even though the sample
+size  was  small.  Of  concern,  however,  was  (a)  the  lack  of  a
+
+significant  correlation  between  age  and  false-belief  task  perfor-
+mance  and  (b)  the  positive  but  nonsignificant  relation  between
+language  and false-belief  understanding.  Both of  these results  are
+inconsistent with past research and may have been due to the small
+sample  size.  Age  and  language  were  critical  covariates  in  these
+analyses, and it was therefore  important to attempt to replicate the
+findings  with  a larger  sample.
+
+Second,  although  the  global  rating  of  children's  social  skills
+showed  a  good  distribution  and  was  easily  understood  and  com-
+pleted  by  teachers, the use of  a standardized  instrument  for  eval-
+uating children's peer relations would serve to bolster this finding.
+We  used  Harter's  (1979)  Perceived  Competence  Scale  for  Chil-
+dren as a measure of social interactions with peers. This instrument
+asks  teachers  to  rate children  on  10 items  related  to  social  inter-
+actions  and  yields  two  scores:  a  measure  of  social  skills  and  a
+measure of popularity with peers. Previous research has suggested
+a  conceptual  distinction  between  the  two  measures, even  though
+they are significantly  correlated  (Eisenberg et al.,  1993). (In addi-
+tion, there  is  a  drop in  the reliability  of  the  scales  when  they  are
+combined.)  The  Popularity  scale  correlates  significantly  with  a
+more traditional sociometric procedure in which children are asked
+to nominate their most  and least liked peers, and thus  presumably
+assesses  the  treatment  the  children  receive  from  classmates.  The
+Social Skills scale may be more related to teachers' assessments of
+how  well  children  regulate  varying  levels  of  emotionality  and
+manage  conflict.  Both  measures  of  social  competence  were  con-
+sidered  to be potentially  related  to theory-of-mind  development.
+
+In  Study  2, a  second  measure  of  theory  of  mind  was  obtained.
+This measure has also been used extensively  to assess  false-belief
+reasoning, thus enhancing  the applicability  of results of this study
+to  previous  research.  To  keep  the  length  of  the  testing  sessions
+across the first and second studies approximately comparable, only
+the prompt questions from  the task used in Study  1 were included
+in Study 2. Finally, data on language comprehension and child age
+were  again  collected  to  be  used  as  covariates  in  the  analyses.
+Playground  observations  of  vocalizations  to  peers  were  not  con-
+ducted  in  Study  2  because  they  appeared  to  contribute  unique
+variance  to  the  prediction  of  social  skills  (i.e.,  they  showed  no
+relation  to false-belief  task  performance).
+
+Study  2
+
+Method
+
+Participants
+
+The participants were 52 children between the ages of 3 years 4 months
+and 6 years  11 months (mean  age  =  5 years  1 month, SD  = 9 months, 30
+
+Table  2
+Correlations of  Covariates  With False-Belief  Score and  Teacher
+Social Skills Rating:  Study  1 (N  =  26)
+
+Covariate
+
+False  belief
+
+Age
+TACL-R
+Vocalizations  to peers
+
+.09
+.32
+-.14
+
+Social
+
+skills  rating
+
+-.04
+
+.37t
+.48*
+
+Note.  TACL-R  =  Test for  the Auditory  Comprehension  of  Language—
+Revised.
+tp  <  .10.  *p  <  .05.
+
+SOCIAL  SKILLS  AND THEORY  OF MIND
+
+Table  3
+Means,  Standard Deviations,  and Ranges  of  Measures:
+Study  2(N  =  52)
+
+Measure
+
+Age  (in  months)
+TACL-R
+False-belief  task  score
+Teacher  rating  of  popularity
+Teacher  rating  of  social  skills
+
+M
+
+60.7
+76.8
+2.94
+9.93
+22.92
+
+SD
+
+9.2
+18.6
+1.06
+2.30
+4.38
+
+389
+
+Range
+
+40-83
+32-110
+0-4
+5-12
+12-28
+
+boys  and  22 girls). Children  came from  predominantly  White,  middle- to
+upper-class  families  living  in  or around  Morgantown,  West  Virginia.
+
+Measures
+
+Language  assessment.  The three  scales  of  the  TACL-R  were  admin-
+istered  to each  child  and  scored  according  to the procedures  described  in
+Study  1.
+
+False-belief  tasks.  The  first  false-belief  task  used  the  same  format  as
+that in Study  1, except that a box of chocolate candy that actually contained
+multicolored  buttons  was  used  and  only  the  question  that  included  the
+phrase  "before  we  opened  it"  was  asked.  Children  were  shown  the  box,
+asked what was inside it, shown what the box held, and then asked to state
+what they thought was in the box before  it was opened. Next, a small doll
+was  introduced.  Children  were  then  asked  what  the doll  would  think  was
+inside the box after  they were reminded that the doll was not present when
+the box was opened before. Children received  1  point for  a correct answer
+to each  test  question.
+
+In a second false-belief  task, the children were shown two puppets, Max
+and  his  mom,  and  were  told  that  the  puppets  had  just  returned  from  a
+shopping  trip  where  they  bought  some  chocolate  (Wimmer  &  Perner,
+1983).  "Pretend"  chocolate  was  used  to  reduce  the  salient  effects  of  real
+chocolate  (Chandler, Lalonde, Hala, & Fritz,  1991). The children  watched
+as the mom puppet placed the chocolate in a small cupboard (Cupboard A).
+The  Max  puppet  then  left  the  room.  During  his  absence,  Max's  mother
+moved  the  chocolate  from  Cupboard  A  to  a different  location  (Cupboard
+B). Max then returned to the room. Three premise understanding  questions
+were then asked to ensure that the children understood the relevant aspects
+of the story: (a) "Where did the pretend chocolate used to be?" (b) "Where
+is the pretend chocolate  now?" and  (c) "Did  Max  see the chocolate  being
+moved?" After  correctly answering these questions (parts of the story were
+repeated  if  the  children  gave  any  incorrect  answers),  the  children  were
+asked two test questions: (a) "Where will Max think the chocolate is when
+he comes  back?" and  (b)  "Where  will  Max  first  look  for  the  chocolate?"
+Children received  1  point for  a correct answer to each test question. These
+scores were added to the unexpected-contents task score, and thus the total
+false-belief  score ranged  from  0 to 4.
+
+Teacher  ratings  of prosocial  behavior.  Teachers  were  asked  to  com-
+plete  the  10-item  adaptation  of  Harter's  (1979)  Perceived  Competence
+Scale  for  Children  for  each  participant  in  the  study.  Teachers  rated  each
+item  using  a 4-point  response  scale. Each  item  contained  a contrast  con-
+cerning social behavior (e.g., "Compared to other children this child's age,
+this child has very good social skills" vs. "Compared  to other children  this
+child's  age,  this  child  does  not  have  very  good  social  skills").  After
+choosing  between  these  contrasts,  the  teachers  were  asked  to  indicate
+whether  these  statements  were  "sort  of  or  "really"  true.  High  scores
+indicate  more competence.  Seven  of the items assessed  children's  general
+social  skills  (e.g.,  "This  child  usually  acts  appropriately"  vs. "This  child
+usually  acts  inappropriately"),  and  3  of  the  items  assessed  children's
+popularity  (e.g.,  "This  child  has  a  lot  of  friends"  vs. "This  child  doesn't
+have a lot of friends").  Two separate  scores were derived  from  these item
+sets.
+
+Results
+
+Table 3 shows the means, standard deviations, and ranges for all
+of the measures. Again, children's scores were in the normal range
+on  the  standardized  assessment  of  language  comprehension.  All
+data  were  examined  for  univariate  and  bivariate  outliers,  and  no
+influential  points  were  found.  TACL-R  scores  for  4  participants
+were  not  complete,  and  these  participants  were  dropped  from  all
+analyses.
+
+Table  4  shows  the correlations  between  the  covariates  and  the
+other  variables.  Both  age  and  language  comprehension  were  sig-
+
+Note.  TACL-R  =  Test for  the Auditory  Comprehension  of  Language-
+Revised.
+
+nificantly  and positively correlated  with false belief and the Social
+Skills scale score. Only language comprehension was  significantly
+and positively  correlated  with  the Popularity  scale  score.
+
+The  correlation  between  Social  Skills  and  Popularity  scale
+scores  was  .81  (p  <  .01), indicating  substantial  overlap  between
+these two measures. However,  although  at the zero-order  correla-
+tion  level,  false-belief  task  performance  was  significantly  related
+to  both  the  Social  Skills  scale  score  (r  =  .60, p  <  .01)  and  the
+Popularity scale score (r  =  .41, p  <  .01), the difference  in the size
+of  these  two correlations  was  also  significant,  f(49)  =  2.75, p  <
+.01. This finding, in conjunction  with the fact that social skills and
+popularity  have  been  conceptualized  as  somewhat  different  con-
+structs in previous research  (Eisenberg et al.,  1993), indicates that
+conducting  separate multiple regression analyses for the two mea-
+sures  was  appropriate.
+
+To  control  for  the effects  of  age and language  comprehension,
+we first entered these covariates in a block in a multiple regression
+analysis  with  social  skills  as  the  dependent  variable.  These  vari-
+ables accounted for 24% of the variance in the teacher ratings, F(2,
+49)  =  7.65, p  <  .01.  Only the beta weight for the TACL-R  score
+was  significant  (.48,  p  <  .01).  The  false-belief  score  was  then
+entered on the second step, producing an R2  incremental change of
+14%, which was significant,  F(\,  48)  =  11.11, p  <  .01. The final
+regression  equation  accounted  for  38% of  the variance  in  teacher
+reports  of  social  skills,  F(3, 48)  =  9.85, p  <  .01. Only  the  beta
+weight  for  the false-belief  score  (.57, p  <  .01) was  significant  in
+this  final  equation.
+
+The second multiple regression analysis to control for the  effects
+of age and language comprehension  on the relation between  false-
+belief  understanding  and  teacher  ratings  of  popularity  was  then
+conducted. When the two covariates were entered as a block on the
+first  step,  16% of  the  variance  in  the  Popularity  scale  score  was
+accounted  for,  F(2, 49)  =  4.58, p  <  .05. Only the beta weight  for
+the TACL-R  score was significant  (.42, p  <  .05). The  false-belief
+score  was  entered  on  the  second  step, producing  an  insignificant
+incremental change in R2  of 4%. This equation accounted for 20%
+of the variance in Popularity scale scores, and although the final F
+value was significant,  F(3, 48)  =  3.94, p  <  .05, none of the final
+beta weights  were  significant.
+
+Discussion
+
+The data from  Study  2 support  those  of Study  1, using  slightly
+different  false-belief  measures,  standardized  teacher  ratings  of
+social  competence,  and  a  larger  sample  size.  Age  and  language
+
+390
+
+WATSON, NIXON, WILSON,  AND  CAPAGE
+
+Table 4
+Correlations  of  Covariates  With False-Belief  Score  and  Teacher
+Ratings  of Social Skills  and Popularity:  Study  2 (N  =  52)
+
+Covariate
+
+False  belief
+
+Social  skills
+
+Popularity
+
+Age
+TACL-R
+
+.61**
+.72**
+
+.30*
+.49**
+
+.21
+.39**
+
+Note.  TACL-R  = Test for  the Auditory Comprehension  of  Language
+Revised.
+*p<.05.  **p<.0\.
+
+were  significantly  correlated  with  false-belief  reasoning,  as has
+been found in previous research (Brown et al., 1996; Watson et al.,
+1998). This result provides critical support to the replication of the
+relation  between  false  beliefs  and  social  skills  found  in  Study 1,
+after we controlled for shared variance due to these variables in the
+regression analyses. Of note, after  we controlled  for the effects  of
+age and language ability, false-belief  understanding predicted sig-
+nificant  amounts  of  additional  variance  in  the  social  skills  score
+but not the popularity score. Eisenberg et al. (1993) found that both
+emotionality  (e.g.,  emotional  intensity  and  levels  of  negative af-
+fect)  and  regulation  skills  (e.g.,  attentional  control  and  coping
+mechanisms)  were related  to evaluations  of  popularity  and  social
+skills  (all  ratings  were  done  by teachers).  However,  regulation
+behaviors  were a more  important  component  of the  social  skills
+assessment,  suggesting  links  between  metacognitive  skills  and
+social  behavior  that  are  independent  of  peer  regard.  The  present
+results are consistent  with this finding, as false-belief  understand-
+ing might be expected to impact regulatory processes more directly
+than emotional  arousal. This interpretation  is preliminary but sug-
+gests  important  directions  for  future  research  on  associations  and
+dissociations  of  temperament,  regulation,  metacognition,  and  so-
+cial  functioning  in  preschoolers.
+
+General  Discussion
+
+The study of individual differences  is predicated on the assump-
+tion  that  practice  in certain  skills  should  have  consequences  for
+performance  on other tasks. The findings of these  studies  support
+the idea that the development of theory-of-mind understanding that
+is  tapped  by  the  false-belief  measures  is significantly  related to
+important  aspects of social behavior (Astington  & Jenkins, 1995).
+What  remains  unclear,  however,  are  questions  concerning  causal
+mechanisms and direction of effects.  It is critical to remember that
+the  majority  of studies  conducted  on individual  differences in
+theory-of-mind  development  thus  far  have  been  correlational,  in-
+cluding  the  present  ones,  and  there  can  be  no  inferences  drawn
+about causality. Even for those studies that have made assessments
+longitudinally  instead  of concurrently,  possible  third  underlying
+variables  may  be  responsible  for  development  in both  domains
+(Youngblade & Dunn,  1996). Bidirectionality  of effects  and recip-
+rocal 
+social-
+conceptual understanding and social skills. Abundant and success-
+ful  social  interactions  most  likely  provide  the  opportunity for
+increased  learning  about  thought-behavior  relations,  and a more
+well-developed  theory  of  mind  seems  likely  to  promote  adaptive
+social  functioning.
+
+interactions  are  particularly 
+
+likely  between 
+
+Clearly, intervention  and training studies are a critical next step
+
+with regard to furthering  understanding  of the causal  implications
+of  the  relations  observed  in this,  and  previous,  research.  For
+example, Dockett and Smith (1995) gave one group of participants
+a  play  training  intervention  in a preschool  setting  that  entailed
+participation  in  complex  shared  pretense  about a visit  to a pizza
+restaurant. Compared  with a control group, the intervention  group
+showed  advanced  performance  on  false-belief  understanding  and
+the use of  mental  state references  in  spontaneous  speech  at  post-
+test. Additional research is necessary to replicate and extend these
+findings  to examine  potential  consequences  in  the  social  domain
+that  result  from  such  intervention.  Such  studies  not  only  will
+contribute  to  understanding  the  causal  mechanisms  involved  but
+also  would  have  direct  implications  for  social  skills  training in
+preschoolers  at  risk  for,  or already  exhibiting,  peer  interaction
+difficulties  (Capage  & Watson,  1998).  The  ability  to  fluently
+appreciate  and  accurately  evaluate  multiple  perspectives  on  a
+given  situation,  and  posit  causal  relations  between  past,  present,
+and future  environmental  events  and behavior  through  the use of
+mental  phenomena  as  intervening  variables,  may  enhance  chil-
+dren's  ability  to  guide  behavioral  reactions  to external  stimuli  in
+such  a  way  as to enable  less  conflictual  and  more  satisfying
+relations  with others.
+
+The traditional false-belief  task taps children's ability to explic-
+itly  discuss,  that  is,  verbalize  to self  and  to  others,  the  relation
+between environmental events and behavior using mentalistk  lan-
+guage, and it is this metacognitive  ability  that is predicting  social
+skills. Possible  links  to more  sophisticated  mentalistic  interpreta-
+tions of behavior should also be considered  in future  research. For
+example,  Pillow  and  Lovett  (1995)  described  the  increasing  use
+across the preschool  and school  years of cognitive process  expla-
+nations  (e.g.,  forgetting,  selective  attention,  lack  of perceptual
+access) and mental  state terms for  the mistaken  action of  another
+(see  also  Pillow  & Henrichon,  1996).  In looking  at individual
+differences,  it is  even  possible  to  project  out  to  adolescence  and
+adulthood  and  ask  whether  early  differences  have  consequences
+for later complex  social-cognitive  behaviors  such as  appreciating
+legal  definitions  of  personal  responsibility  (Goodnow  &  Warton,
+1992). Continued empirical investigation  of individual  differences
+and of the  mechanisms  through  which  individual  differences in
+child behavior  with  others influence  development  is an  important
+next  step in researchers'  continuing  exploration  of children's  the-
+ory  of  mind.
+
+References
+
+Astington, J. W.,  &  Gopnik,  A.  (1988).  Knowing  you've  changed  your
+
+mind:  Children's  understanding  of representational  change.  In J.  W.
+Astington,  P.  L.  Harris,  &  D.  R.  Olson  (Eds.), Developing  theories of
+mind (pp.  193-206). Cambridge, England: Cambridge University Press.
+Astington, J. W., Harris, P. L., & Olson, D. R. (Eds.). (1988). Developing
+
+theories of mind. Cambridge, England: Cambridge  University  Press.
+
+Astington,  J.  W.,  &  Jenkins, J.  M.  (1995). Theory  of  mind  development
+
+and  social  understanding.  Cognition and Emotion,  9,  151-165.
+
+Baron-Cohen,  S., Tager-Flusberg,  H.,  & Cohen,  D. J. (Eds.).  (1993).
+Understanding other minds: Perspectives from  autism. Oxford, England:
+Oxford  University  Press.
+
+Bartsch,  K.,  &  Estes,  D.  (1996).  Individual  differences  in  children's  de-
+veloping  theory  of  mind  and  implications  for  metacognition.  Learning
+and Individual  Differences,  8,  281-304.
+
+Bartsch, K., & Wellman, H. (1989). Young children's attribution of action
+
+to beliefs  and  desires.  Child Development,  60,  946-964.
+
+SOCIAL  SKILLS  AND THEORY  OF MIND
+
+391
+
+Bierman,  K.  L.,  &  Montminy,  H.  P.  (1993).  Developmental  issues  in
+social-skills  assessment  and intervention  with children  and  adolescents.
+Behavior  Modification,  17, 229-253.
+
+Brown,  J.  R.,  Donelan-McCall,  N.,  &  Dunn,  J.  (1996).  Why  talk  about
+mental states? The significance  of children's conversations with  friends,
+siblings, and  mothers.  Child Development,  67,  836-849.
+
+Capage,  L.,  &  Watson,  A.  C.  (1998).  Social  cognition  and  aggressive
+
+behaviors  in preschoolers.  Manuscript  submitted  for  publication.
+
+Carrow-Woolfolk,  A. (1985). The Test for  the Auditory  Comprehension of
+
+Language—Revised. Chicago: Riverside.
+
+Chandler,  M.  J.,  Lalonde,  C.  E.,  Hala,  S.,  &  Fritz,  A.  (1991,  July).
+Children's  theories of mental  life and social practices.  Paper  presented
+at  the  biennial  meetings  of  the  International  Society  for  Studies  in
+Behavioural  Development,  Minneapolis,  MN.
+
+Cohen,  J.  (1968).  Weighted  kappa:  Nominal  scale  agreement  with  provi-
+sion for scaled disagreement or partial credit. Psychological Bulletin, 70,
+213-220.
+
+Dockett,  S.,  &  Smith,  I.  (1995, March).  Children's  theories of  mind  and
+their involvement  in complex  shared pretense.  Poster  session  presented
+at  the  biennial  meeting  of  the  Society  for  Research  in  Child  Develop-
+ment,  Indianapolis,  IN.
+
+Dunn, J.  (1994). Changing  minds and changing relationships. In C. Lewis
+&  P. Mitchell  (Eds.), Children's  early  understanding  of  mind: Origins
+and development  (pp. 297-310).  Hillsdale,  NJ:  Erlbaum.
+
+Dunn,  J.  (1995).  Connections  between  emotion  and  understanding  in
+
+development.  Hillsdale, NJ:  Erlbaum.
+
+Dunn, J.,  Brown,  J.,  & Beardsall,  L.  (1991). Family  talk  about  emotions,
+and  children's  later  understanding  of  others'  emotions.  Developmental
+Psychology,  27,  448-455.
+
+Dunn, J., Brown, J., Slomkowski, C,  Tesla, C,  & Youngblade, L. (1991).
+Young  children's  understanding  of  other people's  feelings  and  beliefs:
+Individual  differences  and  their  antecedents.  Child  Development,  62,
+1352-1366.
+
+Eisenberg,  N.,  Fabes,  R.  A.,  Bernzweig,  J.,  Karbon,  M.,  Poulin,  R.,  &
+Hanish,  L.  (1993).  The  relations  of  emotionality  and  regulation  to
+preschoolers'  social  skills  and  sociometric  status.  Child  Develop-
+ment,  64,  1418-1438.
+
+Feldman,  C. (1992). The new theory  of theory  of  mind. Human  Develop-
+
+ment,  35,  107-117.
+
+Frye, D., & Moore, C. (1991). Children's  theories  of mind: Mental  states
+
+and social  understanding.  Hillsdale, NJ:  Erlbaum.
+
+Furrow,  D., Moore, C,  Davidge, J., & Chiasson, L. (1992). Mental  terms
+in  mothers'  and  children's  speech:  Similarities  and relationships.  Jour-
+nal of  Child Language,  19, 617-631.
+
+Goodnow,  J.  J.,  &  Warton,  P.  M.  (1992).  Understanding  responsibility:
+Adolescents'  views of delegation  and follow-through  within the  family.
+Social Development,  1, 89-106.
+
+Gopnik,  A.,  &  Astington,  J.  W.  (1988). Children's  understanding  of  rep-
+resentational  change and  its relation to the understanding of false  belief
+and  the  appearance-reality  distinction.  Child Development,  58,  26-37.
+Gopnik,  A.,  &  Slaughter,  V.  (1991).  Young  children's  understanding  of
+
+changes  in their mental  states.  Child Development,  62, 98—110.
+
+Hala,  S.,  Chandler,  M.,  &  Fritz,  A.  (1991).  Fledgling  theories  of  mind:
+Deception  as  a  marker  of  3-year-olds'  understanding  of  false  belief.
+Child Development,  61,  83-97.
+
+Happe,  F.  G.  (1995).  The  role  of  age  and  verbal  ability  in  the  theory  of
+mind task performance  of subjects  with autism. Child Development,  66,
+843-855.
+
+Harter,  S.  (1979).  Perceived  Competence  Scale  for  Children:  Manual.
+
+Denver,  CO: University  of  Denver.
+
+Howe,  N.  (1991).  Sibling-directed  internal  state  language,  perspective-
+
+taking, and  affective  behavior.  Child Development,  62,  1503-1512.
+
+Jenkins, J. M., & Astington, J. W. (1993, March). Cognitive, linguistic, and
+social factors  associated  with  theory  of  mind  development  in  young
+children.  Paper  presented  at  the  biennial  meeting  of  the  Society  for
+Research  in  Child  Development,  New  Orleans, LA.
+
+Lalonde, C. E., & Chandler, M. J. (1995). False belief  understanding goes
+to  school:  On  the  social—emotional  consequences  on  coming  early  or
+late to a first  theory  of  mind.  Cognition  and Emotion,  9,  167-186.
+
+Lewis, C,  & Mitchell, P. (Eds.). (1994). Children's  early understanding of
+
+mind: Origins and development.  Hillsdale,  NJ:  Erlbaum.
+
+Lewis,  C,  &  Osborne,  A.  (1990).  Three-year-olds'  problems  with  false
+belief: Conceptual  deficit  or linguistic  artifact?  Child Development,  61,
+1514-1519.
+
+Mitchell, P., & Lacohee, H. (1991). Children's early understanding of  false
+
+belief.  Cognition, 39,  107-128.
+
+Perner,  J.,  Ruffman,  T.,  &  Leekam,  S.  R.  (1994).  Theory  of  mind  is
+contagious: You catch it from  your sibs. Child Development, 65,  1228-
+1238.
+
+Perner,  J.,  &  Wimmer,  H.  (1987).  Three-year-olds'  difficulty  with  false
+belief: The case for conceptual deficit. British Journal of Developmental
+Psychology,  5,  125-137.
+
+Pillow, B. H., & Henrichon, A. J. (1996). There's more to the picture than
+meets  the eye:  Young  children's  difficulty  understanding  biased  inter-
+pretation.  Child Development,  67,  803-819.
+
+Pillow,  B.  H.,  &  Lovett,  S.  B.  (1995, March).  "He forgot":  Young chil-
+dren's  use  of  cognitive  explanations  for  another  person's  mistakes.
+Poster  session  presented  at  the  biennial  meeting  of  the  Society  for
+Research  in Child  Development,  Indianapolis,  IN.
+
+Robinson,  E. J.,  &  Mitchell,  P.  (1992). Children's  interpretation  of  mes-
+sages  from  a speaker  with  a false  belief.  Child Development,  63,  639-
+652.
+
+Slaughter,  V.,  & Gopnik,  A.  (1996). Conceptual  coherence  in  the  child's
+theory  of  mind: Training  children  to understand  belief.  Child Develop-
+ment,  67, 2967-2988.
+
+Taylor,  M.,  &  Carlson,  S.  M.  (1997).  The  relation  between  individual
+differences  in  fantasy  and  theory  of  mind.  Child  Development,  68,
+436-455.
+
+Taylor,  M.,  Gerow,  L.  E.,  &  Carlson,  S. M.  (1993,  March).  The  relation
+between  individual  differences  in fantasy  and  theory  of  mind.  Paper
+presented  at the  biennial  meeting  of  the  Society  for  Research  in  Child
+Development,  New  Orleans, LA.
+
+Watson, A. C,  Painter, K. M., & Bornstein, M. H. (1998). Theory of mind
+at  48  months:  Individual  differences  and  longitudinal  relations  to lan-
+guage  ability.  Manuscript  in  preparation.
+
+Wellman, H. M. (1990). The child's  theory of mind. Cambridge, MA: MIT
+
+Press.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and
+the  constraining  function  of  wrong  beliefs  in  young  children's  under-
+standing  of  deception.  Cognition,  13,  103-128.
+
+Youngblade,  L.  M.,  &  Dunn,  J.  (1996).  Individual  differences  in  young
+children's  pretend  play  with  mother  and  sibling:  Links  to  relationships
+and  understanding  of  other  people's  feelings  and  beliefs.  Child Devel-
+opment,  66,  1472-1492.
+
+Received  March  13, 1997
+Revision  received  April  29,  1998
+Accepted  April  29,  1998
+
+

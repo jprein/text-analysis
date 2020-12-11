@@ -1,0 +1,1822 @@
+Understanding Others, and Individual
+Differences in Friendship Interactions in Young
+Children
+Judy Dunn and Alexandra L. Cutting, Institute of Psychiatry, London
+
+Abstract
+
+Links  between  individual  differences  in  4-year-olds’  social  understanding,  language
+abilities,  temperament,  behavioral  adjustment  and  family  background  and  the  quality
+of their interaction with a close friend were investigated. 64 pairs of friends were ﬁlmed
+playing together on two occasions, and each child tested on a battery of assessments of
+theory of mind, emotion understanding and language. Teachers and mothers reported
+on children’s adjustment and temperament respectively. There were marked differences
+in children’s interactions with their friends; the sociocognitive abilities and behavioral
+characteristics of both child and friend contributed signiﬁcantly to cooperative shared
+pretend, to low frequency of conﬂict and to successful communication between friends;
+behavioral adjustment and family background also contributed independently to friend-
+ship quality. The similarity between friends in behavioral adjustment and sociolinguistic
+skills was notable.
+
+Keywords: Theory of mind; friendship; language
+
+How  are  individual  differences  in  young  children’s  understanding  of  other  minds
+and of emotions related to their real-life interactions with other children? The devel-
+opmental  changes  that  take  place  between  two  and  ﬁve  years  in  children’s  under-
+standing of the links between people’s inner states and their actions are striking, and
+this understanding is of central signiﬁcance not only for cognitive development but
+also  for  children’s  social  relationships  (Astington,  1994;  Baron-Cohen,  1994).
+Children’s capacities for empathy, for understanding how to comfort or to frustrate,
+for  sharing  imaginative  worlds,  for  deceiving  and  teasing,  and  for  negotiation  and
+compromise in conﬂict are all linked to their growing understanding of the connec-
+tions between what people want or believe and their behavior.
+
+To  begin  to  document  the  nature  of  the  links  between  the  development  of
+preschool children’s understanding of others and the quality of their close relation-
+ships with other children, we need research that investigates individual differences in
+mindreading  and  emotion  understanding  and  their  association  with  differences  in
+friendship  quality.  To  date,  relatively  little  research  has  examined  connections
+between individual differences in understanding of inner states and social behavior.
+A  particular  gap  has  been  in  the  study  of  close  friendships  in  young  children.  We
+
+Address correspondence to Judy Dunn, Social, Genetic and Developmental Psychiatry Research Centre,
+Institute of Psychiatry, De Crespigny Park, Denmark Hill, London SE5 8AF, UK.
+
+© Blackwell Publishers Ltd. 1999. Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UK and 350 Main Street,
+Malden, MA 02148, USA.
+
+202
+
+Judy Dunn and Alexandra L. Cutting
+
+know  something  of  the  connections  between  social  understanding  and  children’s
+popularity  and  rejection  within  peer  group  settings  (Rubin,  Bukowski,  &  Parker,
+1997),  their  social  competence  in  the  classroom  as  judged  by  teachers  (Lalonde  &
+Chandler, 1995), their engagement in joint pretend play in group settings (Astington
+&  Jenkins,  1995),  and  the  links  between  preschoolers’  affective  perspective  taking
+skills  and  their  social  behavior  in  group  settings  (Denham,  1986;  Denham,
+McKinley,  Couchoud  &  Holt,  1990).  It  has  been  argued  that  differences  in  emo-
+tional understanding mediate the links between family relationships and difﬁculties
+in peer relations (Cassidy, Parke, Butkowsky, & Braungart, 1992).
+
+But there has been as yet little systematic research on how the quality of young
+children’s interactions in close relationships with other children are related to differ-
+ences in their understanding of inner states. Here we investigated links between chil-
+dren’s social understanding and the quality of their interactions with their friends in
+a sample of urban children from a wide range of social backgrounds. Information on
+sociocognitive and language ability, temperament, behavior problems, parental edu-
+cation  and  family  background  was  available  for  both  children  in  each  friendship
+dyad. The children’s sociocognitive and language development was studied in detail
+(Cutting & Dunn, 1998), with a battery of tasks concerning theory of mind, decep-
+tion,  emotion  understanding,  vocabulary  and  narrative  abilities.  Our  goal  was  to
+examine the relations between these aspects of social cognition, language ability and
+children’s communication, conﬂict and cooperation in play with their friends. Thus
+we focussed on detailed observation of the children’s friendship interaction, rather
+than on reports of broad positive and negative dimensions of friendship.
+
+Interaction Between Friends
+
+Friendships in early childhood are receiving increasing attention from researchers and
+clinicians. Such relationships can be formed very early in the preschool period, show
+considerable  stability  (Howes,  1988,  1996;  Howes,  Droege  &  Mathesen,  1994),  and
+can provide signiﬁcant sources of support for children undergoing potentially stressful
+changes such as the transition to school (Ladd & Kochenderfer, 1996), or the family
+disruption accompanying the birth of a sibling (Gottman, 1986; Kramer & Gottman,
+1992). Friendships provide a context in which children’s social and moral development
+may  be  fostered,  but  the  developmental  signiﬁcance  of  the  relationship  is  likely  to
+depend on the quality of the friendship (Hartup, 1996). Yet individual differences in
+friendships between young children have been relatively little studied.
+
+The aspects of interaction between the friends which we investigated here included
+ﬁrst,  children’s  engagement  in  joint  pretence  with  their  friends.  The  sharing  of  an
+imaginative  framework  constitutes  a  kind  of  intimacy  between  very  young  friends
+(Howes, 1996; Howes, Unger, & Mathesen, 1992; Parker & Gottman, 1989), evident
+well before the explicit verbal disclosures of later friendships. Pretend play between
+friends  is  more  sustained  and  harmonious  than  play  between  acquaintances
+(Gottman & Parkhurst, 1980; Howes, Droege, & Mathesen, 1994), and the ability to
+‘play’ with pretence has been shown to be importantly linked to the understanding
+of mental states (Harris & Kavanaugh, 1993; Hughes & Dunn, 1997; Leslie, 1987).
+
+Second, the frequency of play that did not involve pretence but was coordinated
+between both partners was documented—in view of Gottman’s (1986) emphasis on
+coordinated play as the core feature of friends’ interaction in early childhood. Third,
+we recorded conﬂict between the children—known to differ markedly across friend-
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+ships  in  older  children  (Hartup,  1992).  Fourth,  we  focussed  on  the  quality  of
+amity—the sharing of amusement and positive affect (Gottman, 1983). In addition,
+we  examined  the  children’s  ‘failures’  in  communication  with  their  friends,  their
+unsuccessful bids for attention, and their own lack of responsiveness to their friends’
+attempts at joint play or conversation.
+
+Friends 203
+
+Links Between Differences in Friendship Interaction and Children’s Characteristics
+
+It is likely, of course, that individual differences in friends’ interactions are related to
+a  wide  range  of  factors,  including  family  relationships  (Herrera  &  Dunn,  1997;
+Kerns, 1994; Kahen, Fainsilber-Katz, & Gottman, 1994). This study was a ﬁrst step
+in examining one set of such correlates. Our predictions were ﬁrst that the theory of
+mind and emotion understanding skills of both child and friend would be related to
+the children’s engagement in pretend play, and to the relative ‘success’ of children’s
+communication.  Second,  temperamental  characteristics  (speciﬁcally  shyness  and
+negative emotionality) and behavioral problems (such as hyperactivity) of both child
+and partner were also predicted to be associated with high rates of failures in com-
+munication between friends, and with frequency of conﬂict moves towards friends.
+The extent to which these connections would be dependent on the children’s linguis-
+tic  skills  or  sociocognitive  abilities  was  a  matter  for  investigation.  While  social
+understanding is clearly implicated in how children behave during disputes (Dunn &
+Herrera,  1997)  it  is  not  clear  that  the  amount of  conﬂict  between  friends  is  also
+related to their sociocognitive abilities. Third, we predicted that sociocognitive abili-
+ties  would  not  be  related  to  the  children’s  expression  of  shared  positive  affect  and
+excitement with their friends—the amity in their interaction—given the evidence of a
+study  by  Maguire  and  Dunn  (1997),  but  that  children’s  temperament  and  adjust-
+ment would be important here. Shy children and those who were likely to become
+easily distressed or angry, those with attention and overactivity problems, were pre-
+dicted to show less amity towards their friends.
+
+In summary, our aims were, ﬁrst, to describe the nature and range of individual
+differences in children’s interactive behavior with their friends; second, to examine
+the links between these differences and the children’s individual characteristics both
+in terms of individual correlations, and in terms of the combined and unique vari-
+ance in interaction measures explained by these variables. A third aim was to docu-
+ment the signiﬁcance of partner’s characteristics for children’s interaction with their
+friends, again in terms of combined and unique variance explained.
+
+Method
+
+Participants
+
+128 children (63 girls, 65 boys) with a mean age of 4.16 years (range 3.49–4.80 years)
+participated in the study. The children attended nursery schools in South London,
+and came about equally from middle class and working class backgrounds—the lat-
+ter  included  considerable  urban  deprivation.  68%  were  White,  26%  were  Black  or
+Mixed race, and 6% were from other ethnic groups. Children were recruited to the
+sample if they had a close friend: identiﬁcation of friends was on the basis of three
+criteria—they were named as reciprocal friends by their teachers, and their mothers,
+and  were  behaviorally  identiﬁed  as  friends  following  the  observational  criteria  of
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+204
+
+Judy Dunn and Alexandra L. Cutting
+
+Howes  and  Phillipsen,  (1992).  Two  observations  were  conducted  for  each  target
+child (i.e., 4 observations for the dyad) one week apart; each observation involved
+scans in which the target child was observed for 30 seconds, at intervals of 90 sec-
+onds,  for  a  30-minute  period.  Children  were  identiﬁed  as  friends  if  they  were
+observed to maintain proximity within 3 feet of each other, to be engaged in inter-
+active social play, and to engage in shared positive affect during at least 30% of the
+combined observations of the two children.
+
+Procedure
+
+After  the  scanning  and  recruitment  procedures,  each  child  was  seen  twice  at  the
+nursery  and  once  at  home.  A  battery  of  theory  of  mind,  language  and  emotion
+understanding tasks was administered over the course of these visits. Two 20-minute
+videotaped observations of the child and friend playing alone together were also car-
+ried  out,  on  average  one  week  apart;  each  dyad  was  ﬁlmed  playing  together  in  a
+room with no-one else present, with a set of dressing up clothes and toys provided by
+the  experimenter  (Gottman,  1983).  Information  on  children’s  adjustment  was  col-
+lected from teachers, on family background and temperamental characteristics from
+parents during the home visit. Some children did not complete every task for a vari-
+ety of reasons (e.g., absence from school) so the N varied slightly across tests.
+
+Theory of Mind and Deception Tasks
+
+An aggregate score of children’s success on a total of seven theory of mind tasks (all
+of which involved predicting, explaining or recalling a false belief), and a deception
+task was employed. For details of these see Cutting and Dunn (1998).
+
+Unexpected  Location  Tasks.  Four  unexpected-location  stories  with  puppets  were
+used, based on those of Bartsch and Wellman (1989): two required the explanation,
+and  two  the  prediction  of  a  character’s  action  based  on  false  belief.  All  stories
+involved a plain and an archetypal box, the archetypal contents being in the plain
+box.  In  the  explanation  stories,  children  scored  two  points  if  they  spontaneously
+referred to a mistaken belief in explaining the puppet’s action and passed the reality
+control question, 1 point if they referred to a mistaken belief after prompting (‘What
+does he think?’) and passed the reality control question, and 0 points if no clear ref-
+erence was made to a mistaken belief. In the prediction task, the children were asked
+to predict in which of the two boxes the puppet would look. They were coded as suc-
+cessful if they responded correctly to both the test question and the reality control
+question (‘Will (puppet) ﬁnd the Lego/cereal there?’).
+
+Current False-Belief Tasks. Children heard two stories based on Harris, Johnson,
+Hutton, Andrews and Cooke (1989), involving a surprise. One involved a nasty sur-
+prise, in which a character exchanged his friend’s favorite drink for a disliked drink
+when his friend was away. The second involved a nice surprise, in which a character
+exchanged  a  friend’s  disliked  food  for  liked  food,  again  in  the  friend’s  absence.
+Children  were  credited  with  success  on  each  task  if  they  correctly  stated  what  the
+friend thought he was getting to eat/drink, and what he was really getting. Children
+were also asked to state a character’s current false belief using the ‘Can’t sleep’ task
+(Moerbeek, 1994; see Cutting & Dunn, 1998 for details).
+
+Deception Task. The deception task used was Sodian and Frith’s (1992) one-box
+puppet deception game; four kinds of trial are involved: non-verbal and verbal coop-
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Friends 205
+
+eration  with  a  ‘nice’  princess  puppet,  and  non-verbal  and  verbal  competition  (i.e.,
+sabotage and deception) with a ‘mean’ burglar puppet. The Sodian and Frith proce-
+dures  were  followed,  with  the  test  trials  presented  in  counter-balanced  order.
+Following Sodian and Frith’s criteria, the child gained 2 points if successful on all
+four test trials, 1 point if s/he failed the verbal deceit and cooperation but managed
+nonverbal deceit and cooperation, and 0 for any other pattern of performance.
+
+Aggregate  Score  on  Theory  of  Mind/Deception.  Children  scored  1  point  for  each
+false  belief  task  passed,  except  for  the  explanation  tasks  where  2  points  were
+awarded  (1  for  prompted  explanations),  and  up  to  2  points  in  the  deception  task.
+Intertask  correlations  for  the  theory  of  mind  scores  were  high  (Cutting  &  Dunn,
+1998),  with  virtually  every  task  correlating  above  p , .01  with  every  other  task
+(Cronbach’s alpha for all 8 tasks 5 .80). An aggregate score for each child was cal-
+culated as number of points scored divided by the maximum number of points the
+child could have scored (excluding missing tasks and tasks in which the child failed
+the control). A wide range of individual differences was apparent (Table 1).
+
+Affective Perspective-Taking. Denham’s (1986) procedures were employed: In this
+study we used the affective perspective-taking score, which is based on 16 vignettes
+enacted by a puppet (matched to the child for gender and race), in which the protag-
+onist feels happiness, sadness, anger or fear. The ﬁrst 8 of the vignettes reﬂect what
+most children typically feel in a given situation. In the other 8 vignettes the puppet’s
+emotion differed from the emotion that the mother said the child typically expressed
+in such a situation. At the end of each story children were asked how the puppet felt;
+they  could  respond  verbally  or  nonverbally  by  selecting  one  of  four  faces.  Two
+points were scored for correct identiﬁcation, one for the correct valence but wrong
+speciﬁc emotion (e.g., ‘sad’ instead of ‘afraid’). Scores were summed for all vignettes
+(maximum score 5 32). Cronbach’s alpha 5 .73.
+
+Emotion  Understanding  Within  Relationships.  A  second  procedure,  based  on  an
+interview used by Cassidy (Cassidy et al., 1992), focussed on children’s accounts of
+causes of emotion in their mothers, themselves, and their friends (Dunn & Hughes,
+1998). Children were shown faces representing four emotions (happy, sad, angry and
+scared). After they had correctly identiﬁed each emotion, children were asked what
+made  themselves,  their  mother  and  their  friends  feel  each  emotion  (see  Dunn  &
+Hughes, 1998, for details); responses were tape-recorded and transcribed verbatim.
+The  adequacy of  their  response  was  coded  on  a  5-point  scale  in  which  0  5 no
+response, refusal, denial; 2 5 adequate response, which included one word or simple
+clause only, but appropriate and plausible response; 4 5 excellent, including elabo-
+rate response or evidence of insight. Scores were summed across all 4 emotions and 3
+people  to  give  a  total  emotion  understanding  score.  Agreement  on  coding  was
+assessed by two coders rating transcripts from 25 children; Cohen’s kappa was 0.87.
+
+Language Measures
+
+Children’s  verbal  skills  were  assessed  using  measures  of  both  receptive  vocabulary
+(long form of the British Picture Vocabulary Scale (BPVS); Dunn, Dunn, Whetton,
+& Pintilie, 1982), and narrative expressive language ability (The Bus Story, Renfrew,
+1991). The Bus Story involves the child retelling a simple story about a bus from a
+picture book. The child’s story is transcribed verbatim; the primary measure of nar-
+rative  ability  is  ‘information’  (the  content  and  coherence  of  the  story),  which  we
+employ in this study.
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+206
+
+Judy Dunn and Alexandra L. Cutting
+
+Family Background
+Parental educational level was classiﬁed thus: 4 5 college degree or higher, 3 5 up to
+A  level  (equivalent  to  high  school  graduation  in  the  US),  25 up  to  GCSE/O  level
+(national  examinations  taken  at  15/16  years),  1  5 no  qualiﬁcations.  Occupational
+class  was  classiﬁed  using  the  Standard  Occupational  Classiﬁcation  (Ofﬁce  of
+Population Censuses and Surveys, 1991), as follows: I5 professional, II 5 manager-
+ial  or  technical  (e.g.,  teacher,  computer  analyst),  IIIN  5 skilled,  nonmanual  (e.g.,
+secretary, ﬁnancial clerk), IIIM 5 skilled manual (e.g., hairdresser, carpenter), IV 5
+semi-skilled (e.g., security guard), V 5 unskilled (e.g., cleaner, laborer). Information
+was gathered for mothers and fathers; 22% of the families were mother-only families.
+We report here ﬁndings related to mothers’ education and occupation; the pattern of
+ﬁndings was highly similar for paternal occupation and education. Overall, the sam-
+ple was 48% working class and 52% middle class.
+
+Temperament
+
+Children’s  temperament  was  reported  by  mothers,  using  the  20-item  Colorado
+Childhood Temperament Inventory (CCTI; Rowe & Plomin, 1977); given space con-
+straints we include here the ﬁndings on two of the 4 subscales with particular rele-
+vance  to  friendship  interactions:  shyness  and  negative  emotionality.  Cronbach’s
+alpha for shyness was .75, for emotionality was .80.
+
+Children’s Behavioral Adjustment
+
+Children’s behavioral adjustment was assessed by both teachers and parents with the
+Strengths and Difﬁculties Questionnaire (SDQ; Goodman, 1997), a 25-item behav-
+ioral  screening  questionnaire  providing  coverage  of  children’s  behavior,  emotions
+and peer relations, comprising 5 scales of 5 items each, each item rated on a 3-point
+scale. Given space constraints we include here ﬁndings on two of these scales with
+particular  relevance  for  friendship 
+interactions,  as  completed  by  teachers:
+Hyperactivity (which included items on inattentiveness, activity and restlessness: dif-
+ﬁculties  in  close  relationships  with  peers  are  a  central  problem  for  children  with
+attentional  and  activity  problems,  Hinshaw  &  Melnick,  1995);  Prosocial  behavior
+(which included items on kindness, consideration, helping those who are hurt, and
+sharing). Validation of the SDQ, with comparison of parent and teacher ratings is
+reported  in  Goodman  (1997).  Cronbach’s  alpha  for  Hyperactivity  was  .84,  for
+Prosocial was .87.
+
+Observation Measures of Interactive Behavior
+
+The interactive behavior of the children was coded from their conversation during
+the  two  observations,  transcribed  from  the  videotaped  recording.  The  coding  was
+based on speaker turns (all of a speaker’s utterances that are bounded by the utter-
+ances of another speaker, or by a pause of more than 20 seconds). The transcription
+included contextual information from the videotapes, such as pretend actions, non-
+verbal behavior such as physical aggression or provocation, helping actions, shaking
+head (‘no’) or nodding (‘yes’), the joint focus of attention or disagreement over toys,
+joint actions such as running around together, singing together, and the expression
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Friends 207
+
+of positive affect or negative affect. The mean number of child’s audible conversa-
+tion  turns  was  159  (S.D.  54.6).  Measures  are  expressed  as  proportion  of  speaker
+turns (with the exception of amity see below).
+
+The  coding  system  assessed  the  frequency  of  the  following  features  (Gottman,
+1983; Maguire & Dunn, 1997). Cooperative pretend play: discussing a joint pretend
+plan or game, taking a pretend role as part of a joint pretend narrative, or following
+a  pretend  suggestion  of  the  other  child.  Coordinated  play: explicitly  or  implicitly
+agreeing with the other child’s action suggestion, inquiring what the other wanted to
+do, agreeing with a ‘we’ demand or tag question, joining in activity initiated by the
+other; it did not include joint pretend play which was coded as cooperative pretend
+play.  Conﬂict:  prohibiting  another’s  action,  disagreement,  protest,  threat,  insult  or
+refusal of a request. Three further measures reﬂected communication failure or suc-
+cess:  Bids for  attention  or  response  to  which  the  other  child  failed  to  respond:
+explicit demands for attention, help or cooperation that were ignored. Unresponsive:
+failing  to  respond  to  a  comment  or  bid.  Connected  communication: speaker’s  turn
+was  semantically  related  to  the  previous  speaker’s  turn,  but  not  already  coded  as
+cooperative pretend, coordinated play, or conﬂict. These codes were mutually exclu-
+sive. Finally Amity: a child explicitly validated or approved the friend, afﬁrmed the
+friendship,  expressed  affection,  joined  in  joking,  laughing  or  shared  deviance  with
+amusement;  joint  singing,  shouting  was  included.  Amity  was  coded  as  an  event,
+rather  than  as  a  speaker  turn,  as  these  episodes  were  of  variable  length,  and
+expressed as a proportion of the time the children were together.
+
+Agreement  on  coding  of  the  transcripts  (assessed  by  two  coders  independently
+coding transcripts of 24 children) was as follows. Cooperative pretend play: Kappa
+.82, rs .95; coordinated play: Kappa .63, rs .81; conﬂict: kappa .77, rs .88; connected
+conversation: kappa .72, rs .82; bids: kappa .79, rs .81; unresponsive: kappa .80, rs
+.85; amity:rs .92 (kappa not appropriate for this category as it was an event coding
+of variable length).
+
+Results
+
+First, descriptive statistics on children’s characteristics and behavior towards friends
+are  reported.  Second,  correlations  between  the  children’s  interactive  behavior  with
+their friends, and characteristics of children and their friends are reported. Third, the
+combined  and  unique  variance  in  selected  interaction  variables  explained  by  child
+and friend characteristics are investigated using multiple regression analyses.
+
+Descriptive Statistics
+
+Table 1 shows the descriptive statistics for children’s characteristics, hyperactivity and
+prosocial behavior, and mothers’ education and occupational class. Intra-class corre-
+lations between child and friend for these measures were conducted as appropriate for
+analyses in which there are not two independent classes, and Table 1 shows low posi-
+tive  correlations  between  child  and  friend  on  vocabulary  score,  theory  of  mind  and
+shyness,  and  higher  positive  correlations  on  hyperactivity  and  prosocial,  and  on
+maternal  education  and  occupational  class.  Gender  differences  were  tested  for  with 
+t-tests. A marginally signiﬁcant difference was found on the theory of mind aggregate,
+with girls scoring higher; a marked gender difference was found on the hyperactivity
+scale (boys: mean of 3.72 (SD1.88), girls: mean 2.10 (SD 1.88).
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Judy Dunn and Alexandra L. Cutting
+
+208
+Table  1.  Measures  of  Child  Characteristics:  Means,  Standard  Deviations  and  Intra-
+Class Correlations Between Child and Friend (N 5 128; 64 pairs)
+
+Child Measures
+
+Theory of mind/deception
+Vocabulary (B.P.V.S.)
+Narrative (Bus Story)
+Affective perspective taking
+Emotion understanding
+Temperament:
+Emotionality
+Shyness
+
+Adjustment (S.D.Q.)
+
+Hyperactivity
+Prosocial
+
+Agea
+Maternal education
+Maternal occupational class
+
+ayears, * p , .05
+
+Mean
+
+5.10
+97.39
+17.37
+27.02
+23.76
+
+12.69
+11.41
+
+2.92
+6.47
+4.16
+2.83
+2.69
+
+(Standard
+Deviation)
+
+Range
+
+Intra-class
+correlation
+between child
+and friend
+
+(3.44)
+(12.44)
+(8.42)
+(4.26)
+(9.19)
+
+(3.89)
+(3.33)
+
+(2.43)
+(2.45)
+(0.33)
+(1.22)
+(1.08)
+
+0–11.0
+70–131
+1–38
+10–32
+0–41
+
+5–25
+5–20
+
+0–10
+0–10
+
+3.49–4.80
+
+1–4
+1–6
+
+.23
+.28*
+.04
+.24
+.20
+
+.16
+.24
+
+.36*
+.60*
+
+.38*
+.27*
+
+Table  2  shows  descriptive  statistics  for  the  observational  measures,  and  correla-
+tions between these variables. Individual differences on these measures were marked.
+Note  that  children  who  were  relatively  frequently  making  ‘bids’  to  which  their
+friends  did  not  respond  were  also  likely  to  be  unresponsive  to  their  friends’  com-
+ments, and unlikely to engage frequently in cooperative pretend, or in coordinated
+play. Children who made frequent cooperative pretend play moves not only had a
+low rate of ‘failed’ communication in terms of bids and unresponsiveness, but were
+unlikely to be in conﬂict with their friends. They were also less likely to engage in
+connected  conversations  that  were  not  focussed  on  play  or  shared  activities.
+Engagement  in  coordinated  play  (which  excluded  shared  fantasy)  was  correlated
+with amity—with these children there was much joint laughter and running around
+together.
+
+Intraclass correlations between child and friend were positive but modest for bids,
+higher  for  conﬂict,  and  substantial  for  unresponsiveness,  connected  conversation,
+pretend, coordinated play and amity.
+
+Links with Child Characteristics
+
+Table 3 shows ﬁrst, that as predicted, children’s theory of mind, affective perspec-
+tive-taking skills and emotion understanding were correlated with their cooperative
+pretend play turns, as were their language skills and their mothers’ educational level
+and  occupational  class.  Children  who  had  been  rated  as  high  on  the  hyperactivity
+scale engaged less frequently in joint pretend with their friends.
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+ 
+
+©
+B
+l
+a
+c
+k
+w
+e
+l
+l
+ 
+
+P
+u
+b
+
+l
+i
+s
+h
+e
+r
+s
+ 
+L
+t
+d
+
+.
+ 
+
+1
+9
+9
+9
+
+S
+o
+c
+i
+a
+l
+ 
+
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+,
+ 
+8
+,
+ 
+
+2
+,
+ 
+
+1
+9
+9
+9
+
+Table 2: Means, Standard Deviations and Correlations Between Observational Variables
+
+Observational variables
+Bidsa
+No responsea
+Connected conversationa
+Conﬂict a
+Co-ordinated play a
+Co-operative pretend playa
+Amityb
+
+Mean
+(Standard Deviation)
+Intra-class correlation between
+
+child and friend
+
+Bids
+
+Unresponsive
+
+Connected
+conversation
+
+Conﬂict
+
+Co-ordinated
+play
+
+Co-operative
+pretend play
+
+Amity
+
+.49*
+.12
+.04
+2.19*
+2.40*
+2.03
+.08
+(.09)
+
+.02
+.16
+2.26*
+2.44*
+.05
+
+.27
+(.21)
+
+.29*
+
+.69*
+
+2.09
+2.16
+2.57*
+2.07
+.63
+(.26)
+
+.76*
+
+2.01
+2.34*
+2.18*
+.21
+(.14)
+
+.39*
+
+.14
+.29*
+
+.21
+(.15)
+
+.92*
+
+.02
+
+.54
+(.36)
+
+.97*
+
+.22
+(.21)
+
+.90*
+
+aexpressed per audible conversational turn, bexpressed as rate per minute observation time, * p , .05
+
+F
+r
+i
+e
+n
+d
+s
+
+2
+0
+9
+
+Table 3. Correlations Between Child Characteristics and their Observed Behavior Towards their Friend
+
+Child Observation Variables
+
+Child Characteristics
+
+Theory of mind/deception
+Vocabulary
+Narrative
+Affective-perspective taking
+Emotion understanding
+Temperament
+
+Emotionality
+Shyness
+
+Adjustment
+
+Hyperactivity
+Prosocial
+
+Age
+Maternal education
+Maternal occupational class
+* p , .05
+
+Unresponsive
+
+Bids
+2.24* 2.17*
+2.11 2.13
+2.13 2.15
+2.03 2.01
+2.11 2.15
+
+.23*
+.15
+
+.04
+.16
+
+.18*
+.05
+
+.09
+2.05
+2.02 2.00
+2.29* 2.25*
+.12
+
+.22*
+
+Connected
+conversation Conﬂict play
+2.10
+2.15
+2.17
+2.01
+2.14
+
+2.19*
+2.04
+2.18*
+2.22*
+2.17
+
+.06
+2.02
+.06
+2.14
+2.02
+
+.04
+.18
+
+.01
+.09
+.14
+2.13
+.14
+
+.07
+2.12
+
+.33*
+2.14
+2.19*
+.00
+2.03
+
+.19*
+.02
+
+.14
+2.07
+2.10
+2.15
+2.02
+
+Co-ordinated Co-operative
+
+Total audible
+turns
+
+pretend play Amity
+
+.25*
+.27*
+.25*
+.23*
+.27*
+
+2.10
+.03
+
+2.22*
+.06
+2.02
+.38*
+.22*
+
+.15
+2.10
+.06
+2.05
+2.04
+
+2.14
+.03
+
+.02
+2.13
+.02
+2.08
+2.15
+
+.33*
+.06
+.12
+.16
+.18*
+
+2.18*
+2.26*
+
+2.19*
+.04
+.24*
+.10
+2.07
+
+2
+1
+0
+
+ 
+
+J
+u
+d
+y
+D
+u
+n
+n
+
+ 
+
+ 
+
+a
+n
+d
+A
+l
+e
+x
+a
+n
+d
+r
+a
+L
+
+ 
+
+.
+ 
+
+C
+u
+t
+t
+i
+n
+g
+
+ 
+
+©
+B
+l
+a
+c
+k
+w
+e
+l
+l
+ 
+
+P
+u
+b
+
+l
+i
+s
+h
+e
+r
+s
+ 
+L
+t
+d
+
+.
+ 
+
+1
+9
+9
+9
+
+S
+o
+c
+i
+a
+l
+ 
+
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+,
+ 
+8
+,
+ 
+
+2
+,
+ 
+
+1
+9
+9
+9
+
+Friends 211
+
+Second, also as predicted, children scoring high on the mindreading measure were
+less likely to make failed ‘bids’ for communication with their friends or to be unre-
+sponsive,  though  the  emotion  understanding  and  language  measures  were  not
+related  to  these  aspects  of  communication.  The  good  mindreaders  and  those  who
+scored  high  on  emotion  understanding  also  talked  more  to  their  friends.
+Emotionality  and  hyperactivity  were  correlated  with  frequent  failed  bids,  and  low
+maternal education and occupational class were also implicated. Lack of responsive-
+ness to friends was correlated with shyness and low maternal education.
+
+Third,  conﬂict  behavior  was  more  frequently  shown  by  the  children  who  per-
+formed relatively poorly on theory of mind, and affective perspective-taking, those
+whose narrative abilities were less well developed, and by the younger children in the
+sample. As predicted, the more hyperactive were in more conﬂict with their friends.
+Fourth, child characteristics were not related to amity.
+
+Links with Friend Characteristics
+
+Table 4 shows some aspects of children’s social behavior towards their friends were
+related  to  the  sociocognitive  abilities,  temperament,  hyperactivity  and  prosocial
+behavior, and family background of those friends.
+
+Thus, friends’ theory of mind, emotion understanding, and language scores, and
+their  mothers’  education  and  occupational  level  were  all  positively  related  (and
+friends’  hyperactivity  negatively  related)  to  children’s  cooperative  pretend  moves.
+Second, friends’ theory of mind scores were also negatively correlated with the fre-
+quency of children’s unsuccessful bids. Friends’ theory of mind and emotion under-
+standing  scores  were  also  correlated  with  the  amount  the  children  talked  to  them
+during  the  observations,  while  shy,  hyperactive  or  younger  friends  were  talked  to
+less.
+
+Third, children made more frequent conﬂict moves with friends with low affective
+perspective-taking skills, and also with friends. Fourth, children showed less amity
+towards those friends who were easily upset or anxious. Finally, children made more
+frequent coordinated play moves (non-pretend) with friends who scored high on the
+hyperactivity scale, though they talked to them less than to friends who scored lower
+on this scale.
+
+Regression Analyses Predicting Combined and Unique Variance in Observational
+Measures
+
+Next we investigated the combined and unique contribution of the various child and
+friend characteristics to the variance in children’s observed behavior with a series of
+multiple regressions. The focus was on those child behaviors which were signiﬁcantly
+related  to  a  number  of  different  characteristics,  namely  cooperative  pretend  play,
+bids,  and  conﬂict.  There  were  three  steps  in  these  analyses.  First,  the  independent
+contributions  to  the  variance  in  behavioral  outcome  of  child  characteristics  was
+examined  with  stepwise  regressions  in  which  each  variable  was  systematically
+removed  in  turn  in  the  second  step.  Second,  similar  two-step  regression  analyses
+were  conducted  with  friend  characteristics  as  predictors.  Third,  the  combined  and
+separate  contributions  of  child  and  friend  characteristics  as  a  whole  were  investi-
+gated, with the child characteristics entered together as one step, and friend charac-
+teristics  entered  together  as  a  second  step,  and  vice  versa,  in  order  to  determine
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Table 4. Correlations Between Friend Characteristics and Children’s Observed Behavior Towards their Friend
+
+Child Observation Variables
+
+Friend Characteristics
+
+Theory of mind/deception
+Vocabulary
+Narrative
+Affective-perspective taking
+Emotion understanding
+Temperament
+
+Emotionality
+Shyness
+
+Adjustment
+
+Hyperactivity
+Prosocial
+
+Age
+Maternal education
+Maternal occupational class
+* p , .05
+
+Unresponsive
+
+Bids
+2.20* 2.11
+2.15 2.14
+2.16 2.08
+2.05 2.03
+2.10 2.13
+
+2.05
+.06
+
+.04
+.17
+
+.11
+
+.04
+2.08 2.05
+.05
+2.14 2.26*
+.12
+
+.01
+
+.12
+
+Connected
+conversation Conﬂict play
+2.05
+2.07
+2.01
+2.01
+2.11
+
+2.15
+2.13
+2.14
+2.23*
+2.05
+
+.05
+2.03
+.04
+2.14
+2.00
+
+.07
+2.16
+
+2.04
+2.11
+2.21*
+2.09
+.08
+
+.04
+2.14
+
+.17
+2.11
+2.19*
+.12
+.17
+
+2.18
+2.02
+
+.20*
+2.09
+2.09
+2.11
+2.07
+
+Co-ordinated Co-operative
+
+Total audible
+turns
+
+pretend play Amity
+
+.25*
+.28*
+.21*
+.22*
+.25*
+
+2.08
+.07
+
+2.21*
+.05
+2.04
+.37*
+.23*
+
+.13
+.12
+2.10
+2.05
+2.02
+
+.27*
+.09
+.06
+.11
+.19*
+
+2.20* 2.12
+2.23*
+
+.06
+
+.01
+2.18*
+.03
+.06
+2.09
+
+2.19*
+.03
+.20*
+.06
+2.02
+
+2
+1
+2
+
+ 
+
+J
+u
+d
+y
+D
+u
+n
+n
+
+ 
+
+ 
+
+a
+n
+d
+A
+l
+e
+x
+a
+n
+d
+r
+a
+L
+
+ 
+
+.
+ 
+
+C
+u
+t
+t
+i
+n
+g
+
+ 
+
+©
+B
+l
+a
+c
+k
+w
+e
+l
+l
+ 
+
+P
+u
+b
+
+l
+i
+s
+h
+e
+r
+s
+ 
+L
+t
+d
+
+.
+ 
+
+1
+9
+9
+9
+
+S
+o
+c
+i
+a
+l
+ 
+
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+,
+ 
+8
+,
+ 
+
+2
+,
+ 
+
+1
+9
+9
+9
+
+unique variance explained by each set of characteristics. Findings of the ﬁrst two sets
+of analyses are summarised, and the results of the third set are given in Table 5.
+
+Friends 213
+
+Child’s Cooperative Pretend Moves
+
+To predict cooperative pretend play, child’s theory of mind, emotion understanding,
+vocabulary score, hyperactivity, and mother’s education, and the same variables for
+the friend were selected. Child characteristics were entered together as one step, and
+21% of the variance was explained (F (5, 109) 5 5.65, p , .001). When the unique
+variance ascribed to each child variable was examined, by systematically taking out
+each  variable  in  the  second  step,  the  changes  in  R  squared  showed  that  5.7%  of 
+the variance was uniquely attributable to mother’s education (p , .01), but that the
+other  variables  did  not  contribute  signiﬁcant  independent variance.  That  is,  the
+shared variance of the child characteristics was marked.
+
+Second, the contribution of friend characteristics was considered. Friend variables
+entered  ﬁrst  as  a  group  explained  20.3%  of  the  variance  in  children’s  cooperative
+pretend play (F (5, 109) 5 5.54, p , .001); when the unique variance ascribed to each
+friend  variable  was  examined,  the  change  in  R  squared  was  signiﬁcant  only  for
+friend’s  maternal  education:  variance  explained  was  5.8%.  Again,  the  shared  vari-
+ance was high between the other variables.
+
+In the third set of analyses, both child and friend variables were ﬁrst entered as a
+group: 32% of the variance in cooperative pretend play was explained (F (10, 91) 5
+4.30, p , .001). Then in 2 two-step analyses, child variables were entered together as
+a ﬁrst step, and friend variables in a group as a second step, and vice versa. Results
+(Table 5) showed that both child and friend characteristics made signiﬁcant unique
+
+Table  5.  Total  and  Unique  Variance  in  Child  Observation  Measures  Explained  by
+Child and Friend Characteristics
+
+Child Behaviour
+
+Variables
+
+R2
+
+R2 Change F
+
+Co-operative pretend play Child & Friend variables .32
+
+Child variablesa
+Friend variablesb
+
+Bids
+
+Conﬂict
+
+Child & Friend variables .19
+Child variablesc
+Friend variablesd
+
+Child & Friend variables .21
+Child variablese
+Friend variablesf
+
+.10
+.10
+
+.07
+.07
+
+.11
+.03
+
+4.30*
+2.70*
+2.68*
+
+4.29*
+1.89
+7.33*
+
+3.19*
+2.76*
+1.41
+
+(df)
+
+(10, 91)
+
+(5, 89)
+
+(8, 98)
+
+* p , .05
+a Child variables included theory of mind, vocabulary, emotion understanding, hyperactivity
+and maternal education
+b Friend variables (as child above)
+c Child variables included theory of mind, emotionality, maternal education and occupation
+d Friend variables included theory of mind
+e Child variables included theory of mind, affective-perspective taking, narrative, hyperactiv-
+ity and age
+f Friend variables included affective-perspective taking, age and maternal occupation
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+214
+
+Judy Dunn and Alexandra L. Cutting
+
+contributions  to  the  variance  in  children’s  cooperative  pretend  play  moves,  each
+independently explaining 10% of the variance, while 12% of variance was shared.
+
+Child’s Unsuccessful Bids for Response
+
+Child  variables  selected  were  child  theory  of  mind,  child’s  emotionality,  child’s
+mother’s education and occupational class; they accounted for 13% of the variance
+in bids (F (4, 90) 5 3.29, p , .01). None of the variables made a signiﬁcant contribu-
+tion to the variance independently of the others. Friend theory of mind entered in a
+separate  analysis  (the  only  friend  variable  signiﬁcantly  correlated  with  bids)
+accounted for 4% of the variance (F (1, 125) 5 5.13, p , .05).
+
+In the third set of analyses, both child variables and friend theory of mind were
+entered together as a group: 19% of the variance was explained (F (5, 89) 5 4.29, p ,
+.001).  Then  the  unique  contributions  of  child  variables  and  friend  theory  of  mind
+were  examined  with  two-step  analyses  (in  which  child  variables  were  entered  ﬁrst,
+then friend variables, then the order of entry was reversed). Results (Table 5) showed
+that friend theory of mind scores made a unique contribution, explaining 7% of the
+variance in bids, while child characteristics together also contributed around 7%, but
+this did not reach signiﬁcance. Around 5% of the variance was shared.
+
+Child’s Conﬂict Moves
+
+Child variables entered were child age, child’s theory of mind, affective perspective-
+taking, narrative skills, and hyperactivity, together accounting for 16% of the vari-
+ance,  (F (5,  111)  5 4.38,  p , .01).  The  stepwise  regression  showed  child’s
+hyperactivity made an independent contribution 8.1% (p , .01). For the analysis of
+friend’s  characteristics,  the  variables  were  friend  age,  friend  affective  perspective-
+taking, and friend’s mother’s occupational class. Together these variables accounted
+for 8% of the variance, (F (3, 111) 5 3.54, p , .05). None of these variables made a
+signiﬁcant unique contribution to the variance.
+
+In  the  third  set  of  analyses,  when  both  child  and  friend  variables  were  entered
+together as a group, 21% of the variance was explained (F (8, 98) 5 3.19, p , .01).
+The results (Table 5) showed that child characteristics contributed 11% of the vari-
+ance,  independently  of  the  friend  characteristics,  whilst  friend  variables  only  con-
+tributed 3% independent variance, and around 7% of the variance was shared.
+
+Discussion
+
+Three general issues were examined in this study: the nature of individual differences
+in  young  children’s  friendships,  the  links  between  these  individual  differences  and
+children’s sociocognitive and other characteristics, and the signiﬁcance of partner’s
+characteristics in relation to children’s interactive moves.
+
+Individual Differences in Friendship Interaction
+
+This was a study of children who all had a reciprocal friend. Nevertheless, the friend-
+ships of these 3- and 4-year-olds differed notably. Many of them shared an imagi-
+nary world together with great skill and enjoyment. Within the conﬁnes of a small
+room at school—where we ﬁlmed them playing—they created worlds of emotional
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Friends 215
+
+drama,  medical  emergencies,  high  romances,  parties,  crimes,  births  and  deaths,  as
+well  as  quieter  domestic  narratives.  Those  who  frequently  created  make-believe
+worlds  together  were  less  likely  to  quarrel,  or  to  fail  in  communicating  with  each
+other than the other children in the study.
+
+Other friends enjoyed cooperating in boisterous games, in shared deviance, or in
+working out together how toys functioned, but relatively rarely created shared pre-
+tence. As with the successful ‘pretenders’ they were less likely than the other children
+to have frequent failures of communication with their friends. They were also likely
+to join in shared amusement—the quality of ‘amity’ to which Gottman (1983, 1986)
+drew attention. This amity was not related to the sharing of pretend worlds, or to
+the frequency of ‘failed’ communication between child and friend.
+
+Conﬂict  varied  greatly  between  friend  pairs.  Some  argued  and  quarrelled  with
+their  friends  repeatedly,  whilst  for  others,  disputes  were  rare  and  quickly  resolved.
+Although  conﬂict  was  less  common  among  the  children  who  participated  in  much
+pretence, there were no links between amount of conﬂict and the other coordinated
+play in which the children engaged, or unsuccessful bids for attention.
+
+Our  overall  goal  here  was  to  investigate  how  children’s  abilities  to  read  others’
+minds and understand emotions, their linguistic skills, temperament, adjustment and
+family  background  were  linked  to  these  differences  in  the  interactions  with  their
+friends.
+
+Links with Children’s Social Understanding
+
+First, the prediction that children’s sociocognitive and linguistic skills, assessed here
+with a broad range of tests, would be related to shared pretend play was supported.
+The children’s family background and the level of their mothers’ education were also
+important. This pattern of correlations raises two questions. First, did the maternal
+variables and the children’s characteristics make independent contributions to differ-
+ences  in  children’s  interactive  behavior  with  their  friends?  Second,  what  might  the
+processes  be  that  link  maternal  education  to  children’s  propensity  to  join  their
+friends in pretence?
+
+Maternal education contributed variance in the cooperative pretend play measure
+that  was  independent  of  children’s  sociocognitive  and  language  measures,  but  the
+latter measures shared variance in contributing to cooperative pretence. There are a
+variety of possible processes that might mediate these links with maternal education.
+For example, the more highly educated mothers may have interacted and talked to
+children through the preschool years in ways that affected the children’s propensity
+to engage in shared make-believe. Alternatively these mothers may have fostered the
+children’s  relationships  with  their  friends  in  other  ways  that  indirectly  affected  the
+children’s  propensity  to  share  pretend  worlds;  we  know  for  instance  that  parental
+education  and  social  class  contributed  to  differences  in  social  understanding  inde-
+pendently of children’s language and age (Cutting & Dunn, 1998).
+
+Differences  in  social  understanding  were  also  implicated  in  a  low  frequency  of
+conﬂict  between  friends,  while  children  high  on  the  hyperactivity  scale  were  more
+often in disputes with their friends—an effect independent of the other variables that
+associated with conﬂict differences—age, theory of mind and affective perspective-
+taking skills, and expressive language.
+
+The  smoothness  of  children’s  communication  with  their  friends  was  related  to
+theory of mind skills, and also to emotionality, mothers’ education, and children’s
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+216
+
+Judy Dunn and Alexandra L. Cutting
+
+narrative skills, but not vocabulary. Failures in communication, that is, were more
+closely related to the theory of mind scores than to vocabulary; interestingly, emo-
+tion understanding was not correlated with communication failures: here some dif-
+ferentiation  between  the  implications  of  mindreading  and  understanding  feelings
+was indicated.
+
+The prediction that amity shown to a friend would not be related to sociocognitive
+and linguistic skills was supported. A surprise was that temperament was not associ-
+ated  with  differences  in  amity,  and  that  there  was  a  negative  correlation  between
+amity  and  friends’  prosocial  scores.  Indeed,  some  of  the  children  with  high  amity
+scores were among the ‘naughtiest’—enjoying shared deviance (such as killing ﬂies
+together). Another surprise was that connected conversation between the children—
+talk not in the course of play or conﬂict—was not correlated with social understand-
+ing.  These  conversations  were  frequently  focused  on  competitive  discussions,  or
+claims  concerning  who  possessed  better  toys  at  home,  rather  than  the  sharing  of
+thoughts,  feelings  or  gossip.  That  is,  this  talk  frequently  reﬂected  the  dynamics  of
+social status and power between the children, rather than a ‘meeting of minds’.
+
+Links with Friend Characteristics
+
+The  third  issue  addressed  concerned  children’s  friends’  characteristics.  Two  sets  of
+ﬁndings in the present study are of general developmental interest: ﬁrst, the similar-
+ity of children and their friends in their characteristics, and second, the links between
+friends’ skills and behavioral adjustment and children’s interactive behavior.
+
+Similarity of Friends
+
+The  children  we  studied  came  from  nursery  centres  and  schools  that  served  local
+neighbourhoods and children were likely to come from quite similar backgrounds. It
+is  not  perhaps  surprising  that  there  were  correlations  between  children  and  their
+friends  in  terms  of  maternal  education  and  occupational  class.  More  interesting  is
+the similarity in linguistic skill, adjustment and temperament (cf. ﬁndings on similar-
+ities in friends’ shyness in third-grade children by Poulin, Cillesen, Hubbard, Coie,
+Dodge,  &  Schwartz,  1997),  on  proactively  aggressive  children  (Poulin  &  Boivin,
+1997), and on cognitive play style and social participation by Rubin, Lynch, Coplan,
+Rose-Krasnor, & Booth,1994).
+
+The  similarity  between  the  children  and  friends  on  their  vocabulary  scores  was
+notable, while their understanding of emotion and mindreading abilities also tended
+to  be  similar.  How  can  this  similarity  be  interpreted?  It  could  be  that  friendships
+ﬂourish  when  children  share  capacities  for  and  interest  in  certain  kinds  of  play—
+such as joint make believe, or shared deviance and antisocial acts; that is, children
+may seek out similar children as friends. It could also be that friends inﬂuence each
+other, and become more alike. Similarity for aggression is both an antecedent and a
+consequence for friendship (Bukowski & Newcomb, 1993); similarity in the sociolin-
+guistic  skills  implicated  in  joint  pretend  play  is  likely  to  be  important  both  as
+antecedent  and  consequence  of  friendship  in  4-year-olds.  Clear  evidence  on  these
+possibilities  for  older  children  has  been  difﬁcult  to  establish  (Hartup,  1996),  how-
+ever,  increases  in  deviant  behavior  through  interactions  with  antisocial  friends  is
+fairly well documented for children who are themselves at risk for antisocial behav-
+ior (e.g., Berndt & Keefe, 1992; Dishion, Andrews, & Crosby, 1995).
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Friends 217
+
+Links Between Friends’ Characteristics and Children’s Interactive Behavior
+
+The social understanding of the friends contributed notably to the variance in chil-
+dren’s cooperative pretend moves—as much as 10% of the variance in children’s pre-
+tend moves, independent of children’s own characteristics. Similarly, friends’ theory
+of mind skills contributed an additional 7% of variance in failed bids. In contrast,
+friends’  characteristics  did  not  contribute  independently  to  the  variance  in  conﬂict
+moves.  This  does  not  mean  that  a  friend’s  personality  and  social  skills  were  unre-
+lated to a child’s tendency to argue or prohibit. But the variance in conﬂict explained
+by  friend  hyperactivity,  age  and  emotion  understanding  was  shared  with  that
+explained by child characteristics.
+
+Clearly,  aspects  of  children’s  lives  and  relationships  other  than  those  considered
+here  are  also  likely  to  be  important  in  relation  to  differences  in  their  early  friend-
+ships.  Their  relationships  with  parents  and  siblings  are  obvious  candidates.  The
+focus  here  on  individual  sociocognitive,  temperamental  and  behavioral  adjustment
+characteristics  was  a  ﬁrst  step  in  clarifying  why  and  how  children’s  early  intimate
+relationships can be so different. Given the important role we now know that friend-
+ships can play in supporting children through transitions and stresses even in early
+childhood, and their potential for fostering children’s social development, these dif-
+ferences surely deserve further research scrutiny.
+
+References
+Astington,  J.  W.  (1994).  The  child’s  discovery  of  the  mind.  Cambridge,  MA:  Harvard
+
+University Press.
+
+Astington,  J.  W.,  &  Jenkins,  J.  M.  (1995).  Theory  of  mind  development  and  social  under-
+
+standing. Cognition and Emotion, 9, 151–165.
+
+Baron-Cohen, S. (1992). Out of sight or out of mind? Another look at deception in autism.
+
+Journal of Child Psychology and Psychiatry, 33, 1141–1155.
+
+Baron-Cohen, S. (1994). Development of a theory of mind: Where would we be without the
+intentional stance? In M. Rutter and D. Hay (Eds.), Development through life (pp. 303–318).
+Oxford: Blackwell Publications.
+
+Bartsch,  K.,  &  Wellman,  H.  (1989).  Young  children’s  attribution  of  action  to  beliefs  and
+
+desires. Child Development, 60, 946–964.
+
+Berndt, T. J., & Keefe, K. (1992). Friends’ inﬂuence on adolescents’ perceptions of themselves
+in school. In D. H. Schunk & J. L. Meece (Eds.), Students’ perceptions in the classroom (pp.
+51–73). Hillsdale, NJ: Erlbaum.
+
+Bukowski,  W.  M.,  &  Newcomb,  A.  F.  (1993).  Interpersonal  similarity  in  the  development 
+and  stability  of  adolescent  friendship  relations.  Unpublished  manuscript.  Concordia
+University.
+
+Cassidy, J. C., Parke, R. D., Butkowski, L., & Braungart, J. M. (1992). Family-peer connec-
+tions: The roles of emotional expressiveness within the family and children’s understanding
+of emotions. Child Development, 63, 603–618.
+
+Cutting, A. L. & Dunn, J. (1999). Theory of mind, emotion understanding, language and fam-
+
+ily background: Individual differences and inter-relations. Child Development, in press.
+
+Denham,  S.  (1986).  Social  cognition,  prosocial  behavior,  and  emotion  in  preschoolers:
+
+Contextual validation. Child Development, 57, 194–201.
+
+Denham, S A., McKinley, M., Couchoud, E. A., & Holt, R. (1990). Emotional and behav-
+
+ioral predictors of preschool peer ratings. Child Development, 61, 1145–1152.
+
+Dishion,  T.  J.,  Andrews,  D.  W.,  &  Crosby,  L.  (1995).  Antisocial  boys  and  their  friends  in
+early  adolescence:  Relationship  characteristics,  quality,  and  interactional  processes.  Child
+Development, 66, 139–151.
+
+Dunn,  J.,  &  Herrera,  C.  (1997).  Conﬂict  resolution  with  friends,  siblings  and  mothers:  A
+
+developmental perspective. Aggressive behavior, 23, 343–357.
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+218
+
+Judy Dunn and Alexandra L. Cutting
+
+Dunn, J,. & Hughes, C. (1998). Young children’s understanding of emotions within close rela-
+
+tionships. Cognition and Emotion, 12, 171–190.
+
+Dunn,  L.  M.,  Dunn,  L.  M.,  Whetton,  C.,  &  Pintillie,  D.  (1982).  British  Picture  Vocabulary
+
+Scale. Windsor, UK: NFER-Nelson.
+
+Goodman, R. (1997). The Strengths and Difﬁculties Questionnaire: A research note. Journal
+
+of Child Psychology and Psychiatry, 38, 581–586.
+
+Gottman, J. M. (1983). How children become friends. Monographs of the Society for Research
+
+in Child Development, 48, (3, Serial No. 201).
+
+Gottman,  J.  M.  (1986).  The  world  of  coordinated  play:  same-  and  cross-sex  friendship  in
+young children. In J. M. Gottman & J. G. Parker (Eds.), Conversations among friends (pp.
+139–191). Cambridge: Cambridge University Press.
+
+Gottman,  J.  M.,  &  Parkhurst,  J.  T.  (1980).  A  developmental  theory  of  friendship  and
+acquaintanceship  processes.  In  W.  A.  Collins  (Ed.),  Minnesota  Symposium  on  Child
+Psychology (Vol. 13, pp. 197–253). Hillsdale, NJ: Erlbaum.
+
+Harris, P. L., Johnson, C., Hutton, D., Andrews, G., & Cooke, T. (1989). Young children’s
+
+theory of mind and emotion. Cognition and Emotion, 3, 379–400.
+
+Harris,  P.  L.,  &  Kavanaugh,  R.  D.  (1993).  Young  children’s  understanding  of  pretense.
+
+Monographs of the Society for Research in Child Development, 58,(1, Serial No. 231).
+
+Hartup, W. W. (1992). Conﬂict and friendship relations. In C. U. Shantz and W. W. Hartup
+(Eds.), Conﬂict in child and adolescent development (pp. 186–215). Cambridge: Cambridge
+University Press.
+
+Hartup, W. W. (1996). The company they keep: Friendships and their developmental signiﬁ-
+
+cance. Child Development, 67, 1–13.
+
+Herrera, C., & Dunn, J. (1997). Early experiences with family conﬂict: Implications for argu-
+
+ments with a close friend. Developmental Psychology, 33, 869–881.
+
+Howes, C. (1988). Peer interaction of young children. Monographs of the Society for Research
+in  Child  Development,  (Serial  No.  217,  Vol.  53,  No.  1).  Chicago:  University  of  Chicago
+Press.
+
+Howes, C. (1996). The earliest friendships. In W. M. Bukowski, A. F. Newcomb, and W. W.
+Hartup, (Eds.), The company they keep: Friendship in childhood and adolescence (pp. 66–86).
+New York: Cambridge University Press.
+
+Howes, C., Droege, K., & Mathesen, C. C. (1994). Play and communicative processes within
+long-  and  short-term  friendship  dyads.  Journal  of  Social  and  Personal  Relationships,  11,
+401–410.
+
+Howes,  C.,  &  Phillipsen,  L.  C.  (1992).  Gender  and  friendship:  Relationships  within  peer
+
+groups of young children. Social Development, 1, 231–242.
+
+Howes, C., Unger, O., & Mathesen, C. C. (1992). The social construction of pretend. Albany:
+
+SUNY Press.
+
+Hughes, C., & Dunn, J. (1997). ‘Pretend you didn’t know’: Preschoolers’ talk about mental
+
+states in pretend play. Cognitive Development, 12, 381–403.
+
+Kahen,  V.,  Fainsilber-Katz,  L.,  &  Gottman,  J.  M.  (1994).  Linkages  between  parent-child
+
+interaction and conversations of friends. Social Development, 3, 238–254.
+
+Kerns,  K.  A.  (1994).  A  longitudinal  examination  of  links  between  mother-child  attachment
+and children’s friendships in early childhood. Journal of Social and Personal Relationships,
+11, 379–381.
+
+Kramer,  L.,  &  Gottman,  J.  M.  (1992).  Becoming  a  sibling:  ‘With  a  little  help  from  my
+
+friends.’ Developmental Psychology, 28, 685–699.
+
+Ladd, G. W., & Kochenderfer, B. J. (1996). Linkages between friendship and adjustment dur-
+ing early school transitions. In W.M. Bukowski et al. (Eds.), The company they keep (pp.
+322–345). Cambridge: Cambridge University Press.
+
+Lalonde. C. E., & Chandler, M. J. (1995). False belief understanding goes to school: On the
+social-emotional consequences of coming early or late to a ﬁrst theory of mind. Cognition
+and Emotion, 9, 167–185.
+
+Leslie, A. (1987). Pretense and representation: The origins of ‘theory of mind’.Psychological
+
+Review, 94, 412–426.
+
+Maguire,  M.,  &  Dunn,  J.  (1997).  Friendships  in  early  childhood,  and  social  understanding.
+
+International Journal of Behavioral Development, 21, 669–686.
+
+Moerbeek, K. (1994). Can’t sleep. London:Western Publishing Company.
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+Friends 219
+
+Ofﬁce  of  Population  Censuses  and  Surveys  (1991).  Standard  Occupational  Classiﬁcation.
+
+London: HMSO.
+
+Parker,  J.  G.,  &  Gottman,  J.  M.  (1989).  Social  and  emotional  development  in  a  relational
+context: Friendship from early childhood to adolescence. In T. J. Berndt and G. W. Ladd
+(Eds.), Peer relationships in early development (pp. 95–131). New York: Wiley.
+
+Poulin, F., & Boivin, M. (1997). The role of proactive and reactive aggression in the forma-
+
+tion and the development of friendships in boys. Submitted.
+
+Poulin,  F.,  Cillesen,  A.  H.  N.,  Hubbard,  J.  A.,  Coie,  J.  D.,  Dodge,  K.  A.,  &  Schwartz,  D.
+(1997).  Children’s  friends  and  behavioral  similarity  in  two  social  contexts.  Social
+Development, 6, 224–236.
+
+Renfrew, C. E. (1991). The bus story: A test of narrative speech. Oxford: Winslow Press.
+Rowe, D. C., & Plomin, R. (1977). Temperament in early childhood. Journal of Personality
+
+Assessment, 41, 150–156.
+
+Rubin, K. H., Lynch, D., Coplan, R., Rose-Krasnor, L., & Booth, C. L. (1994). ‘Birds of a
+feather . . . ’: Behavioral concordance and preferential personal attraction in children. Child
+Development, 65, 1778–1785.
+
+Rubin,  K.  H.,  Bukowski,  W.,  &  Parker,  J.  G.  (1997).  Peer  interactions,  relationships  and
+groups. In W. Damon and N. Eisenberg (Eds.), Handbook of child psychology: Volume 3.
+New York: Wiley.
+
+Sodian, B,. & Frith, U. (1992). Deception and sabotage in autistic, retarded and normal chil-
+
+dren. Journal of Child Psychology and Psychiatry, 33, 591–605.
+
+Acknowledgement
+
+This study was supported by a grant from NIH (HD 23158).
+
+© Blackwell Publishers Ltd. 1999
+
+Social Development, 8, 2, 1999
+
+

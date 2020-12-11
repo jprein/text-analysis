@@ -1,0 +1,1162 @@
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+Contents lists available at ScienceDirect
+
+Developmental Cognitive Neuroscience
+
+journal homepage: www.elsevier.com/locate/dcn
+
+Continuity in the neural system supporting children’s theory of mind
+development: Longitudinal links between task-independent EEG and task-
+dependent fMRI
+Lindsay C. Bowmana,⁎, David Dodell-Federb, Rebecca Saxec, Mark A. Sabbaghd
+a University of California, Davis, United States
+b University of Rochester, United States
+c Massachusetts Institute of Technology, United States
+d Queen’s University, Canada
+
+T
+
+A R T I C L E I N F O
+
+A B S T R A C T
+
+Keywords:
+Theory of mind
+EEG
+fMRI
+Longitudinal
+Childhood
+Neural correlates
+Continuity
+
+Children’s explicit theory of mind (ToM) understandings change over early childhood. We examined whether
+there is longitudinal stability in the neurobiological bases of ToM across this time period. A previous study found
+that source-localized resting EEG alpha attributable to the dorsal medial prefrontal cortex (DMPFC) and right
+temporoparietal junction (RTPJ) was associated with children’s performance on a battery of theory of mind
+tasks. Here, we investigated a small subset of children (N = 12) in that original study as a preliminary in-
+vestigation of whether behavioral measures of ToM performance, and/or EEG localized to the DMPFC or RTPJ
+predicted ToM-specific fMRI responses 3.5 years later. Results showed that preschoolers’ behavioral ToM-per-
+formance positively predicted later ToM-specific fMRI responses in the DMPFC. Preschoolers’ resting EEG at-
+tributable to the DMPFC also predicted later ToM-specific fMRI responses in the DMPFC. Given the small sample,
+results represent a first exploration and require replication. Intriguingly, they suggest that early maturation of
+the area of the DMPFC related to ToM reasoning is positively linked with its specific recruitment for ToM
+reasoning later in development, affording implications for characterizing conceptual ToM development, and its
+underlying neural supports.
+
+1. Introduction
+
+Children across the world come to explicitly reason about internal
+mental states as person-specific representations of the world that are
+constrained by experience (Wellman, 2014). Development of this
+“Theory of Mind” (ToM) is a dramatic example of developing higher
+cognition: Major conceptual advancements occur in ToM under-
+standings between 3–6 years old (e.g., Wellman et al., 2001) and are
+connected with concomitant gains in both social and cognitive func-
+tioning (see Devine and Hughes, 2014; Milligan et al., 2007 for meta-
+analyses). These explicit developments set the stage for teaching (Davis-
+Unger and Carlson, 2008; Ziv and Frye, 2004), cooperation (Moll and
+Tomasello, 2007; Tomasello et al., 2005), and moral reasoning (e.g.,
+Killen et al., 2011; Lane et al., 2010). The current study provides the
+first exploration of possible longitudinal continuity in the neurobiolo-
+gical bases of ToM as it develops over this important early period of
+change in children’s behavioral-cognitive performance.
+Much is already known about the neural correlates of ToM. For
+
+adults, brain responses to ToM tasks are selective and reliable, con-
+sistently comprising medial prefrontal cortex (MPFC), temporoparietal
+junction (TPJ), precuneus, (PC), temporal lobes (TL), and inferior
+frontal gyri (IFG) (see Schurz et al., 2014 for meta-analysis). However,
+ToM is a developmental phenomenon, with clear improvements in
+conceptual understandings over early to middle childhood (Wellman
+et al., 2001). How the brain supports ToM across these critically early
+developments is still an open question. On one hand, the functional
+neural specializations for adult ToM may represent a consequence of
+development rather than a starting place (Karmiloff-Smith, 1997; Elbert
+et al., 2001). On the other hand, some aspects of the ToM neural system
+may exhibit early specialization and longitudinal stability such that
+individual differences in functional neural specialization present early
+in development predict individual differences in specialization of the
+same neural regions later on.
+Continuity and change in the neural specializations for ToM have
+not yet been examined longitudinally, however, cross-sectional neu-
+roscientific research provides initial insight. Evidence from functional
+
+⁎ Corresponding author.
+E-mail address: lcbowman@ucdavis.edu (L.C. Bowman).
+
+https://doi.org/10.1016/j.dcn.2019.100705
+Received 4 March 2018; Received in revised form 8 July 2019; Accepted 28 August 2019
+Available online 16 September 2019
+1878-9293/ © 2019 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license 
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+L.C. Bowman, et al.
+
+magnetic resonance imaging (fMRI) demonstrates that brain regions
+implicated in adult ToM reasoning such as the TPJ, MPFC, and PC are
+also recruited in school-aged children (Saxe et al., 2009; Gweon et al.,
+2012; Kobayashi et al., 2007; Sommer et al., 2010). Further, the more
+that certain brain regions (e.g., RTPJ) are recruited for reasoning about
+mental-state content (and not other general social characteristics), the
+better children perform on behavioral ToM tasks, demonstrating in-
+creasing “selectivity” of these regions for mental-state processes (Saxe
+et al., 2009; Gweon et al., 2012).
+Homologies in adults’ and school-aged children’s ToM neural net-
+work may not be all that surprising; school-aged children are past the
+point at which explicit ToM reasoning abilities first emerge and thus
+any neural discontinuity may more likely be evident in preschool
+children for whom explicit conceptual ToM developments are still un-
+folding. Neuroscience research on ToM in children younger than 6-
+years-old is still limited, though intriguingly there is some evidence that
+similarities in the brain regions supporting ToM extend from adults to 3
+year-old children (Richardson et al., 2018) and potentially even infants
+as young as 7 months (Hyde et al., 2018).
+Sabbagh et al. (2009) also provide evidence that the neural regions
+associated with mental-state reasoning in older children and adults si-
+milarly support explicit ToM understandings as they first emerge. Im-
+portantly, they examined brain activity and its relation to ToM in 4-
+year-old children—an age exhibiting crucial individual differences in
+children’s explicit understanding of others’ mental states as person-
+specific representations of the world, capturing an important window of
+development of ToM (see Wellman et al., 2001).Sabbagh et al. used
+resting/baseline source-localized electroencephalographic (EEG) alpha
+power to index 4-year-old children’s task-independent neural activity.
+Research has shown that during the preschool years, alpha gradually
+becomes the highest amplitude resting EEG rhythm over all regions of
+the scalp, and peaks at 6–9 Hz in children (Marshall et al., 2002). The
+regional increases in resting/baseline alpha power and coherence (e.g.,
+Marshall et al., 2002; Thatcher, 1994; Thatcher et al., 1987) are
+thought to reflect more mature functional organization of the under-
+lying neurocognitive systems (Thatcher, 1994; see Sabbagh et al., 2009
+and supplemental material for more details on baseline EEG alpha in
+children). Sabbagh et al. found that individual differences in pre-
+schoolers’ resting/baseline EEG alpha source-localized to DMPFC and
+RTPJ were positively associated with performance on standard beha-
+vioral measures of ToM (e.g., Wellman and Liu, 2004; Wimmer and
+Perner, 1983; Flavell et al., 1986). These associations held after con-
+trolling for children’s executive functioning and vocabulary skills. The
+authors interpreted these findings as evidence that maturation of re-
+gions of the dorsal MPFC and right TPJ could support preschoolers’
+ToM development. A recent study demonstrating that 3- and 4-year-old
+children’s maturation of local white matter structure in the MPFC, TPJ,
+and precuneus is associated with better theory of mind reasoning
+(Grosse Wiesmann et al., 2017) is in line with this view. Thus, cross
+sectional findings taken together show that – despite differences in
+behavioral ToM – preschoolers, school-aged children, and adults share
+common neural substrates for ToM reasoning, hinting at intriguing
+continuity in the ToM neural network.
+However, existing cross-sectional research still falls short of de-
+monstrating continuity in the neural system supporting children’s de-
+veloping ToM. Although findings that similar neural regions are im-
+plicated in ToM across age groups provides an important starting point,
+given the multidetermined and stochastic nature of development,
+longitudinal research is required to examine psychological and biolo-
+gical factors supporting developmental processes over time (see e.g.,
+Bergman et al., 1989). Here, we aim to address this critical limitation by
+employing a longitudinal design that captures relations between pre-
+schoolers’ task-independent baseline EEG measures, and school-aged
+children’s fMRI responses during ToM tasks. Specifically, the present
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+study represents a preliminary investigation of the relation between
+source-localized task-independent EEG and task-dependent fMRI in a
+longitudinal sample, as the first exploration of longitudinal continuity
+and change in the neural system supporting ToM over early to middle
+childhood. This approach has the added advantage of examining the
+relation between task-independent (baseline/resting) source-localized
+EEG and task-dependent fMRI, which is currently debated and unclear
+(e.g., Papo, 2013; Deco et al., 2011). More generally, links between
+source-localized EEG results and fMRI activity, which provide con-
+fidence in EEG source estimates, have implications for the broader field
+of developmental neuroscience given the EEG method is more child-
+friendly compared to MRI due to its quieter application and the ability
+to maintain contact between caregiver and child.
+In the present study, a subsample of preschoolers from Sabbagh
+et al. (2009) was followed up to directly examine how the brain sup-
+ports ToM across development, and to investigate the developmental
+relationship between indices of task-independent neural activity as-
+sessed with resting-state/baseline EEG alpha and later task-dependent
+functional selectivity assessed with fMRI. A small sample of children for
+whom we had measures of resting EEG alpha, behavioral ToM, execu-
+tive functioning, and language performance at age 4 years (Sabbagh
+et al.) underwent fMRI while engaging in mental-state reasoning, 3.5
+years later when children were 7- and 8-years-old. The fMRI task was
+identical to that used in Gweon et al. (2012; adapted from Saxe et al.,
+2009) and required children to process peoples’ mental states, general
+social (but non-mental) personal characteristics, and physical descrip-
+tions of scenes. This fMRI task was used to index the selectivity of brain
+regions for mental-state-specific reasoning beyond both non-mental and
+general social reasoning.
+This study advances understandings of ToM and its development by
+exploring whether individual differences in selectivity for ToM rea-
+soning in the dorsal MPFC and right TPJ measured at ages 7 and 8 are
+predicted by: (1) individual differences in ToM reasoning as assessed by
+standard behavioral performance measures at age 4, and (2) individual
+differences in task-independent neural activity in the dorsal MPFC and
+right TPJ indexed by source-localized resting EEG alpha at age 4.
+Positive associations would suggest that early maturational changes
+(assessed with task-independent measures) can predict later increased
+neurospecialization (assessed with task-dependent measures), providing
+preliminary evidence that early task-independent neural activity can
+predict later functional outcome. More broadly, positive associations
+would point to an underlying common factor supporting children’s ToM
+even from the time of preschoolers’ early conceptual changes.
+Demonstration of these principles in development of cognition, brain
+structure, and brain function have important implications for studying
+the development of higher cognition more generally, and set the stage
+for important future research into the neurodevelopmental basis of
+ToM.
+2. Methods
+2.1. Participants
+
+Sixteen typically-developing 7- and 8-year-old children (5 males)
+were recruited to participate in the second wave of a longitudinal study.
+These children were a subset of 29 children who participated in wave 1,
+3.5 years prior when they were 4-years-old (Sabbagh et al., 2009). All
+children were right handed, with normal or corrected-to-normal vision.
+Parents reported that children were born within ± 2 weeks of their due
+date, were developing typically, and had no history of neuropsycholo-
+gical disorder or trauma. The sample was predominantly middle class
+European-Canadian, reflecting the community from which they were
+recruited. At both waves, children gave assent and parents provided
+written informed consent. Parents received monetary compensation
+
+2
+
+L.C. Bowman, et al.
+
+and children were given small toy prizes at the end of the session.
+Four children were excluded from the wave 2 sample: 2 due to
+excessive motion artefact in their fMRI data, 1 refused to enter the MRI
+scanner, and 1 due to a technical issue. The final sample consisted of 12
+children (4 males). At wave 1, children were 49 to 59 months old
+(M = 53.67, SD = 3.52). At wave 2, ages ranged from 91 to 106 months
+(M = 97.88 months, SD = 4.55). The time between wave 1 and wave 2
+data collection was 35 to 47 months (M = 43.64 months, SD = 3.49).
+Across waves, children were tested by the same experimenter at the
+same institution.
+2.2. Wave 1 (age 4 years): behavioral theory-of-mind and resting EEG
+
+Wave 1 methods were originally published in Sabbagh et al. (2009).
+Brief descriptions can be found below; additional details are provided in
+the supplemental material.
+2.2.1. Behavioral tasks
+Behavioral tasks consisted of a ToM battery (tasks taken from
+Wellman and Liu, 2004; Gopnik and Astington, 1988; Wimmer and
+Perner, 1983; Flavell et al., 1986), an executive functioning battery
+(tasks taken from Carlson and Moses, 2001; Zelazo, 2006; Carlson et al.,
+2005), and a language measure (PPVT; Dunn and Dunn, 1997).
+2.2.2. Behavioral variable for analysis
+The wave 1 behavioral variable of interest was children’s individual
+ToM performance scores, residualized for executive-functioning per-
+formance, language performance, and age at time of test. Using the
+residuals helps assure that relations between ToM and brain measures
+represent the neural processes related specifically to ToM, and are not
+likely accounted for by these other domain general constructs.
+2.2.3. EEG measures
+EEG was recorded from the scalp using a 128-channel Geodesic
+Sensor Net (EGI, Eugene, OR), during passive, “resting” or “baseline”
+viewing intervals. Participants watched alternating video clips (30 s
+each; 6 min total) of a still picture of a rocket ship and an animation of a
+green line that mapped out a spiral. Only EEG recorded during the
+rocket ship segments was analyzed (adapted from Fox et al., 1995). All
+participants in the final sample contributed at least 25 artefact-free
+segments of EEG (i.e., 50 s of data). Cross-spectral matrices were cre-
+ated for the single-subject average-referenced data in the child alpha
+band (i.e., 6–9 Hz), and sLORETA software computed three-dimensional
+distributions of the standardized current density using standardized
+estimates of the minimum norm inverse solution (Pascual-Marqui,
+2002). The sLORETA transformation results in current density values
+for 6239 “voxels’’ (5 mm3) located within cortical gray matter and
+hippocampus, as defined by the Probability Atlas from the Montreal
+Neurological Institute, yielding a final measure of the regional current-
+source density values in the alpha band at each voxel, for each child.
+2.2.4. EEG variable for analysis
+The final wave 1 EEG variable of interest consisted of children’s
+individual current density estimates, residualized for age at time of test
+as well as the number of useable (artefact-free) raw EEG segments
+contributed by each child. Using the residualized current density esti-
+mates helps ensure that relations between brain measures and other
+variables of interest represent relations with actual underlying EEG
+current density, and are not likely simply reflections of external rela-
+tions with age or amount of data.
+2.3. Wave 2 (age 7/8 years): fMRI
+2.3.1. fMRI stimuli
+To measure task-dependent brain activation for ToM reasoning at
+wave 2, we used the same stimuli as those used in Gweon et al. (2012):
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+acoustically delivered stories, read by one of three female speakers in
+child-directed prosody, designed to fit one of three conditions1 : 1)
+Mental stories which described characters’ thoughts, beliefs, desires,
+and emotions 2) Social stories which described characters’ social re-
+lationships and physical appearance, and 3) Physical stories which de-
+scribed physical states and objects in the world. Critically, though both
+Mental and Social stories contained social information (about peoples’
+appearances, actions, and interactions), only Mental stories contained
+specific descriptions of peoples’ mental states (e.g., Sam wanted to keep
+the party a secret so he didn’t wish Eric a happy birthday. Eric thought
+that Sam forgot about his birthday and was very upset). Additionally,
+Physical stories contained neither mental-state nor social content.
+Stories were matched across conditions for number of words (M = 51.6
+words), number of sentences (4.7), duration (20 s), and Flesch Reading
+Ease Level (M = 90.4). See Fig. 1 for a schematic of the task and an
+example story in each condition. See supplemental material for more
+details on stimuli presentation, counterbalancing, and analysis of be-
+havioral performance.
+
+junction (RTPJ). At wave 1,
+
+2.3.2. fMRI data collection and analysis
+Data were collected on a 3 T Siemens Tim Trio scanner using a 12-
+channel head coil. A T1-weighted MPRAGE was conducted to obtain an
+anatomical image (176 sagittal slices, slice thickness =1.0 mm, TE
+=2.2 ms, TR =1480 ms, flip angle = 9.0 degrees). Functional data
+were acquired in the axial plane with echo-planar images covering the
+whole brain at a resolution of 3.3 mm isotropic voxels (32 slices, TE
+=30 ms, TR =1970 ms, flip angle = 77 degrees). The first 4 volumes of
+each run were excluded from the analysis to ensure steady-state mag-
+netization.
+Analytic procedures were the same as those used in Gweon et al.
+(2012) and adapted from Saxe et al. (2009). In brief, data were ana-
+lyzed using SPM8 (www.fil.ion.ucl.ac.uk/spm/software/spm8) and
+custom software written in Matlab.
+Two focal regions of interest (ROIs) were defined based on results of
+wave 1 data: dorsal medial prefrontal cortex (DMPFC) and right tem-
+source localized (via
+poroparietal
+sLORETA) EEG alpha in each of these regions positively related to
+children’s behavioral ToM performance; thus, examination of fMRI
+BOLD signal in each of these regions at age 7 and 8 addresses whether
+there is continuity or change in each of these regions’ relation to ToM
+across early childhood development. Previous research (Gweon et al.,
+2012; Saxe et al., 2009) has also implicated left temporoparietal junc-
+tion (LTPJ), precuneus (PC), and middle, and ventral prefrontal cortex
+(MMPFC, VMPFC) in ToM reasoning in middle childhood; thus, these
+four additional ROIs were also created. Examination of fMRI BOLD
+signal in these regions is important to capture the larger picture of ToM
+neural correlates at ages 7 and 8, and allows exploration of the possi-
+bility that ToM neural regions in early childhood may relate to other
+regions in the ToM neural network across development.
+Following Gweon et al. (2012) all six ROIs were defined using both
+anatomical location (MNI coordinates identified in previous literature)
+and functional activation: We used anatomical MNI coordinates (from
+Saxe and Kanwisher, 2003; Saxe et al., 2009; and Gweon et al., 2012) as
+spatial landmarks, and defined each ROI as the voxels in a 9 mm radius
+surrounding the anatomical coordinates that showed the diagnostic
+function of (a) clusters of at least 10 voxels (k > 10), that were (b)
+significantly more active to the Mental condition versus the Physical
+condition (p < .0005, uncorrected). BOLD responses to the Mental,
+Social, and Physical stories were calculated in each of these 6 ROIs for
+each participant using percent signal change (PSC = 100*[BOLD re-
+sponse – Baseline]/Baseline). See supplemental material for details. The
+
+1 Participants also heard two additional condition types – stories in a foreign
+language, and music. Neither of these additional conditions was relevant for the
+purposes of the current study and thus neither was included in analyses.
+
+3
+
+L.C. Bowman, et al.
+
+use of anatomical coordinates ensures we are investigating, at the
+broadest level, what has come to be identified as the “ToM” network
+based on much prior neuroimaging research with adults. Thus, these
+coordinates guide our broadest search space. The functional criteria
+allow for the possibility that children’s neuroanatomy may vary across
+individuals, and as a group could be different from the adult brains
+upon which the anatomical criterion were set. That is, children’s ToM
+neural network may not precisely match the network outlined in
+average adult anatomy, but may be functionally equivalent (i.e., show
+more activity for mental versus non-mental reasoning). Additionally,
+there is no purely anatomical definition that would allow precise
+characterization of each region in each individual brain. Further, areas
+within the anatomical regions of interest may exhibit selectivity for
+non-ToM cognitive processes. Using an anatomical ROI from a prior
+study leaves open the possibility that we would be interrogating dif-
+ferent functional regions across participants. Defining ROIs individually
+ensures we are studying the same functional region across participants.
+The two ROI selection criterion taken together thus provide better as-
+surance that the brain activity we examine in our sample can be ap-
+propriately interpreted as activity in a “ToM” neural network.
+
+2.3.3. fMRI variable for analysis
+The key wave 2 variable of interest was children’s individual mental-
+state selectivity scores, which were calculated as a proportion of their
+average PSC values in the Mental, Social, and Physical conditions (i.e.,
+(PSCMental – PSCSocial) / (PSCMental - PSCPhysical), directly following Saxe
+et al. (2009) and Gweon et al.’s (2012) analytic procedures. A low se-
+lectivity score indicates that activation in an ROI for the Social stories
+was about as high as its activation to the Mental stories (i.e., Mental and
+Social activation are essentially equivalent and both differentiate from
+the Physical control). In contrast, a high selectivity score indicates that
+a given ROI’s response to the Social stories was about as low as the
+response to the Physical stories (i.e., Mental activation is unique and
+differentiates from both the Social and Physical control conditions,
+which themselves are essentially equivalent).
+Note that use of selectivity scores importantly indexes the extent to
+which brain regions are selective for supporting mental-state reasoning
+beyond both non-mental reasoning and general social reasoning (measured
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+Fig. 1. Schematic of the task administered at
+wave 2 for functional MRI data collection
+(adapted from Gweon et al., 2012). The task
+consists of 5 components outlined in columns
+from left
+to right, with durations of each
+component labeled across the top. Examples of
+stories in mental (blue) social (red) and phy-
+sical (green) conditions are shown in the boxes
+in the first column. The mental-state content
+unique to the mental condition is underlined. A
+given story is followed by the question “Does
+this come next?” (column 2), and then children
+either hear a sentence that continues from the
+previous story (in matching colors) or a sen-
+tence irrelevant to the previous story (in grey).
+Children judge whether the probe sentence is a
+match or non-match with the previous story
+(column 4) and then hear a post-response en-
+couragement that changes depending on whe-
+ther the participant’s response was correct or
+incorrect (column 5). Only data from the initial
+story component (column 1) was analyzed; the
+subsequent task components served to keep
+children engaged and focused on processing
+the story information.
+
+the
+
+of
+
+relative differences
+
+as
+[mental-social]/[mental-physical]).
+Specifically, recall that the mental and social conditions both include
+general social descriptions of people. Thus, even though we selected ROIs
+based on ‘Mental > Physical’ activity, this is not a direct test of whether
+those ROIs will also exhibit ‘Mental > Social’ activity, because the mental
+condition includes just as much ‘social’ information as the social condition
+(though importantly only the mental condition includes additional in-
+formation about internal mental states). ROIs that show greater activity to
+the mental condition relative to the social condition indicate that the ROIs
+were “selective” for reasoning about peoples’ internal mental states beyond
+social reasoning about people more generally.
+Following Saxe et al., 2009 and Gweon et al., 2012, we quantified
+the extent to which brain regions associated with ToM reasoning are
+functionally selective for specifically mental state reasoning (beyond
+general social reasoning) using the calculation for mental state se-
+lectivity scores presented above. A high selectivity score indicates that
+mental activation is higher than both Physical and Social activations,
+suggesting specificity or specialization for mental-state reasoning. See
+Saxe et al. (2009); Gweon et al. (2012), and the supplemental material
+for more detailed descriptions of selectivity score calculations.
+Selectivity scores were calculated for each child, in each of the 6
+ROIs, allowing comparison of mental-state selectivity across in-
+dividuals, and critically, an examination of the degree to which chil-
+dren’s mental-state selectivity varied as a function of (a) their perfor-
+mance on the battery of wave 1 behavioral ToM tasks, and (b) their
+wave 1 source localized (sLORETA) EEG alpha (current density).
+
+3. Results
+
+We first report preliminary analyses of the fMRI data alone, fol-
+lowed by report of focal analyses correlating wave 1 and wave 2 data.
+For analyses of EEG data alone, see Sabbagh et al. (2009). In line with
+established developmental trends over childhood (e.g., Wellman et al.,
+2001; Peterson et al., 2012), a subset of the wave 1 ToM behavioral
+battery administered at wave 2 confirmed that while only 43% of the
+sample passed the most complex false-belief
+location-change task
+(Wimmer and Perner, 1983) at wave 1, 100% of the sample passed the
+task at wave 2.
+
+4
+
+L.C. Bowman, et al.
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+for
+
+the story blocks
+
+Fig. 2. Top panel shows percent signal change
+(from rest) averaged across participants, and
+averaged across
+the
+Physical (green), Mental (blue), and Social
+(red) conditions in the 6 regions of interest. All
+regions
+show significantly greater Mental
+versus Physical activation, as per the functional
+criteria for ROI selection. All regions also ex-
+hibit greater Mental versus Social activation,
+suggesting some degree of
+selectivity for
+mental-state reasoning across all ROIs (con-
+firmed in bottom panel). Bottom panel shows
+average mental-state selectivity scores for each
+ROI (derived from the patterns of PSC depicted
+in the top panel). This panel shows similar
+magnitude and variation in selectivity scores
+across ROIs, with RTPJ exhibiting the highest
+average mental-state selectivity and DMPFC
+exhibiting the lowest (though scores did not
+statistically differ across ROIs).
+
+3.1. Preliminary fMRI analyses
+
+All 12 child participants showed fMRI activity that met criteria for
+ROI selection in the DMPFC, RTPJ, PC, and MMPFC. Eleven out of 12
+children met criteria for LTPJ and VMPFC ROI selection. Thus, each
+region showed significantly greater activation to the Mental condition
+versus the Physical control condition, evincing a general response to
+social information across these ROIs (see top panel Fig. 2). These results
+replicate findings from Saxe et al. (2009) and Gweon et al. (2012),
+giving confidence that our sample is in line with extant findings.
+The bottom panel of Fig. 2 depicts the average mental-state se-
+lectivity for each ROI, which was derived from the proportion of ac-
+tivity across all three conditions (recall that a higher selectivity score for
+a given ROI demonstrates that ROI is more selective for mental-state
+processing—beyond both physical- and social-processing). All ROIs
+demonstrated some degree of mental-state selectivity, also in line with
+previous research (Gweon et al., 2012). Visual inspection of normality
+plots for these fMRI selectivity scores across the six ROIs revealed
+varying and non-normal distributions. Thus, following a standard
+technique for non-parametric analyses, selectivity scores were con-
+verted to ranks (1–12) in each ROI, and Spearman’s correlation tests
+were used to compare wave 1 and wave 2 data.
+3.2. Focal analyses: correlations between wave 1 and wave 2 data
+
+Focal analyses tested for longitudinal relations. Specifically, we
+examined whether wave 2 outcome measures of ToM-specific fMRI
+responses in the DMPFC and the RTPJ were predicted by wave 1
+measures of (a) behavioral ToM performance and (b) EEG alpha at-
+tributed to the DMPFC and RTPJ. Though not focal, we also examined
+correlations with mental-state selectivity in the four additional ROIs
+(PC, LTPJ, VMPFC, MMPFC).
+3.2.1. Behavioral ToM (wave 1) and fMRI mental-state selectivity (wave 2)
+Behavioral ToM performance (controlled for age, executive func-
+tioning, and language performance) at 4 years (wave 1) showed a sig-
+nificant positive relation with later (wave 2) ToM-specific fMRI re-
+sponses only in the DMPFC (rs = .66, p = .020); see Fig. 3. No other
+wave 2 ROI exhibited any significant relations with wave 1 behavioral
+ToM (ps < .152), including our second focal ROI, the RTPJ (rs = -.27,
+p = .50).
+3.2.2. EEG alpha (wave 1) and fMRI mental-state selectivity (wave 2)
+
+Our most critical question was whether individual differences in the
+
+5
+
+Fig. 3. Correlations between wave 1 behavioral theory-of-mind performance
+(residualized for covarying effects of age, executive functioning and language
+performance) and wave 2 fMRI mental-state selectivity in the DMPFC. Greater
+DMFPC fMRI selectivity at age 7 and 8 years is associated with greater ToM
+performance at age 4 years.
+
+functional maturation of the ToM network measured at wave 1 (in-
+dexed by localized EEG alpha current density) predicted the functional
+specialization of that same network measured directly (with fMRI) at
+wave 2. Thus, we examined whether mental-state selectivity scores in
+the 6 ROIs at 7- and 8-years-old were predicted by EEG current density
+in homologous brain areas of interest (AOIs) at 4-years-old.
+Following the analytic approach in Sabbagh et al. (2009), we con-
+ducted voxel-wise Spearman correlations between the EEG current
+density (one value per voxel within a pre-defined AOI) and children’s
+fMRI mental-state selectivity (one score per ROI). These AOI analyses
+provide the most sensitive approach to identifying continuity in neural
+regions over early to middle childhood because they investigate the
+extent to which functional maturation of a given brain area predicts
+neural specialization in that same area, three years later. These analyses
+limit the number of voxel-wise comparisons, and are similar to small
+volume corrections employed in fMRI analyses (Poldrack, 2007): spe-
+cifically, we used the fMRI results to guide selection of a small volume
+of EEG voxels (constituting an AOI), and then performed voxel-wise
+
+L.C. Bowman, et al.
+
+analyses within this small volume. As described in Poldrack (2007), we
+controlled for multiple comparisons across voxels within an ROI, but
+did not control for multiple comparisons across 6 ROIs, which re-
+presented a-priori planned comparisons.
+The grand average coordinates of the ROIs identified in the fMRI
+data (at wave 2) (fMRI ROIs) were used to define homologous group-
+level AOIs in the EEG data (at wave 1) (EEG AOIs). The EEG AOIs
+consisted of voxels in a 2 cm radius around the grand average co-
+ordinate (i.e., averaged across each individual child’s ROI) of the six
+fMRI ROIs (rounded to the nearest coordinate to match the spatial re-
+solution in sLORETA) to create six brain area homologues: DMPFC and
+RTPJ (focal AOIs), and LTPJ, PC, MMPFC, and VMPFC (additional
+AOIs). The larger radius for the EEG AOIs versus the fMRI ROIs (i.e.,
+9 mm) was chosen to account for the lower resolution of the sLORETA
+data in order to achieve the most comparable brain regions across wave
+1 and wave 2 data.
+Six separate voxel-wise Spearman correlation analyses compared
+wave 1 EEG current density to wave 2 fMRI mental-state selectivity
+across each set of homologous ROIs. For example, DMPFC current
+density at wave 1 was correlated with DMPFC mental-state selectivity
+at wave 2, RTPJ current density at wave 1 was correlated with RTPJ
+mental-state selectivity at wave 2, and so on for all six ROIs. To de-
+termine significance criteria for each EEG AOI, permutation analyses
+were conducted. Specifically, two thousand random permutations of
+fMRI selectivity index ranks 1 through 12 were correlated with the
+current density estimates in each voxel within each EEG AOI.
+Permutation tests were also conducted using fMRI selectivity ranks 1
+through 11 to determine cluster criterion for the VMPFC and LTPJ AOIs
+that only had 11 participants meet criteria for fMRI ROI selection. The
+cluster criterion associated with a family-wise alpha of .05 was unique
+for each of the six EEG AOIs (see Table 1).
+Under the established significance criteria, results showed that wave
+1 EEG current density positively related to wave 2 fMRI mental-state
+selectivity in only one fMRI ROI:
+the DMPFC (rs = .59–.71,
+ps = .013–.048, bootstrapped CI [.091,
+.921], k = 25 contiguous
+voxels, peak voxel coordinates: 5, 55, 20; see Table S1 in supplemental
+material for complete list of r and p-values in the cluster); see Fig. 4a
+and b. All voxels in this significant cluster fell within the DMPFC EEG
+AOI, which by definition, consisted of the same DMPFC region that
+exhibited fMRI mental-state selectivity at 7-years. Given the small
+sample, we conducted cross-validation analyses to assess the robustness
+of this effect (see supplemental materials for details and Fig. S1). Re-
+sults of these analyses provide confidence that our findings of links
+between dMPFC EEG current density and dMPFC fMRI selectivity are
+not an artifact of our particular sample, and not driven by outliers.
+An additional Spearman correlation between DMPFC mental-state
+selectivity scores and aggregate EEG alpha current density averaged
+across all voxels in the AOI further confirmed the effect. Specifically,
+current density averaged across an AOI with a 1.3 cm radius (chosen to
+replicate the size of the cluster that showed positive correlations
+
+Table 1
+Centroid Coordinates, Size (Number of Voxels), and Cluster Criterion for each of
+the 6 EEG AOIs.
+EEG ROI
+
+Centroid MNI
+Coordinates
+5, 55, 30
+55, -55, 25
+−50, -55, 30
+−5, -50, 40
+0, 55, 10
+5, 55, -10
+
+DMPFC
+RTPJ
+LTPJ
+PC
+MMPFC
+VMPFC
+Note. Cluster criterion indicates the minimum number of contiguous voxels
+(each significant at p < .05) needed within a given ROI to reach a family-wise
+alpha of .05.
+
+Size of ROI (# of
+voxels)
+109
+115
+125
+179
+134
+134
+
+Cluster Criterion (# of
+voxels)
+12
+16
+15
+30
+18
+18
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+between current density and ToM behavioral performance in Sabbagh
+et al., 2009) surrounding the same MNI coordinates as before (5, 55,
+30—the average coordinate of the DMPFC fMRI ROI) correlated posi-
+tively with DMPFC fMRI mental-state selectivity scores: rs = .59, p =
+.045, bootstrapped CI [.075, .894].
+To test whether this association between fMRI selectivity and
+functional maturation was specific to the DMPFC AOI, we then searched
+the whole brain2 for regions correlated with DMPFC fMRI selectivity.
+Though this analysis had the potential to reveal correlations between
+DMPFC fMRI mental-state selectivity indices and EEG alpha current
+density estimates in any part of the brain, only the cluster of voxels in
+the DMPFC (that matched the cluster from the prior DMPFC AOI ana-
+lysis) was significant (k = 25, peak coordinate 5, 55, 20; Broadmann
+areas (BA) = 9/10; rs = .59–.71, ps = .013–.048).
+When the significant DMPFC EEG cluster was compared to the
+original 4-year-old DMPFC EEG cluster that exhibited a positive cor-
+relation with ToM performance from Sabbagh et al. (2009), there was
+striking overlap: 19/25 voxels or 76% of the present study DMPFC
+cluster overlapped with the voxels included in the original DMPFC
+cluster (see Fig. 4c and d). Moreover, in just the subsample of children
+who contributed data at wave 2, we observed the previously reported
+association between wave 1 DMPFC EEG and wave 1 behavioral ToM
+performance residualized for executive functioning, vocabulary skills,
+and age observed by Sabbagh et al.: r = .598, p = .040. These analyses
+thus evince intriguing continuity in the association between DMPFC
+and ToM over early to middle childhood: 4-year-olds’ DMFPC resting
+EEG alpha (1) was associated with children’s concurrent behavioral
+ToM performance, and (2) longitudinally predicted selective recruit-
+ment of the DMPFC for mental-state processing as assessed 3.5 years
+later with fMRI (see Fig. 5).
+No other region reached significance under our established family-
+wise error cluster criterion, including the RTPJ. RTPJ selectivity at
+wave 2 (along with selectivity in all other regions) was not significantly
+predicted by wave 1 EEG (only 2 non-contiguous, singular voxels
+yielded correlations of rs > .60, p < .05, and thus did not constitute a
+cluster).
+
+4. Discussion
+
+Over early to middle childhood, children’s ToM becomes more so-
+phisticated, allowing it to be applied to a broader range of social cir-
+cumstances (Wellman et al., 2001; Harris et al., 1989; Wellman and Liu,
+2004; Peterson et al., 2012). The present study examined how the brain
+supports ToM across these developments, and provides preliminary
+evidence for longitudinal continuity in the neural system that supports
+ToM reasoning. Specifically, individual differences in older children’s
+ToM-specific DMPFC responses were predicted by (a) individual dif-
+ferences in children’s earlier behavioral ToM performance, and (b) in-
+dividual differences in EEG alpha power attributable to the DMPFC (see
+Fig. 5). There was striking similarity in the region of the DMPFC that
+was associated with concurrent ToM at age 4 years and the region that
+showed ToM-specific fMRI responses 3.5 years later.
+Our findings of longitudinal continuity are in line with prior cross-
+sectional research showing that the DMPFC is connected with ToM
+reasoning in preschoolers, older children, and adults. Extending these
+prior findings, our data demonstrate that individual differences in ToM-
+relevant DMPFC development at age 4 are associated with ToM-selec-
+tive responses in the same brain region 3.5 years later. Of course, a
+number of other patterns of results could have been possible, each with
+
+2 2 Cluster criterion for the whole-brain analysis was taken to match that in
+the original whole-brain analyses with the sLORETA data in Sabbagh et al. that
+was associated with a family-wise alpha level of p < .05: correlations were
+considered meaningful if at least 20 contiguous sLORETA voxels correlated with
+fMRI mental-state selectivity at p < .05.
+
+6
+
+L.C. Bowman, et al.
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+Fig. 4. Top panel: Threshold statistical map (A) and scatterplot (B) of correlations between wave 2 DMPFC fMRI selectivity and wave 1 EEG current density. The
+significant cluster of EEG voxels corresponding to the DMPFC at 4yrs that positively related to DMPFC mental-state selectivity at 7 and 8yrs (at p < .05) is shown in
+orange in (A). The 2cm-radius for the DMPFC EEG AOI is outlined in dashed white. All voxels in the significant cluster fell within this DMPFC EEG AOI, and
+overlapped completely with the DMPFC fMRI ROI (outlined in solid green). Bottom panel: threshold statistical map slice view (C) and alternate cortex map view (D)
+demonstrating the overlap (blue) between the cluster of EEG voxels that related to DMPFC fMRI selectivity at 7 years (orange), and the cluster of EEG voxels that
+related to concurrent behavioral theory-of-mind (ToM) performance at 4 years (red). Images depict comprehensive overlap between the two clusters.
+
+Fig. 5. Visual summary of correlations between wave 1 and wave 2 data for DMPFC.
+
+functional neurospecialization (fMRI
+
+different implications for understanding how the brain supports ToM
+development. As one example, 4-year-olds’ resting EEG could have
+failed to predict later ToM-specific fMRI activity in homologous brain
+regions, leaving 4-year-old ToM performance the sole predictor of fMRI
+selectivity at ages 7 and 8. This result would have raised questions
+about the extent to which task- independent measures of neural activity
+(source-localized resting EEG alpha) may be disconnected from task-
+dependent measures of
+se-
+lectivity). Moreover, a lack of longitudinal continuity in regions im-
+plicated in ToM reasoning at both early and middle childhood (i.e.,
+DMPFC) could have pointed to changes in how the brain supports ToM
+as children develop, possibly suggesting that the early neural founda-
+tions of ToM are distinct and discontinuous with later developments
+that ultimately promote more mature ToM performance. In contrast to
+these alternate possibilities, our findings provide preliminary evidence
+that the early developments in the region of DMPFC that is important
+for ToM in 4-year-olds are also associated with the extent of functional
+specialization of that same region for ToM reasoning 3.5 years later,
+suggesting early stability in the neural system for ToM reasoning, and
+longitudinal continuity in this neural system despite behavioral-cogni-
+tive advancements.
+
+Two key aspects of our study design at both wave 1 and 2 provide
+confidence that the continuities in DMPFC relate to ToM reasoning, per
+se. First, we statistically controlled for skills that typically covary with
+ToM reasoning (e.g., language and executive functioning). Therefore,
+concurrent preschool relations between source localized resting EEG
+alpha and ToM performance are not likely attributable solely to the
+influence of these constructs. Second, the Mental, Social and Physical
+conditions – from which the mental-state selectivity index was created –
+all placed equal demands on executive functioning and language
+comprehension. Thus, it is unlikely that the present results reflect do-
+main-general contributions to ToM reasoning that might be similar
+across ages; rather our data indicate domain-specific continuity in how
+the brain supports ToM.
+It is important to note that the number of children who returned for
+fMRI testing at wave 2 was small; thus, the present results should be
+viewed as preliminary. While the positive results observed in the
+DMPFC were corrected to reduce type I error, more powerful designs
+would provide increased confidence in the results reported here and –
+given the higher number of girls in our sample – could explore potential
+moderating effects of sex (though a prior meta-analysis demonstrated a
+lack of sex effects; Wellman and Liu, 2004). More powerful designs may
+
+7
+
+L.C. Bowman, et al.
+
+also reveal stability in other regions of the ToM neural network, and
+could explore additional questions of links between current density of
+early ToM neural networks and later activity across the whole brain.
+Importantly though, the possibility that other brain regions (e.g., those
+supporting domain-general processes) may also support ToM develop-
+ment across early to middle childhood would not undermine the posi-
+tive results for stability associated with the DMPFC reported here.
+Additional caution should be taken in interpreting small sample results
+given possible increased danger of finding spurious correlations. Our
+cross-validation analyses (see supplemental material) provide im-
+portant confidence in our findings, and the positive correlations be-
+tween time 1 and time 2 data were found across both brain and be-
+havioral measures. We therefore view our results as preliminary but
+promising, and importantly we demonstrate a novel method and ap-
+proach that should be adopted for replication of our results in a larger
+more generalizable sample, and to address the possibility of stability
+and change in a broader network of brain regions across development.
+4.1. Speculations on the significance of “neural stability”
+
+The above limitations notwithstanding, these preliminary data offer
+opportunity for speculations that can shape interpretation of existing
+findings and theories, and open important avenues for future research.
+4.1.1. Does stability in the brain index stability in early-developing
+cognition?
+Our data offer preliminary evidence that the relation between
+DMPFC and ToM remains stable over early to middle childhood, despite
+behavioral evidence for advancements in conceptual ToM under-
+standing recorded over the same time period; children tested on be-
+havioral ToM measures at age 7 and 8 years were all at ceiling despite
+failing the same measures 3.5 years earlier. It is possible that if we had
+administered a more challenging behavioral assessment at wave 2, we
+would have found individual differences that may or may not have
+related to brain or behavior at either wave. Future longitudinal research
+should include more challenging behavioral ToM assessments in sub-
+sequent waves to address these open questions. Nonetheless, the neural
+stability demonstrated in our data over periods of change in conceptual
+performance points to the possibility that some aspects of ToM rea-
+soning—those supported by the DMPFC—could be established earlier in
+development and exhibit stability by early and middle childhood.
+While our data do not have direct implications for understanding
+ToM prior to age 4 years, thinking about such early-developing ToM-
+relevant skills informs speculations about what aspects of ToM could be
+established by age 4 and exhibit stability over early to middle child-
+hood. For example, by age 2 years, older infants and toddlers demon-
+strate abilities that are either continuous with or are important com-
+ponents of later ToM reasoning such as distinguishing self and other
+(Legerstee et al., 1998; Rochat and Striano, 2002), identifying the goals
+and intentions behind others’ actions (Wellman et al., 2008; Yamaguchi
+et al., 2009), and discriminating faces and emotional expressions
+(Young-Browne et al., 1977; Righi and Nelson, 2013). FMRI research
+with adults and older children shows that the DMPFC (unlike other
+brain regions in the ToM neural network) is recruited for multiple as-
+pects of ToM including those also present very early in development
+such as affective processes (Krause et al., 2012; Sebastian et al., 2011)
+and self-other distinctions (Schuwerk et al., 2014). Thus, an intriguing
+possibility is that continuity in the DMPFC may in part reflect con-
+tinuity in these early-present ToM concepts. Future research should
+examine whether DMPFC is associated with young children’s perfor-
+mance on tasks assessing these early-developing ToM-relevant skills.
+The methods and design of the present study can be used to guide this
+future research.
+4.1.2. DMPFC as a process-specific mechanism or ToM module?
+
+Rather than supporting early-developing, specific, stable ToM
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+concepts (such as affective processes, or self-other distinction), an in-
+triguing possibility is that DMPFC may support a process-specific me-
+chanism established early in life that is recruited across multiple ToM
+concepts. Indeed, beyond supporting ToM directly, DMPFC is active
+during tasks requiring cognitive control (Hartwright et al., 2012) and
+mental representation (Hartwright et al., 2014), which both support
+successful ToM reasoning. Moreover, evidence suggests that DMPFC,
+unlike other regions of the ToM neural network (e.g., TPJ), is recruited
+similarly for reasoning across different mental state constructs (e.g.,
+belief- and desire-reasoning; Bowman et al., 2012; Liu et al., 2009;
+Bowman et al., 2015) and across individuals with different socio-cul-
+tural experiences (e.g., individuals from Japan and the United States;
+Kobayashi et al., 2006). This versatility is consistent with the possibility
+that the DMPFC supports a process-specific mechanism recruited across
+multiple aspects of ToM reasoning. The notion of a process-specific
+mechanism supporting ToM is compatible with long-standing char-
+acterizations of ToM development that emphasize a “Theory of Mind
+Module”—an innate neural mechanism dedicated to ToM reasoning
+that is in place in infancy and gradually ‘comes on-line’ over the course
+of development (see e.g., Fodor, 1983; Scholl and Leslie, 1999; Leslie
+et al., 2004; German and Hehman, 2006). Future longitudinal research
+that examines selective involvement of the DMPFC, in both younger
+and older populations, and that includes domain-general controls, will
+be useful
+in further investigating the DMPFC as a potential ToM
+module.
+4.1.3. Endogenous and exogenous sources of DMPFC stability?
+Future research is needed to address questions about the cause of
+DMPFC stability, which could be
+exogenous.
+Considering endogenous factors, dopamine has been indirectly linked
+to ToM proficiency in 4- and 5-year-old preschool children (Lackner
+et al., 2010, 2012). Considering exogenous factors, a meta-analysis
+demonstrates family environments could influence children’s devel-
+oping understanding of false-beliefs (Devine and Hughes, 2016). Future
+research could employ the methods and approach outlined in the pre-
+sent study, and include assessments of these possible endogenous/
+exogenous influences to investigate whether dopamine and/or con-
+tinuity in the family environment relate to neural correlates of chil-
+dren’s ToM, and in particular to the development and function of
+DMPFC.
+4.1.4. Links between the brain’s early underlying organization and its later
+functional recruitment?
+The longitudinal relations between source-localized resting EEG
+alpha at age 4 and fMRI rank orders at ages 7 and 8 demonstrate as-
+sociations between task-independent neural activity and task-dependent
+functional selectivity. These relations could suggest that there are direct
+developmental links between the brain’s early underlying organization
+and its later functional recruitment, and offer new insight into the
+decades-long debate regarding the significance of task-independent
+brain activity (Kubo, 1966; Papo, 2013; Deco et al., 2011; Gabard-
+Durnam et al., 2014). An intriguing open question is whether we might
+see similar associations for other aspects of core cognition across de-
+velopment. The methods and design of the present study can be adopted
+for these important future pursuits.
+4.2. Conclusions
+
+endogenous or
+
+We found preliminary evidence for a stable role for DMPFC in ToM:
+individual differences in ToM performance at age 4 years were asso-
+ciated with both concurrent functional maturation DMPFC (indexed
+with source-localized resting EEG alpha) and with rank-ordered func-
+tional selectivity of the same region of the DMPFC 3.5 years later.
+Moreover, 4-year-olds’ task-independent neural activity in the DMPFC
+predicted task-dependent functional selectivity of the DMPFC 3.5 years
+later. Given the small sample, these results present a first exploration
+
+8
+
+L.C. Bowman, et al.
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+continuity in the neural system for ToM, and require replication with
+larger, more representative sample. Nonetheless, our approach and
+preliminary findings have implications for characterizing conceptual
+ToM development, and its underlying neural supports. Our methods
+and design provide a foundation for future research to investigate
+functional continuity and change in neural systems supporting precise
+social-cognitive and conceptual developments.
+Declaration of Competing Interest
+
+There are no conflicts of interest to report.
+
+Acknowledgements
+
+This work was funded by an NSF CAREER grant (0955818) awarded
+to Saxe, an NSERC PreDoctoral grant (PGSD2389020-2010) awarded to
+Bowman, and an NSERC Discovery Grant (RGPIN 250004-11) awarded
+to Sabbagh. We extend our gratitude to Anastasia Christopher who
+helped with data collection, and to the parents and children who par-
+ticipated in the study.
+Appendix A. Supplementary data
+
+Supplementary data associated with this article can be found, in the
+
+online version, at doi:10.1016/j.dcn.2019.100705.
+References
+
+Bergman, L.R., Edklund, R., Magnusson, D., 1989. Studying individual development:
+
+problems and methods. In: Magnusson, D., Begman, L.R. (Eds.), Problems and
+Methods in Longitudinal Research: Stability and Change. Cambridge University Press,
+Cambridge, MA.
+Bowman, L.C., Kovelman, I., Hu, X., Wellman, H.M., 2015. Children’s belief-and desire-
+reasoning in the temporoparietal junction: evidence for specialization from func-
+tional near-infrared spectroscopy. Front. Hum. Neurosci. 9.
+Bowman, L.C., Liu, D., Meltzoff, A.N., Wellman, H.M., 2012. Neural correlates of belief-
+and desire-reasoning in 7- and 8-year-old children: an event-related potential study.
+Dev. Sci. 15, 618–632. https://doi.org/10.1111/j.1467-7687.2012.01158.x.
+dren’s theory of mind. Child Dev. 72, 1032–1063.
+representation in preschool children. Psychol. Sci. 16, 609–616.
+theory of mind in preschoolers. J. Cogn. Dev. 9 (1), 26–45.
+
+Carlson, S.M., Moses, L.J., 2001. Individual differences in inhibitory control and chil-
+Carlson, S.M., Davis, A., Leach, J.G., 2005. Less is more: executive function and symbolic
+Davis-Unger, A.C., Carlson, S.M., 2008. Development of teaching skills and relations to
+Deco, G., Jirsa, V.K., McIntosh, A.R., 2011. Nature Neuroscience Reviews 12, 43–56.
+Devine, R.T., Hughes, C., 2014. Relations between false belief understanding and ex-
+
+ecutive function in early childhood: a meta-analysis. Child Dev. https://doi.org/10.
+1111/cdev.12237.
+Devine, R.T., Hughes, C., 2016. Family correlates of false belief understanding in early
+childhood: a meta‐analysis. Child Dev.
+Dunn, L.M., Dunn, L.M., 1997. Peabody Picture Vocabulary Test, 3rd ed. Pearson
+Assessments., Bloomington, MN.
+Elbert, T., Heim, S., Rockstroh, B., 2001. Neural plasticity and development. Ch 14 In:
+Nelson, C.A., Luciana, M. (Eds.), Handbook of Developmental Cognitive
+Neuroscience. MIT Press, Cambridge, MA.
+Flavell, J.H., Green, F.L., Flavell, E.R., 1986. Development of knowledge about the ap-
+pearance-reality distinction. Monogr. Soc. Res. Child Dev. 51.
+Fodor, J., 1983. Modularity of Mind. MIT Press, Cambridge, MA.
+Fox, N.A., Rubin, K.H., Calkins, S.D., Marshall, T.R., 1995. Frontal activation asymmetry
+and social competence at four years of age. Child Dev. 66, 1770–1784.
+Gabard-Durnam, L.J., Flannery, J., Goff, B., Gee, D.G., Humphreys, K.L., Telzer, E., Hare,
+T., Tottenham, N., 2014. The development of human amygdala functional con-
+nectivity at rest from 4 to 23 years: a cross-sectional study. NeuroImage 95, 193–207.
+https://doi.org/10.1016/j.neuroimage.2014.03.038.
+German, T.P., Hehman, J.A., 2006. Representational and executive selection resources in
+‘theory of mind’: evidence from compromised belief-desire reasoning in old age.
+Cognition 101, 129–152.
+Gopnik, A., Astington, J.W., 1988. Children’s understanding of representational change
+and its relation to the understanding of false belief and the appearance- reality dis-
+tinction. Child Dev. 59, 26–37.
+Grosse Wiesmann, C., Schreiber, J., Singer, T., Steinbeis, N., Friederici, A.D., 2017. White
+matter maturation is associated with the emergence of Theory of Mind in early
+childhood. Nat. Commun. 8, 14692.
+Gweon, H., Dodell-Feder, D., Bedny, M., Saxe, R., 2012. Theory of mind performance in
+children correlates with functional specialization of a brain region for thinking about
+thoughts. Child Dev. 83, 1853–1868. https://doi.org/10.1111/j.1467-8624.2012.
+01829.x.
+
+Harris, P.L., Johnson, C.N., Hutton, D., Andrews, A., Cooke, T., 1989. Young children’s
+Hartwright, C.E., Apperly, I.A., Hansen, P.C., 2012. Multiple roles for executive control in
+
+theory of mind and emotion. Cogn. Emot. 3, 379–400.
+belief-desire reasoning: distinct neural networks are recruited for self perspective
+inhibition and complexity of reasoning. Neuroimage 61, 921–930.
+Hartwright, C., Apperly, I.A., Hansen, P.C., 2014. Representation, control, or reasoning?
+Distinct functions for theory of mind within the medial prefrontal cortex. J. Cogn.
+Neurosci. 26, 683–698. https://doi.org/10.1162/jocn.
+Hyde, D.C., Simon, C.E., Ting, F., Nikolaeva, J.I., 2018. Functional organization of the
+temporal–parietal junction for theory of mind in preverbal infants: a near-infrared
+spectroscopy study. J. Neurosci. 38 (18), 4264–4274.
+Karmiloff-Smith, A., 1997. Crucial differences between developmental cognitive neu-
+roscience and adult neuropsychology. Dev. Neuropsychol. 13, 513–524.
+Killen, M., Mulvey, K.L., Richardson, C., Jampol, N., Woodward, A., 2011. The accidental
+transgressor: morally-relevant theory of mind. Cognition 119 (2), 197–215.
+Kobayashi, C., Glover, G.H., Temple, E., 2006. Cultural and linguistic influence on neural
+bases of ‘Theory of mind’: an fMRI study with Japanese bilinguals. Brain Lang. 98,
+210–220.
+Kobayashi, C., Glover, G.H., Temple, E., 2007. Children’s and adults’ neural bases of
+verbal and nonverbal ‘theory of mind’. Neuropsychologia 45 (7), 1522–1532.
+Krause, L., Enticott, P.G., Zangen, A., Fitzgerald, P.B., 2012. The role of medial prefrontal
+cortex in theory of mind: a deep rTMS study. Behav. Brain Res. 228, 87–90. https://
+doi.org/10.1016/j.bbr.2011.11.037.
+
+Kubo, R., 1966. The fluctuation-dissipation theorem. Rep. Prog. Phys. 29, 255–284.
+Lackner, C.L., Bowman, L.C., Sabbagh, M.A., 2010. Dopaminergic functioning and pre-
+schoolers’ theory of mind. Neuropsychologia 48 (6), 1767–1774.
+Lackner, C., Sabbagh, M.A., Hallinan, E., Liu, X., Holden, J.J., 2012. Dopamine receptor
+D4 gene variation predicts preschoolers’ developing theory of mind. Dev. Sci. 15 (2),
+272–280.
+Lane, J.D., Wellman, H.M., Olson, S.L., LaBounty, J., Kerr, D.C., 2010. Theory of mind and
+emotion understanding predict moral development in early childhood. Br. J. Dev.
+Psychol. 28 (4), 871–889.
+Legerstee, M., Anderson, D., Schaffer, A., 1998. Five‐and eight‐month‐Old infants re-
+cognize their faces and voices as familiar and social stimuli. Child Dev. 69 (1), 37–50.
+Leslie, A.M., Friedman, O., German, T.P., 2004. Core mechanisms in ‘theory of mind’.
+Trends Cogn. Sci. (Regul. Ed.) 8, 528–533.
+Liu, D., Meltzoff, A.N., Wellman, H.M., 2009. Neural correlates of belief- and desire-
+reasoning. Child Dev. 80, 1163–1171.
+Marshall, P.J., Bar-Haim, Y., Fox, N.A., 2002. Development of the EEG from 5 months to 4
+years of age. Clin. Neurophysiol. 113, 1199–1208.
+Milligan, K., Astington, J.W., Dack, L.A., 2007. Language and theory of mind: meta-
+analysis of the relation between language ability and false-belief understanding.
+Child Dev. 78, 622–646. https://doi.org/10.1111/j.1467-8624.2007.01018.x.
+Moll, H., Tomasello, M., 2007. Cooperation and human cognition: the Vygotskian in-
+telligence hypothesis. Philos. Trans. R. Soc. Lond., B, Biol. Sci. 362 (1480), 639–648.
+Papo, D., 2013. Why should cognitive neuroscientists study the brain’s resting state?
+Front. Hum. Neurosci. 7, 1–4.
+Pascual-Marqui, R.D., 2002. Standardized low-resolution brain electromagnetic tomo-
+graphy (sLORETA): technical details. Methods Find. Exp. Clin. Pharmacol. 24, 5–12.
+Peterson, C.C., Wellman, H.M., Slaughter, V., 2012. The mind behind the message: ad-
+vancing theory of mind scales for typically developing children, and those with
+deafness, autism, or Asperger Syndrome. Child Dev. 83, 469–485. https://doi.org/10.
+1111/j.1467-8624.2011.01728.x.
+Poldrack, R., 2007. Region of interest analysis for fMRI. SCAN 2, 67–70. https://doi.org/
+10.1093/scan/nsm006.
+Richardson, H., Lisandrelli, G., Riobueno-Naylor, A., Saxe, R., 2018. Development of the
+social brain from age three to twelve years. Nat. Commun. 9 (1), 1027.
+Righi, G., Nelson III, C.A., 2013. The neural architecture and developmental course of
+face processing. In: Rubenstein, J., Rakic, P. (Eds.), Comprehensive Developmental
+Neuroscience: Neural Circuit Development and Function in the Healthy and Diseased
+Brain. Elsevier, Oxford.
+Rochat, P., Striano, T., 2002. Who’s in the mirror? Self–Other discrimination in specular
+images by four‐and nine‐month‐Old infants. Child Dev. 73 (1), 35–46.
+Sabbagh, M.A., Bowman, L.C., Evraire, L.E., Ito, J.M.B., 2009. Neurodevelopmental
+correlates of theory of mind in preschool children. Child Dev. 80, 1147–1162.
+Saxe, R.R., Whitfield‐Gabrieli, S., Scholz, J., Pelphrey, K.A., 2009. Brain regions for
+perceiving and reasoning about other people in school‐aged children. Child Dev. 80
+(4), 1197–1209.
+Saxe, R., Kanwisher, N., 2003. People thinking about thinking people. The role of the
+temporo-parietal junction in “theory of mind.”. NeuroImage 19, 1835–1842.
+Scholl, B.J., Leslie, A.M., 1999. Modularity, development and ‘theory of mind’. Mind
+Lang. 14, 131–153.
+Schurz, M., Radua, J., Aichhorn, M., Richlan, F., Perner, J., 2014. Fractionating theory of
+mind: a meta-analysis of functional brain imaging studies. Neurosci. Biobehav. Rev.
+42, 9–34. https://doi.org/10.1016/j.neubiorev.2014.01.009.
+Schuwerk, T., Schecklmann, M., Langguth, B., Dohnel, K., Sodian, Beate, Sommer, M.,
+2014. Brain structure and function inhibiting the posterior medial prefrontal cortex
+by rTMS decreases the discrepancy between self and other in theory of mind rea-
+soning. Behav. Brain Res. 274, 312–318. https://doi.org/10.1016/j.bbr.2014.08.031.
+Sebastian, C., Fontaine, N., Bird, G., Blakemore, S., De Brito, S., McCrory, E., Viding, E.,
+2011. Neural processing associated with cognitive and affective theory of mind in
+adolescents and adults. Soc. Cogn. Affect. Neurosci. 2011, 1–11. https://doi.org/10.
+1093/scan/nsr023.
+Modulation of the cortical false belief network during development. Brain Res. 1354,
+123–131.
+
+Sommer, M., Meinhardt, J., Eichenmüller, K., Sodian, B., Döhnel, K., Hajak, G., 2010.
+
+9
+
+L.C. Bowman, et al.
+
+Thatcher, R.W., 1994. Cyclic cortical reorganization: origins of human cognitive devel-
+opment. In: Dawson, G., Fischer, K.W. (Eds.), Human Behavior and the Developing
+Brain. Guil- ford, New York, pp. 232–266.
+Thatcher, R.W., Walker, R.A., Guidice, S., 1987. Human cerebral hemispheres develop at
+different rates and age. Science 236, 1110–1113.
+Tomasello, M., Carpenter, M., Call, J., Behne, T., Moll, H., 2005. Understanding and
+sharing intentions: the origins of cultural cognition. Behav. Brain Sci. 28, 675–735.
+Wellman, H.M., 2014. Making Minds: How Theory of Mind Develops. Oxford University
+Press.
+Wellman, H.M., Liu, D., 2004. Scaling of theory-of-mind tasks. Child Dev. 75, 523–541.
+Wellman, H.M., Cross, D., Watson, J., 2001. Meta-analysis of theory of mind develop-
+Wellman, H.M., Lopez-Duran, S., LaBounty, J., Hamilton, B., 2008. Infant attention to
+
+ment: the truth about false belief. Child Dev. 72, 655–684.
+
+Developmental Cognitive Neuroscience 40 (2019) 100705
+
+intentional action predicts preschool theory of mind. Dev. Psychol. 44 (2), 618.
+Wimmer, H., Perner, J., 1983. Beliefs about beliefs: representation and constraining
+function of wrong beliefs in young children’s understanding of deception. Cognition
+13, 103–128.
+cognition from infancy to childhood. Dev. Sci. 12 (5), 746–752.
+expressions. Child Dev. 555–562.
+executive function in children. Nat. Protoc. 1, 297–301.
+belief. Cogn. Dev. 19 (4), 457–477.
+
+Yamaguchi, M., Kuhlmeier, V.A., Wynn, K., VanMarle, K., 2009. Continuity in social
+Young-Browne, G., Rosenfeld, H.M., Horowitz, F.D., 1977. Infant discrimination of facial
+Zelazo, P.D., 2006. The dimensional change card sort (DCCS): a method of assessing
+Ziv, M., Frye, D., 2004. Children’s understanding of teaching: the role of knowledge and
+
+10
+
+

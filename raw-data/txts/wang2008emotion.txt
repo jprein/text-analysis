@@ -1,0 +1,1249 @@
+Available online at www.sciencedirect.com
+
+Cognition 108 (2008) 117–135
+
+www.elsevier.com/locate/COGNIT
+
+Emotion knowledge and autobiographical
+
+memory across the preschool years:
+
+A cross-cultural longitudinal investigation q
+
+Qi Wang *
+
+Department of Human Development, Cornell University, MVR Hall, Ithaca, NY 14853-4401, USA
+
+Received 1 September 2006; revised 28 October 2007; accepted 5 February 2008
+
+Abstract
+
+Knowledge of emotion situations facilitates the interpretation, processing, and organiza-
+tion of signiﬁcant personal event information and thus may be an important contributor to
+the development of autobiographical memory. This longitudinal study tested the hypothesis
+in a cross-cultural context. The participants were native Chinese children, Chinese children
+from ﬁrst-generation Chinese immigrant families in the U.S., and European American chil-
+dren. Children’s developing emotion knowledge and autobiographical memory were assessed
+three times at home, when children were 3, 3.5, and 4.5 years of age. Children’s emotion
+knowledge uniquely predicted their autobiographical memory ability across groups and time
+points. Emotion knowledge further mediated culture eﬀects on autobiographical memory. The
+ﬁndings provide important insight into early autobiographical memory development, and
+extend current theoretical understandings of the emotion–memory interplay. They further
+have implications for the phenomenon of infantile amnesia and cross-cultural diﬀerences in
+childhood recollections.
+Ó 2008 Elsevier B.V. All rights reserved.
+
+q This research was supported by NIMH Grant R01-MH64661 to the author. I thank members of the
+Social Cognition Development Lab at Cornell University for their contributions to the project. I also
+thank Francßoise Vermeylen for statistical consultation. Special thanks go to the children and families who
+made this study possible.
+
+* Tel.: +1 607 255 9376; fax: +1 607 255 9856.
+
+E-mail address: qw23@cornell.edu.
+
+0010-0277/$ - see front matter Ó 2008 Elsevier B.V. All rights reserved.
+doi:10.1016/j.cognition.2008.02.002
+
+118
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+Keywords: Emotion knowledge; Autobiographical memory; Memory development; Culture
+
+1. Introduction
+
+Autobiographical memory (AM) encompasses memory for personally signiﬁcant,
+speciﬁc event episodes from an individual’s life (Nelson & Fivush, 2004). It is critical
+for self-identity and psychological well-being. One important characteristic of auto-
+biographical memory is that it is often accompanied by heightened emotional reac-
+tions (McGaugh, 2003; Pillemer, 1998; Stein & Liwag, 1997). Emotion is generally
+held to be important or even essential to autobiographical remembering, and
+researchers have identiﬁed a host of mechanisms underlying the emotional eﬀects
+(Christianson & Safer, 1996; McGaugh, 2003; Reisberg & Hertel, 2004). However,
+little theoretical or empirical attention has been paid to the mnemonic function of
+emotion knowledge (EK, or emotion situation knowledge), that is, the schematic
+knowledge of situational antecedents of emotions (Denham, Zoller, & Couchoud,
+1994; Stein & Liwag, 1997). Literature of three diﬀerent research areas, on the other
+hand, has suggested a plausible link of such knowledge to autobiographical remem-
+bering, which calls for further investigation.
+
+1.1. Cognitive perspectives
+
+From an information-processing point of view, EK provides a knowledge struc-
+ture or mental schema based on which cognitive processes of appraisal, interpreta-
+tion, or meaning analysis of an event situation can be carried out (Frijda, 1986;
+Stein & Liwag, 1997). Such cognitive processes are deeply involved in the anticipa-
+tion and actual experience of emotions within the situation, no matter whether they
+initiate or simply mediate the emotional experience (Lazarus, 1982; Schachter &
+Singer, 1962). As Frijda (1986) claims, ‘‘Emotional experience, ﬁrst of all, is experi-
+ence of the situation” (p. 193). The resulting emotional activation, in turn, may trig-
+ger special encoding and consolidation mechanisms that facilitate memory formation
+(Christianson & Safer, 1996; McGaugh, 1995; McGaugh, 2003).
+
+Furthermore, cognitive appraisal of the event situation enabled by EK may allow
+the individual to fully appreciate the emotional meaning and, thus, personal signiﬁ-
+cance, of the event, making the event more memorable (Conway & Pleydell-Pearce,
+2000; Pillemer, Picariello, & Pruett, 1994). And just like other schemas or scripts (Neis-
+ser, 1981; Schank, 1982), EK may provide an organizational structure to process and
+represent signiﬁcant personal event information with co-assembled aﬀect scenes,
+allowing the information to be well integrated into the autobiographical knowledge
+base and be eﬀectively stored and retrieved (Conway & Bekerian, 1987; Tomkins,
+1979). As a result, an autobiographical memory with event-speciﬁc details may be
+formed. The memory may further integrate emotional-evaluative information (e.g.,
+‘‘I was so happy!”) indicative of cognitive and emotional processing enabled by EK.
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+119
+
+1.2. Developmental connections
+
+The development of EK and AM appears to coincide chronologically in ontoge-
+netic development, such that the age trend in children’s acquisition of EK parallels
+the age trend in children’s development of AM. Speciﬁcally, from as young as age 2,
+children can often associate appropriate eliciting situations with simple emotions,
+and they show awareness of the causes of emotions experienced by themselves and
+others (Bretherton & Beeghly, 1982; Harris, 1989; Lewis & Michalson, 1983). Cor-
+respondingly, toddlers often exhibit an impressive ability to retain personal event
+information over extended periods of time, especially with adults’ assistance (Harley
+& Reese, 1999; Nelson & Fivush, 2004). However, EK at the early stage is still lim-
+ited and general and children tend to distinguish emotion situations broadly as being
+positive or negative (Brody & Harrison, 1987; Hesse & Cicchetti, 1982). Similarly,
+when remembering past events, young children often focus on what adults would
+consider to be generic or routine information. For example, when asked about a
+recent camping trip, a 2.5-year-old child reported, ‘‘And then we waked up and
+eat dinner. First we eat dinner, then go to bed, and then wake up and eat breakfast”
+(Fivush & Hamond, 1990, p. 231). This focus on general event information in young
+children’s AM may stem from their insuﬃcient EK to help them fully appreciate the
+unique and ultimately memorable aspects of novel events. As a result, they tend to
+understand and organize event information following familiar scripts.
+
+Over the preschool years, children show increasing abilities to understand and dif-
+ferentiate a wide range of situations eliciting a variety of emotions (Bennett, Bend-
+ersky, & Lewis, 2005; Harris, 1989; Stein & Liwag, 1997). They also show
+increasing abilities to retain and recall distinctive aspects of past events (Fivush,
+Haden, & Adam, 1995; Pillemer & White, 1989), and their memories include not
+only event-speciﬁc details but also emotional-evaluative information such as mental
+states and aﬀect – commonly referred to as internal states language (Fivush & Baker-
+Ward, 2005; Haden, Haine, & Fivush, 1997). Particularly important from the current
+perspective, the integration of internal states language into memories may be indic-
+ative of cognitive appraisal, self-involvement, and aﬀective organization of the event
+information enabled by EK. It is possible that the further development of EK helps
+children understand the personal signiﬁcance of speciﬁc events, experience appropri-
+ate emotions during the events, and organize the event information in a structured
+fashion, thereby facilitating the retention of and access to the event memories over
+the long term. Evidence from a recent study showed that EK in 3-year-olds had a
+concurrent association with the children’s ability to recall speciﬁc event information
+(Wang, Hutt, Kulkofsky, McDermott, & Wei, 2006).
+
+Notably, the relationship between EK and AM may well be reciprocal, particu-
+larly at the early stage of development. EK may be built upon or abstracted from
+a variety of unique and speciﬁc personal experiences, and its development may in
+turn facilitate children’s understanding, evaluation, and remembering of autobio-
+graphical events. Later on, EK, as a schematic knowledge structure, may become
+increasingly stabilized and context-free, and may thus be no longer susceptible to
+or malleable by the inﬂuence of discrete experiences. Rather, it may continue to pro-
+
+120
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+vide the cognitive bases upon which signiﬁcant personal event information can be
+interpreted, processed, organized, and retained.
+
+1.3. Cross-cultural variations
+
+Cross-cultural research further suggests a connection between EK and AM at the
+group level. When asked to recount recent autobiographical events (e.g., one thing
+the child did recently that was special and fun), Euro-American preschoolers often
+recall more speciﬁc episodes (e.g., ‘‘getting a new toy”) than Chinese children, who tend
+to report more general routine events (e.g., ‘‘playing with toys every day”) (Han,
+Leichtman, & Wang, 1998; Wang, 2004; Wang, 2006a). The tendency to provide gen-
+eral responses to a speciﬁc memory probe is thought to suggest a lack of accessibility to
+episodic event information (Pillemer, 1998; Singer & Salovey, 1993; Wang, 2001a).
+Furthermore, Euro-American children more frequently use internal states language
+to refer to their feelings, thoughts, and subjective evaluations in their memory accounts
+than do Chinese children (Han et al., 1998; Wang, 2004). The early diﬀerences in the
+speciﬁcity and emotional-evaluative content of AM appear to increase with age and
+persist into adulthood. Compared with native Chinese and Asian Americans, Euro-
+American adults more frequently recall speciﬁc episodes and provide more event-spe-
+ciﬁc details and emotional-evaluative information in their memory reports (Wang,
+2001a; Wang, 2006b; Wang & Conway, 2004; Wang & Ross, 2005).
+
+If the cultural diﬀerences in memory speciﬁcity and internal states language are
+related to EK, then Euro-American children should be expected to have better grasp
+of EK than Chinese children. Indeed, when asked to judge the emotional nature of
+story situations or to describe situations likely to provoke various emotions, Euro-
+American preschoolers score higher than their Chinese peers regardless of age,
+and they make more rapid progress in EK over time (Wang, 2003; Wang et al.,
+2006). Conceivably, the greater EK in Euro-American children may help them better
+appreciate the emotional meaning of past events and better remember speciﬁc details
+of the events.
+
+The cultural variation in children’s EK may result from diﬀerent emotion social-
+ization practices in Euro-American and Chinese families. In line with the cultural
+emphasis on autonomy and the view of emotions as an indication of individuality,
+middle-class Euro-American parents are often eager to raise an ‘‘emotionally intelli-
+gent” child (Chao, 1995; Gottman, 1998). They frequently discuss emotions with
+children, explain the antecedents of children’s feeling states, and encourage children
+to articulate their own feelings (Wang, 2001b; Wang & Fivush, 2005). Such practices
+directly contribute to children’s developing EK (Burch, Austin, & Bauer, 2004; Den-
+ham & Kochanoﬀ, 2002). In contrast, in Chinese culture where emotions are tradi-
+tionally viewed as potentially destructive to interpersonal harmony, parents are not
+preoccupied with helping children understand emotions but instead emphasizing
+psychological discipline and behavioral standards (Chao, 1995; Chen, 2000). Family
+conversations about emotions often focus on ‘‘teaching the child a lesson” and help-
+ing the child develop proper conduct through acceptance of social norms, with little
+causal discussion of the child’s feeling states (Wang, 2001b; Wang & Fivush, 2005).
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+121
+
+These diﬀerent beliefs and practices may contribute to diﬀerent levels of emotional
+understanding in children, which may, in turn, inﬂuence children’s developing AM.
+
+1.4. The present research
+
+The relation of EK to AM, once established, will have rich theoretical and empir-
+ical implications. This longitudinal study is the ﬁrst to examine the developmental
+connection between EK and AM. Situating the study in a cross-cultural context fur-
+ther makes it possible to test whether the contribution of EK to AM can be general-
+ized across cultures. Native Chinese children, Chinese immigrant children in the
+U.S., and Euro-American children were interviewed at ages 3, 3.5, and 4.5. The
+shorter interval between the ﬁrst two interviews was intended to capture the rapid
+changes in both AM and EK during this age period (Nelson & Fivush, 2004; Stein
+& Liwag, 1997), and in light of the ﬁndings that adults’ earliest childhood recollec-
+tions become available from around 3 to 3.5 years of age (Mullen, 1994; Pillemer &
+White, 1989). At the cultural level, Euro-American children were expected to exhibit
+greater EK than their Chinese peers, consistent with the divergent family socializa-
+tion practices evident early in the children’s lives (Chao, 1995; Chen, 2000; Wang,
+2001b). And this, in turn, would contribute to greater abilities in Euro-American
+children to remember event-speciﬁc details and to incorporate emotional-evaluative
+information into their memories.
+
+Unlike most cross-cultural research that focuses on comparisons between diﬀerent
+cultural groups, this study included two Chinese samples. Chinese children in China
+and the U.S. were expected to show diﬀerential developmental changes as they come
+to be in greater contact with the world outside home and subjected to increasing
+inﬂuences from multiple cultural sources such as media, peers, and socialization
+agents other than parents. Speciﬁcally, Chinese children in the U.S., especially those
+from the ﬁrst-generation immigrant families, are often socialized with traditional
+Chinese values and practices at home, such as mutual dependence, emotional
+restraint, and social conformity (Chao & Tseng, 2002). As they grow older and
+are more exposed to cultural inﬂuences outside home, they may become increasingly
+acculturated to mainstream American values such as autonomy, self-expression, and
+personal eﬃcacy, and subjected to practices that facilitate their emotional under-
+standing and personal remembering (Lee & Zane, 1998; Tobin, Wu, & Davidson,
+1989). In comparison, the cultural transition for native Chinese children, especially
+those in big cities like Beijing, may entail an opposite process. In the past two dec-
+ades Chinese families have undergone major changes in family structures and prac-
+tices due to drastic modernization, Western inﬂuences, and the one-child policy
+(Chen, Cen, Li, & He, 2005; Wang, Leichtman, & White, 1998). These changes
+are particularly reﬂected in the so-called ‘‘4-2-1 syndrome,” whereby six doting
+adults (four grandparents and two parents) pour their attention onto one child.
+Oftentimes, to satisfy the desires and wishes of the ‘‘little emperor” or ‘‘little
+empress” takes precedence over behavioral discipline, and parents seem more open
+than before with respect to discussing feelings with their children (Wang & Fivush,
+2005). Outside the family, however, the larger cultural context continues to reinforce
+
+122
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+collective values and children are expected to control their emotions and impulses for
+maintaining social harmony (Chen, 2000; Fuligni & Zhang, 2004; Tobin et al., 1989).
+It is possible then that at the earlier time points the native Chinese group would exhi-
+bit a more Western pattern of child outcomes than would the Chinese immigrant
+group, and this might be reversed by the end of the preschool years.
+
+At the individual level, children’s EK was expected to uniquely predict their abil-
+ities to remember event-speciﬁc details and to integrate emotional-evaluative infor-
+mation into their memories, regardless of culture. EK was further expected to
+mediate cultural inﬂuences on children’s developing AM speciﬁcity. Notably, past
+research has shown that language skills predict better emotional understanding in
+children (Cutting & Dunn, 1999; Pons, Lawson, Harris, & deRosnay, 2003). Con-
+ceivably, being an instrument of both cognitive representation and social communi-
+cation, language may enable children to understand and use emotion terms and to
+learn EK through participation in discussions of feeling states with others (Denham
+& Kochanoﬀ, 2002; Denham et al., 1994; Dunn, Bretherton, & Munn, 1987). Simi-
+larly, research has suggested a positive impact of language on children’s memory per-
+formance (Nelson & Fivush, 2004; Simcock & Hayne, 2003). A language measure
+was thus included at each time point.
+
+2. Method
+
+2.1. Participants
+
+Data collection took place at three time points. At Time 1, 189 children participated
+(mean age = 34.93 months, SD = 3.17), including 58 Chinese children (25 girls) from
+Beijing, China, and 60 ﬁrst-generation Chinese immigrant children (30 girls) and 71
+Euro-American children (34 girls) from upstate New York. Children were recruited
+through local nursery schools and by word of mouth, and were taking part in a larger
+longitudinal study of early memory development. All children came from middle-class
+families and the majority of mothers and fathers had college education or beyond. All
+Chinese children and approximately 30% Euro-American and 45% Chinese immigrant
+children were from only-child families. At Time 2, 170 children remained in the sample
+(mean age = 41.63 months, SD = 3.18), including 48 Chinese (21 girls), 57 Chinese
+immigrant (28 girls), and 65 Euro-American children (33 girls). At Time 3, the sample
+consisted of 153 children (mean age = 53.92 months, SD = 3.42), including 47 Chinese
+(21 girls), 43 Chinese immigrant (21 girls), and 63 Euro-American children (31 girls).
+The majority of the children who failed to complete all three time points were unavail-
+able due to family move. There was no signiﬁcant diﬀerence in any measure between
+children who continued to participate and those who did not.
+
+2.2. Procedure
+
+Three home visits were arranged for each participating family by two native
+female researchers. English–Chinese bilingual researchers visited the Chinese immi-
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+123
+
+grant families and interviewed children in the language children preferred. All mate-
+rials were written in both English and Chinese and translation and back-translation
+procedure was carried out to ensure their equivalence in both literal and sense mean-
+ing (Chapman & Carter, 1979). The AM and EK tasks took approximately 20 min
+and were videotaped.
+
+2.3. Measures
+
+2.3.1. Autobiographical memory
+
+During each visit, one of the researchers (interviewer) asked the mother to nom-
+inate two speciﬁc, one-moment-in time events that happened to the child within the
+past 2 months. After engaging the child in warm-up conversation, she told the child,
+‘‘Your Mom just told me that. . .(e.g., you went to the amusement park last week).
+I’ve never been there before. Tell me what you did. I really want to know.” Standard
+prompts were used such as ‘‘What else happened?” and ‘‘Can you tell me more about
+it?” This procedure is standard in studies of children’s independent AM (Haden
+et al., 1997; Harley & Reese., 1999; Wang, 2004).
+
+Coding was performed in the original languages. Noldus The ObserverÒ 5.0 pro-
+gram was used, a digital coding system designed to score video materials online and
+enter the codes directly into a computer (Noldus, 2003). Proposition, a subject–verb
+construction, was used as the coding unit (e.g., ‘‘I swung;” Fivush et al., 1995).
+Reponses to the two memory events were coded separately and the mean frequencies
+per event were then calculated for analysis. (1) Memory speciﬁcity: Children’s utter-
+ances concerning distinct aspects of the past event in question were classiﬁed as spe-
+ciﬁc responses (e.g., ‘‘We went apple-picking”) (Harley & Reese., 1999). Utterances,
+although relevant to the topic, not directly about what happened in the past event
+but of generic information, were coded as general responses (e.g., ‘‘Xiangshan is a
+park. There are a lot of trees”) (Wang et al., 2006). Speciﬁc and general responses
+were mutually exclusive and exhaustive. Placeholders (e.g., ‘‘I don’t know”) and
+oﬀ-topic talk (e.g., talking about the camera) were infrequent and not coded. Follow-
+ing previous research (Wang & Ross, 2005), the diﬀerence between speciﬁc and gen-
+eral responses was taken to form a composite measure of memory speciﬁcity. (2)
+Internal states language: Children’s utterances referring to their emotions, thoughts,
+desires, and subjective evaluations were counted (e.g., ‘‘I was a little bit angry,” and
+‘‘I wanted a balloon”) (Haden et al., 1997; Han et al., 1998). Two coders indepen-
+dently coded 20% of each dataset for reliability. The average kappas were .87
+(.67–1) for Chinese children, .85 (.65–1) for Chinese immigrant children, and .86
+(.69–1) for Euro-American children. Thus, all average kappas were within the sub-
+stantial to excellent range (Fleiss, 1981).
+
+2.3.2. Emotion knowledge
+
+Following the memory task, the interviewer assessed children’s EK in a task that
+has been used with children in diﬀerent cultures (Harris, Olthof, Terwogt, & Hard-
+man, 1987; Wang et al., 2006). Children were asked to describe situations likely to
+provoke happy, sad, fearful, or angry emotions. The interviewer presented the child
+
+124
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+with the emotion terms one at a time and asked the child for descriptions of situa-
+tions that may make people as well as the child him- or herself experience the emo-
+tion in question (e.g., ‘‘What makes people feel sad?” and ‘‘What makes you feel
+sad?”). For each question, she prompted the child to respond with as many situa-
+tions as possible (e.g., ‘‘What else makes people (you) sad?”).
+
+The number of emotion-eliciting situations children provided for each emotion
+was counted (e.g., I: ‘‘What makes people feel happy?” C: ‘‘Saying something that
+makes them smile” and I: ‘‘What makes you feel mad?” C: ‘‘Not giving me what I
+want”). Responses pertaining to the four emotions showed consistent patterns of
+variations across groups and time points. An aggregated score across the four emo-
+tions was thus used as each child’s ﬁnal EK score at each time point. Two coders
+independently coded 20% of each dataset for reliability. The average kappas were
+.90 (.76–1) for Chinese children, .87 (.71–1) for Chinese immigrant children, and
+.87 (.66–1) for Euro-American children.
+
+2.3.3. Language
+
+During the child interview, mothers ﬁlled out the language scales of the Child
+Development Inventory (CDI; Ireton, 1992) that assessed children’s language pro-
+duction and comprehension (possible score range 0–100; Cronbach’s a = .93, .91,
+and .86 at ages 3, 3.5, and 4.5, respectively). Mothers answered ‘‘Yes” or ‘‘No” to
+statements that describe the child’s language ability (e.g., ‘‘Gives reasons for things,
+using the word ‘because. . .’” and ‘‘Understands what ‘before’ and ‘after’ mean; uses
+these words correctly”). The CDI is an updated version of the Minnesota Child
+Development Inventory (MCDI; Ireton & Thwing, 1974) and has been used in pre-
+vious research on preschoolers’ EK and AM (Denham et al., 1994; Wang, 2006a).
+
+3. Results
+
+Analyses were directed at examining the developmental connection of EK to AM
+
+at group and individual levels.
+
+3.1. Preliminary analyses
+
+Across the three time points, only a small percentage of children scored 0 for spe-
+ciﬁc responses (10%, 2.5%, and 0.5%) or EK (10%, 2.5%, and 2.5%). The two vari-
+ables and the composite memory speciﬁcity score (i.e., speciﬁc-general responses)
+were analyzed as continuous variables. All the continuous variables were positively
+skewed, with a small number of children scoring higher than most. Logarithmic
+transformations were thus performed on the variables before they were submitted
+to analysis. To facilitate comparisons with previous research, untransformed means
+are reported. A great percentage of children at each time point did not provide any
+general responses or internal states language. The two variables were thus dummy
+coded, respectively, with children who provided at least one response scored as 1
+and those who made no relevant response scored as 0. The dummy variables were
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+125
+
+then used in analysis, although both means and percentages of the two memory
+codes are reported.
+
+In the following analyses, continuous variables were analyzed with mixed models
+using SAS PROC MIXED program (Singer, 1998), and categorical (dummy) vari-
+ables were analyzed with generalized estimating equations using the SAS GEE
+macro (Norton, Bieler, Ennett, & Zarkin, 1996). Signiﬁcant (p < .05) multivariate
+eﬀects were followed up with univariate or post-hoc Tukey–Kramer honestly signif-
+icant diﬀerence [HSD] tests, as appropriate, at the p < .05 level. Some children did
+not complete every task, thus the degrees of freedom varied slightly across tests.
+Gender and age of child at each time point showed no signiﬁcant eﬀects in prelimin-
+ary analyses; and consistent with prior research (Wang, 2004; Wang et al., 2006),
+there were no birth order eﬀects within the Euro-American and Chinese immigrant
+samples. These factors were therefore not considered further. Language scores
+(Ms = 76.56, 86.36, 94.25, SDs = 15.01, 11.82, 6.73) were signiﬁcantly correlated
+with EK scores at each time point (age 3: r = .27, p = .0002; age 3.5: r = .29,
+p = .0001; age 4.5: r = .22, p = .007), with memory speciﬁcity scores at the ﬁrst
+two time points (age 3: r = .15, p = .04; age 3.5: r = .20, p = .009), and with internal
+states language at Time 2 (r = .17, p = .03). Language was thus included as a covar-
+iate in all analyses.
+
+3.2. Emotion knowledge across groups and time points
+
+A 3 (culture)  3 (time point) mixed model analysis was conducted on EK, with
+culture being a between-subject factor, time point being a within-subject factor, and
+subject being a random factor. Language was included as a covariate. Signiﬁcant
+main eﬀects of culture, F(2, 186) = 19.69, p < .0001, DR2 = .22, and time point
+emerged, F(2, 313) = 33.87, p < .0001, DR2 = .09, qualiﬁed by a culture  time point
+interaction, F(4, 313) = 8.15, p < .0001, DR2 = .08. Language was a signiﬁcant covar-
+iate, F(1, 313) = 9.66, p = .002, DR2 = .10. Post-hoc tests indicated that Euro-Amer-
+ican children had signiﬁcantly higher EK scores than both Chinese groups at ages 3,
+had higher scores than Chinese immigrant children at age 3.5 and than native Chi-
+nese children at age 4.5. The two Chinese groups did not diﬀer signiﬁcantly from
+each other at any time point. Furthermore, while Euro-American and Chinese immi-
+grant children showed increases in EK over time, particular from ages 3.5 to 4.5,
+native Chinese children showed an increase from ages 3 to 3.5 and then no signiﬁcant
+change between the later two time points. Fig. 1 illustrates the untransformed mean
+EK scores as a function of culture and time point.
+
+3.3. Predicting autobiographical memory
+
+3.3.1. AM speciﬁcity
+
+The analysis of the composite memory speciﬁcity score aimed at testing the
+hypotheses that EK would not only uniquely predict children’s ability to remember
+speciﬁc event information, but also serve as a potent mediator for the eﬀects of cul-
+ture on memory speciﬁcity. A 3 (culture)  3 (time point) mixed model analysis was
+
+126
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+Euro-American
+Chinese
+Chinese Immigrant 
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+s
+e
+r
+o
+c
+s
+ 
+e
+g
+d
+e
+w
+o
+n
+k
+ 
+n
+o
+
+l
+
+i
+t
+
+o
+m
+e
+
+ 
+
+n
+a
+e
+M
+
+Age 3
+
+Age 3.5
+
+Age 4.5
+
+Fig. 1. Untransformed mean EK scores as a function of culture and time point.
+
+ﬁrst conducted on memory speciﬁcity score, with language being a covariate. The
+model yielded signiﬁcant main eﬀects of culture, F(2, 184) = 7.90, p = .0005,
+DR2 = 22,
+time point, F(2, 292) = 8.44, p = .0003, DR2 = .02, and language,
+F(1, 292) = 4.73, p = .03, DR2 = .01. Post-hoc tests indicated that Euro-American
+children scored higher on memory speciﬁcity than did Chinese immigrant children
+at ages 3 and 3.5, and they scored higher than did native Chinese children at age
+4.5. Native Chinese children had higher speciﬁcity scores than Chinese immigrant
+children at age 3.5. Furthermore, Euro-American and Chinese immigrant children
+showed increases in memory speciﬁcity overtime, with the increase between ages 3
+and 3.5 being signiﬁcant for both groups. Native Chinese children showed an
+increase from ages 3 to 3.5 and then a decrease by age 4.5, although the diﬀerence
+between the later two time points was not signiﬁcant. Children with greater language
+skills had higher memory speciﬁcity scores.
+Note that it was established in the previous section that culture, time point, and
+language also had signiﬁcant eﬀects on EK. Next, a 3 (culture)  3 (time
+point)  EK mixed model analysis was conducted on memory speciﬁcity score, with
+language being a covariate. This model yielded only a main eﬀect of EK,
+F(1, 285) = 49.94, p < .0001, DR2 = .40, whereby children with greater EK had
+higher speciﬁcity scores regardless of culture, time point, and language skills. No
+eﬀects pertaining to culture, time point, or language neared signiﬁcance (Fs < .73,
+ps > .48), suggesting that the eﬀects of the independent variables (culture, time point,
+language) on memory speciﬁcity were attenuated by the mediation path (EK). Thus,
+all conditions for mediation were met (Baron & Kenny, 1986). Consistent with the
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+127
+
+hypotheses, EK not only uniquely predicted memory speciﬁcity but also mediated
+the eﬀects of other factors, including culture, to occur.
+To further understand the nature of children’s AM over time and across groups, a
+3 (culture)  3 (time point)  EK analysis was performed on speciﬁc and general
+responses, respectively. Language was included as a covariate. The mixed model
+analysis of speciﬁc responses yielded a main eﬀect of EK, F(1, 298) = 55.25,
+p < .0001, DR2 = .47. There was no signiﬁcant interaction between EK and culture
+or time point. Thus, EK uniquely predicted speciﬁc responses across cultures and
+time points. Language was not a signiﬁcant covariate. A marginally signiﬁcant eﬀect
+of time point also emerged, F(2, 298) = 2.42, p = .09, DR2 = .04, qualiﬁed by a cul-
+ture  time point interaction, F(4, 298) = 2.76, p = .03, DR2 = .09. Post-hoc tests
+indicated that Euro-American children provided more speciﬁc responses than Chi-
+nese immigrant children at ages 3 and 3.5, and than native Chinese children at age
+4.5. Native Chinese children provided more speciﬁc responses than Chinese immi-
+grant children at age 3.5, and the direction of the diﬀerence was reversed at age
+4.5. Furthermore, Euro-American children showed a fast increase in their number
+of speciﬁc responses from ages 3 to 3.5 and then remained at a high response level
+to age 4.5. Chinese immigrant children showed a signiﬁcant increase at each time
+point. Native Chinese children showed an increase from ages 3 to 3.5 and then a
+decrease by age 4.5, although the diﬀerence between the later two points was not
+signiﬁcant.
+The generalized estimating equation analysis of general responses based on the
+dummy code showed a signiﬁcant culture  time point interaction, v2(4) = 23.59,
+p < .0001. While Euro-American children did not show changes over time in the like-
+lihood of providing general responses (38%, 38%, 47%), v2(2) = .66, n.s., both Chi-
+nese (21%, 26%, 64%) and Chinese immigrant children (5%, 4%, 64%) showed a
+signiﬁcant increase from ages 3.5 to 4.5, v2(1, N = 91) = 16.46, p < .0001, r = .43,
+and v2(1, N = 99) = 20.95, p < .0001, r = .46, respectively. EK had no signiﬁcant
+eﬀects on general responses. Language was not a signiﬁcant covariate. Fig. 2 illus-
+trates the untransformed means of AM speciﬁcity, speciﬁc responses, and general
+responses as a function of culture and time point.
+
+3.3.2. Internal states language
+
+A 3 (culture)  3 (time point)  EK generalized estimating equation analysis of
+internal states language revealed a signiﬁcant main eﬀect of EK, v2(1) = 15.19,
+p < .0001. As expected, children with greater EK were more likely to use internal
+states language in their memories regardless of culture and time point. Furthermore,
+a marginally signiﬁcant culture  time point interaction emerged, v2(4) = 8.93,
+p = .06. Euro-American children (45%, 46%, 53%) were more likely than native Chi-
+nese children (28%, 30%, 23%) to refer to internal states in their memories at all time
+points, age 3 v2(1, N = 128) = 3.95, p = .05, r = .18, age 3.5 v2(1, N = 112) = 3.11,
+p = .08, r = .17, and age 4.5 v2(1, N = 102) = 10.17, p = .001, r = .32, respectively.
+Euro-American children were also more likely than Chinese immigrant children
+(23%, 14%, 49%) to integrate internal states language into their memories at age
+3, v2(1, N = 131) = 6.89, p = .009, r = .23, and age 3.5, v2(1, N = 122) = 15.39,
+
+128
+
+10
+
+s
+e
+s
+n
+o
+p
+s
+e
+r
+ 
+n
+a
+e
+M
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+Euro-American
+Chinese
+Chinese Immigrant
+
+Age 3
+
+Age 3.5 Age 4.5
+Specificity
+
+Age 3
+
+Age 3.5 Age 4.5
+Specific responses
+
+Age 3
+
+Age 3.5 Age 4.5
+
+General responses
+
+Fig. 2. Untransformed mean speciﬁcity (speciﬁc-general responses), speciﬁc responses, and general
+responses as a function of culture and time point.
+
+p < .0001, r = .36. Native Chinese children were more likely than immigrant children
+to refer to internal states at age 3.5, v2(1, N = 104) = 3.84, p = .05, r = .19, and this
+pattern was reversed at age 4.5, v2(1, N = 87) = 6.57, p = .01, r = .27. Language was
+not a signiﬁcant covariate. Fig. 3 illustrates the untransformed mean internal states
+language as a function of culture and time point.
+
+3.4. Emotion knowledge and autobiographical memory over time
+
+To further examine the relation of EK to memory speciﬁcity across time points
+independent of culture and language skills, cross-lagged correlational analyses were
+conducted between EK and speciﬁcity scores, with the eﬀects of culture and language
+partialed out. Fig. 4 presents the partial correlations. At the earlier two time points, a
+reciprocal relationship between EK and AM was observed, whereby children who
+demonstrated greater emotional understanding at age 3 were able to provide event
+memories with greater speciﬁcity 6 months later, and children who recalled more spe-
+ciﬁc memories at age 3 exhibited greater EK 6 months later. EK and speciﬁcity
+scores were also correlated within each time point. Thus, EK and memory speciﬁcity
+were interrelated early on, showing concurrent and longitudinal bidirectionality.
+
+At the later two time points, however, the long-term relationship between EK and
+memory speciﬁcity became unidirectional. Children who demonstrated greater EK
+at age 3.5 were better able to provide episodic event information 1 year later, regardless
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+129
+
+Euro-American
+Chinese
+Chinese Immigrant
+
+e
+g
+a
+u
+g
+n
+a
+L
+ 
+s
+e
+t
+a
+t
+S
+
+ 
+l
+a
+n
+r
+e
+
+t
+
+n
+
+I
+ 
+
+n
+a
+e
+M
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+Age 3
+
+Age 3.5
+
+Age 4.5
+
+Fig. 3. Untransformed mean internal states language as a function of culture and time point.
+
+Age 3
+
+Age 3.5
+
+Age 4.5
+
+ 
+
+ 
+
+ 
+
+               .26
+
+ 
+
+ 
+
+  Emotion 
+Knowledge 
+
+    .28
+ 
+
+ 
+
+  Emotion 
+Knowledge 
+
+     .37 
+ 
+
+ 
+
+  Emotion 
+Knowledge 
+
+                   .16                                                  .22
+
+  .19
+
+ .34                                                                                              .27
+
+                                                     .41
+
+ Memory 
+Specificity 
+
+               
+     .19
+
+    Memory 
+  Memory 
+   Specificity        .24            Specificity 
+
+             
+
+p < .05,  p < .01,  p < .001, 
+
+p < .0001, two-tailed. 
+
+Fig. 4. Cross-lagged correlations between emotion knowledge and memory speciﬁcity with culture and
+relevant language eﬀects partialed out. Only signiﬁcant correlations are shown.
+
+of culture and children’s language skills at both time points. Children’s memory spec-
+iﬁcity at the earlier time point was not signiﬁcantly related to their EK later on (r = .08,
+n.s.). In addition, both EK and speciﬁcity scores showed consistency over time such
+that children who exhibited greater EK and memory speciﬁcity at the earlier time
+points also showed greater EK and memory speciﬁcity at the later time points.
+
+130
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+4. Discussion
+
+The present study takes a novel theoretical perspective on the early development
+of autobiographical memory, examining the developmental connection of emotion
+knowledge to autobiographical remembering. The ﬁndings provide the ﬁrst longitu-
+dinal evidence for the contribution of emotion knowledge to autobiographical mem-
+ory development. The examination of individual processes within a cross-cultural
+framework further helps to identify universal parameters on memory development,
+as well as mechanisms that give rise to cultural variations. The study thus adds sig-
+niﬁcance to autobiographical memory theory in general, and to the understanding of
+both cultural variations and individual diﬀerences in cognition.
+
+As expected, EK was linked to AM at the group level. Compared with their Chi-
+nese and Chinese immigrant peers, Euro-American children exhibited overall greater
+understanding of emotion situations; and they recalled autobiographical events with
+greater speciﬁcity and integrated more internal states language into their memories.
+In addition, Euro-American and Chinese immigrant children exhibited an overall
+increase in memory speciﬁcity, corresponding with their increasing EK over time.
+Native Chinese children showed increases in EK and memory speciﬁcity at the earlier
+two time points, and had no increase in either outcome and, indeed, a decrease in
+memory speciﬁcity from ages 3.5 to 4.5. Interestingly, while Euro-American children
+provided more speciﬁc responses with age, the number of general responses they
+included in their memory reports remained constant over time. In contrast, both
+native Chinese and Chinese immigrant children signiﬁcantly increased their use of
+general responses by the end of the preschool years, and native Chinese children’s
+speciﬁc responses indeed showed a decrease, although not signiﬁcant, from ages
+3.5 to 4.5. Thus, the focus on distinctive aspects of past events in autobiographical
+remembering evidenced diﬀerential developmental patterns across
+cultures.
+Although moderate use of general descriptions relevant to the past event may help
+to supplement contextual information and ensure the coherence and comprehensibil-
+ity of the memory narrative, a great tendency to provide general responses to a spe-
+ciﬁc memory probe, particularly in the case of native Chinese children by the end of
+the preschool years, may be indicative of a lack of accessibility to episodic event
+information (Pillemer, 1998; Singer & Salovey, 1993; Wang, 2001a).
+
+At the individual level, children’s EK facilitated their memory speciﬁcity and their
+use of internal states language across all time points, independent of culture and lan-
+guage skills. Thus, children who showed greater understanding of emotions recalled
+memories with more event-speciﬁc details and emotional-evaluative information
+than children who had less emotion knowledge, regardless of culture and language
+skills. Furthermore, as predicted, EK functioned as a potent mediator that gave rise
+to cultural diﬀerences in memory speciﬁcity. EK also mediated the contributions of
+language skills and time point to memory speciﬁcity, such that children’s increasing
+memory speciﬁcity in relation to their language skills or the mere passing of time was
+explained by their developing EK. In addition, the long-term relationship between
+EK and memory speciﬁcity appeared to be reciprocal early on and became unidirec-
+tional later. At the early stage, children may learn about emotions from their unique
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+131
+
+personal experiences, which, in turn, enables them to interpret, understand, and
+remember autobiographical episodes. By the end of the preschool years, children
+have come to form fairly sophisticated knowledge of a variety of emotion-eliciting
+situations (Bennett et al., 2005; Harris, 1989; Stein & Liwag, 1997). Such emotional
+schemas or scripts represent abstracted information and are likely resistant to dis-
+crete experiential inﬂuences (Conway & Bekerian, 1987), while, on the other hand,
+they continue to facilitate children’s understanding, evaluation, and remembering
+of distinctive aspects of past events over the long term.
+
+The ﬁndings may shed light on the phenomenon of infantile amnesia, that is, the
+common inability among adults to consciously recall autobiographical events occur-
+ring before age 2 or 3 (see Pillemer & White, 1989). From the current perspective, the
+oﬀset of infantile amnesia may be inﬂuenced by developmental changes in cognitive
+and emotional processing of event information enabled by the developing emotion
+knowledge. Because children develop EK over the preschool years (Bennett et al.,
+2005; Denham & Kochanoﬀ, 2002), the insuﬃcient EK in very young children
+may render them with inadequate ‘‘mental tools” necessary for interpreting, repre-
+senting, organizing, and retrieving unique episodic event information. This may
+make the retention of and access to the early memories diﬃcult from an adult stand-
+point and thus result in infantile amnesia. Obviously, further longitudinal data are
+needed to elucidate the possible eﬀect of emotion knowledge on infantile amnesia.
+The ﬁndings may further help to explain cross-cultural diﬀerences in adults’ child-
+hood recollections. Studies have shown that Euro-American adults can access earlier
+and a greater number of childhood memories and often provide more episodic
+details and emotional-evaluative information of past events than Chinese, Koreans,
+and Asian Americans (Mullen, 1994; Wang, 2001a; Wang, Conway, & Hou, 2004;
+Wang & Ross, 2005). These cultural diﬀerences may be related to the current ﬁnding
+that Euro-American children as young as age 3 acquired greater EK than their Chi-
+nese peers, and such knowledge may, in turn, facilitate their detailed encoding and
+eﬃcient organization of personal event information for long-term retention.
+
+As expected, interesting diﬀerences emerged between the two Chinese groups. At
+the earlier time points, Chinese children in Beijing showed greater similarities to
+Euro-American children in both EK and AM measures than did Chinese immigrant
+children. This pattern was reversed by the end of the preschool years, where Chinese
+immigrant children came to resemble more their Euro-American peers than native
+Chinese children in both EK and AM outcomes. This pattern of results may reﬂect
+the diﬀerential enculturation processes from home to the outside world for native
+and immigrant Chinese children, as they get older and more susceptible to the inﬂu-
+ences of socialization agents and cultural sources other than parents. One such
+important inﬂuence, for instance, is through early education programs. In Mainland
+China, many educators are concerned that ‘‘in single-child families, the child receives
+too much attention at home and, as a result, is spoiled.” A major task at day-care
+centers and preschools is therefore to train children to ‘‘observe rules and regula-
+tions, be polite to teachers, follow rules in games, and think about others” (Lee,
+1992, p. 383). And to bridge the divergent practices between home and school, par-
+ents are asked ‘‘to cooperate with day-care centers by training their child at home in
+
+132
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+accordance with the center’s goals” (Lee, 1992, p. 387). In contrast, day-care centers
+and preschools in the U.S. place a great emphasis on the rights and priority of the
+individual child, and a major purpose of early education is to ‘‘promote life, liberty,
+and the pursuit of happiness,” and to ‘‘teach children to exercise their rights of free
+speech” (Tobin et al., 1989, p. 137). It appears that under such cultural inﬂuences,
+native Chinese children are gradually being transformed from ‘‘little emperors”
+and ‘‘little empresses” in the family to eﬀective members of a larger collective,
+whereas Chinese immigrant children in the U.S. are being socialized into a society
+embracing individuality and self-assertiveness (Chao & Tseng, 2002; Wang et al.,
+1998). The current results elucidate cultural inﬂuences on human development as
+a dynamic process that takes place in the transactions between individuals and their
+proximal social settings (Rogoﬀ, 2003). They also point to the importance of exam-
+ining in future research multiple sociocultural factors in predicting developmental
+outcomes.
+
+Notably, although the present study provided compelling evidence for the
+developmental connection of emotion knowledge to autobiographical memory,
+the data did not directly explicate basic level cognitive and emotional processes
+underlying such a connection. As suggested by cognitive theories (Conway &
+Bekerian, 1987; Stein & Liwag, 1997), emotion knowledge may aﬀect the remem-
+bering of personal experiences through multiple pathways. The ﬁnding that EK
+facilitated the integration of feeling states language into memories is suggestive
+pertaining to these pathways. As resent research has shown, children interpret,
+understand, and evaluate the personal meaning of past events through the use
+of internal states language that is indicative of cognitive and emotional processing
+(Fivush & Baker-Ward, 2005). Still, further research is required to elucidate the
+speciﬁc processes and mechanisms for the mnemonic eﬀects of emotion knowl-
+edge. It should also be acknowledged that the current sample was composed of
+middle-class families in the U.S. and China with relatively high educational levels,
+which could aﬀect memory and emotion socialization practices within the families
+(Wang et al., 1998; Wiley, Rose, Burger, & Miller, 1998). Additional research
+exploring a wider variety of socio-economic classes and parental educational lev-
+els is needed. In addition, discrete emotions are often associated with diﬀerent
+goals and problem-solving strategies and thus may diﬀerentially impact on auto-
+biographical remembering (Levine & Pizarro, 2004). Future research should
+examine how children’s knowledge of speciﬁc emotions inﬂuences the way they
+remember events in which they experienced the emotions.
+
+Importantly, emotion knowledge may only be one of many factors contributing to
+early memory development (see Nelson & Fivush, 2004). This is consistent with the
+pluralistic view that autobiographical memory development is a result of interactions
+among various biological, linguistic, cognitive, and social-cultural variables (Harley
+& Reese., 1999; Nelson & Fivush, 2004; Pillemer, 1998). Still, with the acquisition
+and further enrichment of emotion knowledge, children become increasingly able
+to interpret, represent, and organize signiﬁcant personal event memories for long-
+term retention. Emotion knowledge may thus be one of the prerequisites to the
+development of autobiographical memory.
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+133
+
+References
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological
+research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social
+Psychology, 51(6), 1173–1182.
+
+Bennett, D. S., Bendersky, M., & Lewis, M. (2005). Antecedents of emotion knowledge: Predictors of
+
+individual diﬀerences in young children. Cognition and Emotion, 19(3), 375–396.
+
+Bretherton, I., & Beeghly, M. (1982). Talking about internal states: The acquisition of an explicit theory of
+
+mind. Developmental Psychology, 18, 906–921.
+
+Brody, L. R., & Harrison, R. H. (1987). Developmental changes in children’s abilities to match and label
+
+emotionally laden situations. Motivation and Emotion, 11(4), 347–365.
+
+Burch, M. M., Austin, J., & Bauer, P. J. (2004). Understanding the emotional past: Relations between
+parent and child contributions in emotionally negative and nonnegative events. Journal of
+Experimental Child Psychology, 89, 276–297.
+
+Chao, R. K. (1995). Chinese and European American cultural models of the self reﬂected in mothers’
+
+childrearing beliefs. Ethos, 23(3), 328–354.
+
+Chao, R. K., & Tseng, V. (2002). Parenting of Asians (2nd ed.. In M. H. Bornstein (Ed.). Handbook of
+parenting: Social conditions and applied parenting (Vol. 4, pp. 59–93). Mahwah, NJ: Lawrence Erlbaum
+Associates.
+
+Chapman, D. W., & Carter, J. F. (1979). Translation procedures for the cross-cultural use of measurement
+
+instruments. Educational Evaluation and Policy Analysis, 1(3), 71–76.
+
+Chen, X. (2000). Growing up in a collectivist culture: Socialization and socioemotional development in
+Chinese children. In H. Comunion & V. Gielen (Eds.), International perspectives on human development
+(pp. 331–353). Padua, Italy: Cadam Publishers.
+
+Chen, X., Cen, G., Li, D., & He, Y. (2005). Social functioning and adjustment in Chinese children: The
+
+imprint of historical time. Child Development, 76(1), 182–195.
+
+Christianson, S. A., & Safer, M. A. (1996). Emotional events and emotions in autobiographical memories.
+In D. C. Rubin (Ed.), Remembering our past: Studies in autobiographical memory (pp. 218–243). New
+York, NY: Cambridge University Press.
+
+Conway, M. A., & Bekerian, D. A. (1987). Situational knowledge and emotions. Cognition and Emotion,
+
+1(2), 145–191.
+
+Conway, M. A., & Pleydell-Pearce, C. W. (2000). The construction of autobiographical memories in the
+
+self-memory system. Psychological Review, 107(2), 261–288.
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, and family background:
+
+Individual diﬀerences and interrelations. Child Development, 70, 853–865.
+
+Denham, S., & Kochanoﬀ, A. T. (2002). Parental contributions to preschoolers’ understanding of
+
+emotion. Marriage and Family Review, 34(3–4), 311–343.
+
+Denham, S. A., Zoller, D., & Couchoud, E. A.
+
+(1994). Socialization of preschoolers’ emotion
+
+understanding. Developmental Psychology, 30(6), 928–936.
+
+Dunn, J., Bretherton, I., & Munn, P. (1987). Conversations about feeling states between mothers and their
+
+young children. Developmental Psychology, 23(1), 132–139.
+
+Fivush, R., & Baker-Ward, L. (2005). The search for meaning: Developmental perspectives on internal
+
+states language in autobiographical memory. Journal of Cognition and Development, 6(4), 455–462.
+
+Fivush, R., Haden, C., & Adam, S. (1995). Structure and coherence of preschoolers’ personal narratives
+over time: Implication for childhood amnesia. Journal of Experimental Child Psychology, 60, 32–56.
+Fivush, R., & Hamond, N. R. (1990). Autobiographical memory across the preschool years: Toward
+reconceptualizing childhood amnesia. In R. Fivush & J. A. Hudson (Eds.), Knowing and remembering
+in young children (pp. 223–248). New York, NY: Cambridge University Press.
+
+Fleiss, J. L. (1981). Statistical methods for rates and proportions. New York: Wiley.
+Frijda, N. H. (1986). The emotions. NY: Cambridge University Press.
+Fuligni, A. J., & Zhang, W.
+
+(2004). Attitudes toward family obligation among adolescents in
+
+contemporary urban and rural China. Child Development, 74(1), 180–192.
+
+Gottman, J. (1998). Raising an emotionally intelligent child. New York: Fireside.
+
+134
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+Haden, C. A., Haine, R. A., & Fivush, R. (1997). Developing narrative structure in parent-child
+
+reminiscing across the preschool years. Development Psychology, 33, 295–307.
+
+Han, J. J., Leichtman, M. D., & Wang, Q. (1998). Autobiographical memory in Korean, Chinese, and
+
+American children. Developmental Psychology, 34(4), 701–713.
+
+Harley, K., & Reese, E. (1999). Origins of autobiographical memory. Developmental Psychology, 35(5),
+
+1338–1348.
+
+Harris, P. L. (1989). Children and emotion. Oxford, UK: Basil Blackwell.
+Harris, P. L., Olthof, T., Terwogt, M. M., & Hardman, C. E. (1987). Children’s knowledge of the
+
+situations that provoke emotion. International Journal of Behavioral Development, 10(3), 319–343.
+
+Hesse, P., & Cicchetti, D. (1982). Perspectives on an integrated theory of emotional development. New
+
+Directions for Child Development, 16, 3–48.
+
+Ireton, H. (1992). Child development inventory. Minneapolis, MN: Behavioral Science Systems.
+Ireton, H., & Thwing, E. (1974). Minnesota child development inventory. Minneapolis: Minnesota
+
+Behavioral Sciences Systems.
+
+Lazarus, R. S. (1982). Thoughts on the relations between emotion and cognition. American Psychologist,
+
+37, 1019–1024.
+
+Lee, L. C. (1992). Day care in the People’s Republic of China. In A. G. Broberg, C. P. Hwang, M. E.
+Lamb, & K. J. Sternberg (Eds.), Child care in context: Cross-cultural perspectives (pp. 355–392).
+Hillsdale, NJ: Lawrence Erlbaum Associates.
+
+Lee, L. C., & Zane, N. W. S. (Eds.). (1998). Handbook of Asian American psychology. CA: Sage
+
+Publications.
+
+Levine, L. J., & Pizarro, D. A. (2004). Emotion and memory research: A grumpy overview. Social
+
+Cognition, 22(5), 530–554.
+
+Lewis, M., & Michalson, L.
+
+(1983). Children’s emotions and moods: Developmental
+
+theory and
+
+measurement. New York: Plenum Press.
+
+McGaugh, J. L. (1995). Emotional activation, neuromodulatory systems, and memory. In D. L. Schacter
+(Ed.), Memory distortion: How minds, brains, and societies reconstruct the past (pp. 255–273).
+Cambridge, MA: Harvard University Press.
+
+McGaugh, J. L. (2003). Memory and emotion: The making of lasting memories. New York, NY: Columbia
+
+University Press.
+
+Mullen, M. K. (1994). Earliest recollections of childhood: A demographic analysis. Cognition, 52(1), 55–79.
+Neisser, U. (1981). John Dean’s memory: A case study. Cognition, 9, 1–22.
+Nelson, K., & Fivush, R. (2004). The emergence of autobiographical memory: A social cultural
+
+developmental theory. Psychological Review, 111(2), 486–511.
+
+Noldus (2003). The observer: Professional system for collection, analysis, presentation and management of
+observational data. Reference manual version 5.0. Wageningen, The Netherlands: Noldus Information
+Technology.
+
+Norton, E. C., Bieler, G. S., Ennett, S. T., & Zarkin, G. A. (1996). Analysis of prevention program
+eﬀectiveness with clustered data using generalized estimating equations. Journal of Consulting and
+Clinical Psychology, 64(5), 919–926.
+
+Pillemer, D. B. (1998). Momentous events, vivid memories. Cambridge, MA: Harvard University Press.
+Pillemer, D. B., Picariello, M. L., & Pruett, J. C. (1994). Very long-term memories of a salient preschool
+
+event. Applied Cognitive Psychology, 8(2), 95–106.
+
+Pillemer, D. B., & White, S. H. (1989). Childhood events recalled by children and adults. In H. W. Reese
+(Ed.). Advances in child development and behavior (Vol. 21, pp. 297–340). New York: Academic Press.
+Pons, F., Lawson, J., Harris, P. L., & deRosnay, M. (2003). Individual diﬀerences in children’s emotion
+
+understanding: Eﬀects of age and language. Scandinavian Journal of Psychology, 44, 347–353.
+
+Reisberg, D., & Hertel, P. (2004). Memory and emotion. New York, NY: Oxford University Press.
+Rogoﬀ, B. (2003). The cultural nature of human development. NY: Oxford University Press.
+Schachter, S., & Singer, J. E. (1962). Cognitive, social, and physiological determinants of emotional state.
+
+Psychological Review, 69, 379–399.
+
+Schank, R. (1982). Dynamic memory: A theory of learning in computers and people. Cambridge, MA:
+
+Harvard University Press.
+
+Q. Wang / Cognition 108 (2008) 117–135
+
+135
+
+Simcock, G., & Hayne, H. (2003). Age-related changes in verbal and nonverbal memory during early
+
+childhood. Developmental Psychology, 39(5), 805–814.
+
+Singer, J. A., & Salovey, P. (1993). The remembered self: Emotion and memory in personality. New York:
+
+The Free Press.
+
+Singer, J. D. (1998). Using SAS PROC MIXED to ﬁt multilevel models, hierarchical models, and
+
+individual growth models. Journal of Educational and Behavioral Statistics, 24(4), 323–355.
+
+Stein, N. L., & Liwag, M. D. (1997). Children’s understanding, evaluation, and memory for emotional
+events. In P. W. van den Broek, P. J. Bauer, & T. Bourg (Eds.), Developmental spans in event
+comprehension and representation (pp. 199–235). Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Tobin, J. J., Wu, D. Y. H., & Davidson, D. H. (1989). Preschool in three cultures. New Heaven, CT: Yale
+
+University Press.
+
+Tomkins, S. S. (1979). Script theory: Diﬀerential magniﬁcation of aﬀects. In C. B. Keasey (Ed.). Nebraska
+
+symposium on motivation (Vol. 26, pp. 201–236). Lincoln: University of Nebraska Press.
+
+Wang, Q. (2001a). Cultural eﬀects on adults’ earliest childhood recollection and self-description:
+Implications for the relation between memory and the self. Journal of Personality and Social
+Psychology, 81(2), 220–233.
+
+Wang, Q. (2001b). ‘‘Did you have fun?”: American and Chinese mother-child conversations about shared
+
+emotional experiences. Cognitive Development, 16, 693–715.
+
+Wang, Q. (2003). Emotion situation knowledge in American and Chinese preschool children and adults.
+
+Cognition & Emotion, 17(5), 725–746.
+
+Wang, Q. (2004). The emergence of cultural self-construct: Autobiographical memory and self-description
+
+in American and Chinese children. Developmental Psychology, 40(1), 3–15.
+
+Wang, Q. (2006a). Relations of maternal style and child self-concept to autobiographical memories in
+Chinese, Chinese immigrant, and European American 3-year-olds. Child Development, 77(6),
+1794–1809.
+
+Wang, Q. (2006b). Earliest recollections of self and others in European American and Taiwanese young
+
+adults. Psychological Science, 17(8), 708–714.
+
+Wang, Q., & Conway, M. A. (2004). The stories we keep: Autobiographical memory in American and
+
+Chinese middle-aged adults. Journal of Personality, 72(5), 911–938.
+
+Wang, Q., Conway, M. A., & Hou, Y. (2004). Infantile amnesia: A cross-cultural investigation. Cognitive
+
+Sciences, 1(1), 123–135.
+
+Wang, Q., & Fivush, R. (2005). Mother-child conversations of emotionally salient events: Exploring the
+functions of emotional reminiscing in European American and Chinese Families. Social Development,
+14(3), 473–495.
+
+Wang, Q., Hutt, R., Kulkofsky, S., McDermott, M., & Wei, R. (2006). Emotion situation knowledge and
+immigrant Chinese, and European American 3-year-olds.
+
+autobiographical memory in Chinese,
+Journal of Cognition and Development, 7(1), 95–118.
+
+Wang, Q., Leichtman, M. D., & White, S. H. (1998). Childhood memory and self-description: The impact
+
+of growing up an only child. Cognition, 69(1), 73–103.
+
+Wang, Q., & Ross, M. (2005). What we remember and what we tell: The eﬀects of culture and self-priming
+
+on memory representations and narratives. Memory, 13(6), 594–606.
+
+Wiley, A. R., Rose, A. J., Burger, L. K., & Miller, P. J. (1998). Constructing autonomous selves through
+narrative practices: A comparative study of working-class and middle-class families. Child Develop-
+ment, 69(3), 833–847.
+
+

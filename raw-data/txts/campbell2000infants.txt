@@ -1,0 +1,1334 @@
+British Journal of Developmental Psychology (2000 ), 18, 479–498 Printed in Great Britain
+# 2000 The British Psychological Society
+
+479
+
+Infants’ visual preference for sex-congruent
+
+babies, children, toys and activities:
+
+A longitudinal study
+
+Anne Campbell,* Louisa Shirley and Charles Heywood
+
+Durham University, UK
+
+Charles Crook
+
+Loughborough University, UK
+
+their behaviour. This
+
+Sex differences in social behaviour emerge as early as 2 years of age and gender
+schema theorists have suggested that preverbal infants possess ‘tacit’ knowledge of
+gender which informs
+study examined sex-congruent
+preferences using a visual preference paradigm in four domains (babies, children,
+toys, activities) in a longitudinal study of infants aged 3, 9 and 18 months. At
+3 months, infants showed a marginally significant preference for same-sex babies
+driven principally by males. Sex-congruent toy preference was found among males at
+ages 9 and 18 months. Both sexes preferred masculine activity styles but this effect
+was significantly stronger among males than females. Gender schema theory requires
+gendered self-concept as a precursor to sex-congruent preference. Infants did not
+recognize themselves from photographs at any of the ages tested. By 18 months
+approximately two thirds of infants showed self-recognition on the rouge test.
+However, at none of the ages and in none of the domains tested was self-recognition
+related to sex-congruent preference. Cross-domain consistency of preference was not
+found. There was evidence of some stability of preference within domains between
+the ages of 9 and 18 months and this stability was very marked for activity
+preference.
+
+Sex differences in children’s behaviour are commonly ascribed to the development of a
+gender schema that guides their behaviour in sex-congruent ways (Bem, 1981; Martin &
+Halverson, 1981). According to gender schema theory, children categorize gender-
+salient stimuli (people, toys, activities ) as ‘for girls’ or ‘for boys’ and, when sex-of-self is
+incorporated into the gender schema, this categorization guides selective attention to
+and preference for sex-congruent stimuli. The gender schema allows for efficient
+learning and recall of same-sex information (Ruble & Stangor, 1986; Stangor & Ruble,
+1987), formation of inferences about unfamiliar children based on gender (Gelman,
+
+* Requests for reprints should be addressed to Dr Anne Campbell, Department of Psychology,
+University of Durham, Science Laboratories, South Road, Durham DH1 3LE, UK (e-mail:
+a.c.campbell@durham.ac.uk ).
+
+480
+
+Anne Campbell et al.
+
+Collman, & Maccoby, 1986; Haugh, Hoffman, & Cowan, 1980; Martin, 1989) and
+engagement in sex-congruent behaviours (Fagot & Leinbach, 1989).
+
+As Martin and Halverson (1981, p. 112) note: ‘Children who cannot identify gender
+. . . would not be expected to act according to schemas that have yet to be formed.’
+Given the importance accorded to the formation of gender categories, research has
+addressed the age at which children attain important cognitive milestones in this area.
+Despite Kohlberg’s (1966) emphasis upon gender constancy (the understanding that sex
+remains constant despite superficial changes in appearance) as the basis for sex-typing,
+studies suggest that this form of conservation is not achieved until between the ages of 4
+and 7 years (Ruble & Martin, 1998). However, Martin and Halverson (1981) have
+argued that gender labelling alone is sufficient to form a basis for gender schema.
+Gender labelling has been examined in a variety of ways. One technique invites children
+to identify the correct photo when given a verbal instruction to point to one sex or the
+other (Etaugh, Grinnell, & Etaugh, 1989; Fagot & Leinbach, 1989; Huston, 1983;
+Weinraub, Clements, Sockloff, Ethridge, & Myers, 1984). Accurate performance appears
+at about 30 months on these tasks. In a photo sorting task, children are asked to sort
+pictures sequentially into two boxes when no verbal reference is made to the sex of the
+stimuli (Weinraub et al., 1984). The majority of children at age 36 months, but not
+earlier, are able to perform this task. The later onset of this ability may relate to Gelman,
+Collman, and Maccoby’s (1986) finding that the ability to categorize an object by using
+property information (such as gender) occurs developmentally later than the ability to
+infer properties of an object when the category is given. Children can identify gender
+when prompted to do so more easily than they infer gender category membership by
+themselves. Overall then, children demonstrate the ability to label gender between the
+age of 2.5 and 3 years (Ruble & Martin, 1998).
+
+This is problematic for gender schema theory since a number of sex differences begin to
+emerge prior to this age. Children demonstrate a marked behavioural preference for their
+own sex by the age of about 24 months – before they can reliably label the sex of others
+(Fagot, 1985; Hoyenga & Hoyenga, 1993; Maccoby & Jacklin, 1987). Sex differences in
+toy choice have been found at 14–18 months of age (Caldera, Huston, & O’Brien, 1989),
+despite the fact that children cannot accurately assess whether a toy is more suitable for a
+girl or a boy until after the age of 2 years (Blakemore, LaRue, & Olejnik, 1979; Perry,
+White, & Perry, 1984). Indeed sex differences in toy choice occur before children can
+accurately label others as male or female (Fagot, Leinbach & Hagan, 1986; Weinraub, et
+al., 1984). There are significant differences in activity level and gross motor behaviour
+between girls and boys (Eaton & Enns, 1986). At about 1 year, boys exhibit more assertive
+reactions to toy disputes, are more vigorous, have higher activity levels and exhibit more
+gross motor activity than do girls (Brooks & Lewis, 1974; Freedman, 1974; Goldberg &
+Lewis, 1969; Kohnstamm, Bates, & Rothbart, 1989; Messer & Lewis, 1972). In
+childhood, boys engage in more chasing and rough-and-tumble play (Humphreys &
+Smith, 1984). Propulsion or explosive motion has been found to be more characteristic of
+boys than girls (Benenson, Liroff, Pascal, & Cioppa, 1997).
+
+If gender schema theory is correct, then children must be able to reliably discriminate
+the sexes much earlier than these verbally mediated tasks suggest. To examine this
+possibility, researchers have used the habituation paradigm. Leinbach and Fagot (1993)
+report that by the age of 1 year, 75% of infants show categorical habituation to adult male
+
+Infants’ preference for sex-congruency
+
+481
+
+The visual preference paradigm offers
+
+and female faces. They suggest that infants know more than they can tell about the gender
+of others and refer to this as ‘tacit knowledge’. Recall, however, that in such studies,
+infants are presented with a series of exemplars of one category (e.g. male faces ) followed
+by an instance of a non-category member (e.g. a female face) and recovery from
+habituation is taken as evidence of the infant’s possession of the initial category. It is
+likely that infants are capable of forming the category during the testing procedure itself
+(Poulin-Dubois, Serbin, Kenyon, & Derbyshire, 1994) and, if so, the above findings
+replicate data on infants’ formation of categories with a variety of non-social stimuli
+(Wagner, Winner, Cicchetti, & Gardner 1981; Younger, 1985; Younger & Cohen, 1983).
+the opportunity to examine infants’
+spontaneous preferences for sex-typed stimuli while avoiding the possibility of cueing
+or tutoring the infant. If an infant demonstrates a significant sex-typed preference over a
+number of different exemplars of male and female stimuli, this preference may be based
+upon an already available ‘tacit’ category of male and female. The visual preference
+technique has become an important tool in understanding attentional processes in
+preverbal
+serial and simultaneous
+presentation. In the first, the infant is presented with a series of stimuli, fixation
+times to each are recorded and paired statistical comparisons are performed on the data.
+In the latter, two stimuli are presented simultaneously to the infant and measures are
+taken of the infant’s differential patterns of gaze during each trial. Despite the fact that
+infants of 3 months are not capable of locomotion and are unable to reach for and grasp
+objects, they already display systematic patterns of gaze under different stimulus
+conditions (Spelke, 1985).
+
+infants. Two paradigms are commonly used:
+
+In a sequential visual preference paradigm, Kagan and Lewis (1965) found no
+differences in duration of gaze to male and female faces for either girls or boys at age
+6 months. Lewis and Brooks-Gunn (1979, Study 1) measured fixation duration when 53
+infants aged between 10 and 18 months were presented with a series of pictures of same-
+aged male and female infants. They found significant longer fixation times for same-sex
+than for opposite-sex pictures for the group as a whole. T tests revealed that the effect
+was significant for both sexes at 16–18 months (but not at 10–12 months) and for
+females of both ages but not males. (Multivariate analysis of variance was not performed
+so the effects of age and sex are reported independently.) Lewis and Brooks (1975), in an
+earlier report of a study with identical design and participant numbers, failed to find
+significant evidence of differential looking at either age or in either sex. Lewis and
+Brooks-Gunn (1979, Study 2), in a replication study with extended age parameters,
+found no significant same-sex preference.
+
+Kujawski and Bower (1993) presented 20 infant viewers with films of a boy and a girl
+moving around a darkened room with their joints highlighted by point-light displays.
+In this way, facial and cultural cues to gender were removed and only movement cues
+remained. On their first look, 10–14 month-olds demonstrated a significantly longer
+first fixation on same-sex rather than opposite-sex children, but no significant sex-
+preference was reported for total duration of looking.
+
+The pattern of results is equivocal and is especially difficult to interpret because
+studies vary in their use of serial or sequential presentation, the ages of participants and
+their use of static and moving stimuli. Studies have focused exclusively on infants’
+preferences for people at the expense of other sex-typed preferences such as toys and
+
+482
+
+Anne Campbell et al.
+
+activities, yet these are the very areas in which precocious sex-typing has been noted.
+Most problematic is the fact that to date no longitudinal study has been undertaken
+which systematically tracks infants’ trajectory of gender-relevant visual preference over
+time.
+
+Incorporation of sex-of-self into gender schema
+
+According to gender schema theory, gender-congruent preferences also depend upon the
+incorporation of sex-of-self into the gender schema. Despite the absolute centrality of
+this premise (without which sex-congruent development would be impossible), only a
+few studies have examined the child’s ability to allocate pictures of him- or herself to the
+appropriate gender category. When asked to sort photographs of themselves into piles of
+male and female photos, 42% of 26-month-olds succeed, rising to 88% at 31 months
+(Weinraub et al., 1984). When asked to describe a picture of themselves, 74% of 26-
+month-olds use an appropriate gender label rising to 88% at 31 months (Weinraub et
+al., 1984). In Bigelow’s (1981) study of 18–26-month-old infants, the ability to point
+to a picture of themselves appeared in only some participants by the end of the age range
+tested. These studies suggest that it is not until well into the third year of life that
+children can reliably discriminate their own sex.
+
+However, self-recognition may occur before this and sex-of-self may be incorporated
+at a tacit or preverbal level. A critical question therefore is the age at which children
+achieve the ability to recognize themselves in images, since this would be a necessary
+requirement for knowing which sex they are. Mirrors and closed circuit video have been
+used to measure dynamic self-recognition. Various measures of self-recognition have
+been employed including self-directed behaviour (especially touching their nose in
+reaction to viewing a rouge spot on it), self-naming and turning to locate an object seen
+in the mirror (which presumes that self is used as a spatial referent for the object’s
+location ). Bertenthal and Fischer (1978) found that the ability to locate objects occurs
+before the ability to name self or direct actions to self, but Robinson, Connell,
+McKenzie, and Day (1990) found that object location was independent of whether the
+infant’s image was visible in the mirror, suggesting that spatial location measures are
+not tapping self-recognition. Johnson (1983)
+infants would display
+established measures of self-recognition (e.g. self-directed behaviour and naming) in
+response to a video of another infant. The only measure which was used exclusively for
+self was nose-touching on the rouge test. Hence the rouge test appears to be the most
+reliable indicator of self-recognition. Results suggest that mirror recognition appears
+between 18 and 24 months of age (Amsterdam, 1972; Bullock & Lutkenhaus, 1990;
+Loveland, 1987).
+
+found that
+
+At younger ages, static self-recognition has been investigated using visual preference
+procedures. Lewis and Brooks (1979, Study 1), using sequential presentation, included a
+picture of the infant interspersed with variety of other baby, adult and child faces.
+Infants aged 10–18 months looked significantly longer at themselves than at opposite-
+sex babies, but when the sample was split by sex the effect was significant for females
+only. Featural self-recognition is doubtful, however, since infants showed no differences
+in looking times between themselves and a same-sex baby, suggesting that they may
+have viewed the self picture as simply another exemplar of the same-sex category. (Recall
+
+Infants’ preference for sex-congruency
+
+483
+
+that serial presentation was used so that at no point did the infant have to ‘choose’
+between self and same-sex peer.) In Study 2, which included an older age group of 21–
+24-month-olds, no significant differences in looking duration were found between self
+and same-sex peer or between self and opposite-sex peer. It appears unlikely, therefore,
+that self-recognition occurs before the age of 2 years. However, Bahrick, Moss, and Fadil
+(1996) argue for much earlier
+self-recognition. They used a simultaneous visual
+preference paradigm to present infants aged 3 months with paired photographs of self
+and a peer (sex-unspecified ). They found that on the second (but not the first) block of
+four trials infants showed a significant preference for the face of the peer. The authors
+concluded that infants are able to discriminate self and other from featural information.
+The present study used two measures of self-recognition: one static and one dynamic.
+A photograph of the infant was included together with that of a same-sex peer and visual
+preference was measured at all three ages. In addition, at 9 and 18 months, infants were
+given the rouge mirror test. Demonstration of self-recognition in combination with
+preference for same-sex others would constitute prima facie evidence that infants have
+‘tacit’ knowledge of their own sex. The onset of self-knowledge and the age at which the
+self-concept becomes gendered have begun to emerge as a central issues for gender
+schema theory, particularly in light of the fact that ‘both sexes engage in gender-related
+play and social interactions before most self-constructions have developed’ (Martin &
+Ruble, 1997, p 46).
+
+Gender schema and domain generality
+
+A clear prediction that follows from gender schema theory is that once the child can
+categorically discriminate the sex of others and has incorporated sex-of-self into the
+gender schema, then the stage is set for a variety of sex-typed behaviour. However, sex-
+typed behaviour in one domain is not reliably correlated with sex-typing in others
+(Berenbaum & Snyder, 1995; Maccoby & Jacklin, 1987; Turner, Gervai, & Hinde,
+1993). The possession of verbally tested gender labelling has been found to affect only
+some sex-typed behaviours and the affected domains are inconsistent over studies (Fagot,
+1985; Fagot & Leinbach, 1989; Fagot et al., 1986). Data suggest that the acquisition of
+gender schema does not have uniform implications across sex-typed domains.
+
+With respect to the trajectory of sex-typing across domains, gender schema theory
+assumes only that children first ‘acquire information about behavior and activities and
+later acquire information about more subtle psychological traits associated with sex
+roles’ (Martin & Halverson, 1981, p. 112). It is possible, however, to propose some more
+detailed hypotheses. The development of a gender schema begins with recognition of
+two featural categories of human being. This may be facilitated by early recognition of
+social and cultural cues such as hair length and clothing (Leinbach & Fagot, 1993).
+Specifically one would expect that infants (like older children) first discriminate the sex
+of adults and older children (who manifest cultural appearance cues) before they can
+discriminate infants. Once people can be assigned to categories of male and female, then
+inferences can be formed about relevant secondary attributes such as typical behaviours.
+Following this, the infant may observe that the two sexes show different patterns of
+interest in objects. The present authors propose, therefore, that sex-typed preferences
+should appear in the following order: older children, babies, activities, toys.
+
+484
+
+Anne Campbell et al.
+
+Summary of study rationale and method
+
+The present study followed a cohort of 60 infants from the age of 3–18 months. A
+simultaneous visual preference paradigm was used in which pairs of stimuli (sex-
+congruent and sex-incongruent) from four domains (baby faces, child faces, toys and
+activities ) were presented for viewing, and duration of gaze to each stimulus was
+measured. The decision to use a simultaneous form of presentation stemmed from the
+authors’ concern that, in sequential presentation, duration of gaze may not be a direct
+measure of the infant’s preference for one stimuli at the expense of another, but rather a
+measure of whether the screen is more interesting than an unlit room. In addition,
+attention-releasing may be especially difficult if there are no competing stimuli
+resulting in artificially long fixation times. The authors believe that a simultaneous
+presentation paradigm is more ecologically valid because, in the real world, children are
+bombarded with people and objects that compete for their attention and playing with
+one toy or person precludes playing with another.
+
+The present study had a number of aims. First, previous studies reporting early
+gender preferences have been restricted to a single age point or, where age has been
+included as a variable, the design has been cross-sectional. In some studies sample sizes
+have been low. The present design follows a cohort of 60 infants across three age points;
+3, 9 and 18 months. The selection of the 3-month age reflected the desire to ensure that
+testing began sufficiently early to detect the onset of any gender preference. In addition,
+by 3 months infants’ visual systems, posture and sleeping habits have matured
+sufficiently to allow meaningful testing. The authors also wanted to examine the
+possible existence of self-recognition from photographs reported by Bahrick et al. (1995)
+at this age. The authors tested again at 9 months mindful of the findings of Lewis and
+Brooks-Gunn (1979) and Kujawski and Bower (1993), who reported gender preference
+at this age, and those of Leinbach and Fagot (1993), who found evidence of categorical
+gender discrimination at approximately this age. The upper limit of 18 months was
+selected because it was felt that this was the maximum age at which infants would be
+willing to tolerate the testing conditions which required them to remain relatively static
+and because at this age and shortly thereafter behavioural studies (reviewed above) have
+indicated sex-congruent behaviour in some domains. The authors wanted to examine
+whether these behavioural preferences would also be manifest in a visual preference
+paradigm. At 18 months it was expected some of the sample to evidence mirror self-
+recognition and the authors were interested in whether this ability would be correlated
+with sex-congruent preferences in other domains. In addition to allowing the time
+trajectory of sex-congruent preferences to be mapped, longitudinal data also offer the
+opportunity to examine the stability of individual preferences over a 15-month period.
+Secondly, although the work of Lewis and Brooks-Gunn (1979) is a notable
+exception, most studies of early gender preference do not measure self-recognition. It has
+often been assumed, rather than demonstrated, that gender-congruent preference results
+from understanding of one’s own gender. Featural self-recognition was therefore
+included in the study, particularly in light of Bahrick et al.’s (1995) findings of self-
+recognition in 3-month-olds and mirror recognition was examined at 9 and 18 months.
+Thirdly, prior work on gendered visual preference has restricted itself to a single
+domain of interest, usually preference for faces. The present authors included two sets of
+
+Infants’ preference for sex-congruency
+
+485
+
+faces – infants (where there is minimal cultural or social
+information to assist
+discrimination ) and older children (where such cues are present) – as well as toys and
+activities. The latter two were selected because of prior reports of early sex differences.
+Contrary to the predictions of gender schema theory, previous studies suggest that
+gendered preferences appear in a somewhat uneven and piecemeal fashion. By including
+four domains in the present design, the authors were able to examine the cross-domain
+generality (or specificity ) of sex-typed preference at each age.
+
+Participants
+
+Method
+
+A total of 60 infants (36 male and 24 female) was recruited through local health clinics and media
+advertising. Data were lost in some domains at each of the testing periods because of infant fussiness. The
+statistical analysis is based upon the following sample sizes and ages. For self-recognition, full data were
+available for 43 participants (26 male, 17 female ) tested at a mean age of 13.9 weeks (SD = 1.5), 37.7
+weeks (SD = 2.3) and 86.2 weeks (SD = 5.05). For baby face preference, full data were available for 49
+participants (30 male, 19 female ) tested at 13.8 weeks (SD = 1.5), 37.7 weeks (SD = 2.2) and 86.5
+weeks (SD = .8). For child face preference, full data were available for 48 participants (29 male, 19
+female ) tested at 13.9 weeks (SD = 1.5), 37.7 weeks (SD = 2.2) and 86.6 weeks (SD = 5.0 ). For activity
+preference, full data were available for 42 participants (26 male, 16 female ) tested at 13.9 weeks
+(SD = 1.2), 37.7 weeks (SD = 1.9) and 85.8 weeks (SD = 5.2). For toy preference, full data were
+available for 48 participants (29 male, 19 female ) tested at 13.8 weeks (SD = 1.9 ), 37.7 weeks
+(SD = 2.2) and 86.4 weeks (SD = 4.8). All infants had been born full-term and were healthy at the time
+of study. All but one infant were White with the remaining infant of mixed (Japanese–Caucasian )
+parentage.
+
+Procedure
+
+On arrival, the infant’s photograph was taken by a professional photographer in a studio within the
+building. Mothers and infants were then given as long as they needed to settle in the developmental
+laboratory. After describing the study and showing the mothers and infants to their seat, mothers were
+requested not to physically or verbally guide their child in any way toward one or other picture. Testing
+took place in a booth 123 6 170cm created with plain hessian screens within the developmental
+laboratory. The infant was seated on the mother’s knee at a distance of 60cm from the midpoint of two
+computer screens (38cm screens) which were 20cm apart. The pairs of stimuli were presented
+sequentially on the two monitors with the images subtending ~l168 6 138 of visual angle. A video
+camera was located between two monitors behind a hardboard screen with only the lens protruding. This
+was used to film the infant’s gaze during presentation of the stimuli.
+
+Each infant viewed three series of still photographs and one series of videos. The static stimuli were:
+(1) five pairs of infant faces (one male and one female ): interspersed in this series, infants were presented
+with a photograph of themselves paired with that of a novel same-sex and same-age infant; self-
+recognition was tested on only one occasion to avoid habituation effects; (2) five pairs of children’s faces
+(one male and one female ); and (3) five pairs of sex-typed toys (one male-typical and one female-typical).
+Each pair of pictures was presented for 30s (at ages 3 and 9 months ) and for 15s (at 18 months ). The
+shorter exposure time at this age was based upon the infants’ greater mobility and shorter attention span.
+Between each pair, the screen went blank and the infant’s attention was drawn to a central point between
+the monitors by squeaking a toy through a hole in the hardboard screen. When the infant was judged to
+be looking centrally, the next pair of pictures was shown. The three series of pictures ran consecutively.
+The stimuli used for the activity preference were a series of five pairs of 30-s videos presented
+simultaneously. Each video showed two children of the same sex as the infant performing play activities
+traditionally associated with one sex or the other. The experimenter waited for the mother and infant to
+look centrally before beginning the trial.
+
+486
+
+Anne Campbell et al.
+
+Each infant saw the stimuli in the same pairings. Since complete counterbalancing was not possible,
+eight versions of the task were developed which varied according to side of presentation and order of
+stimulus pair within domain. Participants saw the pairs (in each domain ) in one of eight orders on each
+testing occasion so that order effects could be detected by group comparison. In addition, there were
+three orders of presentation of domains so that any systematic effect could be evaluated. Half the infants
+saw their own face on the left and half on the right.
+
+After the visual preference testing, infants at ages 9 and 18 months were given the rouge test
+following the procedure used by Amsterdam (1972). The mother took the child’s hand and walked him
+or her to a full-length mirror attached to a wall. She asked the child to look in the mirror. After one
+minute, she walked the child away from the mirror and wiped his or her nose with a tissue that had red
+make-up on it. She then led the child back to the mirror and asked the child to look again. After a
+further minute, she placed some rouge on her own nose in full view of the child, pointed to her own
+reflection and asked the child who it was and then pointed to the child’s image and asked who that was.
+The scoring criteria were as follows: (1 ) No self-recognition: the infant makes no attempt to remove the
+make-up from his or her nose after having seen his or her reflection in the mirror nor after the mother has
+cued the child to its presence by applying some to herself. (2) Recognition from prompt: the infant
+attempts to remove the make-up after the mother has applied some to herself. (3) Self-recognition: the
+infant notices the make-up on his or her mirror image and attempts to wipe it off his or her nose prior to
+the mother applying make-up to herself.
+
+At the end of each session, the mother was thanked for her participation, reimbursed for travelling
+expenses and told that a £5 donation would be made in her name to the Special Baby Care Unit of a local
+hospital.
+
+Stimulus materials
+
+The photographs of 3-, 9- and 18-month-old infants were obtained from a local professional
+photographer working in a studio. (These infants were not known to the participants of the study.) The
+photographs of older children were of 5-year-olds taken in school during an annual visit by a professional
+photographer. In all cases the face size, body orientation and background were held constant. The
+photograph of the infant was taken at the laboratory prior to the testing in a studio, matching face size,
+body angle and background to the pictures of their age-matched peers.
+
+The selection of toys was based upon previously established categories of sex-differentiated preference
+(Berenbaum & Snyder, 1995; Caldera et al., 1989; Carter & Levy, 1988; Coker, 1984; Edelbrock &
+Sugawara, 1978; Eisenberg-Berg, Boothby, & Matson, 1979; Emmerich & Shepard, 1982; Fagot, 1984,
+1985; Fagot & Leinbach, 1989; Huston, 1985; Martin & Little, 1990; Miller, 1987). Female-typical toys
+were doll, oven, dustpan and brush, pram and toaster. Male-typical toys were ball, steering wheel, train,
+cars and blocks. The selection of activities was based upon play styles previously established to be sex
+differentiated (Fagot, 1984, 1985; Fagot & Leinbach, 1989; Green, Neuberg, & Finch, 1983;
+Humphreys & Smith, 1984; Strayer & Strayer, 1976). Male-typical activities were chasing, climbing,
+wrestling, cowboys and jumping and the female-typical activities were doll play, pat-a-cake, whispering,
+drawing and telephones. All activities were performed by two boys (for viewing by male participants )
+and two girls (for viewing by female participants ) aged between 6 and 7 years.
+
+Coding
+
+Coding of each series of stimuli began with the first frame in which the stimuli appeared and ceased
+when the stimuli disappeared from the screen. Directional durations of looking times were calculated in
+frames and transposed to milliseconds (40 frames = 1 ms). To establish inter-judge reliability, the
+videotapes of six infants’ performance on all trials were coded by two scorers. Intra-class correlations
+between the two scorers were .98 for on-target looking at either stimuli, .95 for left look duration and
+.94 for right look duration. There was complete inter-judge agreement on performance in the rouge task
+(k = 1.00). In the following analyses, because a shorter exposure time was used at age 18 months,
+durations for same-sex looking and opposite-sex looking were each divided by the total exposure time
+used at that age in order to achieve comparability between the three ages of testing.
+
+Infants’ preference for sex-congruency
+
+487
+
+Results
+
+Before beginning the substantive analysis, the author checked whether there were
+significant differences between each of the eight groups who had received different sides
+and orders of pairwise presentation. This was done by two-way analyses of variance
+(ANOVA) of group membership (8) and sex-congruent/sex-incongruent (2) duration of
+looking for each of the four domains and for the self-recognition trial at every age of
+testing. There were no significant effects of side and order. Visual preference for self or
+other was not affected by side of presentation. To check for a domain order effect, the
+three groups (who had viewed the domains in different orders) were compared for each of
+the four domains at each time period. There were no significant effects of order of
+domain.
+
+Sex-congruent preference and age
+In each of the four domains (baby faces, child faces, activities and toys), a 2 6 3 repeated
+measure ANOVA investigating the effect of sex-typing of photograph (same sex and
+opposite sex) and age (3, 9 and 18 months). Greenhouse–Geisser corrections for
+sphericity were made where appropriate. Sex of
+infant was not included as an
+independent variable in the initial analysis on two grounds. At a theoretical level,
+gender schema makes no prediction of sex differences in the acquisition of sex-congruent
+preferences and hence the authors were not in a position to offer a priori hypotheses
+about main or interactive effects of infant sex. At a statistical level, the introduction of a
+third independent variable raises the probability of spurious two- and three-way
+interactions, especially where the analysis is conducted separately for each of the four
+domains. Where a significant main effect of sex-congruent preference was found, the
+analysis for boys and girls was repeated separately. Note that the correction for exposure
+time of the stimuli means that same-sex and opposite-sex looking times are expressed as
+proportion of total time available for looking (see Table 1). In all the analyses, age of
+testing exerted a significant impact upon total proportion of exposure time spent
+looking at both targets. In each case, the pattern is curvilinear with a decrease in
+proportion of looking time on target between 3 and 9 months and an increase between 9
+and 18 months. Because the time available was halved at 18 months, this pattern of
+rising values at the oldest age most likely reflects the shorter exposure time used. For
+this reason, for each analysis, the authors begin by noting the main effects of age where
+they are present but do not present results of post-hoc tests, as these may be misleading.
+
+Self–other preference. A 3 6 2 ANOVA was conducted to examine self–other preference as
+a function of age. The effect of age was significant (F(2,84) = 6.34, p < .01). There was
+no significant difference in looking duration at photographs of self vs. same-sex peer.
+There was no significant interaction between photo preference and age. Thus there is no
+evidence that infants recognized themselves from photographs over the ages tested.
+
+On the rouge test, none of the infants at 9 months demonstrated self-recognition or
+prompted self-recognition. At 18 months, 52 children participated in the test. Of these,
+35 (67%) showed spontaneous self-recognition (16 females and 19 males). Three of the
+children (6%) showed prompted self-recognition (one female and two males). Fourteen
+
+488
+
+Anne Campbell et al.
+
+Table 1. Mean proportions (and standard deviations) of exposure time spent looking at
+gender-congruent and gender-incongruent stimuli by domain, age and sex of infant
+
+3 months
+
+9 months
+
+18 months
+
+Total
+
+M
+
+F
+
+Total
+
+M
+
+F
+
+Total
+
+M
+
+F
+
+.34 (.28) .36 (.27) .30 (.30) .33 (.16) .35 (.17) .30 (.14) .38 (.17) .35 (.15) .43 (.18)
+Self preference
+.37 (.28) .34 (.27) .42 (.30) .25 (.11) .25 (.11) .25 (.12) .32 (.15) .34 (.16) .29 (.14)
+Other preference
+.47 (.17) .51 (.15) .41 (.19) .27 (.07) .28 (.07) .25 (.05) .33 (.09) .33 (.11) .32 (.07)
+Same-sex baby
+.43 (.18) .39 (.17) .47 (.18) .27 (.07) .28 (.07) .27 (.08) .34 (.09) .30 (.08) .40 (.08)
+Opposite sex baby
+.41 (.18) .41 (.22) .42 (.13) .29 (.08) .30 (.08) .28 (.10) .33 (.08) .31 (.08) .36 (.07)
+Same-sex child
+.41 (.19) .44 (.22) .36 (.15) .29 (.09) .30 (.10) .26 (.08) .33 (.09) .32 (.09) .36 (.10)
+Opposite-sex child
+.57 (.23) .63 (.17) .35 (.23) .33 (.19) .45 (.15) .16 (.05) .48 (.24) .63 (.15) .26 (.19)
+Sex-congruent activity
+Sex-incongruent activity .40 (.24) .27 (.18) .61 (.18) .33 (.15) .24 (.10) .48 (.09) .30 (.21) .16 (.06) .53 (.17)
+.36 (.12) .36 (.12) .37 (.13) .30 (.10) .32 (.10) .27 (.09) .45 (.11) .46 (.11) .43 (.11)
+Sex congruent toy
+Sex incongruent toy
+.37 (.12) .41 (.11) .32 (.10) .27 (.09) .27 (.07) .28 (.09) .38 (.09) .36 (.09) .42 (.09)
+
+children (27%) showed no evidence of self-recognition. The sex difference in self-
+recognition performance was not significant.
+
+Baby faces. Again there was a main effect of age on duration of looking (F(2,96) = 38.08,
+p < .001). The main effect of sex of baby face photographs was not significant. The age
+by baby face interaction approached significance (F(2,96) = 2.96, p < .06). At 3
+months, preference for same-sex photos was marginally significant (F(1,56) = 2.97,
+p < .09), although not at 9 and 18 months. However, inspection of the means for males
+and females revealed that both sexes showed a preference for male rather than female
+faces. This was highly significant for males (F(1,33) = 9.98, p < .003), but was not
+significant for females.
+Child faces. The only significant effect was age of participant on total
+(F(2,92) = 14.75, p < .001).
+Activities. The effect of age on total looking time was significant (F(2,82) = 34.96,
+p < .001). There was a marginally significant preference for sex-congruent activities
+(F(1,41) = 3.92, p < .06). The interaction of sex-congruent activity and age was also
+significant (F(2,82) = 5.67, p < .01). Sex congruent preference was evident but not
+significant at 3 and 9 months, but was significant at 18 months (F(1,63) = 4.97,
+p < .05). The sample was split by sex to examine whether the sex-congruent preference
+was equally strong for boys and girls.
+
+looking
+
+Boys
+
+showed a strong main effect of
+
+sex-congruent activity preference
+(F(1,25) = 169.57, p < .001) as well as a main effect of age (F(2,50) = 16.60,
+p < .001). The age 6 activity preference interaction was also significant
+(F(2,50) = 7.92, p < .001). For boys the sex-congruent preference became increasingly
+significant at each age tested (3 months: F(1,30) = 54.63, p < .001; 9 months:
+F(1,35) = 58.09, p < .001; 18 months: F(1,28) = 163.36, p < .001).
+
+Analysis of the girls’ data indicated a significant effect of activity preference
+(F(1,15) = 37.08, p < .001), but examination of
+this
+preference was in the direction of a preference for masculine activities. There was also
+
+indicated that
+
+the means
+
+Infants’ preference for sex-congruency
+
+489
+
+a significant effect of age (F(2,30) = 37.08, p < .001). The interaction term was not
+significant.
+
+To examine whether the preference for masculine activities was equally strong in boys
+and girls, a two-way ANOVA (three ages of testing 6 sex of infant) was performed with
+masculine activity preference as the dependent variable. This was computed by
+subtracting looking duration at feminine activities from looking duration at masculine
+activities. The age effect was not significant. The main effect of sex was marginally
+significant (F(1,40) = 3.87, p < .06) with males looking longer at masculine activities
+than females. The age 6 sex interaction was also significant (F(2,80) = 4.70), p < .05).
+At 3 months (F(1,53) = 3.98, p < .06) and at 18 months (F(1,47) = 10.81, p < .01)
+males’ preference for masculine activities was significantly stronger than females.
+Although in the same direction, the greater male preference for masculine acts was not
+significant at 9 months.
+
+Toys. Age of child exerted an impact on total looking duration (F(2,94) = 43.04,
+p < .001). Preference for sex-congruent toys was significant (F(1,47) = 4.45, p < .05).
+The age 6 toy preference interaction was also significant (F(2,94) = 4.13, p < .05).
+Sex-congruent toy preference was not significant at 3 months, but was significant at
+9 months (F(1,56) = 3.87, p < .06) and at 18 months (F(1,55) = 12.55, p < .001).
+
+(F(1,28) = 3.67, p < .06). The sex-congruent
+
+The analysis was performed again on boys only. Again, looking times varied with age
+(F(2,56) = 22.32, p < .001). The main effect of
+toy preference was marginally
+toy preference 6 age
+significant
+interaction was also significant (F(2,56) = 11.83, p < .001). At 3 months boys showed
+no significant preference, but at ages 9 (F(1,33) = 8.54, p < .001) and 18
+(F(1,31) = 13.61, p < .001) months they displayed a significant preference for sex-
+congruent toys.
+
+For girls, looking times varied with age (F(2,36) = 23.62, p < .001) but there was no
+main effect of toy stimulus and no significant interaction between toy preference and
+age.
+
+Self-recognition and sex-typed preference
+
+In order to examine whether self-recognition was associated with greater sex-congruent
+preference, participants at each age were dichotomized according to whether they
+displayed preference for self or for other same-sex peer on the visual preference task. A
+two-way (self/other preference and sex-congruent/sex-incongruent duration of gaze)
+ANOVA was then performed for each of the domains at each age. The results were
+uniformly negative. There is no significant difference between infants who show self
+rather than other preference with respect to differential gaze in any of the domains at any
+age.
+
+The authors then examined whether mirror self-recognition was associated with sex-
+typed preferences at 18 months. Because of the small number of participants showing
+prompted self-recognition, these participants were re-allocated to the category of no self-
+recognition. A series of five 2 6 2 ANOVAs was then performed with self-recognition
+and sex-congruent preference in the domains of toys, activities, baby faces, child faces
+and self preference as the two independent variables. None of these tests was significant.
+
+490
+
+Anne Campbell et al.
+
+When the prompted self-recognition children were reclassified as self-recognizers, the
+results remained insignificant.
+
+Regression analysis
+
+To this point we have addressed the question of whether infants show a significant
+preference for sex-congruent compared with sex-incongruent stimuli and whether this
+changes as a function of domain and age. In this portion of the results the sex-preference
+variable (computed by subtracting gender-incongruent proportion of looking from
+gender-congruent proportion of looking for each domain and every age) is used as an
+interval level measurement of the child’s relative preference for sex-congruent stimuli.
+This measure was first used to examine preference stability between testing periods.
+The results of these zero-order correlations are presented in Table 2. For baby face, child
+face and toy preference, the correlations between ages 3 and 9 months were not
+significant, while those between 9 and 18 months were all significant, suggesting
+increasing (if modest) stability at later ages. Activity preference showed the same
+increase in the magnitude of the correlations with age, but here the values were much
+larger, suggesting considerable stability in infants’ preference for high vs. low velocity
+movement. Sex of infant was treated as a dummy variable and maleness was associated
+with a significant tendency to prefer same-sex baby faces at 3 and 18 months and a very
+marked tendency to prefer sex-congruent activities at all ages tested.
+
+Table 2. Zero-order correlations of sex-congruent preferences between ages and with sex
+of infant by domain
+
+Baby
+
+Child faces Toys faces Activities
+
+Ages 3 & 18 months
+.29*
+Ages 3 & 9 months
+.06
+Ages 9 & 18 months
+.29*
+Infant sexa & 3 month preference 7.36**
+Infant sexa & 9 month preference 7.14
+Infant sexa & 18 month preference 7.53***
+
+.04
+.29*
+.29*
+.27*
+.12
+.01
+
+7.13
+.64***
+.03
+.68***
+.29*
+.72***
+.32* 7.74***
+7.29* 7.87***
+7.15
+7.85***
+
+* p < .05; **p < .01; ***p < .001.
+a male = 0, female = 1.
+
+The question then posed was: What is the best predictor of a child’s sex-congruent
+preference at age 18 months? To answer this, hierarchical multiple regression analyses
+were used in which the entry of variables to the model was specified according to the
+magnitude of their zero-order correlations with sex preference at 18 months reported in
+Table 2. For baby face preference, sex as the first-entered variable had an adjusted R2 of
+.297 (b = 7.558, t = 74.61, p < .001). The addition of sex-congruent preference at
+age 9 months made a non-significant contribution and increased the R2 to .314. For
+child face preference, the first-entered variable was child face preference at 9 months but
+which explained only .06% of the variance and which was non-significant. For activity
+t = 79.74,
+preference, sex alone produced an adjusted R2 of
+
+.696 (b = 7.839,
+
+Infants’ preference for sex-congruency
+
+491
+
+p < .001), with activity preference at 9 months making no significant contribution to
+explained variance.
+(Recall that the prior ANOVA indicated both sexes preferred
+masculine activities; the significance of sex found in this regression is a function of the
+relatively greater preference by boys.)
+
+For toy preference at 18 months, the infants’ preference at 9 months was the first-
+entered variable. The adjusted R2 was .118 (b = .370, t = 2.70, p < .01) and further
+variables made no significant contribution to the model. In summary, for baby face
+preference and activity preference, the best predictor was simply the sex of the child.
+This showed a stronger relationship to sex-congruent preference than either of the
+preceding preference variables from that domain. In the case of activity preference, this
+effect was particularly marked with sex of infant accounting for 70% of the variance in
+sex congruent preference at 18 months. In the case of toy preference, the best predictor
+was toy preference measured at 9 months.
+
+Although the above analyses can assist in understanding the direction and strength of
+the relationship between variables over time, they do not directly address a simple,
+categorical developmental question: Do infants show an orderly progression toward sex-
+congruent preference over age? Given that infants were tested at three ages, measures of
+sex preference allow one to ask whether the majority of infants show an orderly pattern
+of sex-congruent preference with increasing age. Where 1 is designated as sex-congruent
+preference and 0 is designated as sex-incongruent preference, one can establish the
+number of children that show an orderly sequence across the three testing ages (000,
+001, 011, 111) and those that show a disorderly sequence. The results of this analysis are
+given in Table 3. A one-way chi-square statistic was computed comparing the frequency
+of infants characterized by orderly and disorderly sequences in each domain. For self-
+recognition, baby face and child face preference, there was no significant tendency for
+infants to follow an orderly sequence. For activity and toy preference, however, the
+frequency of infants showing an ordered preference was significantly above chance. In
+both cases, the majority of ‘ordered’ infants showed a pattern of either sex-congruent
+preference at all ages tested or acquisition of a sex-congruent preference by the age of
+9 months.
+
+Table 3. Patterns of ordered and disordered sex-congruent development by domain
+
+Sequence
+
+Domain
+
+000
+
+001
+
+011
+
+111
+
+Ordered
+
+cases
+
+Disordered
+
+cases
+
+w
+
+2
+
+Self
+Baby faces
+Child faces
+Activities
+Toys
+
+2
+9
+5
+4
+12
+
+4
+2
+3
+6
+2
+
+13
+6
+5
+14
+1
+
+6
+11
+6
+11
+22
+
+25
+28
+19
+35
+37
+
+19
+21
+29
+13
+5
+
+n.s.
+n.s.
+n.s.
+
+11.08 (p < .01)
+24.38 (p < .01)
+
+492
+
+Anne Campbell et al.
+
+Correlations between domains
+
+The same preference measure was used to examine the degree of cross-domain gender
+congruent preference. This entailed computing 10 correlations for each of the three ages
+of testing. There were a total of three significant correlations (a number not exceeding
+chance), of which one was negative. The significant correlations were: baby face
+preference and activity preference at 3 months (r = .47, p < .001); baby face and child
+face preference at 9 months (r = 7.29, p < .05); and self and child face preference at
+9 months (r = .37, p < .01).
+
+Discussion
+
+Infants even by the age of 18 months do not show evidence of self-recognition when
+measured by visual preference. If infants do recognize themselves, it is not evident in any
+significant tendency to look longer at their own image. Furthermore, differential
+looking to self and other is highly unstable over the age range tested (whether assessed
+by cross-age correlations or by the frequency of disorderly sequences) and, regardless of
+age tested, self-preference is unrelated to sex-congruent preferences in any of the other
+domains. The visual preference measure (at 18 months) is unrelated to the child’s
+performance on the rouge task and success on this latter
+task is unrelated to
+contemporaneous measures of sex-congruent preference. This suggests that sex-typed toy
+preference and the greater male preference for masculine activities is unlikely to be a
+function of gender schematic processing and is more likely to arise from low-level
+features of the stimuli that are differentially interesting or pleasurable to male and
+female infants (Benenson et al., 1997; Freedman, 1974).
+
+Despite tantalizing hints in past studies of same-sex peer preference among 16–18-
+month-old infants, the present study was unable to replicate this effect. There was a
+marginally significant preference in this direction at age 3 months, but this was not
+carried forward to later ages and it is precisely at these later ages that one would have
+expected to see the preference emerge. Because the authors were interested in peer
+preference, the infants viewed different photographs at each age (following Lewis &
+Brooks-Gunn’s (1979) design) and it is therefore possible that the male and female
+photographs were more clearly discriminable by sex at age 3 months than at later ages.
+However, this seems unlikely since gender-discriminating cues were more evident in
+pictures of 18-month-olds than of 3-month-olds, yet at this age no same-sex preference
+was evident. Indeed when infants viewed photographs of 5-year-old children (in which
+gender cues are particularly clear ), they also displayed no significant preference. It is
+concluded that even when gender discriminating cues are available, infants at 9 and 18
+months show no discernible preference for their own sex. It seems highly unlikely that
+this is a result of failure to discriminate between the sexes since previous studies have
+demonstrated that infants display much subtler discriminations such as between
+unknown adults chosen for featural similarity (Barrera & Maurer, 1981) and between
+attractive and unattractive faces (Langlois, Roggman, & Rieser-Danner, 1990; Samuels
+& Ewy, 1985). If infants respond to attractiveness in baby faces as well as adult faces,
+then the same-sex preference at 3 months may have been the result of the male
+photographs being more attractive than those of the females. The secondary analysis
+indeed suggested that both sexes showed a preference for the male faces (although not
+
+Infants’ preference for sex-congruency
+
+493
+
+significantly so for girls), which tends to support such a suggestion. Further work
+examining whether infant preference for attractive faces extends to other infants as well
+as adults is clearly needed.
+
+In the present study, infants saw same-sex older children engaged in male-typical and
+female-typical activities. The activities differed chiefly in the amount of gross motor
+activity involved. The results indicate that both sexes show a preference for masculine
+activities. High propulsion gross motor activity seems to be inherently more interesting
+than more restrained motion to infants of both sexes. This may be a visual analogue of
+the reflexive tendency to orient to fast movement as indicative of potential danger – in
+the same way that young infants seek to avoid ‘looming’ objects (Nanez & Yonas, 1994).
+The stronger male preference for high activity movement emerges from the between-sex
+analysis of variance results, but is especially clear in the multiple regression analysis
+where sex alone accounted for 70% of the variance in activity preference at the age of
+18 months. Male preference becomes increasingly significant at each age of testing,
+while in females this preference does not show age variation.
+
+Kujawksi and Bower (1993), using movement cues alone, with type of activity
+(running) held constant,
+found same-sex preference at ages 10–14 months. They
+interpreted this finding as indicating high level coding in which the infant must
+integrate visual information from the infant actor and proprioceptive information about
+his or her own movements in order to discriminate the sex of actor and show a same-sex
+preference. The authors do not indicate whether all of their participants were able to run
+at the time of testing and so this conclusion remains speculative. The present data
+suggest that before the participants were able to walk (at ages 3 and 9 months) there was
+a clear preference for locomotor motion, and that this preference was greater among
+males than among females. However, the sex difference in magnitude of preference
+became most marked after the participants were mobile at 18 months. This seems to
+support Kujawksi and Bower’s suggestion that the matching of proprioceptive and
+visual
+information informs discrimination and preference, but that preference is
+apparent before proprioceptive cues are available.
+
+A further noteworthy point is the stability of the activity preference over time.
+Unlike the other domains, the stability was of the order of .70 between testing ages,
+indicating that whatever is driving the preference remains relatively constant from age
+3–18 months. This was also reflected by the fact that the majority of infants show a clear
+orderly sequence in their acquisition of this preference. It is here suggested that the
+constancy may derive from differences in orienting and attentional processes to fast-
+moving and therefore potentially dangerous stimuli. In short, it may be a measure of
+wariness or sensitivity to environmental perturbation. It would be interesting to
+examine this early-appearing and consistent response in the context of temperamental
+differences and mother–infant attachment, as well as in the context of sex differences in
+stimulation-seeking or fear.
+
+Prior behavioural studies have found that toys are a domain in which sex-typed
+preference appears very early. They have been reported at 14 months and younger
+(Caldera et al., 1989; Roopnarine, 1986). This is the first time that this early appearing
+preference has been examined using visual preference. The present data confirm that
+there is a clear sex-congruent preference for toys and that this is evident by 9 months of
+age. Decomposing the sample by sex, it appeared that sex-congruent toy choice was
+
+494
+
+Anne Campbell et al.
+
+evident in the male, but not the female, sample and that the effect is again significant
+from the age of 9 months. By 18 months girls had also begun to show a non-significant
+tendency to prefer same-sex toys. To examine whether the failure to achieve significance
+might be a function of the smaller female sample size, the effect sizes for both sexes were
+captured at 18 months. The value for boys was d = 1.02, while for girls it was 0.13;
+sample size would be unlikely to explain such a very marked discrepancy.
+
+The early onset of toy preference is problematic for gender schema theory on two
+counts. The infant’s first cognitive task is to discriminate between the sexes and only
+after that is he or she able to turn his or her attention to the objects in the environment
+that are preferred by one sex or the other. Hence, toy preference would be expected to be
+the last domain to show sex differentiation. It is also problematic because past studies
+suggest that toy preferences are not conditional on knowing for which sex a given toy is
+appropriate. In the present study also, infants show toy preference without showing
+evidence of self-recognition or preferences for same-sex babies or children. If infant
+preferences are not driven by gender schema, then what are they based upon? One
+answer may lie in the toy’ ‘affordances’ – that is, the type of play activity that the toy
+affords to the child. Dolls afford the expression of nurturance, while trucks afford
+movement. Miller (1987) asked adult raters to compare male- and female-typed toys
+along a number of dimensions. She found that female-typical toys were judged more
+aesthetically attractive and afforded more opportunity for removal and replacement of
+parts, creativity and nurturance, while male-typed toys afforded greater opportunity for
+sociability, competition, aggression, symbolic play, handling, and construction of new
+forms. Nine-month-old infants may not have had the opportunity (or possess the
+manual dexterity) to realize such affordances behaviourally. If so, then these affordances
+must exist
+than as memories of past
+experiences. In more concrete terms, empirical work is needed to establish what are the
+low level properties (e.g. wheels, facial features, texture, size) which are differentially
+attractive to male and female infants.
+
+representational
+
+in potential
+
+form rather
+
+The longitudinal and cross-domain design of the study makes it more comprehensive
+in scope than previous cross-sectional studies. The data suggest that there is little
+evidence for preferences as early as 3 months. By 9 months, however, preferences are
+beginning to emerge in the domains of activities and toys. Between this age and
+18 months there is correlational evidence of significant temporal stability of these
+preferences which is confirmed by the analysis of orderly and disorderly sequences of
+development. There is, however, no evidence of age-specific cross-domain consistency in
+sex-typed preference and this is in line with results from older preschool children. In
+short, and to echo Mischel (1968), though some preferences may be trait-like in their
+temporal stability, they are situational in their specificity to a particular domain. As
+Maccoby and Jacklin (1987) noted, group level differences between the preferences of
+boys and girls may not necessarily reflect individual-level consistency in sex-congruent
+choice. Those boys who show a significantly greater preference for high velocity
+movement may not be the same boys who show a preference for sex-congruent toys.
+
+In any study of visual preference, one must be cautious in extrapolating to later
+behavioural differences between the sexes. Behavioural sex differences may arise from
+direct experience and engagement rather than from the more limited cues available from
+visual inspection alone. With respect to activity levels, for example, sex differences may
+
+Infants’ preference for sex-congruency
+
+495
+
+be a function of proprioceptive feedback from gross motor behaviour being more
+pleasurable to boys than to girls, while early visual preferences may reflect the visually
+compelling element of fast motion. Toy preferences may arise from boys and girls
+responding more or less favorably to the kinds of activities that are afforded by trucks vs.
+dolls rather than to the visual properties of the two types of stimuli. Peer preference may
+depend upon experiencing the different interpersonal styles of boys and girls (and
+developing a liking for one more than the other) rather than on the different appearance
+of the two sexes (Maccoby & Jacklin, 1987). Casual observation suggests that the
+behavioural and visual preference may be linked: boys not only like to play football, they
+also (admittedly to a lesser extent) like to watch football. Girls like to play with dolls
+and also to attend to doll adverts on television. Further examination of the ordering of
+the visual and behavioural preferences would be desirable. Gender schema theory would
+suggest that viewing preferences precede behavioural preferences because salient sex-
+typed information from the social environment is used to inform behavioural preference.
+However, if behavioural preferences were found to precede viewing preference, it would
+suggest
+feedback from direct
+engagement in sex-typed activities.
+
+sex differences are mediated by differential
+
+that
+
+The present study suggests that gender schema requires further specification in a
+number of areas. First, the central role of knowledge of one’s own sex must be
+acknowledged and if this is proposed to appear at a preverbal level, innovative ways of
+accessing it must be developed. Secondly, the present study as well as others have
+indicated that sex-congruent choices can appear before the child has knowledge of his or
+her own sex. Further attention needs to be accorded to the low-level features of stimuli
+that make them differentially interesting to each sex and some theoretical model
+proposed of how such preferences are mediated. Finally, gender schema theory needs to
+formulate a clearer set of predictions about sex-congruent choice over domains and over
+age. As originally presented (Martin & Halverson, 1981), the expectation is that once
+the schema is in place, sex-congruent choices should emerge simultaneously in many
+domains. Clearly they do not, and it remains unclear why toys and activities elicit very
+early differential attention by male and female infants when more obviously sex-typed
+stimuli, such as faces, do not.
+
+The authors thank the Economic and Social Research Council who funded this work through grant
+R000236735. They are grateful to Steven Muncer and Robert Kentridge for advice on data analysis.
+
+Acknowledgements
+
+References
+
+Amsterdam, B. (1972). Mirror self-image reactions before age two. Developmental Psychobiology, 5, 297–
+
+305.
+
+Bahrick, L. E., Moss, L., & Fadil, C. (1996 ). Development of self-recognition in infancy. Ecological
+
+Psychology, 8, 189–208.
+
+Barrera, M. E., & Maurer, D. (1981). Discrimination of strangers by the three-month-old. Child
+
+Development, 52, 558–563.
+
+Bem, S. (1981). Gender schema theory: A cognitive account of sex typing. Psychological Review, 88, 354–
+
+364.
+
+Benenson, J. F., Liroff, E. R., Pascal, S. J., & Cioppa, G. D. (1997). Propulsion: A behavioural expression
+
+of masculinity. British Journal of Developmental Psychology, 15, 37–50.
+
+496
+
+Anne Campbell et al.
+
+Berenbaum, S. A., & Snyder, E. (1995). Early hormonal influences on childhood sex-typed activity and
+playmate preferences: Implications for the development of sexual orientation. Developmental Psychology,
+31, 31–42.
+
+Bertenthal, B. I., & Fischer, K. W.
+Developmental Psychology, 14, 44–50.
+
+(1978). The development of self-recognition in the infant.
+
+Bigelow, A. E. (1981). The correspondence between self- and image movements as a cue to self-
+
+recognition in young children. Journal of Genetic Psychology, 139, 11–26.
+
+Blakemore, J., LaRue, A., & Olejnik, A. (1979). Sex-appropriate toy preference and the ability to
+
+conceptualise toys as sex role related. Developmental Psychology, 15, 339–340.
+
+Bremner, J. G. (1994). Infancy (2nd ed.). Oxford: Blackwell.
+Brooks, J., & Lewis, M. (1974). Attachment behavior in thirteen-month-old, opposite sex twins. Child
+
+Development, 45, 243–247.
+
+Bullock, M., & Lutkenhaus, P. (1990). Who am I? Self understanding in toddlers. Merrill-Palmer
+
+Quarterly, 36, 217–238.
+
+Caldera, Y., Huston, A., & O’Brien, M. (1989 ). Social interactions and play patterns of parents and
+
+toddlers with feminine, masculine and neutral toys. Child Development, 60, 70–76.
+
+Carter, D. B., & Levy, G. D. (1988). Cognitive aspects of children’s early sex role development: The
+influence of gender schemas on preschool memories and preferences for sex-typed toys and activities.
+Child Development, 59, 782–793.
+
+Coker, D. R. (1984). The relationships among gender concepts and cognitive maturity in preschool
+
+children. Sex Roles, 10, 19–31.
+
+Eaton, W. O., & Enns, L. R. (1986). Sex differences in human motor activity level. Psychological Bulletin,
+
+Edelbrock, C., & Sugawara, A. I. (1978). Acquisition of sex-typed preferences in preschool-aged children.
+
+100, 19–28.
+
+Developmental Psychology, 14, 614–623.
+
+Eisenberg-Berg, N., Boothby, R., & Matson, T. (1979). Correlates of preschool girls’ feminine and
+
+masculine toy preferences. Developmental Psychology, 15, 354–355.
+
+Emmerich, W., & Shepard, K. (1982). Development of sex-differentiated preferences during late
+
+childhood and adolescence. Developmental Psychology, 14, 614–623.
+
+Etaugh, C., Grinnell, K., & Etaugh, A. (1989). Development of gender labeling: Effects of age of
+
+pictured children. Sex Roles, 21, 769–773.
+
+Fagot, B. (1984). Teacher and peer reactions to boys’ and girls’ play styles. Sex Roles, 11, 691–702.
+Fagot, B. (1985). Changes in thinking about early sex role development. Developmental Review, 5, 83–98.
+Fagot, B., & Leinbach, M. (1989). The young child’s gender schema: Environmental input, internal
+
+organisation. Child Development, 60, 663–672.
+
+Fagot, B., Leinbach, M., & Hagan, R. (1986). Gender labeling and the adoption of sex-typed behaviours.
+
+Developmental Psychology, 22, 440–443.
+
+Freedman, D. (1974). Human infancy: An evolutionary perspective. Hillsdale, NJ: Erlbaum.
+Gelman, S. A., Collman, P., & Maccoby, E. E. (1986). Inferring properties from categories versus
+
+inferring categories from properties. Child Development, 57, 396–404.
+
+Goldberg, S., & Lewis, M. (1969). Play behaviour in the year-old infant: Early sex differences. Child
+
+Development, 40, 21–31.
+
+Green, R., Neuberg, D. S., & Finch, S. J. (1983 ). Sex-typed motor behaviours of ‘feminine’ boys,
+
+conventionally masculine boys and conventionally feminine girls. Sex Roles, 9, 573–579.
+
+Haugh, S. S., Hoffman, C. D., & Cowan, G. (1980). The eye of the very young beholder: Sex typing of
+
+infants by young children. Child Development, 51, 598–600.
+
+Hoyenga, K. B., & Hoyenga, K. T. (1993). Gender-related differences. Boston: Allyn and Bacon.
+Humphreys, A. P., & Smith, P. K. (1984). Rough-and-tumble in preschool and playground. In P. K.
+
+Smith (Ed.), Play in animals and humans (pp. 241–270). Oxford: Basil Blackwell.
+
+Huston, A. (1983). Sex typing. In P. Mussen & M. Hetherington (Eds. ), Handbook of child psychology: Vol.
+
+4. Socialisation, personality and social behavior (pp. 388–467). New York: Wiley.
+
+Huston, A. (1985 ). The development of sex typing: Themes from recent research. Development Review, 5,
+
+1–7.
+
+Johnson, D. B. (1983). Self-recognition in infants. Infant Behavior and Development, 6, 211–222.
+
+Infants’ preference for sex-congruency
+
+497
+
+Kagan, J., & Lewis, M. (1965). Studies of attention in the human infant. Merrill-Palmer Quarterly, 11,
+
+95–127.
+
+Kohlberg, L. (1966). A cognitive-developmental analysis of children’s sex role concepts attitudes. In E.
+Maccoby (Ed.), The development of sex differences (pp. 82–173). Stanford, CA: Stanford University Press.
+Kohnstamm, G.A., Bates, J. E., & Rothbart, M. K. (Eds.) (1989). Temperament in childhood. Chichester:
+
+Wiley.
+
+Kujawski, J. H., & Bower, T. G. R. (1993). Same-sex preferential looking during infancy as a function of
+
+abstract representation. British Journal of Developmental Psychology, 11, 201–209.
+
+Langlois, J. H., Roggman, L. A., & Rieser-Danner, L. A. (1990 ). Infants differential social responses to
+
+attractive and unattractive faces. Developmental Psychology, 26, 153–159.
+
+Leinbach, M. D., & Fagot, B. I. (1993 ). Categorical habituation to male and female faces: Gender
+
+schematic processing in infancy. Infant Behavior and Development, 16, 317–332.
+
+Lewis, M., & Brooks, J. (1975). Infants’ social perception: A constructivist view. In L. Cohen & P.
+Salapatek (Eds. ), Infant perception: From sensation to cognition: Vol. 2. Perception of space, speech and sound
+(pp. 101–148). New York: Academic Press.
+
+Lewis, M., & Brooks-Gunn, J. (1979). Social cognition and the acquisition of self. New York: Plenum.
+Loveland, K. A.
+
+(1987 ). Behavior of young children with Down’s syndrome before the mirror:
+
+Exploration. Child Development, 58, 768–778.
+
+Maccoby, E. E., & Jacklin, C. N. (1987). Gender segregation in childhood. In H. Reese (Ed.), Advances in
+
+child development Vol. 20, (pp. 239–287). New York: Academic Press.
+
+Martin, C. L.
+
+(1989). Children’s use of gender-related information in making social
+
+judgments.
+
+Developmental Psychology, 25, 80–88.
+
+Martin, C. L., & Halverson, C. F. (1981). A schematic processing model of sex-typing and stereotyping
+
+in children. Child Development, 52, 1119–1134.
+
+Martin, C. L., & Little, J. K. (1990). The relation of gender understanding to children’s sex-typed
+
+preferences and gender stereotypes. Child Development, 61, 1891–1904.
+
+Martin, C. L., & Ruble, D. N. (1997). A developmental perspective on self-construals and sex differences:
+
+Comment on Cross and Madison (1997). Psychological Bulletin, 122, 45–50.
+
+Messer, S. B., & Lewis, M. (1972). Social class and sex differences in the attachment and play behavior of
+
+the one-year-old infant. Merrill-Palmer Quarterly, 18, 295–306.
+
+Miller, C. L. (1987). Qualitative differences among gender-stereotyped toys: Implications for cognitive
+
+and social development. Sex Roles, 16(9/10), 473–487.
+
+Mischel, W. (1968). Personality and assessment. New York: Wiley.
+Nanez, J. E., & Yonas, A. (1994). Effects of luminance and texture motion on infant defensive reactions
+
+to optical collision. Infant Behavior and Development, 17, 165–174.
+
+Perry, D., White, A., & Perry, L. (1984). Does early sex-typing result from children’s attempts to match
+
+their behavior to sex role stereotypes? Child Development, 55, 2114–2121.
+
+Poulin-Dubois, D., Serbin, L., Kenyon, B., & Derbyshire, A. (1994). Infants intermodal knowledge
+
+about gender. Developmental Psychology, 30, 436–442.
+
+Robinson, J. A., Connell, S., McKenzie, B. E., & Day, R. H. (1990 ). Do infants use their own images to
+
+locate objects reflected in a mirror? Child Development, 61, 1558–1568.
+
+Roopnarine, J.L.
+
+(1986). Mothers’ and fathers’ behaviors toward the toy play of
+
+infant sons and
+
+daughters. Sex Roles, 14, 59–68.
+
+Ruble, D. N., & Martin, C. L. (1998). Gender development. In W. Damon & N. Eisenberg (Eds. ),
+Handbook of child psychology: Vol. 3. Social, emotional and personality development (pp. 933–1016). New
+York: John Wiley.
+
+Ruble, D. N., & Stangor, C. (1986). Stalking the elusive schema: Insights from developmental and
+
+social-psychological analyses of gender schema. Social Cognition, 4, 227–261.
+
+Samuels, C. A., & Ewy, R. (1985). Aesthetic perception of faces during infancy. British Journal of
+
+Developmental Psychology, 3, 221–228.
+
+Spelke, E. E. (1985). Preferential looking methods as tools for the study of cognition in infancy. In G.
+Gottlieb & N. A. Krasnegor (Eds. ), Measurement of audition and vision in the first year of postnatal life: A
+methodological handbook (pp. 323–364). Norwood, NJ: Ablex.
+
+Stangor, C., & Ruble, D. N. (1987). Development of gender role knowledge and gender constancy. In L.
+S. Liben & M. L. Signorella (Eds. ), Children’s gender schemata (pp. 5–22). San Francisco: Jossey Bass.
+
+498
+
+Anne Campbell et al.
+
+Strayer, F. F., & Strayer, J. (1976). An ethological analysis of social agonism and dominance relations
+
+among preschool children. Child Development, 47, 980–989.
+
+Turner, P. J., Gervai, J., & Hinde, R. A. (1993). Gender-typing in young children: Preferences,
+
+behaviour and cultural differences. British Journal of Developmental Psychology, 11, 323–341.
+
+Wagner, S., Winner, E., Cicchetti, D., & Gardner, H. (1981). ‘Metaphorical’ mapping in human infants.
+
+Child Development, 52, 728–731.
+
+Weinraub, M., Clements, L. P., Sockloff, A., Ethridge, T. E., Gracely, E., & Myers, B. (1984). The
+development of sex role stereotypes in the third year: Relationships to gender labeling, gender
+identity, sex-typed toy preference and family characteristics. Child Development, 55, 1493–1503.
+
+Younger, B. A. (1985). The segregation of items into categories by 10-month-old infants. Child
+
+Development, 56, 1574–1583.
+
+Younger, B. A., & Cohen, L. B. (1983). Infant perception of correlations among attributes. Child
+
+Development, 54, 858–867.
+
+Received 24 June 1999; revised version received 4 October 1999
+
+

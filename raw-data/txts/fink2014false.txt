@@ -1,0 +1,2162 @@
+Child Development, November/December 2014, Volume 85, Number 6, Pages 2389–2403
+
+False-Belief Understanding and Social Preference Over the First 2 Years of
+
+School: A Longitudinal Study
+
+Elian Fink
+
+The University of Sydney
+
+Sander Begeer
+
+The University of Sydney and
+VU University Amsterdam
+
+Caroline Hunt and Marc de Rosnay
+
+The University of Sydney
+
+The role of false belief in establishing children’s social relationships during the transition to school was exam-
+ined and compared to other social cognitive constructs. One hundred and fourteen 5-year-olds were recruited
+during their 1st year of school (Time 1); 106 children were retained 1 year later. False belief, emotion expres-
+sion recognition, empathy, verbal ability, and peer-rated social preference were measured at both times. False
+belief at Time 1 had a direct inﬂuence on concurrent social preference, over and above the inﬂuence of emo-
+tion expression recognition and empathy. False belief made no independent contribution to later social prefer-
+ence accounting for stability in social preference. The role of social cognitive development is discussed with
+respect to how children establish and maintain their position in a peer group.
+
+The successful management of peer relations has
+far-reaching implications for later socioemotional
+academic performance,
+well-being,
+and school
+adjustment
+(Johnson, Ironsmith, Snow, & Poteat,
+2000; McDougall, Hymel, Vaillancourt, & Mercer,
+2001; Parker & Asher, 1987). One feature of young
+children that has
+received sustained attention
+because of its presumed inﬂuence on peer social
+relationships is theory of mind (ToM), the ability to
+understand other’s actions in terms of mental states
+(Wellman, 1990). Although ToM, and its core com-
+ponent
+(FB) understanding (Wellman,
+Cross, & Watson, 2001), is thought to be a funda-
+mental skill enabling children to function adap-
+tively in social
+few studies have
+addressed the question of how FB over time is
+linked with the ability to establish and maintain peer
+relationships.
+
+false-belief
+
+situations,
+
+A recent meta-analysis by Slaughter, Imuta, Pet-
+erson, and Henry (2014) highlights the need to clar-
+ify the longitudinal
+impact of ToM on social
+relationships, both from a theoretical standpoint to
+determine whether individual differences in ToM
+do in fact have an important and lasting inﬂuence
+
+This research was supported under Australian Research Coun-
+
+cil’s Discovery Projects funding scheme (Project DP0881855).
+
+Corresponding concerning this article should be addressed to
+Marc de Rosnay, School of Psychology (A18), University of Syd-
+ney, Sydney, NSW 2006, Australia. Electronic mail may be sent
+to marc.derosnay@sydney.edu.au.
+
+on later social relationships, and from an applied
+clinical standpoint to inform the design and timing
+of interventions for children at risk of social isola-
+tion. The few existing longitudinal studies (Baner-
+jee, Watling, & Caputi, 2011; Caputi, Lecce, Pagnin,
+& Banerjee, 2012) have not yet examined the spe-
+ciﬁc and unique inﬂuence of FB on social relation-
+ships during the ﬁrst years of formal schooling, a
+key time in a child’s life when he or she is negotiat-
+ing a new social context. Importantly, this period
+covers both the initial establishment of relationships
+in a new peer group and the maintenance of these
+relations. To address this gap in the literature, the
+current study comprises a longitudinal examination
+of the inﬂuence of FB on children’s social relation-
+ships during the ﬁrst 2 years of formal schooling.
+Furthermore,
+in addition to examining how and
+when the inﬂuence of FB on social relationships
+may come about,
+it is crucial to distinguish the
+inﬂuence of FB on social relationships from the
+likely inﬂuences of closely related domains of chil-
+dren’s social cognition, such as their ability to rec-
+ognize emotional expressions and their empathic
+orientation (de Rosnay, Harris, & Pons, 2008; Saarni,
+1999). Thus,
+in the current study, we employ a
+
+© 2014 The Authors
+Child Development © 2014 Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2014/8506-0020
+DOI: 10.1111/cdev.12302
+
+2390
+
+Fink, Begeer, Hunt, and de Rosnay
+
+longitudinal approach to determine the respective
+roles of FB, emotion expression recognition, and
+empathic orientation in establishing children’s social
+relationships in the 1st year of formal schooling,
+and whether early FB has an independent, longitu-
+inﬂuence on children’s later social relation-
+dinal
+ships during their 2nd year of schooling.
+
+There are two key accounts for why FB should
+be related to children’s social relationships. First,
+consistent with the early proposal of Lalonde and
+Chandler (1995), children with more advanced FB
+may be at an advantage when establishing peer
+relationships because they are better able to under-
+stand the perspectives of their peers; that is, FB
+allows children to read and respond to complex
+social situations more effectively (Astington, 2001;
+Astington & Jenkins, 2000; Hughes & Leekam,
+2004; Moore & Frye, 1991). Second, the social nat-
+ure of peer interaction itself may provide opportu-
+nities for children to hone their understanding of
+mind (Hughes & Leekam, 2004). Taken together, a
+reciprocal association is plausible, such that chil-
+dren with better FB are more able to adapt to social
+interactions and manage relationships more effec-
+tively, which in turn provides a social context that
+supports the growth of their psychological under-
+standing, including their FB (Dockett & Degotardi,
+1997; Slaughter, Dennis, & Pritchard, 2002). It is this
+theoretical supposition that a longitudinal approach
+is uniquely able to examine.
+
+Based on these two accounts of the possible rela-
+tions between FB and social relationships, predic-
+tions can be made about expected concurrent and
+longitudinal
+relations between them. The most
+straightforward prediction is that young children
+use their FB understanding directly to manage their
+social
+interactions, and therefore, higher levels of
+FB understanding should predict more effective
+social interactions concurrently, once children have
+had some time to learn about each other in a school
+context (Denham & Holt, 1993). In this view,
+it
+might also be expected that children with higher
+levels of FB in the 1st year of school will fare more
+favorably with peers a year later, and it is impor-
+tant to examine this possible longitudinal associa-
+tion. It is also important to note that if this view is
+longitudinal stability in children’s social
+correct,
+relationships may to some extent turn on the endur-
+ing inﬂuence of individual differences in FB under-
+standing. This point is elaborated below.
+
+In addition to the view that FB may exert a
+direct inﬂuence on social relationships, Astington
+(2001) has argued: “A more important question,
+perhaps, is whether there are consequences of an
+
+early understanding of false-belief that endure and
+are apparent later on” (p. 687). Astington’s ques-
+tion, while raised in relation to preschool children,
+expresses an important developmental possibility:
+Earlier individual differences in FB may set
+in
+motion distinctive sociodevelopmental pathways
+that take on their own momentum. In the context
+of the current investigation, the enduring conse-
+quences of early individual differences in FB may
+be that children’s social position, which reﬂects
+their social track record, becomes self-maintaining
+(Denham & Holt, 1993; de Rosnay et al., 2008;
+Ladd, Price, & Hart, 1988). In this view, children’s
+position in a social network, once established,
+should be relatively stable because it reﬂects inher-
+ent (social) structure, and one would thus predict,
+given a relatively stable social environment, that
+social position is resilient to change. Interestingly,
+this view implies that the inﬂuence of child factors
+(i.e., social understanding, including FB) on social
+relationships should be strongest when children
+enter new environments.
+
+Given the importance placed on FB for inﬂuenc-
+ing and shaping peer interaction,
+it is crucial to
+choose an appropriate index to measure children’s
+social relationships. The enduring nature of social
+structures in school settings is arguably captured in
+peer-rated measures of sociometric status or social
+preference. Social preference was speciﬁcally chosen
+to capture the complex nature of social relation-
+ships, as each child’s social preference score com-
+prises a composite score from multiple peer raters.
+This provides a unique insight into how children’s
+social relationships are perceived and integrated in
+their peer group at school. Such insights are not
+typically captured by teacher- or parent-rated mea-
+sures of social competencies (e.g., Babad, 2001;
+Cillessen & Mayeux, 2004; French & Waas, 1986).
+
+While the fundamental function of ToM under-
+standing is to “master social situations” (Begeer,
+Malle, Nieuwland, & Keysar, 2010), no study has
+directly examined how early-appearing social prefer-
+ence—a sociometric index—and FB—an individual
+cognitive capacity—inﬂuence each other both con-
+currently and over time. The current literature with
+4- to 7-year-olds offers some support for concurrent
+and longitudinal associations between ToM and chil-
+dren’s social behavior, more broadly construed. For
+example, parent and teacher ratings of children’s
+social competencies (e.g., prosocial behavior and
+social skills) have been shown to be associated with
+FB and other ToM measures (e.g., Eggum et al.,
+2011; Liddle & Nettle, 2006; Watson, Nixon, Wilson,
+& Capage, 1999; Weimer & Guajardo, 2005; see also
+
+Astington, 2003, for a review). While these studies
+point to the importance of FB throughout elementary
+school, they do not measure children’s social rela-
+tionships directly. As such, it remains necessary to
+assess the relation between FB and social relation-
+ships via peer report rather than rely solely on
+broader questionnaire indices of social competence.
+
+Studies that have speciﬁcally investigated con-
+current associations between FB and peer-rated
+social relationships have typically yielded mixed
+results. Higher FB understanding scores have
+indeed been associated with peer acceptance or
+popularity within the peer group (e.g., Dockett &
+Degotardi, 1997; Peterson & Siegal, 2002). For
+example, Cassidy, Werner, Rourke, Zubernis, and
+Balaraman (2003) reported a signiﬁcant, albeit mod-
+est, concurrent association between ToM under-
+standing (including FB) and peer-rated likability in
+preschoolers that was independent of
+individual
+differences in language ability. However, frequently
+others have failed to document such associations
+once the inﬂuence of covariates such as language
+have been accounted for (e.g., Badenes, Estevan, &
+Bacete, 2000; Braza et al., 2009; Diesendruck & Ben-
+Eliyahu, 2006; Slaughter et al., 2002). Shedding
+some light on an inconsistent literature, a recent
+meta-analysis of 22 studies has found a signiﬁcant
+positive,
+association
+between ToM and children’s peer-rated social rela-
+tionships (Slaughter et al., 2014). This meta-analysis
+has demonstrated that there is a signiﬁcant rela-
+tion between these two constructs, but the longitu-
+dinal
+causal
+relations between FB and social relationships is still
+unclear.
+
+association and the underlying
+
+albeit modest,
+
+concurrent
+
+Where longitudinal methods have been used,
+there has been a tendency to focus on friendship
+interactions (i.e., conversations, play) rather than
+sociometric indices of social relationships (Asting-
+ton & Jenkins, 2000; Hughes & Dunn, 1998). The
+few longitudinal studies that have measured social
+relationships using peer sociometric methods have
+favored longitudinal and indirect inﬂuences of ToM
+on social preference rather than straightforwardly
+comparing concurrent with longitudinal associa-
+tions (Banerjee et al., 2011; Caputi et al., 2012). No
+studies have taken both measures of FB and social
+preference during the 1st year of
+school and
+followed children longitudinally. Simultaneously
+examining the concurrent and longitudinal associa-
+tions allows an examination of the potential incre-
+mental impact of later gains in FB understanding
+on social preference, which has far-reaching impli-
+cations for the design and timing of interventions
+
+FB Understanding and Social Preference
+
+2391
+
+that aim to train children’s FB understanding (e.g.,
+Lecce, Bianco, Devine, Hughes, & Banerjee, 2014).
+
+We have so far focused largely on the possibility
+social preference,
+that FB causally inﬂuences
+whether early on in children’s school experience or
+consistently over time. As already noted, however,
+there could be reciprocal relations between FB and
+social relationships, so it is also essential to examine
+whether early peer relationships exert a longitudi-
+nal inﬂuence on later FB understanding (Hughes &
+Leekam, 2004). Consistent with this order of inﬂu-
+ence, Hughes and Dunn (1998) showed that dyadic
+mental-state talk at 4 years uniquely predicted a
+broad index of ToM (including FB) a year later,
+lending support to the view that FB skills are fur-
+ther developed within friendship interactions, as
+they are in family interactions (Ensor & Hughes,
+2008). However, friendship per se is not the same
+as social relationships as measured via sociometric
+indices. The two constructs are strongly overlap-
+ping (Bukowski, Pizzamiglio, Newcomb, & Hoza,
+1996), but one can have friends without being well
+liked, and studies that focus on preexisting friend-
+ships inherently overlook children who do not have
+friends. So it is important to determine whether
+such reciprocal processes also operate
+in the
+broader domain of social preference. In keeping
+with this possibility, Banerjee et al.
+(2011) have
+shown among older children that peer rejection has
+a causal, longitudinal inﬂuence on their emerging
+understanding of faux pas, which is an advanced
+ToM skill that relies heavily on FB mastery (Baron-
+Cohen, O’Riordan, Stone, Jones, & Plaisted, 1999).
+In light of such ﬁndings, we examine whether
+social relationships early in children’s school experi-
+ence are having a similar inﬂuence on their under-
+standing of mind, as indexed by their understanding
+of FB.
+
+We focus speciﬁcally on children’s FB under-
+standing, as in many previous studies, ﬁrst, because
+it is a core feature of broader ToM development
+(i.e., belief-desire psychology; Bartsch & Wellman,
+1995) and, second, because the manner in which
+ToM is assessed is tightly bound to a child’s age,
+and FB understanding is the most salient ToM
+insight for children between 4 and 5 years of age
+(Hughes et al., 2000; Wellman et al., 2001). As chil-
+dren get older, however, they rapidly approach ceil-
+ing on conventional FB tasks, and this raises
+challenging measurement issues regarding longitu-
+dinal assessment of FB. Nevertheless, decades of
+ToM research have clearly shown that whereas chil-
+dren are relatively good at identifying FBs in sim-
+ple tasks by 5 years, it takes longer for them to use
+
+2392
+
+Fink, Begeer, Hunt, and de Rosnay
+
+that
+
+psychological
+
+commonplace
+
+their awareness of FB to reason effectively about
+other
+phenomena
+(Hughes et al., 2000; Lagattuta, Sayfan, & Blattman,
+2010). These tasks include nice/nasty surprise (de
+Rosnay, Pons, Harris, & Morrell, 2004; Harris, John-
+son, Hutton, Andrews, & Cooke, 1989), second-
+order FB (Perner & Wimmer, 1985), understanding
+surprise per se (Ruffman & Keenan, 1996), and faux
+pas understanding (Baron-Cohen et al., 1999). In
+the current study, we were able to measure FB
+directly in 5-year-olds using conventional
+tasks
+because of the considerable individual differences
+that still exist
+time (Hughes
+et al., 2000; Wellman et al., 2001). After more than
+a year in school, however, children were too old to
+administer these FB tasks. At Time 2, therefore, we
+operationalized children’s FB understanding using
+the nice/nasty surprise paradigm because it was
+age appropriate (Harris et al., 1989; Hughes et al.,
+2000), it provides a valid and widely used measure
+of FB mastery (de Rosnay et al., 2004; Hughes
+et al., 2000; Hughes et al., 2005), and despite
+being an advanced FB measure, it is a simple proce-
+dure that does not require children to engage in
+complex recursive reasoning about mental states
+(see Miller, 2009, for a discussion on second-order
+FB).
+
+in children at
+
+In the nice/nasty surprise paradigm, children
+are presented with a situation in which a protago-
+nist expects that he will get what he wants (but a
+nasty surprise awaits) or something he does not
+want (but a nice surprise awaits). By 3 years of
+age, children are adept at understanding how peo-
+ple will feel based on desire fulﬁllment; they have
+very little difﬁculty inferring someone’s emotion
+based on a match between his or her desires and
+a salient outcome (e.g., getting what you want;
+Harris et al., 1989; Wellman, 1990). But when the
+protagonist
+in the nice/nasty surprise task also
+holds an FB (i.e., a mistaken expectation), research
+shows that children are able to identify the protag-
+onist’s FB before they see the relevance of his FB
+for his desire fulﬁllment, that is, his feelings. Thus,
+at 6 years of age, the nice/nasty surprise tasks is
+quintessentially a measure of children’s advanced
+FB reasoning because it assesses how they use their
+knowledge of FB to modify their desire psychology
+(Wellman, 1990). In fact, the nice/nasty surprise
+task can also be administered as a straightforward
+FB test by directing children’s attention to the pro-
+tagonist’s belief rather than his feelings, but it has
+been shown that this does not challenge children’s
+advanced FB reasoning (de Rosnay et al., 2004;
+Hughes et al., 2000).
+
+By focusing our investigations on children’s abili-
+ties to identify and reason speciﬁcally about FB, we
+were able to directly compare this important feature
+of ToM with other widely utilized indices of chil-
+dren’s social understanding (Blair, 2005; Caputi
+et al., 2012; de Rosnay et al., 2008). Few studies
+directly compare the inﬂuence of different aspects
+of social understanding on children’s social relation-
+ships (although, see Cassidy et al., 2003; Denham,
+McKinley, Couchoud, & Holt, 1990, in younger chil-
+dren; and Braza et al., 2009), and many use com-
+posite measures of social understanding or ToM
+(e.g., Caputi et al., 2012). While this latter approach
+yields moderately robust global scores for ToM,
+and captures a lot of variation, it lacks conceptual
+precision because different kinds of child capacities
+are merely combined, which circumvents the devel-
+opmental
+transitions in FB reasoning we have
+described above. Two domains of social under-
+standing that have been shown to be of relevance
+for children’s social behavior, and that have some-
+times overlapped with FB measures, are the capac-
+ity to recognize basic emotions, and empathic
+orientation.
+
+Conceptually, the recognition of basic emotions
+is unlike most domains of ToM studied in child-
+hood, which, despite being diverse, generally
+require children to grasp the causes and conse-
+quences of mental attitudes, and express these ideas
+in ways that ﬁt with our everyday folk psychology
+(Bartsch & Wellman, 1995; de Rosnay et al., 2008).
+Recognizing basic emotion expressions, on the other
+taps into children’s perceptual sensitivity.
+hand,
+Although words are necessary to communicate
+basic emotions, typically developing children have
+clearly mastered such labels before 4 years of age
+(Pons, Harris, & de Rosnay, 2004). Notwithstanding
+this early competence, accurate labeling of real
+emotions (e.g., photographs of children expressing
+emotion) has itself been shown to inﬂuence chil-
+dren’s social interactions: It seems that sensitivity to
+others’ expressions may be a distinctive feature of
+social understanding (Izard et al., 2001; Schultz,
+Izard, Ackerman, & Youngstrom, 2001). Given the
+conceptual and methodological differences in mea-
+suring children’s FB, on one hand, and their abili-
+ties to recognize and label basic emotions, on the
+other hand, it is necessary to ask if these factors
+inﬂuences on children’s social
+exert
+relationships. We thus assess them independently.
+
+independent
+
+While children’s empathic orientation has some-
+times been directly equated with FB understanding
+(i.e., cognitive empathy; Blair, 2005), it is also fre-
+quently measured as a set of behavioral dispositions
+
+or proclivities, such as in a teacher report of child
+behavior with peers. It has long been recognized that
+just because a child understands someone else’s
+perspective does not guarantee he or she will act
+altruistically or sympathetically toward that person
+(Underwood & Moore, 1982). It is also important to
+examine empathic behavioral tendencies in conjunc-
+tion with a conceptual understanding of mind (e.g.,
+FB) to better understand how children are perceived
+by their peers. Indeed, empathic orientation has also
+been shown to positively inﬂuence children’s social
+conduct (Eisenberg, 2000).
+
+Finally, the putative association between FB and
+social relationships may in fact turn on covariation
+between these factors and children’s verbal abilities.
+Both ToM (Astington & Baird, 2005) and, to a lesser
+extent, social relationships (Slaughter et al., 2002)
+have been shown to draw on linguistic skill even
+among typically developing children, with linguisti-
+cally sophisticated children performing better on
+most social understanding tasks, in particular, FB
+(Milligan, Astington, & Dack, 2007).
+
+To summarize,
+
+three distinctive perspectives
+emerge on likely relations between children’s FB
+and their social relationships.
+(a) If children are
+highly dependent on their FB to read and respond
+to complex real-life social
+interactions, and FB
+understanding is stable, then FB should robustly
+predict children’s social preference during the 1st
+year of school, and also longitudinally. That
+is,
+Time 1 FB will be correlated with Time 1 social
+preference, in addition to predicting Time 2 social
+preference. (b) However, if early FB sets in motion
+a pattern of peer relations that become self-sustain-
+ing, as might be implied by Astington’s (2001)
+question, then although we should expect to see an
+early inﬂuence of FB on children’s social preference
+when they start school, stability in peer preference
+is nonetheless likely best understood in terms of the
+inherent stability of social systems rather than the
+continuous inﬂuence of
+individual differences in
+child factors. That is, while Time 1 FB would be
+expected to correlate with Time 1 social preference,
+only Time 1 social preference will predict Time 2
+social preference. (c) Finally, although there is less
+evidence of such effects in the literature, it remains
+important to consider the possibility that the rela-
+tion between FB and social preference is reciprocal,
+and therefore we would expect that early success or
+difﬁculty with peers may create environments that
+support or impede the growth of children’s social
+understanding. We therefore examine the longitudi-
+inﬂuence of social preference on children’s
+nal
+increasing mastery of FB reasoning in the 2nd year
+
+FB Understanding and Social Preference
+
+2393
+
+of school, as measured on the nice/nasty surprise
+advanced ToM task (Hughes et al., 2000). That is,
+we examine whether Time 1 social preference pre-
+dicts Time 2 advanced FB.
+
+Against
+
+this framework, we also examine the
+inﬂuence of emotion expression recognition and
+empathic orientation on children’s social preference,
+while controlling for verbal abilities. In doing so,
+we hope to clarify whether FB in fact plays an inde-
+pendent role in children’s social adjustment during
+the ﬁrst years of formal schooling.
+
+Method
+
+Participants
+
+The sample consisted of 114 Australian children
+(58 boys) recruited during their 1st year of formal
+schooling (Time 1)
+from three inner suburban
+schools in a major Australian city. One year later
+(Time 2), the sample comprised 106 (93%) of the
+originally tested children. A relatively homoge-
+neous, middle-class sample was sought to minimize
+diversity in privilege or economic hardship. Schools
+were identiﬁed for recruitment based on average
+house prices in the area, and Estimates of Personal
+Income for Small Areas provided by the Australian
+Bureau of Statistics. All participants had written
+parental consent. The mean age at Time 1 was
+range = 55–
+5 years 7 months
+77 months), and the mean age at Time 2 was
+range = 70–
+6 years 8 months
+90 months).
+
+(SD = 5.1 months,
+
+(SD = 4.8 months,
+
+The three schools initially approached agreed to
+take part, and all children entering the schools for
+the ﬁrst time (Time 1) were invited to participate, a
+single class intake in each case. Recruitment and
+testing was staggered over 2 years in two schools,
+resulting in ﬁve groups of children. While most
+children (97%) had attended preschool at
+least
+2 days a week, none of the recruited schools were
+associated with preschools or had reception classes,
+and children came from many different
+care
+arrangements, as is typical in this area.
+
+Ninety-eight percent of children had at least one
+parent who had completed high school or had
+vocational training, and 58% had at least one parent
+who had also completed tertiary education. There
+were no exclusion criteria and no child experienced
+serious
+economic disadvantage. Children came
+from a mixture of ethnic backgrounds common to
+the local areas and all spoke English ﬂuently. No
+children were identiﬁed by the school as having
+developmental disabilities at the time of testing.
+
+2394
+
+Fink, Begeer, Hunt, and de Rosnay
+
+Materials
+
+Verbal Ability
+
+The Test of Early Language Development–3
+(TELD; Hresko, Reid, & Hammill, 1999) was used
+as an assessment of children’s verbal mental ability
+(VMA) at both time points. The TELD is a measure
+of both expressive and receptive language skills,
+which were summed to create a global score. This
+comprehensive index of language development was
+chosen because such measures demonstrate strong-
+er relations with children’s FB than measures of
+receptive vocabulary (Milligan et al., 2007). Chil-
+dren’s raw, unstandardized scores were used in the
+analysis.
+
+Time 1 FB
+
+for example, “What
+
+Six FB understanding ToM tasks were adminis-
+tered. There were two unexpected contents items
+based on Perner, Leekam, and Wimmer (1987), and
+two unexpected transfer items based on Wimmer
+and Perner (1983). In both unexpected transfer and
+unexpected contents items, children were asked a
+reality control question,
+is
+really inside the box?” in addition to a target FB
+test question, for example, “What does Lily think is
+inside the box?” To be awarded 1 point for the FB
+tasks, children had to correctly answer both the
+reality control question and the target FB question.
+In addition, children were given one nice and one
+nasty surprise task (described next), but they were
+only scored on the basis of their response to the FB
+question, a variation on the unexpected contents FB
+task (Hughes et al., 2000). One point was awarded
+for correctly identifying the protagonist’s FB and
+correctly identifying the true contents of the con-
+tainer (reality control question).
+
+Children performed similarly on the six FB tasks
+and had little trouble with the control questions
+(> 98% pass). Thus, children received an FB score
+from 0 to 6. Internal consistency for the six FB items
+was high, a = .78.
+
+Each task was read aloud by the experimenter
+
+and supplemented with color drawings.
+
+Time 2 Advanced FB
+
+Four advanced FB tasks were administered—two
+nice surprise and two nasty surprise—based on
+Hughes et al. (2000) and de Rosnay et al. (2004).
+The nice/nasty surprise advanced FB tasks are widely
+used and highly reliable (Hughes et al., 2000;
+Hughes et al., 2005). All four tasks required chil-
+
+dren to attribute a feeling to a story protagonist
+based on the match between his or her desires (e.g.,
+He likes Coke) and his or her expectation (e.g., He
+[mistakenly] thinks he will get Coke; Harris et al.,
+1989). For example, to pass one of the nice surprise
+stories, children had to attribute a negative feeling
+(e.g., sadness or disappointment) to the protagonist
+on basis of the (false) belief that he will receive a
+hated food, when in fact the child knows he will
+receive a favorite snack. Two tasks contained an
+unexpected transfer FB (one nice surprise) and two
+contained an unexpected contents FB (one nice sur-
+prise). Children were awarded a score of 1 for each
+task if they passed the reality control question (see
+above),
+the target FB question (see above), and
+attribute a suitable feeling to the protagonist based
+on his or her desire/preference and FB (de Rosnay
+et al., 2004).
+
+Children had little trouble with the control ques-
+tions (> 99% pass), and as expected based on previ-
+ous research, they approached ceiling on the FB
+question (Harris et al., 1989): Eighty-seven (83%)
+children passed four FB questions. Thus, children
+solely received an advanced FB score between 0 and
+4.
+items was
+acceptable, a = .65.
+
+Internal consistency for
+
+the four
+
+Each task was read aloud by the experimenter
+
+and supplemented with color drawings.
+
+Recognition of Emotional Expressions (Emotion)
+
+At both time points, children were administered
+a task assessing their ability to match emotional
+facial expressions with correct labels, based on the
+Assessment of Children’s Emotion Skills (20 photo-
+graphs of school-aged children expressing different
+facial expressions; Schultz, Izard, & Bear, 2004). To
+ensure comprehension, children were initially asked
+to label two expressions: joy and sadness. All chil-
+dren passed. Children were then shown ﬁve emo-
+tion expressions together at a time (four blocks: joy,
+sadness, anger, fear, and surprise) and were asked
+to point to each nominated expression (in a preor-
+dered random sequence). Children did not have to
+produce labels; they merely had to indicate their
+best answer. One point was awarded for each cor-
+rectly identiﬁed emotion. Internal consistency across
+all individual trials (20 trials) was acceptable, Time
+1 a = .66 and Time 2 a = .61.
+
+Empathic Orientation (Empathy)
+
+At both times, teachers rated children’s empathic
+orientation using a widely used questionnaire based
+
+on the scale developed by Eisenberg et al. (1998)
+and adapted by Findlay, Girardi, and Coplan
+(2006). Children were rated by different teachers at
+each time point. The teacher-rated empathy scale
+consisted of six items (e.g., “This child usually feels
+sympathy for other children who are upset or
+sad”), measured on a
+scale,
+0 = doesn’t apply, 1 = sometimes applies, and 2 = cer-
+tainly applies. Internal consistency was high, Time 1
+a = .87 and Time 2 a = .80.
+
+3-point Likert
+
+Social (Peer) Preference
+
+Social preference was assessed using the peer
+nomination sociometric interview technique devel-
+oped by Coie, Dodge, and Coppotelli
+(1982) at
+Time 1 and Time 2 to provide information on chil-
+dren’s relative social standing in their peer environ-
+ment. Following accepted procedures,
+children
+were asked to nominate three children in their class
+that “they like to play with the most” and three
+children “they do not like to play with” using pho-
+tographs of their peers as prompts. Cross-gender
+nominations were permitted (Graziano, Keane, &
+Calkins, 2007). Each child’s individual like most and
+like least scores were standardized within classroom
+to take into account different-sized peer groups. In
+the two schools where recruitment took place over
+2 years, children were only permitted to nominate
+peers from their own year level. Social preference
+was calculated by subtracting classroom-standard-
+ized like least from standardized like most nomina-
+tions, an index of peer-rated social standing that
+has been widely used in the developmental litera-
+ture.
+
+Between 55% and 82% (M = 68%) of children
+were recruited from each class. Given the longitudi-
+nal nature of the study opt-out recruitment was not
+permissible as determined by the ethics board. Chil-
+dren remained in the same classroom and year
+groups at Time 2 and therefore had access to the
+same peer group at each time point, an important
+feature of the study. Between Time 1 and Time 2,
+eight children left their school; these children did
+not differ signiﬁcantly from the Time 2 sample in
+terms of social preference, t(113) = .77, p = .440.
+
+Procedure
+
+Children were seen individually in a quiet room
+at school over two sessions at both time points (i.e.,
+four sessions). The mean duration between the ﬁrst
+346 days
+session
+point was
+(SD = 25.8 days). At both time points,
+the ﬁrst
+
+each
+
+of
+
+time
+
+FB Understanding and Social Preference
+
+2395
+
+session was scheduled for early in the third of four
+school terms to ensure that children knew their
+peers reasonably well (approximately 6 months). At
+Time 1, children were photographed and they com-
+pleted the emotion task and TELD–3 in the ﬁrst
+session. In the second session, children were pre-
+sented with the FB tasks and the sociometric inter-
+view. The mean duration between Sessions 1 and 2
+at Time 1 was 80 days (SD = 43.7 days). At Time 2,
+all children completed the TELD–3, advanced FB,
+and emotion tasks in the ﬁrst session, and the
+sociometric interview in the second session. The
+mean duration between Sessions 1 and 2 at Time 2
+was 50 days (SD = 33.7 days). Most children com-
+pleted all tasks, but due to absence from school and
+scheduled classroom activities some children were
+unable to complete every session or every task
+within a session. At both time points, teachers com-
+pleted the empathy questionnaire at the end of each
+school year, and knew the children very well.
+
+Results
+
+Descriptive statistics are presented in Table 1 and
+bivariate relations between study variables are pre-
+sented in Table 2. There was no signiﬁcant differ-
+ence between boys and girls on any study variable,
+ts < 1.76, ps > .081. Several features of Table 2 are
+noteworthy. First,
+there was strong stability in
+VMA, and between FB and advanced FB. These
+two measures were also robustly correlated concur-
+rently and longitudinally, replicating the known
+association between ToM and VMA (Milligan et al.,
+
+Table 1
+Descriptive Statistics for Study Variables
+
+Measure
+
+n
+
+M
+
+SD
+
+Range
+
+Time 1
+VMA
+FB
+Emotion
+Empathy
+Social preference
+
+Time 2
+VMA
+Advanced FB
+Emotion
+Empathy
+Social preference
+
+113
+113
+112
+111
+114
+
+104
+106
+106
+106
+106
+
+60.46
+4.23
+14.60
+9.66
+.02
+
+64.11
+1.97
+15.82
+8.48
+0
+
+5.16
+1.87
+2.99
+2.53
+1.67
+
+4.40
+1.13
+2.54
+2.81
+1.66
+
+44–77
+0–6
+5–20
+1–12
+ 4.42–3.34
+
+53–75
+0–4
+7–20
+0–12
+ 4.55–4.33
+
+Note. VMA = verbal mental ability; FB = false-belief;
+tion = recognition of emotional expressions.
+
+emo-
+
+2396
+
+Fink, Begeer, Hunt, and de Rosnay
+
+Table 2
+Summary of Bivariate Correlations Between Linguistic Ability, False Belief, Emotion Expression Labeling, Empathy, and Social Preference at Time
+1 and Time 2
+
+1. T1 VMA
+2. T1 FB
+3. T1 emotion
+4. T1 empathy
+5. T1 social preference
+6. T2 VMA
+7. T2 advanced FB
+8. T2 emotion
+9. T2 empathy
+10. T2 social preference
+
+1
+
+—
+
+2
+
+.52**
+—
+
+3
+
+.37**
+.25**
+—
+
+4
+
+.09
+.16
+.09
+—
+
+5
+
+.17
+.35**
+.31**
+.31**
+—
+
+6
+
+.61**
+.49**
+.34**
+.14
+.22*
+—
+
+7
+
+.52**
+.58**
+.33**
+.02
+.10
+.38**
+—
+
+8
+
+.30**
+.15
+.31**
+.00
+.15
+.25*
+.11
+—
+
+9
+
+.14
+.15
+.11
+.27**
+.21*
+-.03
+.13
+.08
+—
+
+10
+
+.17
+.33**
+.31**
+.20*
+.72**
+.20*
+.25*
+.07
+.26**
+—
+
+Note. T1 = Time 1; T2 = Time 2; VMA = verbal mental ability; FB = false belief; emotion = recognition of emotional expressions.
+*p < .05. **p < .01.
+
+2007). Second,
+there was remarkable stability in
+social preference. Finally, FB at Time 1 was concur-
+rently and longitudinally associated with social
+preference. However, Time 1 social preference was
+not signiﬁcantly associated with advanced FB.
+
+Three planned hierarchical
+
+regression models
+were constructed to evaluate the three perspectives,
+formulated in the Introduction, that outline possible
+patterns of association between FB and social pref-
+erence. Regression Models 1 and 2 comprise an
+examination of the inﬂuence of FB on concurrent
+and longitudinal social preference (Perspective 1).
+Additionally, Model 2 also allows for an examina-
+tion of Perspective 2, the longitudinal role of FB on
+social preference over and above stability in chil-
+dren’s social preference scores by including social
+preference at Time 1 on the third and ﬁnal step of
+the model. Finally, Model 3 examines the inverse
+relation between FB and social preference (Perspec-
+tive 3) by examining the inﬂuence of Time 1 social
+preference on Time 2 advanced FB understanding.
+
+Although there were no sex differences on any
+study variable, sex was nonetheless controlled for
+in the regression models as in previous studies
+(Braza et al., 2009) and the omission of sex did not
+affect the overall results reported below. Addition-
+ally, age was included at the ﬁrst step of all regres-
+sion models; ﬁndings remained unchanged when
+this variable was removed so the more parsimoni-
+ous models are reported.
+
+In the ﬁrst model, predicting Time 1 social pref-
+erence, sex and VMA were entered on the ﬁrst step
+and FB, emotion, and empathy were entered on
+the second step (see Model 1, Table 3). The model
+was only signiﬁcant with the inclusion of
+the
+
+Table 3
+Hierarchical Multiple Regression Analyses Predicting Social Preference
+at T1 (Model 1) and T2 (Model 2)
+
+Model 1
+T1 social
+preference
+
+Model 2
+T2 social
+preference
+
+Variable
+
+Step 1
+Sex
+T1 VMA
+
+Step 2
+Sex
+T1 VMA
+T1 FB
+T1 emotion
+T1 empathy
+
+Step 3
+Sex
+T1 VMA
+T1 FB
+T1 emotion
+T1 empathy
+T1 social preference
+
+Total R2
+
+ΔR2
+
+.05
+
+.19**
+
+ΔR2
+
+.03
+
+.16**
+
+b
+
+.15
+.15
+
+.08
+-.10
+.29**
+.24*
+.23**
+
+—
+
+.35**
+
+—
+—
+—
+—
+—
+—
+
+.25**
+
+.54**
+
+b
+
+.05
+.17
+ .02
+ .09
+.31**
+.24**
+.15
+ .05
+ .01
+.10
+.08
+ .02
+.68**
+
+Note. T1 = Time 1; T2 = Time 2; VMA = verbal mental ability;
+FB = false belief; emotion = recognition of emotional expressions.
+*p < .05. **p < .01.
+
+second step, F(5, 104) = 6.77, p < .001. It is notable
+that FB, emotion, and empathy all made an inde-
+pendent signiﬁcant contribution to the prediction
+of children’s social preference and,
+furthermore,
+that each contribution was of a relatively similar
+magnitude.
+
+In the second model, predicting social preference
+at Time 2, the same overall approach was taken,
+with the addition of Time 1 social preference on a
+third step (see Model 2, Table 3). The ﬁrst step,
+with sex and VMA, was not signiﬁcant. At the sec-
+ond step, the overall model was signiﬁcant, F(5, 96)
+= 4.58, p = .001, with both FB and emotion making
+independent contributions to the longitudinal pre-
+diction of social preference. The addition of Time 1
+social preference on the third step further improved
+model ﬁt, DF(1, 95) = 72.72, p < .001; however, only
+Time 1 social preference was a signiﬁcant predictor
+of Time 2 social preference at this step. Neither FB
+nor Time 1 emotion was a signiﬁcant longitudinal
+predictor of Time 2 social preference over and
+above the stability of social preference.
+
+Despite poor evidence for reciprocal relations
+(see Tables 2 and 4), a post hoc analysis was
+conducted to examine concurrent relations between
+
+Although FB and Time 1 emotion failed to make
+independent contributions to Time 2 social prefer-
+ence, the possibility remained that, combined, they
+improved children’s Time 2 social preference even
+when controlling for Time 1 social preference.
+Therefore, a post hoc analysis was conducted along
+the lines of Model 2 in which Time 1 social prefer-
+ence was entered at the second step, and FB, Time
+1 emotion, and Time 1 empathy were entered at the
+ﬁnal step. The overall model statistics were identi-
+cal to Model 2 but the third step conﬁrmed that the
+addition of the social understanding variables in
+the ﬁnal step did not make an overall improvement
+to the model, F < 1, DR2 = .01.
+
+A third model was constructed to examine the
+possibility of a reciprocal relation, that is, the inﬂu-
+ence of earlier social preference on advanced FB
+(see Table 4). Thus, sex, Time 1 VMA, and Time 1
+social preference were entered on the ﬁrst step;
+Time 1 emotion and empathy were entered on the
+second step; and FB was entered on the ﬁnal step.
+At the ﬁrst step, only Time 1 VMA signiﬁcantly
+predicted advanced FB, F(3, 98) = 12.42, p < .001.
+At the second step, there was no change in the
+overall signiﬁcance of the model, and neither Time
+1 emotion nor empathy contributed to advanced
+FB. The addition of Time 1 FB at the ﬁnal step sig-
+niﬁcantly improved model ﬁt, DF(1, 95) = 23.02,
+p < .001, and revealed that even after controlling
+for other variables, FB was the strongest longitudi-
+nal predictor of advanced FB. This adds consider-
+able support to the conceptual coherence between
+FB and advanced FB, and also speaks against a
+simple reciprocal relation between FB and social
+preference.
+
+FB Understanding and Social Preference
+
+2397
+
+Table 4
+Hierarchical Multiple Regression Analyses Predicting Advanced False
+Belief at Time 2
+
+Model 3
+
+Advanced FB
+
+Variable
+
+Step 1
+Sex
+T1 VMA
+T1 social preference
+
+Step 2
+Sex
+T1 VMA
+T1 social preference
+T1 emotion
+T1 empathy
+
+Step 3
+Sex
+T1 VMA
+T1 social preference
+T1 emotion
+T1 empathy
+T1 FB
+Total R2
+
+ΔR2
+
+.28**
+
+.02
+
+.14**
+
+.43**
+
+b
+
+.03
+.51**
+.04
+
+.03
+.46**
+.00
+.15
+ .02
+ .00
+.24*
+ .12
+.14
+ .02
+.47**
+
+Note. VMA = verbal mental ability; FB = false belief; emo-
+tion = recognition of emotional expressions.
+*p < .05. **p < .01.
+
+advanced FB and Time 2 social preference, over
+and above the longitudinal stability in social prefer-
+ence, a conditional question. This approach was
+taken because, in the context of stability in social
+preference, it is of theoretical and practical impor-
+tance to determine whether children who increased
+or decreased in their social preference were also
+those who had higher or lower advanced FB scores,
+respectively. On the ﬁrst step, sex, Time 2 VMA,
+and Time 1 social preference were entered. This
+step was signiﬁcant, F(3, 100) = 36.97, p < .001,
+R2 = .53. Only social preference at Time 1 predicted
+social preference at Time 2, b = .72, p < .001, reﬂect-
+ing the overarching stability. However, the addition
+of advanced FB, as well as Time 2 emotion and
+empathy, at the second step signiﬁcantly improved
+model ﬁt, DF(3, 97) = 3.40, p = .021, DR2 = .05. At
+this step, in addition to Time 1 social preference,
+b = .70, p < .001, there was a signiﬁcant association
+between advanced FB and Time 2 social preference,
+b = .19, p = .014. The inclusion of an advanced FB
+and Time 1 social preference interaction term on a
+ﬁnal step did not signiﬁcantly improve model ﬁt,
+DF(1, 96) = .05, p = .832, DR2 = .00.
+
+2398
+
+Fink, Begeer, Hunt, and de Rosnay
+
+Discussion
+
+The current study is the ﬁrst longitudinal investiga-
+tion of the relation between social cognition and
+social relationships over the ﬁrst 2 years of chil-
+dren’s formal schooling. Given the central position
+of FB understanding in research on children’s social
+cognition (Bartsch & Wellman, 1995; Wellman et al.,
+2001), and the presumed importance of FB for chil-
+dren’s social relationships (e.g., Eggum et al., 2011),
+this study is uniquely placed to contribute to our
+understanding of
+the longitudinal processes that
+underpin children’s social relationships and inform
+interventions to support children at risk of social
+isolation or rejection from the peer group.
+
+Our ﬁndings clearly demonstrate that during the
+1st year of school, when children are establishing
+new relationships, those with better FB are more
+likely to be rated positively by their peers; on bal-
+ance, they are more likely to be judged as someone
+whom others like to play with, or less likely to be
+judged as someone whom others do not like to play
+with. This ﬁnding is consistent with the widely held
+view that FB exerts a direct inﬂuence on children’s
+social relations, and is consistent with the results of
+the recent meta-analysis by Slaughter et al. (2014)
+on the concurrent association between FB and social
+preference. Additionally, the current study is the
+ﬁrst to demonstrate that over and above the impact
+of FB on children’s social preference, children’s
+capacities to recognize emotion expressions and
+their proclivities to behave empathically also have
+inﬂuences on their social preference that are of a
+similar magnitude to FB. Furthermore, our data
+suggest that this relation does not turn on chil-
+dren’s verbal abilities, which covary profoundly
+with FB (Milligan et al., 2007). These ﬁndings are
+encouraging because they conﬁrm,
+in a single
+that various aspects of children’s social
+study,
+understanding—FB,
+and
+empathy—previously identiﬁed in the extant litera-
+ture as independent inﬂuences on social preference
+(de Rosnay et al., 2008; Dunn, 2000), are likely
+exerting a simultaneous inﬂuence on social prefer-
+ence.
+
+recognition,
+
+emotion
+
+impact of FB,
+
+Examining the longitudinal
+
+the
+current study showed that FB was robustly related
+to children’s social preference in the 2nd year of
+school, consistent with the view that FB has an
+ongoing inﬂuence on children’s social preference.
+Again, this relation was independent of children’s
+ability to recognize emotional expressions or their
+verbal abilities. However, the inﬂuence of early FB
+on later social preference was not independent of
+
+children’s earlier social preference. Thus, consistent
+with Astington’s (2001) question, the ﬁndings from
+the current study may be interpreted to suggest
+that FB does set in motion a pattern of peer rela-
+tionships that become self-sustaining: Once children
+have established themselves in a new peer group,
+their position in this group is relatively stable. This
+is an important ﬁnding and demonstrates the pro-
+found ongoing inﬂuence of children’s position in a
+social group that, once established, appears to
+largely take on a life of its own (Denham & Holt,
+1993; Jiang & Cillessen, 2005). That none of the
+Time 1 child measures, whether independently or
+combined, predicted later social preference, and the
+strength of the effect suggest that other unmeasured
+mechanisms or processes may be working to main-
+tain social hierarchies and organization. For exam-
+ple, it is plausible that as children get older their
+expectations about their own role within a group
+become increasingly galvanized and may be mani-
+fested as a social identity or self-concept (e.g., Har-
+ter, 1982)
+that somewhat structures their future
+social encounters (Sandstrom & Coie, 1999). While
+this
+little
+research to shed light on how indices of social rela-
+tionships (e.g., social preference, peer acceptance,
+social status) translate across different social envi-
+ronments in childhood.
+
+is an intriguing possibility,
+
+there is
+
+To further investigate the interplay between FB
+and social preference within the context of robust
+stability in our measure of social preference, the
+association between advanced FB and Time 2 social
+preference was examined over and above the stabil-
+ity in social preference. For children of equal social
+preference at Time 1, those performing better on
+advanced FB were also more likely to have
+improved their social preference at Time 2. This
+ﬁnding is open to various interpretations. In keep-
+ing with the conventional view (e.g., Slaughter
+et al., 2002), it can be taken as further evidence of
+the direct inﬂuence of FB on (change in) social pref-
+erence. However, the results suggest another possi-
+bility;
+is, children whose social preference
+changed (for whatever reason) were likely to expe-
+rience a corresponding change in their advanced FB
+understanding. Again,
+these inﬂuences could be
+reciprocal. In future research, it will be important to
+understand how individual trajectories of FB under-
+standing over time are related to social preference,
+a task that requires more than two time points.
+
+that
+
+In addition to examining the longitudinal inﬂu-
+ence of FB on later social preference, the current
+study also examined the possibility that children’s
+early success with peers may create conditions that
+
+support or impede the growth of their FB (Banerjee
+et al., 2011). There was little evidence for such an
+inverse relation between FB and social relation-
+ships. This ﬁnding suggests, at least in typical 5-
+year-old children in a stable social environment,
+that FB understanding shapes social
+interactions
+rather than social interactions creating a context for
+the development of FB. However,
+the interplay
+between FB and social context at this age may still
+be reciprocal; it is plausible that children’s interper-
+sonal experiences at this age will begin to inform
+the development of more complex FB reasoning,
+such as faux pas understanding. Indeed, such a pat-
+tern of association between early social relation-
+ships and later faux pas understanding has been
+demonstrated by Banerjee et al.
+(2011). Further
+research on the longitudinal association between FB
+and children’s social relationships during the school
+years is clearly necessary.
+
+Implications and Future Directions
+
+Starting school is an important sociodevelopmen-
+tal juncture that roughly corresponds to a concep-
+tual shift in children’s abilities to identify FBs and
+to use FB reasoning to better understand others
+(Harris et al., 1989; Wellman, 1990). It is therefore
+of practical
+importance to clarify the relation
+between FB and children’s social relationships. The
+ﬁndings of the current study imply that if we want
+to make the most impact on social relationships we
+should support children’s early understanding of
+FB when they enter school. Encouragingly, how-
+ever,
+improvements in FB understanding in later
+years also appears to positively inﬂuence social
+preference, albeit considerably more modestly than
+stability in children’s existing social hierarchy.
+
+It is also important, however, not to oversim-
+plify the social challenges and opportunities facing
+children, and imagine that FB understanding pro-
+vides a singular explanation for children’s capaci-
+ties. Indeed, the current study also suggests that in
+addition to supporting FB understanding, helping
+children’s emotion recognition and fostering their
+empathy may have an equally important positive
+impact on social relationships, over and above FB
+understanding. Thus, as our ﬁndings and the ﬁnd-
+ings of others (see de Rosnay et al., 2008, for a dis-
+cussion) show there are many aspects of children’s
+social understanding, including their understanding
+of the causes and consequences of emotion and
+other aspect of mental
+life (Banerjee et al., 2011;
+Denham et al., 1990, 2003; Izard et al., 2001) that
+likely contribute to their social relationships.
+
+FB Understanding and Social Preference
+
+2399
+
+Additionally, FB may inﬂuence children’s social
+relationships indirectly by, for example, supporting
+effective prosocial behavior (Caputi et al., 2012). In
+keeping with the early arguments of Wellman
+(1990), the child’s mastery of FB has wide-ranging
+ramiﬁcations, which includes changes to the way
+we understand emotional phenomena. Thus, FB
+understanding is often necessary to grasp others’
+expressive, emotional behavior in terms of their idi-
+osyncratic construal of reality. However, sophisti-
+cated perspective taking skills are clearly not
+always necessary for manifestly empathic behaviors,
+such as those measured by empathic orientation in
+the current study (Zahn-Waxler, Radke-Yarrow,
+Wagner, & Chapman, 1992). Still, it is self-evident
+that sophisticated perspective taking can be used to
+put ourselves in a different kind of relation to
+others, so that we experience empathy for them.
+
+The current study, while making an important
+and unique contribution to the literature, only
+focused on one transition in children’s lives, that is,
+the transition to formal schooling. To provide fur-
+ther evidence for the conclusion drawn from this
+study, a promising avenue will be to examine the
+role of social understanding—including early ToM
+(Wellman & Liu, 2004) and advanced ToM (Miller,
+2009)—at various points when children change
+social environments.
+
+Limitations and Conclusion
+
+A number of limitations of the current study must
+be recognized. First, as discussed in the Introduction,
+it was important that children experienced a rela-
+tively stable school environment, without which it is
+difﬁcult to evaluate the possibility that social organi-
+zation becomes self-sustaining. However, recruit-
+ment of all children within each class was not
+possible nor was including nonparticipating children
+on the class list for social preference nominations.
+This resulted in a somewhat restricted peer group
+for children’s social preference nominations, which
+may have created a sampling bias and restricts the
+validity of the social preference index. This sampling
+issue limits the strength of our conclusions, although
+there is no reason to assume that it was necessarily
+biased toward over- or underestimating children’s
+social preference. The more likely possibility is that
+our sampling introduced additional error into the
+estimation of social preference stability, although
+Jiang and Cillessen (2005) report similar overall lev-
+els of stability in their meta-analysis examining social
+preference over time. Nevertheless, further research
+on the longitudinal relation between FB and social
+
+2400
+
+Fink, Begeer, Hunt, and de Rosnay
+
+preference, including a greater proportion of chil-
+dren from each class, would help to clarify our con-
+clusions.
+
+that
+
+conﬁdence
+
+A second methodological challenge was the fact
+that children’s social experiences prior coming to
+school were relatively unknown. An important
+strength of the current study was, fortuitously, the
+fact that children arrive in their new school pre-
+dominantly unknown to each other, allowing rea-
+sonable
+the Time 1 relations
+documented reﬂect the inﬂuence of social under-
+standing (FB, emotion, and empathy) on social pref-
+erence, and not the reverse. However, this is not to
+say that children’s prior social experience is not of
+relevance to their social preference upon entering a
+new school environment, and this is an important
+question we could not address in the design of the
+current study. Nevertheless, we can conclude that
+that the social understanding skills children bring
+with them to a new environment play an important
+role in the formation of new relationships.
+
+Third,
+
+in addition to FB, emotion recognition,
+and empathy, there are numerous other child char-
+acteristics (such as executive functioning, prosocial
+behavior, and academic functioning) that have been
+shown to be associated with social relationships at
+school that, due to the size of the current study, did
+not permit consideration (for a review see Rubin,
+Bukowski, & Parker, et al., 2006). Of particular
+importance is executive functioning, which has been
+shown to play a crucial role in both ToM under-
+standing (e.g., Carlson & Moses, 2001; Hughes &
+Ensor, 2007) and social relationships (e.g., Hughes,
+White, Sharpen, & Dunn, 2000). As such, including
+executive functioning in future longitudinal studies
+examining ToM and social relationships will help
+reﬁne the nature of the relation between these con-
+structs over time.
+
+Finally, it should be highlighted that children’s
+empathy was assessed via teacher report, while
+remaining measures were derived from child
+report. While multimethod studies are typically
+advised, the fact that teachers only contributed to
+the ﬁndings via their empathy reports may have
+inﬂuenced the ﬁndings of
+study.
+Although this teacher-reported empathy measure
+has been widely used (e.g., Eisenberg, 2000; Eisen-
+berg et al., 1998; Findlay et al., 2006), teachers may
+not always be privy to the range of children’s
+empathic behaviors toward their peers, which may
+have underestimated the role played by empathy in
+children’s social relationships.
+
+current
+
+the
+
+Notwithstanding these limitations,
+
+the current
+study highlights the role of FB in establishing chil-
+
+dren’s position in their social groups, and the
+enduring nature of this social position. Given that
+poor social relationships during the early school
+years have been shown to have far-reaching impli-
+cations for later relationships and adjustment, the
+current
+study provides a unique
+insight into the role played by FB in the establish-
+ment and maintenance of social relationships and
+highlights the lasting power of peer group dynam-
+ics, and by doing so provides practical implications
+for the timing and design of interventions to pro-
+mote positive social relationships.
+
+longitudinal
+
+References
+
+Astington,
+
+J. W.
+
+(2001). The future of
+
+theory-of-mind
+research: Understanding motivational states, the role of
+language, and real-world consequences. Child Develop-
+ment, 72, 685–687. doi:10.1111/1467-8624.00305
+
+Astington, J. W. (2003). Sometimes necessary, never sufﬁ-
+cient: False-belief understanding and social competence.
+New York, NY: Psychology Press.
+
+Astington, J. W., & Baird, J. A. (2005). Why language mat-
+ters for theory of mind. New York, NY: Oxford Univer-
+sity Press.
+
+Astington, J. W., & Jenkins, J. M. (2000). Theory of mind
+and social behavior: Causal models tested in a longitu-
+dinal study. Merrill-Palmer Quarterly, 46, 203–220.
+
+Babad, E. (2001). On the conception and measurement of
+popularity: More facts and some straight conclusions.
+Social Psychology of Education, 5, 3–29. doi:10.1023/
+A:1012780232587
+
+Badenes, L. V., Estevan, R. A. C., & Bacete, F. J. G. (2000).
+Theory of mind and peer rejection at school. Social
+Development, 9, 271–283. doi:10.1111/1467-9507.00125
+
+Banerjee, R., Watling, D., & Caputi, M. (2011). Peer rela-
+tions and the understanding of faux pas: Longitudinal
+evidence for bidirectional associations. Child Development,
+82, 1887–1905. doi:10.1111/j.1467-8624.2011.01669.x
+
+Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R., &
+Plaisted, K. (1999). Recognition of faux pas by normally
+developing children and children with Asperger syn-
+drome. Journal of Autism and Developmental Disorders,
+29, 407–418. doi:10.1023/A:1023035012436
+
+Bartsch, K., & Wellman, H. M. (1995). Children talk about
+
+the mind. New York, NY: Oxford University Press.
+
+Begeer, S., Malle, B. F., Nieuwland, M. S., & Keysar, B.
+(2010). Using theory of mind to represent and take part
+in social
+interactions: Comparing individuals with
+high-functioning autism and typically developing con-
+trols. European Journal of Developmental Psychology, 7,
+104–122. doi:10.1080/17405620903024263
+
+Blair, R.
+
+J. R.
+
+(2005). Responding to the emotions of
+others: Dissociating forms of empathy through the
+typical and psychiatric populations. Con-
+study of
+Journal, 14,
+sciousness and Cognition: An International
+698–718. doi:10.1016/j.concog.2005.06.004
+
+Braza, F., Azurmendi, A., Munoz, J. M., Carreras, M. R.,
+Braza, P., Garcia, A., . . . Sanchez-Martin, J. R. (2009).
+Social cognitive predictors of peer acceptance at age 5
+and the moderating effects of gender. British Journal of
+Developmental Psychology, 27, 703–716. doi:10.1348/
+026151008X360666
+
+Bukowski, W. M., Pizzamiglio, M. T., Newcomb, A. F., &
+Hoza, B. (1996). Popularity as an affordance for friend-
+ship: The link between group and dyadic experience.
+Social Development, 5, 189–202. doi:10.1111/j.1467-9507.
+1996.tb00080.x
+
+Caputi, M., Lecce, S., Pagnin, A., & Banerjee, R. (2012).
+Longitudinal effects of theory of mind on later peer
+relations: The role of prosocial behavior. Developmental
+Psychology, 48, 257–270. doi:10.1037/a0025402
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differ-
+ences in inhibitory control and children’s theory of
+mind. Child Development, 72, 1032–1053. doi:10.1111/
+1467-8624.00333
+
+Cassidy, K. W., Werner, R. S., Rourke, M., Zubernis, L. S., &
+Balaraman, G. (2003). The relationship between psycho-
+logical understanding and positive social behaviors. Social
+Development, 12, 198–221. doi:10.1111/1467-9507.00229
+
+Cillessen, A. H. N., & Mayeux, L. (2004). Sociometric sta-
+tus and peer group behavior: Previous ﬁndings and
+current directions. In J. B. Kupersmidt & K. A. Dodge
+(Eds.), Children’s peer relations: From development to inter-
+vention (pp. 3–20). Washington, DC: American Psycho-
+logical Association.
+
+Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimen-
+sions and types of social status: A cross-age perspec-
+tive. Developmental Psychology, 18, 557–570. doi:10.1037/
+0012-1649.18.4.557
+
+Denham, S. A., Blair, K. A., DeMulder, E., Levitas, J.,
+Sawyer, K., Auerbach-Major, S., & Queenan, P. (2003).
+Preschool emotional competence: Pathway to social
+competence. Child Development, 74, 238–256. doi:10.
+1111/1467-8624.00533
+
+Denham, S. A., & Holt, R. W. (1993). Preschoolers’ likabil-
+ity as cause or consequence of their social behavior.
+Developmental Psychology, 29, 271–275. doi:10.1037/
+0012-1649.29.2.271
+
+Denham, S. A., McKinley, M., Couchoud, E. A., & Holt,
+R. (1990). Emotional and behavioral predictors of pre-
+school peer ratings. Child Development, 61, 1145–1152.
+doi:10.1111/j.1467-8624.1990.tb02848.x
+
+de Rosnay, M., Harris, P. L., & Pons, F. (2008). Making
+links between emotion understanding and developmen-
+tal psychopathology in young children. In C. Sharp, P.
+Fonagy, & I. Goodyear (Eds.), Social cognition and devel-
+opmental psychopathology (pp. 343–385). New York, NY:
+Oxford University Press.
+
+de Rosnay, M., Pons, F., Harris, P. L., & Morrell, J. M. B.
+(2004). A lag between understanding false-belief and
+emotion attribution in young children: Relationships
+with linguistic ability and mothers’ mental-state lan-
+guage. British Journal of Developmental Psychology, 22,
+197–218. doi:10.1348/026151004323044573
+
+FB Understanding and Social Preference
+
+2401
+
+Diesendruck, G., & Ben-Eliyahu, A. (2006). The relation-
+ships among social cognition, peer acceptance, and
+social behavior in Israeli kindergartners. International
+Journal of Behavioral Development, 30, 137–147. doi:10.
+1177/0165025406063628
+
+Dockett, S., & Degotardi, S. (1997). Some implications of
+popularity at age four. Journal of Australian Research in
+Early Childhood Education, 1, 21–31.
+
+International
+
+Dunn, J. (2000). Mind-reading, emotion understanding,
+and relationships.
+Journal of Behavioral
+Development, 24, 142–144. doi:10.1080/016502500383241
+Eggum, N. D., Eisenberg, N., Kao, K., Spinrad, T. L., Bol-
+nick, R., Hofer, C., . . . Fabricius, W. V. (2011). Emotion
+understanding, theory of mind, and prosocial orienta-
+tion: Relations over time in early childhood. Journal of
+Positive Psychology, 6, 4–16. doi:10.1080/17439760.2010.
+536776
+
+Eisenberg, N.
+
+(2000). Empathy and sympathy.
+
+In M.
+Lewis & J. M. Haviland-Jones (Eds.), Handbook of emo-
+tions (2nd ed., pp. 677–691). New York, NY: Guilford.
+
+Eisenberg, N., Fabes, R. A., Shepard, S. A., Murphy, B.
+C., Jones, S., & Guthrie, I. K. (1998). Contemporaneous
+and longitudinal prediction of children’s sympathy
+from dispositional regulation and emotionality. Develop-
+mental Psychology, 34, 910–924. doi:10.1037/0012-1649.
+34.5.910
+
+Ensor, R., & Hughes, C. (2008). Content or connected-
+ness? Mother-child talk and early social understanding.
+Child Development, 79, 201–216. doi:10.1111/j.1467-8624.
+2007.01120.x
+
+Findlay, L. C., Girardi, A., & Coplan, R. J. (2006). Links
+between empathy, social behavior, and social under-
+standing in early childhood. Early Childhood Research
+Quarterly, 21, 347–359. doi:10.1016/j.ecresq.2006.07.009
+
+French, D. C., & Waas, G. A. (1986). Teachers’ ability to
+identify peer-rejected children: A comparison of socio-
+metrics and teacher ratings. Journal of School Psychology,
+23, 347–353. doi:10.1016/0022-4405(85)90047-0
+
+Graziano, P. A., Keane, S. P., & Calkins, S. D. (2007). Car-
+diac vagal regulation and early peer status. Child Develop-
+ment, 78, 264–278. doi:10.1111/j.1467-8624.2007.00996.x
+
+Harris, P. L., Johnson, C. N., Hutton, D., Andrews, G., &
+Cooke, T. (1989). Young children’s theory of mind and
+emotion. Cognition and Emotion, 3, 379–400. doi:10.
+1080/02699938908412713
+
+Harter, S. (1982). The Perceived Competence Scale for
+Children. Child Development, 53, 87–97. doi:10.2307/
+1129640
+
+Hresko, W. P., Reid, D. K., & Hammill, D. D. (1999). Test
+of Early Language Development (3rd ed.). Austin, TX:
+Pro-Ed.
+
+Hughes, C., Adlam, A., Happe, F., Jackson, J., Taylor, A.,
+& Caspi, A. (2000). Good test-retest reliability for stan-
+dard and advanced false-belief
+tasks across a wide
+range of abilities. Journal of Child Psychology and Psychia-
+try, 41, 483–490. doi:10.1017/S0021963099005533
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and
+emotion: Longitudinal associations with mental-state
+
+2402
+
+Fink, Begeer, Hunt, and de Rosnay
+
+talk between young friends. Developmental Psychology,
+34, 1026–1037. doi:10.1037/0012-1649.34.5.1026
+
+Hughes, C., & Ensor, R. (2007). Executive function and
+theory of mind: Predictive relations from ages 2 to 4.
+Developmental Psychology, 43, 1447–1459. doi:10.1037/
+0012-1649.43.6.1447
+
+Hughes, C., Jaffee, S. R., Happe, F., Taylor, A., Caspi, A.,
+& Mofﬁtt, T. E. (2005). Origins of individual differences
+in theory of mind: From nature to nurture? Child Devel-
+opment, 76, 356–370. doi:10.1111/j.1467-8624.2005.008
+50_a.x
+
+Hughes, C., & Leekam, S. R. (2004). What are the links
+between theory of mind and social relations? Review,
+reﬂections and new directions for studies of typical and
+atypical development. Social Development, 13, 590–619.
+doi:10.1111/j.1467-9507.2004.00285.x
+
+Hughes, C., White, A., Sharpen, J., & Dunn, J. (2000).
+Antisocial, angry, and unsympathetic: “Hard-to-man-
+age” preschoolers’ peer problems and possible cogni-
+tive
+and
+Psychiatry, 41, 169–179. doi:10.1111/1469-7610.00558
+
+of Child Psychology
+
+inﬂuences.
+
+Journal
+
+Izard, C., Fine, S., Schultz, D., Mostow, A., Ackerman, B.,
+& Youngstrom, E. (2001). Emotion knowledge as a pre-
+dictor of social behavior and academic competence in
+children at risk. Psychological Science, 12, 18–23. doi:10.
+1111/1467-9280.00304
+
+Jiang, X. L., & Cillessen, A. H. N. (2005). Stability of con-
+tinuous measures of sociometric status: A meta-analy-
+sis. Developmental Review, 25, 1–25. doi:10.1016/j.dr.
+2004.08.008
+
+Johnson, C., Ironsmith, M., Snow, C., & Poteat, G. M.
+(2000). Peer acceptance and social adjustment in pre-
+school and kindergarten. Early Childhood Education Jour-
+nal, 27, 207–212. doi:10.1023/B:ECEJ.0000003356.30481.
+7a
+
+Ladd, G. W., Price, J. M., & Hart, C. H. (1988). Predicting
+preschoolers’ peer status from their playground behav-
+iors. Child Development, 59, 986–992. doi:10.2307/
+1130265
+
+Lagattuta, K. H., Sayfan, L., & Blattman, A. J. (2010). For-
+getting common ground: Six-to seven-year-olds have
+an overinterpretive theory of mind. Developmental Psy-
+chology, 46, 1417–1432. doi:10.1037/a0021062
+
+Lalonde, C. E., & Chandler, M. J. (1995). False belief
+understanding goes to school: On the socio-emotional
+consequences of coming early or late to a ﬁrst theory of
+mind. Cognition and Emotion, 9, 167–185. doi:10.1080/
+02699939508409007
+
+Lecce, S., Bianco, F., Devine, R. T., Hughes, C., & Baner-
+jee, R. (2014). Promoting theory of mind during middle
+childhood: A training program. Journal of Experimental
+Child Psychology, 126, 52–67. doi:10.1016/j.jecp.2014.03.
+002
+
+Liddle, B., & Nettle, D. (2006). Higher-order theory of
+mind and social competence in school-age children. Jour-
+nal of Cultural and Evolutionary Psychology, 4, 231–244.
+doi:10.1556/JCEP.4.2006.3-4.3
+
+McDougall, P., Hymel, S., Vaillancourt, T., & Mercer, L.
+(2001). The consequences of childhood peer rejection. In
+M. R. Leary (Ed.), Interpersonal rejection (pp. 213–247).
+New York, NY: Oxford University Press.
+
+Miller, S. A. (2009). Children’s understanding of second-
+order mental states. Psychological Bulletin, 135, 749–773.
+doi:10.1037/a0016854
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Lan-
+guage and theory of mind: Meta-analysis of the relation
+between language ability and false-belief understand-
+ing. Child Development, 78, 622–646. doi:10.1111/j.
+1467-8624.2007.01018.x
+
+Moore, C., & Frye, D. (1991). The acquisition and utility
+of theories of mind. In D. Frye, & C. Moore (Eds.), Chil-
+dren’s theories of mind: Mental states and social understand-
+ing (pp. 1–14). Mahwah, NJ: Erlbaum.
+
+Parker, J. G., & Asher, S. R. (1987). Peer relations and
+later personal adjustment: Are low-accepted children at
+risk? Psychological Bulletin, 102, 357–389. doi:10.1037/
+0033-2909.102.3.357
+
+Perner, J., Leekam, S. R., & Wimmer, H. (1987). Three-
+year-olds’ difﬁculty with false belief: The case for a
+conceptual deﬁcit. British Journal of Developmental Psy-
+chology,
+doi:10.1111/j.2044-835X.1987.
+tb01048.x
+
+125–137.
+
+5,
+
+Perner, J., & Wimmer, H. (1985). John thinks that Mary
+thinks that..: Attribution of second-order beliefs by 5- to
+10-year-old children. Journal of Experimental Child Psychol-
+ogy, 39, 437–471. doi:10.1016/0022-0965(85)90051-7
+
+Peterson, C. C., & Siegal, M. (2002). Mindreading and
+moral awareness in popular and rejected preschoolers.
+British Journal of Developmental Psychology, 20, 205–224.
+doi:10.1348/026151002166415
+
+Pons, F., Harris, P. L., & de Rosnay, M. (2004). Emotion
+comprehension between 3 and 11 years: Developmental
+periods and hierarchical organization. European Journal
+of Developmental Psychology, 1, 127–152. doi:10.1080/
+17405620344000022
+
+Rubin, K. H., Bukowski, W. M., & Parker, J. G. (2006).
+Peer interactions, relationships, and groups. Hoboken, NJ:
+Wiley.
+
+Ruffman, T., & Keenan, T. R. (1996). The belief-based
+emotion of surprise: The case for a lag in understand-
+ing relative to false belief. Developmental Psychology, 32,
+40–49. doi:10.1037/0012-1649.32.1.40
+
+Saarni, C. (1999). The development of emotional competence.
+
+New York, NY: Guilford Press.
+
+Sandstrom, M. J., & Coie, J. D. (1999). A developmental
+perspective on peer rejection: Mechanisms of stability
+and change. Child Development, 70, 955–966. doi:10.
+1111/1467-8624.00069
+
+Schultz, D., Izard, C. E., Ackerman, B. P., & Youngstrom,
+E. A. (2001). Emotion knowledge in economically dis-
+advantaged children: Self-regulatory antecedents and
+relations to social difﬁculties and withdrawal. Develop-
+and Psychopathology, 13, 53–67. doi:10.1017/
+ment
+S0954579401001043
+
+Schultz, D., Izard, C. E., & Bear, G. (2004). Children’s emo-
+tion processing: Relations to emotionality and aggres-
+sion. Development and Psychopathology, 16, 371–387.
+doi:10.1017/S0954579404044566
+
+Slaughter, V., Dennis, M. J., & Pritchard, M. (2002). The-
+ory of mind and peer acceptance in preschool children.
+British Journal of Developmental Psychology, 20, 545–564.
+doi:10.1348/026151002760390945
+
+Slaughter, V., Imuta, K., Peterson, C., & Henry, J. (2014).
+Meta-analysis of theory of mind and peer popularity in the
+preschool and early school years. Manuscript submitted
+for publication.
+
+Underwood, B., & Moore, B. (1982). Perspective-taking
+and altruism. Psychological Bulletin, 91, 143–173. doi:10.
+1037/0033-2909.91.1.143
+
+Watson, A. C., Nixon, C. L., Wilson, A., & Capage, L.
+(1999). Social interaction skills and theory of mind in
+young children. Developmental Psychology, 35, 386–391.
+doi:10.1037/0012-1649.35.2.386
+
+Weimer, A. A., & Guajardo, N. R. (2005). False belief,
+emotion understanding, and social skills among Head
+
+FB Understanding and Social Preference
+
+2403
+
+Start and non-Head Start children. Early Education and
+Development, 16, 341–366. doi:10.1207/s15566935eed
+1603_3
+
+Wellman, H. M. (1990). The child’s theory of mind. Cam-
+
+bridge, MA: MIT Press.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-
+theory-of-mind development: The truth
+false belief. Child Development, 72, 655–684.
+
+analysis of
+about
+doi:10.1111/1467-8624.00304
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-
+of-mind tasks. Child Development, 75, 523–541. doi:10.
+1111/j.1467-8624.2004.00691.x
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs:
+Representation and constraining function of wrong
+beliefs in young children’s understanding of deception.
+Cognition,
+doi:10.1016/0010-0277(83)
+90004-5
+
+103–128.
+
+13,
+
+Zahn-Waxler, C., Radke-Yarrow, M., Wagner, E., & Chap-
+man, M. (1992). Development of concern for others.
+Developmental Psychology, 28, 126–136. doi:10.1037/
+0012-1649.28.1.126
+
+

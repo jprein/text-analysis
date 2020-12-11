@@ -1,0 +1,2130 @@
+Early Family Experience, Social Problem Solving Patterns, and Children's Social 
+Competence
+Author(s): Gregory S. Pettit, Kenneth A. Dodge and Melissa M. Brown 
+Source: Child Development, Feb., 1988, Vol. 59, No. 1 (Feb., 1988), pp. 107-120  
+Published by: Wiley on behalf of the Society for Research in Child Development 
+
+ 
+
+Stable URL: http://www.jstor.com/stable/1130393
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide 
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and 
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. 
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at 
+https://about.jstor.org/terms
+
+Wiley and Society for Research in Child Development are collaborating with JSTOR to digitize, 
+preserve and extend access to Child Development
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Early Family Experience, Social Problem
+ Solving Patterns, and Children's Social
+ Competence
+
+ Gregory S. Pettit
+ University of Tennessee
+
+ Kenneth A. Dodge
+ Vanderbilt University
+
+ Melissa M. Brown
+
+ Indiana University
+
+ PETTIT, GREGORY S.; DODGE, KENNETH A.; and BROWN, MELISSA M. Early Family Experience,
+ Social Problem Solving Patterns, and Children's Social Competence. CHILD DEVELOPMENT, 1988,
+ 59, 107-120. The relations among early social and familial experience, social problem solving skill,
+ and social competence in the classroom were examined in a sample of 46 preschool (4- and 5-year-
+ old) children from economically distressed backgrounds. The hypothesis was tested that (a) early
+ family experiences would be related to classroom social competence, and (b) that this relation would
+ be mediated by the child's social problem solving patterns. Early experience was assessed during a
+ semistructured home-visit interview with each child's mother. Measures derived from this interview
+ included the child's level of exposure to deviant aggressive models, maternal values and expecta-
+ tions for the child, harshness of discipline toward the child, use of preventive teaching with the
+ child, and the child's degree of early experience with peers. The child's classroom competence was
+ assessed by sociometric nominations and teacher ratings of aggressiveness and social skill. Re-
+ sponses to hypothetical social problems were used to generate measures of the child's social prob-
+ lem solving patterns. Several dimensions of family experience were found to be predictive of both
+ classroom social competence and social problem solving. Stepwise regression analyses revealed that
+ some kinds of early experience (e.g., early experience with peers) appeared to have a direct impact
+ on peer outcomes, whereas for other experiences (e.g., exposure to deviant maternal values and
+ expectations), the relation to social competence with peers was mediated by the child's social
+ problem solving skills and patterns. The need to consider family relationship factors when design-
+ ing preventive intervention programs for socially incompetent children was stressed.
+
+ Over the past several years, researchers
+
+ increasingly have sought to describe the pro-
+ cesses by which children become socially
+ competent. Interest in social competence,
+ particularly during the early elementary
+ school years, has been fueled by accumulat-
+ ing data indicating that children who are so-
+ cially rejected at this age are at heightened
+ risk for maladaptive outcomes in adolescence
+ and early adulthood (Kupersmidt, Coie,
+ Dodge, & Rabiner, in press). Study of the ori-
+ gins of social competence has progressed
+ along two parallel paths. One path has been
+ followed by researchers who have focused on
+
+ the quality of family relationships and early
+ experiences, and the other by those who have
+ focused on the social problem solving skills
+ and information-processing patterns; until re-
+ cently, these two paths have not crossed. The
+ goal of the present research was to test the
+ hypothesis that early family experiences in-
+ fluence the quality of peer relations by in-
+ fluencing a child's pattern of processing social
+ information.
+
+ Current research and theory indicate that
+ children learn many of their social behavioral
+ patterns in their family of origin (see Maccoby
+
+ The authors wish to thank the staff and administration of the Monroe County (Indiana) Com-
+ munity Action Program for their enthusiastic help and support in the conduct of this research. The
+ authors are grateful to Eleanor Maccoby and Gary Peterson for their helpful comments on an earlier
+ version of the manuscript, and to Wanda Bronson for her generous editorial assistance. Appreciation
+ is also expressed to Brad Gumbert for his many important contributions to the project. Reprint
+ requests should be sent to Gregory S. Pettit, Department of Child and Family Studies, College of
+ Human Ecology, University of Tennessee, Knoxville, TN 37996-1900.
+
+ [Child Development, 1988, 59, 107-120. ? 1988 by the Society for Research in Child Development, Inc.
+ All rights reserved. 0009-3920/88/5901-0019$01.00]
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 108 Child Development
+
+ & Martin, 1983), suggesting that early family
+ experience may play a key role in the devel-
+ opment of social skills and status among peers
+ in the school setting. Although few investiga-
+ tors have directly examined the link between
+ family experience and children's social status,
+ the relation between the quality of parenting
+ and more general forms of childhood social
+ competence has been considered in several
+ studies. For example, it has been shown that
+ children who establish secure attachment re-
+ lationships during infancy are more likely to
+ be competent with peers (typically defined in
+ terms of teacher ratings of social skill) than
+ insecurely attached infants at ages 2-5 years
+ (Arend, Gove, & Sroufe, 1979; Easterbrooks
+ & Lamb, 1979; Lieberman, 1977; Main &
+ Weston, 1981; Pastor, 1981; Waters, Wipp-
+ man, & Sroufe, 1979). These studies have
+ been important in demonstrating the continu-
+ ity of human adaptation in the early yeats, but
+ the molar construct of attachment does not in-
+ form us about the processes by which chil-
+ dren acquire socially skilled behaviors.
+
+ Other research has focused on the rela-
+
+ tion between specific parenting practices and
+ children's social competence. In general, this
+ work has shown that hostile, inconsistent par-
+ enting predicts the development of socially
+ incompetent (e.g., aggressive) behavior in
+ children (Baldwin, 1955; Baumrind, 1967;
+ Eron, 1982; George & Main, 1979; Winder &
+ Rau, 1962). Conversely, socially competent
+ behavior with peers (e.g., affiliative, co-
+ operative behavior) is predicted by warm, re-
+ sponsive parenting (Baumrind, 1967, 1971;
+ Bryant & Crockenberg, 1980). Proactive
+ methods, especially parental teaching and
+ "dialoguing," have also been linked to chil-
+ dren's development of competence (Pettit &
+ Bates, 1987; Spivack, Platt, & Shure, 1976).
+
+ Two recent studies have focused explic-
+ itly on attributes of the parent-child relation-
+ ship that may be related to children's social
+ behavior and acceptance in the peer group.
+ MacDonald and Parke (1984) observed moth-
+ ers and fathers interacting with their pre-
+ school-aged child and then correlated ob-
+ served attributes of this interaction with the
+ child's adaptation among peers, as noted by
+ teachers. Competent boys had fathers who
+ were physically playful, eliciting positive af-
+ fect during play, and mothers who were ver-
+ bally stimulating. Competent girls had fathers
+ (but not mothers) who were verbally stimulat-
+ ing. MacDonald and Parke speculated that af-
+ fect-arousing encounters such as physical
+ play may assist children in the acquisition of
+ friendship-making skills by providing the
+
+ children with practice in encoding and re-
+ sponding to others' affective signals.
+
+ Putallaz (1987) also examined the rela-
+ tion between parenting variables and chil-
+ dren's social behavior. A number of maternal
+ behaviors assessed in a standard laboratory
+ parent-child interaction were found to be sig-
+ nificantly correlated with first-grade chil-
+ dren's sociometric status and social behavior
+ with peers. Mothers who used positive verbal
+ statements (e.g., polite requests and sugges-
+ tions) and were less disagreeable and de-
+ manding had children who were more so-
+ cially accepted as well as more positive and
+ less abrasive in observed interactions with
+ peers. Putallaz also examined the relation be-
+ tween maternal behavior and children's social
+ knowledge (i.e., problem solving skills) and
+ the relation between children's social knowl-
+ edge and their social status. The quality of a
+ child's solutions to hypothetical social prob-
+ lems was found to be predictable from mater-
+ nal behavior, and a child's social problem sol-
+ ving skills in turn predicted that child's social
+ status. These findings are consistent with the
+ hypothesis that parent-child interaction af-
+ fects peer competence by leading to incre-
+ ments in social cognitive skills that are the
+ basis of competent peer-directed behavior.
+
+ There are many other ways that early
+ family experiences may have an impact on a
+ child's social competence. For instance, par-
+ ents may or may not provide their children
+ with early opportunities for peer experience
+ (see Parke, MacDonald, Beitel, & Bhavnagri,
+ in press), and this has been shown to have
+ consequences for the child's social compe-
+ tence in later peer settings (Harper & Huie,
+ 1985; Ladd & Price, 1986; Lieberman, 1977;
+ Roopnarine, 1985). At still another level, par-
+ ents may influence their child's level of social
+ competence by minimizing the child's expo-
+ sure to violence and social trauma (see re-
+ views by Hetherington & Martin, 1979; and
+ Rutter, 1981). Parents who have negative or
+ developmentally inappropriate expectations
+ for the child's behavior may also contribute to
+ their child's development of social compe-
+ tence (Dix & Grusec, 1985). It is reasonable to
+ hypothesize, then, that restrictive discipline,
+ the absence of proactive teaching, lack of
+ early peer experience, the experience of so-
+ cial trauma, and exposure to deviant social ex-
+ pectations could predict later social rejection
+ from peers.
+
+ The research described above suggests
+
+ that early social experiences may play an im-
+ portant role in children's development of so-
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Pettit, Dodge, and Brown 109
+
+ tions between early family experience mea-
+ sures and measures of classroom peer rela-
+ tions would become nonsignificant when
+ measures of social information processing pat-
+ terns are controlled through partial correla-
+ tional (or hierarchical regression) procedures.
+ The alternate hypothesis, that early family ex-
+ periences influence peer outcomes in ways
+ that are not mediated by processing patterns,
+ was also tested.
+
+ cial interactive competence. However, the ac-
+ tual mechanism by which family experience
+ and peer competence become linked-that is,
+ how early social experience is transformed
+ into social behavior that the child may display
+ in extrafamilial contexts-remains unclear.
+ The writings of Putallaz (1987) and MacDon-
+ ald and Parke (1984) suggest that social prob-
+ lem-solving patterns may mediate the impact
+ of early social experience on future social be-
+ havior, and recent research in attachment
+ (e.g., Main, Kaplan, & Cassidy, 1985) has like-
+ wise suggested that social cognitive represen-
+ tations of early experience may serve impor-
+ tant functions in the acquisition of social
+ competence. This possibility, however, has
+ not yet received direct empirical study.
+
+ Several recent studies by researchers fol-
+ lowing the second path described earlier
+ (e.g., Dodge, 1986; Rubin & Krasnor, 1986)
+ have clearly shown that social cognitive pat-
+ terns, especially attributional biases, aggres-
+ sive response tendencies, and problem solv-
+ ing skill deficits, correlate with and antecede
+ behavior patterns that lead to peer rejection.
+ Relatively few investigators have examined
+ directly the social origins of these social cog-
+ nitive patterns, but the results of those studies
+ suggest that the same early experiences that
+ act on social behavioral development also act
+ on the development of social cognitive skills
+ (Bryant & Crockenberg, 1980; Costanzo &
+ Dix, 1983; Elias, Ubriaco, & Gray, 1985;
+ Jones, Rickel, & Smith, 1980; Smetana, Kelly,
+ & Twentyman, 1984; Spivack et al., 1976).
+ These early experiences include social
+ trauma, exposure to incompetent parenting,
+ being raised in an environment that endorses
+ socially inappropriate values, and limited op-
+ portunities to interact with peers.
+
+ In the present study, we examined the
+ origins of children's social problem solving
+ patterns and social competence, as well as the
+ mechanisms by which children achieve that
+ competence. On the basis of the literature re-
+ viewed earlier, specific features of the early
+ social and family environment were hypothe-
+ sized to have an impact on the development
+ of social problem solving patterns and social
+ behavior of children at age 5. It was hypothe-
+ sized that children's social acceptance and so-
+ ciometric status would be predictable from
+ early family experience and social informa-
+ tion processing patterns. It was further hy-
+ pothesized that the relation between early
+ family experiences and classroom peer rela-
+ tions would be mediated by the child's pat-
+ tern of processing social information. That is,
+ it was predicted that any significant correla-
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+ Method
+
+ SAMPLE
+
+ Subjects were drawn from the four class-
+ rooms of a federally sponsored preschool for
+ economically disadvantaged children that
+ serves a total of 63 4- and 5-year-olds and is
+ located in a medium-sized Midwestern com-
+ munity. Every child was given an announce-
+ ment describing the general purposes of the
+ study and containing an informed consent
+ form to take home; consent to participate was
+ obtained in 87% of cases (55 of 63, comprising
+ 28 boys and 27 girls). All but two children
+ were Caucasian; all families were from lower
+ socioeconomic backgrounds, and in 80% the
+ mother was the single parent. Full data were
+ subsequently obtained for 46 children (25
+ boys and 21 girls).
+
+ PROCEDURES AND MEASURES
+
+ Classroom Competence Measures
+
+ Four summary measures-social prefer-
+ ence, social status, classroom social skill, and
+ classroom aggression-were derived from rat-
+ ings provided by peers and teachers.
+
+ Peer ratings.-In individual interviews
+ conducted by undergraduate research assis-
+ tants, the children were shown photographs
+ of each classmate and asked in sequence (a)
+ to indicate on a five-point rating scale, "How
+ much do you like to play with - ?" (picto-
+ rial aids were used to assist in the rating pro-
+ cedure; see Asher, Singleton, Tinsley, & Hy-
+ mel, 1979); (b) to select from the full set of
+ photographs the three classmates the child
+ liked least, and liked most; (c) to name three
+ classmates who "cooperate, take turns, and
+ are nice to play with"; and (d) to name three
+ who "start fights, say mean things, and don't
+ share." After being asked what games they
+ like to play (to divert attention from the evalu-
+ ative aspect of the interview), the children
+ were returned to their classroom.
+
+ Teacher ratings.-Each classroom
+
+ teacher and teacher aide completed the 24-
+ item teacher checklist for each study child. As
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 110 Child Development
+
+ reported in Dodge (1986), this checklist
+ yields a composite score for the child's ag-
+ gressiveness (five items, alpha = .95) and so-
+ cial skill (seven items, alpha = .98) with
+ peers. Teacher and teacher aide scores
+ (which correlated r = .67 and .55, respec-
+ tively, on the two composites) were subse-
+ quently combined.
+
+ The social preference measure was de-
+ rived from classmates' ratings of how much
+ they liked to play with the child. First, peer-
+ nomination scores for liked most and liked
+ least were standardized within classrooms;
+ social preference was then indexed by sub-
+ tracting the liked-least score from the liked-
+ most score and restandardizing the differ-
+ ence. Social status groups were formed from
+ the peer ratings using the criteria described
+ by Coie, Dodge, and Coppotelli (1982). Using
+ standardized scores, children with social pref-
+ erence scores > 1.0, liked-most scores > 0,
+ and liked-least scores < 0 were assigned to
+ the "popular" group (N = 8). Children in the
+ "rejected" group (N = 9) had social prefer-
+ ence scores < -1.0, liked-most scores < 0,
+ and liked-least scores > 0. The social status of
+ the third group (N = 34) was either average
+ (i.e., social preference scores between -.5
+ and .5) or unclassifiable.1 Classroom social
+ skill was derived by combining teachers'
+ scores on the composite social skills variable
+ with frequency of selection by classmates as
+ being "cooperative"; the correlation between
+ these two indexes was .37 (p < .05).2 The
+ classroom aggression measure was derived
+ by combining aggression composite scores as-
+ signed by teachers with the index derived
+ from peer nominations (r = .47 between the
+ two indexes).
+ Social Problem Solving
+
+ Individual interviews aimed at assessing
+ social problem solving skills and deficits were
+ conducted with 49 of the study children by
+ undergraduate research assistants blind to
+ scores obtained by the children in other
+ phases of the study. Nine variables (propen-
+ sity to respond aggressively to hypothetical
+ provocations and eight indexes of qualities of
+ social problem solving skills) were derived
+ from this material and subsequently reduced
+ to a total of five summary measures.
+
+ 1. The child was shown eight videotaped
+
+ vignettes of two 8-10-year-old boys in which
+ one of the actors clearly provoked the other
+ while engaged in play (from Dodge, Murphy,
+ & Buchsbaum, 1984). The children were
+ asked what they would do if they were the
+ one being provoked; their responses were
+ coded as "forget it" (1), "ask why" (2), "tell
+ the teacher" (3), or "get mad" (4) by two inde-
+ pendent coders with an average agreement of
+ 98%.
+
+ 2. Four stories describing ambiguous
+ provocations of a character of the same sex as
+ the child were read to the subject (from
+ Dodge, 1980). The child was then asked how
+ she or he would react to the provocation. The
+ aggressiveness of the child's response (i.e.,
+ the willingness of the child to express anger
+ or hostility) was scored on the same four-point
+ scale as described above by two independent
+ coders with an average of 95% agreement. A
+ summary measure of aggressiveness in hypo-
+ thetical provocation was defined by the mean
+ aggressiveness rating obtained across this and
+ the previous procedure (alpha for the 12
+ items-i.e., eight vignettes and four stories-
+ was .73).
+
+ 3. Each child was given Rubin's Social
+ Problem Solving Test (1983) in which four
+ stories describing object-acquisition issues
+ (e.g., getting a balloon from another child) and
+ three centered on friendship initiation (e.g.,
+ making friends with a new child in class) are
+ read to the child, who is also shown pictures
+ depicting the given situation (with sex of story
+ character matched to that of the subject). The
+ child was asked how she or he would resolve
+ the social problem; after noting the response,
+ the interviewer probed for additional possible
+ solutions ("If that didn't work, what else
+ could you say or do in order to ...") until no
+ further response could be obtained. Four
+ measures were derived from each of the two
+ types of stories: (1) total number of solutions
+ (mean interrater proportional agreement =
+ .99; alpha = .88 and .85 for object acquisition
+ and friendship initiation, respectively); (2) to-
+ tal number of different solutions judged to be
+ relevant for solving the problem (interrater
+ agreement = .80; alphas = .85 and .85, re-
+ spectively); (3) proportion of solutions that
+
+ 1 The average (N = 18) and unclassifiable (N = 16) groups were combined because previous
+ research (Coie & Dodge, 1983) had shown them to be quite similar and because no differences were
+ found between these groups in the present research. Three "neglected" children and one "contro-
+ versial" child were also identified using the Coie et al. (1982) criteria; these children were excluded
+ from status-group comparisons.
+
+ 2 All composited measures described here and elsewhere in the article were standardized prior
+
+ to being summed.
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ were aggressive or coercive (interrater agree-
+ ment = .89; alphas = .86 and .83); and (4)
+ proportion of solutions that were prosocial
+ (interrater agreement = .89; alphas = .82 and
+ .69). The correlations across the two types-of-
+ problem stories in the total number of solu-
+ tions offered by the child, their relevancy,
+ and the proportion that were aggressive were
+ r = .84, .65, and .59, respectively (p < .001 in
+ all instances); scores on these three variables
+ were consequently combined across story
+ type into summary measures. Proportion of
+ prosocial solutions was not consistent across
+ stories (r = .19, N.S.); because prosocial solu-
+ tions to friendship initiation problems were
+ considered to be the more indicative of com-
+ petent reasoning, this measure was retained
+ and the object-acquisition prosocial response
+ variable was dropped from further analyses.
+ Family and Social Experiences
+
+ A trained clinical interviewer (with a
+ doctorate in clinical psychology or child de-
+ velopment, or advanced clinical graduate
+ training) who was unaware of the child's sta-
+ tus on any of the previously described mea-
+ sures visited 46 of the study mothers in their
+ homes for approximately 90 min. The child
+ was present during at least part of the inter-
+ view, which proceeded in four stages and was
+ recorded on audio-records. The 11 indexes
+ derived from the full interview were subse-
+ quently conceptually reduced to six summary
+ measures (defined at the end of this section).
+
+ 1. Mothers were asked a standard set of
+
+ questions about the child's experiences in in-
+ fancy (0-12 months), toddlerhood (1-4 years),
+ and the past 12 months; probes for details
+ were used as necessary. For each develop-
+ mental period, codings were made for (a)
+ presence (1) versus absence (0) of any evi-
+ dence or suspicion of physical abuse (defined
+ as inflicting some physical harm); (b) expo-
+ sure to some form of family violence, typically
+ spouse abuse (coded as yes = 1, no = 0), and
+ (c) use of physical punishment, coded as
+ "never" (0), "occasionally" (1), or "fre-
+ quently" (3). Codes assigned over the three
+ periods were summed for a score on each var-
+ iable.
+
+ The quality and quantity of early peer en-
+ counters described by the mother as experi-
+ enced by her child in toddlerhood and the
+ past 12 months were rated on four-point
+ scales and summed over the two periods; the
+ correlation between the resultant scores was
+ substantial (r = .62), and they were conse-
+ quently combined into a single measure of
+ quantity and quality of prior peer experience.
+
+ Pettit, Dodge, and Brown 111
+
+ Interrater agreement on these four in-
+ dexes (established by independent coding of
+ audio-records of all interviews) averaged .94
+ for abuse, .78 for exposure to violence, .78 for
+ discipline, and .66 for prior peer experience.
+ 2. The mother was read five vignettes in
+
+ which a child misbehaves in situations cen-
+ tering on responding to failure, ambiguous
+ provocation, failure at peer-group entry, social
+ normative expectations, and superiority
+ (these social situations have been found to be
+ important to peer relations in the early school
+ years by Dodge, McClaskey, & Feldman,
+ 1985). Following Costanzo and Fraenkel's
+ (personal communication) hypotheses con-
+ cerning the socialization importance of moth-
+ ers' degree of concern about misbehavior and
+ degree of constraint in response to the misbe-
+ havior, mothers were asked to indicate on
+ nine-point scales their responses to the fol-
+ lowing four sets of questions: (a) "How would
+ you feel if your child acted this way?" and
+ "How much would it worry you?"; responses
+ were both consistent across the five stories
+ (alphas = .60 and .82) and significantly cor-
+ related (r = .37), and were summed into a
+ single "degree-of-concern" composite. (b) Re-
+ sponses to "How much discipline would you
+ use?" and "How much would you punish
+ your child?" were similarly consistent across
+ stories (alphas = .62 and .65) and intercor-
+ related (r = .67), and were summed into a
+ single "degree-of-constraint" composite. (c)
+ Responses to "How much would you reason
+ with your child?" (alpha = .56) were used to
+ index mothers' "use of reasoning." Finally,
+ (d) responses to "How would you prevent
+ this situation from occurring in the first
+ place?" were rated on a four-point scale in-
+ dexing the extent of proactive (or preventive,
+ nonreactive) teaching. Ratings were reliable
+ (interrater agreement = .77) and internally
+ consistent (alpha = .76) and were summed
+ across stories into a single "proactive teach-
+ ing" score.
+
+ 3. Four stories describing an ambiguous
+
+ provocation directed toward the mother by
+ her child were read to the mother; her inter-
+ pretation of the event was scored as hostile (1)
+ or benign (0). Responses were internally con-
+ sistent across three of the four stories (alpha
+ = .66); responses from these three stories
+ were summed to yield a measure of"mother's
+ biases regarding the child's behavior."
+
+ 4. A 16-item questionnaire was adminis-
+ tered to the mother orally; she responded on
+ seven-point Likert-type scales with the assis-
+ tance of pictorial aids. The scale was devel-
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 112 Child Development
+
+ oped for this study and was used to derive an
+ eight-item measure assessing maternal en-
+ dorsement of aggression as a solution to inter-
+ personal problems (obtained alpha = .58) and
+ a three-item index of extent to which the child
+ had been exposed to aggressive models (al-
+ pha = .51; the remaining five items were
+ omitted).
+
+ Relying on conceptual guidelines, the in-
+ terview indexes were grouped into the fol-
+ lowing six measures: exposure to deviant, ag-
+ gressive models (four items, alpha = .68)--
+ incidence of physical abuse, exposure to vio-
+ lence, and physical punishment (see [1]
+ above) and the questionnaire index of expo-
+ sure to aggressive models (see [4]); restrictive
+ discipline style (three items, alpha = .84)--
+ degree of concern, degree of constraint, and
+ use of reasoning (see [2]); preventive teach-
+ ing (one item, see [2] above); mother's biased
+ expectations (one item, see [3] above); moth-
+ er's endorsement of aggression (one item, see
+ [4] above); and direct peer experience (one
+ item, see [1] above).
+
+ because the sheer number of generated re-
+ sponses increased their chances of hitting a
+ useful strategy. Children generating relevant
+ responses were also somewhat likely to gen-
+ erate prosocial responses (r = .43, p < .001).
+ Early Family Experience Measures
+
+ As can be seen in Table 1, several inter-
+ correlations among the measures derived
+ from the home-visit interview were signifi-
+ cant. The exposure-to-aggression measure
+ was modestly related to the endorsement-of-
+ aggression measure (r = .34, p < .01) and
+ direct peer experience (r = -.26, p < .05).
+ The endorsement of aggression was also re-
+ lated to mother-reported restrictive discipline
+ (r = .35, p < .01) and direct peer experience
+ (r = -.25, p < .05). The strongest correlation
+ in this set was between mothers' endorse-
+ ment of aggression and mothers' use of pre-
+ ventive teaching in response to the hypothet-
+ ical stories (r = -.50, p < .001). These
+ correlations suggest that, compared to other
+ mothers, mothers who endorse aggression as
+ an acceptable means of resolving conflict are
+ more likely to report that they model aggres-
+ sion, overly restrict the child's behavior, and
+ infrequently employ proactive teaching.
+ Mothers who model aggression and are re-
+ strictive with their child are also somewhat
+ less likely to report that their child has had
+ much direct experience with peers.
+
+ Together, these correlations suggest that
+ the facets of the child's early social experi-
+ ence, as we have measured them, are orga-
+ nized in predictable and meaningful ways.
+
+ SEX AND SOCIOMETRIC STATUS
+ DIFFERENCES
+
+ Since prior literature suggested that sex
+ and social status differences may be present
+ in children's social problem solving and so-
+ cial experience, our next step in data analysis
+ was to compare boys and girls and status
+ groups on these measures. Multivariate anal-
+ yses of variance (MANOVAs) were calculated
+ for each set of measures. No significant sex
+ differences or sex x status interactions were
+ found.4 A significant multivariate effect for
+ status did emerge for the social problem solv-
+ ing measures, F(10,72) = 2.06, p < .05. Uni-
+ variate tests indicated significant group differ-
+
+ Results
+
+ INTRADOMAIN RELATIONS
+
+ Classroom Competence Measures
+
+ The first step in data analysis was the
+ computation of bivariate correlations between
+ measures within each of the three data do-
+ mains.3 The intercorrelations of the classroom
+ social competence measures were examined
+ first and are presented in Table 1. Children
+ who were socially accepted in the classroom
+ were rated as more socially skilled (r = .67, p
+ < .001) and less aggressive (r = -.49, p <
+ .001) by their teachers and peers. Socially
+ skilled children were seen as less aggressive
+ (r = -.59, p < .001) by teachers and peers.
+ Social Problem Solving Measures
+
+ Correlation coefficients were next com-
+
+ puted among the five social problem solving
+ measures (see Table 1). The measure of chil-
+ dren's willingness to aggress was unrelated to
+ any of the measures derived from the Social
+ Problem Solving (SPS) Test. Children gener-
+ ating the greatest number of solutions on the
+ SPS test were more likely to generate rele-
+ vant solutions (r = .42, p < .001), perhaps
+
+ 3 Due to the possibility of nonnormal distributions of scores among these measures, scatterplots
+ were obtained for all correlations. The number of outlying cases was small in comparison to the
+ number of correlations calculated, and no one case was outlying across different sets of correlations.
+ Deletion of these outliers did not significantly alter the correlational patterns.
+
+ 4 Although the multivariate effects for the sex x status interactions were nonsignificant, inspec-
+
+ tion of cell N's revealed that boys and girls were distributed unevenly across status groups, that is,
+ 88% (eight of nine) of the children in the rejected group were boys.
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 10
+
+ Z C~IO
+ z
+
+ co;
+
+ PII
+
+ z
+
+ C-10
+
+ W I In I
+ CO 00I'll ?
+ __ cqCOcq
+
+ 00. c c3
+
+ t- 00in0 1 CO Cq
+
+ 0q CO -4 C0
+
+ 0-4 c 0 V3 cq in
+
+ > 0o cq 0 0c3
+
+ z
+
+ z 1.14C.l0 '1 .
+ z cH
+
+ CO m q q i cq J q
+
+ 0. V 0 co CO CO -
+
+ piI I
+
+ <
+
+ ZA
+
+ 1.14~00 C10 0 C.OC.01'-0
+
+ H 0 0C) C cq00a0c0
+
+ 0 f .cq 0 C#3 C)O'I C')c
+
+ OC.'
+
+ wzm I zI II 10--40ImC#1
+
+ * U
+
+ m '~ C#13 00010 U MM10 010
+ Q > C d bo D u cd Q 0
+ (n I I IC cI cI cf) iq
+ s., o sm ci cd Q cd ~i
+
+ ~11E vQ P" > Q 0 4,j~00 D 0
+
+ c...
+
+ E 00 ~~t cd 004 Qn0 ~o ~~
+
+ 10c
+ " Od O 3 d ci
+
+ 0u 0
+ Q ~: A
+
+ Ll ; t,- i vi t, i oi 'd; 16 "i vi L-3 C6~
+ -4 04..5 "0 s.. 5
+
+ $.4 04
+
+ +1
+
+ P. .IQ
+
+ 4 0Q
+
+ C'm V) tn - (n (n cn10 c
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 114 Child Development
+
+ ences for number of responses generated on
+ the SPS test, F(2,39) = 4.56, p < .02, and the
+ proportion of prosocial responses, F(2,39) =
+ 3.41, p < .05. Post hoc comparisons (LSD
+ method) indicated that popular children (M =
+ 5.11) generated significantly more solutions to
+ the SPS stories than did either average/un-
+ classified (M = 3.88) or rejected children (M
+ = 3.04). A greater proportion of the solutions
+ of popular children were classified as proso-
+ cial (M = .72) compared to children in the
+ average/unclassified group (M = .43).
+
+ A marginally significant multivariate ef-
+ fect for status was also found for the early-
+ experience measures, F(12,66) = 1.76, p <
+ .08. The univariate tests were examined be-
+ cause of conceptual interest in the relation be-
+ tween family experience and social status
+ with peers. However, caution should be exer-
+ cised in interpreting these differences. Sig-
+ nificant univariate effects emerged for the en-
+ dorsement-of-aggression measure, F(2,37) =
+ 4.67, p < .02, and for direct peer experience,
+ F(2,37) = 3.37, p < .05. Post hoc comparisons
+ revealed that popular children (M = 11.00)
+ were rated as having had more prior peer ex-
+ perience than either the average/unclassified
+ (M = 8.48) or rejected children (M = 6.87),
+ and mothers of popular children were less
+ likely to endorse aggression (M = 10.25) than
+ were mothers of average/unclassified (M =
+ 18.22) or rejected children (M = 20.57).
+
+ sures. Peer- and teacher-rated social skill was
+ significantly predicted by the family-ex-
+ perience measures (R = .58, p < .01). Social
+ preference and aggressiveness were not sig-
+ nificantly related to the early experience mea-
+ sures (R's = .42 and .37, respectively, both
+ N.S.). Examination of bivariate correlations
+ (shown in Table 1) revealed that social skill
+ was significantly related to mothers' reports of
+ direct peer experience (r = .33, p < .05),
+ mothers' biased expectations for the child's
+ behavior (r = -.40, p < .01), mothers' en-
+ dorsement of aggression (r = -.39, p < .01),
+ and restrictive discipline style (r = -.25, p <
+ .05). Similarly, social preference was related
+ to direct peer experience (r = .25, p < .05),
+ mothers' biased expectations (r = -.25, p <
+ .05), and mothers' endorsement of aggression
+ (r = -.30, p < .05). Classroom aggression
+ was predicted only by restrictive discipline (r
+ = .28, p < .05). Children who are more so-
+ cially competent in the classroom are thus
+ more likely to have had opportunities to in-
+ teract with other children (according to their
+ mothers) and are less likely to have restrictive
+ mothers or mothers who have deviant values
+ (endorsing aggression) and expectations (mak-
+ ing hostile attributions about their child in
+ hypothetical contexts). Overall, these results
+ indicate that there is a modest level of predic-
+ tion from the early social experience mea-
+ sures to children's classroom competence.
+ Social Problem Solving and Early Family
+ Experience
+
+ In the next set of analyses, the predict-
+ ability of the social problem solving measures
+ from the early experience measures was as-
+ sessed. The number-of-solutions measure was
+ significantly related to the early-experience
+ measures (R = .58, p < .01). The proportion
+ of relevant solutions and the proportion of
+ prosocial solutions were also marginally re-
+ lated to the early-experience measures (R =
+ .50, p < .06, and R = .49, p < .08, respec-
+ tively). The proportion of aggressive solutions
+ and overall aggressive responding were not
+ predictable from early family experience (R's
+ = .31 and .39, respectively). Bivariate correla-
+ tions are presented in Table 1. The early-ex-
+ perience measures exhibiting the strongest
+ pattern of prediction are mothers' biases
+ about the child and mothers' endorsement of
+ aggression. These variables are clearly associ-
+ ated with lowered levels of social problem
+ solving skill. The remaining correlations are
+ also predictable and interpretable, with the
+ exception of the positive correlation between
+ exposure to aggressive models and the num-
+ ber of solutions generated.
+
+ INTERDOMAIN RELATIONS
+
+ Social Competence and Social Problem
+ Solving
+
+ Multiple correlational analyses evaluated
+ the predictability of each of the classroom-
+ competence measures from the five social
+ problem solving measures. The multiple cor-
+ relations for social preference and social skill
+ were .65 and .60, respectively (both p < .01).
+ Peer- and teacher-rated aggressiveness was
+ less strongly predicted by the social cognitive
+ measures (R = .42, N.S.). The bivariate corre-
+ lations between the social cognitive measures
+ and social preference and social skill are
+ shown in Table 1. Comparable patterns of re-
+ lations are apparent for each classroom-com-
+ petence measure. Competence in the class-
+ room is associated with the ability to generate
+ numerous, highly relevant, and prosocial so-
+ lutions to the SPS test.
+
+ Social Competence and Early Family
+ Experience
+
+ Multiple correlations were next com-
+
+ puted between the classroom-competence
+ measures and the family-experience mea-
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Pettit, Dodge, and Brown 115
+
+ ing effect of social problem solving skill was
+ greatest for mothers' biases (a change from
+ -.39 to -.12) and endorsement of aggression
+ (-.27 to -.05), and least for direct peer expe-
+ rience (.33 to .29). In order to examine the
+ possible mediating effect of the social prob-
+ lem solving measures on each early experi-
+ ence measure, another series of stepwise re-
+ gression analyses were computed, in which
+ the social problem solving measures were
+ again entered first, followed by a single fam-
+ ily-experience measure. The only family-ex-
+ perience measure making a significant incre-
+ mental prediction was direct peer experience
+ (R2 change = .08, p < .05).
+
+ TESTING MODELS OF DEVELOPMENTAL
+ PATHS
+
+ The Path from Family Experiences to Social
+ Problem Solving to Social Competence
+
+ The preceding results provide evidence
+ of the links among early social experience, so-
+ cial problem solving patterns, and children's
+ competence with peers. In the next set of
+ analyses, we tested the hypothesis that the
+ relation between early experience and class-
+ room competence is mediated by the child's
+ social problem solving patterns. Thus, the re-
+ lation between competence and experience
+ was assessed while controlling statistically for
+ variations in the five social problem solving
+ measures. This was done by conducting a
+ stepwise regression analysis for each class-
+ room-competence measure in which the so-
+ cial problem solving measures were entered
+ first, followed by the early family experience
+ measures. Early family experience did not
+ provide significant incremental prediction of
+ either social preference or classroom aggres-
+ siveness, which is not surprising given that
+ the relation between these measures had pre-
+ viously been found to be nonsignificant.
+ However, the relation between social skill
+ and early family experience, which previ-
+ ously had been significant, was no longer so
+ when the social problem solving measures
+ were entered first. The results from this re-
+ gression analysis are presented in Table 2.
+ Examination of the changes in magnitudes of
+ the beta coefficients of individual family ex-
+ perience measures suggests that the mediat-
+
+ It would appear, then, that children's so-
+ cial problem solving patterns serve a mediat-
+ ing role in the relation between early experi-
+ ence and at least one facet of classroom
+ competence-children's social skill as rated
+ by teachers and peers. Of course, the possibil-
+ ity exists that no mediation is actually taking
+ place, but rather for some measures social ex-
+ perience and social problem solving are re-
+ dundant, or interchangeable. This possibility
+ was examined next.
+
+ The Path from Family Experiences to Social
+ Competence to Problem Solving Patterns
+
+ In the next set of analyses we examined
+ the degree to which the relation between
+ early social experience and social problem
+ solving was mediated by children's compe-
+ tence with peers in the classroom. To do this
+ we again performed a series of stepwise re-
+
+ SUMMARY OF MULTIPLE-REGRESSION ANALYSIS PREDICTING CLASSROOM COMPETENCE (Social Skill)
+
+ FROM SOCIAL PROBLEM SOLVING AND EARLY FAMILY EXPERIENCE
+
+ TABLE 2
+
+ F Value of
+ Variable Entered Beta Multiple R Increment
+
+ Social problem solving:
+
+ Aggressive responding ............................ -.19
+ SPS-fluency............................ ........ .26
+ SPS-relevancy ..................................... .44
+ SPS-aggressive ................. .................. .07
+ SPS- prosocial ..................................... .32
+
+ Total set .......................................... ... .60 4.60**
+
+ Early family experience:
+
+ Exposure to aggressive models ........................ -.06
+ Restrictive discipline .............................. -.13
+ Preventive teaching ............................... .10
+ Biased expectations ................................ -.12
+ Endorsement of aggression .......................... -.05
+ Direct peer experience ............................. .29
+
+ Total set ...................................... .... ... .69 1.22
+
+ ** p < .01.
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 116 Child Development
+
+ gression analyses (one for each social problem
+ solving measure) in which the three class-
+ room-competence measures were entered
+ first, followed by the early family experience
+ measures. As before, the proportion of aggres-
+ sive solutions generated and overall aggres-
+ sive responding were not predicted by the
+ early-experience measures. The measures of
+ relevancy and prosocial responding, which
+ had been marginally predicted by early expe-
+ rience, were not incrementally predicted
+ (even marginally so) by the early-experience
+ measures. However, the number-of-solutions
+ measure was incrementally predicted by
+ early experience (R2 change = .23, p < .05).
+ These results suggest that, at least for the
+ number of solutions generated, classroom
+ competence does not serve a mediating role
+ in the relation between social problem solv-
+ ing and early family experience.
+
+ The Path from Social Problem Solving to
+ Family Experiences to Social Competence
+
+ A final possible path of influence is that
+ leading from social problem solving to early
+ family experience to social competence. This
+ path was tested in the same manner as those
+ described before. Stepwise regression analy-
+ ses were performed for each classroom com-
+ petence measure, with the early family expe-
+ rience measures entered first, followed by the
+ social problem solving measures.
+
+ Not surprisingly, given the earlier de-
+ scribed results, social problem solving did
+ not provide a significant incremental predic-
+ tion for classroom aggression. However, so-
+ cial skill in the classroom, which had been
+ strongly predicted by social problem solving,
+ also was not incrementally predicted by these
+ measures. Social preference, on the other
+ hand, was not predicted by early experience
+ but was incrementally predicted by social
+ problem solving. The results from these re-
+ gressions are presented in Table 3.
+
+ For the two classroom-competence mea-
+ sures that were predicted by social problem
+ solving, one (social skill) loses that prediction
+ once the variance attributable to early family
+ experience has been partialed out. Examina-
+ tion of changes in the magnitudes of the beta
+ coefficients indicates that the mediating role
+ of early family experience was greatest for the
+ SPS-relevancy measure (a change from .44 to
+ .08). Changes in the sizes of the beta coeffi-
+ cients for all other social problem solving
+ measures were minimal. It would appear,
+ then, that skill in generating relevant re-
+ sponses to hypothetical social problems pre-
+
+ dicts actual classroom social skill only in con-
+ junction with early family experience.
+
+ Discussion
+
+ The present study provides a demonstra-
+ tion of the linkages among early social and
+ familial experiences (as described by moth-
+ ers), children's social problem solving, and
+ social competence with peers. Most prior in-
+ vestigations focusing on the familial origins of
+ children's competence have been based on
+ the hypothesis that parenting behavior affects
+ and is affected by child behavior, with both
+ kinds of effects operating directly on the de-
+ velopment of children's social adjustment
+ (e.g., see review by Maccoby & Martin, 1983).
+
+ In the present study, an alternative path
+ of influence was conceptualized and tested
+ empirically. Specifically, it was hypothesized
+ that early family and social experiences
+ would predict variations in children's social
+ problem solving skills, which would then in
+ turn predict children's competence with
+ peers. We obtained partial support for this hy-
+ pothesis. The relation between the peer- and
+ teacher-based measure of social skill and
+ early family experience, which was quite
+ strong, was found to be mediated by social
+ problem solving. The early-experience mea-
+ sures demonstrating the most dramatic
+ change in prediction as a result of this media-
+ tion were mothers' biased expectations and
+ endorsement of aggression. The early-experi-
+ ence measure showing the smallest absolute
+ level of change in prediction was the amount
+ of direct experience with peers. This suggests
+ the possibility of a developmental path of in-
+ fluence running from maternal values and ex-
+ pectations to child social cognition to child
+ social competence with peers. This indirect
+ path of influence could be due to the covert
+ but pervasive nature of mothers' attitudes,
+ values, and expectations (see Costanzo & Dix,
+ 1983). These maternal qualities may be trans-
+ mitted through verbal means and may influ-
+ ence the child's behavior in a more subtle
+ fashion than do other forms of early experi-
+ ence, such as harsh discipline or experience
+ playing with peers. Perhaps through a gradual
+ process of exposure to deviant maternal val-
+ ues, the child learns to process social informa-
+ tion in a deviant way in peer settings. Be-
+ cause the child is unable to generate and
+ enact competent responses in these social sit-
+ uations, the child comes to be perceived by
+ teachers and peers as socially incompetent.
+ Likewise, the child who has learned how to
+ think about social situations from the mother's
+ influence may be able to behave in ways that
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Pettit, Dodge, and Brown 117
+
+ TABLE 3
+
+ SUMMARY OF MULTIPLE-REGRESSION ANALYSES PREDICTING CLASSROOM COMPETENCE (Social Skill and
+
+ Social Preference) FROM EARLY FAMILY EXPERIENCE AND SOCIAL PROBLEM SOLVING
+
+ F Value of
+ Variable Entered Beta Multiple R Increment
+
+ Predicting social skill:
+
+ Early family experience:
+
+ Exposure to aggressive models ..................... .03
+ Restrictive discipline ............................... -.16
+ Preventive teaching .............................. .05
+ Biased expectations .............................. -.39
+ Endorsement of aggression . ...................... -.27
+ Direct peer experience ............................ .33
+
+ Total set ........................................ ... .59 3.27**
+
+ Social problem solving:
+
+ Aggressive responding ........................... -.18
+ SPS-fluency............ ..................... .31
+ SPS-relevancy ................................ .08
+ SPS-aggressive .................................. .00
+ SPS-prosocial ................................... .26
+
+ Total set ...................................... .. ... .69 1.86
+
+ Predicting social preference:
+
+ Early family experience:
+
+ Exposure to aggressive models ...................... -.01
+ Restrictive discipline ............................ - .17
+ Preventive teaching ............................... .01
+ Biased expectations .............................. -.25
+ Endorsement of aggression ........................ -.22
+ Direct peer experience ............................ .25
+
+ Total set .................... .......... ... ... .42 1.42
+
+ Social problem solving:
+
+ Aggressive responding ............................ -.36
+ SPS-fluency..................... ......... .46
+ SPS-relevancy ................................... - .36
+ SPS-aggressive ................................ .13
+ SPS-prosocial ................................... .05
+
+ Total set ......................................... ... .71 4.45**
+
+ ** p < .01.
+
+ lead to positive perceptions by peers and
+ teachers.
+
+ The relation between parents' values and
+ expectations and children's competence has
+ been the object of increasingly sophisticated
+ study in recent years (e.g., see Sigel, 1985),
+ but the possible mechanisms governing this
+ relation have yet to be clearly specified. The
+ previously mentioned study by Putallaz
+ (1987) has come closest to providing such in-
+ formation. Putallaz found mothers' social val-
+ ues (expressed in terms of advised solutions
+ to a hypothetical situation involving her child
+ being teased) were predictive of children's
+ social status in the classroom; however, so-
+ lutions to hypothetical situations involving
+ other social problems (e.g., entry into a new
+
+ group) were not predictive. The children's re-
+ sponses to the hypothetical social problems
+ also predicted their peer competence. Putal-
+ laz did examine the potentially important re-
+ lation between mothers' social cognitive re-
+ sponses and the children's social cognitive
+ responses but found no significant correla-
+ tions. The results of the present study suggest
+ that this relation may serve as the mechanism
+ by which mothers' social cognitions influence
+ children's competence.
+
+ The relation between prior peer experi-
+ ence and classroom competence remained es-
+ sentially unchanged following the removal of
+ variance attributable to social problem solv-
+ ing. Prior peer experience, as described by
+ mothers, thus appears to be tied somewhat
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 118 Child Development
+
+ more directly to a lack of peer competence, as
+ indexed by socially unskilled behavior in the
+ classroom, than the other kinds of early expe-
+ rience we assessed. This may be because
+ prior peer experience provides the child with
+ opportunities for learning and practicing so-
+ cial behaviors (Roopnarine, 1985). The enact-
+ ment of behaviors learned through this pro-
+ cess does not appear to be contingent on the
+ child's conscious cognitive recognition of ap-
+ propriate social responses.
+
+ The present study also examined two
+ other kinds of possible linkages among early
+ experience, social problem solving, and chil-
+ dren's competence. One set of analyses
+ focused on the degree to which social compe-
+ tence mediated the relation between early ex-
+ perience and social problem solving. Little
+ support was found for this kind of mediation.
+ That is, the one social problem solving mea-
+ sure significantly related to early experience,
+ number of solutions generated, retained this
+ prediction even after the influence of class-
+ room competence had been removed. An-
+ other set of analyses examined the degree to
+ which family experience mediated the rela-
+ tion between problem solving and compe-
+ tence. These findings were inconclusive. So-
+ cial preference was significantly related to
+ both kinds of measure. Classroom social skill,
+ on the other hand, was no longer predicted by
+ social problem solving following the removal
+ of variance attributable to early experience.
+ The relevancy of responses generated ap-
+ peared to be mediated to the greatest degree
+ by the early-experience measures. Given the
+ equivocal nature of these findings, it cannot
+ be concluded that only one kind of mediation
+ takes place in the relation among early experi-
+ ence, social problem solving, and classroom
+ competence. However, the overall pattern
+ seems to be more suggestive with respect to
+ the mediating role of social problem solving
+ in the relation between early experience and
+ social competence.
+
+ An important contribution of the present
+ study is its replication and extension of prior
+ research on sociometric status differences in
+ children's development. The finding that so-
+ cially rejected children exhibit deviant pat-
+ terns of processing social information is con-
+ sistent with prior work (e.g., Dodge, Pettit,
+ McClaskey, & Brown, 1986). We are among
+ the first, however, to document the existence
+ of differences in family and social relation-
+ ship histories among children of differing lev-
+ els of social status. Socially rejected children,
+ compared to popular children, were found to
+ be growing up in less advantageous circum-
+
+ stances, with fewer opportunities for positive
+ interactions with parents and peers, and with
+ physical aggression both endorsed and prac-
+ ticed by parents.
+
+ The sociometric status differences that
+
+ did emerge in this study, and indeed all rela-
+ tions among competence and early experi-
+ ence that were found, were probably affected
+ somewhat by the extremity of the current
+ study's sample. A restricted range of child-
+ rearing environments was observed in the
+ sample, and overall competence levels shown
+ by the children were quite restricted in com-
+ parison to what would be found in more het-
+ erogeneous samples. These factors may have
+ inflated the magnitude of the findings and
+ may also have contributed to the lack of vari-
+ ability in some of the social problem solving
+ measures. We initially attempted to obtain a
+ measure of children's hostile attributional
+ bias. Based on past research (e.g., Dodge,
+ 1980; Dodge et al., 1984), we had reason to
+ believe that reliable and meaningful mea-
+ sures of bias could be constructed for 5-year-
+ old children. However, almost all the chil-
+ dren in the current sample were highly
+ biased in their attributions (in the direction of
+ presuming hostility), appearing to focus al-
+ most exclusively on outcome of hypothetical
+ provocations rather than intention, apparently
+ making the assumption that the intention was
+ hostile since the outcome was always nega-
+ tive. We are not entirely sure why this oc-
+ curred, but we can speculate that because of
+ the relatively high degree of social trauma
+ and stress experienced by these children
+ (e.g., 54% of the mothers and 30% of the chil-
+ dren were suspected to have been victims of
+ abuse), and the fact that the mothers of most
+ of the children were receiving welfare assis-
+ tance and were distrustful of "outsiders,"
+ these children may, as a group, have already
+ learned to overattribute hostility, regardless
+ of circumstance. Research comparing the
+ social information processing of disadvan-
+ taged and nondisadvantaged preschoolers is
+ needed to address this issue. It is possible
+ that there exists a correlation between disad-
+ vantaged background and attributional biases
+ that could not be detected in the present
+ study because of a restricted range in family
+ background.
+
+ A limitation of the present research is its
+ reliance on mothers' retrospective reports of
+ early family and social experience. Although
+ it is true that for some kinds of information
+ there is no substitute for self-report (e.g., val-
+ ues regarding aggression), for many kinds of
+ measures direct observation would have been
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Pettit, Dodge, and Brown 119
+
+ Hymel, S. (1979). A reliable sociometric mea-
+ sure for preschool children. Developmental
+ Psychology, 15, 443-444.
+
+ Baldwin, A. L. (1955). Behavior and development
+
+ in childhood. New York: Dreyden.
+
+ Baumrind, D. (1967). Child care practices anteced-
+ ing three patterns of preschool behavior. Ge-
+ netic Psychology Monographs, 75, 43-88.
+
+ Baumrind, D. (1971). Current patterns of parental
+ authority. Developmental Psychology Mono-
+ graphs, 4(1, Pt. 2).
+
+ Bryant, B. K., & Crockenberg, S. B. (1980). Corre-
+ lates and dimensions of prosocial behavior: A
+ study of female siblings with their mothers.
+ Child Development, 51, 529-544.
+
+ Coie, J. D., & Dodge, K. A. (1983). Continuity of
+ children's social status: A five year longitudi-
+ nal study. Merrill-Palmer Quarterly, 29, 261-
+ 282.
+
+ Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982).
+ Dimensions and types of social status: A cross-
+ age perspective. Developmental Psychology,
+ 18, 557-570.
+
+ Costanzo, P. R., & Dix, T. (1983). Beyond the infor-
+ mation processed: Socialization in the develop-
+ ment of attributional processes. In E. T. Hig-
+ gins, D. N. Ruble, & W. W. Hartup (Eds.),
+ Social cognition and social development: A so-
+ ciocultural perspective (pp. 63-81). Cam-
+ bridge: Cambridge University Press.
+
+ Dix, T. H., & Grusec, J. E. (1985). Parent attribution
+
+ processes in the socialization of children. In
+ I. E. Sigel (Ed.), Parent belief systems (pp.
+ 201-234). Hillsdale, NJ: Erlbaum.
+
+ Dodge, K. A. (1980). Social cognition and children's
+ aggressive behavior. Child Development, 51,
+ 162-170.
+
+ Dodge, K. A. (1986). A social information process-
+ ing model of social competence in children. In
+ M. Perlmutter (Ed.), Minnesota Symposium on
+ Child Psychology (Vol. 18, pp. 77-125). Hills-
+ dale, NJ: Erlbaum.
+
+ Dodge, K. A., McClaskey, C., & Feldman, E.
+
+ (1985). Situational approach to the assessment
+ of social competence in children. Journal of
+ Consulting and Clinical Psychology, 53, 344-
+ 353.
+
+ Dodge, K. A., Murphy, R. R., & Buchsbaum, K.
+ (1984). The assessment of intention-cue detec-
+ tion skills in children: Implications for devel-
+ opmental psychopathology. Child Develop-
+ ment, 55, 163-173.
+
+ Dodge, K. A., Pettit, G. S., McClaskey, C. L., &
+
+ desirable. This is especially true for disciplin-
+ ary practices and parental teaching. Another
+ limitation is that measures representing the
+ three domains of interest (competence with
+ peers, social problem solving skill, and social
+ experience) were obtained concurrently.
+ Thus, it cannot be said that early experiences
+ antecede social problem solving which ante-
+ cede peer competence. Rather, it can only be
+ said that these three kinds of measures co-
+ vary. A longitudinal study in which early ex-
+ periences are assessed prior to school entry
+ would be the optimal research strategy for ad-
+ dressing these important issues. Finally, it
+ must be recognized that the present research
+ provides only one of many possible tests of
+ the mediation hypothesis. Early family expe-
+ rience was perhaps conceptualized more nar-
+ rowly in the present research than was social
+ problem solving skill. However, our goal was
+ not to provide an exhaustive account of early
+ experience but rather to identify one poten-
+ tially important set of descriptors and evalu-
+ ate the degree to which their relation to social
+ competence was mediated by social problem
+ solving. Additional research is needed to clar-
+ ify which forms of early experience are most
+ crucial for children's acquisition of social
+ competence.
+
+ In summary, the findings from this study
+ suggest that social competence, social prob-
+ lem solving, and social experience are linked
+ in complex but understandable ways. These
+ findings highlight the importance of consider-
+ ing both social problem solving patterns and
+ family experience history when constructing
+ models of the development of children's com-
+ petence. If the social skills necessary to effect
+ successful entry into the peer group are
+ learned in part through early family experi-
+ ence, as was suggested in the present study,
+ then it may be possible to develop family-
+ based preventive interventions that can be
+ implemented before children experience the
+ negative consequences of peer rejection. The
+ present study has suggested a number of
+ leads for future research to pursue. Eventu-
+ ally such research may be able to identify the
+ key elements of early experience that give
+ rise to individual differences in children's
+ competence.
+
+ References
+
+ Brown, M. M. (1986). Social competence in
+ Arend, R., Gove, R., & Sroufe, L. A. (1979). Con-
+ children. Monographs of the Society for Re-
+ search in Child Development, 51(1, Serial No.
+ tinuity of individual adaptation from infancy to
+ kindergarten: A predictive study of ego-resili-
+ 213).
+ ency and curiosity in preschoolers. Child De-
+ velopment, 50, 950-959.
+
+ Easterbrooks, M. A., & Lamb, M. E. (1979). The
+
+ relationship between quality of infant-mother
+ attachment and infant competence in initial en-
+
+ Asher, S. R., Singleton, L. C., Tinsley, B. R., &
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 120 Child Development
+
+ counters with peers. Child Development, 50,
+ 380-387.
+
+ Elias, M. J., Ubriaco, M., & Bray, J. (1985). A cogni-
+
+ tive-behavioral analysis of parental facilitation
+ of children's social-cognitive problem solving.
+ Journal ofApplied Developmental Psychology,
+ 6, 57-72.
+
+ Eron, L. (1982). Parent-child interaction, television
+
+ ment theory and research. Monographs of the
+ Society for Research in Child Development,
+ 50(1-2, Serial No. 209).
+
+ Main, M., & Weston, D. R. (1981). The quality of
+
+ the toddler's relationship to mother and to fa-
+ ther: Related to conflict behavior and the readi-
+ ness to establish new relationships. Child De-
+ velopment, 52, 932-940.
+
+ violence, and aggression in children. American
+ Psychologist, 37, 197-211.
+
+ George, C., & Main, M. (1979). Social interactions
+ of young abused children: Approach, avoid-
+ ance, and aggression. Child Development, 50,
+ 306-318.
+
+ Parke, R. D., MacDonald, K. B., Beitel, A., & Bhav-
+ nagri, N. (in press). The role of the family in
+ the development of peer relations. In R. DeV.
+ Peters & R. J. McMahan (Eds.), Marriages and
+ families: Behavioral treatment and processes.
+ New York: Brunner/Mazel.
+
+ Harper, L. V., & Huie, K. S. (1985). The effects of
+ prior group experience, age, and familiarity on
+ the quality and organization of preschoolers'
+ social relationship. Child Development, 56,
+ 704-717.
+
+ Pastor, D. L. (1981). The quality of mother-infant
+ attachment and its relationship to toddler's ini-
+ tial sociability with peers. Developmental Psy-
+ chology, 17, 323-335.
+
+ Pettit, G. S., & Bates, J. E. (1987). Family interac-
+ Hetherington, E. M., & Martin, B. (1979). Family
+ tion patterns and children's behavior prob-
+ interaction. In H. Quay & J. Werry (Eds.), Psy-
+ lems from infancy to age 4 years. Unpublished
+ chopathological disorders of childhood (2d
+ manuscript, University of Tennessee, Knox-
+ ed.). New York: Wiley.
+ ville.
+ Jones, D. C., Rickel, A. U., & Smith, R. L. (1980).
+ Maternal child-rearing practices and social
+ problem-solving strategies among preschool-
+ ers. Developmental Psychology, 16, 241-242.
+
+ Putallaz, M. (1987). Maternal behavior and chil-
+ dren's sociometric status. Child Development,
+ 58, 324-340.
+
+ Kupersmidt, J., Coie, J. D., Dodge, K. A., &
+
+ Rabiner, D. (in press). Longitudinal studies of
+ rejected and neglected children. In S. R. Asher
+ & J. D. Coie (Eds.), Peer rejection in child-
+ hood: Origins, consequences, and interven-
+ tion. New York: Cambridge University Press.
+
+ Ladd, G., & Price, J. (1986, April). Predicting chil-
+ dren's social competence and academic adjust-
+ ment following the transition from preschool
+ to kindergarten. Paper presented at the annual
+ meeting of the American Educational Re-
+ search Association, San Francisco.
+
+ Lieberman, A. F. (1977). Preschoolers' competence
+ with a peer: Relations with attachment and
+ peer experience. Child Development, 48,
+ 1277-1287.
+
+ Maccoby, E. E., & Martin, J. A. (1983). Socializa-
+
+ tion in the context of the family: Parent-child
+ interaction. In E. M. Hetherington (Ed.), P. H.
+ Mussen (Series Ed.), Handbook of child psy-
+ chology: Vol. 4. Socialization, personality, and
+ social development (pp. 1-101). New York: Wi-
+ ley.
+
+ MacDonald, K., & Parke, R. D. (1984). Bridging the
+ gap: Parent-child play interaction and peer in-
+ teractive competence. Child Development, 55,
+ 1265-1277.
+
+ Roopnarine, J. L. (1985). Changes in peer-directed
+ behaviors following preschool experience.
+ Journal of Personality and Social Psychology,
+ 48, 740-745.
+
+ Rubin, K. H. (1983). The Social Problem Solving
+ Test. Unpublished manuscript, University of
+ Waterloo, Waterloo, Ontario.
+
+ Rubin, K. H., & Krasnor, L. R. (1986). Social cogni-
+ tive and social behavioral perspectives on
+ problem solving. In M. Perlmutter (Ed.), Min-
+ nesota Symposium on Child Psychology (Vol.
+ 18, pp. 1-68). Hillsdale, NJ: Erlbaum.
+
+ Rutter, M. (1981). Maternal deprivation reassessed
+
+ (2d ed.). New York: Penguin.
+
+ Sigel, I. (Ed.). (1985). Parental belief systems. Hills-
+
+ dale, NJ: Erlbaum.
+
+ Smetana, J. G., Kelly, M., & Twentyman, C. T.
+ (1984). Abused, neglected, and nonmaltreated
+ children's conceptions of moral and social-con-
+ ventional transgressions. Child Development,
+ 55, 277-287.
+
+ Spivack, G., Platt, J. J., & Shure, M. B. (1976). The
+ problem-solving approach to adjustment. San
+ Francisco: Jossey-Bass.
+
+ Waters, E., Wippman, J., & Sroufe, L. A. (1979).
+ Attachment, positive affect, and competence in
+ the peer group: Two studies in construct vali-
+ dation. Child Development, 50, 821-829.
+
+ Main, M., Kaplan, N., & Cassidy, I. (1985). Security
+ in infancy, childhood, and adulthood: A move
+ to the level of representation. In I. Bretherton
+ & E. Waters (Eds.), Growing points of attach-
+
+ Winder, C. L., & Rau, L. (1962). Parental attitudes
+ associated with social deviance in preadoles-
+ cent boys. Journal of Abnormal and Social
+ Psychology, 64, 418-424.
+
+This content downloaded from 
+(cid:0)194.94.96.194 on Fri, 31 Jul 2020 12:02:16 UTC(cid:0)
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+

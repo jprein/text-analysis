@@ -1,0 +1,2138 @@
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+British Journal of Developmental Psychology (2008), 26, 561–577
+q 2008 The British Psychological Society
+
+561
+
+The
+British
+Psychological
+Society
+
+www.bpsjournals.co.uk
+
+Precursors of a theory of mind: A longitudinal
+study
+
+Cristina Colonnesi1*, Carolien Rieffe2, Willem Koops3
+and Paola Perucchini4
+1Faculty of Social and Behavioral Science, University of Amsterdam, Amsterdam,
+The Netherlands
+2Developmental Psychology, Leiden University, Leiden, The Netherlands
+3Department of Social Sciences, University of Utrecht, Utrecht, The Netherlands
+4Department of Educational Science, University of Rome ‘Roma Tre’, Rome, Italy
+
+The study examined whether the pointing gesture and intentional understanding
+abilities at 12 and 15 months of age predict the later understanding of perception and
+intention, as well as the ability to explain others’ actions in a psychological way at 39
+months of age. Thirty-ﬁve infants (18 girls) were administered pointing and intention-
+understanding tasks at the age of 12 and 15 months. Children were again evaluated at
+the age of 39 months with perception and intention tasks, and a psychological
+explanation task. Results showed that only 12-month-olds’ comprehension of the
+pointing gesture with an imperative motive contributed to the prediction of later
+understanding of perception and mentalistic explanations of actions. Moreover, the
+ability of 12- and 15-month-olds to understand intentions contributed to the prediction
+of later preschool understanding of perceptions and intentions. These results indicate
+that a developmental trajectory in children’s understanding of mental states from
+infancy to childhood is present, but depends on the level of engagement and
+communication that are required to perform these tasks.
+
+Over the last 10 years, theory of mind research has been increasingly directed towards
+its earlier development during the ﬁrst 2 years of life, aiming to ﬁnd a developmental
+progression from infancy to childhood. Many socio-cognitive abilities in the second year
+of life could set the base for theory of mind development (Carpenter, Nagell, &
+Tomasello, 1998; Tomasello, Carpenter, Call, Behne, & Moll, 2005). Two of these are
+joint attention behaviour (Carpendale & Lewis, 2006 for a review) and understanding of
+others’ intentions (Meltzoff, 1995). In this study, we will consider to what extent these
+two features in infancy might contribute to children’s later theory-of-mind functioning.
+
+* Correspondence should be addressed to Dr Cristina Colonnesi, Faculty of Social and Behavioral Science, University
+of Amsterdam, Amsterdam 1018 VZ, The Netherlands (e-mail: c.colonnesi@uva.nl).
+
+DOI:10.1348/026151008X285660
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+562 Cristina Colonnesi et al.
+
+An important joint attention behaviour is the pointing gesture in production and in
+comprehension (Carpendale & Lewis, 2006; Carpenter et al., 1998). Production of the
+pointing gesture is the simultaneous extension of the arm and index ﬁnger towards a
+target and aims to direct the attention and behaviour of another person to an object or
+event. It emerges between the end of the ﬁrst and the beginning of the second year of
+life, in a period during which communication switches from a preverbal form to
+conventional language (Bates, Benigni, Bretherton, Camaioni, & Volterra, 1979). It is
+considered an act of intentional communication because it is produced in order to direct
+the attention and behaviour of another person to an object or event and to communicate
+about it (Bates et al., 1979). Understanding pointing produced by someone else shows
+that children direct their attention towards an object or event at which another person
+is pointing, which indicates that they are able to understand that the other person wants
+them to orient
+their attention towards a speciﬁc target (Camaioni, Perucchini,
+Bellagamba, & Colonnesi, 2004).
+
+The pointing gesture may be produced with an imperative or a declarative motive.
+Pointing with an imperative motive is produced to direct the attention of somebody
+towards an object in order to request it or to ask for an action towards it. Pointing with a
+declarative motive can be produced to direct someone’s attention towards an event or
+an object of interest in order to share interest (Camaioni, 1997). More recently, two
+subtypes of declarative pointing have been distinguished (Tomasello, Carpenter, &
+Liszkowski, 2007). The ﬁrst is declarative pointing as expressive in which the infant
+shares an attitude with an adult about a common referent (consistent with the original
+deﬁnition of declarative pointing). The second is declarative pointing as informative in
+which the infant provides the adult with needed or desirable information about some
+reference. However, both expressive and informative pointing gestures are produced in
+order to direct another person’s attention and interest towards a speciﬁc event or
+object. Consequently, they are still both included into the main category of ‘declaration’.
+In sum, it is possible to distinguish four speciﬁc abilities related to the pointing gesture:
+imperative comprehension; imperative production; declarative comprehension; and
+declarative production.
+
+With respect to pointing production, it is generally thought that declarative but not
+imperative production will be a theory of mind precursor (Baron-Cohen, 1991;
+Camaioni, 1997; Tomasello et al., 2005). There are two main arguments that give rise to
+this assumption. First, declarative pointing seems to require understanding of the other
+person as ‘intentional agent’ and the aim is to direct attention and to share experiences
+(Camaioni, 1997; Legerstee & Barillas, 2003; Liszkowski, Carpenter, Henning, Striano,
+& Tomasello, 2004), whereas imperative pointing only requires understanding of the
+other person as ‘agent of action’ and it is aimed at inﬂuencing others’ behaviour. Second,
+children with autism show impairments in the production of declarative gesture but not
+in imperative gesture (Baron-Cohen, 1989; Charman et al., 1997).
+
+The situation is less clear about typically developing infants’ comprehension of
+pointing gestures with imperative and declarative motives. Infants’ general ability to
+understand or to follow pointing gestures has been investigated (Behne, Carpenter, &
+Tomasello, 2005; Carpenter et al., 1998), but a more speciﬁc empirical evidence is still
+lacking about the motive of the gesture (imperative vs. declarative). It seems reasonable
+to assume that the understanding of both imperative and declarative pointing gestures
+require seeing the other person as an intentional agent. In fact, to understand
+declarative pointing you have to appreciate that the other person is interested in
+something and that this person tries to direct your attention. The same understanding is
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+563
+
+involved in the appreciation of imperative pointing. In addition, the understanding of a
+pointing gesture with an imperative motive also requires the comprehension that the
+other person has a desire and that this person tries to direct your behaviour. For this
+reason, imperative comprehension might be a stronger candidate as a theory of mind
+precursor. To date, however, empirical evidence in this respect is not yet available. One
+aim of the present study was to examine the extent to which the four named pointing
+abilities in 12- and 15-month-olds contribute to the prediction of later theory of mind
+understanding.
+
+is thought
+
+Another ability that
+
+to contribute to children’s theory of mind
+development concerns their understanding of intention. In the ﬁrst year of life children
+are already able to distinguish between people and inanimate objects ( Woodward,
+1998). In the beginning of their second year of life, children can distinguish between
+intentional and unintentional actions (Carpenter, Akhtar, & Tomasello, 1998), recognize
+that actions are purposive and goal directed (Phillips, Wellman, & Spelke, 2002), and are
+able to attribute intentions and desires to people (Meltzoff, 1995; Repacholi, 1998;
+Repacholi & Gopnik, 1997). Carpenter et al. (1998) investigated 14- and 18-month-olds’
+understandings of intentional and accidental actions, using an imitation task. Infants
+witnessed an adult performing some two-action sequences with objects. One action was
+vocally marked as intentional with the expression ‘There!’ and the other was marked as
+accidental with the expression, ‘Woops!’ Infants imitated the intentional action instead
+of the accidental action, which indicates that they were able to differentiate between
+the two types of actions, and that they were able to reproduce what the adult was trying
+to do, not the objective behaviour that was actually performed.
+
+Meltzoff (1995) showed that children of 18 months of age are able to understand the
+intentions of a person who is trying but failing to perform certain target actions on an
+object. Children observed an adult trying to perform a speciﬁc action with a toy, who
+repeatedly failed in his attempt. Afterwards, the adult handed the toy to the child. The
+children’s task was to understand the actor’s intention and produce the action that the
+adult had been trying to perform rather than imitate the failed attempt. In total, 80% of
+the children demonstrated the ability to reproduce what the adult intended to do, even
+though the adult’s attempts failed. This result supports the idea that children see the
+adult as a source of information about what to do with the object, and the adult’s
+behaviour (failed attempt) gives information about the adult’s intentions. In the second
+experiment, children’s reaction to the same action performed by a person versus an
+inanimate object was evaluated.
+
+Bellagamba and Tomasello (1999) and Olineck and Poulin-Dubois (2005) indicate
+that the ability to understand others’ intentional actions develops between 12 and 18
+months of age. Camaioni et al. (2004) examined the relationship between infants’
+understanding of intentions and their ability to produce and understand the pointing
+gesture with imperative and declarative intention. Children were observed at 12 and 15
+months of age. Results showed that at both ages (12 and 15 months) children with high
+intention understanding produced more declarative pointing than children with low
+intention understanding. Thus, a concurrent association between these two abilities
+was found. Indeed, when children are able to interpret a person’s actions within a
+psychological framework involving goals and intentions, they also seem able to share
+interesting aspects of the world with others and to inﬂuence other people’s attentional
+states towards the world.
+
+One could expect preschool children’s understanding of mental states, such as
+to derive from the early ability to
+
+desires, beliefs, perceptions and intentions,
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+564 Cristina Colonnesi et al.
+
+understand others’ actions as intentional and to communicate in an intentional way.
+A possible way to verify this hypothesis is to use a longitudinal design to examine
+whether these abilities during infancy are indeed predictors for later childhood mental
+states understanding. Only a few studies show relationships between children’s abilities
+in the ﬁrst two years of life and the understanding of mental states during childhood
+(Charman et al., 2000; Olineck & Poulin-Dubois, 2005; Wellman, Phillips, Dunphy-Lelii,
+& LaLonde, 2004).
+
+Charman et al. (2000) probably conducted the ﬁrst longitudinal study on joint
+attention, imitation, and play during infancy as precursors to language and theory of
+mind during childhood. In this study, a sample of 13 children, aged 20 months, was
+administered a spontaneous-play task, two joint-attention tasks, and an imitation task.
+The ﬁrst joint-attention task was the ‘active toy task’ in which a series of mechanical toys
+were shown to induce an ambiguous response. The number of times the infant
+produced a gaze switch between the toy and the adult (the parent or the experimenter)
+was examined. The second joint-attention task was the ‘goal detection task’ with two
+conditions. In the ﬁrst condition (the blocking task), while the infant was playing with a
+speciﬁc toy the experimenter blocked the child’s hands for 5 seconds preventing the
+child from further activity. In the second condition (the teasing task), the experimenter
+offered the child a toy but immediately held it out of reach for 5 seconds, The number of
+times that infants looked at the experimenter during the period of 5 seconds was
+recorded. After 2 years, these children were presented with another set of tasks: a Level
+1 visual perspective-taking task, a ‘seeing-leads-to-knowing’ task, and a situation- and
+desire-based emotion task. At both time points, non-verbal abilities were measured. The
+results revealed an association between the early joint-attention abilities and later
+theory-of-mind understanding. This ﬁnding emphasizes the important theoretical role of
+joint attention in the development of understanding of mental states.
+
+Wellman et al. (2004) examined whether recognition of actions as purposive and goal
+directed at 14 months of age could predict theory-of-mind understanding at the age of 51
+months. Results showed that infants’ decrement of attention to displays of intentional
+action predicted later social cognition, even when verbal intelligence was controlled for.
+More recently, Olineck and Poulin-Dubois (2005) found that intention understanding at
+14 and 18 months of age contributed to the prediction of children’s internal state
+language at 30 months. Despite the large gap between the ﬁrst and the second
+observation (about 2 years), these three studies give empirical evidence of a relationship
+between children’s socio-cognitive abilities during infancy and their later theory of
+mind understanding. At present, there are no studies examining the longitudinal
+relation of the various pointing gestures and intention understanding in the second
+year of life with the emergence of theory of mind capacities during preschool age.
+
+The main aim of the present study was to examine the relationship between two
+abilities, the pointing gesture and intention understanding, at the age of 12 and 15
+months and children’s understanding of mental states at 39 months of age. In order to
+examine the individual differences between children, all abilities that were included in
+this study were examined in the period of their emergence. In fact, the pointing gesture
+and the understanding of intentional actions develop between 11 and 16 months of age
+(Bellagamba & Tomasello, 1999; Carpenter et al., 1998), and at the age of 3 years
+children start to explain and predict others’ mental states ( Wellman & Liu, 2004).
+
+The study is part of a bigger project about the precursors of a theory of mind. Part of
+the present project has already examined the relationship between the pointing gesture
+and intention during infancy (Camaioni et al., 2004), the change from 12 to 15 months
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+565
+
+of age in children’s understanding of others’ intentional actions (Bellagamba, Camaioni,
+& Colonnesi, 2006), and the relationship between children’s use of psychological
+explanations and their understanding of perception and intention at the age of 3 years
+(Colonnesi, Koops, & Meerum Terwogt, 2008). The abilities examined during infancy
+were the comprehension and production of the pointing gesture with imperative and
+declarative motives, and the understanding of intentional actions using the behavioural
+re-enactment procedure of Meltzoff (1995). Three abilities were chosen as theory
+of mind indices at the age of 39 months: perception understanding;
+intention
+understanding; and children’s ability to explain others’ actions in terms of mental states.
+Previous ﬁndings led us to expect a longitudinal association between the socio-
+cognitive abilities examined in the second year of life and the later understanding of
+mental states (Charman et al., 2000; Olineck & Poulin-Dubois, 2005; Wellman et al.,
+2004). However, different relationships were expected between different abilities. Both
+pointing and intention understanding require the appreciation of other people as
+independent agents possessing intentionality (Camaioni et al., 2004). However, only
+through the production and the comprehension of
+the pointing gesture the
+intentionality is shared by the child and the adult in a communicative way (Tomasello
+et al., 2007). Due to this strong communicative aspect, we expected to ﬁnd a stronger
+relationship between the pointing gesture and the later use of psychological
+explanation than between the pointing gesture and the understanding of intention.
+
+Differently, the task we used to measure the intention understanding during infancy
+has a strong perceptual and behavioural component, but lacks a strong communicative
+component. The tasks we used to measure perception and the intention understanding
+at the age of 39 months share the same characteristics. Therefore, we expected this
+ability to have a stronger relation to the later understanding of perception and intention
+than to the later use of psychological explanations.
+
+In addition, both abilities that were examined during infancy were expected to have a
+relationship with children’s later perception understanding since this capacity implies
+basic theory of mind-understanding. Because the pointing gesture predicts later language
+abilities (Desrochers, Morissette, & Ricard, 1995; Mundy & Gomez, 1998), and theory of
+mind performances often correlate with language (Ruffman, Slade, Rowlandson,
+Rumsey, & Garnham, 2003), children’s receptive vocabulary was controlled for.
+
+Method
+Participants
+Thirty-ﬁve children participated in the study (18 females, 17 males). Children’s mean age
+at the ﬁrst observation was 11.24 months (SD 1.5; range 9–14), at the second
+observation was 14.24 months (SD 1.5; range 12–17), and at the third observation was
+38.22 months (SD 0.2; range 38–40). Nineteen children were ﬁrstborn (54%) and 16
+(46%) secondborn. Children were recruited through day-care centres and paedia-
+tricians’ ofﬁces and were all healthy and developing normally. They all lived in the city of
+Rome and came from middle-high socio-economic backgrounds.
+
+Design
+Infants were selected through the QPOINT questionnaire (Perucchini & Camaioni,
+1999). The QPOINT questionnaire is a parent-report measure of the production of
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+566 Cristina Colonnesi et al.
+
+imperative and declarative pointing. Parents received the questionnaire when their
+infant was about 7 months old. They were asked to report as soon as their infant started
+using the pointing gesture and send the questionnaire back to the university. Parents
+were then contacted by telephone and invited to take part in the experiment with their
+children about a week after the parent had ﬁlled in the questionnaire (ﬁrst observation).
+After 3 months the observation was repeated (second observation). Parents were again
+contacted by telephone when children were about 36 months old. They were asked to
+allow the experimenter to visit the child at home for a last observation (third
+observation).
+
+Measurements at 12 and 15 months of age
+The ﬁrst and the second observations were carried out in a laboratory room of
+the Department of Social and Developmental Psychology of the University of Rome
+‘La Sapienza’. Children were tested while seated on the parent’s lap, in front of a
+rectangular table. All the observations were videotaped. The laboratory was equipped
+with two cameras that were remotely controlled from a dark room located behind a one-
+way mirror. Two research assistants, both women, served as experimenters. Each
+observation started with a warming-up period until the child seemed acclimatized to the
+room and the experimenters. Two tasks were administered: a pointing task and an
+intention-understanding task.
+
+Pointing task
+This task comprises four experimental conditions designed to elicit four speciﬁc abilities
+related to the pointing gesture: imperative comprehension; imperative production;
+declarative comprehension; and declarative production. The task measures children’s
+pointing abilities in an experimental setting. The procedure of the task is exhaustively
+described in Camaioni et al. (2004). Each condition had eight trials with two different
+stimuli, the ﬁrst four trials with one stimulus and the last four trials with the other
+stimulus. Each trial was scored 1 when the child produced the target behaviour, so the
+score range was 0–8 in each condition. Target behaviours in the four conditions were
+coded as follows:
+
+A two-step coding procedure was adopted for both the production and the
+comprehension of the pointing gesture. Pointing production was coded as intentionally
+communicative, ﬁrst, and then as imperative or declarative. Following Franco and
+Butterworth (1996), any stimulus-directed pointing gesture produced by the child was
+coded as intentionally communicative when looking at the experimenter’s face
+occurred within 2 seconds before or after pointing, or when pointing and looking at the
+experimenter’s face occurred simultaneously. The communicative intent – imperative or
+declarative – of the child’s pointing gesture was coded according to the following
+operational deﬁnitions.
+
+. Imperative production: the child produced a pointing gesture and in addition at
+. Declarative production: the child produced a pointing gesture and in addition
+
+least one of the following behaviours: a request gesture; leaning forward or
+reaching for the stimulus; producing a request vocalization or pointing to the
+stimulus repeatedly.
+
+at least one of the following behaviours: looking to the adult and smiling
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+or vocalizing towards the stimulus; producing a proto-word or a word relative to
+the stimulus; re-enacting the movement of the stimulus.
+
+Precursors of a theory of mind
+
+567
+
+Pointing comprehension was coded when the infant was able to correctly localize the
+stimulus pointed to by the experimenter by looking at it, ﬁrst, and then as imperative or
+declarative according to the following operational deﬁnitions:
+
+. Imperative comprehension: the child responded to the adult’s pointing gesture
+. Declarative comprehension: the child answered the adult’s pointing gesture by
+
+by looking to the adult and giving the stimulus, refusing to give the stimulus
+(saying ‘no’ or doing the corresponding gesture with the head), or putting the
+stimulus on the table near the adult.
+
+looking to the adult and smiling or vocalizing towards the stimulus, producing a
+proto-word or a word related to the stimulus, or re-enacting the movement of
+the stimulus.
+
+Intention understanding
+The child was tested on the ‘Demonstration of
+Intention’ condition in the
+Re-enactment task (Meltzoff, 1995). The task measures children’s understanding of
+others’ intentions when someone is trying to perform a speciﬁc action. The ﬁve
+stimuli used in the task and the actions performed by the experimenter were exact
+duplicates of those used by Meltzoff (1995). The experimenter modelled with each
+stimulus the intention to perform the act for the child (i.e. the experimenter was
+seen trying, but failing, to perform the act on each of ﬁve objects). The order of
+presentation of the ﬁve objects was counterbalanced. The intention to produce the
+act was modelled three times and was followed by a 20-second response period for
+each object. The experimenter did not provide linguistic or facial expressions of
+failure. In the intention-understanding task, the number of target actions produced
+by each child on all objects was scored (range 0–5).
+
+Measurements at 39 months of age
+The observation was carried out in a quiet place in the home in the presence of a parent
+or a babysitter. After a warming-up period, three socio-cognitive tasks were administered
+as indices of children’s theory of mind abilities. Each observation was videotaped with a
+portable video-camera.
+
+(1981) was used. This is a classical
+
+Perception-understanding task
+A version of the Level 1 visual perspective-taking task of Flavell, Everett, Croft, and
+Flavell
+task used to evaluate children’s
+understanding of what another person can and cannot see. Children were shown a
+coloured, plastic card (12 £ 12 cm) with a picture on one side (e.g. a dog) and a
+different picture on the other side (e.g. a cat). The experimenter showed the
+child that different pictures were on each side of the card. Then she asked: ‘What do
+you see, a dog or a cat? What do I see, a dog or a cat?’ The child could
+answer by either naming the picture or by pointing to one side of the card. The order
+of
+the two questions was counterbalanced. Three cards were used: Cat/Dog;
+Tree/Flower; and Shoes/Sun. Children answered correctly when they reported
+both what they and the other person could see. Children received a score ranging
+from 0 to 3.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+568 Cristina Colonnesi et al.
+
+Intention-understanding task
+The false-belief condition of the transparent intention task of Russell, Hill, and Franco
+(2001) was used. This task measures children’s ability to understand their previous
+intentions using a procedure that is not linguistically demanding. The child was shown a
+transparency on which there was an incomplete drawing (e.g. a boy’s head without an
+ear). Then the child was given a pen and invited to ﬁnish the drawing. When the child
+ﬁnished, the experimenter revealed that, in fact, he/she had been drawing on the
+uppermost of two overlaid transparencies. In the uppermost transparency there was a
+less complex picture of the underling transparency with the lines that were perfectly
+corresponding to some of the lines of the underling transparency. For this reason they
+were not visible. Removing the top transparency showed that the line drawn by the
+child had, in fact, completed the drawing of a cup on the top transparency, with the ‘ear’
+outline now representing a handle of a cup. The experimenter then asked the child
+what he/she thought s/he had been drawing: ‘Did you think you were drawing an ear or
+did you think you were drawing a handle?’ Children were presented four transparency
+pictures: (1) Ear (Face)/Handle (cup); (2) Smoke (chimney)/Smoke (boat); (3) Top of the
+tree/Ice-cream; and (4) Face (girl)/Face (boy). The order of presentation of the four trials
+was counterbalanced across children. Children answered correctly when they reported
+that they thought they were drawing the previous drawing and not the ‘actual’ drawing.
+Children received a score ranging from 0 to 4.
+
+Psychological explanation task
+A modiﬁed version of the Bartsch and Wellman’s procedure (1989; ﬁrst study) was used.
+This task measures, through an experimental procedure, children’s natural tendency to
+explain others’ actions in a psychological way. Children were presented nine stories
+with simple descriptions of a character engaging in a speciﬁc action. Each story was
+accompanied by an illustration of the story with the character, the object and the ﬁnal
+location, all presented on a single coloured page. There were three kinds of stories: (1)
+Neutral stories, in which the characters are engaging in simple actions (e.g. Here is
+Marta. Marta is looking for her kitten behind the table); (2) Anomalous-desire stories, in
+which the characters are engaging in actions that do not directly ﬁt with what the
+characters like (e.g. Here is Giulia. These are apples. Giulia does not like apples. But now
+she is taking an apple); and (3) Anomalous-belief stories, in which the characters are
+engaging in actions that are based on false beliefs (e.g. Here is Tommaso. This is a rock
+that looks like a peanut. Tommaso is putting it in his mouth). For each kind there were
+three short stories.
+
+In each story, after the experimenter told the child what was happening, she asked
+explanation questions ‘Why do you think : : : is doing that?’ If the child responded with
+anything other than an attribution of desire or belief, the experimenter simply repeated
+the ‘why’ question with premise information. The aim of the second ‘why’ question was
+to extend the reasoning opportunities for the child to explain the action in terms of
+desires or beliefs. The number of psychological explanations given by the children was
+counted. If the child did not respond with a desire or belief attribution, or if the answer
+was unclear, following Bartsch and Wellman (1989), the experimenter asked a desire or
+a belief prompt ‘What does : : : .want/think?’ Desire prompts were given on the
+Anomalous-desire stories and on the second Neutral story. Belief prompts were given on
+the Anomalous-belief stories and on the ﬁrst and third Neutral stories. However, these
+answers were not analysed in the present study.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+569
+
+Psychological explanations included statements that appealed to psychological
+causes, such as desires, beliefs, and other psychological states such as physiology,
+perception, emotion, pretence, preference, and traits ( Bartsch & Wellman, 1989; Schult
+& Wellman, 1997). Each story was coded as to whether participants provided at least
+one psychological explanation, so the maximum number of psychological explanations
+was 9 (one for each story).
+
+Language
+Children were administered the Italian adapted and standardized PPVT (Stella, Pizzoli,
+& Tressoldi, 2000) in order to examine their receptive vocabulary.
+
+Reliability
+Two independent observers coded a random selection of 28% of the videotaped
+observations carried out at 12 and 15 months. Reliability for the pointing task and for the
+intention-understanding task was calculated by Cohen’s kappa. In the pointing task,
+reliability was assessed for each target behaviour. Kappa values on children’s pointing-
+gesture task at 12 months were: .83 for imperative production; .95 for imperative
+comprehension; .93 for declarative production; and .91 for declarative comprehension.
+Kappa values at 15 months were: .92; .98; .91; and .98, respectively. Reliability was high
+across conditions. In the intention-understanding task, reliability was measured on the
+target action with a kappa of 1.0 at the ﬁrst observation and .94 at the second
+observation.
+
+Reliability for the observation at 39 months was assessed only for the psychological
+explanation task. Two coders categorized the children’s explanations. Reliability was
+assessed for 25% of the sample. Cohen’s kappas for psychological explanations used by
+the children ranged from .93 to .95. In general, there was a good level of reliability.
+Children’s answers at
+the intention-
+understanding task could be only correct or incorrect, which made an inter-observer
+agreement unnecessary.
+
+the perception-understanding task and at
+
+Results
+General results
+Measures at 12 and 15 months of age were the proportion of the target actions out of
+total number of valid trials. In the same way measures at 39 months of age were the
+proportion of correct answers out of total number of valid trials. All the proportions
+were then submitted to arcsine transformation for the analyses.
+
+Table 1 shows means and standard deviations (in proportions) for all
+
+the
+experimental variables at 12, 15 (precursor abilities), and 39 months of age (theory-of-
+mind abilities). Children’s mean PPVT score at 39 months was 84.93 (SD 6.54).
+Preliminary analyses for every single variable showed no effects due to gender or to
+order of birth, so these variables were collapsed for further analyses.
+
+A series of paired-sample t tests were conducted in order to examine how the
+precursor abilities developed from 12 to 15 months of age. Imperative comprehension
+did not signiﬁcantly improve from 12 to 15 months of age (tð34Þ ¼ 21:86; p ¼ :072).
+imperative production did (tð34Þ ¼ 22:69; p , :05) as well as dec-
+In contrast,
+larative comprehension (tð34Þ ¼ 26:28; p , :0001) and declarative production
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+570 Cristina Colonnesi et al.
+
+Table 1. Proportions (means, standard deviations) for the experimental variables
+
+12 months
+
+Imperative comprehension
+Imperative production
+Declarative comprehension
+Declarative production
+Intention understanding
+
+15 months
+
+Imperative comprehension
+Imperative production
+Declarative comprehension
+Declarative production
+Intention understanding
+
+39 months
+
+Perception understanding
+Intention understanding
+Psychological explanations
+
+Mean
+
+0.46
+0.31
+0.25
+0.11
+0.26
+
+0.58
+0.46
+0.57
+0.26
+0.61
+
+0.89
+0.63
+0.59
+
+SD
+
+0.32
+0.26
+0.20
+0.18
+0.21
+
+0.32
+0.31
+0.25
+0.24
+0.25
+
+0.21
+0.28
+0.26
+
+(tð34Þ ¼ 24:07; p , :0001). In sum, imperative comprehension was the only ability that
+children already manifested at the age of 12 months and did not signiﬁcantly develop at
+the age of 15 months. A paired-sample t test examining the target acts produced
+by children in the understanding-of-intention task revealed that children produced
+signiﬁcantly more target acts at 15 months than at 12 months (tð34Þ ¼ 28:62;
+p , :0001).
+
+the age of 12 months,
+
+The relationship between the measures at 12 and 15 months was examined through
+correlations. One-tailed correlations were computed since only positive correlations
+between the measures were expected. At
+imperative
+comprehension was signiﬁcantly correlated with imperative production (rð33Þ ¼ :41;
+p , :01) and declarative comprehension (rð33Þ ¼ :41; p , :01). Declarative comprehen-
+sion signiﬁcantly correlated with declarative production (rð33Þ ¼ :46; p , :01).
+Intention understanding was signiﬁcantly correlated with imperative comprehension
+(rð33Þ ¼ :39; p , :05), declarative comprehension (rð33Þ ¼ :32; p , :05), and declara-
+tive production (rð33Þ ¼ :36; p , :05). No other signiﬁcant correlations were found at
+this age.
+At the age of 15 months, signiﬁcant correlations were found between imperative
+comprehension and imperative production (rð33Þ ¼ :32; p , :05), declarative compre-
+hension (rð33Þ ¼ :37; p , :05), and declarative production (rð33Þ ¼ :39; p , :01).
+Declarative production was also signiﬁcant correlated with imperative production
+(rð33Þ ¼ :34; p , :05) and declarative comprehension (rð33Þ ¼ :33; p , :05). No other
+signiﬁcant correlations were found at the age of 15 months.
+
+As far as correlations between 12 and 15 months are concerned, all the pointing
+abilities, with the exception of declarative comprehension, were signiﬁcantly correlated
+with themselves at the two ages: imperative comprehension (rð33Þ ¼ :29; p , :05);
+imperative production (rð33Þ ¼ :30; p , :05); declarative production (rð33Þ ¼ :45;
+p , :01); and intention understanding (rð33Þ ¼ :34; p , :05). Imperative production at
+15 months was also signiﬁcantly correlated with declarative comprehension
+(rð33Þ ¼ :31; p , :05) and declarative production (rð33Þ ¼ :29; p , :05) at 12 months.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+571
+
+Declarative production at 15 months was signiﬁcantly correlated with imperative
+comprehension (rð33Þ ¼ :46; p , :01), imperative production (rð33Þ ¼ :34; p , :05);
+and declarative comprehension (rð33Þ ¼ :31; p , :05) at the age of 12. Therefore,
+declarative production at the age of 15 months was signiﬁcantly correlated with all the
+pointing measures at the age of 12 and 15.
+For the abilities at the age of 39 months, a signiﬁcant correlation was found between
+children’s perception understanding and their intention understanding (rð33Þ ¼ :42;
+p , :01). Correlations between these two abilities and children’s use of psy-
+chological explanations and their PPVT score were absent. Moreover, children’s
+psychological explanations were signiﬁcantly correlated with their score in PPVT
+(rð33Þ ¼ :63; p , :001).
+
+Relations between abilities at 12 and 15 months and abilities at 39 months
+In order to examine the relationship between the abilities at 12 and 15 months and the
+abilities at 39 months, initial bivariate zero-order correlations were computed. Hereafter,
+considering the wide age range at 12 (9–14 months) and 15 months (12–17 months), we
+conducted ﬁrst-order partial correlations in order to control for the effect of age. Finally,
+we tested whether the signiﬁcant correlations that we found could be accounted for by
+a more general association between the examined abilities and verbal language. Infant
+pointing at 12 and 15 months as well as intention understanding failed to correlate with
+PPVT scores at the age of 39 months. At the age of 39 months, perception understanding
+and intention understanding did not correlate with PPVT scores. Since a signiﬁcant
+correlation was found between children’s use of psychological explanations and PPVT
+scores, second-order partial correlations between the precursor abilities and the theory
+of mind abilities, which accounted for the effects of age and of PPVT scores were
+conducted. Table 2 shows the zero-, ﬁrst-, and second-order correlations between the
+precursor abilities at 12 and 15 months of age and the theory-of-mind abilities at 39
+months of age.
+
+Two abilities in the second year of life predicted the later theory of mind abilities,
+imperative comprehension at the age of 12 months and intention understanding at the
+age of 12 and 15 months.
+
+As Table 2 shows, for the zero-order correlation imperative comprehension at the
+age of 12 months signiﬁcantly correlated with children’s later use of perception
+understanding and to psychological explanations. The relation remained sig-
+niﬁcant when controlling for the effect of age and language (ﬁrst- and second-order
+correlations). Where imperative comprehension at 15 months is concerned, we
+observed a trend towards the use of psychological explanations (rð33Þ ¼ :27; p ¼ :054).
+The trend became signiﬁcant when controlling for the effect of age (ﬁrst-order
+correlations) but did not remain stable when controlling for the effect of language
+(second-order correlations; rð31Þ ¼ :21; p ¼ :115). In sum, a relationship was found
+between children’s understanding of the pointing gesture with a requestive motive at 12
+months and the later ability to understand the others’ point of view and to explain
+others’ actions in terms of mental states. This relationship did not vary when controlling
+for the effect of age and language. Imperative comprehension did not correlate with the
+understanding of intention.
+As far as intention understanding is concerned, we observed a trend towards
+intention understanding at 12 months and perception understanding (rð33Þ ¼ :26;
+p ¼ :064) and intention understanding (rð33Þ ¼ :24; p ¼ :082) at the age of 39 months.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+572 Cristina Colonnesi et al.
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+r
+e
+d
+r
+o
+-
+d
+n
+o
+c
+e
+S
+
+e
+g
+a
+u
+g
+n
+a
+l
+
+d
+n
+a
+
+e
+g
+a
+
+t
+u
+o
+
+l
+a
+i
+t
+r
+a
+p
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+r
+e
+d
+r
+o
+-
+t
+s
+r
+i
+F
+
+e
+g
+a
+
+t
+u
+o
+
+l
+a
+i
+t
+r
+a
+p
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+r
+e
+d
+r
+o
+-
+o
+r
+e
+Z
+
+.
+l
+
+p
+x
+e
+
+y
+s
+P
+
+.
+t
+n
+e
+t
+n
+
+I
+
+.
+
+c
+r
+e
+P
+
+.
+l
+
+p
+x
+e
+
+y
+s
+P
+
+.
+t
+n
+e
+t
+n
+
+I
+
+.
+
+c
+r
+e
+P
+
+.
+l
+
+p
+x
+e
+
+y
+s
+P
+
+.
+t
+n
+e
+t
+n
+
+I
+
+.
+
+c
+r
+e
+P
+
+*
+6
+3
+
+.
+
+8
+0
+
+.
+
+8
+0
+
+.
+
+4
+1
+2
+
+.
+
+8
+1
+
+.
+
+1
+2
+
+.
+
+3
+0
+2
+
+.
+
+7
+0
+
+.
+
+0
+2
+
+.
+
+6
+2
+
+.
+
+4
+0
+
+.
+
+2
+2
+
+.
+
+8
+1
+
+.
+
+0
+0
+
+.
+
+*
+4
+3
+
+.
+
+9
+1
+2
+
+.
+
+9
+0
+2
+
+.
+
+3
+0
+2
+
+.
+
+8
+2
+2
+
+.
+
+*
+0
+3
+
+.
+
+*
+1
+3
+
+.
+
+1
+0
+2
+
+.
+
+*
+*
+4
+4
+
+.
+
+7
+0
+
+.
+
+2
+1
+
+.
+
+2
+2
+
+.
+
+*
+*
+7
+4
+
+.
+
+8
+1
+2
+
+.
+
+6
+0
+
+.
+
+8
+0
+2
+
+.
+
+*
+5
+3
+
+.
+
+0
+0
+
+.
+
+0
+0
+2
+
+.
+
+5
+2
+2
+
+.
+
+5
+0
+2
+
+.
+
+*
+9
+2
+
+.
+
+1
+0
+2
+
+.
+
+5
+0
+2
+
+.
+
+0
+1
+
+.
+
+4
+1
+
+.
+
+4
+0
+
+.
+
+3
+2
+
+.
+
+8
+1
+
+.
+
+1
+0
+
+.
+
+*
+3
+3
+
+.
+
+9
+1
+2
+
+.
+
+9
+0
+2
+
+.
+
+2
+0
+2
+
+.
+
+7
+2
+2
+
+.
+
+*
+0
+3
+
+.
+
+8
+0
+
+.
+
+5
+1
+
+.
+
+*
+2
+3
+
+.
+
+2
+1
+
+.
+
+*
+3
+3
+
+.
+
+3
+0
+2
+
+.
+
+*
+*
+3
+4
+
+.
+
+9
+1
+2
+
+.
+
+2
+0
+
+.
+
+0
+1
+2
+
+.
+
+*
+6
+3
+
+.
+
+1
+0
+
+.
+
+2
+0
+
+.
+
+3
+2
+2
+
+.
+
+2
+0
+2
+
+.
+
+7
+2
+
+.
+
+3
+0
+2
+
+.
+
+4
+0
+2
+
+.
+
+2
+1
+
+.
+
+4
+1
+
+.
+
+1
+0
+
+.
+
+0
+2
+
+.
+
+2
+1
+
+.
+
+2
+0
+2
+
+.
+
+4
+2
+
+.
+
+7
+1
+2
+
+.
+
+6
+0
+2
+
+.
+
+4
+0
+2
+
+.
+
+0
+3
+2
+
+.
+
+*
+1
+3
+
+.
+
+5
+0
+2
+
+.
+
+5
+0
+
+.
+
+3
+1
+
+.
+
+6
+2
+
+.
+
+3
+1
+
+.
+
+7
+1
+2
+
+.
+
+1
+0
+
+.
+
+2
+1
+2
+
+.
+
+*
+8
+2
+
+.
+
+*
+*
+2
+4
+
+.
+
+m
+2
+1
+
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+m
+o
+c
+
+e
+v
+i
+t
+a
+r
+e
+p
+m
+
+I
+
+m
+2
+1
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+e
+v
+i
+t
+a
+r
+e
+p
+m
+
+I
+
+m
+2
+1
+
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+m
+o
+c
+
+e
+v
+i
+t
+a
+r
+a
+l
+c
+e
+D
+
+m
+2
+1
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+e
+v
+i
+t
+a
+r
+a
+l
+c
+e
+D
+
+m
+2
+1
+
+n
+o
+i
+t
+n
+e
+t
+n
+
+I
+
+m
+5
+1
+
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+m
+o
+c
+
+e
+v
+i
+t
+a
+r
+e
+p
+m
+
+I
+
+m
+5
+1
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+e
+v
+i
+t
+a
+r
+e
+p
+m
+
+I
+
+m
+5
+1
+
+n
+o
+i
+s
+n
+e
+h
+e
+r
+p
+m
+o
+c
+
+e
+v
+i
+t
+a
+r
+a
+l
+c
+e
+D
+
+m
+5
+1
+
+n
+o
+i
+t
+c
+u
+d
+o
+r
+p
+
+e
+v
+i
+t
+a
+r
+a
+l
+c
+e
+D
+
+.
+
+1
+0
+
+:
+
+,
+p
+*
+*
+
+;
+
+5
+0
+
+:
+
+,
+p
+*
+
+m
+5
+1
+
+n
+o
+i
+t
+n
+e
+t
+n
+
+I
+
+s
+h
+t
+n
+o
+m
+9
+3
+
+t
+a
+
+s
+e
+r
+u
+s
+a
+e
+m
+d
+n
+a
+
+5
+1
+
+d
+n
+a
+
+2
+1
+
+t
+a
+
+s
+e
+r
+u
+s
+a
+e
+m
+n
+e
+e
+w
+t
+e
+b
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+
+d
+e
+
+l
+i
+a
+t
+-
+e
+n
+O
+
+.
+
+2
+
+l
+
+e
+b
+a
+T
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+573
+
+These trends became signiﬁcant when ﬁrst- and second-order correlations were
+computed. Intention understanding at 15 months signiﬁcantly correlated to perception
+and intention understanding at 39 months with zero-order correlations. These
+correlations remained signiﬁcant when ﬁrst- and second-order correlations were
+computed. In sum, infants’ understanding of intention at 12 and 15 months of age was
+related to the later ability to understand perception and intention also when controlling
+for the effect of age and language. Intention understanding at 12 and 15 months did not
+correlate to the use of psychological explanations.
+
+The other pointing abilities at 12 and 15 months failed to correlate with the theory
+
+of mind abilities at the age of 39 months.
+
+Discussion
+In this study, we examined whether two abilities – pointing gestures and intention
+understanding – that develop in the second year of life, are related to children’s later
+theory of mind performances at the age of 39 months. The basic idea was that the same
+socio-cognitive architecture lies behind these early socio-cognitive abilities and the later
+theory of mind achievements. This structure allows children to understand that other
+people are intentional beings with their own mental states such as attentions, desires,
+beliefs, and intentions. Our results show that one out of four pointing variables
+measured at the age of 12 and 15 months indeed contributed to the prediction of
+understanding other minds 2 years later. As expected, young infants’ understanding of
+the adult’s pointing in order to request something appeared to have a predictive value in
+this respect. Unexpectedly, however, infants’ production and comprehension of the
+same gesture with a declarative motive did not have a predictive value. Additionally, it
+appeared that the understanding of others’ intentions at 15 months contributed to the
+prediction of the later understanding of perception and intention at 39 months. These
+results remained mostly intact also when controlled for age or language ability and they
+conﬁrm earlier ﬁndings suggesting a causal relationship between socio-cognitive
+abilities and theory of mind understanding (Charman et al., 2000; Olineck & Poulin-
+Dubois, 2005; Wellman et al., 2004).
+
+However, these outcomes also raise various questions. The ﬁrst question concerns
+what is so different about imperative comprehension as compared to the other pointing
+gestures that were studied, because imperative comprehension was the only gesture
+that showed a predictive value with respect to children’s later theory of mind abilities,
+especially at 12 months of age. In order to interpret these results, the four different
+gestures that were used in this study will be discussed here separately.
+
+Imperative production, thus pointing at something in order to request the object,
+does not require much involvement with the other person because it does not require
+the understanding of other people as intentional or mental (Camaioni, 1993). One could
+even think of the other as an extended arm, a useful tool in order to get the desired
+object. Differently, declarative pointing,
+in
+production, has been frequently put forward as a strong candidate for children’s later
+theory of mind understanding (Baron-Cohen, 1991; Camaioni, 1997; Liszkowski et al.,
+2004), because it seems to aim at directing attention and sharing experiences. However,
+even though this might be the case, this does not necessarily imply involvement with
+the other person. For example, a young infant preoccupied with planes could point
+every time a plane passes by, and he or she might also immediately take a look when
+
+in comprehension, and above all
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+574 Cristina Colonnesi et al.
+
+someone else points and says ‘plane, plane’, but this does not necessarily imply that the
+child even has the slightest interest in the other person. Instead, it shows his enthusiasm
+for planes. This is emphasized by Delgado, Go´mez, and Sarria (1999), who showed that
+infants also point for themselves. If this is true, the declarative conditions used in the
+present study rather tapped children’s interest in the proposed objects/events than their
+involvement with the other person.
+
+Differently, imperative comprehension, in the way we operationalized it, can be
+seen as a form of ‘cooperative engagement’ (Tomasello et al., 2005). In an interactive
+context, the adult asked the infant to give her a part of an object, through the pointing
+gesture. This signiﬁes that the child has to understand the desire underlying this gesture
+in order to interpret the gesture as a request. Even when the child refuses to give the
+desired object, he or she shows understanding that the other person and himself are two
+independent agents, and – in this case – the infant experiences a conﬂict of interests.
+This comprehension might still be an implicit one. Although infants are probably not yet
+able to think about their own or others’ desires explicitly, at least they seem to recognize
+them and to respond adequately. It is important to note, however, that this early form of
+comprehension contributes to children’s later and more mature understanding of
+others’ mental states.
+
+Additionally, the explanation that imperative comprehension is in fact the only
+pointing gesture that requires interest in the other person and that exactly children’s
+recognition of this element of the task seems to contribute their later theory of mind
+functioning is emphasized by the outcome that the infants’ imperative comprehension
+only predicted two of the three later theory of mind abilities, namely, the two abilities
+that also require engagement: perception understanding (which involved under-
+standing someone else’s perspective) and mental explanations about story characters.
+The intention task at 39 months, on the other hand, measured children’s understanding
+of their own intention.
+
+A second question that arises from the outcomes of our study is why only at the age
+of 12 months and not at the age of 15 months imperative comprehension was related to
+the later theory of mind. A possible explanation is that the age of 12 months is the best
+time window or ‘sensitive period’ for ﬁnding associations between the abilities during
+infancy and the abilities during childhood. In other words, it might be the best moment
+to ﬁnd individual differences between children. This argument is supported by the fact
+that imperative comprehension did not signiﬁcantly improve 3 months later. If this is
+true, we should also take into account the possibility that the present study did not
+examine the other three pointing abilities, and in particular the declarative production,
+during their most sensitive period. Future research is needed in order to conﬁrm our
+ﬁndings regarding the relationship between the pointing gesture and theory of mind. In
+particular, older children should be examined when the pointing gesture with a
+declarative motive is at a more advanced level (Moore & D’Entremont, 2001).
+
+An interesting aspect of
+
+the present study is that pointing and intention
+understandings were related to different abilities at the age of 39 months. This result
+was expected so far as we believe that theory of mind is not a unitary ability and is
+inﬂuenced by other capacities such as language, executive functioning, and so on. With
+the intention-understanding task, infants had to grasp the intention of the other person
+behind the failed attempt to make a speciﬁc action. This task has strong perceptual and
+behavioural elements, but no interaction or communication is involved in it. Differently,
+the pointing gesture is produced and understood inside an interactive and
+communicative context and it is strongly related to language (Bates, Camaioni,
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+575
+
+& Volterra, 1975; Butterworth & Morissette, 1996). For this reason, it does not come as a
+surprise that children’s performance on the intention-understanding task was related to
+their later understanding of perception and intention, albeit children’s understanding of
+pointing was related to their later use of psychological explanations.
+
+In conclusion, the fact that a positive relationship was found between two socio-
+understanding abilities during infancy and three theory-of-mind abilities during
+childhood does not mean that, already during infancy, children are aware of mental
+states. Probably, infants’ understanding of persons as intentional agents or infants’
+understanding of others’ attention is implicit during infancy, and it becomes explicit
+only later. In this way, we can see the development of a theory of mind as a continuum
+from infancy to childhood with different developmental
+forms or grades of
+understanding (Chapman, 1987; Racine & Carpendale, 2007). Note also that the
+ﬁndings of this study strongly suggest a causal relationship between earlier and later
+socio-cognitive capacities in young children, but possible underlying cognitive
+capacities that might affect both time measures may also play a role in determining
+this relationship. Finally, it is obvious that theory of mind development is not a unitary
+capacity, but instead, consists of different dimensions, such as desire, belief and
+intention understanding, which might all develop along different pathways and require
+particular precursors. Further studies could look into these issues in more depth.
+
+Acknowledgements
+We would like to thank all the children and their parents who participated in this study, Elisabetta
+Beolchini for her help with data collection, and Fabrizio Plescia for the data coding. A special
+thanks to Luigia Camaioni for her contribution to the idea and to the realization of the present
+research.
+
+References
+Baron-Cohen, S. (1989). Perceptual role-taking and protodeclarative pointing in autism. British
+
+Journal of Child Psychology and Psychiatry, 30, 285–298.
+
+Baron-Cohen, S. (1991). Precursors to a theory of mind: Understanding attention in others.
+In A. Whiten (Ed.), Natural theories of mind: Evolution, development and simulation of
+everyday mindreading (pp. 233–251). Oxford: Blackwell.
+
+Bartsch, K., & Wellman, H. (1989). Young children’s attribution of action to beliefs and desires.
+
+Child Development, 60, 946–964.
+
+Bates, E., Benigni, L., Bretherton, I., Camaioni, L., & Volterra, V. (1979). The emergence of symbols:
+
+Cognition and communication in infancy. New York: Academic Press.
+
+Bates, E., Camaioni, L., & Volterrra, V. (1975). The acquisition of performatives prior to speech.
+
+Merrill-Palmer Quarterly, 21, 205–226.
+
+Behne, T., Carpenter, M., & Tomasello, M. (2005). One-year-olds comprehend the communicative
+
+intentions behind gestures in a hiding game. Developmental Science, 8, 492–499.
+
+Bellagamba, F., Camaioni, L., & Colonnesi, C. (2006). Change in children’s understanding of others’
+
+intentional actions. Developmental Science, 9, 182–188.
+
+Bellagamba, F., & Tomasello, M. (1999). Re-enacting intended acts: Comparing 12- and 18-month-
+
+olds. Infant Behavior and Development, 22, 277–282.
+
+Butterworth, G., & Morissette, P. (1996). Onset of pointing and the acquisition of language.
+
+Journal of Reproductive and Infant Psychology, 14, 219–231.
+
+Camaioni, L. (1993). The development of intentional communication: A re-analysis. In J. Nadel &
+L. Camaioni (Eds.), New perspective in early communicative development (pp. 82–96). New
+York: Routledge.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+576 Cristina Colonnesi et al.
+
+Camaioni, L. (1997). The emergence of intentional communication in Ontogeny, Phylogeny and
+
+Pathology. European Psychologist, 2, 216–225.
+
+Camaioni, L., Perucchini, P., Bellagamba, F., & Colonnesi, C. (2004). The role of declarative
+
+pointing in developing a theory of mind. Infancy, 5, 291–308.
+
+Carpendale, J., & Lewis, C. (2006). How children develop social understanding. Oxford:
+
+Blackwell.
+
+Carpenter, M., Akhtar, N., & Tomasello, M. (1998). Fourteen-through 18-month-old infants
+differentially imitate intentional and accidental actions. Infant Behavior and Development,
+21, 315–330.
+
+Carpenter, M., Nagell, K., & Tomasello, M. (1998). Social cognition,
+
+joint attention, and
+communicative competence from 9 to 15 months of age. Monographs of the Society for
+Research in Child Development, 63(4, Serial No. 255).
+
+Chapman, M. (1987). Inner processes and outward criteria: Wittgenstein’s importance for
+psychology. In M. Chapman & R. A. Dixon (Eds.), Meaning and the growth of understanding:
+Wittgenstein’s signiﬁcance for developmental psychology (pp. 103–127). Berlin: Springer.
+
+Charman, T., Baron-Cohen, S., Swettenham, J., Baird, G., Cox, A., & Drew, A. (2000). Testing joint
+attention, imitation, and play as infancy precursors to language and theory of mind. Cognitive
+Development, 15, 481–498.
+
+Charman, T., Swettenham, J., Baron-Cohen, S., Cox, A., Baird, G., & Drew, A (1997). A Infants with
+autism: An investigation of empathy, pretend play, joint-attention and imitation. Develop-
+mental Psychology, 33, 781–789.
+
+Colonnesi, C., Koops, W., & Meerum Terwogt, M. (2008). Young children’s psychological
+explanations and their relationship to perception- and intention-understanding. Infant and
+Child Development, 17, 163–170.
+
+Delgado, B., Go´mez, J. C., & Sarria´, E. (1999). Non-communicative pointing in preverbal children.
+Poster presented at the 9th European Conference on Developmental Psychology. September.
+Spetses, Greece.
+
+Desrochers, S., Morissette, P., & Ricard, M. (1995). Two perspectives on pointing in infancy.
+In C. Moore & P. J. Dunham (Eds.), Joint attention: Its origins and role in development
+(pp. 85–101). Mahwah, NJ: Erlbaum.
+
+Flavell, J. H., Everett, B. A., Croft, K., & Flavell, E. R. (1981). Young children’s knowledge about
+visual perception: Further evidence for the level 1–level 2 distinction. Developmental
+Psychology, 17, 99–103.
+
+Franco, F., & Butterworth, G. (1996). Pointing and social awareness: Declarative and requesting in
+
+the second year. Journal of Child Language, 23, 307–336.
+
+Legerstee, M., & Barilla, Y. (2003). Sharing attention and pointing to objects at 12 months: Is the
+
+intentional stance implied? Cognitive Development, 18, 91–110.
+
+Liszkowski, U., Carpenter, M., Henning, A., Striano, T., & Tomasello, M. (2004). Twelve-month-olds
+
+point to share attention and interest. Developmental Science, 7, 297–307.
+
+Meltzoff, A. N. (1995). Understanding the intention of others: Re-enactment of intended acts by
+
+18-month-olds. Developmental Psychology, 31, 838–850.
+
+Moore, C., & D’Entremont, B. (2001). Developmental changes in pointing as a function of parent’s
+
+attentional focus. Journal of Cognition and Development, 2, 109–129.
+
+Mundy, P., & Gomez, A. (1998). Individual differences in joint attention skill development in the
+
+second year. Infant Behavior and Development, 21, 469–482.
+
+Olineck, K. M., & Poulin-Dubois, D. (2005). Infants’ ability to distinguish between intentional and
+
+accidental actions and its relation to internal state language. Infancy, 8, 91–100.
+
+Perucchini, P., & Camaioni, L. (1999). Le intenzioni comunicative del gesto di
+
+indicare.
+[The pointing gesture. An analysis of the communicative intentions of the pointing gesture].
+Eta´ Evolutiva, 64, 43–54.
+
+Phillips, A. T., Wellman, H. M., & Spelke, E. S. (2002). Infants’ ability to connect gaze and emotional
+
+expression to intentional action. Cognition, 85, 53–78.
+
+Copyright © The British Psychological Society
+
+Reproduction in any form (including the internet) is prohibited without prior permission from the Society
+
+Precursors of a theory of mind
+
+577
+
+Racine, T. P., & Carpendale, J. I. M. (2007). The role of share practice in joint attention. British
+
+Journal of Developmental Psychology, 25, 3–25.
+
+Repacholi, B. (1998). Infants’ use of attentional cues to identify the referent of another person’s
+
+emotional expression. Developmental Psychology, 34(5), 1017–1025.
+
+Repacholi, B. M., & Gopnik, A. (1997). Early reasoning about desires: Evidence from 14- and
+
+18-month-olds. Developmental Psychology, 33, 12–21.
+
+Ruffman, T., Slade, L., Rowlandson, K., Rumsey, C., & Garnham, A. (2003). How language relates to
+
+belief, desire, and emotion understanding. Cognitive Development, 18, 139–158.
+
+Russell, J., Hill, E. L., & Franco, F. (2001). The role of belief veracity in understanding intentions-in-
+action. Preschool children’s performance on the transparent intention task. Cognitive
+Development, 16, 775–792.
+
+Schult, C. A., & Wellman, H. M. (1997). Explaining human movements and actions: Children’s
+
+understanding of the limits of psychological explanation. Cognition, 62, 291–324.
+
+Stella, G., Pizzoli, C., & Tressoldi, P. E. (2000). Peabody: Test del vocabolario recettivo.
+Adattamento italiano e standardizzazione [Peabody: Receptive vocabulary test. Adapted and
+standardized for Italy]. Torino, Italy: Omega Edizioni.
+
+Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H. (2005). Understanding and sharing
+
+intentions: The origins of cultural cognition. Behavioral and Brain Science, 28, 675–735.
+
+Tomasello, M., Carpenter, M., & Liszkowski, U. (2007). A new look at infant pointing. Child
+
+Development, 78, 705–722.
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory of mind. Child Development, 75, 523–541.
+Wellman, H. M., Phillips, A. T., Dunphy-Lelii, S., & LaLonde, N. (2004). Infant social attention
+
+predicts preschool social cognition. Developmental Science, 7, 283–288.
+
+Woodward, A. L. (1998). Infants selectively encode the goal of an actor’s reach. Cognition, 69(1),
+
+1–34.
+
+Received 3 September 2007; revised version received 24 January 2008
+
+

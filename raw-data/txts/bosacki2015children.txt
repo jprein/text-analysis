@@ -1,0 +1,1120 @@
+Infant and Child Development
+Inf. Child. Dev. 24: 175–188 (2015)
+Published online 12 August 2014 in Wiley Online Library
+(wileyonlinelibrary.com). DOI: 10.1002/icd.1878
+
+Children’s Theory of Mind, Self-
+Perceptions, and Peer Relations: A
+Longitudinal Study
+
+Sandra Leanne Bosacki*
+Brock University, St. Catharines, Ontario, Canada
+
+This longitudinal study explored Theory of Mind (ToM), self-
+perceptions, and teacher ratings of peer relations of 91 children
+(52 females, ages 6–8 years) drawn from two schools situated in a
+mainly Euro-Canadian, middle socioeconomic status, semi-rural
+central Canadian context. ToM, self-perceptions, and teacher rat-
+ings of peer relations were assessed at Time 1 (T1, M = 6 y 2 m)
+and 2 years later at Time 2 (T2, M = 8 y 5 m). Findings showed that
+ToM scores and perceptions of global self-worth and physical
+appearance signiﬁcantly increased with time across both genders.
+Positive longitudinal associations were found between teacher
+ratings of sociable peer relations at T1 and children’s T2 moral
+self-perceptions. A positive longitudinal correlation was found
+between T1 ToM and T2 teacher ratings of anxious/fearful peer
+relations. Individual variation in ToM at age 6 predicted teacher rat-
+ings of anxious and fearful behaviours in 8 year olds. In contrast,
+teacher ratings at age 6 did not predict ToM ability in 8 year olds.
+Educational implications for social and emotional competencies
+are discussed. Copyright © 2014 John Wiley & Sons, Ltd.
+
+Key words: Theory of Mind; self-perceptions; peer relations; childhood
+
+Across educational and psychological research domains, there has been a rise in
+the interest in the emotional and social aspects of learning (Bruner, 1996; Rubin,
+Burgess, & Coplan, 2002). Increasingly, recent research with young school children
+shows that peer relations and sociability may play a signiﬁcant role in children’s
+socioemotional and cognitive development (Rubin & Burgess, 2001). In contrast
+to sociable behaviours in the classroom that have been found to be related to
+positive social and cognitive development (Rubin & Burgess, 2001), research on
+social inhibition or the tendency to be fearful and anxious in challenging or novel
+social situations remains sparse, especially longitudinal research that explores
+changes over time during childhood (Mink, Henning, & Aschersleben, 2014).
+Despite the theoretical and practical implications of investigating the inner and
+
+*Correspondence to: Sandra Leanne Bosacki, Brock University, St. Catharines, Ontario L2S
+3A1, Canada. E-mail: Sandra.bosacki@brocku.ca
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+176
+
+S.L. Bosacki
+
+social world of the socially inhibited child, empirical support for the links among
+children’s social inhibition and their ability to understand thoughts and emotions
+in self and others or Theory of Mind (ToM), as well as their feelings of self-worth,
+remains sparse, and existing ﬁndings are inconsistent and variable (Hughes, 2011;
+Pons et al., 2004).
+
+Thus, the main purpose of this research was to explore relations among
+ToM, self-perceptions, and peer relations in Canadian school-aged children.
+In particular, building on psychocultural and social ecological
+theories of
+self-system and social behaviour (Bronfenbrenner & Morris, 2006; Carpendale
+& Lewis, 2004; Maccoby, 1998), this research explores teachers’ perceptions
+regarding the socio-communicative competence and peer relations of children
+in their classrooms. Moreover, given past research that suggests advanced
+ToM and particular anxious and fearful behaviours may be less tolerated
+and more problematic for young males than for young females (Akseer, Bosacki,
+Rose-Krasnor, & Coplan, 2014; Rubin & Coplan, 2004; Walker, 2005), gender
+differences were also explored.
+
+Theory of Mind, Self-Concept and Socioemotional Competence
+Although social inhibition is often deﬁned as the reluctance to engage in interper-
+sonal interactions (Kagan & Snidman, 2004), it may also imply a metacognitive or
+evaluative component. For example, the relation between shyness and social
+anxiety or embarrassment suggests an evaluation of the self against some kind of
+ideal self (Lewis, 1995). This often negative evaluation component may be linked
+to metacognitive factors such as the ability to reﬂect on one’s own thinking and
+self-image, in addition to various social–cultural factors such as gender and ethnicity.
+Regarding the concept of self within middle childhood, although the literature
+on children’s self-concept development is vast and beyond the scope of this article
+(see Bruner, 1996; Marshall, Parker, Ciarrochi, & Heaven, 2014), for the purpose of
+this study, we have chosen to work within a developmental, psychocultural, and
+social ecological framework that deﬁnes the self as a multidimensional construct
+that involves different aspects of oneself such as one’s physical appearance and
+body image, behavioural conduct, social acceptance, academic competence, and
+an overall
+feeling of global self-worth or a perceived personal happiness
+(Bronfenbrenner & Morris, 2006; Harter, 1996). This self-system is also described
+by some as a dynamic, ﬂuid process that is co-created within conversation and
+social context (Carpendale & Lewis, 2004; Markus & Kitayama, 1994). Children’s
+views of themselves as human beings, and also of a particular gender, are trans-
+mitted and reinforced by various social agents including family, peers, and the
+mass media. For example, research shows that comments from role models such
+as parents and teachers may inﬂuence children’s self-perceptions and attitudes
+concerning moral behaviour, physical appearance, and peer relations (Maccoby,
+1998; Spilt, van Lier, Leﬂot, Onghena, & Coplin, 2014).
+
+Few studies examine the longitudinal associations among children’s ToM,
+self-perceptions, and peer relations within the school context during the ages
+of 6–10 years or middle childhood (Banerjee & Henderson, 2001; Bosacki,
+2000; Hughes, 2011). Developmentally, middle childhood often involves the
+increasing complexity of the school environment that represents children’s
+interactions with teachers, peers, and others (Harter, 1996; Stipek, Recchia, &
+McClintic, 1992). The social experiences during this time provide children with
+an opportunity to co-create different selves through their interactions with
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+177
+
+their peers, parents, and teachers (Bruner, 1996; Spilt et al., 2014; Wright &
+Mahfoud, 2014). Given this complex social context of the school environment,
+and the possible inﬂuence of peers and teachers on children’s self-perceptions,
+children’s ToM ability may also inﬂuence how they relate to their peers. For
+example, past research suggests that how children view and feel about
+themselves as well as think about others’ minds may have an inﬂuence on
+how they understand and relate to their peers (Bosacki, 2000; Spilt et al.,
+2014; Verschueren, Buyck, & Marooen, 2001). More speciﬁcally, past research
+has shown that children with a more advanced ToM may be more sensitive
+to helpful and harmful comments from their peers and teachers (Hughes,
+2011; Lecce, Caputi, & Hughes, 2011).
+
+Despite the claims that suggest some young females may possess a less coherent
+and positive self-theory than some young males (Maccoby, 1998), and the empiri-
+cal evidence that preschool-aged girls show more frequent mental state talk than
+boys (Fivush, 1989; Hughes, Deater-Deckard, & Cutting, 1999; Hughes & Dunn,
+1999), differential gender links between self-cognitions and peer relations,
+especially regarding socially inhibited children during middle childhood, have
+not yet been studied in depth. For example, although little is known about the
+gendered connections among socially inhibited children’s ToM, perceptions of self,
+and peer relations during the middle childhood years (Banerjee & Henderson,
+2001), few of the studies that exist suggest that advanced ToM may be associated
+with socially anxious behaviours in children (Wellman, Lane, LaBounty, & Olson,
+2011), especially males (Walker, 2005). Thus, this study aimed to examine the
+role of gender and age in the links among children’s ToM, self-perceptions,
+and peer relations.
+
+Gendered Relations among Children’s Theory of Mind, Self-Perceptions,
+and Peer Relations
+Teachers play a crucial role in both the gender role socialization and co-construction
+of children’s social–cognitive and linguistic abilities (Arbeau & Coplan, 2007; Purkey,
+2000; Spilt et al., 2014). Although there has been a growing interest in research on the
+associations among ToM, self-perceptions, and peer relations (Hughes, 2011; Lalonde
+& Chandler, 1995; Villanueva Badenes, Clemente Estevan, & Garcia Bacete, 2000),
+surprisingly, few researchers have studied the links among teachers’ perceptions of
+children’s peer relations, children’s self-perceptions, and their ToM. In general, the
+empirical evidence on the role of gender in ToM remains inconsistent, as past
+research has found that girls outperform boys in ToM and emotion understanding
+tasks and receive higher emotional competence teacher ratings (Cutting & Dunn,
+1999), as do middle-school children (Bybee, 1998) and adults (Brody, 1999). Although
+researchers have claimed that some young females seem to internalize earlier and
+more completely the message that it matters how people feel, some studies have
+demonstrated either that no gender differences exist in emotion competence
+(Banerjee & Yuill, 1999) or that school-aged males outperform females (Laible &
+Thompson, 1998).
+
+The Present Study
+This study aimed to investigate the association between children’s developing
+social cognitions, particularly ToM, self-perceptions, and peer relations. For example,
+global biases and deﬁcits in sociocognitive processing may contribute generally
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+178
+
+S.L. Bosacki
+
+towards peer relations and social adjustment (Hughes, 2011). More speciﬁcally, past
+research on executive functioning suggests that differences in children’s emotional
+regulatory and inhibitory control abilities may inﬂuence their ability to engage in
+social interactions with their peers (Zelazo, 1998; Zelazo & Cunningham, 2007).
+For example, socially anxious and fearful, asocial, and excluded children may
+process social situations in similar ways to prosocial peers, but in the face of arousing
+social situations, they may regulate their emotions in different ways (Denham, 1998;
+Rubin et al., 2002). As suggested (Rubin, Chen, & Hymel, 1993; Wichmann, Coplan,
+& Daniels, 2004), socially anxious Canadian children may evidence a social cognitive
+performance rather than a competence deﬁcit.
+
+To date, there remains little longitudinal research on the individual differences
+among children’s ToM, self-perceptions, and peer relations (Hughes, 2011), partic-
+ularly within a Canadian context. Although some cross-sectional research suggests
+that reciprocal relations may exist between teacher ratings of children’s social
+behaviour, children’s self-perceptions, and ToM ability (Spilt et al., 2014; Walker,
+2005), few studies move beyond cross-sectional studies and explore the directional
+inﬂuences among ToM, self-perceptions, and social relations. Given this gap in the
+literature, the present study focused on the role that gender and age play in
+Canadian children’s ToM, self-perceptions, and peer relations. Building on
+previous literature that shows socially inhibited children may be more likely to
+be more depressed, anxious, and hold more negative self-perceptions than their
+prosocial age-mates (Rubin et al., 2002), the present study explored the longitudi-
+nal associations among ToM ability, self-perceptions (global self-worth, physical
+appearance, and behavioural conduct), and peer relations in Canadian school-
+aged children. Given the limited prior evidence, we did not predict a priori that
+an antecedent, consequence, or reciprocal model would exist, although given the
+past research on children’s ToM and temperament (Mink et al., 2014) and
+perceived self-worth and social support (Marshall et al., 2014), we predicted that
+advanced ToM ability and low levels of perceived self-worth in 6 year olds may
+predict teacher ratings of socially inhibited relations in 8 year olds.
+
+This study also explored the role gender plays in the longitudinal associations
+among ToM, self-perceptions, and peer relations among 6- to 8-year-old Canadian
+children over a period of 3 years. Based on past gendered peer relations and social
+cognitive research (Crick & Nelson, 2002; Saarni, 1999), gender-related differences
+in the ﬁndings were expected to reﬂect stereotypic gender role expectations. For
+example, as past research suggests that socially inhibited young males are at
+greater risk for socioemotional problems than young females (Coplan & Armer,
+2005; Crick, 1996; Walker, 2005), this study explored the question of whether
+gender would inﬂuence teachers’ ratings of students’ peer relations. Accordingly,
+it was hypothesized that females compared with males would be rated by teachers
+as more sociable, reported a more positive sense of moral self, or saw themselves
+as more well-behaved. Similarly, it was hypothesized that longitudinal correla-
+tional patterns would reﬂect age-related and gender-related differences among
+children’s ToM, self-perceptions, and peer relations.
+
+METHOD
+
+Participants
+As part of a larger study of children’s social understanding and social behav-
+iour during the middle childhood years (XXXX), the present study included
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+179
+
+91 children (T1: 52 females, M = 6 y, 4 m; 39 males, M = 6 y, 3 m; T2: 44 females, 8
+y 3 m; 29 males, 8 y 2 m) and their teachers (N = 8, females). Participants were
+recruited from two schools during the years of 2003–2006 within a mainly
+English-speaking, Euro-Canadian, middle socioeconomic status population,
+in
+central Canada. Given the present sample decreased by 18 participants from T1
+(91) to T2 (73), possible reasons for attrition may have been due to various factors
+such as family moves and school changes, as these remain the limitations of
+longitudinal studies.
+
+Measures
+
+Second-order false belief task
+
+Gleaned from past research, to assess advanced or second-order ToM un-
+derstanding or understanding other’s mental states and emotions, adapted
+versions of two brief vignettes consisting of two story characters were read
+and enacted out with dolls with the participant. Based on past research
+(Baron-Cohen, O’Riordan, Stone,
+Jones, & Plaisted, 1999; Hughes, 2011),
+stories consisted of misplaced object location scenarios in which participants were
+asked, ‘Where does Y look for the Z, and where does X think that Y will look for
+the Z and why?’ Responses were coded for incorrect/correct responses to mem-
+ory check (two questions—0/1 pass/fail)—if participants correctly responded to
+memory questions, they were asked the ﬁrst-order and second-order questions.
+Responses were coded according to correct location (0/1), and justiﬁcations were
+coded for mental state language content (0 = I don’t know, 1 = physical, e.g.,
+‘Because she moved it’, 2 = psychological, e.g., ‘Because that is where she thought
+it was.’). Scores ranged from 0 to 7 (Table 1). Randomly selected 25% of the
+transcripts were coded by a second independent coder, resulting in an average
+kappa of (.93) across the two stories.
+
+Table 1. Means and standard deviations of main variables for Time 1 and Time 2
+
+Time 1 (n = 91)a
+
+Time 2 (n = 73)b
+
+Variable
+
+ToM Totalc
+Teacher ratingsd
+Anxious/fearful
+Asociability
+Exclusion
+Sociability
+Self-perceptionse
+Behavioural conduct
+Physical appearance
+Global self-worth
+
+M (SD)
+
+4.69 (1.80)
+
+1.18 (0.34)
+1.11 (0.23)
+1.08 (0.17)
+2.63 (0.45)
+
+19.39 (3.46)
+18.11 (4.16)
+18.38 (3.58)
+
+M (SD)
+
+5.40 (0.68)
+
+1.21 (0.35)
+1.13 (0.29)
+1.20 (0.38)
+2.53 (0.46)
+
+17.56 (2.66)
+19.99 (4.01)
+20.32 (3.74)
+
+t
+ 2.87
+ 0.573
+ 0.364
+ 2.28
+1.37
+
+3.97
+ 2.92
+ 3.05
+
+p
+
+.006
+
+.570
+.718
+.028
+.176
+
+.000
+.005
+.003
+
+Note.
+aMean age = 6 y, 2 m.
+bMean age: 8 y, 5 m.
+cTotal Theory of Mind (ToM) score; range 0–7; higher scores reﬂect higher ToM understanding.
+dTeacher ratings of children’s peer relations (Cassidy & Asher, 1992).
+eSelf-Perception Proﬁle for Children (Harter, 1985); range 0–24; higher scores reﬂect higher self-perceptions.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+180
+
+S.L. Bosacki
+
+Self-concept
+
+To assess children’s perceptions of their competencies, subscales from Harter’s
+(1985) Self-Perception Proﬁle for Children (SPPC) were used. Based on past litera-
+ture (Bosacki, 2000; Harter, 1996), the present study focused on three aspects that
+to children’s sense of self:
+some researchers consider particularly relevant
+perceived behavioural conduct (six items, e.g., ‘how well-behaved do you think
+you are’, Cronbach’s alpha = .81), physical appearance (six items, e.g., ‘how
+good-looking do you think you are’, Cronbach’s alpha = .79), and global self-worth
+(six items, e.g., ‘how happy are you being who you are?’ Cronbach’s alpha = .89).
+
+Teacher ratings of children’s social relational competencies
+
+Standardized, psychometrically robust rating scales were used to assess
+teachers’ ratings of children’s social behaviour with their peers observed within
+the classroom. Borrowing from Cassidy and Asher’s (1992) teacher rating scale
+(Child Behavior Scale), teachers were asked to rate children’s behaviour on sub-
+scales taken from a larger 59-item, 3-point scale questionnaire. Teachers were
+asked to rate students on adapted items from the subscales that reﬂected
+dimensions of peer exclusion (seven items, e.g., ‘Ignores other peers in class’,
+Cronbach’s alpha = .84), anxiety and fearfulness (four items, e.g., ‘Fearful of
+peers’, Cronbach’s alpha = .87), asocial with peers (six items, e.g., ‘Prefers to play
+alone’, Cronbach’s alpha = .89, Cronbach’s alpha for composite score = .86), and
+sociability (seven items, e.g., ‘Cooperative with peers’, Cronbach’s alpha = .86).
+
+Design and Procedure
+Upon receiving ethical clearance from university and school ofﬁcials, this study
+consisted of two stages, as data were collected at Time 1 (T1) and then 2 years later
+at Time 2 (T2). At T1, data collection consisted of a group, in-class session where
+children were group administered tasks regarding self-perceptions and an individ-
+ually administered ToM task. Teachers completed the questionnaires individually,
+during their own time, regarding children’s social behaviours and peer relations,
+and demographic information pertaining to family socioeconomic status was
+obtained through parent questionnaire. T2 occurred 2 years later, and the data
+collection procedure was repeated in the same manner as in T1.
+
+RESULTS
+
+Descriptive Statistics of Main Variables and Mean Differences between
+Time 1 and Time 2
+Means and standard deviations are displayed in Table 1. Table 1 shows separate,
+paired t-tests among children’s perceived physical appearance, behavioural
+conduct, global self-worth, and teacher ratings for T1 (age 6) and T2 (age 8).
+Examination of the means revealed some signiﬁcant differences between the two
+groups (T1 and T2). The main results are summarized in the following section.
+
+Table 1 shows that children’s ToM scores signiﬁcantly increased from T1 to T2,
+reﬂecting that children at 6 years of age were more likely to score higher on ToM
+tasks 2 years later. Results showed only one signiﬁcant difference in teacher ratings
+of children’s peer relations across time; speciﬁcally, teachers’ ratings of exclusion-
+ary behaviour among children increased across Times 1 and 2. That is, teachers
+reported more exclusionary behaviours among 8 year olds (e.g., intentionally
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+181
+
+excluding a child from a game, party, etc.) as compared with 6 year olds. Regarding
+children’s self-perceptions, 6-year-old children’s perceptions of their behavioural
+conduct decreased 2 year later. That is, children perceived themselves as less well-
+behaved or less likely to follow school rules at 8 years of age compared with when
+they were 6 years of age. In contrast, children’s perceptions of their physical appear-
+ance and their global self-worth increased signiﬁcantly over the 2 years. That is,
+compared with when they were 6 years of age, children reported higher ratings of
+their physical appearance and overall happiness at 8 years of age. Results from the
+paired t-tests revealed no signiﬁcant gender differences across all variables.
+
+Cross-Sectional Correlations for Time 1 and Time 2 Main Variables
+Regarding cross-sectional associations between teachers’ ratings of peer relations
+and children’s perceived self-worth, for T1, no signiﬁcant correlations were found.
+In contrast, for T2, signiﬁcant negative relations were found between teachers’ rat-
+ings of anxious/fearful behaviour and children’s perceptions of global self-worth
+or personal happiness, r(73) = .33, p = .04, and positive relations were found
+between teachers’ ratings of sociability and children’s perceived moral self
+or how well-behaved they perceived themselves to be, r(73) = .27, p = .02. A
+signiﬁcant negative relation was found between T2 ToM and T2 global self-worth,
+r(73) = .28, p = .02. This result suggested that the higher children scored on ToM,
+the lower they rated their overall personal happiness.
+
+Longitudinal Relations among Theory of Mind, Perceptions of Self-Worth, and
+Teachers’ Ratings of Peer Relations
+Table 2 shows the longitudinal bivariate Pearson intercorrelations for the main
+variables for the whole sample for T1 and T2. To address the ongoing debate in
+
+Table 2. Longitudinal correlations between Time 1a and Time 2b for main variables
+
+Time 1
+
+Variable
+
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+Time 2
+Teacher ratingsc
+1. Anxious–fearful
+2. Asociability
+3. Exclusion
+4. Sociability
+5. ToM Totald
+Self-perceptionse
+6. Behavioural conduct
+7. Physical appearance
+8. Global self-worth
+
+.37*
+.01
+ .02
+.25M
+.47**
+ .30*
+ .18
+ .34*
+
+ .11
+.15
+.19
+ .02
+.11
+ .04
+.16
+.16
+
+ .16
+.43*
+.38*
+ .43*
+.09
+
+.01
+.27
+ .11
+
+ .05
+ .39*
+.24
+.35*
+.02
+
+.27*
+.11
+.18
+
+.08
+.14
+.24
+.08
+.15
+
+.11
+.17
+.48*
+
+ .02
+ .22*
+ .14
+.19M
+.07
+
+.44*
+.13
+.47*
+
+ .21
+.09
+ .14
+ .14
+ .24
+
+.08
+.11
+.14
+
+.04
+.14
+.09
+ .01
+ .04
+
+.03
+.11
+ .11
+
+Note. n = 91 at Time 1 and n = 73 at Time 2.
+aMean age = 6 y, 2 m.
+bMean age: 8 y, 5 m.
+cTeacher ratings of children’s peer relations (Cassidy & Asher, 1992).
+dTotal Theory of Mind (ToM) score; range 0–7; higher scores reﬂect higher ToM understanding.
+eSelf-Perception Proﬁle for Children (Harter, 1985); range 0–24; higher scores reﬂect higher self-perceptions.
+**p < .001, *p < .05, Mp < .10.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+182
+
+S.L. Bosacki
+
+the literature as to whether social inhibition should be conceptualized as either a
+category to which one does or does not belong (Kagan & Snidman, 2004) or as a
+dimension to which an individual varies on a continuum (see Crozier, 1995, for a
+review), bivariate correlations were conducted on all teacher ratings of peer
+relations as a continuous variable. Correlational analyses were conducted on the
+female and male samples separately and showed similar correlational patterns
+among main variables for females and males.
+
+Table 2 shows a signiﬁcant positive correlation between children’s ToM at T1
+and their teacher ratings of anxious/fearful behaviour at T2, r(89) = .47, p < .001.
+That is, children who scored relatively higher on ToM at T1 subsequently received
+higher teacher ratings of children’s anxious and fearful behaviours 2 years later at
+T2. Interestingly, no correlations were found between T1 ToM and T1 anxious/
+fearful behaviour, or between T2 ToM and T1 or T2 anxious/fearful behaviour.
+
+Time 1 and Time 2 intercorrelations revealed no signiﬁcant differences between
+self-perception measures or ToM scores. In contrast, signiﬁcant positive correla-
+tions were found between three out of four of T1 and T2 teacher ratings of
+children’s peer relations: T1–T2 sociability, r(73) = .35, p = .01; anxious/fearful,
+r(73) = .37, p = .02; exclusion, r(73) = .38, p = .01. Teacher ratings of asociability
+from T1 and T2 were not related, r(73) = .15, ns.
+
+Regression Analyses
+Given the signiﬁcant longitudinal bivariate correlations between T1 and T2, we
+proceeded to conduct two regression analyses. Our ﬁrst aim was to test whether
+ToM understanding at age 6 directly predicted teachers’ ratings of anxious and
+fearful behaviour 2 years later. Secondly, we aimed to test whether teachers’ rat-
+ings of anxious and fearful behaviour of 6-year-old children predicted 8-year-olds’
+ToM understanding. Thus, we regressed teacher ratings of anxious/fearful
+behaviour at age 8 on ToM scores of 6 year olds and covaried anxious/fearful
+behaviour at age 6. We then followed the same procedure to test for the opposite
+pathway: we regressed the ToM scores at age 8 on anxious and fearful behaviour
+at age 6, and covaried ToM scores at age 6.
+
+Table 3 illustrates the regression analysis that shows that individual differences in
+children’s ToM understanding at age 6 signiﬁcantly predicted teachers’ ratings of
+anxious and fearful behaviour at child age 8. That is, in this model, children’s ToM
+ability at 6 years predicted teacher ratings of anxious and fearful behaviour at age
+8 while controlling for teacher ratings of anxious and fearful behaviour at age 6.
+
+In contrast, Table 4 shows that teacher ratings of anxious/fearful behaviour at
+child age 6 did not signiﬁcantly predict children’s ToM understanding at age 8.
+
+Table 3. Summary of hierarchical regression analyses predicting teachers’ ratings of anxious
+and fearful behaviour in 8 year olds from Theory of Mind (ToM) at age 6 (N = 42)
+
+Variable
+
+Step 1
+Teacher A–F ratings age 6
+Step 2
+Age 6 ToM
+
+B
+
+.435
+
+.016
+
+SE B
+
+.151
+
+.011
+
+Note. Test of R2 change at Time 2: F(2, 39) = 4.752, p = .014.
+*p < .05.
+
+Beta
+
+.418*
+
+.224*
+
+R2
+
+.155
+
+.196
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+183
+
+Table 4. Summary of hierarchical regression analyses predicting 8 year olds tom from
+teacher ratings of anxious and fearful behaviour in 6 year olds (N = 33)
+
+Variable
+
+Step 1
+Age 6 Theory of Mind
+Step 2
+Age 6 teacher A–F ratings
+
+B
+
+.043
+ .233
+
+SE B
+
+.024
+
+.296
+
+Note. Test of R2 change at Step 2: F(2, 30) = 1.629, p = .213.
+*p < .05.
+
+Beta
+
+.316*
+ .141
+
+R2
+
+.092
+
+.098
+
+In the ﬁrst step at T1, we controlled for ToM at age 6 (covariate) and then added
+teacher-rated anxious/fearful behaviour at age 6 in Step 2 of the equation. Table 4
+shows that in this particular model, teacher ratings of anxious–fearful behaviour at
+age 6 (controlling for ToM at age 6) did not account for a signiﬁcant percentage of
+the variance in 8 year olds’ ToM.
+
+DISCUSSION
+
+This study explored the longitudinal associations among children’s ToM,
+children’s self-perceptions, and teachers’ perceptions of peer relations. Findings
+suggest that children’s ToM may be associated with their self-perceptions and
+teachers’ perceptions of their peer relations over time. In particular, signiﬁcant
+patterns of longitudinal associations were found among children’s ToM, global
+self-worth, and teacher ratings of peer relations, especially anxious/fearful and
+sociable behaviours. Regression analyses suggested that individual differences in
+ToM ability at 6 years of age predicted teachers’ ratings of anxious and fearful
+behaviour in 8 year olds. In addition, the signiﬁcant positive cross-sectional asso-
+ciations between teacher ratings of sociability and children’s perceptions of their
+moral self or behavioural conduct suggest that teachers’ and children’s percep-
+tions of their social and moral behaviour are reciprocal and interdependent. In
+contrast to our predictions, no signiﬁcant gender differences were found among
+patterns of associations between children’s ToM, self-perceptions, and teacher
+ratings of peer relations. The theoretical and educational implications of these
+ﬁndings are discussed later.
+
+Relations among Teachers’ Perceptions of Children’s Peer Relations, Self-Perceptions,
+and Theory of Mind
+Although no longitudinal relations between teachers’ perceptions of children’s
+peer relations and children’s self-perceptions were found, cross-sectional correla-
+tions for T2 when participant were 8 years of age showed that signiﬁcant negative
+relations were found between teachers’ ratings of anxious and fearful behaviour
+and children’s perceptions of global self-worth or personal happiness. In addition,
+positive relations were found between teachers’ ratings of sociability and
+children’s perceived moral self or how well-behaved they viewed themselves.
+
+Overall, these ﬁndings are also consistent with past research that suggests
+teachers’ expectations and beliefs of students may inﬂuence students’ self-
+perceptions and behaviours within the classroom (Curtis & Altmann, 1977;
+Purkey, 2000; Spilt et al., 2014). However, as the present results illustrate, children’s
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+184
+
+S.L. Bosacki
+
+perceptions and teacher ratings were not always in agreement, and this lack of
+concordance needs to be addressed in future research, as this difference in perceptions
+may have implications for students’ learning (Walker, 2005).
+
+How do we explain the ﬁndings that teachers’ perceptions of children’s peer
+relations, especially regarding sociability and anxious/fearful behaviour, may
+inﬂuence or be inﬂuenced by children’s perceptions of self-worth? From a
+psychocultural and social ecological perspective, these ﬁndings could be explained
+in terms of the Pygmalion effect or the inﬂuence of self-fulﬁlling prophesy (Purkey,
+2000). For example, if a teacher perceived a child to be sociable, it may be possible
+that the child could apply that label of ‘social’ to herself or himself, and may thus
+gradually integrate this label of social into their self-concept. Consequently, the
+child may behave in more social ways, which in turn may reinforce the teacher’s
+original perception of a sociable child. Alternatively, given that teachers were
+rating ‘sociability’ and children were rating their self-perceived moral behaviours,
+both could have been assessing classroom conduct and sociable behaviour, as this
+conceptual similarity may also have led to positive associations. Overall, this
+positive association between teachers’ peer relation ratings and children’s self-
+perceptions of their classroom behaviour suggests that reciprocal relation between
+teacher labels and student behaviour requires future research to examine the
+inﬂuence of teachers’ perceptions on children’s self-concepts and peer relations.
+
+The present ﬁndings suggest that complex connections exist among children’s
+ToM ability, perceived self-worth, and teacher ratings of peer relations. Such ﬁnd-
+ings support previous research that social interactions may play signiﬁcant roles in
+children’s ToM understanding (Cutting & Dunn, 1999). Although the lack of
+gender-related differences contrasts with past research that has shown school-aged
+girls score higher than boys on ToM and emotion understanding, particularly the
+complex, moral emotions (Bybee, 1998; Cutting & Dunn, 1999), the present ﬁnd-
+ings contribute to the growing body of contradictory empirical evidence regarding
+gender-related differences in social cognitive development and peer relations in
+middle childhood (Hughes, 2011)
+
+Our ﬁndings also support the notion that perhaps sophisticated or advanced
+ToM understanding may have intrapersonal and interpersonal costs and beneﬁts
+(Cutting & Dunn, 1999; Sutton, Smith, & Swettenham, 1999). In particular, the posi-
+tive predictive relation between children’s ToM at 6 years of age and their teacher rat-
+ings of anxious/fearful behaviour at 8 years of age suggests that the ability to
+understand others’ thoughts and emotions may have implications for social and peer
+behaviour in later childhood. For example, regarding interpersonal implications,
+children with a highly advanced emotional understanding ability may also use this
+ability to either help (e.g., befriend someone) or harm others (e.g., excluding a peer
+from a group by developing a friendship with someone else; Schneider, 1999; Sutton
+et al., 1999). In addition, children with advanced ToM ability may be more sensitive
+to the non-verbal and ambiguous messages from others regarding social interactions
+and may thus feel more anxious and worried in social situations (Hughes, 2011;
+Mink et al., 2014).
+
+Such ﬁndings suggest that children’s self-perceptions may be inﬂuenced by
+teacher ratings of academic competence and support the claim that a sophisticated
+ability to understand mental states and emotions in others may have some psycho-
+logical costs as well as beneﬁts. That is, some children may be more sensitive to
+teachers’ criticisms as compared with other children who do not have such a
+well-developed ability (Hughes, 2011; Lecce et al., 2011). Although our study did
+not ﬁnd that teacher ratings of fearful and anxious behaviour in 6 year olds inﬂu-
+enced their ToM 2 years later, further research needs to explore the connections and
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+185
+
+dynamic interplay between ToM and teacher ratings of social behaviour, particu-
+larly anxious and fearful behaviours (Wright & Mahfoud, 2014).
+
+Relatedly, the present ﬁndings that showed for 8 year olds only, negative
+relations were found between children’s ToM and their perceptions of global
+self-worth. This result supports past research that shows relations between chil-
+dren’s advanced ToM and negative self-perceptions (Bosacki, 2000), and suggests
+that the higher children scored on ToM, the lower they rated their overall personal
+happiness. In contrast, the lower children scored on ToM, the higher they rated
+their personal happiness. As Dunn (2002) suggested, a child’s ability to under-
+stand someone’s emotional state does not necessarily inform us of how that child
+may choose to behave socially. In addition, children who develop a sophisticated
+ability to understand the thoughts and emotions in others may be more likely than
+children who do not develop such an advanced understanding to be more sensi-
+tive and vulnerable to the subtle or nuanced judgements and evaluations of others.
+
+Implications and Future Directions
+Given the limitations of the present study (e.g., correlational design, lack of general
+language measure, and ethnically homogeneous sample), interpretations of the
+present ﬁndings are to be made with caution. Given the co-construction of chil-
+dren’s ToM, self-concept, and peer relations, paper-and-pencil tasks such as the
+SPPC and teacher reports are unlikely to capture such a dynamic and complex
+process. In addition, the particular family structure such as number of siblings,
+cultural and socio-economic family history, and the content of the psychological lan-
+guage used between children and their parents may have inﬂuenced the children’s
+ToM and social cognitive and relational functioning (Ensor, Devine, Marks, &
+Hughes, 2014). Future studies should include further detail on the psychological con-
+tent (cognition and emotion words) used in the language of siblings and parents, in
+addition to the language teachers use in the classroom, as such vocabulary could
+have an inﬂuence on children’s developing ToM, self-perceptions, and social adjust-
+ment. Future studies could also provide more explicit training for teachers to report
+socially inhibited and asocial behaviour in their students (Arbeau & Coplan, 2007),
+and the addition of parental ratings of social inhibition and asociability would also
+provide a more accurate description of a child’s behaviours in the school and home.
+Given the important role teachers play in children’s social and emotional lives,
+this study may encourage future research on socially inhibited children’s ToM,
+self-concept, and peer relations to include observational measures in naturalistic
+settings and in-depth discourse analysis of peer conversations within the school
+context. Consequently, researchers and educators need to draw from psycho-
+linguistic and cross-cultural literature (Lane et al., 2013; Vinden, 1999), and begin
+to integrate a variety of language tasks (receptive and expressive) into social
+cognitive and peer relations research with children across various cultures. Such
+research may provide the necessary empirical evidence for the development of
+educational programmes aimed to promote ToM and self-talk skills as a means
+of coping with social anxiety and aggression in the classroom.
+
+ACKNOWLEDGEMENTS
+
+This research was supported in part by a grant from the Social Sciences and
+Humanities Research Council of Canada with grant no. 410-2003-0950 awarded
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+186
+
+S.L. Bosacki
+
+to the author. I thank the schools, children, and teachers who participated in this
+study. I also thank Mandy Frake, Brianne Litke, Shelley Smith, and Amanda Varnish
+for their assistance. Portions of this research were presented at the 2005 annual
+meeting of the American Educational Research Association, Montreal, QE, Canada.
+
+REFERENCES
+
+Akseer, T., Bosacki, S., Rose-Krasnor, L., & Coplan, R. (2014). Teachers’ perceptions of shy chil-
+dren in the classroom: Are there gender differences? Canadian Journal of School Psychology,
+ﬁrst published on February 25, 2014 as doi: 10.1177/0829573514521992
+
+Arbeau, K. A., & Coplan, R. J. (2007). Kindergarten teachers’ beliefs and responses to hypo-
+
+thetical prosocial, asocial, and antisocial children. Merrill-Palmer Quarterly, 53, 291–318.
+
+Banerjee, R., & Henderson, L. (2001). Social–cognitive factors in childhood social anxiety. A
+
+preliminary investigation. Social Development, 10, 558–572.
+
+Banerjee, R., & Yuill, N. (1999). Children’s understanding of self-presentational display
+rules: Associations with mental-state understanding. British Journal of Developmental
+Psychology, 17, 111–124.
+
+Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R., & Plaisted, K. (1999). Recognition of
+faux pas by normally developing children and children with Asperger syndrome or
+high-functioning autism. Journal of Autism and Developmental Disorders, 29, 407–418.
+
+Bosacki, S. (2000). Theory of mind and self-concept in preadolescents: Links with gender
+
+and language. Journal of Educational Psychology, 92, 709–717.
+
+Brody, L. (1999). Gender, emotion, and the family. Cambridge, MA: Harvard University Press.
+Bronfenbrenner, U., & Morris, P. (2006). The bioecological model of human development. In
+R. M. Lerner (Ed.), Handbook of child psychology, Vol. 43. Theoretical models of human develop-
+ment (pp. 793–828). Hoboken, NJ: Wiley.
+
+Bruner, J. (1996). The culture of education. Cambridge, MA: Harvard University Press.
+Bybee, J. (Ed.). (1998). Guilt and children. San Diego: Academic Press.
+Carpendale, J. M., & Lewis, C. (2004). Constructing an understanding of mind: The develop-
+ment of children’s social understanding within social interaction. Behavioral and Brain
+Sciences, 27(1), 79–96.
+
+Cassidy, J., & Asher, S. (1992). Loneliness and peer relations in children. Child Development,
+
+63, 350–365.
+
+Coplan, R., & Armer, M. (2005). Talking yourself out of being shy: Shyness, expressive
+vocabulary and socioemotional adjustment in preschool. Merrill-Palmer Quarterly, 51,
+20–41.
+
+Crick, N. (1996). The role of overt aggression, relational aggression, and prosocial behavior
+in the prediction of children’s future social adjustment. Child Development, 67, 2317–2327.
+Crick, N., & Nelson, D. (2002). Relational and physical victimization within friendships: Nobody
+
+told me there’d be friends like these. Journal of Abnormal Child Psychology, 30, 599–607.
+
+Crozier, R. (1995). Shyness and self-esteem in middle childhood. British Journal of Educational
+
+Psychology, 65, 85–89.
+
+Curtis, J., & Altmann, H. (1977). The relationship between teachers’ self-concept and the
+
+self-concept of students. Child Study Journal, 7, 17–26.
+
+Cutting, A., & Dunn, J. (1999). Theory of mind, emotion understanding, language and fam-
+ily background: Individual differences and inter-relations. Child Development, 70, 853–865.
+
+Denham, S. (1998). Emotional development in young children. New York: Guilford.
+Dunn, J. (2002). Mindreading, emotion understanding, and relationships. In W. W. Hartup
+& R. K. Silbereisen (Eds.), Growing points in Developmental science: An introduction
+(pp. 167–176). New York: Psychology Press.
+
+Ensor, R., Devine, R., Marks, A., & Hughes, C. (2014). Cognitive references to 2-year-olds
+
+predict Theory of Mind at ages 6 and 10. Child Development, 85, 1222–1235.
+
+Fivush, R. (1989). Exploring sex differences in the emotional content of mother–child con-
+
+versations about the past. Sex Roles, 20, 675–691.
+
+Harter, S. (1985). Manual for the Self-Perception Proﬁle for Children (SPPC). Denver: University
+
+of Denver.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+Theory of Mind, Self, and Peer Relations
+
+187
+
+Harter, S. (1996). Teacher and classmate inﬂuences on scholastic motivation, self-esteem, and
+level of voice in adolescents. In J. Juvonen, & K. Wentzel (Eds.), Social motivation: Understand-
+ing children’s school adjustment (pp. 11–42). New York: Cambridge University Press.
+
+Hughes, C. (2011). Social understanding and social lives: From toddlerhood through to the transi-
+
+tion to school. New York: Psychology Press.
+
+Hughes, C., & Dunn, J. (1999). Theory of mind and emotion understanding: Longitudinal
+associations with mental-state talk between young friends. Developmental Psychology, 34,
+1026–1037.
+
+Hughes, C., Deater-Deckard, K., & Cutting, A. (1999). ‘Speak roughly to your little boy’? Sex
+differences in the relations between parenting and children’ understanding of mind. Social
+Development, 8, 143–160.
+
+Kagan, J., & Snidman, N. (2004). The long shadow of temperament. Cambridge, MA: The
+
+Belknap Press of Harvard University Press.
+
+Kitayama, S., Markus, H., & Kurokawa, M. (2000). Culture, emotion, and well-being: Good
+
+feelings in Japan and the United States. Cognition and Emotion, 2, 95–124.
+
+Kitayama, S., Markus, H., & Matsumoto, H. (1995). Culture, self, and emotion: A cultural pers-
+pective on “self-conscious” emotions. In J. Tangney, & K. Fischer (Eds.), Self-conscious emotions:
+The psychology of shame, guilt, embarrassment, and pride (pp. 439–464). New York: Guilford.
+
+Laible, D., & Thompson, R. (1998). Attachment and emotional understanding in preschool.
+
+Developmental Psychology, 34, 1038–1045.
+
+Lalonde, C. E., & Chandler, M. J. (1995). False belief understanding goes to school: On the
+social–emotional consequences of coming early or late to a ﬁrst theory of mind. Cognition
+and Emotion, 9, 167–185.
+
+Lane, J. D., Wellman, H. M., Olson, S. L., Miller, A. L., Wang, L., & Tardif, T. (2013). Relations
+between temperament and theory-of-mind development in the United States and China:
+Biological and behavioral correlates of preschoolers’ false-belief understanding. Develop-
+mental Psychology, 49, 825–836.
+
+Lecce, S., Caputi, M., & Hughes, C. (2011). Does sensitivity to criticism medicate the
+relationship between theory of mind and academic achievement. Journal of Experimental
+Child Psychology, 110, 313–331.
+
+Lewis, M. (1995). Embarrassment: The emotion of self-exposure and evaluation. In J.
+Tangney, & K. Fischer (Eds.), Self-conscious emotions: The psychology of shame, guilt,
+embarrassment, and pride (pp. 198–218). New York: Guilford Press.
+
+Maccoby, E. (1998). The two sexes: Growing up apart, coming together. Cambridge, MA:
+
+Harvard University Press.
+
+Markus, H., & Kitayama, S. (1994). The cultural construction of self and emotion: Implica-
+tions for social behavior. In S. Kitayama, & H. Markus (Eds.), Emotion and culture: Empir-
+ical studies of mutual inﬂuence (pp. 89–130). Washington, DC: American Psychological
+Association.
+
+Marshall, S., Parker, P., Ciarrochi, J., & Heaven, P. (2014). Is self-esteem a cause or conse-
+quence of social support: A 4-year longitudinal study. Child Development, 85, 1275–1291.
+Mink, D., Henning, A., & Aschersleben, G. (2014). Infant shy temperament predicts
+
+preschoolers theory of mind. Infant and Child Behavior, 37, 66–75.
+
+Pons, F., Harris, P., & de Rosnay, M. (2004). Emotion comprehension between 3 and 11 years:
+Developmental periods and hierarchical organization. European Journal of Developmental
+Psychology, 1, 127–152.
+
+Purkey, W. (2000). What students say to themselves: Internal dialogue and school success. Thousand
+
+Oaks: Corwin Press, Inc.
+
+Rubin, K., & Burgess, K. (2001). Social withdrawal and anxiety. In M. Vasey & M. Dadds
+(Eds.), The developmental psychopathology of anxiety (pp. 407–434). New York: Oxford
+University Press.
+
+Rubin, K., & Coplan, R. (2004). Paying attention to and not neglecting social withdrawal
+
+and social isolation. Merrill-Palmer Quarterly, 50, 506–534.
+
+Rubin, K., Burgess, K., & Coplan, R. (2002). Social withdrawal and shyness. In P. Smith, & C. Hart
+
+(Eds.), Blackwell’s handbook of childhood social development (pp. 329–352). London: Blackwell.
+
+Rubin, K., Chen, X., & Hymel, S. (1993). The socio-emotional characteristics of extremely
+
+aggressive and extremely withdrawn children. Merrill-Palmer Quarterly, 39, 318–534.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+188
+
+S.L. Bosacki
+
+Saarni, C. (1999). The development of emotional competence. New York: Guilford.
+Schneider, B. (1999). A multimethod exploration of the friendships of children considered
+
+socially withdrawn by school peers. Journal of Abnormal Child Psychology, 27, 115–123.
+
+Spilt, J., van Lier, P., Leﬂot, G., Onghena, P., & Coplin, H. (2014). Children’s social self-
+concept and internalizing problems: The inﬂuence of teachers and peers. Child Develop-
+ment, 85, 1248–1256.
+
+Stipek, D., Recchia, S., & McClintic, S. (1992). Self-evaluation in young children. Monographs
+
+of the Society for Research in Child Development, 57(1, Serial No. 226), 1–84.
+
+Sutton J., Smith P., & Swettenham J. (1999). Social cognition and bullying: Social inadequacy
+
+or skilled manipulation? British Journal of Developmental Psychology, 17, 435–450.
+
+Verschueren, K., Buyck, P., & Marooen, A. (2001). Self-representations and emotional compe-
+tence in young children: A 3-year longitudinal study. Developmental Psychology, 37, 126–134.
+Villanueva Badenes, L., Clemente Estevan, R. A., & Garcia Bacete, F. J. (2000). Theory of
+
+mind and peer rejection at school. Social Development, 9(3), 271–283.
+
+Vinden, P. (1999). Children’s understanding of mind and emotion: A multi-culture study.
+
+Cognition and Emotion, 13, 1948.
+
+Walker, S. (2005). Gender differences in the relationship between young children’s peer-
+related social competence and individual differences in theory of mind. The Journal of
+Genetic Psychology, 16, 297–312.
+
+Wellman, H. M., Lane, J. D., LaBounty, J., & Olson, S. L. (2011). Observant, nonaggressive
+temperament predicts theory-of-mind development. Developmental Science, 14(2), 319–326.
+Wichmann, C., Coplan, R., & Daniels, T. (2004). The social cognitions of socially withdrawn
+
+children. Social Development, 13, 377–379.
+
+Wright, B., & Mahfoud, J. (2014). Teacher-centered exploration of the relevance of social
+
+factors to theory of mind development. Scandinavian Journal of Psychology, 55, 17–25.
+
+Zelazo, P. (1998). Self-reﬂection and the development of consciously controlled processing.
+In P. Mitchell, & K. J. Riggs (Eds.), Children’s reasoning and the mind (pp. 169–190). East
+Sussex, UK: Psychology Press.
+
+Zelazo, P. D., & Cunningham, W. A. (2007). Executive function: Mechanisms underlying
+emotion regulation. In J. J. Gross (Ed.), Handbook of emotion regulation (pp. 135–158).
+New York: Guilford.
+
+Copyright © 2014 John Wiley & Sons, Ltd.
+
+Inf. Child. Dev. 24: 175–188 (2015)
+DOI: 10.1002/icd
+
+

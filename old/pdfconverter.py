@@ -27,14 +27,25 @@ def convert_pdf_to_txt(path):
     fp.close()
     device.close()
     retstr.close()
+    print(type(text))
+
     return text
 
-if __name__ == '__main__':
-    from sys import argv
-    # print(convert_pdf_to_txt(argv[1]))
-    text_file = open("test.txt", "w")
-    n = text_file.write(convert_pdf_to_txt(argv[1]))
-    text_file.close()
+# /Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/pdfs/adrián2007mothers.pdf
+# /Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/pdfs/bosacki2015children.pdf
+# /Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/pdfs/bowman2017action.pdf
+
+x = convert_pdf_to_txt('/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/pdfs/abc.pdf')
+print(x)
+
+# COMMENT MAIN IF YOU WANT TO USE THE convert_pdf_to_txt FUNCTION IN R WITH RETICULATE
+# if __name__ == '__main__':
+#     from sys import argv
+#     # print(convert_pdf_to_txt(argv[1]))
+#     text_file = open("test.txt", "w")
+#     n = text_file.write(convert_pdf_to_txt(argv[1]))
+#     text_file.close()
+
 
 # TODO: durch directory gehen, alle PDFs listen, einlesen in LIste. 
 

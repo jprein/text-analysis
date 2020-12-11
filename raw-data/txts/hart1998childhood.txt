@@ -1,0 +1,1621 @@
+Journal  of  Personality  and  Social  Psychology
+1998,  Vol. 74, No.  5,  1278-1289
+
+Copyright  1998 by  the American  Psychological  Association,  Inc.
+0022-3514/98/$3.0O
+
+Childhood  Personality  Influences  on Social-Cognitive  Development:
+
+A Longitudinal  Study
+
+Daniel  Hart
+
+Rutgers  University
+
+Monika  Keller, Wolfgang  Edelstein,
+
+and  Volker  Hofmann
+
+Max  Planck  Institute  for  Education  and  Human  Development
+
+The  relation  of  childhood  personality  to  the  development  of  friendship  understanding  and  moral
+judgment  in adolescence  was  considered  in a longitudinal  study. Personality  at  age 7,  assessed  with
+the  California  Child  Q-Set,  was  characterized  in  terms  of  ego-resiliency  and  ego-control.  IQ  and
+social  class  were  also  measured.  Friendship  understanding  was  assessed  when the  participants  were
+ages  7,  9,  12,  15, and  19,  and  moral judgment  was  elicited  when  the  participants  were  12,  15, and
+19. Ego-resiliency  was found  to predict social-cognitive  development in adolescence, even  after  the
+effects  of  IQ and childhood measures of social-cognitive  development were controlled  for. Analyses
+indicate  that  the  effects  of  ego-resiliency  on  social-cognitive  development  are  largely  unmediated
+by  the ability  to  focus  attention  or  by  social  participation.
+
+Individual  differences  in  the understanding  of  friendship  and
+moral judgment,  the  two  domains  of  social  cognitive  develop-
+ment  considered  in  this  study,  are  likely  to  result  in  part  from
+the  influence  of  personality  characteristics.  Personality  factors
+may affect  social cognitive development by influencing  the indi-
+vidual's  view  of  the  social  world  and  the benefit  derived  from
+exposure  to development-facilitating  social interaction  (Hart  &
+Schmiel,  1992).  In this  longitudinal  study  of  children  followed
+into adolescence, we demonstrate that one personality trait, ego-
+resiliency,  is  related  to  the  development  of  friendship  under-
+standing  and  moral judgment  over  the  course  of  childhood  and
+adolescence.  We  also  assess  two  more  specific  traits  (social
+participation  and  attention-focusing  skill)  in  order  to  identify
+their role in mediating the influence  of ego-resiliency  on  social-
+cognitive  development.
+
+J.  Block  (e.g.,  J. Block,  1971; J.  H. Block & J. Block,  1980)
+has  proposed  that  personality  from  childhood  through  early
+adulthood  can  be  usefully  characterized  in  terms  of  two  broad
+traits:  ego-control  and  ego-resiliency.  Ego-control  refers  to  the
+"degree  of impulse  control  and modulation"  (J.  H. Block  & J.
+Block,  1980, p.  41)  characterizing  the  individual.  Ego  control
+
+Daniel  Hart,  Department  of  Psychology,  Rutgers  University;  Monika
+Keller, Wolfgang Edelstein, and Volker Hofmann,  Center of Development
+and Socialization, Max Planck Institute for Education and Human Devel-
+opment,  Berlin,  Germany.
+
+This research  is part of  Project  Child  Development  and  Social  Struc-
+ture,  which  is  being  carried  out  by  the  Center  of  Development  and
+Socialization  at  the  Max  Planck  Institute  for  Education  and  Human
+Development  in  Berlin,  Germany,  under  the  direction  of  Wolfgang
+Edelstein. This  project  was facilitated  in part by  a study  grant  from  the
+German  Academic  Exchange  Service  (Deutscher  Akademischer  Aus-
+tauschdienst).  We  thank  Suzanne  Ffegley  for  her  helpful  comments  on
+this  article.
+
+Correspondence concerning  this article should be addressed to Daniel
+Hart,  Department  of Psychology,  Rutgers  University,  Camden,  New Jer-
+sey  08102. Electronic  mail  may  be  sent to  hart@crab.rutgers.edu.
+
+1278
+
+is  a  stable  characteristic  of  persons  (J.  Block,  1993)  and  has
+empirical relations to experimental  tasks assessing activity  level
+(J.  H.  Block  &  J.  Block,  1980)  and  delay  of  gratification
+(Funder  &  Block,  1989).  The  Q-sort  measure  of  ego-control
+(the  one used  in  this  study)  is associated  with observer  ratings
+of  personality  and  social  behavior  (J.  H.  Block  &  J.  Block,
+1980)  and  with  self-reports  of  adolescent  drug  use  (Shedler  &
+Block,  1990).
+
+The  construct  of  ego-resiliency  is  suggested  by  the  "ability
+to  modify  one's  behavior  in  accordance  with  contextual  de-
+mands"  (J.  H.  Block  &  J.  Block,  1980,  p.  48)  and  overlaps
+with notions of executive processes that coordinate mental activ-
+ities  (J.  Block  &  Kremen,  1996).  Like  ego-control,  ego-resil-
+iency is a facet of persons showing considerable continuity  from
+childhood  to  adolescence  (J.  Block,  1993).  An  ego-resilient
+person  is  able  to  adapt,  whereas  the  ego-brittle  individual  has
+difficulty  in  doing  so  (J.  Block  &  Kremen,  1996;  Klohnen,
+1996).  The  key  to  ego-resilient  children's  ability  to  adapt  can
+be  found  in  their  openness  to  experience  and  their  balance  of
+accommodation  and  assimilation  (J.  Block,  1982;  Gjerde,
+Block, & Block,  1986), which can be viewed as the key compo-
+nents to successful  adaptation  (Piaget,  1932/1965). Accommo-
+dation permits  the ego-resilient  child to change his or her struc-
+tures  of  thought  when  these  structures  are  revealed  by  experi-
+ence to  be ineffective  or maladaptive.  The ego-resilient  child  is
+also well equipped to assimilate experience—to  understand and
+interpret events—with existing structures of thought when these
+structures  are  appropriate.  Ego-brittle  children  may  rely  too
+heavily  on  one  process  or  the  other;  for  example,  a  child's
+strongly  preferred  mode  of  dealing  with  the  world  may  be  to
+assimilate  all  (or  most)  experiences  to  existing  schemes  of
+thought. This overassimilation produces a distorted view of real-
+ity  (J. Block & Kremen,  1996). Conversely, ego-brittle  children
+may fail  to construct  adequate schemes for  the processing  of an
+event. The lack  of  enduring  schemes  forces  ego-brittle  children
+to nearly  constant  accommodation,  a tendency  that prevents  the
+structuring of knowledge  so that it can be generalized to compa-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.PERSONALITY  AND  SOCIAL  COGNITION
+
+1279
+
+rable  situations.  Thus,  ego-resilient  children  can  deal  flexibly
+with context and experience in line with the cognitive  structures
+available  to  them,  whereas  ego-brittle  children  may  be  unpre-
+pared both to take into account complex features  of social inter-
+action  and to construct  new  schemes  from  ongoing  experience.
+The  first  goal  of  this  study  is  to  demonstrate  that  ego-resil-
+iency is associated  with more rapid developmental  advancement
+in an understanding of  friendship  and in moral judgment. Quali-
+tative  transformations  in  friendship  understanding  have  been
+described by various authors (e.g., Adalbjarnardottir,  1995; Kel-
+ler  &  Wood,  1989;  Selman,  1980;  \ouniss,  1980).  The  stage-
+like  nature  of  transformations  has  been  demonstrated  by  Ber-
+kowitz  and  Keller  (1994).  They  found  that  the  development  of
+friendship  reasoning  is  characterized  by  periods  when  persons
+mostly use a single structure (or  stage) in understanding  friend-
+ship and  that  these  periods  alternate  with  phases  during  which
+persons elaborate new structures and manifest  reasoning charac-
+teristic  of  several  stages. Generally, all these authors report  that
+the  direction  of  development  is  from  a  conception  according
+to  which  friendships  are  transient  social  interactions  involving
+exchanges of goods or physical  actions brought about by physi-
+cal  proximity  to  an  understanding  in  which  intimacy,  commit-
+ment, and the coordination  of perspectives  are essential to genu-
+ine friendship.  For example, at age 7 (the age of  participants  in
+this  study  when  it  began),  a  child  might  suggest  that  friends
+are  important  "because  they  do  what  you  tell  them  to  do"
+(Selman,  1979,  p.  125).  The  same  child  8 years  later  (one  of
+the last measurement  points for  friendship  understanding in this
+study) might be expected to argue that  friendship  requires more
+than the exchange of favors,  that one needs friends  to  "not just
+keep  secrets,  but  do  anything,  [you  need  to  be  able  to]  trust
+them  to  come  over  to  your  house  and  trust  them  to  keep  their
+word"  (Selman,  1979, p.  132).
+
+Moral judgment  in  childhood  and  adolescence  has  also  been
+described in terms of a series of qualitative transformations,  with
+the differing  accounts  sharing broad  similarities  (e.g., Colby  &
+Kohlberg,  1987;  Eisenberg,  Carlo,  &  Van  Court,  1995).  Re-
+search  has further  shown  that moral judgment  development  can
+be characterized in terms of alternating periods of  consolidation
+(dominance  of  one  stage  or  principle)  and  transition  (greater
+distribution  of  stages). For example, Walker  and Taylor  (1991)
+found  alternating  periods  of  consolidation  and  transition  in  a
+longitudinal study of moral judgment (as characterized by Kohl-
+berg's  stages;  Colby  &  Kohlberg,  1987).  As  moral  judgment
+progresses  from  immature  to mature, the  individual's  apprecia-
+tion  for  the  perspectives  of  the  various  parties  involved  in  a
+moral conflict  deepens  and the principles that allow  for  the  fair
+weighting  of  the  claims  inherent  in  these  perspectives  develop.
+The  average  12-year-old  in  this  study  (when  moral  judgment
+was  first  assessed)  might  argue  that  a  daughter  be  required  to
+keep  her  word  to  her  father  for  the  sake  of  the  dyad,  because
+"the  education  you  got  is  from  your  father.  He is  the  one  who
+raised  you.  You  owe  it  to  him"  (Colby  et  al.,  1987,  p.  587).
+Seven years later, the same individual  could articulate  a broader
+perspective  emphasizing  the  importance  of  keeping  promises
+for  a  larger  network  of  relationships, because  promises  "make
+for a meaningful  and working relationship between members  of
+a  family,  that  if  you  can  trust  one  another,  if  you  can  rely  on
+
+the  members  of  your family,  I think  that builds  the  family  .  .  .
+that  strengthens  the  ties"  (Colby  et  al.,  1987, p.  598).
+
+Transformation  in the development  of  friendship  understand-
+ing and moral judgment reflects both accommodation and assim-
+ilation  in  social  understanding.  Social  cognitive  development
+occurs because of social transactions in which persons  negotiate
+and  justify  actions  and  claims,  in  order  to  participate  more
+effectively  in social interaction and to sustain relationships (e.g.,
+Adalbjarnardottir,  1995;  Damon  &  Killen,  1982;  Kohlberg,
+1984;Piaget,  1932/1965; Selman,  1980; Walker & Taylor, 1991;
+\buniss,  1980).  We  hypothesize  that  ego-resiliency  influences
+the rate at which children and adolescents acquire more complex
+reasoning  in the domains of  friendship  understanding  and  moral
+judgment.  Children  high  in  ego-resiliency,  who  cope  well  in
+social interaction—that  is, who accommodate to  social  context
+and assimilate the meaning of social interactions easily and thus
+are  more  likely  to elaborate  new  structures  of  thought—ought
+to  develop  higher  levels  of  reasoning  more  quickly  than  do
+children  low  in  ego-resiliency.
+
+We also assess the influence  of ego-control on  social-cogni-
+tive development. Ego-control  is less clearly  related to the theo-
+retical  mechanisms  of  social-cognitive  development  than  is
+ego-resiliency, but correlational  studies have found  associations
+between  ego-control  and  developmental  measures  in  domains
+broadly  similar to those observed in  social cognition. For exam-
+ple, Westenberg and Block (1993) reported that impulse  control
+is associated with higher levels of ego development, and the path
+of ego development  shows  some of the same transformations  as
+those observed  in moral-judgment  development  (Lee  & Snarey,
+1988). Consequently,  in this  study, the  association  of high ego-
+control  with  rapid  development  in  social  cognition  is  assessed.
+We  use  growth  curve  analysis  (R-ancis,  Fletcher,  Stuebing,
+Davidson,  & Thompson,  1991; Willett,  1988; Willett, Ayoub, &
+Robinson,  1991)  to  assess  the  influence  of  ego-resiliency  and
+ego-control  on  the  rate  of  development  of  both  friendship  rea-
+soning  and  moral  judgment.  Growth  curve  analysis  involves
+estimating a curve on the basis of a participant's scores at  differ-
+ent measurement points in a longitudinal study to represent each
+participant's developmental trajectory. Separate curves were cal-
+culated  for  each participant's  scores  for  friendship  understand-
+ing and moral judgment. Growth curve analysis offers  important
+advantages to simple difference  scores or to residualized  change
+scores for representing development (Willett,  1988). One advan-
+tage  is that by making  use  of  all of  a participant's  scores, mea-
+surement  error  is  greatly  reduced.  Consequently,  growth  curve
+analysis can provide a more accurate depiction  of  development.
+Second, unequally  spaced measurement  points pose fewer  prob-
+lems  for  growth  curve  analysis  than  for  many  other  analytical
+techniques,  because  once  trajectories  are  specified  for  partici-
+pants,  scores  for  any  time  point  can  be  estimated  (see  Willett,
+1988,  for  a  useful  discussion).  In  the  research  presented  here,
+each  participant's  scores  were  fitted  with  a regression  line. Al-
+though  developmental trajectories  for  social-cognitive develop-
+ment  across  the  life  span  may  be  curvilinear  (see,  e.g.,  Colby,
+Kohlberg,  Gibbs,  &  Lieberman,  1983)  and  microanalysis  of
+developmental  transitions  suggests  spurts  and  plateaus  in  the
+elaboration  of  new  developmental  levels  (Berkowitz  &  Keller,
+1994; Walker  & Taylor;  1991), development  across  the  span  of
+childhood  through  adolescence  has  a  clear  linear  component
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1280
+
+HART,  KELLER,  EDELSTEIN,  AND  HOFMANN
+
+(see, e.g., Keller & Wood,  1989; Selman,  1980). The estimation
+of the regression  line allows the participant's  scores to be  char-
+acterized  by  an  intercept,  which  represents  the composite  level
+of  a participant's  standing  on a particular  variable, and a  slope,
+which is a measure  of developmental  rate. Of central interest  in
+this study is the slope: A steep slope indicates that an individual
+is developing  quickly, whereas  a shallow  slope  indicates that an
+individual  is  developing  slowly.  Our  central  prediction  is  that
+children high in ego-resiliency  will have higher rates of develop-
+ment  than  will  children  low in ego-resiliency. We also  examine
+the  possibility  that  high  ego-control  is  associated  with  higher
+rates  of  development.
+
+The effects  of ego-resiliency  on social cognitive  development
+may be mediated, in part, by two different  processes. First, ego-
+resiliency  may  affect  social-cognitive  development  by  influ-
+encing  levels of  social participation.  Children  high  in  ego-resil-
+iency  are  characterized  by  better  social  skills  and  are  judged
+more  popular  (J.  H.  Block  &  J.  Block,  1980),  with  much  the
+same  pattern  evident  among  adults  (Klohnen,  1996).  In  turn,
+increased  opportunities  for  social  participation  may  enhance
+development  toward  more  differentiated  friendship  understand-
+ing  and  moral judgment.  Conversely,  socially  withdrawn  chil-
+dren may lack the social experiences necessary  to elaborate new
+understandings  of  friendship  and  morality.  In  a  recent  study  of
+children  and  adolescents  (using  measures  of  friendship  under-
+standing  and  social  participation  similar  to  those  used  in  this
+study), Adalbjarnardottir  (1995)  found  that socially  withdrawn
+children  tended  to  offer  unsophisticated  notions  of  friendship
+compared  to children  high  in  social  participation.  Although  the
+cross-sectional  emphasis  of Adalbjarnardottir's  analyses and the
+failure  to control  for  IQ  do  not  permit  strong  inferences  about
+the role of social participation, the author did suggest that' 'chil-
+dren  who tend to withdraw  socially  receive  fewer  opportunities
+to  practice  their  interpersonal  understanding  and  skills"  (p.
+1749)  resulting  in  a  less  sophisticated  understanding  of  social
+relationships.
+
+Similar  findings  have  been  reported  for  moral judgment.  In
+a  cross-sectional  study,  Gibson  (1990)  found  that  advanced
+moral  judgment  was  associated  with  traits  such  as  empathy,
+dominance,  and  sociableness.  This  suggests  that  persons  who
+are  likely  to  initiate  more  social  interactions  and  to  be  more
+cooperative in them may derive greater insights into moral prin-
+ciples  than  do less  extraverted  and less  agreeable  persons,  who
+may  have  less  social  experience.  Colby  and  Kohlberg  (1987)
+reported  that  children  and  young  adolescents  who  are  socially
+isolated  are more likely to be characterized  by  immature  moral
+judgment  than  are  children  and  adolescents  high  in  social
+participation.
+
+The  second  process  that  may  mediate  the  effects  of  ego-
+resilience  on  social-cognitive  competence  is  attention.  Chil-
+dren's  ability  to  focus  their  attention  on  relevant  aspects  of
+social  interaction  may  enhance  the  development  of  reasoning
+about  social  events,  interactions,  and  the  fair  adjudication  of
+social  claims. Thus,  ego-resiliency  may  influence  social  cogni-
+tive  development  by  affecting  the  individual's  interest  in,  and
+attention  to, the conflicts  in perspectives  that  are  at  the heart  of
+interpersonal  disagreements  and  that  constitute  the  essence  of
+moral dilemmas. Theoretically, high ego-resiliency  is  character-
+ized by the executive processes that allow persons to coordinate
+
+and sequence multiple low-level processes (J. Block & Kremen,
+1996),  which  should  permit  thoughtful  consideration  of  social
+conflicts,  and  children  high  in  ego-resiliency  have  been  found
+to  be  curious,  tolerant  of  ambiguity,  and  interested  in  moral
+issues  (J.  H.  Block  &  J.  Block,  1980).  Consequently,  children
+high  in  ego-resiliency  are  likely  to  examine  the  discourse  in
+which  they  participate;  attend  to  the  complexities  of  interper-
+sonal  transactions  and  relationships;  be intrigued  by  the  ideas,
+claims, and justifications  that  others  offer;  and tend to  evaluate
+flexibly  their  own  stances  in  interpersonal  conflicts.  Children
+low  in  ego-resiliency—who  lack  curiosity,  imagination,  and
+insight—will  find  less  of  interest  in  their  social  world:  The
+ideas,  claims, and justifications  of  others  that  differ  from  their
+own  will  be  of  less  consequence.  Lacking  an  interest  in  the
+views of others, persons low in ego-resiliency  may fail  to appre-
+hend  the  insights  of  others'  thoughts  and  overlook  as  well  the
+weaknesses  of  their  own  perspectives  on  interpersonal  interac-
+tion  and  regulation.
+
+Support  for  the connections  of  curiosity  and  attention-focus-
+ing  skills  to individual  differences  in  social-cognitive  develop-
+ment  was  found  in  a  cross-sectional  study  of  adults  by  Lonky,
+Kaus,  and  Roodin  (1984).  They  reported  that  persons  high  on
+a  self-report  measure  of  openness  to  experience  scored  higher
+on a  measure  of  moral judgment  than  those  low  in  openness  to
+experience.  Consistent  with  this  finding,  Hart  and  Schmiel
+(1992)  found  that  adolescent  boys  who  were  characterized  by
+defense  mechanisms  that  inhibited  thoughtful  reflection  on  so-
+cial  conflicts  reached  lower  levels  of  moral-judgment  develop-
+ment in adulthood than adolescent boys who were less  defensive
+and, consequently,  better able to benefit  from  social  interaction.
+Similar  findings  regarding  defenses  and  moral-judgment  devel-
+opment  have  been  reported  by  Haan  (1977).
+
+Assuming that ego-resilience  enhances the growth of  social-
+cognitive  competence,  it  is  important  for  understanding  the
+mechanisms linking personality  functioning  to  social-cognitive
+advancement to assess whether, and to what extent, the  influence
+of  ego-resiliency  is independent  of  stable  cognitive characteris-
+tics  such  as  IQ.  Ego-resiliency  is  typically  correlated  with  IQ
+(J.  Block  &  Kremen,  1996). Numerous  studies  have found  that
+the  collection  of  cognitive  skills  that  are  measured  by  IQ  tests
+are  clearly  related  to  most  facets  of  social  cognition  (Shantz,
+1983). For instance, IQ is correlated  with both  moral-judgment
+development  (Colby  et  al.,  1983)  and  friendship  understanding
+(Selman,  1980), the two facets of social cognition under investi-
+gation  in  this  study.  Consequently,  it  is  reasonable  to  conclude
+that cognitive abilities do influence  the course of  social-cogni-
+tive development, with individuals with the higher cognitive abil-
+ities  being  more  likely  than  others  to  attain  higher  levels  of
+social  cognition.  In  this  study,  we  control  for  IQ  in  order  to
+isolate the distinct contributions  of personality to  social-cogni-
+tive development.  Because previous  studies  of  the  development
+of  friendship  reasoning  and  moral  judgment  have  sometimes
+reported that  social class and gender influence  the rate of devel-
+opment  (e.g.,  Colby  et  al.,  1983;  Keller  &  Wood,  1989),  we
+control  for  these  factors  in  the  following  analyses.
+
+Participants
+
+Method
+
+Participants  were  drawn  from  urban  and  rural  contexts.  The  urban
+sample  consisted  of  107  seven-year-olds  (56  boys  and  51  girls)  from
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.PERSONALITY  AND  SOCIAL  COGNITION
+
+1281
+
+Reykjavik,  Iceland.  In  order  to maximize  variance  on measures  of  per-
+sonality  and  cognition,  children  in  the  urban  sample  were  selected  at
+school entrance so as to ensure that approximately  half the children were
+judged  to be  well  adapted  to the  school  environment  and  that  the other
+half  of  children  were judged  to  be  poorly  adapted.  Adaptiveness  judg-
+ments were made by all first-grade  classroom  teachers  in Reykjavik  (53
+teachers  from  16 schools)  after  the  1st week  of  school. Teachers  nomi-
+nated  3 to  5  students  they  considered  to be  "well  developed"  and  3 to
+5  students they judged to be  "poorly  developed"  from  their classrooms.
+From  this  pool  of  nominated  children,  participants  were  drawn  for  the
+targeted sample of  120 children so as to ensure that boys and girls would
+be  nearly  equally  represented  and  that  approximately  equal  numbers  of
+children  were from  each of  six social classes characteristic  of the  social
+structure  of Icelandic  society  (Bjornsson,  Edelstein, & Kreppner,  1977;
+see Edelstein,  Keller,  & Schroder,  1990, for  a more  detailed  description
+of  the procedure).  Of  the  120 children  originally  selected  for  the  study
+at Time  1,  107 were  interviewed  about  friendship  or moral judgment  at
+subsequent  testing  occasions  and  thus  are  included  in  the  analyses  re-
+ported  here.
+
+The  rural  sample  was  composed  of  sixty-one  7-year-olds  (33  boys
+and  28  girls)  who  constituted  the  entire  birth  cohorts  of  three  small,
+nonurban  communities  (3  participants  were  lost  through  attrition  from
+an  original  sample  of  64 and  are  not  included  in  the  analyses  reported
+in  this  article).  The  goals  with  this  sample  were  to  replicate  findings
+obtained  with  the  urban  sample  and  at  the  same  time  to  investigate
+how  social-cognitive  development is affected  by life in less  industrially
+developed  social  contexts  (see  Hollos,  1974).
+
+Procedure
+
+Assessments  were  made  at  ages  7,  9,  12,  15, and  19 years.
+Assessments  at  age  7.  At  age  7,  the  children  were  interviewed  on
+three  different  occasions  devoted  to  the  administration  of  (a)  various
+personality  measures  and  the  Raven  Progressive  Matrices  IQ  test  (for
+details of administration, see Raven,  1960), (b) various Piagetian cogni-
+tive  tasks  (see  Schrttder,  1989, for  a description),  and  (c)  measures  of
+social understanding and friendship  (the friendship  measure is described
+more thoroughly  below).
+
+In  the  urban  sample,  each  interview  session  was  conducted  by  a
+different  researcher.  Following  the  session,  the  interviewer  typed  a one-
+to-two-page  summary  of  his  or her  impressions  of  the  child's  behavior
+and personality. Two researchers interviewed  all the children in the rural
+sample. The transcribed  interviews with the children in the rural  sample
+were  read  by  an  Icelandic  child  psychiatrist  who  wrote  one-to-two-
+page evaluations of each child's personality  as reflected  in the interview
+(neither the interviewers nor the psychiatrist was aware of the hypotheses
+of  this  study).
+
+The transcribed  friendship  interview  about  a morally  relevant  friend-
+ship dilemma, the interviewers'  impressions (for  the urban sample), and
+the psychiatrist's  comments  (for  the rural  sample)  were  translated  into
+English  by  a  bilingual  speaker.  These  materials  were  then  coded  using
+the California  Child Q-Set  (CCQ; J. Block & J. H. Block,  1980), which
+allows  for  the  derivation  of  indexes  of  ego-resiliency  and  ego-control.
+The CCQ  is composed  of  100 personality  descriptors, which  are  sorted
+for  their judged  salience  in  a  particular  child  according  to  a  fixed,  9-
+point distribution  (1  =  extremely  uncharacteristic,  9  =  extremely  char-
+acteristic).  Q_ sorts  were  done  by  three  or  more judges  for  each  child
+in the  study. The judges  included  two  of  the  authors, four  clinical  psy-
+chology  graduate  students, and three advanced undergraduates  majoring
+in psychology.  For participants  from  the  urban  sample,  the judges  read
+the  transcribed  friendship  interview  and  the  interviewers'  impressions;
+for  participants  in  the  rural  sample,  the  judges  read  the  transcribed
+friendship  interview  and  the  psychiatrist's  descriptions. The  Q  sorts  of
+the  different  judges  were  then averaged  to form  a composite  Q sort  for
+
+each child. Following procedures described by J. Block (J. Block, 1971;
+Gjerde,  Block,  &  Block,  1988),  the  estimated  mean  reliability  of  the
+composite  Q  sort  is  .91  for  the  urban  sample  and  .68  for  the  rural
+sample. Following  the convention established by Block  (1971), indexes
+of  ego-resiliency  and  ego-control  were  represented  by  the  correlations
+of the  composite  Q  sort for  each  participant  with the prototype  Q  sorts
+for ego-resiliency  and ego-control described by J. H. Block and J. Block
+(1980).  Scores  for  ego-resiliency  ranged  from  —.74  to  +.80  (M  =
+.23);  scores for  ego-control  (reverse  coded  so that high  scores  indicate
+undercontrol)  ranged  from  -.62  to  +.63  (M  =  - . 0 9 ).
+
+Children  were  assigned  to  one  of  six  social  classes  on  the  basis  of
+the father's  position  in the  system  of  social  inequality  using the  criteria
+previously  identified  in  Iceland  by Bjornsson  et  al. (1977). The  classes
+can be  considered  to form  an ordinal  scale from  low  to high  (Edelstein
+etal.,  1990).
+
+Twenty-six children were not assigned a score for friendship  reasoning
+at  age  7,  most  often  because  of  a  lack  of  codable  responses  to  the
+friendship  questions, although occasionally because the audio recordings
+were inaudible and could  not be transcribed. IQ scores are also unavail-
+able  for  a  few  children.
+
+The two samples are different  on some of the age 7 measures. Children
+in the urban  sample were from  higher  social classes than children  in the
+rural  sample  (Af  =  3.4  vs.  M  =  2.0),  /(168)  =  5.9, p  < 
+.01,  and
+received  higher  IQ  scores  than  children  in  the  rural  sample  (M  =  24.8
+vs. M  = 22.8), t{ 157) =  2.8,/)  <  .01. However, there were no  significant
+differences  between  the  urban  sample  and  the  rural  sample  for  ego-
+resiliency  (M  =  .27  and  Af  =  .16,  respectively),  r(166)  =  1.46,  p  >
+.10, or for ego-control  (Af=  - . 1 0 a n d A /=  - . 0 9, respectively),  r(166)
+=  -0.15, j?  >  .80.
+
+Assessments  at ages  9, 12, and  15.  At ages 9 and  12, children  were
+rated  by  their  teachers  on  a  classroom  measure  assessing  three  facets
+of  classroom  behavior:  concentration  problems,  social  withdrawal,  and
+aggressiveness  (details of the derivation  of  these scales can  be found  in
+Hofmann,  1991; Hart, Hofmann,  Edelstein,  & Keller,  1997; these  scales
+have also been used for  research  in Iceland by Adalbjarnardottir,  1995).
+These scales correspond to patterns of behavior identified  through multi-
+variate  analyses  in  studies  using  teacher  rating  instruments  (see,  e.g.,
+Achenbach,  1992, for an overview). Table  1 presents sample items  from
+the  scales  as  well  as  the  reliabilities  for  them  at  different  ages.
+
+For each participant,  individual  mean  scores  of the  items of  the  three
+scales were calculated for each of the two measurement occasions. Occa-
+sionally,  some  teachers  refused  to  contribute  ratings,  and  consequently
+scores are not available for  a few  participants  at one  measurement  point
+or  the other.
+
+At  ages  7,  9,  12,  and  15, participants  were  interviewed  about  their
+conceptions of friendship  using a modification  of Selman's (1980)  inter-
+view  (for  an  overview  of  the  modifications,  see  Keller,  Edelstein,
+Schmid,  Fang,  &  Fang,  in  press).  Participants  were  asked  a  series  of
+questions  concerning  six  issues:  importance  of  their  own  friendships,
+motivation  to  maintain  friendship,  the  qualities  of  an  ideal  friend,  the
+meaning  of  closeness  and  trust  between  friends,  conflict  resolution
+among friends, and the processes through which persons become  friends.
+As mentioned  earlier, the interviews  were transcribed  and then  trans-
+lated  into  English  by  a  bilingual  speaker.  Responses  to  each  set  of
+questions were coded  using a scoring manual (Keller, Essen, & Monnig,
+1987),  which  is  based  on  the  friendship  scoring  manual  developed  by
+Selman  and Jaquette  (1977). A participant's  set of responses to each of
+the  six.  sets  of  issues  described  above  was  assigned  to  either  a  pure
+developmental  stage  (0,  1, 2,  3, or  4)  or  a transitional  stage  ( 0 - 1,  1-
+0,  1-2,  2 - 1, etc.). The combination  of pure developmental  stages with
+the transitional  stages  form  a  13-point  scale (0  corresponding  to a pure
+developmental  stage  of  0,  12  representing  a  pure  Stage  4  score).  In-
+terrater reliability was assessed by having two raters code 30  interviews
+from  each  measurement  occasion. The  percentage  of  agreement  on  the
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1282
+
+HART,  KELLER,  EDELSTEIN,  AND  HOFMANN
+
+Table  1
+Social  Behavior  and  Competence  Scales  Derived  From  Teacher  Questionnaire:  Core  Items
+and  Internal  Reliabilities  (Cronbach's  Alpha)
+
+No.  of
+items
+
+Internal  reliability
+
+Age  9 
+
+Age  12
+
+16 
+
+.95 
+
+.97 
+
+Scale
+
+Concentration 
+
+problems 
+
+Aggressiveness 
+
+17 
+
+.92 
+
+.94 
+
+Social  withdrawal 
+
+9 
+
+.89 
+
+.87 
+
+Note. 
+
+(R)  denotes  that  the  item  is  reverse  scored.
+
+Core  items
+
+Lack  of  concentration
+Can't  occupy  self  without  directions
+Student  is  inattentive
+Easily  loses  interest/flits  about
+Spends  time  aimlessly
+Attentive  despite distractions  (R)
+Stays  with job  until  it  is done  (R)
+Deeply  absorbed  in  what  s/he  does  (R)
+Remains  alert  and  interested  in  activities  (R)
+Impatient  if  s/he  does  not  get  what  s/he  wants
+Complains/whines  if  s/he  does  not  get  his/her  way
+Hot-tempered
+Disturbs  others
+Negative
+Pushes,  teases, bullies  others
+Bossy  and  dominating  towards  others
+Impudent
+Aggressive
+Introverted
+Withdraws
+Shy
+Tries  to  be  with  others  (R)
+Makes  first  friendly  move  (R)
+
+exact  stage  score  assigned  to  an  issue  varied  between  84%  and  96%.
+An average friendship  score for  each participant  was calculated by aver-
+aging  the  scores  on  the  13-point  scale  for  the  six  issues.  Because  of
+inaudible  responses  or  the  lack  of  codable  material,  a  few  participants
+are  lacking  friendship  scores  at  one  of  the  measurement  points.
+
+For each participant,  a regression  line was calculated  using his or her
+available  scores  for  the  four  testing  periods  (ages  7,  9,  12,  and  15)  to
+represent  each  participant's  growth  curve.  To  ensure  that  the  curves
+represented  development  over  the  age  range  from  7  to  15, participants
+missing scores  at either age 7 or  age  15 were excluded from  the  growth
+curve  analyses  reported  below. The calculated  line  allows  each  partici-
+pant's  scores  to  be  represented  by  an  intercept  and  a  slope. The  slope
+represents  the  participant's  rate  of  development  and  is  the  index  of
+importance  in  the  analyses  that  follow  (see  Willett,  1988,  for  a
+discussion).
+
+At  ages  12  and  15,  most  participants  in  the  study  responded  to  a
+slightly modified  moral dilemma  (the Judy dilemma) drawn from  Colby
+and  Kohlberg  (1987).  In  this  task,  the participant  is  called  on  to  make
+and  then  to  justify  a  moral  judgment  in  a  family  conflict,  reasoning
+about  the  moral  choice  to be made  for  the dilemma  and  the  importance
+of  six  issues  (e.g.,  the  value  of  a  promise,  the  importance  of  keeping
+secrets,  the  responsibilities  of  siblings  to  each  other)  for  this  choice.
+The pattern  of  responses  to the  interview  was  assigned  to either  a  pure
+developmental  stage  (1, 2,  3, 4,  or  5)  or  a  transitional  stage  ( 1 - 2,  2-
+3,  3-4,  4 - 5;  together,  these  form  a  9-point  scale)  by  consulting  the
+Standard  Issue  Scoring  Manual  (Colby  et  al.,  1987).  However,  this
+manual  was  adapted  in  order  to distinguish  moral reasoning  at the  pre-
+conventional  stages  by  borrowing  distinctions  found  in  the  manual  of
+Gibbs  and Widaman  (1982;  this latter manual has more  distinctions  and
+examples of reasoning of children and, consequently, is useful  for coding
+the  immature  forms  of  reasoning  not  well  captured  by  the  Standard
+Issue  Scoring  Manual).  Two  raters  coded  30  interviews  for  each  age
+
+group  and  assigned  the  same  code  to  an  interview  for  75% to 90%  of
+the  cases,  depending  on  the  age  group.  Again,  because  of  inaudible
+recordings  or  the  lack  of  codable  material,  a  few  participants  have  no
+moral judgment  scores  at  age  12 or  at  age  15.
+
+Because  growth  curve  modeling  requires  at  least  three  longitudinal
+scores  to  be useful  (Willett,  1988),  growth  curves  for  moral  judgment
+were  estimated  only for  participants  who  were  interviewed  at  ages  12,
+15,  and  19 (this  last  testing  time  is  described  next).
+
+Assessments  at age  19.  At age 19, an effort  was made to reinterview
+all of the participants in the urban sample, with 77 of the  107 participants
+agreeing to participate. For this measurement  period, the effects  of attri-
+tion  are significant.  Those participants  who participated  at  age  19 were
+significantly  higher at age 7 in ego-resiliency  {M  = .36) than those who
+did not participate  at age  19 (M  =  .04), t(  105)  =  3.01, p  <  .05. There
+were  no  significant  effects  evident  in  ego-control  scores.  All  of  the
+participants  were individually interviewed about their lives and a variety
+of  social  issues  and  received  the  friendship  interview  described  earlier,
+and 71 responded to the moral-judgment  dilemma  described  above. The
+interviews  were  translated  into  English  and  transcribed.
+
+The  transcribed  age  19 interviews were  coded  for  ego-resiliency  and
+ego-control  using  the  California  Adult  Q-Sort  (CAQ; J.  Block,  1971),
+which  is the  adult  version  of the CCQ described  earlier.  Each  transcript
+was coded by three judges (one author, two graduate students in develop-
+mental  psychology,  and  two  undergraduate  psychology  majors).  The  Q
+Sorts of the different judges  were then  averaged  to form  a composite  Q
+Sort  for  each  adolescent.  The  estimated  mean  reliability  (following  the
+procedures  described  earlier)  of  the  composite  Q  Sort  is  .80.  Indexes
+of  ego-resiliency  and  ego-control  were  calculated  by  correlating  the
+composite  Q  sort  for  each  participant  with  the  prototype  Q  sorts  for
+ego-resiliency  and  ego-control  described  by  J.  Block.  Scores  for  ego-
+resiliency  ranged  from  -.74  to  +.87  (M  =  .28); scores  for  ego-control
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.PERSONALITY  AND  SOCIAL  COGNITION
+
+1283
+
+(reverse  coded  so  that  high  scores  indicate  undercontrol)  ranged  from
+-.61  to  +.62  (M  =  - . 0 8 ).
+
+Results
+
+The  analyses  that  follow  are  organized  to reveal  the  relation
+of  ego-resiliency  to  social-cognitive  development.  The  first
+block  of  bivariate  correlational  analyses  identifies  the  relations
+of  ego-resiliency  to  the  other  personality  measures  and  to  the
+indexes of  social-cognitive  development. Next, the  contribution
+of  personality  to  social-cognitive  development  is  tested  in  re-
+gression  equations  predicting  growth  curve  slopes  from  the  in-
+dexes  of  ego-resiliency,  ego-control,  IQ,  and  social  class.  The
+last  set  of  analyses  tests  the  mediating  role  of  concentration
+problems  and  social  withdrawal  on  the  relation  between  ego-
+resiliency and social—cognitive development, following the logic
+for  such  tests  outlined  by  Baron  and  Kenny  (1986).
+
+Table 2 presents  the correlations  among the personality  mea-
+sures,  gender  (male  coded  as  1,  female  coded  as  2),  and  the
+index  of  social  class. Ego-resiliency  at  age  7  is related  to  ego-
+control  and  IQ,  concentration  problems  and  social  withdrawal
+at  both  ages  9  and  12 (but  not  to  aggressive  behavior  at  either
+age),  and  with  ego-resiliency  measured  at  age  19. This  pattern
+of  findings  indicates that ego-resiliency  is stable over time  (be-
+tween  ages 7 and  19) and is negatively  correlated  with  concen-
+tration  problems  and  social  withdrawal  in  school.  Ego-control
+at age 7 is negatively  associated  with  social  withdrawal  at  ages
+9  and  12  and  is  positively  correlated  with  aggressive  behavior
+at  age  12 and ego-control  at age  19. Together,  then,  the  pattern
+of findings suggests that ego-resiliency  and ego-control  as mea-
+sured in this study show continuity  over time and are  associated
+with  ratings  of  behavior  in  school.
+
+Correlations  were  also calculated  among the social  cognition
+measures.  The  correlations  of  friendship  understanding  and
+moral judgment  were  .45  (158  participants),  .46  (158  partici-
+pants), and  .32 (71 participants) at ages  12, 15, and  19, respec-
+tively. The  magnitude  of these  correlations  suggests  that  friend-
+ship understanding  and moral judgment  are  sufficiently  distinct
+to  warrant  separate  investigation.
+
+The  correlations  presented  in Table  3  demonstrate  that  ego-
+resiliency, ego-control,  and IQ measured at age 7, and  measures
+of  concentration  problems  and  social  withdrawal  at  ages  9 and
+12,  are  consistently  related  to  measures  of  friendship  under-
+standing  and  moral  judgment  in  childhood  and  adolescence.
+Particularly  important  are  the  significant  correlations  of  ego-
+resiliency  to  the  growth  curve  slopes  for  developmental  levels
+of  friendship  understanding and moral judgment. These indicate
+that ego-resiliency  measured at age 7 predicts the rate of  friend-
+ship  understanding  development  between  ages  7  and  15  and
+moral  judgment  between  ages  12  and  19.  None  of  the  other
+age  7  psychological  or  behavioral  measures  are  significantly
+associated  with  growth  curve  slopes  for  both  friendship  under-
+standing  and  moral  judgment.
+
+Tb assess the contributions  of ego-resiliency  to  social-cogni-
+tive  development,  regression  equations  were  constructed  pre-
+dicting growth  curve  slopes from  the personality  measures, IQ,
+and social class. Gender and sample were also entered as control
+variables in order to control for differences  reported earlier (and
+examined  in  detail  by  Edelstein,  1996; Jacobsen,  Edelstein,  &
+
+Hofmann,  1994).  The  equations  were  then  simplified  using
+backward elimination, which is often recommended for develop-
+mental  research  (Appelbaum  &  McCall,  1983). The  simplified
+equations  are  presented  in Table  4.
+
+The  results  indicate  that  ego-resiliency  and  gender  have  sig-
+nificant  independent  influences  on  the  rate  of  development  of
+friendship  understanding,  with  none  of  the  other  factors  adding
+to the prediction of growth curve slope. The regression  equation
+predicting the slope of moral-judgment development is only mar-
+ginally  significant,  but  the power for  this  analysts is  low due  to
+the  small number of participants  with  moral-judgment  scores  at
+age  19 (as explained  earlier,  scores  at this  age are necessary  in
+order to calculate growth  curves). To summarize, the results  of
+analyses  of  predictors  of  growth  curves  demonstrate  that  ego-
+resiliency  is  the  only  variable  assessed  at  age  7  that  is  signifi-
+cantly  related  to  the  rate  of  development  of  both  friendship
+reasoning  and  moral judgment.
+
+In order to determine  whether  the influence  of  ego-resiliency
+on  social-cognitive  development  is  mediated  by  concentration
+problems,  social  withdrawal,  or  both,  three  sets  of  regression
+analyses were conducted. One set of analyses focused on social-
+cognitive  development  occurring  between  ages  9  and  12,  and
+the  other  two  on  development  between  ages  12  and  15  (these
+are  the  age  ranges  for  which  data  are  available  for  most
+participants).
+
+The  first  set  of  analyses  assessed  the  contribution  of  ego-
+resiliency to the prediction  of developmental  level of  friendship
+understanding  between  ages  9  and  12.  Following  the  analytic
+logic outlined by Baron and Kenny (1986) for identifying  medi-
+ating  variables  through  multiple  regression,  we  calculated  re-
+gression equations with and without the potential mediators  and
+examined the  effects  of  the inclusion  of  the potential  mediators
+on  the weights  of  the theoretically  relevant  variables.1 The  first
+data  column  in  Table  5  presents  the  results  of  the  regression
+equations  estimating  friendship  understanding  scores  at  age  12
+using as predictors  ego-resiliency, ego-control, IQ, social class,
+and  sample.  Only  ego-resiliency  and  friendship  understanding
+measured  at  age  9  contribute  significantly  to  the  prediction  of
+friendship  understanding  at  age  12.  The  second  data  column
+presents the results of the regression  analysis with the inclusion
+of  age  9  concentration  problems  and  age  9  social  withdrawal.
+The effect  of ego-resiliency  on development  is little  diminished
+by  the  inclusion  of  social  withdrawal  and  concentration  prob-
+lems  (compare  the  beta  weights  for  ego-resiliency  in  the  first
+
+1 Because  ego-resiliency  may  have  slightly  different  psychological
+implications  for  males  and  females  (J.  Block  &  Kremen,  1996),  we
+tested for  an interaction between ego-resiliency  and gender. This interac-
+tion term was significant only in the equations predicting  moral-judgment
+development,  and  consequently  it  was  omitted  from  the  equations  pre-
+dicting  friendship  understanding. At the  suggestion  of  one reviewer,  the
+interaction  of ego-resiliency  and ego-control  was tested; this interaction
+was not significant in any of the equations. The Baron and Kenny  (1986)
+formulation  of mediation requires the potential mediators—in  this study
+concentration  problems  and  social  withdrawal—to  be predicted  by  the
+independent  variable of  theoretical  interest. We predicted  concentration
+problems and  social withdrawal, at ages 9 and  12, with regression  equa-
+tions  that  included  IQ,  ego-resiliency,  ego-control,  social class,  gender,
+and  sample;  in  all  four  equations,  ego-resiliency  was  a  significant
+predictor.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.—  0\
+ri o •
+
+$  $
+
+^H 
+
+VO 
+
+M~(
+
+-a
+a
+C
+
+o  o ao
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.s -a
+
+i £ 53
+
+i
+
+<
+
+£
+
+•5-
+
+1
+
+* 
+*  # 
+O C S > - I - HO 
+ro —  cs O  M 
+
+* ** 
+oo*nm 
+cnr^eS 
+
+*  * *
+via\oo
+en—'-—
+
+i  -H 
+I  ~H 
+
+o>  so  in
+—  (N  ©
+
+13: * 
+
+oo  m  en en 
+
+*  *
+\c  ©  ©
+
+•n 
+
+(N
+
+O  © 
+
+i
+
+i  m  m 
+
+« 
+
+•
+
+*  * 
+
+#  * 
+
+*  +  # 
+
+*  #  *
+
+in  ©
+\6  ^  i
+
+©
+
+V
+
+#
+
+so^om^o^D 
+
+m mm
+
+*  *  *  # 
+
+* #* 
+\'  i \ 
+
+* **
+( r  r
+
+i' 
+
+i"  r  r
+
+li
+
+sa
+
+a ll
+111
+
+^
+
+as  ±J  >  •
+M 
+
+aa 
+
+s.'l
+•u
+
+O  w
+
+<*>  b it
+
+So
+
+< 
+
+4-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1286
+
+HART,  KELLER,  EDELSTEIN,  AND  HOFMANN
+
+Table  4
+Variables  Retained  in Multiple  Regression  Equations  After
+Backward  Elimination  Testing the Relation  of Age  7
+Predictors  to  Rates  of  Development  for  Friendship
+Understanding  and  Moral  Judgment
+
+0
+
+Growth  curve
+
+slope
+
+Ego-
+
+resiliency
+
+Gender
+
+R2
+
+F
+
+Friendship
+
+understanding
+Moral judgment
+
+.17*
+.21t
+
+.19*
+
+.07
+.05
+
+F(2,
+F(h
+
+132)
+66)  =
+
+= 5.1,/
+=  2.9, p
+
+? <  .01
+=  .09
+
+Note.  Change  in  the  probability  of  F  for  a  variable  to  be  removed
+from  an equation was  set to  .10. Variables not retained in the  simplified
+equations  are  omitted from  the  table,
+tp  <  .10  (marginally  significant). 
+
+* p  <  .05.
+
+and  second  data  columns).  Ego-resiliency  thus  has  a  direct
+influence  on  developmental  advancement  in  friendship  under-
+standing  between  ages  9  and  12,  independent  of  concentration
+problems,  social  withdrawal,  and  other  variables.
+
+Slightly  stronger evidence for  the mediating  roles  of  concen-
+tration  problems  and  social  withdrawal  for  the  effects  of  ego-
+resiliency  on  social-cognitive  development  is  evident  in  the
+regression  equations  predicting  developmental  levels  of  friend-
+ship  understanding  at  age  15.  Developmental  level  at  age  15
+was  regressed  on  ego-resiliency,  ego-control,  IQ,  social  class,
+sample,  and developmental  level  at  age  12. The results  are pre-
+sented  in  the  first  data  column  of  Table  6.  Again,  the  results
+presented in Table 6 demonstrate that ego-resiliency has a direct
+effect  on the development  of friendship  reasoning between  ages
+12  and  15.  The  inclusion  of  age  12  concentration  problems
+and  age  12  social  withdrawal  indicates  that  the  concentration
+problems variable is a marginally significant  predictor of  friend-
+ship reasoning  development.  Moreover,  the  inclusion  of  the age
+
+Table  5
+Models  Testing for  Effects  of  Ego-Resiliency  on  Friendship-
+Understanding  Development
+
+Beta weights for  friendship
+
+understanding,  age  12
+
+Variable
+
+Equation  la
+
+Equation  2b
+
+Ego-resiliency,  age 7
+IQ,  age 7
+Undercontrol,  age  7
+Friendship  understanding,  age 9
+Sample
+Social  class
+Gender
+Concentration  problems,  age 9
+Social  withdrawal,  age 9
+R2
+
+.35*
+-.04
+.07
+.29*
+•.13T
+.16*
+.13t
+
+.39
+
+.33*
+
+-.08
+-.06
+.27*
+-.14f
+.16
+.09
+-.14
+.02
+.39
+
+3 Equation  1  excludes  concentration  problems  and  social  withdrawal.
+F(7,  133)  =  12.1, p  <  .001. 
+tp  <  .10  (marginally  significant). 
+
+bF(9,  131)  =  9.7,  p  <  .001.
+
+*p  <  .05.
+
+Table  6
+Models  Testing for  Effects  of  Ego-Resiliency  on  Friendship-
+Understanding  Development  Between  Age  12 and Age  15
+
+Beta  weights for  friendship
+
+understanding,  age  15
+
+Variable
+
+Equation  1'
+
+Equation 2b
+
+Ego-resiliency,  age  7
+IQ,  age  7
+Undercontrol,  age  7
+Friendship  understanding,
+
+age  12
+
+Sample
+Social class
+Gender
+Concentration  problems,
+
+age  12
+
+.18f
+.01
+.09
+
+.30*
+.15*
+.15t
+.19*
+
+Social withdrawal,  age
+
+12
+
+R2
+
+.31
+
+F(7,  138) = 9.07,
+
+p < . 0 01
+
+.12
+-.03
+.15f
+
+.27*
+.12
+.13
+.ist
+
+-.17t
+
+-.06
+.34
+
+F(9,  136)  -  7.9,
+
+p< 
+
+.001
+
+a Equation  ]  excludes  concentration  problems  and  social  withdrawal.
+F(7,  138)  =  9.07, p  <  .001. 
+tp  <  .10  (marginally  significant). 
+
+bf(9,  136)  -  7.9, p  <  .001.
+
+*p  <  .05.
+
+12 variables in the equation  reduces the effect  of  ego-resiliency
+so that it  is no  longer  a  significant  predictor. This  suggests  that
+age  12 concentration  problems  partially  mediate  the relation  of
+ego-resiliency  to  development.  It  is  also  worth  noting  that  the
+regression results also suggest that girls develop more than boys
+in  this  age  range.
+
+The  final  set  of  regression  equations  tested  the  mediating
+effects  of  concentration  problems  and  social  withdrawal  on
+moral judgment  between  ages  12 and  15. The relevant equations
+are  presented  in  Table  7.  Ego-resiliency  has  a  direct  effect  on
+moral-judgment  development  occurring  between  ages  12  and
+15, and this effect  seems  largely unmediated  by age  12 concen-
+tration problems  or social  withdrawal. As in  the previous  set of
+analyses,  the  index  of  concentration  problems,  but  not  social
+withdrawal,  is  a  significant  predictor  of  development.2  Interest-
+ingly, gender was related to the development of  moral-judgment
+development  between  ages  12  and  15,  with  girls  developing
+faster  than  boys. The  effect  of  ego-resiliency  on  social-cogni-
+tive development  also depended on gender; the significant  inter-
+action  term  indicates  that ego-resiliency  has  a greater effect  on
+the rate  of  moral-judgment  development  in boys than it does in
+girls.
+
+2 It might be argued that the regression analyses should have included
+as a predictor the dichotomous assignment to high-  and low-development
+groups that occurred  in  the  formation  of  the urban  sample,  because the
+two groups might differ on other dimensions besides ego-resiliency, ego-
+control,  and  IQ. We have repeated  all  the  regression analyses including
+as  a  predictor  the  dichotomous  assignment  (obviously  these  analyses
+included  participants  from  only  the  urban  sample,  because  the  rural
+sample was  recruited in  a different  way),  and  in none  of  the equations
+is die group variable significant. Consequently, we have excluded group
+membership from  the  analyses.
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.PERSONALITY  AND  SOCIAL  COGNITION
+
+1287
+
+Table  7
+Models  Testing for  Effects  of  Ego-Resiliency  on  Moral-
+Judgment  Development
+
+Beta  weights  for  moral  judgment,
+
+age  15
+
+Variable
+
+Equation  la
+
+Equation  2b
+
+Ego-resiliency,  age  7
+IQ,  age  7
+Undercontrol,  age  7
+Moral judgment,  age  12
+Sample
+Social  class
+Gender
+Gender  X  Ego-Resiliency
+Concentration  problems,
+
+age  12
+
+Social  withdrawal,  age  12
+R2
+
+.36*
+.16*
+.00
+.27*
+.38*
+.07
+.30*
+- . 2 2*
+
+.36*
+.11
+.03
+27*
+.36*
+.04
+.24*
+-.24*
+
+.35
+
+F(8,  144)  =  9.89,
+
+-.20*
+.07
+.38
+
+F(\0,  142)  =  8.9,
+
+p  <  .001
+
+p  <  .001
+
+a Equation  1  excludes  concentration  problems  and  social  withdrawal.
+F($,  144)  =  9.89, p  <  .001. 
+* p  <  .05.
+
+b F(10,  142)  =  8.9, p  <  .001.
+
+Discussion
+
+To  summarize,  our  goals  in  this  study  were  to  examine  the
+effects  of  ego-resiliency  on  social-cognitive  development  and
+to  identify  possible  paths  through  which  this  influence  occurs.
+Ego-resiliency  measured  at  age  7  was  found  to  be  related  to
+measures  of  social-cognitive  development  from  childhood
+through  adolescence,  measures  of  concentration  problems  and
+social  withdrawal  in  adolescence,  and  ego-resiliency  measured
+at  age  19. Most  importantly,  ego-resiliency  (but  not  IQ,  social
+class,  gender,  or  ego-control)  was  associated  with  the  rate  of
+development  in  both  friendship  understanding  and  moral judg-
+ment.  Multiple  regression  analyses  demonstrated  a  direct  path
+from  ego-resiliency  at  age  7  to  social  cognition  at  ages  12
+(friendship  understanding)  and  15 (both  friendship  understand-
+ing  and  moral judgment),  even  after  earlier measures  of  social
+cognition,  IQ, and ego-control  were controlled  for  (and  neither
+IQ  nor  ego-control  was  found  to  be  consistently  related  to  so-
+cial-cognitive  development  in  these equations). Together,  these
+findings  are  the  most  powerful  to  date  supportive  of  J.  Block's
+(1982) contention that ego-resiliency  is related to the construc-
+tion  and  elaboration  of  schemes  of  thought.
+
+The analyses also suggest that the effects  of ego-resiliency on
+social-cognitive  development  are  largely  unmediated  by  either
+concentration  problems  or  social  withdrawal,  although  some
+evidence  for  mediation  by  the  first  of  these  variables  was  ob-
+served  for  development  in  friendship  occurring  between  ages
+12 and  15. These analyses revealed that concentration  problems
+appear  to  delay  social-cognitive  development.  These  results
+suggest that  attention-focusing  qualities of  children  play an  im-
+portant  role  in  the  elaboration  of  the  new  ideas  and  principles
+that  are  at  the  heart  of  social  cognitive  development.  Finally,
+gender  was  related  to  the  rate  of  development.  The  multiple
+regression  equations  suggest  that girls may  be developing  more
+
+quickly  than boys through  mid-adolescence, though  differences
+in rate of development  seemed to disappear  in late adolescence,
+a pattern of findings  consistent with research  in related  domains
+(e.g., ego development; Cohn,  1991). The significant  interaction
+of  gender and ego-resiliency  on the rate of  moral-judgment  de-
+velopment  may reflect  the  tendency  for  ego-resiliency  to  influ-
+ence  socially  responsible  behavior  to a greater degree in  males
+than  in females  (J. Block  & Kremen,  1996), though  confidence
+in  such  a  conclusion  must  await  replication  in  other  samples.
+
+The  compelling  evidence  for  a  connection  of  personality  to
+social-cognitive  development  has  at  least  two  implications.
+First,  it  suggests  that  social-cognitive  theory  should  integrate
+personality  traits  as  both  constraints  and  sources  of  develop-
+ment. This focus has been traditionally absent in social cognition
+research  in  the  tradition  considered  in  this  article.  Instead,  re-
+searchers  have  focused  on  the  social  influences:  specific  rela-
+tionships  (e.g.,  Hart,  1988),  parenting  styles  (Parikh,  1980),
+and the  sorts  of  transactions  that occur between  the  developing
+individual  and  peers  (e.g.,  Damon  &  Killen,  1982)  or  family
+members  (e.g.,  Powers,  1988; Walker  & Taylor,  1991).  Gener-
+ally,  the  results  of  these  various  studies  have  been  somewhat
+inconsistent,  although  there  is  some  evidence  to  indicate  that
+the quality  of  the life  world  and positive  relationships  in  which
+persons  receive  support  in  developing  their  views  are  probably
+facilitative  of  development  (see  particularly  Walker  &  Taylor,
+1991). The results of the present study suggest that the inconsis-
+tency and low magnitude of these findings may reflect  the medi-
+ating  influence  of  personality  on  development.  For  example,  it
+is  possible  that  the  association  between  supportive,  Socratic
+parental  interactions  and  adolescent  moral judgment  found  by
+Walker  and Taylor  may  be  explained  in  part  by  ego-resiliency.
+Parents  may  find  it  easier  to  be  supportive  and  Socratic  with
+adolescents  high  in ego-resiliency,  who are  able  to focus  atten-
+tion;  parents  may  find  it  difficult  to  interact  warmly  and  con-
+structively  with  adolescents  low  in  ego-resiliency.  In  other
+words, parents' interactional styles may be evoked by the child's
+personality.  In  such  a  case, the  association  of  interactional  pat-
+terns  with  development  would  reflect  the  correlation  of  these
+patterns with the actual causal mechanism in development, ego-
+resiliency. Given the results presented in this article, which  sug-
+gest a continuing  influence  of ego-resiliency  on social  cognitive
+development, future studies of the effects  of parental interactions
+on  social  cognitive  development  should  control  for  ego-resil-
+iency  in  order  to  demonstrate  that  parental  interactions  have  a
+direct  influence  on  development.
+
+Second,  the  findings  presented  here  demonstrate  that  the  in-
+clusion of personality  traits in accounts of childhood and adoles-
+cent  personality  can  strengthen  models  of  personality  function-
+ing  and  transformation.  Personality  traits  help  account  for  the
+important differences  that exist among children and among ado-
+lescents  in  the  rate  at  which  other  facets  of  their  personalities
+develop; future  research is likely to demonstrate that personality
+traits  influence  the  forms  that  the  personality  system  acquires
+as  well  as  the  rate  at  which  they  develop.  Finally,  although
+personality traits  are by definition  enduring features  of  persons,
+they too change and evolve over time  (Caspi,  1987); it remains
+an important  task  for  future  research to understand  this  process
+(Hinder,  1991). For instance, it would be interesting to consider
+in future  research how family  processes  and the achievement  of
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.1288
+
+HART,  KELLER,  EDELSTEIN,  AND  HOFMANN
+
+sophisticated  forms  of  social-cognitive  reasoning  might  effect
+changes  in  personality  traits  (likely  over  extended  periods  of
+time).  Perhaps  persons  who  are  exposed  on  a  regular  basis  to
+the types  of  social experiences  associated  with  moral-judgment
+development  would  indeed  develop  more  sophisticated  moral
+reasoning,  which  in  turn  might  heighten  curiosity,  insight,  and
+imagination  in  other  areas  of  life.3
+
+3 This  interpretation  is  supported  by  our  data.  We  regressed  age  19
+ego-resiliency  on  age  7  scores  for  ego-resiliency,  ego-control,  IQ,  age
+12 scores for  concentration  problems  and social withdrawal, and  age  15
+scores for friendship  understanding  and moral judgment,  and  we  simpli-
+fied the equation  using backward  elimination  of variables. The resulting
+equation  includes  only  age 7 resiliency,  age  12 concentration  problems,
+and  age  15  friendship  understanding.  This  suggests  that  sophisticated
+friendship  understanding  may  lead  to  the  development  of  greater  ego-
+resiliency. However, because  coders  in  this  study reviewed  responses  to
+the  friendship  questions and moral-judgment  interviews along with other
+data  to assign  personality  scores with  the CAQ, it  might be  argued  that
+what this regression equation  is capturing is the correlation of  friendship
+understanding at age  15 with  friendship  understanding at age 19, with the
+latter reflected  in the ego-resiliency score. Consequently, our preliminary
+findings suggesting bidirectional influences between ego-resiliency are in
+need of replication. We thank Dan  Cervone for  suggesting this analysis.
+
+References
+
+Achenbach,  T. M.  (1992).  Developmental  psychopathology.  In  M. H.
+Bornstein  & M. E. Lamb (Eds.), Developmental  psychology:  An  ad-
+vanced  textbook  (pp.  629-675).  Hillsdale, NJ:  Erlbaum.
+
+Adalbjarnardottir,  S.  (1995).  How  schoolchildren  propose  to  negotiate:
+The  role  of  social  withdrawal,  social  anxiety,  and  locus  of  control.
+Child Development,  66,  1739-1751.
+
+Appelbaum,  M. I.,  &  McCall,  R.B.  (1983).  Design  and  analysis  in
+developmental  psychology.  In  W.  Kessen  (Ed.),  Handbook  of  child
+psychology:  Vol. 1. History,  theory, and methods  (pp. 415-476). New
+York: Wiley.
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator  variable
+distinction in social psychological research: Conceptual, strategic, and
+statistical  considerations.  Journal  of  Personality  and  Social  Psychol-
+ogy,  51.  1173-1182.
+
+Berkowitz, M. W., & Keller, M. (1994). Transitional processes in  social
+cognitive  development: A longitudinal  study. International  Journal  of
+Behavioral  Development,  17,  447-467.
+
+Bjomsson,  S.,  Edelstein,  W.,  &  Kreppner,  K.  (1977).  Explorations  in
+social  inequality:  Stratification  dynamics  in  social  and  individual
+development  in Iceland  (Studien  und  Berichte,  Nr.  38).  Berlin,  Ger-
+many:  Max  Planck  Institute  for  Human  Development  and  Education.
+
+Block,  J.  (1971).  Lives  through  time.  Berkeley,  CA:  Bancroft  Books.
+Block,  J.  (1982).  Assimilation,  accommodation,  and  the  dynamics  of
+
+personality  development.  Child  Development,  53,  281-295.
+
+Block,  J.  (1993).  Studying  personality  the  long  way.  In  D. C.  Funder,
+R. D.  Parke,  C.  Ibmlinson-Keasey,  &  K.  Widaman  (Eds.),  Studying
+lives  through  time:  Personality  and  development  (pp.  9-41).  Wash-
+ington,  DC: American  Psychological  Association.
+
+Block, J., & Block, J. H. (1980).  The California  Child Q-Set. Palo Alto,
+CA: Consulting  Psychologists  Press. (Original  work published  1969)
+Block, J.,  & Kremen, A. M.  (1996). IQ  and ego-resiliency:  Conceptual
+and  empirical  connections  and  separateness.  Journal  of  Personality
+and  Social  Psychology,  70,  349-361.
+
+Block,  J. H.,  &  Block,  J.  (1980).  The  role  of  ego-control  and  ego-
+resiliency  in the organization of behavior. In W. A. Collins  (Ed.), The
+Minnesota  Symposia  on  Child  Psychology:  Vol. 13.  Development  of
+
+cognition,  affect,  and  social  relations,  (pp.  39-101).  Hillsdale,  NJ:
+Erlbaum.
+
+Caspi, A.  (1987).  Personality  in the  life  course.  Journal  of  Personality
+
+and  Social  Psychology,  53,  1203-1213.
+
+Cohn,  L. D. (1991).  Sex  differences  in the  course of personality  devel-
+
+opment: A  meta-analysis.  Psychological  Bulletin,  109,  252-266.
+
+Colby, A., & Kohlberg, L. (1987).  The measurement  of moral  judgment
+
+(Vol.  1).  New  "fork:  Cambridge  University  Press.
+
+Colby, A., Kohlberg, L., Gibbs, J., and Lieberman, M. (1983). A longitu-
+dinal  study  of  moral  judgment.  Monographs  of  the  Society  for  Re-
+search  in  Child Development,  48  (1-2,  Serial  No.  200).
+
+Colby,  A.,  Kohlberg,  L.,  Speicher,  B.,  Hewer,  A.,  Candee,  D.,  Gibbs,
+J.,  &  Power,  C.  (1987).  The  measurement  of  moral judgment  (Vol.
+2).  New York: Cambridge  University  Press.
+
+Damon,  W.?  &  Killen,  M.  (1982).  Peer  interaction  and  the  process  of
+change  in  children's  moral  reasoning.  Merrill-Palmer  Quarterly,  28,
+347-367.
+
+Edelstein, W. (1996). The social construction  of cognitive development.
+In G.  Noam  & K. Fischer (Eds.), Development  and  vulnerabilities  in
+close  relationships  (pp.  91-112).  Mahwah,  NJ:  Erlbaum.
+
+Edelstein,  W.,  Keller,  M,  &  Schroder,  E.  (1990).  Child  development
+and  social  structure:  A  longitudinal  study  of  individual  differences.
+In  P. B.  Baltes,  D. L.  Featherman,  &  R. M.  Lerner  (Eds.), Life  span
+development  and  behavior  (Vol.  10,  pp.  151-185).  Hillsdale,  NJ:
+Erlbaum.
+
+Eisenberg, N., Carlo, G., & Van Court, P. (1995). Prosocial  development
+in  late  adolescence:  A  longitudinal  study.  Child  Development,  66,
+1179-1197.
+
+Francis,  D. J.,  Fletcher,  J. M.,  Stuebing,  K. K.,  Davidson,  K. C,  &
+Thompson,  N. M.  (1991).  Analysis  of  change:  Modeling  individual
+growth.  Journal  of  Consulting  and  Clinical  Psychology,  59,  27-37.
+Funder, D. (1991). Global traits: A neo-Allportian approach.  Psycholog-
+
+ical Science,  2, 31-39.
+
+Funder, D.,  & Block, J.  (1989). The role of ego-control,  ego-resiliency,
+and IQ in delay of gratification  in adolescence. Journal  of  Personality
+and  Social  Psychology,  57,  1041-1050.
+
+Gibbs, J. C,  & Widaman,  K. E  (1982).  Social  intelligence:  Measuring
+the development  of sociomoral  reflection. Englewood Cliffs, NJ: Pren-
+tice-Hall.
+
+Gibson,  D.  (1990).  Personality  correlates  of  logical  and  sociomoral
+judgment.  Journal  of  Personality  and  Social  Psychology,  59,  1296-
+1300.
+
+Gjerde,  P. F., Block,  J.,  &  Block,  J. H.  (1986).  Egocentrism  and  ego-
+resiliency: Personality  characteristics  associated  with  perspective-tak-
+ing  from  early  childhood  to adolescence.  Journal  of Personality  and
+Social  Psychology,  51,  423-434.
+
+Gjerde,  P. E,  Block,  J.,  &  Block,  J. H.  (1988).  Depressive  symptoms
+and  personality  during  late  adolescence:  Gender  differences  in  the
+externalization-intemalization  of  symptom  expression.  Journal  of
+Abnormal  Psychology,  97,  475-486.
+
+Haan, N. (1977). Coping and defending:  Processes of  self-environment
+
+organization.  New York: Academic  Press.
+
+Hart,  D. (1988). A longitudinal  study of  adolescents'  socialization  and
+identification  as predictors of adult moral judgment development. Mer-
+rill-Palmer  Quarterly,  34,  245-260.
+
+Hart, D., Hofmann,  V,  Edelstein, W,  & Keller, M. (1997). The relation
+of  childhood  personality  types  to  adolescent  behavior  and  develop-
+ment: A longitudinal  study. Developmental  Psychology,  33,  195-205.
+Hart,  D.,  &  Schmiel,  S.  (1992).  The  influence  of  defense  mechanisms
+on moral judgment development: A longitudinal  study.  Developmental
+Psychology,  28,  722-730.
+
+Hofmann,  V. (1991). Die Entwicklung  depressiver  Reaktionen  in Kind-
+heit  und  Jugend  [The  development  of  depressive  reactions  in  child-
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.PERSONALITY  AND  SOCIAL  COGNITION
+
+1289
+
+hood  and  adolescence].  Studien  und  Berichte,  Band  51, Max  Planck
+Institute  for  Human  Development,  Berlin,  Germany:  Sigma.
+
+Hollos,  M.  (1974).  Growing  up  in  Flathill:  Social  environment  and
+
+cognitive  development.  Oslo, Norway:  Universitetsforlaget.
+
+Jacobsen, T., Edelstein, W., & Hofmann,  V. ( 1994). A longitudinal  study
+of the relation between representations of attachment in childhood and
+cognitive  functioning  in  childhood  and  adolescence.  Developmental
+Psychology,  30,  112-124.
+
+Keller,  M.,  Edelstein,  W.,  Schmid,  C,  Fang,  Fu-xi,  &  Fang,  Ge.  (in
+press). Reasoning about responsibilities and obligations in close rela-
+tionships:  A  comparison  across 
+two  cultures.  Developmental
+Psychology.
+
+Keller,  M.,  Essen,  C.  von,  &  Monnig,  M.  (1987).  Manual  zur  En-
+twicklung  von Freundschaftsvorstellungen  [Manual for scoring  friend-
+ship  reasoning].  Unpublished  manuscript,  Max  Planck  Institute  for
+Human  Development,  Berlin,  Germany.
+
+Keller,  M.,  & Wood,  P.  (1989).  Development  of  friendship  reasoning:
+A study of interindividual differences  in intraindividual change. Devel-
+opmental  Psychology,  35,  820-826.
+
+Klohnen,  E. C.  (1996).  Conceptual  analysis  and  measurement  of  the
+construct  of  ego-resiliency.  Journal  of  Personality  and  Social  Psy-
+chology,  70,  1067-1079.
+
+Konlberg, L. (1984).  The psychology  of moral  development.  New ^brk:
+
+Harper  & Row.
+
+Lee, L.,  &  Snarey, J.  (1988).  The  relationship  between  ego  and  moral
+development:  A  theoretical  review  and  empirical  analysis.  In  D. K.
+Lapsley  &  F.C.  Power  (Eds.),  Self, ego,  and  identity:  Integrative
+approaches  (pp.  151-178).  New %rk:  Springer-Verlag.
+
+Lonky,  E.,  Kaus,  C,  &  Roodin,  P.  (1984).  Life  experience  and  mode
+of  coping:  Relation  to  moral judgment  in  adulthood.  Developmental
+Psychology,  20,  1159-1167.
+
+Parikh,  B.  (1980).  Development  of  moral judgment  and  its  relation  to
+family  environmental  factors  in Indian  and American  families.  Child
+Development,  51,  1030-1039.
+
+Piaget,  J.  (1965).  The  moral  judgment  of  the  child.  New  York:  Free
+
+Press.  (Original  work  published  1932)
+
+Powers,  S. I.  (1988).  Moral  judgment  development  within  the  family.
+
+Journal  of Moral  Education,  17,  209-219.
+
+Raven,  J. C.  (1960).  Guide  to the  standard progressive  matrices.  Lon-
+
+don:  H. K.  Lewis.
+
+Schrdder, E. (1989).  Vom konkreten  zutnformalen  Denken.  Individuelle
+Entwicklungsverldufe  von  der  Kindheit  bis  zum  Jugendalter  [From
+concrete to formal  operational reasoning: Individual trajectories  from
+childhood  to adolescence]. Bern,  Switzerland:  Huber.
+
+Selman,  R.  (1979). Assessing  interpersonal  understanding:  An  inter-
+view  and  scoring  manual  in five parts  constructed  by  the  Harvard-
+Judge  Baker  social  reasoning  project.  Unpublished  coding  manual,
+Harvard  University,  Cambridge,  MA.
+
+Selman,  R.  (1980).  The  growth  of  interpersonal  understanding.  New
+
+\brk:  Academic  Press.
+
+Selman, R.,  & Jaquette, D. (1977).  Stability  and oscillation  in  interper-
+sonal  awareness: A clinical-developmental  analysis. In C. B.  Keasey
+(Ed.), Nebraska  Symposium  on  Motivation:  Vol. 25.  Social  cognitive
+development  (pp.  261-304).  Lincoln:  University  of  Nebraska  Press.
+Shantz, C. U. (1983).  Social  cognition. In P. H. Mussen  (Series Ed.) &
+J. H. Flavell & E. Merman (Vol. Eds.), Handbook  of child  psychology:
+Vol. 3.  Cognitive  development  (pp. 495-555).  New York: Wiley.
+
+Shedler, J.,  & Block, J.  (1990). Adolescent  drug  use  and  psychological
+
+health. American  Psychologist,  45,  612-630.
+
+Walker, L. J.,  & Taylor, J. H.  (1991). Family interactions  and the devel-
+
+opment  of  moral  reasoning.  Child  Development,  62,  264-283.
+
+Westenberg, P. M., & Block, J. (1993). Ego development and individual
+differences.  Journal  of Personality  and  Social  Psychology,  65,  792-
+800.
+
+Willett,  J. B.  (1988).  Questions  and  answers  in  the  measurement  of
+change. In E. Z. Rothkopf (Ed.), Review of research in education:  Vol.
+15 (pp. 345-422). Washington, DC: American  Educational  Research
+Association.
+
+Willett,  J.B.,  Ayoub,  C.C.,  &  Robinson,  D.  (1991).  Using  growth
+modeling  to  examine  systematic  differences  in  growth:  An  example
+of change in the functioning  of families  at risk of maladaptive  parent-
+ing, child  abuse, or neglect.  Journal  of  Consulting  and  Clinical  Psy-
+chology,  59,  38-47.
+
+"Vouniss, J.  (1980).  Parents  and  peers  in social  development:  A  Sulli-
+
+van-Piaget  perspective.  Chicago: University  of  Chicago  Press.
+
+Received  April  7,  1995
+Revision  received  June 4,  1997
+
+Accepted  June  5,  1997  •
+
+This document is copyrighted by the American Psychological Association or one of its allied publishers.  This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.

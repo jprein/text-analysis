@@ -1,0 +1,1745 @@
+AGGRESSIVE BEHAVIOR
+Volume 32, pages 528–539 (2006)
+
+Social Cognition and Moral Cognition in Bullying:
+What’s Wrong?
+Gianluca Gini
+
+Department of Developmental and Socialisation Psychology, University of Padova, Padova, Italy
+
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+
+Two different models have been proposed that describe the bully alternatively as a child lacking in social skills [Crick and Dodge,
+1994], or as a cold manipulative individual, who leads gangs to achieve personal goals [Sutton et al., 1999a]. The present study
+examined the performance of 204 8–11-year-olds in a set of stories that assessed understanding of cognitions and emotions, in
+relation to their Participant Role in bullying. Moreover, children’s understanding of moral emotions and proneness to moral
+disengagement was assessed. Victims showed some difﬁculties in the social cognition task, whereas bullies did not. Aggressive
+children, instead, were found to be more ready to show moral disengagement mechanisms, whereas defenders showed higher levels
+of moral sensibility. Results are discussed in relation to the two models, and the need for further research into empathy and moral
+cognition of children involved in bullying episodes is highlighted. Aggr. Behav. 32:528–539, 2006. r 2006 Wiley-Liss, Inc.
+
+: : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : : :
+
+Keywords: school bullying; social cognition; moral cognition; theory of mind; participant roles
+
+INTRODUCTION
+
+Over the last 20 years, the literature about the
+development of aggressive behavior showed an
+increasing interest in the study of the relations
+between cognition, social
+information processing
+and social interaction in children and adolescents
+[e.g., Crick and Dodge, 1994; Harvey et al., 2001]. In
+particular, several authors studied how the social
+information processing strategies used by children
+and the way in which they interpret situational cues
+and use their previous experiences can inﬂuence
+their aggressive conduct [Dodge and Price, 1994;
+Huesmann and Guerra, 1997; Randall, 1997]. One
+of the most important results of this ﬁeld of research
+has been the possibility to identify the presence of
+speciﬁc deﬁcits and systematic biases
+in some
+components of the social cognition of aggressive
+children. These results led Dodge and colleagues to
+formulate the ‘‘Social Skills Deﬁcit’’ model [Crick
+and Dodge, 1994; Dodge, 1980]. According to the
+ﬁrst formulation of this model, in which reactive and
+proactive categories of aggression were not clearly
+distinguished, aggressive children show some difﬁ-
+culties in one or more phases of
+their social
+information processing. For example, these authors
+found that aggressive children tend to interpret
+ambiguous situations in an aggressive way more
+
+r 2006 Wiley-Liss, Inc.
+
+than their non-aggressive peers (hostile attributional
+bias) [Dodge and Frame, 1982; Dodge and Som-
+berg, 1987]. Another difference between aggressive
+and non-aggressive children refers to the selection of
+the behavioral response in a social situation: the
+former, in fact, seem to have a more limited range of
+non-aggressive answers than the latter and, for this
+reason,
+they are more inclined to choose and
+perform aggressive behaviors, especially in the case
+of interpersonal conﬂicts [Dodge, 1980; Dodge and
+Newman, 1981; Dodge et al., 1990]. According to
+the same approach, victims, who are shy and
+withdrawn and lack social skills of assertiveness,
+show high levels of anxiety and loneliness, and have
+less experience in social interaction and play ﬁghting
+(which may enhance social skills), as well as control
+and interpretation of emotional expression [Hodges
+et al., 1997; Smith et al., 1993].
+
+Some authors tried to apply this model to a
+particular kind of aggressive phenomenon: school
+
+Correspondence to: G. Gini, Department of Developmental and
+Socialisation Psychology, University of Padova, via Venezia 8, 35131
+Padova, Italy. E-mail: gianluca.gini@unipd.it
+
+Received 14 December 2004; Accepted 14 April 2005
+
+Published online in Wiley InterScience (www.interscience.wiley.
+com). DOI: 10.1002/ab.20153.
+
+bullying [Boulton and Smith, 1994; Slee, 1993; Smith
+et al., 1993]. However, despite the popular view of
+the bully as an ‘‘oaf’’ boy, that is, an intellectually
+simple or backward boy [Besag, 1989], very few
+studies conﬁrmed that Dodge’s model can be
+applied to bullies in exactly the same way as to
+aggressive children [e.g., Hazler, 1996; Randall,
+1997]. On the contrary, some other authors stressed
+the role of adaptive motivation to explain bullying
+behavior, arguing that bullying may be seen as an
+inappropriate way to reach a socially effective goal,
+such as leadership within a group. As a consequence,
+these authors stated that
+the bully should not
+necessarily be seen as an individual with speciﬁc
+difﬁculties. On the contrary, he or she may some-
+times be a skilled individual who takes advantage
+of his/her high social cognitive competence to reach
+personal beneﬁts,
+interpersonal domi-
+nance, through a ‘‘Machiavellian’’ conduct [Sutton
+et al., 1999a].
+
+such as
+
+Some data presented by Sutton et al.
+
+[1999b]
+empirically support this view; in fact, they found
+that 7–10-year-old bullies performed better than
+other classmates in a social cognition task that
+required the understanding of mental states and
+emotions of the main character of a story (theory of
+mind task). The relevance of these results, above all,
+lies in the fact that, in a bullying situation, ‘‘having a
+grasp of the mental states of those involved, along
+with an ability to manipulate these thoughts and
+beliefs, may be crucial for the bully in developing
+and maintaining such inter-role relations’’ [Sutton
+et al., 1999b, p. 437]. In previous studies, therefore,
+bullies’ social cognitive skills, such as social per-
+spective taking and decoding of emotional informa-
+tion, may have been underestimated [Sutton et al.,
+1999a,b,c]. However, some bullies may possess a
+different conception of the costs and beneﬁts of
+aggression, and they may lack in empathic under-
+standing of
+it
+appears more adequate to regard social skills as a
+neutral
+tool, which may be used for both
+prosocial and antisocial purposes [Bjo¨ rkqvist et al.,
+2000; Hawley, 2003]. From this perspective, the
+crucial point to understand bullying behavior refers
+to the kind of values that guide bullies’ conduct,
+rather than their higher or lower ability in social
+information processing [Arsenio and Lemerise, 2001].
+Following this line of research, the present paper
+focuses on cognitive and emotional understanding
+of social situations in bullying, using a theory of
+mind task with children who assume different
+participant roles during a bullying episode. In the
+above-mentioned study, however, Sutton et al.
+
+the victim’s suffering. Therefore,
+
+Social Cognition in Bullying
+
+529
+
+[1999b] did not explicitly consider a particular kind
+of emotion found to be important to account for
+aggressive and antisocial behaviors: moral emotions
+(in particular, guilt and shame). If bullies are cold,
+manipulative experts in social contexts, their beha-
+vior may be related to emotions surrounding moral
+transgression. These emotions are important be-
+cause, as Hoffman [1976, 2000] pointed out, they are
+closely connected with empathy and they can be
+considered mediators of conscience. Other authors
+suggested that moral development plays a major role
+in behavioral regulation [Arsenio, 1988; Nucci,
+2001; Smetana, 1995; Turiel, 1998] and that guilt is
+an interpersonal phenomenon aimed at avoiding the
+disruption of relationships and bonds [Baumeister
+et al., 1994; Tagney, 1992]. Moreover, individuals
+who are more prone to guilt are less aggressive and
+less likely to act out behaviors [Harpur et al., 1988;
+Quiles and Bybee, 1997]. In contrast, if children had
+lower feelings of guilt, this could ‘‘enable’’ them to
+act aggressively without feeling guilty. However, the
+reverse causal link could be true, in that children
+who repeatedly commit acts of aggression may
+become inured to this type of behavior, exhibiting
+dulled emotional responses.
+
+Moral Disengagement
+and Aggressive Behavior
+
+A useful contribution to the analysis of some
+social cognitive components of aggressive behavior
+is made by the Social Cognitive Theory of the Moral
+Self [Bandura, 1986, 1990, 1991]. According to this
+theory, moral reasoning is linked to moral action
+through affective self-regulatory mechanisms by
+which moral agency is exercised. In their develop-
+ment, children need to develop standards of right
+and wrong and to adopt these standards as guides
+and deterrents for their conduct. This self-regulatory
+process implies that individuals usually act in ways
+that give them satisfaction and a sense of self-worth,
+whereas, on the other side, they tend to avoid
+behaviors that violate their moral standards in order
+to avoid self-condemnation.
+
+Moreover, Bandura [2002] claimed that the con-
+struct of moral disengagement could be considered
+as a mediator between the individual’s moral
+principles and his/her real conduct, which may not
+necessarily be coherent with those principles. Inter-
+nal controls,
+in fact, are not ﬁxed, and several
+psychological and social processes can contribute
+to their selective deactivation. In particular, Ban-
+dura described eight different mechanisms through
+which moral control can be disengaged. One set of
+
+Aggr. Behav. DOI 10.1002/ab
+
+530 Gini
+
+disengagement practices operates on the reconstruc-
+tion of the behavior itself. For example, an immoral
+conduct is made personally and socially acceptable
+by portraying it in the service of moral purposes
+(moral
+justiﬁcation) or self-deplored acts can be
+made to appear righteous by contrasting them with
+worse conducts (advantageous comparison). More-
+over, in some circumstances, activities can take on
+different appearances depending on what they are
+called (euphemistic labeling). The second set of
+disengagement practices operates by obscuring or
+minimizing the agentive role in the harm one causes
+(displacement of
+responsibility and diffusion of
+responsibility). Other ways of weakening moral
+control operate by minimizing, disregarding or
+distorting the effects of one’s action; if minimization
+does not work,
+the evidence of harm can be
+discredited (minimizing or misconstruing conse-
+quences). Finally, disengagement practices may
+operate on the recipients of detrimental acts by
+stripping them of human qualities (dehumanization)
+or considering aggression as provoked by the victim
+(attribution of blame). These mechanisms can lead
+to aggressive behaviors through a process of moral
+disengagement, that is, a partial gap between the
+‘‘abstract’’ personal
+idea of moral behavior and
+the individual’s behavior in real life. In this way, the
+individual protects him/herself from negative feel-
+ings, such as guilt or shame, that usually follow an
+immoral conduct [Bandura, 1991].
+
+studies
+
+Different
+
+showed a positive relation
+between aggressive behavior and the activation of
+one or more of these mechanisms in both adults and
+children [Bandura et al., 1996; Caprara et al., 1995,
+1996; Yadava et al., 2001]. In particular, Caprara
+et al. [1995] conﬁrmed the strong link between moral
+disengagement and physical and verbal aggression,
+both self- and peer-evaluated, especially in male
+children. More recently, Bandura et al. [2001] have
+replicated these results. They found a positive
+relation between moral disengagement and trans-
+gressive behavior, and a negative relation between
+moral disengagement and self-regulatory efﬁcacy
+and prosocial behavior.
+
+The above-mentioned studies actually referred to
+aggressive individuals, but a similar pattern of data
+has been found in school bullying research, as well.
+Bacchini et al. [1998] and Menesini et al. [1997],
+for example, found that male bullies utilized the
+moral disengagement mechanisms more
+than
+did other peers and, most of all, they seemed to
+use the mechanisms of Dehumanization and Moral
+Justiﬁcation. A conﬁrmation of
+results
+emerged in a cross-national study, involving Italy
+
+these
+
+Aggr. Behav. DOI 10.1002/ab
+
+and Spain, conduced by Menesini et al. [2003b], who
+assessed moral reasoning of bullies, victims and
+children who assumed the role of the defender, using
+the Scan Bullying test [Almeida et al., 2001]. These
+authors conﬁrmed the tendency of bullies to show
+higher levels of moral disengagement, and the
+presence of a proﬁle of egocentric reasoning in
+these pupils.
+
+Quite recently,
+
+a
+
+considering bullying
+
+the ‘‘traditional’’ classiﬁcation
+of school children into bullies, victims and controls
+has been criticized and several authors stressed the
+importance of
+group
+process [Sutton and Smith, 1999]. The empirical
+conﬁrmation of the importance of peer ecology
+applied to bullying phenomenon derives
+from
+several observational studies carried out during
+periods of
+free interaction among children in
+unstructured contexts, such as during recess and
+outdoor play. These studies,
+in fact, consistently
+found that peers are involved in 85% of bullying
+episodes [Atlas and Pepler, 1998; Craig and Pepler,
+1997; Craig et al., 2000; Pepler and Craig, 1995].
+[1996]
+Moreover, Salmivalli et al.
+identiﬁed six
+different participant
+taken by individual
+children in the bullying process (i.e., victim, bully,
+reinforcer of
+to the bully,
+defender of the victim and outsider). Another study
+by Salmivalli et al. [1997] has also revealed a strong
+inﬂuence of how the members of a group behave in
+bullying situations on an individual child’s behavior
+in such situations.
+
+the bully, assistant
+
+roles
+
+In line with this approach that considers bullying
+as a group phenomenon, all distinct roles within the
+class were considered in the present study. Not only
+bullies and victims participated, but also those
+pupils who, in different ways, act important roles
+in reinforcing bullying behavior
+(the so-called
+‘‘Followers’’: the Assistants of the bully and the
+Reinforcers) or, in contrast, intervene to defend the
+victim (the Defenders). Finally, Outsiders, that is,
+children not directly involved in the phenomenon,
+were considered.
+
+Aims of the Study and Hypotheses
+
+The ﬁrst aim of the present study was to assess the
+performance of these pupils in a social cognition
+task similar to the one used by Sutton et al. [1999b].
+In this task, the same two typologies of stories used
+by Sutton and colleagues were used: cognitive and
+emotion stories. The cognitive stories, in particular,
+assessed the child’s ability to understand mental
+states, beliefs and intentions of the character of the
+story. The emotion stories,
+instead, assessed the
+
+states of
+
+ability to understand emotional
+the
+character and the possibility that an emotion could
+be dissimulated to inﬂuence and modify others’
+knowledge. Contrary to the idea of the bully as a
+social ‘‘oaf’’, it is hypothesized that the Bully group
+will perform better than, or at least at the same level
+as, other pupils in a theory of mind task that
+requires understanding the thoughts, beliefs, inten-
+tions that guide others’ behavior.
+
+social
+
+Moreover,
+
+in addition to these two kinds of
+stories, a third category (moral stories), not used
+by Sutton et al. [1999b], was designed in order to
+explore the role of moral emotions in the context of
+aggressive conduct. The second aim of the present
+study,
+therefore, was to analyze the ability to
+understand moral emotions (guilt and shame) within
+hypothetical
+scenarios by children who
+assume different roles. Considering the literature
+about moral cognition in aggressive behavior [e.g.,
+Hoffman, 2000; Quiles and Bybee, 1997; Tagney,
+1992], it was expected that Bullies would perform
+worse than non-aggressive mates in moral stories,
+that is, be less likely to make the correct attribution
+of moral emotions to the character of the story
+owing to his/her negative behavior. In contrast,
+Defenders should be particularly sensitive to this
+kind of emotion as an expression of what is right
+and what is wrong and, therefore, we expected this
+group of children to perform better than any other
+in this type of stories.
+
+Finally, the third aim of the study was to consider
+the relation between moral disengagement and
+bullying behavior
+[e.g., Caprara et al., 1995;
+Menesini et al., 1999]. The comparison among
+pupils who assume different roles may lead to a
+deeper understanding of the importance of these
+mechanisms in bullying episodes. Speciﬁcally, we
+expected that
+the tendency to activate moral
+disengagement mechanisms would be higher in
+aggressive children (the Bullies and their Followers).
+In contrast, we hypothesized that Victims and those
+children who frequently intervene to defend their
+victimized classmates (Defenders) would show a
+higher moral sensibility and, consequently, a lower
+level of moral disengagement.
+
+Social Cognition in Bullying
+
+531
+
+METHOD
+
+Participants
+
+The initial sample comprised 581 Italian primary-
+school children (295 boys and 286 girls) aged
+between 8 and 11 years (mean age 5 9.7 years,
+s.d. 5 11 months). Although socio-economic status
+was not directly measured, our sample included
+students from a wide range of social backgrounds
+(low and working classes through upper middle
+class). In terms of racial/ethnic background, the
+sample was predominantly Caucasian (96%), with a
+small proportion of Asian (2%) and North African
+(2%) origin. All children received school and
+parental permission to participate prior to the
+collection of the data.
+
+On the basis of peer nominations, children were
+ﬁrst assigned to one of the following Role groups:
+Bully, Assistant, Reinforcer, Defender, Outsider and
+Victim, based on the procedure described below.
+Seventy-three children did not receive a speciﬁc role
+because they did not satisfy the classiﬁcation criteria
+proposed by Salmivalli et al. [1996] and were not
+included in the ﬁnal sample. The distribution of
+Participant Roles for the whole sample is reported
+in Table I.
+
+As can be seen in Table I, cell sizes are rather
+unequal for both Participant Roles and gender. In
+order to handle problems connected with strongly
+unbalanced factorial designs [Cramer, 1998], espe-
+cially with small cell numbers, we decided to balance
+our Role groups for number and gender. Therefore,
+a total of 204 children, divided into six Role groups
+(n 5 34; 17 males and 17 females for each one), were
+randomly selected and participated in the second
+phase of the study. The analyses presented in the
+result section have been conducted on this sample
+with equalized groups.
+
+Material
+
+Participant Role Questionnaire (PRQ). The
+Italian version [Menesini and Gini, 2000] of the
+Participant Role Questionnaire–PRQ [Salmivalli
+et al., 1996; Sutton and Smith, 1999] was used to
+
+TABLE I. Distribution of Participant Roles (%) Within the Whole Sample
+
+Participant roles
+
+Bullies
+
+Assistants
+
+Reinforcers
+
+Defenders
+
+Outsiders
+
+Victims
+
+No role
+
+Total
+
+Males
+Females
+
+15.9
+5.9
+
+16.3
+6.3
+
+11.9
+7.7
+
+11.5
+26.2
+
+12.2
+25.5
+
+17.6
+17.8
+
+14.6
+10.6
+
+100
+100
+
+Aggr. Behav. DOI 10.1002/ab
+
+532 Gini
+
+collect peer nominations. Children were asked to
+nominate up to ﬁve boys and/or girls in their class
+who ﬁtted each of the 21 behavioral descriptions of
+bullying situations that compose the questionnaire.
+In the present study, self-nominations were not
+considered. The items are divided into six scales,
+which refer to six different Participant Roles: Bully
+(4 items, e.g.: ‘‘Starts bullying’’), Assistant (2 items,
+e.g.: ‘‘Helps the bully, maybe by catching or holding
+the victim’’), Reinforcer (5 items, e.g.:
+‘‘Laughs
+at people getting bullied’’), Defender (5 items, e.g.:
+‘‘Stick up for the victim’’), Outsider (4 items, e.g.:
+‘‘Isn’t usually there,
+stays away’’) and Victim
+(1 item, ‘‘Gets bullied’’). Menesini and Gini [2000]
+reported a good internal reliability of these scales
+for the Italian population (a 5 .78–.94). In Table II,
+correlations between different
+scores are
+reported.
+
+role
+
+Roles1 were assigned according to the original
+
+procedure, proposed by Salmivalli et al. [1996]:
+
+* for each child a Role Score is calculated in each of
+the six scales of the questionnaire. A nomination
+for ‘‘sometimes’’ showing a behavior is scored as
+1, and ‘‘often’’
+the
+nominations are summed, divided by the number
+of nominators and multiplied by 100;
+
+scored as 2. Then,
+
+is
+
+* a Participant Role is assigned on the basis of the
+child’s highest standardized role score. No role is
+assigned if the child’s score is below the mean
+(Zo0) in all the six scales, or if the difference
+between the two highest scores is less than .1.
+
+Social cognition task: the stories. A set of 15
+short stories was designed to test children’s under-
+standing of mental states and emotions. Some of
+these stories were translated from Happe´ [1994] and
+Sutton et al. [1999b], and additional stories were
+created reﬂecting the same structure of the pre-
+existent stories. Even though some stories (e.g., the
+‘‘army/war’’ story) are less relevant for children than
+others, they all seemed to be understandable and
+valid for primary school pupils.
+
+The 15 stories were divided into three categories,
+
+ﬁve stories for each category:
+
+TABLE II. Role Score Correlations for the Whole Sample
+
+Bully
+.68
+.66
+ .16
+ .22
+.07
+
+Assistant
+Reinforcer
+Defender
+Outsider
+Victim
+
+Assistant Reinforcer Defender Outsider
+
+.60
+ .11
+ .24
+.01
+
+.10
+ .07
+.12
+
+.30
+  .01
+
+.13
+
+Note: N 5 578.
+Po.001 (Bonferroni corrected).
+
+(a) Cognitive stories: these stories require the under-
+standing of mental states,
+thoughts, beliefs,
+intentions of characters, which determine their
+behavior. Example of cognitive story [Happe´ ,
+1994]:
+
+During the war,
+the Red army captures a
+member of the Blue army. They want him to
+tell them where his army’s tanks are; they know
+they are either by the sea or in the mountains.
+They know that the prisoner will not want to
+tell them, he will want to save his army, and so
+he will certainly lie to them. The prisoner is very
+brave and very clever, he will not let them ﬁnd
+his tanks. The tanks are really in the mountains.
+Now when the other side ask him where his
+tanks are, he says, ‘‘They are in the mountains’’;
+
+(b) Emotion stories: in these stories the understand-
+ing of what kind of emotion is appropriate
+within a speciﬁc situation is crucial. Moreover,
+the child needs to understand that emotions can
+be clearly shown or, on the contrary, dissimu-
+lated, to inﬂuence and modify others’ knowl-
+edge. In order to facilitate participants’ answers,
+children were presented with drawings of faces
+representing different emotions (happiness, sad-
+ness, anger, guilt and a neutral
+face). An
+example of an emotion story taken from Sutton
+et al. [1999b] is:
+
+Mike wants to go out with his friends, but he has
+a really bad tummy ache. He knows that if his
+Mum notices he is ill, she won’t let him go out to
+play. Mike goes downstairs and asks his Mum,
+‘‘Can I go out to play please?’’;
+
+1An important point raised by a reviewer refers to the possibility to
+consider the bully–victim group. However, in our sample, only eight
+children scored above the cutting point for both bullies and victims
+(equally distributed in the bully and the victim group), which was not
+enough for separate analyses. Therefore, we decided not to include
+these subjects in our analyses.
+
+(c) Moral stories: in these stories the appropriate
+emotion is a moral emotion because some
+wrongdoing has happened.
+In these stories
+children were also helped with the drawings.
+An example of moral story (new) is as follows:
+
+Aggr. Behav. DOI 10.1002/ab
+
+Claudia has just moved to her new school. She has
+brown hair, green eyes and she is a little bit shorter
+than her classmates. During the maths class,
+without being noticed by her teacher, Susan,
+who sits behind Claudia, sends her a written note
+like ‘‘Pigmy, dwarf’’. Claudia reads this note and
+starts crying in front of all her mates.
+
+Each story was followed by a control question
+based on the content of the story to verify that the
+child understood it; then, an experimental question
+assessing the understanding of mental states or
+emotions was asked. For the cognitive stories, an
+answer was considered correct if the child referred to
+the mental state, thoughts or beliefs of the char-
+acters (e.g., critical question: ‘‘Where will the Red
+army look for the Blue army and why?’’; answer:
+‘‘They will look by the sea because they think that
+the prisoner is lying to them’’). For the emotion
+stories, a correct answer included both the identiﬁ-
+cation of
+the appropriate emotion (positive or
+negative) and the reference to the intention/wish of
+the main character to hide his/her own real emotion
+to the other characters,
+for example, when a
+character is ‘‘sad’’ but he or she appears ‘‘happy’’
+(e.g., ‘‘Mike has a bad tummy ache, but he appears
+happy, otherwise his Mum notices that he is feeling
+bad and won’t let him go out’’). Finally, for the
+moral stories, an answer was considered correct if
+the child recognized the fact that, in the situation
+described, the character of the story should have
+felt a moral emotion (guilt or shame) for his/her
+own behavior (e.g., ‘‘She (Susan) feels guilty because
+she
+to her
+mate Claudia’’).
+
+said bad things
+
+shouldn’t have
+
+Moral Disengagement Scale. This scale mea-
+sures the individual’s tendency to use cognitive
+mechanisms that can disengage self-sanctions and
+justify the use of violent and aggressive behaviors.
+This version of the scale [Caprara et al., 1995],
+designed for primary-school children, consists of 14
+items describing individual’s readiness to construe
+injurious conduct as serving righteous purposes,
+masquerading censurable activities by palliative
+language or rendering them benign by advantageous
+comparison, minimizing the harmful effects of one’s
+detrimental conduct and devaluing those who are
+maltreated (example items: ‘‘Some kids deserve to be
+treated like animals’’; ‘‘Kids cannot be blamed for
+misbehaving if their friends pressured them to do
+it’’). Children were asked to rate the strength of their
+endorsement or rejection of moral exoneration of
+detrimental conduct on a 5-point Likert-type scale
+(from 1 5 strongly disagree to 5 5 strongly agree).
+
+Social Cognition in Bullying
+
+533
+
+Therefore, higher scores in this scale indicate a
+higher tendency to engage in one or more of these
+mechanisms. Even though the items of the scale
+describe different mechanisms, previous
+studies
+using this scale with Italian samples [Caprara
+et al., 1995, 1996; Menesini et al., 1997] have
+demonstrated a unidimensional structure of
+the
+scale, especially for younger children. This was also
+conﬁrmed in our sample. Therefore, following the
+suggestions of the authors of the scale, analyses were
+conducted on the total score and not on separate
+subscales in the present study. The reliability of the
+scale was a 5 .69.
+
+Procedure
+
+Stage 1: The PRQ and the Moral Disengagement
+Scale were completed during a single classroom
+session and the order of presentation of the two
+measures was counterbalanced. This session began
+by introducing the general purpose of the study.
+Then, the following deﬁnition of bullying [Whitney
+and Smith, 1993] was presented and discussed with
+the class:
+
+We say a child or young person is being bullied, or
+picked on when another child or young person, or
+a group of children or young people, say nasty and
+unpleasant things to him or her. It is also bullying
+when a child or young person is hit, kicked,
+threatened, locked inside a room, sent nasty notes,
+when no one ever talks to them and things like that.
+These things can happen frequently and it is difﬁcult
+for the child or young person being bullied to defend
+himself or herself. It is also bullying when a child or
+young person is teased repeatedly in a nasty way.
+But it is not bullying when two children or young
+people of about the same strength have the odd ﬁght
+or quarrel.
+
+Stage 2: When the data from Stage 1 had been
+analyzed, children selected through the PRQ were
+tested individually in an area of the school that
+afforded privacy. During this session, the stories
+were presented in a randomized order and the
+children’s answers were audio-recorded to facilitate
+the successive transcription and coding procedure.
+In order to avoid any possible inﬂuence upon their
+responses, the experimenter who interviewed chil-
+dren did not know their Participant role.
+
+RESULTS
+
+Results are presented using the categorical mea-
+to compare group
+
+‘‘Participant Roles’’
+
+sure of
+
+Aggr. Behav. DOI 10.1002/ab
+
+534 Gini
+
+means in social cognition and moral disengagement
+with independent 6 (Roles)  2 (Gender) ANOVAs.
+The continuous measure ‘‘Role Scores’’ is used to
+test for correlations between the extent of different
+types of behavior in the whole sample and the social
+cognition and moral disengagement measures.
+
+Preliminary Analysis
+
+A preliminary one-way ANOVA was performed
+to investigate the possible effect of Participant Roles
+on the answers
+to the control questions. No
+statistically signiﬁcant differences emerged among
+the different roles [F(5, 192) 5 .962, P 5 n.s.], thus
+conﬁrming that
+the level of comprehension of
+the stories presented was similar for all Participant
+Roles.
+
+Moreover,
+
+in order to control
+
+for inter-rater
+reliability, two independent judges coded the 30%
+of all children’s answers. Their level of agreement
+reached 96%. Cohen’s kappa was also calculated,
+resulting in K 5 .91. Disagreements were due to
+those answers in which the reference to mental states
+was not completely clear. All discrepancies were
+resolved by consultation between the coders.
+
+Participant Roles and Social Cognition
+
+As the three categories into which our stories were
+divided (cognitive, emotion and moral stories) are
+different from each other, three separate ANOVAs
+were conducted on the mean performance in the
+three sets of stories, with Role and Gender as
+between factors. From the analysis, a statistically
+signiﬁcant main effect of Role emerged only for the
+192) 5 2.376, P 5 .04,
+cognitive
+p ¼ :058]. Post hoc analyses revealed that Victims’
+Z2
+performance (M 5 2.88,
+signiﬁ-
+(M 5 4.03,
+cantly
+s.d. 5 1.38), whereas other groups did not signiﬁ-
+
+than Defenders
+
+s.d. 5 1.61) was
+
+stories
+
+[F(5,
+
+lower
+
+cantly differ from each other (Bonferroni compar-
+isons). The main effect of Gender and the
+Role  Gender
+statistically
+signiﬁcant.
+
+interaction were not
+
+These data do not support
+
+the prediction of
+Hypothesis 1 that bullies should perform better
+than other people in the theory of mind tasks, but
+they also fail to show social deﬁcits among bullies.
+In contrast to Hypothesis 2, bullies did not do worse
+than the other groups
+stories
+(Table III).
+
+in the moral
+
+Role Scores and Social Cognition
+
+A partial correlation analysis between social
+cognition and the actual extent of different types
+of behavior
+(the role scores) was performed.
+Considering the fact that the scales are correlated
+with each other, to examine the relation of each role
+with the cognitive, emotion and moral information
+processing skills,
+in the correlation analysis the
+remaining PRQ scales and age were partialled out.
+Moreover, considering the high number of compar-
+isons, in order to avoid the increase of type 1 error,
+Bonferroni’s correction was used (adjusted level of
+a: .05/24 5 .002). Correlation coefﬁcients are shown
+in Table IV. In line with Hypothesis 1, Bully role is
+positively correlated with the total social cognition
+score and with the cognitive score (the ability
+to understand thoughts,
+intentions, beliefs, etc.)
+and the emotion score. Moreover,
+in accordance
+with Hypothesis 2, the Defender score is positively
+correlated with all social cognition scores.
+
+Participant Roles and Moral Disengagement
+
+As concerns the third aim, a two-way ANOVA on
+the mean score in the Moral Disengagement Scale
+was performed with Role and Gender as between
+factors. A statistically signiﬁcant main effect of Role
+
+TABLE III. Participant Roles and Mean Score [s.d.] in Social
+Cognition Task
+
+TABLE IV. Partial Correlations of Social Cognition and
+Individual Role Scores
+
+Participant
+rolesa
+
+Cognitive
+storiesb
+
+Emotion
+storiesb
+
+Moral
+storiesb
+
+Total social
+cognition taskc
+
+Bullies
+Assistants
+Reinforcers
+Defenders
+Outsiders
+Victims
+
+3.06 [1.30] 2.79 [2.20]
+3.18 [1.47] 3.20 [2.04]
+3.15 [1.56] 3.26 [1.76]
+4.03 [1.38] 4.12 [1.45]
+3.38 [1.76] 3.68 [1.66]
+2.88 [1.61] 3.26 [1.81]
+
+3.18 [1.94]
+3.59 [1.86]
+3.62 [1.67]
+4.00 [1.67]
+4.06 [1.63]
+3.44 [1.76]
+
+9.03 [4.79]
+9.97 [4.85]
+10.03 [4.28]
+12.15 [4.04]
+11.12 [4.58]
+9.59 [4.73]
+
+an 5 34 for each group.
+bRange 5 0–5.
+cRange 5 0–15.
+
+Aggr. Behav. DOI 10.1002/ab
+
+Social cognition scores
+
+Role scores
+
+Bully
+Assistant
+Reinforcer
+Defender
+Outsider
+Victim
+
+Cognitive
+.195
+ .021
+ .074
+.214
+.071
+.068
+
+Emotion
+.148
+ .026
+ .059
+.226
+.008
+.109
+
+Moral
+
+Total score
+
+.129
+.014
+ .098
+.197
+.060
+.112
+
+.172
+ .012
+ .078
+.223
+.050
+.104
+
+Note: N 5 204.
+Po.001 (Bonferroni corrected).
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+Defenders, a
+
+Outsiders, c
+
+Victims, c
+
+Assistants, b
+
+Reinforcers, b
+
+Bullies, b, d
+
+Fig. 1. Participant roles and moral disengagement. Notes: n 5 34 for
+each group, range 5 14–70, a,b,c,dMeans with different superscript
+differ at Po.05.
+
+p ¼ :194],
+emerged [F(5, 192) 5 9.269, Po.001, Z2
+whereas neither Gender [F(1, 192) 5 .039, P 5 n.s.]
+nor the Role  Gender interaction [F(5, 192) 5 .844,
+P 5 n.s.] were signiﬁcant. Post-hoc analyses (Bon-
+ferroni comparisons) showed that all aggressive
+roles share the same tendency to activate moral
+disengagement mechanisms,
+fact Bullies
+(M 5 38.03, s.d. 5 7.58), Reinforcers (M 5 35.76,
+s.d. 5 8.15) and Assistants (M 5 33.74, s.d. 5 7.80)
+performed signiﬁcantly higher
+than Defenders
+(M 5 26.53,
+s.d. 5 7.13). Moreover, Bullies also
+showed a higher level of moral disengagement than
+both Outsiders (M 5 30.35, s.d. 5 7.63) and Victims
+(M 5 32.41,
+support
+Hypothesis 3 (Fig. 1).
+
+s.d. 5 8.12). These ﬁndings
+
+in
+
+Role Scores and Moral Disengagement
+
+A partial correlation analysis, controlled for age
+of participants, between the score in the Moral
+Disengagement Scale and the role scores was
+performed. Results showed a positive correlation
+between moral disengagement and the role scores in
+Bully (r(204) 5 .26, Po.001), Assistant (r(204) 5 .24,
+Po.001) and Reinforcer
+(r(204) 5 .22, Po.001)
+scales. In contrast, a negative correlation between
+moral disengagement and the role score in the
+Defender scale (r(204) 5  .22, Po.001) and in the
+Outsider
+emerged,
+whereas the correlation with the score in the Victim
+scale was not signiﬁcant (r(204) 5  .05, P 5 n.s.).
+Therefore, these data largely support Hypothesis 3.
+They are also in accordance with previous results
+showing a positive relation between aggressive
+behavior and the tendency to disengage self-sanc-
+tions and justify the use of violent and aggressive
+behaviors, and a negative relation between moral
+disengagement and prosocial behavior.
+
+(r(204) 5 .12, Po.01)
+
+scale
+
+Social Cognition in Bullying
+
+535
+
+DISCUSSION
+
+Social Cognition in Bullying
+
+The present study is located in research about the
+role of social cognition in the development of
+bullying behavior among schoolmates. In particular,
+two different models have been proposed in the
+literature to explain the Bully’s behavior in terms
+of social information processing. The ﬁrst model
+hypothesizes the presence of deﬁcits in the social
+information processing of bullies, similar to those
+found for aggressive children [Crick and Dodge,
+1994; Dodge, 1980]. This model, therefore, proposes
+the idea of bullies as ‘‘oaf’’ children. They are
+considered deﬁcient in their social intelligence, that
+is their ability to interpret and manage information
+deriving from social interactions with peers and to
+produce adequate social responses. The second
+in contrast, states that bullies are quite
+model,
+skilful
+in understanding social cues (e.g., others’
+mental states) and that they exploit this ability
+to their own advantage, acting as ‘‘skilled social
+manipulators’’
+[Sutton et al., 1999a,b]. However,
+according to these authors, bullies may lack the
+empathic reactivity towards their mates’ emotions
+and, in particular, towards victim’s suffering.
+
+they may be deﬁcient
+
+In the ﬁrst two hypotheses of the present study, it
+was anticipated that bullies may have a good theory
+of mind, but
+in moral
+cognition. The analysis of variance, indeed, indi-
+cated that
+the bully group did not show any
+difﬁculty, compared to non-aggressive peers, in the
+understanding of cognitive stories, which required
+them to assume the cognitive point of view of
+another person, that is to understand intentions,
+beliefs and goals that guide a determinate behavior.
+Moreover, correlations between the scores in each
+scale of the PRQ and the performance in the social
+cognition task indicated a positive relation between
+bullying behavior and the ability to understand
+others’ mental states. As regards the two models,
+therefore, our results are closer to what would be
+expected by the Skilled Manipulator model [Sutton
+et al., 1999a]. The fact that our bullies did not show
+particular deﬁcits in this speciﬁc area of social
+cognition does not suggest a direct application of the
+Social Skills Deﬁcit model [Crick and Dodge, 1994]
+to bullying behavior. Further analyses are needed
+into the social cognitive competence of children
+involved in bullying episodes. This is particularly
+important because theory of mind explanations per
+se are not likely to be very helpful for understanding
+the unique nature of bullying,
+in that having a
+sophisticated theory of mind can lead to highly
+
+Aggr. Behav. DOI 10.1002/ab
+
+536 Gini
+
+prosocial behavior or to bullying behavior. In other
+words, having a ‘‘superior’’ theory of mind says
+nothing about how that knowledge will be utilized in
+social interactions [Arsenio and Lemerise, 2001].
+
+signiﬁcantly lower,
+
+As regards the two other types of stories used in
+the present study, bullies’ performance in emotion
+stories and also in moral stories, a category not used
+by Sutton et al. [1999b], was found to be slightly, but
+not
+than the performance
+obtained by other groups. Contrary to our second
+hypothesis about the possible difﬁculties of bullies in
+moral cognition, our results do not completely
+conﬁrm the literature on moral development in
+aggressive children and bullies [e.g., Bandura, 1991;
+Hart et al., 2003]. In our sample, in fact, the bullies
+and their followers did not show a signiﬁcant lack of
+ability in the attribution of appropriate moral emo-
+tions to the characters of the stories. These emotions,
+such as guilt and shame, play an important role in the
+recognition of the damage suffered by another person
+and are closely connected to the sense of responsi-
+bility of the person who shows the harmful behavior.
+Moreover, these emotions imply the need of repara-
+tion as a consequence of a negative outcome
+produced by one’s behavior [Bybee, 1998; Hoffman,
+2000].
+
+comprehension of others’
+
+However, for both emotion and moral stories, it is
+important to note that they actually assess the
+‘‘cognitive’’ ability to process emotional information
+in social interactions rather than an ‘‘emotional’’ or
+‘‘empathic’’
+feelings.
+Therefore,
+the positive performance shown by
+aggressive children in these kinds of stories may
+misrepresent or underestimate the real deﬁcit of
+these children in emotional understanding of others.
+In other words, what bullies may lack and what may
+differentiate them from prosocial children is the
+ability to appreciate the emotional consequences
+of their behaviors on others’ feelings, and to share
+in, and empathize with,
+the feelings of others
+[Arsenio and Lemerise, 2001; Eisenberg and Fabes,
+1998]. In line with this perspective, for example, Gini
+et al.
+[2004] recently found a negative relation
+between bullying behavior and empathy, measured
+through Davis’ empathic reactivity index [1983], in a
+sample of Italian adolescents.
+
+Sutton et al. [1999a] also argued along these lines,
+referring to the ‘‘cold cognition’’ hypothesis pro-
+posed by Mealey [1995] as regards sociopathy. They
+also spoke of a theory of mind formulated purely in
+instrumental terms, without access to the empathic
+understanding that most people rely on. As a
+consequence,
+the individual may use aggressive
+behavior in a Machiavellian way, without consider-
+
+Aggr. Behav. DOI 10.1002/ab
+
+ing its negative consequences on others. In contrast,
+high levels of empathic responsiveness act as an im-
+portant mediator in social conduct, reducing aggres-
+sion and favoring prosocial behavior [Bjo¨ rkqvist
+et al., 2000; Kaukiainen et al., 1994, 1996].
+
+With respect to the other groups considered in the
+present study, victimized children showed some
+difﬁculties in the social cognition task. If compared
+to the defender group in particular, they seem to
+lack the ability to understand others’ mind, that is
+their thoughts, beliefs and intentions that guide
+social behavior. Our data are consistent with results
+reported by Sutton et al. [1999b]. Moreover, several
+authors share the idea that victims show deﬁcits in
+areas like social skills, social problem solving,
+assertiveness and emotional regulation [e.g., Cham-
+pion et al., 2003; Kochenderfer and Ladd, 1997;
+Mahady-Wilton et al., 2000; Olweus, 1993; Perry
+et al., 1988]. Finally, the results obtained in the
+social cognition task by the defender group should
+be noted. These children, in fact, showed high levels
+of performance in all the stories, and especially in
+the cognitive stories. Moreover, the score in the
+defender scale of the PRQ correlated positively with
+all the scores in the social cognition task, thus
+suggesting that
+this kind of
+prosocial and helpful behavior requires a high level
+of social ability and a well-developed understanding
+of both cognitive and emotional states of others.
+However, the fact that the bullying score also cor-
+related with the social cognition task, again, con-
+ﬁrms that having a good theory of mind, by itself,
+does not necessarily mean that this ability will be
+used to act prosocially [Arsenio and Lemerise, 2001].
+
+the adoption of
+
+Bullying and Moral Disengagement
+
+in all
+
+the aggressive roles and,
+
+As regards the third aim of the present study, the
+analysis of variance on moral disengagement
+showed higher levels of the tendency to disengage
+self-sanctions and justify the use of aggressive
+behaviors
+in
+particular, in bullies. These results conﬁrmed the
+role of speciﬁc cognitive mechanisms in the regula-
+tion of social conduct, such as the moral disengage-
+ment mechanisms that allow the assumption of
+violent behaviors [Bacchini et al., 1998; Caprara
+et al., 1995; Menesini et al., 1999, 2003a,b].
+Regarding this aspect, as suggested by a reviewer,
+it could be interesting to collect information about
+the relations between bullying, familial socialization
+and moral climate at home and at school.
+
+In contrast, defenders’ high moral sensibility and
+empathic reactivity, already found in other studies
+
+[Gini and Carli, 2003; Menesini et al., 2003a,b], may
+be one of
+the basic motivations for prosocial
+behavior, frequently shown by these children to-
+wards their victimized mates. These motivations are
+very important and must be taken into account
+in the implementation of intervention programs in
+schools [Cowie, 2000; Cowie et al., 2002]. However,
+the fact that the ability to help other peers requires
+several
+that young
+children do not necessarily possess needs to be
+considered.
+
+competencies
+
+interpersonal
+
+In conclusion, the results presented in this paper
+have several potential
+implications for future re-
+search. On the one hand, our results draw attention
+to the importance of studying the role of social
+cognitive competencies in the complex circle of
+behaviors, attitudes and expectations upon which
+school bullying phenomenon is based. On the other
+hand, the relevance of adopting a more ﬁne-grained
+classiﬁcation of roles in the study of bullying
+behavior was conﬁrmed.
+
+is,
+
+that
+
+A possible limitation in the interpretation of our
+results was the fact that we did not consider the
+bully-victim group,
+those children who
+frequently assume both kinds of role, acting as a
+bully and being victimized as well [e.g., Boulton and
+Smith, 1994; Olweus, 1993]. Several authors stressed
+the relevance of this group of pupils, also called
+aggressive victims [Perry et al., 1988; Schwartz,
+2000], in the study of aggressive problems. More-
+over, these children have been consistently described
+as lacking social-emotional abilities, having psycho-
+social
+impairments and a wide range of other
+problems [e.g., Besag, 1989]. A methodological
+difﬁculty in the study of these pupils is that it is
+not always simple to clearly identify bully-victims as
+a distinct group. Despite this complication, future
+research in this ﬁeld will necessarily need to study
+the social cognitive and moral characteristics of this
+particular group of children, and to compare their
+level of cognitive and emotional understanding with
+that of ‘‘pure’’ bullies and victims.
+
+ACKNOWLEDGMENTS
+
+The author is grateful to all schools, teachers and
+pupils who participated in the study. Moreover, he
+thanks Francesca Happe` and Jon Sutton for their
+stories, translated and utilized in this study, and
+Elena Arimondo, Alessia Bortoloso, Giuseppe Carli
+and Simona Pischetola for their help in data
+collection. Finally, he is grateful to three anonymous
+reviewers for their helpful comments on an earlier
+version of the manuscript.
+
+Social Cognition in Bullying
+
+537
+
+REFERENCES
+
+Almeida A, del Barrio C, Marques M, Gutierrez H, van der Meulen
+K. 2001. Scan-bullying: A script-cartoon narrative to assess
+cognitions, emotions and coping strategies in bullying situations.
+In: Martinez M (ed.): ‘‘Prevention and Control of Aggression and
+the Impact on its Victims,’’ New York: Kluwer Academic/
+Plenum Publishers, pp 161–168.
+
+Arsenio WF. 1988. Children’s conceptions of the situational affective
+
+consequences of sociomoral events. Child Dev 58:1611–1622.
+
+Arsenio WF, Lemerise EA. 2001. Varieties of childhood bullying:
+Values, emotion processes and social competence. Soc Dev 10:
+59–73.
+
+Atlas RS, Pepler DJ. 1998. Observations of bullying in the
+
+classroom. J Educ Res 92:86–97.
+
+Bacchini D, Amodeo AL, Ciardi A, Valerio P, Vitelli R. 1998. La
+relazione vittima-prepotente: stabilita` del fenomeno e ricorso a
+meccanismi di disimpegno morale [Bully–victim relationship:
+Stability of the phenomenon and use of moral disengagement].
+Scienze dell’Interazione 5:29–46.
+
+Bandura A. 1986.
+
+‘‘Social Foundation of Thought and Action.
+A Social Cognitive Theory,’’ Englewood Cliffs, NJ: Prentice-
+Hall.
+
+Bandura A. 1990. Selective activation and disengagement of moral
+
+control. J Soc Issues 46:27–46.
+
+Bandura A. 1991. Social cognitive theory of moral thought and
+action. In: Kurtines WM, Gewirtz GL (eds):
+‘‘Handbook of
+Moral Behavior and Development: Theory, Research and
+Applications,’’ Vol. 1. Hillsdale, NJ: Erlbaum, pp 71–129.
+
+Bandura A. 2002. Selective moral disengagement in the exercise of
+
+moral agency. J Moral Educ 312:101–119.
+
+Bandura A, Barbaranelli C, Caprara GV, Pastorelli C. 1996.
+Mechanisms of moral disengagement in the exercise of moral
+agency. J Pers Soc Psychol 71:364–374.
+
+Bandura A, Caprara GV, Barbaranelli C, Pastorelli C, Regalia C.
+self-regulatory mechanisms governing
+
+2001. Sociocognitive
+transgressive behavior. J Pers Soc Psychol 801:125–135.
+
+Baumeister RF, Stillwell AM, Heatherton TF. 1994. Guilt: An
+
+interpersonal approach. Psychol Bull 115:243–267.
+
+Besag V. 1989. ‘‘Bullies and Victims in Schools,’’ Milton Keynes:
+
+Open University Press Milton.
+
+Bjo¨ rkqvist K, O¨ sterman K, Kaukiainen A. 2000. Social intelligen-
+
+ce–empathy 5 aggression? Aggr Violent Behav 52:191–200.
+
+Boulton M, Smith PK. 1994. Bully/victim problems in middle-school
+children: Stability, self-perceived competence, peer perceptions
+and peer acceptance. Br J Dev Psychol 12:315–329.
+
+Bybee J. 1998. ‘‘Guilt and Children,’’ San Diego: Academic Press.
+Caprara GV, Pastorelli C, Bandura A. 1995. La misura del
+disimpegno morale in eta` evolutiva [Measuring age differences
+in moral disengagement]. Eta` Evol 51:18–29.
+
+Caprara GV, Barbaranelli C, Vicino S, Bandura A. 1996. La misura
+del disimpegno morale [Measuring moral disengagement]. Rass
+Psicol 113:93–105.
+
+Champion K, Vernberg E, Shipman K. 2003. Nonbullying victims
+of bullies: Aggression, social skills, and friendship characteristics.
+J Appl Dev Psychol 245:535–551.
+
+Cowie H. 2000. Bystanding or standing by: Gender issues in coping
+
+with bullying in English schools. Aggr Behav 261:85–97.
+
+Cowie H, Naylor P, Talamelli L, Chauhan P, Smith PK. 2002.
+Knowledge, use and attitudes towards peer support. J Adoles-
+cence 25:453–467.
+
+Craig WM, Pepler DJ. 1997. Observations of bullying and
+
+victimization in the schoolyard. Can J School Psychol 2:41–60.
+
+Craig WM, Pepler DJ, Atlas R. 2000. Observations of bullying in the
+playground and in the classroom. School Psychol Int 21:22–36.
+
+Aggr. Behav. DOI 10.1002/ab
+
+538 Gini
+
+Cramer D. 1998.
+
+‘‘Fundamental Statistics for Social Research,’’
+
+London: Routledge.
+
+Crick NR, Dodge KA. 1994. A review and reformulation of social
+information-processing mechanisms in children’s social adjust-
+ment. Psychol Bull 115:74–101.
+
+Davis MH. 1983. Measuring individual differences in empathy:
+Evidence for a multidimensional approach. J Pers Soc Psychol
+441:113–126.
+
+Dodge K. 1980. Social cognition and children’s aggressive behavior.
+
+Child Dev 51:162–170.
+
+Dodge K, Frame CL. 1982. Social cognitive bias and deﬁcits in
+
+aggressive boys. Child Dev 53:620–635.
+
+Dodge K, Newman JP. 1981. Biased decision-making processes in
+
+aggressive boys. J Abnorm Psychol 90:375–379.
+
+Dodge K, Price JM. 1994. On the relation between social
+information processing and socially competent behavior in early
+school-aged children. Child Dev 65:1385–1397.
+
+Dodge KA, Somberg D. 1987. Hostile attributional biases are
+exacerbated under conditions of threat to the self. Child Dev 58:
+213–224.
+
+Dodge K, Bates J, Pettit G. 1990. Mechanisms in the cycle of
+
+violence. Science 250:1678–1683.
+
+Eisenberg N, Fabes R. 1998. Prosocial development. In: Damon W,
+Eisenberg N (eds): ‘‘Handbook of Child Psychology,’’ Vol. 3, 5th
+edition, New York: Wiley, pp 701–778.
+
+Gini G, Carli G. 2003. Il bullismo a scuola: analisi dei meccanismi di
+disimpegno morale in una prospettiva di gruppo [Bullying at
+school: Analysis of moral disengagement mechanisms in a group
+perspective]. Orientamenti Pedagogici. Riv Int Educ 50:303–314.
+Gini G, Albiero P, Benelli B. 2004. Relazioni tra bullismo, empatia,
+immagine di se` ed autoefﬁcacia percepita in un campione di
+adolescenti [Relations between bullying, empathy, self-image and
+self-efﬁcacy in adolescents]. Poster presented at the 18th National
+Conference of Developmental Psychology, Sciacca (AG), Italy.
+
+Happe` F. 1994. An advanced test of theory of mind: Understanding
+of story characters’
+thoughts and feelings by able autistic,
+mentally handicapped, and normal children and adults. J Autism
+Dev Disorders 24:129–154.
+
+Kaukiainen A, Bjo¨ rkqvist K, O¨ sterman K, Lagerspetz KMJ,
+Niskanen L. 1994. Social intelligence and the use of indirect
+aggression. Presented at
+the
+International Society for the Study of Behavioural Development,
+June 28–July 2, Amsterdam, The Netherlands.
+
+the XIII Biennal Meetings of
+
+Kaukiainen A, Bjo¨ rkqvist K, O¨ sterman K, Lagerspetz KMJ. 1996.
+Social intelligence and empathy as antecedents of different types
+of aggression. In: Ferris CF, Grisson T (eds): ‘‘Understanding
+Aggressive Behavior in Children,’’ Ann NY Acad Sci 794,
+pp 364–366.
+
+Kochenderfer BJ, Ladd G. 1997. Victimized children’s responses to
+peers aggression: Behaviors associated with reduced versus
+continued victimization. Dev Psychopathol 9:59–73.
+
+Mahady-Wilton MM, Craig WM, Pepler DJ. 2000. Emotional
+regulation and display in classroom victims of bullying:
+Characteristic expression of affect, coping styles and relevant
+contextual factors. Soc Dev 92:226–245.
+
+Mealey L. 1995. The sociobiology of sociopathy: An integrated
+
+evolutionary model. Behav Brain Sci 18:523–599.
+
+Menesini E, Gini G. 2000. Il bullismo come processo di gruppo:
+adattamento e validazione del questionario ‘‘Ruoli dei parteci-
+panti’’ alla popolazione italiana [Bullying as a group process:
+Adaptation and validation of the Participant Role Questionnaire
+to the Italian population]. Eta` Evol 66:18–32.
+
+Menesini E, Fonzi V, Vannucci M. 1997. Bullies and victims in Italy:
+Attitudes and moral disengagement. Paper presented at the 7th
+European Conference for Research on Learning and Instruction
+EARLI, Athens, 26–30 August 1997.
+
+Menesini E, Codecasa E, Benelli B, Cowie H. 2003a. Enhancing
+children’s responsibility to take action against bullying: Evalua-
+tion of a befriending intervention in Italian middle schools. Aggr
+Behav 291:10–14.
+
+Menesini E, Sanchez V, Fonzi A, Ortega R, Costabile A, Lo
+Feudo G. 2003b. Moral emotions and bullying: A cross-national
+comparison of differences between bullies, victims and outsiders.
+Aggr Behav 29:515–530.
+
+Nucci L. 2001.
+
+‘‘Education in the Moral Domain,’’ Cambridge:
+
+Cambridge University Press.
+
+Harpur TJ, Hakstian AR, Hare RD. 1988. Factor structure of the
+
+Olweus D. 1993. ‘‘Bullying at School. What we Know and What we
+
+psychopathy checklist. J Consult Clin Psychol 56:741–747.
+
+can do,’’ Oxford and Cambridge: Blackwell.
+
+Hart D, Burock D, London B, Atkins R. 2003. Prosocial tendencies,
+antisocial behavior, and moral development. In: Slater A,
+Bremner G (eds): ‘‘An Introduction to Developmental Psychol-
+ogy,’’ Malden, MA: Blackwell Publishers, pp 334–356.
+
+Pepler DJ, Craig WM. 1995. A peek behind the fence: Naturalistic
+observations of aggressive children with remote audiovisual
+recording. Dev Psychol 31:548–553.
+
+Perry DG, Kusel SJ, Perry LC. 1988. Victims of peer aggression. Dev
+
+Harvey RJ, Fletcher J, French DJ. 2001. Social reasoning: A source
+
+Psychol 24:807–814.
+
+of inﬂuence on aggression. Clin Psychol Rev 213:447–469.
+
+Hawley PH. 2003. Prosocial and coercive conﬁgurations of resource
+in early adolescence: A case for the well-adapted
+
+control
+machiavellian. Merrill Palmer Quart 49:279–309.
+
+Hazler RJ. 1996. ‘‘Breaking the Cycle of Violence: Interventions for
+Bullying and Victimization,’’ Washington, DC: Accelerated
+Development.
+
+Hodges EVE, Malone MJ, Perry DG. 1997. Individual risk and
+social risk as interacting determinants of victimization in the peer
+group. Dev Psychol 33:1032–1039.
+
+Hoffman ML. 1976. Empathy, role-taking, guilt, and development of
+altruistic motives. In: Likona T (ed.): ‘‘Moral Development and
+Behavior: Theory, Research, and Social Issues,’’ New York:
+Holt, Rinehart Winston, pp 124–143.
+
+Hoffman ML. 2000.
+
+‘‘Empathy and Moral Development,’’ New
+
+York, NY: Cambridge University Press.
+
+Huesmann LR, Guerra NG. 1997. Children’s normative beliefs
+about aggression and aggressive behavior. J Pers Soc Psychol 72:
+408–419.
+
+Quiles ZN, Bybee J. 1997. Chronic and predispositional guilt:
+Relations to mental health, prosocial behavior and religiosity.
+J Pers Assess 69:104–126.
+
+Randall P. 1997.
+
+‘‘Adult Bullying: Perpetrators and Victims.’’
+
+London: Routledge.
+
+Salmivalli C, Lagerspetz K, Bjo¨ rkqvist K, O¨ sterman K, Kaukiainen
+A. 1996. Bullying as a group process: Participant Roles and their
+relations to social status within the group. Aggr Behav 22:1–15.
+Salmivalli C, Huttunen A, Lagerspetz KM. 1997. Peer networks and
+
+bullying in schools. Scand J Psychol 38:305–312.
+
+Schwartz D. 2000. Subtypes of victims and aggressors in children’s
+
+peer groups. J Abnorm Child Psychol 28:181–192.
+
+Slee PT. 1993. Bullying: A preliminary investigation of the nature
+and effects on social cognition. Early Child Development and
+Care 87:47–57.
+
+Smetana JG. 1995. Morality in context: Abstractions, ambiguities
+and applications. In: Vasta R (ed.): ‘‘Annals of Child Develop-
+ment: A Research Annual,’’ Vol. 10. London: Jessica Kingsley,
+pp 83–130.
+
+Aggr. Behav. DOI 10.1002/ab
+
+Social Cognition in Bullying
+
+539
+
+Smith PK, Bowers L, Binney V, Cowie H. 1993. Relationships
+of children involved in bully/victim problems at school. In:
+Duck S (ed.): ‘‘Understanding Relationship processes. Vol. 2:
+Learning About Relationships,’’ Newbury Park, Ca: Sage,
+pp 184–212.
+
+Sutton J, Smith PK. 1999. Bullying as a group process: An adaptation
+
+of the Participant Role approach. Aggr Behav 25:97–111.
+
+Sutton J, Smith PK, Swettenham J. 1999a. Bullying and ‘‘theory of
+mind’’: A critique of the ‘‘social skills deﬁcit’’ view of anti-social
+behaviour. Soc Dev 8:117–134.
+
+Sutton J, Smith PK, Swettenham J. 1999b. Social cognition and
+bullying: Social inadequacy or skilled manipulation? Br J Dev
+Psychol 17:435–450.
+
+Sutton J, Smith PK, Swettenham J. 1999c. Socially undesirable needs
+not be incompetent: A response to Crick and Dodge. Soc Dev 8:
+132–134.
+
+Tagney JP. 1992. Situational determinants of shame and guilt in
+
+young adulthood. Pers Soc Psychol Bull 18:199–206.
+
+Turiel E. 1998. Moral development. In: Damon W, Eisenberg N
+(eds): ‘‘Handbook of Child Psychology: Vol. 3. Social, Emo-
+tional, and Personality Development,’’ 5th edition. New York:
+Wiley, pp 863–932.
+
+Whitney I, Smith PK. 1993. A survey of the nature and extent of
+bullying in junior/middle and secondary schools. Educ Res 35:3–25.
+Yadava A, Sharma NR, Gandhi A. 2001. Aggression and moral
+
+disengagement. J Pers Clin Stud 17:95–99.
+
+Aggr. Behav. DOI 10.1002/ab
+
+

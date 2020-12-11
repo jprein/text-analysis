@@ -1,0 +1,1403 @@
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+Developmental Science 12:5 (2009), pp 746–752
+
+DOI: 10.1111/j.1467-7687.2008.00813.x
+
+Blackwell Publishing Ltd
+
+PAPER
+Continuity in social cognition from infancy to childhood
+1
+Mariko Yamaguchi,
+ and 
+4
+Kristy vanMarle
+
+ Valerie A. Kuhlmeier,
+
+2
+
+3
+ Karen Wynn
+
+1. Department of Psychological & Brain Sciences, Johns Hopkins University, USA
+2. Department of Psychology, Queen’s University, Kingston, Canada
+3. Department of Psychology, Yale University, USA
+4. Department of Psychological Sciences, University of Missouri, USA
+
+Abstract
+
+Research examining the development of social cognition has largely been divided into two areas: infant perception of intentional
+agents, and preschoolers’ understanding of others’ mental states and beliefs (theory of mind). Many researchers have suggested
+that there is continuity in social cognitive development such that the abilities observed in infancy are related to later preschool
+ability, yet little empirical evidence exists for this claim. Here, we present preliminary evidence that capacities speciﬁc to the
+social domain contribute to performance in social cognition tasks both during infancy and in early childhood. Speciﬁcally, looking
+time patterns in an infant social cognition task correlated with preschool theory of mind; however, no such relationship was
+found for infants in a nonsocial cognition task.
+
+Introduction
+
+Historically,  the  study  of  the  development  of  the  mind
+has focused on domain-general structures and processes
+(e.g.  Piagetian  and  information  processing  theories).
+However, the last two decades have witnessed a growing
+interest  in  domain-speciﬁcity,  in  which  the  mind  is  rep-
+resented  as  a  group  of  specialized  systems  that  process
+and represent speciﬁc kinds of information (e.g. Caramazza
+& Shelton, 1998; Spelke, 1994; Wellman & Gelman, 1998),
+and that, in some cases, develop in a continuous fashion
+over  infancy  and  childhood  (e.g.  Carruthers,  2002).
+Perhaps owing to its ubiquitous importance throughout
+the lifespan, the domain of understanding the social world
+(i.e.  reasoning  about  animate  agents  and  their  actions,
+intentions,  beliefs,  and  desires)  is  often  explored  under
+this framework.
+
+One  particularly  prominent  example  is  research
+examining how infants and young children reason about
+social,  animate  entities,  and  importantly,  how  this  may
+differ  from  their  reasoning  about  nonsocial,  inanimate
+entities.  For  example,  infants  interpret  the  actions  of  a
+human and a machine differently, imitating the underly-
+ing  goals  of  the  former  but  not  the  latter  (Meltzoff,
+1995). Similarly, they will interpret the action of a hand
+in  terms  of  its  goal-directedness,  but  the  analogous
+motion of a stick in terms of its spatio-temporal path of
+motion  (Woodward,  1998).  Young  infants  even  appear
+to  differentially  apply  constraints  of  object  physics  to
+
+animate  and  inanimate  entities;  for  example,  they  more
+readily  apply  the  constraint  of  continuity  of  motion  to
+objects  than  to  humans  (Kuhlmeier,  Bloom  &  Wynn,
+2004).  These  distinctions  suggest  that  social  stimuli  are
+interpreted  and  represented  differently  from  nonsocial
+stimuli in the infant mind.
+
+Those  studying  slightly  older  children  (e.g.  3-  to  5-
+year-olds) similarly conclude that the cognitive processes
+underlying  appropriate  reasoning  about  the  social
+world may contain elements distinct to this domain. It is
+commonly  accepted  that  children,  like  adults,  interpret
+behaviour within an intentional and mentalistic construal,
+and this ‘Theory of Mind’ (ToM) explains actions in terms
+of  wants,  needs,  and  beliefs  (e.g.  Gopnik  &  Wellman,
+1994;  Leslie,  1994;  Wellman,  1990).  Arguments  for
+domain-speciﬁc elements in ToM come from a variety of
+sources, including, but not limited to, studies comparing
+performance on false photograph and false belief tasks
+(e.g. Sabbagh & Taylor, 2000; Slaughter, 1998) and studies
+of individuals with autism in which there is often a marked
+deficit in ToM independent of IQ level (e.g. Happe, 1995).
+This  leads  to  the  following  question:  are  the  social
+cognitive skills seen in infant research related to those seen
+later in childhood ToM? Many researchers have suggested
+continuity  in  social  cognitive  development,  and  current
+theories range from ones positing a hierarchy such that
+infant  abilities  subserve  and  form  the  basis  for  later
+childhood  abilities  (e.g.  Csibra  &  Gergely,  1998;  Leslie,
+1994; Meltzoff & Brooks, 2001; Olineck & Pulin-Dubois,
+
+Address for correspondence: Valerie Kuhlmeier, Department of Psychology, Queen’s University, 62 Arch St., Kingston, ON K7L 3N6, Canada; e-mail:
+vk4@queensu.ca
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK and 
+350 Main Street, Malden, MA 02148, USA.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+2005; Povinelli, 2001) to those implying that some infant
+abilities are not qualitatively different from those seen in
+childhood  (e.g.  Johnson,  2003;  Onishi  &  Baillargeon,
+2005).  Although  these  rich  theories  exist,  there  is  little
+research that directly examines continuity speciﬁc to the
+social domain.
+
+To date, infant-to-child developmental continuity has
+been demonstrated through relationships between infant
+cognitive  abilities  such  as  visual  recognition  memory,
+habituation,  attention,  and  object  permanence,  and
+later,  general  childhood  cognition  (e.g.  IQ,  language)
+(e.g. Bornstein & Sigman, 1986; Colombo, 1993; McCall
+& Carriger, 1993; Rose & Feldman, 1997; Rose, Feldman
+&  Jankowski,  2003,  2004).  While  these  previous  exami-
+nations factor into our current issue, they do not directly
+address domain-speciﬁcity. Instead, one approach to the
+current question is to look for a correlation between infant
+social task performance and later childhood ToM ability.
+For example, Wellman and colleagues (Wellman, Phillips,
+Dunphy-Lelii  &  LaLonde,  2004)  took  advantage  of  a
+post-hoc opportunity to examine a group of 4-year-olds
+who had previously participated in an infant task (at 12
+months) examining the ability to discern gaze direction
+and desire (Phillips, Wellman & Spelke, 2002). The 4-year-
+olds  were  given  a  scaled  battery  of  ToM  tasks,  and  a
+signiﬁcant  relationship  was  found  between  infant  look-
+ing  time  patterns  and  ToM  performance.  Speciﬁcally,
+infants who showed a larger looking time decrement in
+habituation trials performed better on the ToM battery.
+Importantly,  no  correlation  existed  between  the  infant
+looking time patterns and later verbal ability, suggesting
+some  speciﬁcity  in  the  relationship  between  infant  and
+childhood social cognition. Similar results were found by
+Wellman, Lopez-Duran, LaBounty and Hamilton (2008).
+The study by Wellman and colleagues (2004) serves as
+an  important  ﬁrst  step  in  examining  the  possible  rela-
+tionship  between  social  cognition  in  infancy  and  child-
+hood. Given the early stage of this research endeavour,
+the  present  study  aims  to  build  on  this  ﬁnding  by  pro-
+viding  another  demonstration  of  continuity  using  a
+different type of infant social task. In the present study,
+we examine whether this correlation across development
+holds for children who as infants participated in a task
+that  examined  their  ability  to  interpret  goal-directed
+behaviour based on past actions and underlying disposi-
+tional states (Kuhlmeier, Wynn & Bloom, 2003). In addi-
+tion,  our  study  provides  another  comparison  necessary
+to explore developmental continuity speciﬁc to the social
+domain:  the  relationship  between  infant  nonsocial
+cognitive ability and later childhood social competence.
+Speciﬁcally,  we  examine  the  relationship  between  pre-
+schoolers’ ToM performance and infants’ looking patterns
+in a nonsocial task examining their ability to discriminate
+temporal  durations  of  sounds.  Correlated  performance
+on  both  infant  tasks  and  ToM  would  indicate  that  we
+are  likely  only  tapping  into  individual  differences  in
+domain-general abilities. In contrast, if the social-cognitive
+abilities we see in infancy are related to childhood ToM
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+Continuity in social cognition 747
+
+by  shared  domain-speciﬁc  elements,  only  performance
+across the same domain should be related.
+
+Methods
+
+Participants
+
+Participants included 32 healthy 4-year-olds (mean age:
+4;9, range: 4;3 to 5;3) who had previously participated in
+either the Infant Social or Infant Nonsocial Task. There
+was  one  participant  who  had  participated  in  both  the
+Infant Social and the Infant Nonsocial Task.
+
+Infant social task
+
+Our  Infant  Social  Task  group  comprised  children  who
+had participated in Kuhlmeier, Wynn and Bloom (2003)
+as  infants.  In  that  study,  35  12-month-olds  participated
+in  a  habituation  procedure  examining  their  ability  to
+understand goal-directed actions and to interpret future
+actions based on previously observed behaviour. During
+habituation  trials,  infants  were  shown  movies  that
+depicted a computer-animated circle attempting to climb
+a  hill.  The  circle  was  either  helped  up  the  hill  by  one
+object (e.g. a triangle) or hindered and pushed down the
+hill by another (e.g. a square). After habituation, infants
+saw  two  test  movies  that  presented  the  same  three
+agents, but in a different context. Infants looked sig-
+niﬁcantly  longer  at  test  movies  in  which  the  circle
+approached  the  helpful  object  than  those  in  which  it
+approached  the  hindering  object,  indicating  that  they
+had  distinguished  between  the  helping  and  hindering
+agents during habituation and had speciﬁc expectations
+as  to  the  subsequent  actions  of  the  circle  in  relation  to
+them.  Kuhlmeier 
+  (2003)  conducted  two  similar
+experiments  in  this  study  (Experiments  1  and  2),  the
+second  experiment  serving  to  replicate  the  ﬁrst  under
+conditions in which the stimuli positions were reversed.
+Because there were no statistical differences between the
+two experiments, the participant groups were combined
+for subsequent recruiting for the preschool ToM task in
+the present study.
+
+et  al.
+
+et al.
+
+Of the 35 original participants in Kuhlmeier 
+
+ (2003),
+17  (10  from  Experiment  1  and  7  from  Experiment  2)
+returned for the ToM battery (mean age: 4;11, range: 4;5
+to 5;1). In the original study, on average infants looked
+signiﬁcantly  longer  at  the  ‘consistent’  test  events  by
+2.27s,  and  the  current  sample  showed  the  same  pattern
+with a difference value of 1.80s. The returning group did
+not differ signiﬁcantly from the original subject popula-
+tion (
+
+ = .56).
+
+t
+
+(50) = .58, 
+
+p
+
+Infant nonsocial task
+
+Children  in  the  Infant  Nonsocial  Task  group  were
+recruited  from  among  the  34  6-month-old  infants  who
+had  participated  in  a  duration  discrimination  study
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+748
+
+ 
+
+Mariko Yamaguchi 
+
+et al.
+
+1
+ In this study, the ability to
+(vanMarle & Wynn, 2006).
+discriminate lengths of tones at a ratio of 1:2 was exam-
+ined using a habituation paradigm. Two versions of the
+experiment (Experiments 1 and 3) were completed, using
+tone durations of 2s versus 4s, and .5s versus 1s, respec-
+tively. Across both experiments and all conditions, after
+habituation to one tone (e.g. 2s), infants looked signi-
+ﬁcantly  longer  after  the  novel  duration  (e.g.  4s)  as
+compared to the familiar duration (e.g. 2s). Again, there
+were no statistical differences between the two experiments,
+and  thus,  both  participant  groups  were  combined  for
+subsequent  recruiting  for  the  preschool  theory  of  mind
+task.
+
+Of the 34 original participants in vanMarle and Wynn
+(2006), 15 (7 from Experiment 1 and 8 from Experiment 3)
+returned for the ToM battery (mean age: 4;8, range: 4;3
+to 5;3). Infants in the original study looked signiﬁcantly
+longer  at  the  novel  temporal  duration  by  1.30s,  and  in
+the  current  sample,  the  average  was  1.72s.  Again,  the
+returning  group  did  not  differ  signiﬁcantly  from  the
+original subject population (
+
+(47) = .007, 
+t
+
+ = .99).
+
+p
+
+Procedure
+
+Following  Wellman  and  Liu  (2004),  the  ToM  battery
+included ﬁve tasks that ranged in difﬁculty and together
+evaluated children’s abilities to understand others’ knowledge
+states, desires, and emotions (Appendix 1). The tasks were
+administered  in  one  of  three  pseudo-random  orders,
+where the easiest task (Diverse Desires) was always the ﬁrst
+or second task, and the most difﬁcult task (Real–Apparent
+Emotion)  was  always  the  last  or  second  to  last  task.
+Each participant completed all ﬁve tasks. On the battery,
+a child could score 0 (no tasks correct) to 5 (all tasks correct).
+
+Measures for correlational analyses
+
+Infant test preference
+
+To measure the discrimination between the two types of
+test trials within each infant task, two kinds of preference
+scores  were  calculated.  The  ‘Simple  Preference  score’
+was  the  difference  between  average  looking  time  to  the
+overall preferred event (i.e. preferred by the majority of
+infants)  and  the  non-preferred  event.  Additionally,  we
+included  an  ‘Alternative  Preference  score’  as  suggested
+
+1
+ For reasons inherent to the theories underlying the individual infant
+studies that were used, the social cognition task was conducted at 12
+months and the nonsocial cognition task at 6 months. For the present
+study, there may be concern that conceivably there is a higher correla-
+tion  between  measures  taken  closer  in  age.  However,  previous  meta-
+analyses conclude that there are signiﬁcant correlations between infant
+looking time patterns in nonsocial tasks at as young as 2 months and
+later general cognitive competence at 6 years and older, and that these
+correlations  remain  relatively  stable  throughout  the  intervening  years
+(e.g. Bornstein & Sigman, 1986; McCall & Carriger, 1993; Rose, Feldman
+& Jankowski, 2004).
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+r
+
+by  Bornstein  and  Sigman  (1986)  and  Wellman 
+et  al.
+(2004, 2008), which is the proportion of time spent look-
+ing at the overall preferred event across all test trials: the
+preferred test trials divided by the sum of the preferred
+and non-preferred trials. The two test preference measures
+are  highly  correlated: 
+(17)  =  .94  for  the  Infant  Social
+Task and 
+(15) = .90 for the Infant Nonsocial Task. Here
+r
+we  include  both  measures  for  comparison  with  future
+studies;  the  Alternative  Preference  score  may  be  more
+appropriate than the Simple Preference for ‘preferential-
+looking’  experimental  designs  where  two  events/stimuli
+are  presented  simultaneously  and  looking  time  to  an
+individual  stimulus  is  considered  in  relation  to  total
+looking at all stimuli.
+
+Infant habituation decrement
+
+et  al.
+
+Similar  to  Wellman 
+  (2004,  2008)  and  following
+Bornstein  and  Sigman  (1986),  a  measure  of  decrement
+of  attention  during  habituation  was  generated  by  sub-
+tracting the sum of looking time for the last two habitu-
+ation  trials  from  the  sum  of  the  ﬁrst  two,  and  dividing
+by the sum of the ﬁrst two trials.
+
+Theory of mind performance
+
+The dependent measure of the preschool ToM task was
+a cumulative score (with a possible range from 0 to 5) of
+how many items were answered correctly.
+
+Results
+
+Child theory of mind performance
+
+M
+
+SD
+
+).
+
+2
+
+ = 3.41 (.91 
+
+Across  both  groups  (Infant  Social  Task  and  Infant
+Nonsocial Task), the ToM Battery scores ranged from 1
+to 5, 
+ Particularly important for the
+correlational analyses that follow, there was no signiﬁcant
+difference  between  the  two  groups  in  performance,
+(30) = .81, 
+); Infant
+t
+Nonsocial, 
+
+ (Infant Social, 
+ = 3.27 (.96 
+SD
+
+ = 3.53 (.87 
+
+M
+)).
+
+ns
+M
+
+SD
+
+Correlational analyses
+
+Test preference and theory of mind
+
+For the Infant Social group, looking preferences in test
+  =  .05
+(17)  =  .47, 
+correlated  with  ToM  performance: 
+p
+r
+for the Simple Preference score, and 
+(17) = .53, 
+ = .03
+r
+p
+for the Alternative Preference score. Speciﬁcally, greater
+
+2
+ We found that 63% of the children (20 of 32) followed the pattern of
+performance  that  ﬁts  the  Five-Item  Guttman  Scale  described  in
+Wellman and Liu (2004). In their meta-analysis, 80% of children ﬁt the
+pattern. The difference in performance in the present study may be due
+to the smaller sample size.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+Continuity in social cognition 749
+
+p
+
+analyses  using  this  variable.  Decrement  in  attention
+during  habituation  for  the  Infant  Social  group  was  not
+signiﬁcantly  correlated  with  ToM  performance, 
+(17)
+=  .33, 
+  =  .19.  However,  this  relationship  was  slightly
+stronger  than  that  between  the  Infant  Nonsocial  group
+ = .69 – though the
+and ToM performance – 
+p
+difference  was  not  statistically  signiﬁcant  (
+  =  .62,
+3
+ = .53).
+p
+
+(15) = .10, 
+r
+
+Diff
+
+z
+
+r
+
+Additional analyses
+
+The  Infant  Social  and  Nonsocial  samples  were  thus
+found  to  differ  in  terms  of  their  relationships  with
+childhood ToM. Two additional analyses were performed
+to ensure the validity of this ﬁnding. In order to be sure
+that our small samples were not being overly inﬂuenced
+by  any  ‘extreme’  members,  we  also  performed  the  cor-
+relation  analyses  for  test  preference  and  ToM  without
+including  one  participant  from  the  Infant  Social  Task
+and one from the Infant Nonsocial Task who were 2.31
+(Social Task) and 2.19 (Nonsocial Task) standard devi-
+ations  above  the  mean  for  their  group  in  the  Simple
+Preference score. Excluding these cases did not affect the
+pattern  of  results.  The  correlation  for  the  Infant  Social
+Task group remained signiﬁcant, and the Infant Nonsocial
+Task group remained nonsigniﬁcant: 
+ = .05
+for the Infant Social group and 
+ = .32 for
+the  Infant  Nonsocial  group.  No  such  extreme  scores
+existed in the Alternative Preference score.
+
+(16) = .49, 
+
+−
+.29, 
+
+(14) = 
+
+p
+
+p
+
+r
+
+r
+
+Additionally, the Infant Nonsocial group did not have
+a restriction of range relative to the Infant Social group.
+For the Simple Preference score, the Infant Social group
+had a range of 16.92s with an average of 1.60s (4.00 
+),
+and  the  Infant  Nonsocial  group  had  a  range  of  20.89s
+with  an  average  of  1.31s  (6.51 
+).  Similarly,  for  the
+Alternative Preference score, the Infant Social group had
+a range of .46 with an average of .55 (.12 
+), and the
+Infant Nonsocial group had a range of .54 with an aver-
+age of .51 (.16 
+). Thus, the correlation coefﬁcients for
+the  nonsocial  group  were  likely  not  artiﬁcially  reduced
+by limited variability in the dataset.
+
+SD
+
+SD
+
+SD
+
+SD
+
+Discussion
+
+The  present  study  joins  Wellman 
+Wellman 
+
+  (2004)  and
+ (2008) in the ﬁrst steps toward examining
+
+et  al.
+
+et al.
+
+3
+  The  correlation  between  the  Infant  Social  test  preference  and  ToM
+was  also  examined  with  habituation  decrement  partialled  out.  Since
+habituation decrements tend to be correlated with general intelligence
+(e.g.  Bornstein  &  Sigman,  1986),  it  is  possible  that  our  habituation
+values  index  domain-general  processing.  Thus,  this  analysis  offers  a
+means of examining whether the relationship between test preference
+and  ToM  stands  with  a  proxy  for  general  intelligence  controlled.
+The  correlation  remained  unchanged:  for  the  simple  preference  score
+(17) = .48, 
+(17) = .50,
+r
+r
+ = .05.
+p
+
+ = .06, and for the alternative preference score 
+p
+
+Figure 1 Alternative preference score and theory of mind 
+score (with best fit line) for (a) infant social task and (b) infant 
+nonsocial task.
+
+looking  time  differences  between  the  two  test  events
+during the Infant Social Task correlated with higher per-
+formance on the ToM battery. In contrast, this relationship
+(15)
+was  not  found  for  the  Infant  Nonsocial  group: 
+r
+−
+= 
+ = .73 for the Simple Preference score, and 
+.09, 
+(15)
+p
+r
+−
+= 
+.10, 
+  =  .69  for  the  Alternative  Preference  score
+p
+(Figure 1). That is, performance in the ﬁrst year of life
+on a social cognition task, but not a nonsocial cognition
+task, correlated signiﬁcantly with performance on a battery
+of theory of mind tasks at 4 years of age.
+
+Habituation decrement and theory of mind
+
+Given  that  the  Infant  Social  Task  can  be  characterized
+as  a  ‘difﬁcult’  task  (Kuhlmeier,  Wynn  &  Bloom,  2006),
+and that approximately one-third (35%) of the infants in
+the  present  sample  observed  the  maximum  number  of
+habituation  trials,  caution  is  advised  in  interpreting
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+750
+
+ 
+
+Mariko Yamaguchi 
+
+et al.
+
+continuity  within  social  cognition,  and  extends  the
+relationship  between  infant  social  cognition  and  later
+ToM  to  a  different  type  of  task.  Additionally,  we  have
+tentatively  demonstrated  that  this  relationship  may  be
+one speciﬁc to 
+ cognition. We will ﬁrst address some
+of the important aspects of the current study design and
+then discuss the implications of the results.
+
+social
+
+et  al.
+
+One difference between the present study and that of
+Wellman  and  colleagues  was  the  measures  for  which  a
+relationship  was  uncovered.  In  Wellman 
+  (2004),
+there was a signiﬁcant correlation between infant habitu-
+ation decrement and later ToM, but no such relationship
+between  test  discrimination  and  ToM.  In  the  present
+study, the opposite was true for the Infant Social Task.
+It is not surprising that differences would be found, given
+other differences in the infant tasks used in the two studies
+such as the available cues to agency and the behavioural
+traits  emphasized.  Indeed,  the  fact  that  relationships
+with  ToM  were  found  with  both  of  these  infant  social
+tasks – regardless of the differences in the stimuli used and
+precise social ability tapped – suggests that the relation-
+ship  with  ToM  may  be  one  that  is  speciﬁc  to  social
+tasks, yet perhaps not to one particular social-cognitive
+ability.
+
+The current examination of domain-speciﬁc continuity
+is not without limitations. Because the study was conducted
+post hoc, we were unable to control for various elements
+in the two infant tasks such as modality of presentation
+(mostly visual vs. mostly auditory) and age of the parti-
+cipants (12 months vs. 6 months). In addition, the social
+task  used  test  videos  that  diverge  from  a  traditional
+habituation  paradigm  in  which  the  ‘familiar’  test  trials
+are  exact  replicas  of  the  habituation  trials.  Instead,
+infants had to extract information from the habituation
+videos and then apply it to the new social scene depicted
+in  the  test  trials.  Future  examinations  would  preferably
+match  more  equally  the  social  and  nonsocial  tasks  to
+more precisely address this question of domain-speciﬁcity.
+There  are  of  course  likely  cognitive  processes  that
+support domain-speciﬁc abilities (e.g. memory and process-
+ing speed; see Rose & Feldman, 1997, for a discussion of
+the developmental continuity of these abilities in nonsocial
+tasks), and these may or may not cross domain boundaries.
+In  addition,  it  remains  unclear  which  factors  of  infant
+attention (see Colombo, 2001, 2002) are responsible for
+the individual differences that appear in the infant tasks.
+Analogously,  there  are  likely  concomitant  inﬂuences  of
+domain-general  cognitive  abilities  on  childhood  ToM.
+For example, many recent studies have reported a positive
+correlation  between  false  belief  task  performance  and
+executive  functioning  skills  such  as  response  inhibition
+and working memory (e.g. Carlson & Moses, 2001; Perner
+&  Lang,  1999;  Sabbagh,  Xu,  Carlson,  Moses  &  Lee,
+2005).
+
+While recognizing the limitations of the present com-
+parison, two implications are suggested from the current
+study.  First,  there  are  meaningful  individual  differences
+in  social  cognition  that  appear  early  and  are  develop-
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+4
+mentally stable, at least for the ﬁrst 4 to 5 years of life.
+Second, these may be domain-speciﬁc differences in rea-
+soning, in that they may not stem from domain-general
+attentional  or  cognitive  capacities  that  would  have  also
+affected performance on the Nonsocial infant task.
+
+et al.
+
+ (2003) or in Phillips 
+
+et al.
+
+speciﬁc
+
+precursors
+
+We will expand on this second point. The 
+
+ process
+or processes that lead to success on the infant task used
+in Kuhlmeier 
+ (2002) need
+not serve as 
+ for later success on the types of tasks
+in the ToM battery. Instead, it is possible that abilities used
+in the infant social tasks are part of the same domain of
+cognition used in the ToM tasks, and that some individuals
+are stronger ‘across the board’ in this domain than others.
+How might we characterize the early abilities within this
+domain?  Given  the  wealth  of  theoretical  and  empirical
+work on infant social cognition, there are many hypothesized
+candidate abilities that may bootstrap or develop into the
+abilities we see in childhood: detection of animacy cues (e.g.
+Baron-Cohen, 1995; Johnson, 2003; Leslie, 1994; Premack,
+1990), speciﬁc attention to relevant features of animates
+(e.g.  Klin,  Jones,  Shultz  &  Volkmar,  2003),  processes  of
+identiﬁcation and imitation (e.g. Meltzoff, 2002), parsing
+of  action  into  goal  ‘units’  (e.g.  Baldwin  &  Baird,  2001;
+Baldwin,  Baird,  Saylor  &  Clark,  2001),  detection  of  goal-
+directedness (e.g. Leslie, 1994; Woodward, 1998), detection
+of dispositional states (e.g. Kuhlmeier 
+, 2003; Song,
+Baillargeon  &  Fisher,  2005),  a  teleological  stance  (e.g.
+Csibra  &  Gergely,  1998;  Gergely,  Nàdasdy  &  Csibra,
+1995),  and  detection  of  gaze  and  gaze  following  (e.g.
+Baron-Cohen,  1995),  among  others.  Broadly,  we  might
+speak  of  these  as  an  interest  in  and  attention  to  the
+social world that may differ across infants and ultimately
+cause some to be more observant and learn more about
+the social world than others (Wellman 
+, 2004, 2008).
+At this point, the existent data demonstrate a possible
+relationship  between  infant  social  cognition  and  later
+theory  of  mind  skills  that  may  not  hold  for  infant
+nonsocial  cognition.  The  precise  abilities  that  underlie
+this potential continuity in social development have yet
+to be determined. To more fully examine this question,
+systematic  longitudinal  studies  would  be  required  in
+which  performance  on  multiple  social  and  nonsocial
+infant  tasks  is  compared  within  subjects  to  later  ToM
+performance, as well as tasks that tap into domain-general
+cognitive capacities such as IQ and working memory.
+
+et al.
+
+et al.
+
+4
+  We  do  not,  however,  recommend  that  any 
+  infant  social  task  be
+used as a diagnostic tool for predicting later ToM abilities. Infant looking
+times can be variable for reasons other than an overall understanding
+of the concept tested (e.g. fatigue, etc.). Additionally, as mentioned, the
+present infant task examined only some of likely many social cognitive
+abilities related to later ToM.
+
+one
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+Continuity in social cognition 751
+
+Appendix
+
+Descriptions for individual items in the theory of mind battery Wellman & Liu Scale (2004)
+
+Test name
+
+Description
+
+Diverse Desires
+Diverse Beliefs
+Knowledge Access
+Contents False Belief
+Real/Apparent Emotion
+
+Two people have diverging desires about the same objects.
+Two people have diverging beliefs about the same object (independent of truth).
+A person who has not looked inside a box cannot know what is inside.
+A person has incorrect beliefs about the contents of a previously unopened but distinctive box.
+A person can display an emotion that conﬂicts with or masks their true emotion.
+
+Acknowledgements
+
+We thank Mark Sabbagh, Henry Wellman, and two anony-
+mous reviewers for helpful comments on an earlier draft.
+We also thank Erik Cheries, George Newman, and Margot
+Campbell who assisted in the completion of testing. During
+this project, M. Yamaguchi was supported by a pre-doctoral
+fellowship  from  the  National  Science Foundation and
+V. Kuhlmeier was supported though the Canada Research
+Chairs program and operating grants from the Natural Sci-
+ences and Engineering Research Council of Canada and the
+Social Sciences and Humanities Research Council of Canada.
+
+References
+
+Baldwin, D.A., & Baird, J.A. (2001). Discerning intentions in
+  (4),
+
+, 
+Trends  in  Cognitive  Sciences
+
+5
+
+dynamic  human  action. 
+171–178.
+
+Baldwin,  D.A.,  Baird,  J.A.,  Saylor,  M.M.,  &  Clark,  M.A.
+,
+Child  Development
+
+(2001). Infants  parse  dynamic  action. 
+72
+
+ (3), 708–717.
+
+Baron-Cohen,  S.  (1995). 
+
+Mindblindness:  An  essay  on  autism
+
+and theory of mind
+
+. Cambridge, MA: MIT Press.
+
+development from infancy. 
+
+Bornstein, M.H., & Sigman, M.D. (1986). Continuity in mental
+, 251–274.
+Carlson, S.M., & Moses, L.J. (2001). Individual differences in
+Child
+
+inhibitory  control  and  children’s  theory  of  mind. 
+, 
+Development
+
+, 
+Child Development
+
+ (4), 1032–1053.
+
+57
+
+72
+
+Caramazza, A., & Shelton, J.R. (1998). Domain-speciﬁc  know-
+ledge systems in the brain: the animate–inanimate distinction.
+, 
+Journal of Cognitive Neuroscience
+
+ (1), 1–34.
+
+10
+
+Carruthers, P. (2002). The roots of scientiﬁc reasoning: infancy,
+modularity  and  the  art  of  tracking.  In  P.  Carruthers,  S.
+Stich,  &  M.  Siegal  (Eds.), 
+The  cognitive  basis  of  science
+(pp. 73–95). New York: Cambridge University Press.
+
+Colombo,  J.  (1993). 
+
+Infant  cognition:  Predicting  later  intellec-
+
+tual functioning
+
+. Newbury Park, CA: Sage Publications.
+
+Colombo,  J.  (2001).  The  development  of  visual  attention  in
+
+infancy. 
+
+, 
+Annual Review of Psychology
+
+52
+
+, 337–367.
+
+Colombo, J. (2002). Infant attention grows up: the emergence
+Cur-
+
+of a developmental cognitive neuroscience perspective. 
+ (6), 196–200.
+, 
+rent Directions in Psychological Science
+
+11
+
+Csibra,  G.,  &  Gergely,  G.  (1998).  The  teleological  origins  of
+mentalistic action explanations: a developmental hypothesis.
+, 
+Developmental Science
+
+ (2), 255–259.
+
+1
+
+Gergely,  G.,  Nàdasdy,  Z.,  &  Csibra,  G.  (1995).  Taking  the
+56  (2),
+
+intentional  stance  at  12  months  of  age. 
+165–193.
+
+Cognition
+
+, 
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+Gopnik, A., & Wellman, H. (1994). The ‘theory theory’. In L.
+Hirschﬁeld & S. Gelman (Eds.), Mapping the mind: Domain
+speciﬁcity in cognition and culture (pp. 257–293). New York:
+Cambridge University Press.
+
+Happe, F.G.E. (1995). The role of age and verbal ability in the
+theory  of  mind  task  performance  of  subjects  with  autism.
+Child Development, 66 (3), 843–855.
+
+Johnson, S.C. (2003). Detecting agents. Philosophical Transactions
+
+of the Royal Society B: Biological Sciences, 358, 549–559.
+
+Klin,  A.,  Jones,  W.,  Schultz,  R.,  &  Volkmar,  F.  (2003).  The
+enactive  mind,  or  from  actions  to  cognition:  lessons  from
+autism. In U. Frith & E. Hill (Eds.), Autism: Mind and brain
+(pp. 127–159). New York: Oxford University Press.
+
+Kuhlmeier, V.A., Bloom, P., & Wynn, K. (2004). Do 5-month-
+old  infants  see  humans  as  material  objects?  Cognition,  94,
+95–103.
+
+Kuhlmeier,  V.,  Wynn,  K.,  &  Bloom,  P.  (2003).  Attribution  of
+dispositional states by 12-month-olds. Psychological Science,
+14 (5), 402–408.
+
+Kuhlmeier,  V.A.,  Wynn,  K.,  &  Bloom,  P.  (2006).  Attribution
+of  dispositional  states  by  9-month-olds:  the  role  of  faces.
+Manuscript under review.
+
+Leslie, A.M. (1994). ToMM, ToBy, and agency: core architec-
+ture and domain speciﬁcity in cognition and culture. In L.A.
+Hirschfeld  &  S.A.  Gelman  (Eds.),  Mapping  the  mind:
+Domain  speciﬁcity  in  cognition  and  culture  (pp.  119–148).
+New York: Cambridge University Press.
+
+McCall,  R.B.,  &  Carriger,  M.S.  (1993).  A  meta-analysis  of
+infant habituation and recognition memory performance as
+predictors of later IQ. Child Development, 64, 57–79.
+
+Meltzoff, A.N. (1995). Understanding the intentions of others:
+re-enactment  of  intended  acts  by  18-month-old  children.
+Developmental Psychology, 31 (5), 838–850.
+
+Meltzoff, A.N. (2002). Imitation as a mechanism of social cog-
+nition: origins of empathy, theory of mind, and the represen-
+tation of action. In U. Goswami (Ed.), Blackwell handbook
+of childhood cognitive development (pp. 6–25). Malden, MA:
+Blackwell Publishing.
+
+Meltzoff,  A.N.,  &  Brooks,  R.  (2001).  ‘Like  me’  as  a  buildlng
+block for understanding other minds: bodily acts, attention,
+and  intention.  In  B.F.  Malle,  L.J.  Moses,  &  D.A.  Baldwin
+(Eds.),  Intentions  and  intentionality:  Foundations  of  social
+cognition (pp. 171–191). Cambridge, MA: The MIT Press.
+
+Olineck,  K.M.,  &  Poulin-Dubois,  D.  (2005).  Infants’  ability
+to  distinguish  between  intentional  and  accidental  actions  and
+its relation to internal state language. Infancy, 8 (1), 91–100.
+Onishi, K.H., & Baillargeon, R. (2005). Do 15-month-old infants
+
+understand false beliefs? Science, 308 (5719), 255–258.
+
+Perner, J., & Lang, B. (1999).  Development  of  theory  of  mind
+and  executive  control.  Trends  in  Cognitive  Sciences,  3  (9),
+337–344.
+
+752
+
+ Mariko Yamaguchi et al.
+
+Phillips, A.T., Wellman, H.M., & Spelke, E.S. (2002). Infants’
+ability  to  connect  gaze  and  emotional  expression  to  inten-
+tional action. Cognition, 85, 53–78.
+
+Povinelli,  D.J.  (2001).  On  the  possibilities  of  detecting  inten-
+tions  prior  to  understanding  them.  In  B.F.  Malle,  L.J.
+Moses, & D.A. Baldwin (Eds.), Intentions and intentionality:
+Foundations  of  social  cognition  (pp.  225–248).  Cambridge,
+MA: MIT Press.
+
+Premack,  D.  (1990).  The  infant’s  theory  of  self-propelled
+
+objects. Cognition, 36 (1), 1–16.
+
+Rose, S.A., & Feldman, J.F. (1997). Memory and speed: their
+role in the relation of infant information processing to later
+IQ. Child Development, 68 (4), 630–641.
+
+Rose,  S.A.,  Feldman,  J.F.,  &  Jankowski,  J.J.  (2003).  Infant
+visual  recognition  memory:  independent  contributions  of
+speed and attention. Developmental Psychology, 39, 563–571.
+Rose,  S.A.,  Feldman,  J.F.,  &  Jankowski,  J.J.  (2004).  Infant
+visual  recognition  memory. Developmental Review, 24, 74–
+100.
+
+Sabbagh, M.A., & Taylor, M. (2000). Neural correlates of the
+theory-of-mind  reasoning:  an  event-related  potential  study.
+Psychological Science, 11 (1), 46–50.
+
+Sabbagh, M.A., Xu, F., Carlson, S.M., Moses, L.J., & Lee, K.
+(2005).  The  development  of   executive  functioning  and
+theory of mind: a comparison of Chinese and US preschoolers.
+Psychological Science, 17 (1), 74–81.
+
+Slaughter, V. (1998). Children’s understanding of pictorial and
+mental representations. Child Development, 69 (2), 321–332.
+
+Song,  H.,  Baillargeon,  R.,  &  Fisher,  C.  (2005).  Can  infants
+attribute  to  an  agent  a  disposition  to  perform  a  particular
+action? Cognition, 98 (2), B45–B55.
+
+Spelke, E.S. (1994). Initial knowledge: six suggestions. Cogni-
+
+tion, 50 (1–3), 431–445.
+
+vanMarle, K., & Wynn, K. (2006). Six-month-old infants use
+analog  magnitudes  to  represent  duration.  Developmental
+Science, 9, F41–F49.
+
+Wellman, H.M. (1990). The child’s theory of mind. Cambridge,
+
+MA: MIT Press.
+
+Wellman, H.M., & Gelman, S.A. (1998). Knowledge acquisition
+in foundational domains. In W. Damon (Ed.), Handbook of
+child psychology: Volume 2: Cognition, perception, and language
+(pp. 523–573). Hoboken, NJ: John Wiley & Sons.
+
+Wellman, H.M., & Liu, D. (2004). Scaling of theory of mind
+
+tasks. Child Development, 75, 523–541.
+
+Wellman, H.M., Lopez-Duran, S., LaBounty, J., & Hamilton,
+B.  (2008).  Infant  attention  to  intentional  action  predicts
+preschool theory of mind. Developmental Psychology, 44 (2),
+618–623.
+
+Wellman,  H.M.,  Phillips,  A.T.,  Dunphy-Lilii,  S.,  &  LaLonde,
+N.  (2004).  Infant  social  attention  predicts  preschool  social
+cognition. Developmental Science, 7 (3), 283–288.
+
+Woodward,  A.L.  (1998).  Infants  selectively  encode  the  goal
+
+object of an actor’s reach. Cognition, 69, 1–34.
+
+Received: 27 October 2006 
+Accepted: 17 June 2008
+
+© 2009 The Authors. Journal compilation © 2009 Blackwell Publishing Ltd.
+
+

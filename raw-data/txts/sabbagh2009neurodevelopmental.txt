@@ -1,0 +1,1998 @@
+Child Development, July/August 2009, Volume 80, Number 4, Pages 1147–1162
+
+Neurodevelopmental Correlates of Theory of Mind in Preschool Children
+
+Mark A. Sabbagh, Lindsay C. Bowman, Lyndsay E. Evraire, and Jennie M. B. Ito
+
+Queen’s University at Kingston
+
+Baseline electroencephalogram (EEG) data were collected from twenty-nine 4-year-old children who also com-
+pleted batteries of representational theory-of-mind (RTM) tasks and executive functioning (EF) tasks. Neural
+sources of children’s EEG alpha (6–9 Hz) were estimated and analyzed to determine whether individual dif-
+ferences in regional EEG alpha activity predicted children’s RTM performance, while statistically controlling
+for children’s age and EF skills. Results showed that individual differences in EEG alpha activity localized to
+the dorsal medial prefrontal cortex (dMPFC) and the right temporal–parietal juncture (rTPJ) were positively
+associated with children’s RTM performance. These ﬁndings suggest that the maturation of dMPFC and rTPJ
+is a critical constituent of preschoolers’ explicit theory-of-mind development.
+
+is
+
+The facility with which we both create and negoti-
+ate our social worlds is owed in part to having
+a theory of mind—the understanding that people’s
+observable actions are motivated by internal men-
+tal states (e.g., beliefs, desires) that are related to,
+but ultimately distinct from, reality (Perner, 1991;
+Wellman, 1990). A key entailment of a mature
+theory-of-mind understanding
+that mental
+states—particularly epistemic mental states such as
+beliefs and knowledge—are person-speciﬁc repre-
+sentations of
+the world. This understanding is
+sometimes called a ‘‘representational’’
+theory of
+mind (RTM) and is typically indexed by a canonical
+battery of tasks, including the ‘‘false belief’’ task in
+which children are asked to predict how they or
+another would act on the basis of a belief that does
+not comport with reality (e.g., Perner, 1991). Recent
+research using looking-time paradigms has sug-
+gested that an implicit appreciation of RTM may
+be present in infants as young as 12 months old
+(e.g., Onishi & Baillargeon, 2005; Surian, Caldi, &
+Sperber, 2008). However, an explicit understanding
+of RTM seems to undergo a more protracted time
+
+We thank the families from the Kingston, Ontario community
+who graciously volunteered their participation. We also thank
+Phil Zelazo, Don Tucker, Nathan Fox, and Rebecca Saxe for help-
+ful advice and discussion of the methodology, statistical analy-
+ses, and interpretation of the data. This research was supported
+by a CFI New Opportunities award and NSERC Discovery Grant
+awarded to Sabbagh, and by NSERC undergraduate summer fel-
+lowships awarded to Bowman and Evraire. Bowman is now at
+University of Michigan, and Evraire is now at University of Wes-
+tern Ontario.
+
+Correspondence concerning this article should be addressed to
+Mark A. Sabbagh, Psychology Department, Queen’s University,
+Kingston, Ontario, Canada, K7L 3N6. Electronic mail may be
+sent to sabbagh@queensu.ca.
+
+course, emerging between the ages of 3 and 5 years
+old (Wellman, Cross, & Watson, 2001).
+
+The timetable of explicit RTM development is
+roughly the same across cultures; although there
+are some subtle and important variations, 3-year-
+olds typically fail RTM tasks whereas 5-year-olds
+show near-ceiling performance (Callaghan et al.,
+2005; Liu, Wellman, Tardif, & Sabbagh, 2008; Sab-
+bagh, Moses, & Shiverick, 2006). One known excep-
+tion to this stereotyped developmental timetable
+comes from autism, a neurodevelopmental disorder
+in which performance on marker tasks of explicit
+RTM development is particularly impaired (Baron-
+Cohen, 2001; Peterson, Wellman, & Liu, 2005).
+These ﬁndings of cross-cultural synchrony, com-
+bined with the relatively speciﬁc impairments seen
+in autism suggest that speciﬁc neuromaturational
+factors may be associated with explicit RTM devel-
+opment. The goal of this study was to gain an ini-
+tial characterization of
+the neurodevelopmental
+correlates of RTM in preschoolers.
+
+Electroencephalogram Measures of Neurocognitive
+
+Development
+
+Electrophysiological measures provide one of the
+most widely used and reliable windows on young
+children’s neurocognitive development. Of particu-
+lar interest has been developmental changes in the
+‘‘alpha band’’ (6–9 Hz) of children’s electroenceph-
+alogram (EEG). From infancy through the preschool
+
+Ó 2009, Copyright the Author(s)
+Journal Compilation Ó 2009, Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2009/8004-0015
+
+1148
+
+Sabbagh, Bowman, Evraire, and Ito
+
+years, alpha gradually becomes the highest ampli-
+tude resting rhythm over all regions of the scalp
+(Marshall, Bar-Haim, & Fox, 2002). Alongside the
+changes in alpha amplitude (power), there are also
+important regional changes in the EEG alpha coher-
+ence, a measure of the extent to which spectral EEG
+is correlated at any two electrode sites (Thatcher,
+1994; Thatcher, Walker, & Guidice, 1987), In gen-
+eral, increases in EEG coherence reﬂect increases in
+synchronized neural ﬁring either within or across
+neural populations (Nunez, 1995). When applied in
+the developmental context,
+increases in resting
+alpha coherence are generally thought to reﬂect
+functional, maturational changes in the organiza-
+tion of neurocognitive systems (Thatcher, 1992).
+
+Recent advances in EEG analysis have made it
+possible to use the cross-spectral matrix (essentially
+a matrix of all possible pairwise coherence measures
+within an EEG recording montage), to estimate the
+intracerebral sources of spectral EEG power. One
+such technique is standardized low-resolution elec-
+tromagnetic tomography (sLORETA) that computes
+current density throughout the solution space (6,237
+5 mm3 voxels within gray matter and hippocampus;
+Pascual-Marqui, 2002). The sLORETA method dis-
+tinguishes itself from some other source localization
+solutions such as brain electrical source analysis, in
+that it does not seek a ﬁxed number of sources of
+scalp activity; instead, it estimates the current den-
+sity at all points in the solution space. The general
+sLORETA technique has been used extensively and
+validated in event-related potential (ERP) studies
+(see Pascual-Marqui, Esslen, Kochi, & Lehmann,
+2002, for a review). More relevant to the present arti-
+cle, recent research with adults has used a version
+of the sLORETA method to show how group differ-
+ences in regional current density estimated from
+spectral EEG (including alpha) predicts aspects of
+cognitive and affective information processing (Piz-
+zagalli, Peccoralo, Davidson, & Cohen, 2006; Pizza-
+galli, Sherwood, Henriques, & Davidson, 2005).
+
+Because of
+
+the previously described relations
+between resting EEG alpha and functional neural
+development, we reasoned that regional increases
+in current density estimates can be taken to reﬂect
+increased synchronous activity within associated
+neural assemblies, which in turn can be attributed
+to
+processes
+(Thatcher, 1992). Thus,
+in the present study we
+sought to investigate the neurodevelopmental cor-
+relates of RTM development by examining the
+extent to which individual differences in preschool-
+ers’ regional sLORETA current density estimations
+(based upon resting EEG alpha activity) were posi-
+
+neurodevelopmental
+
+ongoing
+
+tively associated with their performance on a bat-
+tery of RTM tasks.
+
+Neurodevelopmental Bases of RTM Development:
+
+Predictions
+
+There is now a considerable body of literature
+investigating the neural bases of RTM reasoning in
+adults. An in-depth review of
+this literature is
+beyond the scope of this report. In brief, this litera-
+ture has identiﬁed several neural regions that are
+most consistently associated with the kind of RTM
+reasoning that children acquire during the pre-
+school year (e.g., false-belief reasoning), including
+the dorsal medial prefrontal cortex (dMPFC), the
+right and left temporal–parietal juncture (TPJ), and
+the precuneus (PC; Gallagher & Frith, 2003; Saxe,
+2006). Intriguingly, some recent research suggests
+that these same regions (along with some other
+regions) provide the neural substrates for RTM rea-
+soning in school-aged children (Kobayashi, Glover,
+& Temple, 2007). Accordingly, a straightforward
+developmental hypothesis
+that preschoolers’
+RTM development is associated with the functional
+maturation of these regions.
+
+is
+
+There are a couple of reasons, however, to ques-
+tion whether this straightforward hypothesis would
+bear out. First, and perhaps most fundamentally, it
+is not clear whether it is appropriate to assume that
+the functional neural specializations seen in expert
+adults (or older children) would be the same as
+those seen in preschoolers who are only acquiring
+an explicit RTM reasoning. Karmiloff-Smith (1997)
+noted that it is not possible to determine solely
+from research with adults whether observed con-
+tent-speciﬁc functional specializations are present
+from the outset of development or whether they are
+the outcome of a more protracted developmental
+process. A second related concern is that even if
+RTM reasoning is associated with generally homol-
+ogous regions in adults and children, it is possible
+that their contributions would not be as domain-
+speciﬁc in children as they appear to be in adults.
+These regions may perform more domain-general
+computations and their specialization for RTM rea-
+soning might emerge with development.
+
+While these concerns might apply broadly, they
+can currently be most well articulated with respect
+to the role that dMPFC might play in RTM devel-
+opment. A recent review suggests that medial
+frontal regions, extending into the dMPFC, are
+especially involved in some aspects of executive
+functioning (EF; Ridderinkhof, Ullsperger, Crone, &
+Nieuwenhuis, 2004). In particular, medial frontal
+
+2002). There
+
+are
+
+several
+
+reasons
+
+situations
+
+in which there
+
+is
+
+regions are recruited when people are required to
+negotiate
+either
+response conﬂict or decision uncertainty. What
+makes this particularly interesting from a develop-
+mental perspective is that there is now extensive
+evidence showing that response-conﬂict EF tasks
+are strongly associated with preschoolers’ RTM
+development (Carlson & Moses, 2001; Hala, Hug, &
+Henderson, 2003; Hughes, 1998; Perner, Lang, &
+Kloo,
+that
+response-conﬂict EF skills associated with medial
+frontal functioning might be intrinsically connected
+with children’s abilities to reason about RTM (see
+Moses, 2001, for a fuller treatment). In short, RTM
+tasks
+task
+demand of requiring children to inhibit their habit-
+ual tendency to refer to the true location of an
+object to reference the falsely believed location. Fur-
+thermore, once children are able to conceptualize
+that epistemic states can mismatch reality,
+they
+their usually correct strategy of
+have to inhibit
+assuming that epistemic states match reality. In any
+case, the fact that response-conﬂict EF and RTM are
+associated in development, and both are associated
+with medial prefrontal cortex, raises the possibility
+that the contribution of dMPFC to RTM develop-
+ment
+contribution to
+response-conﬂict EF.
+
+is mediated though its
+
+the methodological
+
+typically have
+
+Thus, in this ﬁrst investigation of the neurode-
+velopmental bases of preschoolers’ RTM reasoning,
+we included in our research design a battery of
+response-conﬂict EF tasks that are typically associ-
+ated with RTM development in preschoolers. This
+allowed us to statistically control for children’s EF
+skills and determine whether any potential associa-
+tion between current density in dMPFC and RTM
+development can be accounted for by a common
+association with EF in development.
+
+Method
+
+Participants
+
+Neurodevelopment and Theory of Mind
+
+1149
+
+at the time of the ﬁrst session. Parents reported that
+all participants were born within 2 weeks of their
+original due date, were developing typically, and
+had no history of neuropsychological disease or
+trauma.
+
+Our criteria for retaining participants were that
+they had to complete all of the focal tasks in the
+battery, and contribute at least 50 s of artifact-free
+EEG data for use in analyses. The EEG criterion is
+comparable with that used in previous child EEG
+studies (Fox, Rubin, Calkins, & Marshall, 1995). Of
+the initial 88 participants, 10 children were excluded
+because they failed to complete the behavioral
+battery. An additional 49 were excluded because
+they did not contribute sufﬁcient EEG data. To help
+explain why such a large number of children failed
+to contribute sufﬁcient EEG, we checked our records
+and found that of our ﬁrst 30 participants, 27 did
+not meet the EEG criterion. This high exclusion rate
+in the ﬁrst third of the study was likely attributable
+to our inexperience collecting EEG data with 4-year-
+old children. After the ﬁrst 30 participants, we were
+more successful on this front and were able to retain
+about half of all participants tested.
+
+Thus, the ﬁnal sample consisted of 29 children (9
+boys and 20 girls). Ages ranged from 48 to
+62 months (M = 54.00, SD = 3.70). The large num-
+ber of exclusions raised questions about whether
+our ﬁnal sample might show a selection bias,
+thereby limiting the generality of the ﬁndings. To
+address this possibility, we report following analy-
+ses comparing the included and excluded samples
+on the behavioral measures.
+
+Measures and Materials
+
+All of the behavioral tasks that we used in this
+study have been used several times in other stud-
+ies. Thus, here we provide only a brief description
+of each task and how it was scored for purposes of
+the present analyses.
+
+Eighty-eight
+
+typically developing 4-year-olds
+(range = 48–62 months, M = 53.57, SD = 3.71) were
+recruited to the study. Although no systematic
+demographic data were collected, participants were
+from a predominantly European Canadian, middle-
+class, and military background,
+reﬂecting the
+demographics of the region in southeast Ontario,
+Canada from which they were drawn. All children
+were tested in two laboratory visits. The two visits
+occurred within 2 weeks of each other. Participants’
+age in months was calculated from their birth date
+
+RTM Battery
+
+Knowledge access (Wellman & Liu, 2004). Children
+were shown a small wooden box and asked what
+they thought was inside it. After children took a
+guess, or responded that they did not know, they
+were shown that the box contained a toy elephant.
+Children were then asked if the puppet, ‘‘Tiger,’’
+knew what was inside the box given that he had
+never seen inside. Children passed the task if they
+answered that Tiger did not know what was inside
+the box (score = 0–1).
+
+1150
+
+Sabbagh, Bowman, Evraire, and Ito
+
+False belief: Contents (Gopnik & Astington, 1988). Chil-
+dren were shown a Smarties box and asked what
+they thought was inside. After children responded
+that they thought the box contained Smarties or
+chocolates, they were shown that the box contained
+crayons. Children were then asked what ‘‘Mickey
+Mouse’’ (a puppet) would think was inside the
+Smarties box given that Mickey had never seen
+inside the box. Children passed the task if they
+answered that Mickey would think the box con-
+tained Smarties (score = 0–1).
+
+False belief: Location (Wimmer & Perner, 1983). Children
+were shown a scenario in which one puppet,
+‘‘Heidi,’’ hid a plane under her bed, and then
+another puppet,
+‘‘Andy,’’ moved the plane from
+the bed to the toy box whereas Heidi was not
+looking. Children were then asked where Heidi
+would look for her plane. Children passed the task
+if they answered that Heidi would look for her
+plane under the bed where she left it (score = 0–1).
+Appearance–reality (Flavell, Green, & Flavell, 1986). Chil-
+dren were shown a sponge that was painted to look
+like a rock and asked what they thought it was.
+After children responded that they thought it was a
+rock, they were shown that it was a sponge. Child-
+ren were then asked again what the object looked
+like. Children passed the task if
+they correctly
+answered that it looked like a rock (score = 0–1).
+
+EF Battery
+
+Grass–snow Stroop (Carlson & Moses, 2001). Although
+grass is typically associated with the color green,
+and snow is typically associated with the color
+white, children were instructed to reverse these
+associations and point to a green card when the
+experimenter said ‘‘snow’’ and to a white card
+when the experimenter said ‘‘grass.’’ The ﬁnal score
+was
+correct
+responses over 16 trials. Sometimes children made
+multiple responses on a single trial, but only their
+ﬁrst responses were scored.
+
+the proportion
+
+(percentage)
+
+of
+
+Bear–dragon (Reed, Pien, & Rothbart, 1984). Children
+were instructed to follow the commands given by a
+bear puppet (e.g., ‘‘touch your nose’’) but to ignore
+any commands from a dragon puppet. All com-
+mands required hand actions only. On the ‘‘dragon
+trials,’’ children received a score of 0 if they fully
+complied to the dragon’s command, a score of 1 if
+they performed a partial movement in response to
+the dragon’s command, a score of 2 if they per-
+formed a movement that did not correspond to the
+dragon’s command, a score of 3 if they did not
+respond to the dragon’s command but used a strat-
+
+egy to help them avoid compliance (such as saying
+‘‘no’’ to the dragon or sitting on their hands), and a
+score of 4 if they did not move at all in response to
+the dragon’s command and did not use any strat-
+egy (range = 0–20).
+
+Dimensional-change card sort (Zelazo, 2006). Chil-
+dren were instructed to sort cards that varied on
+two dimensions: (a) color (red and blue) and (b)
+shape (boats and rabbits). First, children were
+instructed to sort the cards according to shape (i.e.,
+boats in one basket, rabbits in the other). Then, they
+were asked to switch and sort the cards according
+to color (i.e., red in one basket, blue in the other).
+Children were given a score based on the number
+of postswitch sorts that clearly demonstrated they
+were sorting based on the second dimension (i.e.,
+color; range = 0–3).
+
+Less is more (Carlson, Davis, & Leach, 2005). Children
+were shown two trays: one containing a large
+amount of candy (i.e., ﬁve jelly beans) and one con-
+taining a small amount of candy (i.e., two jelly
+beans). Children were told that when they pointed
+to a tray, the candy in that tray would go into
+‘‘Naughty Monkey’s’’ cup, and they would get the
+candy in the other tray to put in their cup. Children
+received a score of 0 if they pointed to the tray with
+the larger amount, a score of 1 if they pointed
+directly to the smaller amount. Scores were
+summed across 16 consecutive trials (range = 0–16).
+
+EEG Recording
+
+Rocket ship–spiral line video. During EEG record-
+ing, participants watched a 6-min video that had
+two components: (a) a still picture of a rocket ship
+and (b) an animation of a green line that mapped
+out a spiral (alternating expanding and contracting
+spirals with each presentation). The rocket ship and
+spiraling line components were each 30 s in length
+and were each presented six times, in alternation.
+The video began with an expanding spiraling line
+clip. Because it is difﬁcult for preschoolers to sit
+still, the alternating video allowed us to instruct
+children that it was okay to move a little during the
+spiraling line segments, but to do their best to stay
+still while the picture of the rocket ship was on the
+screen. This method was adopted from previous
+research (Fox et al., 1995) and is the most well-
+established protocol for collecting baseline or rest-
+ing EEG alpha with preschoolers.
+
+EEG acquisition and analysis. Electroencephalogram
+was recorded from the scalp with a 128-channel
+Geodesic Sensor Net (EGI, Eugene, OR). The net
+consisted of 128 carbon-ﬁber electrodes knitted into
+
+an elastic geodesic tension structure that when
+applied, distributed electrodes evenly over
+the
+scalp. Each electrode was positioned relative to the
+vertex electrode in a geodesic montage that
+stretches around the sphere of the head. Before
+application, the net soaked for 5 min in a mild elec-
+trolyte solution to aid conductance.
+
+Electroencephalogram activity at all channels
+was recorded referenced to the vertex electrode
+(Cz), sampled at 500 Hz, and digitally ﬁltered
+between 0.01 and 200 Hz (time constant = 1 s). EEG
+was recorded continuously throughout the video,
+and any necessary electrode readjustments were
+made during sections of the video for which no
+data analyses were planned.
+Impedances were
+maintained below 30 kX throughout recording.
+
+threshold = ±50 lV in 100 ms,
+
+The raw EEG recordings were ﬁltered (60-Hz
+notch) and edited to include only recordings
+that were made while participants quietly viewed
+the still photograph of
+the rocket ship. These
+data were then further divided into smaller 2-s
+segments, which were in turn submitted to a soft-
+ware algorithmic artifact rejection program (Vision
+Analyzer; Brain Vision GMBH, Gilching, Germany)
+that combed the data for evidence of artifact (gradi-
+ent
+amplitude
+threshold = ±200 lV, global maximum difference
+threshold = ±300 lV). Hand-coding of 25% of the
+EEG records conﬁrmed that these criteria reliably
+identiﬁed artifact due to blink, eye movement, and
+participant movement. Segments that contained
+artifact were removed from further analyses. Only
+participants who contributed at least 25 good seg-
+ments of EEG (i.e., 50 s of data) were considered
+for analysis. The artifact-free EEG segments were
+then transformed to average reference to ensure
+accurate source-localization.
+
+Cross-spectral matrices were created for
+
+the
+single-subject average-referenced data in 0.5-Hz
+frequency intervals from 5.5 to 9.5 Hz,
+thereby
+ensuring we captured activity in the preschoolers’
+alpha band (i.e., 6–9 Hz). The nine resulting cross-
+spectral matrices were then used to compute
+three-dimensional distributions of the standardized
+current density using standardized estimates of the
+minimum norm inverse solution as applied by sLO-
+RETA (see Pascual-Marqui, 2002,
+for details).
+The sLORETA transformation results in activation
+values for 6,237 ‘‘voxels’’ (5 mm3) located within
+cortical gray matter and hippocampus, as deﬁned
+by the Probability Atlas from the Montreal Neuro-
+logical Institute. Preliminary analyses showed that
+participants’ sLORETA current density estimations
+across the nine frequency bins were highly inter-
+
+Neurodevelopment and Theory of Mind
+
+1151
+
+correlated at all voxels (Cronbach’s a = .88–.99,
+M = 0.95), and so the sLORETA activation values
+were collapsed across the nine frequency bins to
+create a ﬁnal reliable measure of
+the regional
+current-source activation values in the 6–9 Hz
+(alpha) band at each voxel for each participant.
+
+Procedure
+
+This study was part of a larger investigation of
+the neurodevelopmental correlates of children’s
+social-cognitive development, and thus, in addition
+to the RTM and EF batteries described above, the
+larger study included a number of additional tasks
+that were not analyzed in this study. Most promi-
+nently, there were a number of behavioral measures
+of children’s pretend play including two structured
+role playing activities, two versions of the ‘‘Moe’’
+task (Lillard, 1993), a self-pretense task (Mitchell &
+Neal, 2005), and a measure of children’s narrative
+absorption (Rall & Harris, 2000). We also included
+two tasks that are considered precursors to RTM
+understanding, including children’s understanding
+of diverse desires and diverse beliefs (Wellman &
+Liu, 2004). Finally, we included a standard measure
+of children’s vocabulary development (PPVT–III;
+Dunn & Dunn, 1997). Given the number of
+behavioral measures, children were asked to visit
+an on-campus laboratory for two sessions. We fol-
+lowed standard practice for individual differences
+studies and administered the tasks in a ﬁxed order
+to all participants (see Carlson & Moses, 2001).
+
+Session 1
+
+After obtaining informed consent, we recorded
+electrophysiological data (EEG) from the scalp using
+the presoaked sensor net. Participants sat in a stable
+chair while an experimenter applied the net and
+adjusted it to ensure correct placement and good
+contact between the electrodes and the scalp. The
+ﬁnal net placement was photographed and later
+examined to verify that net placement was correct at
+the outset of the session. Participants were then
+given the instructions for watching the video
+described above, the lights were dimmed for opti-
+mal video viewing, and EEG recording began. Par-
+ents were allowed to remain in the room with their
+child during recording, and both parent and child
+were asked to be as quiet as possible throughout the
+procedure. Net placement, adjustment, instructions,
+and recording took approximately 20–25 min.
+
+After EEG recording, the experimenter removed
+the net, and participants moved to a different room
+
+1152
+
+Sabbagh, Bowman, Evraire, and Ito
+
+for behavioral testing. For the ﬁrst session, behavioral
+tasks were administered in the following order: (a)
+false belief: contents, (b) diverse desires, (c) diverse
+beliefs, (d) knowledge access, (e) grass–snow, (f)
+role-play activity, (g) narrative task, and (h) Moe
+task.
+
+Session 2
+
+Only behavioral data were collected in Session 2.
+After obtaining informed consent, participants were
+tested with a single experimenter in the same room
+as Session 1. The tasks were administered in the
+following order: (a) bear–dragon, (b) false belief:
+location, (c) card sort, (d) appearance-reality, (e)
+role play activity, (f) self-pretense, (g) Moe task, (h)
+less is more, and (i) PPVT. Session 2 took approxi-
+mately 45 min.
+
+Results
+
+Behavioral Data
+
+For
+
+the RTM battery, preliminary analyses
+showed that performance was in line with previous
+research that has used these tasks (see Table 1).
+Scale reliability analyses showed that the RTM bat-
+tery had moderate internal consistency (a = .623),
+which is also comparable with theory-of-mind bat-
+teries used in previous research. Children’s perfor-
+mance on the ﬁnal battery was associated with
+children’s age in months, r(27) = .444, p = .016.
+
+For the EF battery, preliminary analyses revealed
+ceiling level performance and low battery correla-
+tion for the bear–dragon task. Upon closer inspec-
+tion of the preschool EF literature, we discovered
+
+that very strong performance on bear–dragon is
+common for children in this age group (see Carlson,
+2005), and so we omitted it from the task battery.
+Thus, our EF battery was composed of the three
+remaining tasks: grass–snow, card sort, and less is
+more. This battery also showed moderate internal
+consistency (a = .554), but was not signiﬁcantly
+associated with children’s age, r(28) = .113, p = .559.
+The results for each of the behavioral tasks from
+the ﬁnal RTM and EF batteries are presented in
+Table 1, along with statistical comparisons of the
+groups who were included in the ﬁnal EEG analyses
+versus those who were excluded. Apparent from
+these analyses was that the included and excluded
+groups differed signiﬁcantly on only one task—that
+is, children in the EEG excluded group performed
+better on the knowledge access task than did children
+who were included in the ﬁnal sample. The overall
+parity between the included and excluded groups
+was most powerfully demonstrated in the compari-
+son of children’s performance on the battery aggre-
+gates, which were nearly identical across groups.
+These ﬁndings provide some conﬁdence that there
+was nothing particularly special about the included
+versus excluded group, and thus strengthen our abil-
+ity to generalize from our ﬁndings.
+
+For the ﬁnal sample, children’s performance
+on the RTM battery was highly correlated with
+their performance on the EF battery, r(27) = .575,
+p = .001, and this relation was unaffected by statisti-
+cally controlling for age, r(26) = .590, p = .001.
+
+sLORETA Analyses
+
+Our main goal in these analyses was to deter-
+mine whether individual differences in regional
+
+Table 1
+Children’s Performance on the Theory-of-Mind (ToM) and Executive Functioning (EF) Batteries
+
+ToM tasksa
+
+Knowledge access
+False belief: contents
+False belief: location
+Appearance–reality
+Battery (mean total of 4)
+
+EF tasksb
+
+Grass–snow
+Card sort
+Less is more
+Battery (mean of 3, with SD)
+
+Included (n = 29)
+
+Excluded (n = 49)
+
+Test of difference
+
+72.4%
+37.9%
+72.4%
+69.0%
+2.55 (1.30)
+
+78.22% (27.67)
+72.41% (42.79)
+79.96% (27.11)
+79.91% (22.09)
+
+94.0%
+52.0%
+66.0%
+66.0%
+2.76 (1.11)
+
+78.68% (25.53)
+72.67% (42.16)
+77.62% (25.71)
+75.84% (22.89)
+
+v2(1) = 8.27, p = .004
+v2(1) = 1.51, p = .219
+v2(1) = 0.36, p = .547
+v2(1) = 0.07, p = .785
+t(76) = 0.734, p = .465
+
+t(76) = 0.07, p = .944
+t(76) = 0.02, p = .984
+t(76) = 0.38, p = .705
+t(76) = 0.768, p = .445
+
+aFigures in this category represent percent passing each task. bFigures in this category represent mean percent trials correct (with
+standard deviation) on each task.
+
+current-source
+estimations predicted children’s
+performance on the RTM battery while controlling
+for children’s age and performance on the EF bat-
+tery. Preliminary inspection of the sLORETA data
+showed that activation values were positively
+skewed, and so were submitted to a natural log (ln)
+transformation prior to the focal analyses. All anal-
+yses were
+conducted using purpose-designed
+scripts that called functions from the general and
+statistics toolboxes of MATLAB (The MathWorks,
+Natick, MA).
+
+Whole Brain Analyses
+
+Our analytical approach was to perform voxel-
+wise partial correlations measuring the relationship
+between sLORETA activation values and children’s
+RTM performance while statistically controlling
+children’s age and EF performance. To establish a
+signiﬁcance criterion for the whole brain analyses,
+we conducted a permutation test in which 2,000
+random permutations of the behavioral data were
+submitted to the partial correlation analyses with
+the sLORETA activation values. Results of
+this
+showed that voxel-wise tests with a relatively leni-
+ent p-value criterion (p < .01), combined with a
+cluster-size criterion of 20 contiguous voxels was
+associated with an acceptable family-wise alpha
+level (p < .05).
+
+Using these criteria, we identiﬁed ﬁve regions
+at which current-source density was positively asso-
+ciated with performance on the RTM tasks (see
+Table 2). The strongest associations were located
+within the dMPFC and the right TPJ (rTPJ) (see
+Figure 1). Three additional clusters also met the
+signiﬁcance criteria (see Figure 2). One cluster was
+located in motor and premotor cortex, and the
+correlation with RTM performance was strongest in
+the precentral gyrus. A second cluster was within
+
+Neurodevelopment and Theory of Mind
+
+1153
+
+regions, and the
+
+middle occipital
+correlation
+with RTM was maximal at the cuneus. The third clus-
+ter included posterior inferior temporal regions and
+fusiform gyrus, but the correlation with RTM was
+maximal at the posterior inferior temporal gyrus.
+
+To further characterize these effects, we averaged
+across the signiﬁcant voxels in each region to create
+one aggregate measure of activity in each region for
+each subject. Each of these aggregates were strongly
+correlated with RTM reasoning, with age and EF
+performance statistically controlled (see Table 2).
+Furthermore, the aggregates showed were largely
+intercorrelated—only dMPFC and rTPJ did not
+show a signiﬁcant correlation with one another (see
+Table 3). Because of the high degree of intercorrela-
+tion among the aggregates, we conducted a stepwise
+regression to determine the most parsimonious
+model of the relation between regional current den-
+sity and RTM performance. For this analysis, age
+and EF were entered in the ﬁrst block, and the aggre-
+gate current density estimations were added step-
+wise in the second block. Age and EF performance
+each signiﬁcantly predicted RTM reasoning in the
+2 = .436.
+ﬁrst block, F(2, 26) = 11.825, p < .001, Radj
+The stepwise analysis of current-source density
+aggregates showed that adding aggregates from the
+dMPFC and rTPJ made a signiﬁcant unique contri-
+bution, DR2 = .235, Fchange(2, 24) = 10.315, p = .001.
+The ﬁnal model (see Table 4) including age, EF per-
+formance
+aggregates
+explained 67.1% of the variance in RTM reasoning,
+F(4, 24) = 15.306, p < .001. The additional regions
+(e.g., cuneus, inferior temporal, and precentral) were
+excluded from the model in the stepwise analysis
+because they did not explain unique variance in
+RTM reasoning, thereby suggesting that the contri-
+bution of
+those other regions could be largely
+accounted for by their associations with either
+dMPFC or rTPJ.
+
+and dMPFC and rTPJ
+
+Table 2
+Brain Regions in Which sLORETA Current Density Estimates Predicted Theory-of-Mind Performance
+
+Region (MNI coordinates
+of max. r)
+
+dMPFC (5, 55, 40)
+rTPJ (55, )55, 30)
+Precentral gyrus (50, )15, 45)
+Cuneus (20, )95, 15)
+Inferior temporal (50, )70, )5)
+
+L ⁄ R
+
+L ⁄ R
+R
+R
+R
+R
+
+Included BAs
+
+8 ⁄ 9
+40
+3 ⁄ 4 ⁄ 6
+17 ⁄ 18 ⁄ 19
+19 ⁄ 37
+
+k
+
+44
+35
+30
+33
+28
+
+Max. rpartial
+
+df = 25
+
+Agg. rpartial
+
+df = 25
+
+.585**
+.552**
+.526**
+.525**
+.511**
+
+.580**
+.537**
+.521**
+.529**
+.513**
+
+Note. sLORETA = standardized low-resolution electromagnetic tomography; BA = Brodmann area; dMPFC = dorsal medial prefrontal
+cortex; rTPJ = right temporal–parietal juncture.
+**p < .01.
+
+1154
+
+Sabbagh, Bowman, Evraire, and Ito
+
+(a)
+
+(b)
+
+Figure 1. Thresholded statistical map and scatterplot of partial correlations measuring the relation between RTM reasoning and
+sLORETA estimates of current density at (a) dMPFC and (b) rTPJ. Only signiﬁcant voxels (p < .01) are shown (in white). Voxels in all
+ﬁgures are shown projected onto a template structural MRI to illustrate their neuroanatomical locations.
+Note. RTM = representational theory of mind; sLORETA = standardized low-resolution electromagnetic tomography; dMPFC = dorsal
+medial prefrontal cortex; rTPJ = right temporal–parietal juncture; MRI = magnetic resonance imaging.
+
+(a)
+
+(b)
+
+(c)
+
+Figure 2. Additional regions that contained clusters of voxels showing signiﬁcant relations between sLORETA estimates of current
+density and RTM reasoning. Only signiﬁcant voxels (p < .01) are shown (in white).
+Note. sLORETA = standardized low-resolution electromagnetic tomography; RTM = representational theory of mind.
+
+Dorsal Medial Prefrontal Cortex and Right Temporal–
+Parietal Juncture
+
+Of the regions identiﬁed in the whole-brain anal-
+yses, the dMPFC and rTPJ have been most consis-
+tently implicated in several adult and school-aged
+
+children’s theory-of-mind reasoning. Thus, we con-
+ducted further analyses to determine whether the
+regions we identiﬁed were essentially homologous
+with those shown in previous research. We began
+by deﬁning regions of interest in the dMPFC and
+rTPJ as 2-cm-diameter sphere drawn around the
+
+Table 3
+Partial Correlations Between Cluster Aggregates Identiﬁed in Whole-
+Brain Analysis (Controlling for Age and EF)
+
+Variable
+
+Inferior Temp.
+
+dMPFC
+
+rTPJ
+
+Precentral
+
+Cuneus
+Inferior Temp.
+dMPFC
+rTPJ
+
+.905
+
+.418
+.389
+
+.757
+.779
+.366
+
+.596
+.662
+.549
+.746
+
+Note. EF = executive
+prefrontal cortex; rTPJ = right temporal–parietal juncture.
+
+functioning; dMPFC = dorsal medial
+
+Table 4
+Regression Coefﬁcients for Final Model Predicting RTM Development
+From Age, Executive Functioning, and Current-Source Density
+
+Variable
+
+Standarized b
+
+t value
+
+p value
+
+Age
+Executive functioning
+dMPFC aggregate
+rTPJ aggregate
+
+.321
+.574
+.317
+.292
+
+2.903
+4.994
+2.707
+2.402
+
+.008
+<.001
+.012
+.024
+
+Note. RTM = representational theory of mind; dMPFC = dorsal
+medial prefrontal cortex; rTPJ = right temporal–parietal juncture.
+
+average reported MNI coordinates for each area
+showing peak activation in recent theory-of-mind
+studies (dMPFC: 9, 54, 36, rounded to 10, 55, 35 to
+match our resolution 5 mm3; rTPJ: 56, )54, 19,
+rounded to 55, )55, 20). This procedure resulted in a
+32-voxel region of interest for dMPFC, and a 21-
+
+Neurodevelopment and Theory of Mind
+
+1155
+
+voxel region in the rTPJ. The reason for the differ-
+ence in the number of voxels included in each region
+is that the rTPJ has less cortical gray matter than the
+dMPFC region. We then statistically compared the
+clusters we identiﬁed with these regions of interest.
+The results of this analysis are summarized in Fig-
+ure 3. Descriptively speaking, 22 ⁄ 32 (68.8%) voxels
+in the dMPFC and 12 ⁄ 21 (57.1%) voxels included in
+the region of interest overlapped with the activation
+cluster we identiﬁed in the whole-brain analysis. In
+the dMPFC, our cluster extended to slightly more
+inferior regions. For the rTPJ, our cluster included
+voxels that were slightly superior and posterior to
+the region of interest, and did not extend to more
+inferior regions. Although we did not achieve com-
+plete overlap, permutation tests (2,000 iterations)
+showed that this degree of overlap is an extremely
+rare result by chance in both the dMPFC and the
+rTPJ (both p £ .0005). This suggests that the dMPFC
+and rTPJ regions in which current-source density
+was positively correlated with RTM performance
+were likely homologous with those that have been
+shown to be active during RTM reasoning in adults.
+
+Discussion
+
+Our main ﬁnding was that individual differences in
+estimated current density attributed to the dMPFC
+
+(a)
+
+(b)
+
+Figure 3. Overlap between observed results and predicted regions of interest in (a) dMPFC and (b) rTPJ.
+Note. dMPFC = dorsal medial prefrontal cortex; rTPJ = right temporal–parietal juncture.
+
+1156
+
+Sabbagh, Bowman, Evraire, and Ito
+
+and rTPJ were positively associated with preschool
+children’s performance on a battery of RTM tasks. In
+addition to these regions, we found some evidence
+that individual differences in postcentral gyrus, cun-
+eus, and posterior inferior temporal regions also
+positively predicted RTM performance. We will dis-
+cuss each of these ﬁndings in turn and discuss some
+implications and limitations of this study.
+
+Dorsal Medial Prefrontal Cortex
+
+The region of dMPFC that we found was criti-
+cally associated with RTM performance in children
+is similar to the regions that have been associated
+with RTM reasoning in functional magnetic reso-
+nance imaging with adults and school-aged chil-
+dren. From the outset, we questioned whether any
+possible contributions of dMPFC to RTM develop-
+ment could be accounted for by the role that
+dMPFC might play in negotiating response conﬂict.
+On this question, we showed that current density
+attributable to dMPFC was related to RTM perfor-
+mance, even when controlling for performance on
+an EF battery that was also strongly correlated with
+RTM performance. Furthermore, other
+research
+from our laboratory has provided evidence that
+when the partial correlation analyses are conducted
+to assess the relations between current-source den-
+sity and EF (controlling for age and RTM), the
+results show that current-source density at dMPFC
+are not associated with EF performance; instead, EF
+is associated with individual differences in current-
+source density attributed to cingulate (anterior and
+posterior) and ventral-medial prefrontal
+cortex
+(Sabbagh, Bowman, Evraire, & Ito, 2009). These
+ﬁndings suggest
+increased current density
+attributable to this region of dMPFC is associated
+with the emergence of explicit RTM reasoning in
+young children, independent of the contributions
+that these increases might also make to response-
+conﬂict EF skills.
+
+that
+
+It is important to clarify that we do not wish to
+downplay the role of EF in preschoolers’ explicit
+RTM reasoning abilities. Indeed, our own ﬁndings
+showed that EF was associated with RTM reason-
+ing, and that this association survived the regres-
+sion analysis in which the EF-RTM relation was
+assessed while statistically controlling for age, and
+current-source densities
+in dMPFC and rTPJ.
+Clearly, then, EF (and presumably its associated
+neural substrate) makes some independent contri-
+bution to RTM performance in the preschool years.
+Our ﬁnding here helps to clarify the uniqueness of
+this contribution by highlighting that
+is not
+
+it
+
+directly through a common relation with a particu-
+lar region of dMPFC. Likewise, these ﬁndings clar-
+ify that the role that the dMPFC plays in RTM
+reasoning cannot easily be attributed to the role
+that this region may play in response-conﬂict EF,
+even in preschoolers.
+
+Our ﬁnding that the dMPFC plays a role in
+RTM reasoning that is independent of its possible
+association with EF is consistent with a number of
+studies suggesting that
+the neural substrates of
+RTM reasoning are dissociable from those associ-
+ated with response-conﬂict EF, even in closely
+matched tasks (Kain & Perner, 2005; Saxe, Schulz,
+& Jiang, 2006). Further, they are consistent with
+some recent developmental data suggesting that
+the timetable of EF and RTM can be dissociated in
+development. For instance, Sabbagh et al. (2006)
+recently showed that Chinese preschoolers’ EF
+skills were more advanced than those in a sample
+of North American preschoolers; however, the two
+groups showed no differences in their RTM devel-
+opment (see also Oh & Lewis, 2008). Likewise,
+there are a number of reports now suggesting that
+RTM skills might vary across groups that are gen-
+erally equated for their EF abilities (e.g., Liu et al.,
+2008). These cross-cultural dissociations between
+the developmental trajectories of EF and RTM may
+be attributable to the fact that the two skills may
+have partly dissociable neural substrates during
+the preschool years.
+
+Yet, more research is required to better under-
+stand what
+the dMPFC does for explicit RTM
+development. Two different hypotheses about the
+role that dMPFC might play in RTM reasoning
+have emerged from recent reviews of the adult
+neuroimaging literature. Amodio and Frith (2006)
+suggest that the region of dMPFC that predicted
+RTM reasoning in the current study (what they
+call the anterior rostral medial frontal cortex) per-
+forms the computations associated with complex
+metarepresentational, and possibly emotional rea-
+soning. This suggestion is based upon the fact
+that dMPFC activations are observed as adults
+perform false belief tasks, and in tasks in which
+participants make probabilistic judgments about
+others’
+judg-
+ments of others’ subjective experience of pain and
+emotion, economic games). Saxe (2006),
+in con-
+trast, summarizes the available data by suggesting
+a more limited role for the dMPFC. Speciﬁcally,
+Saxe argues that
+for
+representing triadic attentional relations (i.e., rep-
+resenting the relations between self, other, and
+an object), but ﬁnds no conclusive evidence to
+
+likely beliefs and intentions (e.g.,
+
+the dMPFC is important
+
+suggest that the dMPFC generates or represents
+the propositional contents of mental states them-
+selves. A clear direction for future research is to
+adapt paradigms like the one we used here to
+better understand the neural bases of preschool-
+ers’
+theory of mind development, based upon
+insights gleaned from the burgeoning adult
+literature.
+
+Right Temporal–Parietal Juncture
+
+Our ﬁndings showed that individual differences
+in current density estimations localized to rTPJ
+predicted preschoolers’ performance on the RTM
+battery. These ﬁndings conﬁrm that the region that
+appears to be most consistently and speciﬁcally
+associated with RTM reasoning in adults is also
+implicated in explicit RTM development. Saxe and
+colleagues (Saxe, 2006; Saxe & Powell, 2006) have
+presented evidence to suggest that rTPJ performs
+the highly speciﬁc task of reasoning about repre-
+sentational mental states. Our ﬁndings are certainly
+consistent with the notion that rTPJ plays a critical
+role in RTM development; though, our study was
+not designed with the aim of licensing ﬁne-grained
+inferences about this important region.
+
+More generally, the hypothesis of a domain-spe-
+ciﬁc role for rTPJ in RTM reasoning has not been
+explored in the developmental literature. However,
+a recent challenge has emerged from work in visual
+neuroscience noting that the region of rTPJ that is
+involved in RTM reasoning is isomorphic with
+regions that are critical for coordinating shifts of
+visual attention (Mitchell, 2008). When tested in the
+same subject, the same regions that are associated
+with attention shifting (in an ostensibly nonsocial
+context) tasks show considerable overlap with those
+recruited for RTM reasoning. These ﬁndings raise
+the intriguing possibility that
+the association of
+rTPJ with RTM may be attributable, at least in part,
+to a domain-general rather than domain-speciﬁc
+skill. Were an ontogenetic relation between atten-
+tion shifting and RTM performance to exist, we
+suggest that an approach like the one we adopted
+here would be fruitful in clarifying the functional
+relation between rTPJ and RTM reasoning in the
+preschool years.
+
+Additional Regions
+
+We found evidence that variations in current
+density attributed to the cuneus, inferior temporal
+lobe or fusiform gyrus, and precentral gyrus were
+also associated with RTM development. Each of
+
+Neurodevelopment and Theory of Mind
+
+1157
+
+these areas has been linked with performance in
+social cognitive tasks, if not RTM reasoning more
+speciﬁcally. We will address brieﬂy the possible
+contributions of each region to RTM development
+in turn.
+
+Precentral Gyrus
+
+Across several studies, the precentral gyrus has
+been implicated in tasks that require distinguishing
+one’s own from another’s visual perspective (Aich-
+horn, Perner, Kronbichler, Staffen, & Ladurner,
+2006; Ruby & Decety, 2001). Although the concep-
+tual links between perspective taking and theory of
+mind are clear in that both would seem to require
+reasoning about other’s psychological states (Flav-
+ell, 1999), there is relatively scant empirical evi-
+dence to suggest
+tasks tapping the two
+constructs are related in development. Nonetheless,
+it does seem likely that the cognitive operations
+associated with suppressing one’s own perspective
+are critical for performance on RTM tasks in chil-
+dren (Birch & Bloom, 2007), and even in adults
+under circumstances in which one’s own perspec-
+tive is particularly salient (Keysar, Lin, & Barr,
+2003).
+
+that
+
+Cuneus
+
+Several studies of social-cognitive skills related
+to theory of mind have noted cuneus activation in
+at least some of their statistical comparisons (e.g.,
+Vogeley et al., 2001). Even more interesting with
+respect to the present ﬁndings is that Kobayashi
+et al. (2007) found that activation in the cuneus
+distinguished theory-of-mind from non-theory-of-
+mind reasoning in children, but not in adults. These
+preliminary ﬁndings, together with ours suggest
+that the cuneus may make an especially important
+contribution to RTM development.
+
+With respect to characterizing the contribution of
+the cuneus to RTM development, it can be noted
+that the cuneus is most reliably engaged during
+tasks that require reasoning about self knowledge
+(Aichhorn et al., 2006). One possibility, then, is that
+the relation we observed between RTM perfor-
+mance and current density variations in cuneus
+may reﬂect the extent to which RTM performance
+in children relies on reﬂecting upon one’s own
+knowledge states. The cuneus is also recruited in
+tasks that involve mental imagery (Kosslyn et al.,
+1999). Thus, a second possibility is that cuneus
+function is important to RTM reasoning because
+RTM tasks may require children to reimagine the
+
+1158
+
+Sabbagh, Bowman, Evraire, and Ito
+
+scenario to answer correctly the question. In some
+respects, this latter explanation may be preferred
+because it potentially accounts for why the cuneus
+is implicated in RTM reasoning in children (but
+less reliably so in adults), for whom using mental
+imagery might provide some necessary assistance
+in recalling the foregoing events.
+
+Inferior Temporal Lobe
+
+In adults, participation in the now common
+‘‘intentional attribution’’ task reliably elicits activity
+in the inferior temporal
+lobe extending into the
+fusiform gyrus (Brunet, Sarfati, Hardy-Bayle, &
+Decety, 2000; Vollm et al., 2006). In children, inten-
+tion attribution is typically a precursor of explicit
+RTM reasoning, and is present quite early in devel-
+opment (Woodward, 2003). These precursors are
+ontogenetically associated with later RTM develop-
+ment. For instance, Wellman and colleagues (Well-
+man, Lopez-Duran, LaBounty, & Hamilton, 2007;
+Wellman, Phillips, Dunphy-Lelil, & LaLonde, 2004)
+have shown that performance in a looking time
+study designed to measure 12-month olds’ under-
+standing of the link between emotion and intention
+was associated with those same children’s theory-
+of-mind development during the preschool years.
+Although the mechanism underlying this develop-
+mental relation is currently unclear, the fact that a
+developmental relation exists raises the possibility
+that the development of inferior temporal regions
+associated with intention attribution may play some
+crucial role in the development of the regions that
+are more speciﬁcally related to later RTM advances
+(i.e., rTPJ, dMPFC).
+
+Summary
+
+imagery
+
+In general, these additional regions have been
+associated with cognitive abilities that might be
+either considered necessary for solving RTM tasks
+(i.e., mental
+and suppressing ﬁrst-
+person perspective), or conceptual precursors to
+RTM reasoning (i.e.,
+intentional understanding).
+One possibility, then is that the computations associ-
+ated with these regions may play a particularly
+important role in RTM development per se. Preli-
+minary support for this hypothesis comes from our
+regression analyses in which we found that the con-
+tributions of these additional regions were mediated
+by their relations with either rTPJ or dMPFC.
+Although there are many possible explanations for
+this mediation effect, one is that the development of
+these regions somehow contributes to the functional
+
+maturation of dMPFC and rTPJ, which in turn make
+up the primary neural substrate for RTM reasoning.
+Longitudinal research may prove fruitful in further
+understanding the role that these additional regions
+play in the development of the neural systems
+critical for RTM development.
+
+Implications
+
+From the outset, we took as our main goal estab-
+lishing the neurodevelopmental correlates of RTM
+reasoning in preschoolers. Of particular interest
+was whether regions that are known to play a role
+in RTM reasoning in adults would also be impli-
+cated in children. On this question, our evidence
+was clear. Individual differences in current density
+estimates attributable to dMPFC and rTPJ were cor-
+related with RTM skills in preschoolers. Thus, the
+link between these brain areas and RTM develop-
+ment is present in children just as these skills are
+explicitly emerging. Further, insofar as variations in
+current density estimates reﬂect the ongoing func-
+tional maturation of
+associated neural
+regions, our ﬁndings provide some evidence that
+the functional maturation of dMPFC and rTPJ is
+associated with RTM development.
+
+these
+
+two interrelated questions
+
+This ﬁnding lays the foundation for the explora-
+tion of
+in future
+research. The ﬁrst concerns whether these func-
+tional specializations are a cause or a consequence
+of RTM development. Some researchers have artic-
+ulated the hypothesis that humans have evolved a
+speciﬁc neurocognitive system that is dedicated to
+performing the computations that are associated
+with constructing and reasoning about representa-
+tions of others’ mental states (Leslie, Friedman, &
+German, 2004). Although far from providing con-
+clusive evidence for this hypothesis, the current
+ﬁndings are consistent with the possibility that the
+dMPFC and rTPJ are constituents of that specially
+evolved system, and that functional maturation of
+this system must reach a threshold level to enable
+explicit RTM reasoning. An alternative hypothesis
+is that the increased coherence in dMPFC and rTPJ
+reﬂect the outcome of a developmental process.
+Across domains, the neural systems associated with
+particular computations become reorganized and
+more circumscribed with expertise (Casey, Giedd,
+& Thomas, 2000). Thus, the relations we observed
+may be attributable to children’s RTM performance
+and neural coherence each reﬂecting increasing
+expertise with explicit RTM reasoning. Although
+we expect that it will be challenging, longitudinal
+research that
+takes an approach similar to that
+
+presented here may provide crucial insight into the
+causal relations among regional neural develop-
+ments and RTM reasoning.
+
+It is important to note that the functional matura-
+tion of any particular neural region is likely to be
+affected by both endogenous and experiential fac-
+tors. There are reasons to think that both might
+play a particularly important role in establishing
+the functional maturation of dMPFC and rTPJ.
+With respect to endogenous factors, the develop-
+ment of the frontal lobes has been associated with
+maturational changes in dopaminergic functioning
+(Diamond, 2002). Insofar as there is some endo-
+genous mechanism underlying the developmental
+trajectory of dopaminergic expression,
+it seems
+possible that this mechanism would in turn set
+constraints on the functional maturation of
+the
+neural systems associated with RTM reasoning. The
+presence of these kinds of endogenous neurodevel-
+opmental constraints on RTM-related cortical devel-
+opment might help explain why, as mentioned at
+the outset of the article, the developmental trajectory
+of RTM looks so similar across cultures, and is
+speciﬁcally impaired in the case of autism.
+
+states
+
+With respect to experiential factors, there is now
+substantial evidence to suggest that several experi-
+including parent–child conversa-
+ential variables,
+tions about mental
+(Ruffman, Slade, &
+Crowe, 2002), family size (Lewis, Freeman, Kyriaki-
+dou, Maridaki-Kassotaki, & Berridge, 1996), and
+socioeconomic status (Pears & Moses, 2003) affect
+the timetable of RTM development. More dramati-
+cally, the development of RTM is greatly protracted
+in children with highly atypical experiences owing
+to being born either blind (Peterson, Peterson, &
+Webb, 2000) or born deaf into non-native signing
+families (Woolfe, Want, & Siegal, 2002). An impor-
+tant question,
+then, concerns whether and how
+these experiential factors might affect the matura-
+tion of the neural systems we identiﬁed as associ-
+ated with RTM development. Understanding these
+fundamentally developmental processes will pro-
+vide deep insights into how endogenous neuromat-
+urational constraints might interact with experience
+to render the time course and trajectory of RTM
+development in the preschool years.
+
+Neurodevelopment and Theory of Mind
+
+1159
+
+adults. There is some research to suggest that adult
+skulls are somewhat thicker than children’s skulls,
+though the age-related trends are modest and not
+as pronounced as individual differences within age
+groups (Simms & Neely, 1989). It is unclear as to
+how these minor differences in the conductance
+parameters might have affected our intracerebral
+current density estimates. Thus, some caution is
+warranted in interpreting the present ﬁndings.
+
+Second,
+
+there are two factors that may have
+reduced the statistical power of our tests. One fac-
+tor stems from the fact that we developed the trans-
+formation parameters for the sLORETA based upon
+average electrode locations because we did not
+have efﬁcient technology for gathering electrode
+coordinates from participants individually. Relying
+on average sensor locations, though common in
+much EEG–ERP research, may have added noise to
+the group localization analyses and prevented us
+from detecting the involvement of additional areas.
+Another factor that may have reduced the statistical
+power of our tests detecting the involvement of
+additional neural regions was the relatively limited
+range scores possible on our RTM measure.
+Although neither of these factors call into question
+any of the ﬁndings we report, both leave open the
+possibility that other regions might have been
+detected, including regions that have been shown
+in the prior literature—such as the left temporal–
+parietal
+juncture and the precuneus or posterior
+cingulate—with more sensitive dependent mea-
+sures.
+
+Finally, it was unfortunate that our inexperience
+with pediatric EEG collection led to our excluding
+so many participants at the outset of our study.
+Although statistical analyses of the behavioral mea-
+sures showed that there was no reason to believe
+that the participants we excluded were substan-
+tially different from the participants retained in the
+ﬁnal sample, our high exclusion rate does raise
+some concern about the generality of these ﬁnd-
+ings. Future work that replicates and extends these
+ﬁndings will be valuable in assuaging these
+concerns.
+
+Summary
+
+Limitations
+
+There are several limitations of this study. First,
+the sLORETA estimates are based upon volume
+conductance parameters (how electrical activity is
+conducted through the scalp, skull, and cerebrospi-
+nal ﬂuid) that were developed from research on
+
+We used regional current density estimates of
+preschoolers’ resting EEG alpha to show that indi-
+vidual differences in the functional maturation of
+the dMPFC and rTPJ are associated with preschool-
+ers’ performance on a battery of RTM tasks. Statisti-
+cal analyses showed that these relations could not
+be accounted for by their relations with children’s
+
+1160
+
+Sabbagh, Bowman, Evraire, and Ito
+
+their
+
+age, or their relations with EF skills. In addition,
+we found that the cuneus, posterior inferior tempo-
+ral lobe, and precentral gyrus were associated with
+RTM performance; however, statistical analyses
+suggested that
+inﬂuence was mediated
+through their common associations with dMPFC
+and rTPJ. Taken together, these ﬁndings suggest
+that the functional maturation of the dMPFC and
+rTPJ may be a critical neural correlate of preschool-
+ers’ RTM development. Future work is necessary to
+determine both the speciﬁc contributions of these
+regions to RTM development and the endogenous
+and experiential factors that affect their functional
+maturation.
+
+References
+
+Aichhorn, M., Perner, J., Kronbichler, M., Staffen, W., &
+Ladurner, G. (2006). Do visual perspective tasks need
+theory of mind? NeuroImage, 30, 1059–1068.
+
+Amodio, D. M., & Frith, C. D.
+
+(2006). Meeting of
+minds: The medial frontal cortex and social cognition.
+Nature Reviews Neuroscience, 7, 268–277.
+
+Baron-Cohen, S. (2001). Theory of mind and autism: A
+review. In L. M. Glidden (Ed.), International review of
+research in mental retardation: Austism (pp. 169–184). San
+Diego: Academic Press.
+
+Birch, S. A. J., & Bloom, P. (2007). The curse of knowledge
+in reasoning about false beliefs. Psychological Science, 18,
+382–386.
+
+Brunet, E., Sarfati, Y., Hardy-Bayle, M., & Decety, J.
+(2000). A PET investigation of the attribution of inten-
+tions with a nonverbal task. NeuroImage, 11, 157–166.
+
+Callaghan, T. C., Rochat, P., Lillard, A., Claux, M. L.,
+Odden, H., Itakura, S., et al. (2005). Syncrhony in the
+onset of mental-state reasoning. Psychological Science,
+16, 378–384.
+
+Carlson, S. M. (2005). Developmentally sensitive mea-
+sures of executive function in preschool children. Devel-
+opmental Neuropsychology, 28, 595–616.
+
+Carlson, S. M., Davis, A., & Leach, J. G. (2005). Less
+is more: Executive function and symbolic representa-
+tion in preschool children. Psychological Science, 16, 609–
+616.
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differ-
+ences in inhibitory control and children’s theory of
+mind. Child Development, 72, 1032–1053.
+
+Casey, B. J., Giedd, J. N., & Thomas, K. M. (2000). Struc-
+tural and functional brain development and its relation
+to cognitive development. Biological Psychology, 54, 241–
+257.
+
+Diamond, A. (2002). Normal development of prefrontal
+cortex from birth to young adulthood: Cognitive func-
+tions, anatomy, and biochemistry. In D. T. Stuss & R. T.
+Knight (Eds.), Principles of frontal lobe function (pp. 466–
+503). New York: Oxford University Press.
+
+Dunn, L. M., & Dunn, L. M. (1997). Peabody picture vocabu-
+lary test (3rd ed.). Bloomington, MN: Pearson Assess-
+ments.
+
+Flavell, J. H. (1999). Cognitive development: Children’s
+knowledge about the mind. Annual Review of Psychol-
+ogy, 50, 21–45.
+
+Flavell, J. H., Green, F. L., & Flavell, E. R. (1986). Devel-
+opment of knowledge about the appearance-reality dis-
+tinction. Monographs of the Society for Research in Child
+Development, 51(Serial No. 212).
+
+Fox, N. A., Rubin, K. H., Calkins, S. D., & Marshall, T. R.
+(1995). Frontal activation asymmetry and social compe-
+four years of age. Child Development, 66,
+tence at
+1770–1784.
+
+Gallagher, H. L., & Frith, C. (2003). Functional imaging of
+
+‘theory of mind’. Trends in Cognitive Sciences, 7, 77–83.
+
+Gopnik, A., & Astington, J. W. (1988). Children’s under-
+standing of representational change and its relation to
+the understanding of false belief and the appearance-
+reality distinction. Child Development, 59, 26–37.
+
+Hala, S., Hug, S., & Henderson, A. (2003). Executive func-
+tion and false belief understanding in preschool chil-
+Journal of
+dren: Two tasks are harder
+Cognition and Development, 4, 275–298.
+
+than one.
+
+Hughes, C. (1998). Executive function in preschoolers:
+Links with theory of mind and verbal ability. British
+Journal of Developmental Psychology, 16, 233–253.
+
+Kain, W., & Perner, J. (2005). What fMRI can tell us about
+the ToM-EF connection: False beliefs, working memory,
+and inhibition. In W. Schneider, R. Schumann-Hengst-
+eler, & B. Sodian (Eds.), Young children’s cognitive devel-
+opment:
+functioning,
+working memory, verbal ability and theory of mind (pp.
+189–217). Mahwah, NJ: Psychology Press.
+
+Interrelationships among executive
+
+Karmiloff-Smith, A. (1997). Crucial differences between
+developmental cognitive neuroscience and adult neuro-
+psychology. Developmental Neuropsychology, 13, 513–524.
+Keysar, B., Lin, S., & Barr, D. J. (2003). Limits on theory
+
+of mind use in adults. Cognition, 89, 25–41.
+
+Kobayashi, C., Glover, G. H., & Temple, E. (2007). Chil-
+dren’s and adults’ neural bases of verbal and nonverbal
+‘theory of mind’. Neuropsychologia, 45, 1522–1532.
+
+Kosslyn, S. M., Pascual-Leone, A., Felician, O., Camposa-
+no, S., Keenan, J. P., Thompson, W. L., et al. (1999). The
+role of area 17 in viual imagery: Convergent evidence
+from PET and rTMS. Science, 284, 167–170.
+
+Leslie, A. M., Friedman, O., & German, T. P. (2004). Core
+mechanisms in ‘theory of mind’. Trends in Cognitive Sci-
+ences, 8, 528–533.
+
+Lewis, C., Freeman, N. H., Kyriakidou, C., Maridaki-Kas-
+sotaki, K., & Berridge, D. M. (1996). Social inﬂuences
+on false belief access: Speciﬁc sibling inﬂuences or gen-
+eral apprenticeship? Child Development, 67, 2930–2946.
+
+Lillard, A. (1993). Young children’s conceptualization of
+pretense: Action or mental representational state? Child
+Development, 64, 372–386.
+
+Liu, D., Wellman, H. M., Tardif, T., & Sabbagh, M. A.
+(2008). Theory of mind development in Chinese chil-
+
+dren: A meta-analysis of
+false-belief understanding
+across cultures and languages. Developmental Psychol-
+ogy, 44, 523–531.
+
+Marshall, P. J., Bar-Haim, Y., & Fox, N. A. (2002). Devel-
+opment of the EEG from 5 months to 4 years of age.
+Clinical Neurophysiology, 113, 1199–1208.
+
+Mitchell, J. P. (2008). Activity in right temporo-parietal
+junction is not selective for theory-of-mind. Cerebral
+Cortex, 18, 262–271.
+
+Mitchell, R. W., & Neal, M. (2005). Children’s under-
+standing of their own and others’ mental states. Part A:
+Self-understanding precedes understanding of others
+in pretense. British Journal of Developmental Psychology,
+23, 175–200.
+
+Moses, L. J. (2001). Executive accounts of theory of mind
+
+development. Child Development, 72, 688–690.
+
+Nunez, P. L. (1995). Neocortical dynamics and human EEG
+
+rhythms. New York: Oxford University Press.
+
+Oh, S., & Lewis, C.
+
+(2008). Korean preschoolers’
+advanced inhibitory control and its relation to other
+executive skills and mental state understanding. Child
+Development, 79, 80–99.
+
+Onishi, K., & Baillargeon, R. (2005). Do 15-month-old
+
+infants understand false beliefs? Science, 308, 255–258.
+
+Pascual-Marqui, R. D. (2002). Standardized low-resolu-
+tion brain electromagnetic tomography (sLORETA):
+Technical details. Methods and Findings in Experimental
+and Clinical Pharmacology, 24D, 5–12.
+
+Pascual-Marqui, R. D., Esslen, M., Kochi, K., & Lehmann,
+D. (2002). Functional imaging with low resolution brain
+electromagnetic tomography (LORETA): A review.
+Methods and Findings in Experimental and Clinical Phar-
+macology, 24, 91–95.
+
+Pears, K. C., & Moses, L. J. (2003). Demographics, parent-
+ing and theory of mind in preschool children. Social
+Development, 12, 1–20.
+
+Perner, J. (1991). Understanding the representational mind.
+
+Cambridge, MA: MIT Press.
+
+Perner, J., Lang, B., & Kloo, D. (2002). Theory of mind
+and self-control: More than a common problem of inhi-
+bition. Child Development, 73, 752–767.
+
+Peterson, C. C., Peterson, J. L., & Webb, J. (2000). Factors
+inﬂuencing the development of a theory of mind in
+blind children. British Journal of Developmental Psychol-
+ogy, 18, 431–447.
+
+Peterson, C. C., Wellman, H. M., & Liu, D. (2005). Steps
+in theory of mind development for children with deaf-
+ness or autism. Child Development, 76, 523–541.
+
+Pizzagalli, D. A., Peccoralo, L. A., Davidson, R. J., &
+Cohen, J. D. (2006). Resting anterior cingulate activity
+and abnormal responses to errors in subjects with ele-
+vated depressive symptoms: A 128-channel EEG study.
+Human Brain Mapping, 27, 185–201.
+
+Pizzagalli, D. A., Sherwood, R. J., Henriques, J. B., &
+Davidson, R. J. (2005). Frontal brain asymmetry and
+reward responsiveness. Psychological Science, 16, 805–
+813.
+
+Neurodevelopment and Theory of Mind
+
+1161
+
+Rall, J., & Harris, P. L. (2000). In Cinderella’s slippers?
+Story comprehension from the protagonist’s point of
+view. Developmental Psychology, 36, 202–208.
+
+Reed, M., Pien, D. L., & Rothbart, M. K. (1984). Inhibitory
+self-control in preschool children. Merrill-Palmer Quar-
+terly, 30, 131–147.
+
+Ridderinkhof, K. R., Ullsperger, M., Crone, E. A., &
+Nieuwenhuis, S. (2004). The role of the medial frontal
+cortex in cognitive control. Science, 306, 443–447.
+
+Ruby, P., & Decety, J. (2001). Effect of subjective perspec-
+tive taking during simulation of action: A PET investi-
+gation of agency. Nature Neuroscience, 4, 546–550.
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation
+between children’s and mothers’ mental state language
+and theory-of-mind understanding. Child Development,
+73, 734–751.
+
+Sabbagh, M. A., Bowman, L. C., Evraire, L. E., & Ito, J. M. B.
+(2009). Neurodevelopmental correlates of response-conﬂict
+executive functioning in preschool-aged children. Manuscript
+in preparation.
+
+Sabbagh, M. A., Moses, L. J., & Shiverick, S. M. (2006).
+Executive functioning and preschoolers’ understanding
+of false beliefs, false photographs and false signs. Child
+Development, 77, 1034–1049.
+
+Saxe, R. (2006). Uniquely human social cognition. Current
+
+Opinion in Neurobiology, 16, 235–239.
+(2006).
+
+Saxe, R., & Powell, L.
+
+J.
+
+the thought
+that counts: Speciﬁc brain regions for one compo-
+nent of theory of mind. Psychological Science, 17, 692–
+699.
+
+It’s
+
+Saxe, R., Schulz, L., & Jiang, Y.
+
+(2006). Reading
+minds versus following rules. Social Neuroscience, 1,
+284–298.
+
+Simms, D. L., & Neely, J. G. (1989). Thickness of the
+lateral surface of
+the temporal bone in children.
+Annals of Otology, Rhinology, & Laryngology, 98, 726–
+731.
+
+Surian, L., Caldi, S., & Sperber, D. (2008). Attribution of
+beliefs by 13-month-old infants. Psychological Science,
+18, 580–586.
+
+Thatcher, R. W. (1992). Cyclic cortical reorganization in
+
+early childhood. Brain and Cognition, 20, 24–50.
+
+Thatcher, R. W. (1994). Cyclic cortical reorganization:
+Origins of human cognitive development.
+In G.
+Dawson & K. W. Fischer (Eds.), Human behavior and
+the developing brain (pp. 232–266). New York: Guil-
+ford.
+
+Thatcher, R. W., Walker, R. A., & Guidice, S. (1987).
+Human cerebral hemispheres develop at different rates
+and age. Science, 236, 1110–1113.
+
+Vogeley, K., Bussfeld, P., Newen, A., Herrmann, S.,
+Happe, F., Falkai, P., et al. (2001). Mind reading: Neural
+mechansims of theory of mind and self-perspective.
+NeuroImage, 14, 170–181.
+
+Vollm, B. A., Taylor, A. N. W., Richardson, P. C., Corco-
+ran, R., Stirling, J., McKie, S., et al. (2006). Neural corre-
+lates of theory of mind and empathy: A functional
+
+1162
+
+Sabbagh, Bowman, Evraire, and Ito
+
+magnetic resonance imaging study in a nonverbal task.
+NeuroImage, 29, 90–98.
+
+Wellman, H. M. (1990). The child’s theory of mind. Cam-
+
+bridge, MA: MIT Press.
+
+Wellman, H. M., Cross, D., & Watson,
+
+Meta-analysis of
+truth about false-belief. Child Development, 72, 655–684.
+
+(2001).
+theory of mind development: The
+
+J.
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory of
+
+mind tasks. Child Development, 75, 523–541.
+
+Wellman, H. M., Lopez-Duran, S., LaBounty, J., & Hamil-
+ton, B. (2007). Infant attention to intentional action pre-
+of mind. Developmental
+dicts
+Psychology.
+
+preschool
+
+theory
+
+Wellman, H. M., Phillips, A. T., Dunphy-Lelil, S., &
+Infant social attention predicts
+
+LaLonde, N.
+
+(2004).
+
+preschool social cognition. Developmental Science, 7,
+283–288.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs:
+Representation and constrainng function of wrong
+beliefs in young children’s understanding of deception.
+Cognition, 13, 103–128.
+
+Woodward, A. L. (2003). Infants’ developing understand-
+ing of the link between looker and object. Developmental
+Science, 6, 297–311.
+
+Woolfe, T., Want, S. C., & Siegal, M. (2002). Signposts to
+development: Theory of mind in deaf children. Child
+Development, 73, 768–778.
+
+Zelazo, P. D. (2006). The dimensional change card sort
+(DCCS): A method of assessing executive function in
+children. Nature Protocols, 1, 297–301.
+
+

@@ -1,0 +1,2968 @@
+Child Development, November/December 2011, Volume 82, Number 6, Pages 1887–1905
+
+Peer Relations and the Understanding of Faux Pas: Longitudinal Evidence
+
+for Bidirectional Associations
+
+Robin Banerjee
+University of Sussex
+
+Dawn Watling
+
+Royal Holloway, University of London
+
+Marcella Caputi
+University of Pavia
+
+Research connecting children’s understanding of mental states to their peer relations at school remains scarce.
+Previous work by the authors demonstrated that children’s understanding of mental states in the context of a
+faux pas—a social blunder involving unintentional insult—is associated with concurrent peer rejection. The
+present report describes a longitudinal follow-up investigation of 210 children from the original sample, aged
+5–6 or 8–9 years at Time 1. The results support a bidirectional model suggesting that peer rejection may
+impair the acquisition of faux pas understanding, and also that, among older children, difﬁculties in under-
+standing faux pas predict increased peer rejection. These ﬁndings highlight the important and complex associ-
+ations between social understanding and peer relations during childhood.
+
+Children’s social understanding has been a major
+focus of developmental psychology research over
+the last 25 years. Work on this topic has revealed
+reliable developmental progressions in children’s
+understanding of mental states, such as beliefs,
+emotions, intentions, and desires, which are clearly
+pertinent to human social behavior (e.g., Flavell,
+2004; Hughes & Leekam, 2004). Moreover, there is
+dramatic evidence of individual differences in this
+kind of
+(ToM) understanding.
+Research with individuals on the autistic spectrum
+has suggested that signiﬁcant social impairments
+can be linked to difﬁculties in reasoning about
+mental states (e.g., Baron-Cohen, 1995; Happe´,
+1994, 1995). Such evidence supports the intuitively
+appealing notion that
+individual differences in
+social understanding are connected with children’s
+social interactions and relationships.
+
+‘‘theory-of-mind’’
+
+Many research studies have also shown that
+there are individual differences in social under-
+
+standing within typically developing samples.
+Existing theoretical and empirical work gives us
+reason to expect close connections between these
+individual differences on the one hand and varia-
+tions in children’s social interactions and relation-
+ships on the other (e.g., Dunn, 1995; Repacholi &
+Slaughter, 2003). However, our knowledge of the
+social antecedents and consequences of children’s
+social understanding is far from complete. Perhaps
+most neglected of all is the relevance of school-aged
+children’s social understanding to their interactions
+and relationships with their peers. Given the recog-
+nized importance of peer relations at school in chil-
+dren’s development
+(e.g., Ladd, 1999; Rubin,
+Bukowski, & Parker, 2006), investigations of this
+issue are sorely needed. The present study exam-
+ines longitudinal connections between children’s
+performance on an age-appropriate measure of
+social understanding—the faux pas task—and their
+levels of peer acceptance and rejection at school.
+
+We would like to extend our thanks and appreciation to the
+children and staff at the schools who participated in this study,
+and to Beatrice Birtell, Nathalie Elsaesser, Dimitra Fotopoulou,
+Sophy Grifﬁn-Beale, Laura Kerr, Tara Sims, Rachel Stock, Ashley
+Thomas, Sarah Watson, and Alexandra Yates for their contribu-
+tion to data collection. This research was funded by Brighton &
+Hove City Council.
+
+Correspondence concerning this article should be addressed to
+Robin Banerjee, School of Psychology, University of Sussex,
+Falmer, Brighton BN1 9QH, UK. Electronic mail may be sent to
+robinb@sussex.ac.uk.
+
+Social Understanding and Social Relationships
+
+Carpendale and Lewis (2004) have proposed
+theoretical
+social
+
+formulation of
+
+children’s
+
+a
+
+Ó 2011 The Authors
+Child Development Ó 2011 Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2011/8206-0014
+DOI: 10.1111/j.1467-8624.2011.01669.x
+
+1888 Banerjee, Watling, and Caputi
+
+understanding that explicitly emphasizes the con-
+struction of social understanding within the context
+of social interaction. Not surprisingly, most of the
+extant empirical evidence indicating such social
+construction has concerned family processes. These
+include common forms of triadic interaction experi-
+enced during infancy (e.g., social referencing, gaze
+following, pointing), but the presence and quality
+of enduring social relationships is also likely to be
+important. For example, some research identiﬁes
+having older siblings as conferring an advantage to
+children on false belief tasks (e.g., Ruffman, Perner,
+Naito, Parkin, & Clements, 1998), and numerous
+longitudinal studies have pointed to aspects of the
+parent–child relationship as inﬂuencing children’s
+understanding of mental states. These studies high-
+light the importance of broad variables such as
+parental warmth,
+and
+harshness (e.g., Meins et al., 2002; Pears & Moses,
+2003), as well as
+family
+interactions such as references to mental states in
+conversations (e.g., Adria´n, Clemente, & Villanu-
+eva, 2007; Dunn, Brown, & Beardsall, 1991; Ensor &
+Hughes, 2008; Peterson & Slaughter, 2003; Ruffman,
+Slade, & Crowe, 2002).
+
+features of
+
+attachment,
+
+sensitivity,
+
+speciﬁc
+
+the evidence for
+
+Adding to this literature is a body of work inves-
+tigating the reverse causal connection, namely, the
+impact of social understanding on children’s social
+interactions. In contrast with the many analyses of
+autism that attribute signiﬁcant
+relational and
+impairments to inadequacies in social
+behavioral
+understanding,
+the ‘‘real-life’’
+manifestations of individual differences in typically
+developing children’s social understanding is less
+than overwhelming. Hughes and Leekam’s (2004)
+review provides many sound reasons for expecting
+ToM to predict social relations, but the number of
+empirical studies that have actually linked individ-
+ual differences in ToM to variations in social rela-
+tions is fairly small. Some studies have shown that
+children who are relatively advanced on ToM tasks
+display more elaborate pretend play (e.g., Hughes
+& Dunn, 1997; Taylor & Carlson, 1997) and also
+exhibit greater social competence—such as more
+cooperation and less conﬂict—than children with
+lower ToM performance (e.g., Bosacki & Astington,
+1999; Cassidy, Werner, Rourke, Zubernis, & Balar-
+aman, 2003; Lalonde & Chandler, 1995; Watson,
+Nixon, Wilson, & Capage, 1999). However, the con-
+nection between ToM performance and social inter-
+actions is not always found (e.g., Badenes, Estevan,
+& Bacete, 2000). The lack of a solid research base
+demonstrating the social advantages conferred by
+strengths in social understanding is somewhat
+
+surprising, insofar as the notion of ‘‘social compe-
+tence’’ is widely assumed to encompass good social
+understanding (e.g., Rose-Krasnor, 1997).
+
+Social Understanding in the Peer Context
+
+We believe that children’s interactions with other
+children, outside the family context, are a key con-
+text for the construction and manifestation of social
+understanding. Unfortunately, this issue has not
+been addressed adequately. Part of the problem is
+that research on social-cognitive development has
+largely focused on the period up to 5 years of age,
+during which the family may be assumed to be the
+dominant socializing context. On the other hand, it
+is noteworthy that some of the most commonly
+cited developments in social understanding—such
+as false belief understanding—occur between 3 and
+5 years of age (e.g., Wellman, Cross, & Watson,
+2001), a time when peer interaction increases dra-
+matically for many children in Western cultures.
+Moreover, the peer context in early, middle, and
+late childhood has long been recognized by devel-
+opmental theorists as providing important opportu-
+nities not only for learning sociobehavioral skills
+such as sharing and turn taking but also for making
+advances in empathy and perspective taking (e.g.,
+Eisenberg, Fabes, & Spinrad, 2006).
+in
+response to Carpendale and Lewis’s (2004) article
+on the social construction of social understanding,
+both Banerjee (2004) and Zerwas, Balaraman, and
+Brownell (2004) argued that peer interactions pro-
+vide an important context for the development of
+children’s social understanding. Yet, despite evi-
+dence showing that children vary dramatically in
+the quantity and quality of peer interactions they
+experience
+2003),
+empirical evidence linking features of peer relations
+to variations
+in social understanding remains
+scarce.
+
+(Gifford-Smith & Brownell,
+
+Indeed,
+
+Some
+
+important observational
+
+studies have
+shown us that children’s interactions with their
+friends do appear to provide valuable opportunities
+for learning about the mind. Children talk about
+mental states in their peer play, as well as in con-
+versations with families, and the peer context often
+involves highly relevant experiences such as pre-
+tend play (e.g., Howes & Matheson, 1992; Lillard,
+1993; Youngblade & Dunn, 1995). In line with this,
+some
+shown that
+children’s belief and emotion understanding can be
+predicted by
+friendship
+interaction (e.g., Faulkner & Miell, 1993; Maguire &
+Dunn, 1997). Moreover, as noted above, other
+
+studies have
+
+longitudinal
+
+features
+
+of
+
+earlier
+
+Peer Relations Faux Pas
+
+1889
+
+authors have suggested that individual differences
+in social understanding have consequences for the
+qualities of children’s conversations and play inter-
+actions with peers (e.g., Cassidy et al., 2003; Cutting
+& Dunn, 2006; Hughes, Lecce, & Wilson, 2007;
+Lalonde & Chandler, 1995; Slomkowski & Dunn,
+1996; Walker, 2005; Watson et al., 1999). Although
+some evidence has suggested that advanced social-
+cognitive capabilities may sometimes be evident in
+children displaying negative behavior such as
+bullying (Renouf et al., 2010; Sutton, Smith, &
+Swettenham, 1999), most of the work in this area
+has pointed to the associations of better social
+understanding with more positive interpersonal
+relationships and interactions.
+
+abilities may be related to levels of peer acceptance,
+although this was apparently only the case among
+children older than 5 years of age. Another study
+of 3- to 5-year-olds (Peterson & Siegal, 2002) found
+that children who were rejected by their peers
+lagged behind their more popular counterparts on
+ToM tasks.
+In contrast, another study (Badenes
+et al., 2000) showed no clear link between peer
+rejection and mentalizing abilities among 4-
+to
+6-year-olds at all. Thus, the few extant studies on
+this topic do not lend themselves to a coherent
+portrayal of the connection between social under-
+standing and peer relations, and none provides
+longitudinal evidence to suggest
+likely develop-
+mental pathways.
+
+rejection’’
+
+and ‘‘peer
+
+Notwithstanding the value of the studies dis-
+cussed above, we have relatively little insight into
+how commonly observed variations in peer rela-
+time with children’s
+tions are associated over
+understanding of
+the social and psychological
+world they inhabit. Perhaps the most commonly
+studied indexes of a school-aged child’s peer rela-
+tions concern the extent to which he or she is liked
+or disliked by the peer group. Long-standing socio-
+metric techniques, commonly involving three posi-
+tive and three negative peer nominations made by
+each child in a class, are widely used in the peer
+relations literature to uncover these levels of ‘‘peer
+acceptance’’
+(often put
+together in order to classify children into peer
+status categories, such as popular or rejected) and
+an extensive literature is devoted to understanding
+the antecedents and consequences of these markers
+of children’s peer relations (e.g., Rubin et al., 2006).
+The use of sociometric techniques to elucidate dif-
+ferences in the interpersonal functioning of children
+at school has been ﬁrmly established over many
+decades and has the advantage of drawing on mul-
+tiple informants (multiple peers) with privileged
+access to interactions with each other across multi-
+ple formal and informal settings (see Pepler &
+Craig, 1998). Moreover, reviews of studies utilizing
+sociometric nominations have shown that
+these
+data map closely onto qualities of peer interaction
+and self-reported socioemotional experiences (e.g.,
+Gifford-Smith & Brownell, 2003; Newcomb, Bukow-
+ski, & Pattee, 1993).
+
+Despite the extensive body of work on the corre-
+lates of sociometric acceptance and rejection, only a
+small number of studies have considered links with
+children’s performance on social understanding
+tasks. One study of 4- to 6-year-olds (Slaughter,
+Dennis, & Pritchard, 2002) provided some indica-
+tions that
+individual differences in mindreading
+
+The Faux Pas Task
+
+One of the difﬁculties in establishing connections
+between social understanding and peer relations
+may be that standard ToM tasks do not adequately
+capture the forms of mental-state reasoning that are
+most pertinent to real-life social interactions and
+relationships. This is especially so when we move
+beyond the ages of 5 or 6; undoubtedly, there are
+substantial variations in pupils’ social behavior in
+middle childhood, but
+these clearly cannot be
+mapped onto performance on ToM tasks that most
+children pass by 6 years. However, there is some
+tentative evidence that more ‘‘naturalistic’’ mea-
+sures of mental-state reasoning, tapping the under-
+standing of links between multiple mental states
+(e.g.,
+in everyday
+social situations, may have some connection with
+school-aged pupils’ interpersonal relations. Speciﬁ-
+cally, one recent study has shown that peer rejec-
+tion in school-aged children is associated with
+performance on the faux pas measure of social
+understanding (Banerjee & Watling, 2005).
+
+intentions, emotions, beliefs)
+
+The faux pas task was ﬁrst conceived in the con-
+text of work with high-functioning autistic individ-
+uals, a signiﬁcant proportion of whom perform
+successfully on standard ToM tasks despite clearly
+showing distinctive sociobehavioral and relational
+impairments (e.g., Dahlgren & Trillingsgaard, 1996).
+Baron-Cohen, O’Riordan, Stone, Jones, and Plaisted
+(1999) showed that such participants display difﬁ-
+culties in the ability to identify and explain ‘‘faux
+pas’’ situations where one character unintentionally
+insults another due to lack of knowledge about
+some key feature of the other character (e.g., mak-
+ing a derogatory comment about dinner ladies to
+another child whose mother—unbeknownst to the
+protagonist—is herself a dinner lady). Importantly,
+
+1890 Banerjee, Watling, and Caputi
+
+several recent studies with typically developing
+children have shown that performance on the faux
+pas task is associated with other complex forms of
+social
+2002), with
+teacher ratings of sociability (Banerjee & Hender-
+son, 2001), and with peer rejection (Banerjee &
+Watling, 2005).
+
+reasoning (Banerjee,
+
+2000,
+
+state and was
+
+These studies provide persuasive evidence that
+the faux pas task taps mental-state reasoning that is
+relevant to everyday peer interaction. In Banerjee
+and Watling’s (2005) adaptation of the faux pas task,
+children responded to a series of questions follow-
+ing each hypothetical story, showing whether or not
+they detected the faux pas, understood that one
+character has upset another, and recognized that
+this upset occurred as a result of an underinformed
+knowledge ⁄ belief
+therefore not
+intended. Crucially, the authors found that 8- to 9-
+year-old children who received more negative socio-
+metric nominations from their classmates performed
+less well on the task. This association was not due to
+basic comprehension or to ﬁrst-order understanding
+of the emotional impact of the faux pas but rather to
+the more complex recognition that the upset was not
+intentional and to the appreciation of the ignorance
+that led to the faux pas. No such association was
+found in a sample of 5- to 6-year-olds, most of
+whom performed poorly on the task. The report on
+that investigation also noted the distinctive impor-
+tance of the faux pas task in particular, since a ver-
+sion of Sullivan, Zaitchik, and Tager-Flusberg’s
+(1994) second-order false belief task was not signiﬁ-
+cantly correlated with levels of social preference
+after controlling for the faux pas scores (whereas
+faux pas scores remained signiﬁcantly correlated
+with social preference even after controlling for the
+second-order false belief performance; in our longi-
+tudinal follow-up study, we noted that the second-
+order false belief task was correlated with the faux
+pas task at each time point, even after controlling for
+receptive vocabulary (all partial rs > .29, p < .001).
+Therefore, we again evaluated the potential impor-
+tance of the second-order false belief task as an ante-
+cedent or consequence or differences
+in peer
+relations. However, there were no signiﬁcant cross-
+lagged pathways between our measures of peer
+relations and scores on the second-order false belief
+task after controlling for receptive vocabulary (all
+partial |r|s < .13, p > .30). Therefore, we have
+excluded the second-order false belief task from the
+main analysis reported here).
+
+These results raise the intriguing question of
+how distinctive the faux pas task is in capturing an
+aspect of social understanding that clearly relates to
+
+real-life peer experiences. Clearly, it stands out as a
+more demanding task than the standard ﬁrst-order
+false belief
+task, which is typically passed by
+4–5 years of age (Wellman et al., 2001). Yet, as the
+evidence above implies, it also differs from other
+relatively demanding assessments of mental-state
+reasoning, such as second-order false belief tasks,
+insofar as it maps onto real-life differences in inter-
+personal relations in a more intimate way. In fact,
+this distinctive link between faux pas reasoning
+and peer
+relationships corresponds with early
+work—predating research on ToM—that connected
+children’s skills in perspective taking with qualities
+of their social behavior and relationships.
+
+In the late 1960s and early 1970s, researchers
+were already devising strategies for assessing and
+remediating difﬁculties in ‘‘social
+role taking’’
+(e.g., Chandler, 1973; Chandler, Greenspan, &
+Barenboim, 1974; Flavell, Botkin, Fry, Wright, &
+Jarvis, 1968). These authors showed how,
+for
+example, sequences of cartoons could be used to
+reveal some children’s difﬁculties in ‘‘discount
+[ing] their own understanding of the test situa-
+tions and adopt[ing] the roles of persons less well
+informed than themselves’’ (Chandler et al., 1974,
+p. 548). At around the same time, an elaborate
+stage model of
+increasing sophistication in role
+taking was developed by Selman (1976, 1980),
+who went on to consider how differences in role
+taking are manifested in different ‘‘interpersonal
+negotiation strategies’’ (Selman, Beardslee, Schultz,
+Krupa, & Podorefsky, 1986). The theoretical impli-
+cation of these early investigations was that a full
+and mature appreciation of others’ perspectives
+leads to qualitatively different experiences of peer
+interaction, in comparison to a more ‘‘egocentric’’
+perspective;
+indeed, Vernberg, Ewell, Beery, and
+Abwender (1994) have shown that 12- to 14-year-
+old pupils with more sophisticated negotiation
+strategies tend to develop greater intimacy and
+companionship when establishing new friend-
+ships.
+
+The precise details of social understanding impli-
+cated in a child’s perspective-taking performance
+often remained opaque in this work, but one
+important feature of the early conceptualizations of
+developments in perspective taking was that chil-
+dren were not assumed to undergo a seismic shift
+from no understanding to full understanding of
+others’ perspectives. Unfortunately,
+in the years
+that
+children’s gradually increasing
+sophistication in understanding others’ mental
+states was to a large extent overshadowed by the
+focus on a single transition in recognizing the rep-
+
+followed,
+
+resentational nature of belief states as measured by
+the false belief task (Chandler, 2001). Now, how-
+ever, we can return to the notion of a complex and
+multifaceted model of social understanding, emerg-
+ing within the context of children’s interactions
+with social partners in order to understand why the
+faux pas task may serve as an important correlate
+of real-life peer relations.
+
+and interpretations
+
+of
+
+Even in Chandler and colleagues’ cartoon task,
+skillful perspective taking required far more than
+an appreciation of false belief. In fact, LeMare and
+Rubin (1987), in the course of demonstrating that
+performance on the cartoon task was linked with
+qualities of peer interaction, noted that successful
+role taking in this cartoon task required, among
+other components, not only a recognition of how
+certain antecedent situations could bring about a
+character’s emotional state but also how another
+character without information about those anteced-
+ent situations could form inaccurate cognitive rep-
+resentations
+the ﬁrst
+character’s emotional behavior. We believe that this
+linkage of situational events, emotional states, and
+cognitive representations (inﬂuenced by access to
+information) maps closely onto the kinds of social
+insights needed for understanding a faux pas. The
+appreciation of
+this interplay between cognitive
+and emotional states is not tapped by standard
+ﬁrst- or second-order ToM tasks (which typically
+address only beliefs about the physical identity or
+location of inanimate objects). The faux pas task
+may also differ in this respect from other measures
+of relatively ‘‘advanced’’ social understanding that
+still concentrate mainly on cognitive representa-
+tions of one’s own or another person’s belief states
+(e.g., double-bluff,
+etc.;
+Carpendale & Chandler, 1996; Happe´, 1993).
+
+interpretive diversity,
+
+The Present Study
+
+Building on our hypothesis that the faux pas task
+offers a distinctively powerful tool for capturing
+the social understanding involved in everyday peer
+the present study reports on a 24-
+interactions,
+month longitudinal
+follow-up of children from
+Banerjee and Watling’s (2005) study. Tracking the
+children’s faux pas understanding and sociometric
+scores over time provides a valuable opportunity to
+evaluate likely sequential pathways from faux pas
+understanding to peer relations, and from peer
+relations to faux pas understanding. We believe
+that both pathways are likely, in line with Hughes
+and Leekam’s (2004) argument that social relations
+may both transform and be transformed by chil-
+
+Peer Relations Faux Pas
+
+1891
+
+dren’s ToM. Our analysis should help to address
+several key predictions that could not be tested in
+the original study. First, we can evaluate whether
+peer rejection is likely to hinder children’s acquisi-
+tion of advanced mental-state reasoning skills.
+Banerjee and Watling indicated that the presence of
+highly negative social relations, rather than the
+absence of highly positive social relations, might be
+especially predictive of difﬁculties in learning about
+faux pas situations. We expect that this would be
+especially true over periods when children typically
+make the most progress in the faux pas task
+(between 7 and 9 years for girls and between 9 and
+in Baron-Cohen et al., 1999;
+11 years for boys,
+between 6 and 8 years,
+in Banerjee, 2000), since
+active rejection and social exclusion will reduce
+opportunities to learn from peer interactions.
+
+Second, we can evaluate the extent to which faux
+pas scores relate to subsequent peer relations. We
+expect that difﬁculties in faux pas early on (e.g.,
+around 5–6 years) are unlikely to be related to peer
+rejection since such difﬁculties would be normative
+for children at that age, but it is unclear whether
+better faux pas understanding may over time lead
+to increased peer acceptance. However, if the faux
+pas task does indeed capture the kind of social
+understanding that is involved in everyday peer
+interaction, we can justiﬁably predict that when
+most children have typically made progress in
+understanding faux pas, those who stand out with
+relatively poor performance will be more likely to
+experience growing peer rejection. Following on
+from the pattern noted by Banerjee and Watling
+(2005), we expect that these negative sequelae of
+faux pas understanding will primarily reﬂect the
+consequences of difﬁculties in the more complex
+and subtle aspects of social reasoning in this task,
+speciﬁcally, a relatively poorer understanding of
+the ignorance and lack of intention on the part of
+the protagonist making the faux pas. The present
+study offers the ﬁrst opportunity to test such
+hypotheses about longitudinal associations between
+social understanding and peer relations in school-
+aged children.
+
+Method
+
+Participants
+
+The present study concerns data from 210 chil-
+dren, in two age groups, who were part of the sam-
+ple described by Banerjee and Watling (2005). At the
+ﬁrst time point of data collection, the younger group
+consisted of 31 boys and 41 girls aged approxi-
+
+1892 Banerjee, Watling, and Caputi
+
+mately 6 years (M = 5.98, SD = .29), and the older
+group consisted of 78 boys and 60 girls aged approx-
+imately 9 years (M = 9.02, SD = .27). The children
+were seen again at two time points 12 months (aged
+7 or 10 years) and 24 months (aged 8 or 11 years)
+later. The children, who were all in classes partici-
+pating in a longitudinal project on social-cognitive
+and socioemotional development, attended seven
+primary schools situated in urban and suburban
+neighborhoods in a city in the United Kingdom. The
+schools covered a wide range of socioeconomic sta-
+tus (percentage claiming free school meals ranged
+from 5.3% to 45.7%), and their pupils were predomi-
+nantly White in ethnicity (percentage from ethnic
+minorities ranged from 2% to 14%).
+
+The present sample included all children from
+Banerjee and Watling’s (2005) study who were still
+in the same school and available to complete all
+tasks at both follow-up time points (68% of the ori-
+ginal sample). For both age groups, the longitudinal
+sample did not score signiﬁcantly differently on
+Time 1 faux pas performance or peer rejection from
+those who did not complete both follow-ups (all
+ts < 1.62, ps > .10). However, among the younger
+children, the longitudinal sample scored higher on
+peer acceptance than those who did not complete
+the
+vs.
+M = ).27, SD = .89), t(118) = 2.47, p < .05. No such
+effect was observed for the older children (t < 1).
+
+follow-ups
+
+SD = 1.00
+
+(M = .18,
+
+two
+
+The materials, measures, and procedures relating
+to the faux pas and sociometric nominations tasks
+are described in Banerjee and Watling (2005); the
+details are reproduced below.
+
+Materials
+
+Children completed all tasks using a multimedia
+computer interface designed and created by the
+authors using Runtime Revolution software. All
+responses were made by using a mouse to click on
+on-screen buttons, and all text on the screen (e.g.,
+instructions, stories, questions, response options,
+etc.) was read out loud to the child via headphones.
+The tasks were presented on PCs running Windows
+95,
+or
+computer
+laboratories.
+
+schools’
+
+in the
+
+2000
+
+98,
+
+pleted a number of other measures (assessing self-
+presentational understanding and moral reasoning)
+that are not addressed here.
+
+that
+
+Faux pas.. Children completed this measure at
+each of the three time points. Children were told
+(orally and through on-screen text)
+they
+would hear four different stories, that they should
+listen carefully to the stories, and that they would
+be asked some questions at the end of each story.
+They then were presented with four faux pas sto-
+ries
+in random order, each followed by six
+forced-choice questions in a ﬁxed order. A single
+cartoon-style illustration accompanied each story,
+and all
+instructions, story text, questions, and
+response options were presented orally. Each
+story involved two child story characters where
+the ‘‘insulting’’ character makes an unintentional
+insult about some target object and a neutral
+statement
+is made by the ‘‘insulted’’ character.
+The insulting character was always ignorant with
+respect
+to the insulted character’s relation with
+the target object. For example, in one story, one
+character says a painting is awful
+to a second
+character, not realizing that he was the person
+who had painted it. The order in which the faux
+pas and neutral statements appeared was counter-
+stories. The six forced-choice
+balanced across
+questions are
+correct
+answer identiﬁed in italics.
+
+listed below, with the
+
+1. Detection—In the story, did someone say
+something they should not have said? (Yes or
+No).
+
+2. Identiﬁcation—What was said that should not
+have been said? ([insult by insulting character]
+or [neutral statement by insulted character]).
+
+3. Feelings—How does [insulted character] feel
+
+now? (Happy ⁄ Pleased or Sad ⁄ Upset).
+
+4. Intention—Did [insulting character] want to
+make [insulted character] upset? (Yes or
+No).
+
+5. Comprehension—[question regarding target
+
+object] (Correct answer or Incorrect answer).
+
+6. Ignorance—Did [insulting character] know
+[insulted character’s relationship with the tar-
+get object]? (Yes or No).
+
+Measures
+
+At each time point of the longitudinal study,
+children completed a battery of measures using the
+multimedia computer interface. The measures rele-
+vant
+investigation are described
+below. It should be noted that children also com-
+
+to the present
+
+The six questions were presented in a ﬁxed order
+after each story. All response options appeared as
+on-screen buttons, and children used a mouse to click
+on these buttons in order to make their responses.
+The order of correct and incorrect response options
+was counterbalanced across stories, with the excep-
+tion of the ﬁrst, fourth, and sixth questions, where
+
+Yes and No response buttons remained in ﬁxed posi-
+tions in accordance with a standard presentation of
+these buttons in other tasks in the battery. The ﬁrst
+two and the last two questions correspond to the four
+questions listed in Baron-Cohen et al. (1999), with
+the exception that forced-choice response options
+were presented to the children. Two stories involved
+a male character making the faux pas and two stories
+involved a female character making the faux pas. A
+sample story and question set is presented in the
+Appendix.
+
+Peer acceptance and rejection.. Children completed
+this measure at each of the three time points. Chil-
+dren were presented with a class photograph and
+the following instructions (presented orally and in
+on-screen text):
+
+Please click on the faces of three children in your
+class who you would really like to play with.
+Then click on the green ‘‘OK’’ button to go on. If
+you change your mind, click on the red ‘‘Start
+Again’’ button.
+
+A black oval ring ‘‘button’’ surrounded each face
+on the screen and when the mouse-controlled poin-
+ter was moved over each ring the child would hear
+the name of the corresponding child. When a face
+was clicked, the corresponding name would appear
+in a space near the bottom of the screen and the
+button around that face was disabled. Children
+could clear the selection and start over at any point
+by clicking on a red Start Again button. If fewer
+than three nominations were made,
+the child
+received an alert which gave him or her the choice
+of either completing three nominations or skipping
+to the next task. After making the positive nomina-
+tions and clicking on a green OK button to indicate
+completion, children saw the same class photo-
+graph but this time were asked to click on the faces
+of three children with whom they would really not
+like to play. Children were prevented from nomi-
+nating themselves (their own ‘‘button’’ was dis-
+abled), but were free to nominate classmates of
+either sex. In total, more than 95% of the children at
+each time point gave a complete set of six peer
+nominations.
+
+Receptive vocabulary. Children completed this
+measure once only at the end of the ﬁnal school
+year of the project (approximately 3 months after
+the third main time point). The task was a comput-
+erized adaptation of the British Picture Vocabulary
+Scale–Second Edition (Dunn, Dunn, Whetton, &
+Burley, 1997; adapted for computer administration
+with permission of the publishers).
+
+Peer Relations Faux Pas
+
+1893
+
+Procedure
+
+Each time point of data collection took place in
+the second trimester of the school year, so that chil-
+dren completing the sociometric assessment would
+have had daily experience of being with each other
+in class for at least one trimester. At every time
+point, children completed the tasks in groups of
+between 3 and 7 (with smaller groups for the youn-
+ger children). Each child was seated at a computer
+in the school’s computer laboratory, spaced apart
+from other children as much as possible. They were
+given a general introduction to the tasks, and then
+put headphones on and clicked on the Start button
+on the ﬁrst screen to commence the task. Trained
+research assistants were present for all data collec-
+tion sessions and provided help with using the
+computer interface when required. Few problems
+were reported, and all children were familiar with
+the use of the mouse. All tasks were presented in a
+random order (which, along with the use of head-
+phones, helped to preserve individual privacy), and
+children completed the battery of tasks in a session
+usually lasting between 10 and 20 min, although
+there were no time limits on any task.
+
+Scoring
+
+Faux pas.. Consistent with Baron-Cohen et al.
+(1999), children had to answer all questions for a
+story correctly in order to pass that story (scoring 1
+point). Thus, correct answers to all 24 questions in
+the task would lead to a faux pas score of 4. Since
+there were two response options for each of 6 ques-
+tions, the probability of passing a story by random
+guessing is very low (.016; across four stories, .06).
+Also, for each of the 6 faux pas questions (Detec-
+tion, Identiﬁcation, Feelings, Intention, Comprehen-
+sion, Ignorance), we calculated a score out of 4
+representing the number of stories in which the
+question was answered correctly.
+
+Peer acceptance and rejection.. Following Coie and
+the numbers of ‘‘like’’ and
+Dodge (1983, 1988),
+‘‘dislike’’ nominations received by each participant
+were standardized within each classroom (i.e., con-
+verted to z scores such that the mean number of
+received nominations in a given class becomes a z
+score of 0), resulting in Peer Acceptance and Peer
+Rejection scores, respectively.
+
+Results
+
+We ﬁrst examined age and gender differences in
+performance on the faux pas task. Table 1 shows
+
+1894 Banerjee, Watling, and Caputi
+
+Table 1
+Mean Scores on the Faux Pas Task at Each Time Point, by Age Group and Gender
+
+Younger cohort
+
+Older cohort
+
+Gender
+
+Time 1 (age 6)
+
+Time 2 (age 7)
+
+Time 3 (age 8)
+
+Time 1 (age 9)
+
+Time 2 (age 10)
+
+Time 3 (age 11)
+
+Male
+Female
+Total
+
+1.19 (1.42)
+1.02 (1.31)
+1.10 (1.35)
+
+1.52 (1.55)
+1.88 (1.62)
+1.72 (1.59)
+
+1.77 (1.50)
+2.29 (1.42)
+2.07 (1.47)
+
+2.44 (1.40)
+2.62 (1.35)
+2.51 (1.38)
+
+2.74 (1.41)
+3.30 (1.06)
+2.99 (1.30)
+
+2.71 (1.51)
+3.33 (1.19)
+2.98 (1.41)
+
+than younger
+
+the children’s mean scores on the faux pas task at
+each time point. A mixed design analysis of vari-
+ance was conducted on the faux pas scores, with
+age group and gender between subjects and time
+point within subjects. Receptive vocabulary scores
+were included as a covariate. The analysis yielded
+a main effect of age group, F(1, 205) = 61.27,
+p < .001, partial g2 = .23, with older children scor-
+ing higher
+children (adjusted
+M = 2.84, SE = .09 vs. M = 1.66, SE = .12), and a
+main effect of gender, F(1, 205) = 8.58, p < .01, par-
+tial g2 = .04, with girls scoring higher than boys
+(adjusted M = 2.47, SE = .10 vs. M = 2.03, SE = .11).
+There was also a signiﬁcant interaction effect of
+Time Point · Gender, F(2, 410) = 3.48, p < .05, par-
+tial g2 = .02, with a sharper rise in scores over the
+three time points for girls than for boys (girls’
+adjusted M = 1.89, SE = .13 vs. M = 2.64, SE = .14;
+boys’ adjusted M = 1.77, SE = .14 vs. M = 2.10,
+SE = .14). There was also a signiﬁcant main effect
+of the receptive vocabulary covariate on the faux
+scores, F(1, 205) = 29.34, p < .001, partial
+pas
+g2 = .13.
+
+Table 2 shows the mean scores on each faux pas
+question across the three time points, subdivided
+by age group. A mixed design analysis of covari-
+ance (ANCOVA) was conducted on the scores for
+each question, with time point within subjects, age
+group between subjects, and receptive vocabulary
+as a covariate in each analysis. There was a signiﬁ-
+cant main effect of age group on all questions (all
+
+questions
+
+and
+
+(partial g2s= .11
+
+Fs > 7.47, p < .01, partial g2 > .03), with the strong-
+est effect sizes apparent for the Intention and Igno-
+rance
+.10,
+respectively). Over and above this basic develop-
+mental contrast, there were signiﬁcant effects of
+time point for Detection and Identiﬁcation (both
+Fs > 5.44, p < .01, partial g2 > .02), and signiﬁcant
+interaction effects of Time Point · Age Group for
+Detection, Identiﬁcation, Feelings, and Comprehen-
+sion (all Fs > 3.18, p < .05, partial g2 > .01). This
+reﬂects the fact that the younger age group in par-
+ticular showed a steady increase across the three
+time points in responding correctly to those four
+questions.
+
+Given the clear age differences in relations
+among variables reported by Banerjee and Watling
+(2005), we examined each age group separately
+from the outset. Tables 3 and 4 show the correla-
+tions among the variables at each time point for the
+younger and older groups, respectively. There was
+robust continuity of individual differences in all
+three key variables (faux pas, peer rejection, and
+peer acceptance) over the three time points, for
+both age groups. Looking within each time point, it
+is noteworthy that signiﬁcant correlations between
+the faux pas and sociometric scores appeared
+mainly at the third time point for the younger
+group (i.e., around 8 years old) and at the ﬁrst time
+point for the older group (i.e., around 9 years old).
+Finally, in line with the ANCOVA reported above,
+receptive vocabulary was signiﬁcantly correlated
+
+Table 2
+Mean Scores on Speciﬁc Faux Pas Questions at Each Time Point, by Age Group
+
+Younger cohort
+
+Older cohort
+
+Question
+
+Time 1 (age 6)
+
+Time 2 (age 7)
+
+Time 3 (age 8)
+
+Time 1 (age 9)
+
+Time 2 (age 10)
+
+Time 3 (age 11)
+
+Detection
+Identiﬁcation
+Feelings
+Intention
+Comprehension
+Ignorance
+
+2.46 (1.58)
+3.31 (1.06)
+3.43 (1.02)
+2.81 (1.43)
+3.49 (0.71)
+2.75 (1.28)
+
+3.18 (1.37)
+3.54 (0.92)
+3.61 (0.90)
+3.08 (1.40)
+3.65 (0.70)
+3.00 (1.31)
+
+3.51 (0.86)
+3.64 (0.92)
+3.65 (0.79)
+3.01 (1.32)
+3.68 (0.71)
+2.85 (0.127)
+
+3.62 (0.69)
+3.89 (0.36)
+3.88 (0.45)
+3.38 (1.07)
+3.88 (0.33)
+3.17 (1.11)
+
+3.55 (0.91)
+3.78 (0.73)
+3.82 (0.70)
+3.70 (0.81)
+3.93 (0.39)
+3.56 (0.91)
+
+3.38 (1.09)
+3.70 (0.85)
+3.70 (0.92)
+3.67 (0.91)
+3.78 (0.80)
+3.60 (0.91)
+
+Peer Relations Faux Pas
+
+1895
+
+Table 3
+Intercorrelations Among the Variables Over Three Time Points (Younger Age Group)
+
+Time 1 (aged 6 years)
+
+Time 2 (aged 7 years)
+
+Time 3 (aged 8 years)
+
+Peer acc. Peer rej. Faux pas Peer acc. Peer rej. Faux pas Peer acc. Peer rej. Faux pas BPVS
+
+Time 1 (aged 6 years) Peer acc.
+Peer rej.
+Faux pas
+Time 2 (aged 7 years) Peer acc.
+Peer rej.
+Faux pas
+Time 3 (aged 8 years) Peer acc.
+Peer rej.
+Faux pas
+BPVS
+
+—
+).28*
+.07
+.49***
+).25*
+.07
+.26*
+).20 
+).03
+).05
+
+—
+).16
+).35**
+.52***
+).12
+).36**
+.64***
+).36**
+).19
+
+—
+.19
+).01
+.49***
+.21 
+).07
+.45***
+.50***
+
+—
+).25*
+.19 
+.45***
+).17
+.08
+.09
+
+—
+).05
+).31**
+.66***
+).30**
+).07
+
+—
+.18
+).19
+.56***
+.41***
+
+—
+
+).32**
+.29*
+.12
+
+—
+
+).39***
+).14
+
+—
+
+.43***
+
+—
+
+Note. Peer acc. = peer acceptance; Peer rej. = peer rejection; BPVS = British Picture Vocabulary Scale.
+ p £ .10. *p £ .05. **p £ .01, ***p £ .001.
+
+Table 4
+Intercorrelations Among the Variables Over Three Time Points (Older Age Group)
+
+Time 1 (aged 9 years)
+
+Time 2 (aged 10 years)
+
+Time 3 (aged 11 years)
+
+Peer acc. Peer rej. Faux pas Peer acc. Peer rej. Faux pas Peer acc. Peer rej. Faux pas BPVS
+
+Time 1 (aged 9 years)
+
+Peer acc.
+Peer rej.
+Faux pas
+Time 2 (aged 10 years) Peer acc.
+Peer rej.
+Faux pas
+Time 11 (aged 8 years) Peer acc.
+Peer rej.
+Faux pas
+BPVS
+
+—
+
+).34***
+.09
+.55***
+).34***
+.06
+.48***
+).31
+).01
+.04
+
+—
+).23**
+).16 
+.55***
+).27***
+).43***
+.67***
+).13
+).09
+
+—
+.25**
+).14 
+.48***
+.16 
+).16 
+.29***
+.21**
+
+—
+
+).37***
+.02
+.47***
+).28***
+).11
+.07
+
+—
+).11
+).35***
+.53***
+.02
+).01
+
+—
+).03
+).26**
+.41***
+.09
+
+—
+
+).43***
+.09
+.03
+
+—
+).11
+).07
+
+—
+.13
+
+—
+
+Note. Peer acc. = peer acceptance; Peer rej. = peer rejection; BPVS = British Picture Vocabulary Scale.
+ p £ .10. **p £ .01. ***p £ .001.
+
+with faux pas scores at all three time points for the
+younger group and at the ﬁrst time point for the
+older group.
+
+In order to evaluate the longitudinal relations
+among the variables, we tested cross-lagged associ-
+ations among the variables from Time 1 to Time 2
+and from Time 2 to Time 3. By looking at each age
+group separately, we can therefore track develop-
+mental pathways from 6 to 7 years and from 7 to
+8 years (younger group) and from 9 to 10 years and
+from 10 to 11 years (older group). We used Amos
+software for structural equation modeling to evalu-
+ate these associations. Following recommendations
+by Hu and Bentler (1998), we used maximum likeli-
+hood-based ﬁt indexes suitable for models with
+
+Ns £ 250, speciﬁcally comparative ﬁt index (CFI)
+and standardized root mean square
+residual
+(SRMR). Hu and Bentler suggest cutoffs of approxi-
+mately CFI > .95 and SRMR < .08 to determine
+good ﬁt. With each age group, we started with the
+cross-lagged model
+shown in Figure 1. This
+included all autoregressive effects connecting the
+same variables over the three time points, as well
+as cross-lagged effects of peer acceptance (PA) and
+peer rejection (PR) on faux pas (FP) scores at the
+subsequent time point, and cross-lagged effects of
+FP on PA and PR scores at the subsequent time
+point. It should be noted that receptive vocabulary
+scores were included as a control variable, predict-
+ing all scores at all time points. Finally, we allowed
+
+1896 Banerjee, Watling, and Caputi
+
+Time Point 1 
+
+ 
+
+ 
+
+ 
+
+Time Point 2 
+
+ 
+
+ 
+
+ 
+
+Time Point 3 
+
+Peer Rejection 
+
+Peer Rejection 
+
+Peer Rejection 
+
+Peer Acceptance 
+
+Peer Acceptance 
+
+Peer Acceptance 
+
+Faux Pas 
+
+Faux Pas 
+
+Faux Pas 
+
+Figure 1. Initial model to be tested, showing autoregressive and
+cross-lagged effects of key variables over the three time points
+(error terms and receptive vocabulary not shown, in order to
+enhance clarity).
+
+error terms for the PA and PR scores to covary
+within and between time points,
+to allow for
+unmeasured variables that could have inﬂuenced
+the pattern of children’s sociometric nominations.
+
+the
+
+negative
+
+This initial model showed good ﬁt with the data
+provided by the younger group, v2(11) = 14.24,
+p > .10, CFI = .984, SRMR = .047, but many of the
+cross-lagged paths were nonsigniﬁcant. We evalu-
+ated a second model without the nonsigniﬁcant
+leaving only one signiﬁcant
+cross-lagged paths,
+cross-lagged
+effect:
+association
+between PR at 7 years and FP at 8 years. This
+model, shown in Figure 2 with standardized coefﬁ-
+cients, still had good ﬁt, with no signiﬁcant deterio-
+ration from the ﬁrst model, v2(18) = 21.49, p > .10,
+CFI = .983, SRMR = .062; Dv2(7) = 7.25,
+p > .10.
+Moreover, an examination of modiﬁcation indexes
+showed that adding any further cross-lagged paths
+would not signiﬁcantly improve model ﬁt. Finally,
+in order to assess whether the cross-lagged paths
+were moderated by gender, we evaluated our ini-
+tial model before and after forcing all cross-lagged
+path coefﬁcients to be equal for boys and girls. Both
+models showed good ﬁt (CFI > .95, SRMR < .06),
+and there was no signiﬁcant deterioration in ﬁt
+after forcing equality across gender, Dv2(8) = 8.22,
+p > .10.
+
+With the older age group, we again started with
+the model including all cross-lagged paths, but we
+added a link between PR and FP at the ﬁrst time
+point in line with the known association between
+
+the nonsigniﬁcant
+
+these variables at
+this time point. This model
+showed good ﬁt, v2(10) = 13.15, p > .10, CFI = .991,
+SRMR = .032, but again included many nonsigniﬁ-
+cant cross-lagged paths. We evaluated a second
+model without
+cross-lagged
+paths, leaving three signiﬁcant cross-lagged effects:
+the negative association between PR at 9 years and
+FP at 10 years, the positive association between FP
+at 9 years and PA at 10 years, and the negative
+association between FP at 10 years and PR at
+11 years. This model, shown in Figure 3, continued
+to have good ﬁt, without signiﬁcant deterioration
+v2(15) = 19.92,
+p > .10
+from the ﬁrst model,
+CFI = .987, SRMR = .042; Dv2(5) = 6.77,
+p > .10.
+Again, an examination of modiﬁcation indexes
+showed that adding any further cross-lagged paths
+would not signiﬁcantly improve model ﬁt. Finally,
+as for the younger group, we evaluated our initial
+model before and after forcing all cross-lagged path
+coefﬁcients to be equal for boys and girls. Both
+models showed good ﬁt (CFI > .95, SRMR < .05),
+and there was no signiﬁcant deterioration in ﬁt
+after forcing equality across gender, Dv2(8) = 10.14,
+p > .10.
+
+In our ﬁnal analysis, we revisited each of the sig-
+niﬁcant cross-lagged paths observed in the above
+modeling analysis in order to determine which of
+the speciﬁc faux pas questions were responsible for
+carrying the effects. First, with regard to the nega-
+tive association between age 7 PR and age 8 FP
+(after controlling for age 7 FP and receptive vocabu-
+lary), we found signiﬁcant partial correlations when
+using the faux pas scores for Detection, Identiﬁca-
+tion, Feelings, Comprehension, and Ignorance (all
+|r|s > |).24|, p < .05). Second, the negative associ-
+ation between age 9 PR and age 10 FP (after con-
+trolling for age 9 FP and receptive vocabulary)
+was signiﬁcant when using the faux pas scores for
+Identiﬁcation, Feelings, and Comprehension (all
+|r|s > |).18|, p < .04).
+the positive
+link between age 9 FP and age 10 PA (after control-
+ling for age 9 PA and receptive vocabulary) was
+signiﬁcant only when using the Intention and Igno-
+
+In contrast,
+
+Aged 6 Years   
+
+ 
+
+ 
+
+Aged 7 Years   
+
+ 
+
+ 
+
+Aged 8 Years 
+
+Aged 9 Years   
+
+ 
+
+ 
+
+Aged 10 Years  
+
+ 
+
+ 
+
+Aged 11 Years 
+
+Peer Rejection 
+
+Peer Acceptance 
+
+Faux Pas 
+
+.53***
+
+.50***
+
+.38***
+
+Peer Rejection 
+
+.45***
+
+-.26**
+
+Peer Acceptance 
+
+.41***
+
+Peer Rejection 
+
+Peer Rejection 
+
+Peer Acceptance 
+
+Peer Acceptance 
+
+-.22**
+
+Faux Pas 
+
+.46***
+
+Faux Pas 
+
+Faux Pas 
+
+.56***
+
+-.17*
+
+.53***
+
+.22**
+
+.45***
+
+Peer Rejection 
+
+.23**
+
+Peer Rejection 
+
+Peer Acceptance 
+
+.28***
+
+Peer Acceptance 
+
+Faux Pas 
+
+-.12*
+
+.40***
+
+Faux Pas 
+
+Figure 2. Final model for younger age group (error terms and
+receptive vocabulary not shown, in order to enhance clarity).
+**p £ .01. ***p £ .001.
+
+Figure 3. Final model
+for older age group (error terms and
+receptive vocabulary not shown, in order to enhance clarity).
+**p £ .01. ***p £ .001.
+
+scores
+
+(both rs > .16, p £ .05).
+rance faux pas
+Finally, the negative correlation between age 10 FP
+and age 11 PR (after controlling for age 10 PR and
+receptive vocabulary) was also signiﬁcant only
+when using the Intention and Ignorance scores
+(both |r|s > |).17|, p < .04).
+
+Discussion
+
+This study extended Banerjee and Watling’s (2005)
+observation of an inverse association between peer
+rejection and faux pas performance among 9-year-
+old children by tracking bidirectional links between
+sociometric and faux pas scores over a period of
+24 months, during which mean-level performance
+on faux pas steadily rises. We found that peer rejec-
+tion predicted relatively poorer faux pas under-
+standing between 7 and 8 years of age and between
+9 and 10 years of age. In addition, higher faux pas
+performance was
+relatively
+increased peer acceptance scores from 9 to 10 years
+of age, and lower faux pas performance was associ-
+ated with relatively increased peer rejection scores
+from 10 to 11 years of age. The pattern of longitudi-
+nal associations did not signiﬁcantly vary by gen-
+der, even though performance on the faux pas task
+was generally superior among girls, consistent with
+research by Baron-Cohen et al. (1999). Our results
+thus present the ﬁrst longitudinal evidence of a
+cyclical relation between faux pas understanding
+and peer relations during the primary school years.
+
+associated with
+
+The Role of Peer Relations in Social Understanding
+
+the
+
+The
+
+longitudinal
+
+follow-up of
+
+sample
+described in Banerjee and Watling (2005) has
+allowed us to extend our understanding of the
+developmental pathways connecting social under-
+standing and peer relations. First, we have shown
+that even though the original study found a concur-
+rent
+link between peer rejection and faux pas
+understanding only in the older cohort, at 9 years
+of age, the developmental trajectory that connects
+these variables in fact begins earlier. Speciﬁcally,
+our longitudinal analysis of changes in the younger
+cohort shows that peer rejection at 7 years of age
+predicted relatively lower
+faux pas scores the
+following year. This pattern continues in the ﬁrst
+two time points of data collection with the older
+cohort, as peer rejection at age 9 predicts relatively
+lower faux pas scores at age 10. Both of these
+effects are occurring at a time when mean-level per-
+formance on the faux pas task is showing a steady
+
+Peer Relations Faux Pas
+
+1897
+
+increase. Although longitudinal associations cannot
+in themselves demonstrate causal
+this
+pattern is certainly consistent with our hypothesis
+that peer rejection could hinder the acquisition of
+faux pas understanding.
+
+inﬂuence,
+
+their
+
+of
+
+aspects
+
+general
+
+social understanding.
+
+These observations fall neatly in line with other
+research suggesting that aspects of children’s inter-
+personal experiences play a role in the develop-
+ment of
+In past
+research, this has been most convincingly demon-
+strated within the family context. As noted earlier,
+both
+the mother–child
+relationship and speciﬁc features such as use of
+mental-state language have been implicated in the
+development of ToM skills (e.g., Dunn et al., 1991;
+Meins et al., 2002; Ruffman, Perner, & Parkin, 1999;
+Ruffman et al., 2002). Similarly, a number of studies
+have highlighted the role of siblings in this area of
+social-cognitive development (McAlister & Peter-
+son, 2007; Ruffman et al., 1998). The present study
+builds on this evidence by showing how the peer
+relations context may be critical
+for acquiring
+advanced forms of mental-state reasoning.
+
+Particularly noteworthy is the ﬁnding that peer
+rejection—not peer acceptance—was the key ante-
+cedent of faux pas understanding. This implies that
+it is the active rejection of children that carries the
+most signiﬁcant implications for faux pas under-
+standing. Such a conclusion would ﬁt with what
+we know about the impact of peer rejection on
+children’s socioemotional experiences and behavior.
+Peer rejection is associated with a greater likelihood
+of experiencing negative peer treatment as well as a
+decline in classroom participation (Buhs & Ladd,
+2001). Moreover, chronic peer rejection may lead to
+the development of adjustment problems and
+severe psychological difﬁculties (Ladd, Herald-
+Brown, & Reiser, 2008), and is certainly associated
+with greater
+(Asher &
+Wheeler, 1985). Our research suggests that the con-
+sequences of peer rejection are likely to extend
+beyond the immediate socioemotional functioning
+of children, to the development of social-cognitive
+skills and knowledge.
+
+feelings of
+
+loneliness
+
+The results we obtained are consistent with some
+existing evidence suggesting that qualities of peer
+relations predict biases in children’s social informa-
+tion processing (see Dodge & Pettit, 2003). It is
+interesting to note that it was the foundational fea-
+tures of faux pas reasoning—recognizing the insult
+that had been made by the protagonist, under-
+standing the impact on the other characters’ feel-
+ings, identifying the key story information relevant
+to the insult—that were most strongly predicted by
+
+1898 Banerjee, Watling, and Caputi
+
+prior peer rejection. This corresponds with evi-
+dence from research on social information process-
+ing biases in early elementary school
+that peer
+rejection predicted poorer encoding of the impor-
+tant social cues in ambiguous situations (Dodge
+et al., 2003). We therefore suggest that the limited
+opportunities for rejected children to experience
+positive social engagement with peers may have
+crucial consequences for children’s encoding of the
+key social cues relevant to the mental states held by
+social interactants.
+
+As far back as Piaget’s (1932) work on moral
+development, it has been recognized that coopera-
+tive social relationships, as opposed to relationships
+characterized by constraint, offer unique opportuni-
+ties for growth in understanding. However, in our
+study, relatively high levels of peer acceptance did
+not appear to confer any particular advantages in
+terms of subsequent gains in social understanding.
+This may reﬂect the fact that the absence of active
+rejection is the key factor inﬂuencing social under-
+standing; as long as a child is not actively excluded
+from peer interactions,
+there may be sufﬁcient
+opportunities for him or her to make gains in social
+reasoning. However, we recognize that particularly
+high levels of peer acceptance may well generate or
+accelerate patterns of social reasoning not tapped
+by the faux pas task. One possibility is that a high
+level of positive relations within the peer group
+promotes more sophisticated understanding of the
+interpretive character of the mind (Carpendale &
+Chandler, 1996)—the understanding that, for exam-
+ple, two people can be exposed to the same infor-
+mation but form entirely different interpretations of
+what they have seen—since close positive relation-
+ships with a wider range of peers should present
+greater opportunity for observing diversity in inter-
+pretation of everyday events and situations. A fur-
+ther possibility is that
+the main social-cognitive
+consequences of high levels of peer acceptance are
+domain speciﬁc rather than domain general. In this
+view, high levels of peer liking may not signiﬁ-
+cantly extend generic skills in mental-state reason-
+ing but may promote domain-speciﬁc reasoning
+about particular kinds of social situations, such as
+the consideration of multiple viewpoints in negotia-
+tion and compromise (e.g., Selman et al., 1986).
+Investigating these hypotheses is an important chal-
+lenge for future research.
+
+The Role of Social Understanding in Peer Relations
+
+The present study suggests not only that quali-
+ties of peer relations may serve as an important
+
+antecedent of subsequent faux pas understanding
+but also that relatively low or high scores on the
+faux pas task could have signiﬁcant consequences
+for subsequent peer relations. Speciﬁcally, higher
+faux pas scores at age 9 predicted relatively higher
+peer acceptance at age 10, while lower faux pas
+scores at age 10 predicted relatively higher peer
+rejection at age 11. These patterns were evident
+only in the older cohort, possibly indicating that a
+certain degree of progression in faux pas under-
+standing must ﬁrst
+take place within the peer
+group before individual differences in faux pas
+scores begin to have any meaningful social con-
+sequences. Moreover, the aspects of faux pas rea-
+soning most strongly predictive of subsequent peer
+relations were those that were the most complex
+and demanding, namely, the appreciation of the
+ignorance on the part of the protagonist making the
+faux pas, and the recognition that the upset caused
+to the other character was not intended.
+
+Of greatest interest is the ﬁnding that at 10 years
+of age, when mean-level performance on the faux
+pas task appears to have a risen to a developmental
+plateau, those individuals with lower scores on the
+task appear to become relatively more rejected by
+their peers over the following year. This emergence
+of peer rejection as a consequence of impaired or
+delayed faux pas understanding—when the peer
+group in general is performing at a high level on the
+task—suggests that social understanding has a criti-
+cal role to play in children’s interpersonal relation-
+ships. This pattern adds to a small but growing
+literature clarifying the value of social understand-
+ing for social interactions. We noted earlier that ToM
+skills have been implicated in the development of
+pretend play (e.g., Hughes & Dunn, 1997), connected
+communication between friends (e.g., Slomkowski
+& Dunn, 1996), and general social competence (e.g.,
+Watson et al., 1999). The present study builds on
+these ﬁndings by identifying the consequences of
+difﬁculties in faux pas understanding for children’s
+peer relationships at a time when most of the peer
+group is performing well on the task.
+
+The ﬁnding that
+
+Intention and Ignorance
+responses were the key antecedents of peer accep-
+tance and rejection is particularly interesting, as this
+maps neatly onto evidence from social information
+processing theory that biases in attribution (and
+particularly the presumption of hostile intent) play
+a key role in negative social behavior and interper-
+sonal relations (Dodge & Pettit, 2003). The faux pas
+situation is of particular interest because correct
+judgments about intent (or lack thereof) depend on
+complex inferences about what
+the protagonist
+
+knows of the other character’s preferences. Thus,
+the present study encourages us to integrate per-
+spectives on information-processing biases with
+theoretical views on the development of mental-
+state reasoning. This kind of integration is still in
+its early days, but already some analyses have
+shown that it is a fruitful approach to understanding
+children’s socioemotional development. Speciﬁcally,
+Banerjee’s (2008) review of social-cognitive factors
+involved in childhood anxiety suggests that biases
+at various stages of
+information processing are
+likely to interact with social-cognitive difﬁculties,
+notably including difﬁculties in understanding faux
+pas (Banerjee & Henderson, 2001).
+
+Implications for Models of Social-Cognitive
+Development
+
+involving
+
+signiﬁcantly,
+
+theoretical models of
+
+The present study has important implications
+for our
+social-cognitive
+development, and in particular for our formula-
+tions of social-cognitive development beyond the
+age of 5 years. Perhaps most
+it
+shows that peer relations constitute a critical con-
+text for the development of social understanding,
+with peer rejection not only shaping, but also
+being shaped by, children’s reasoning about com-
+plex social situations. The peer context offers
+unique incentives to understand how people can
+have different perspectives on situations and
+events, both when managing cooperative peer
+group interactions and when handling stressful
+situations
+competition and conﬂict
+(Banerjee, 2004; Zerwas et al., 2004). The notion
+interactions should be so
+that children’s peer
+social understanding is
+entwined with their
+consistent with the growing importance of
+the
+peer context in children’s social lives during the
+school years. As children grow older, as Parker
+and Gottman (1989) pointed out, acceptance by
+the peer group becomes an increasingly vital
+objective of social
+life. Moreover, to proﬁt from
+schooling and to be ‘‘ready’’ for academic learn-
+ing, children must cooperate with others, avoid
+disrupting others’ interactions, and form construc-
+tive and supportive relationships with teachers
+and peers (e.g., Ladd, Herald, & Kochel, 2006).
+Given these changing social priorities,
+it seems
+entirely appropriate that we begin to study in
+more detail the social-cognitive dimension of chil-
+dren’s peer experiences.
+
+The results from the present study complement
+and extend some of the foundational research that
+set the scene for ToM research. The connections
+
+Peer Relations Faux Pas
+
+1899
+
+between faux pas performance and social relations
+resonate with the evidence from LeMare and Rubin
+(1987) that peer sociability is linked with the ability
+to take the perspective of an uninformed bystander
+when interpreting the emotional behavior of a char-
+acter who (unknown to the bystander) had experi-
+enced a highly affectively charged situation. Our
+research has the advantage of showing how reason-
+ing about social situations involving emotions,
+knowledge states, and intentions are linked longitu-
+dinally with the quality of children’s peer group
+functioning. In doing so, our study details the criti-
+cal position of social relationships as a context for
+the child’s construction of social understanding
+(Carpendale & Lewis, 2004). Speciﬁcally, negative
+peer
+to inhibit children’s
+emerging ability to track the details of complex
+situations where people’s behavior has
+social
+consequences
+feelings, and—
+subsequently—difﬁculties in developing a mature
+capacity to infer knowledge states and intentions in
+these situations predict increasing peer rejection.
+
+relationships appear
+
+for each others’
+
+We believe that at least two key issues need to be
+considered in further analyses. First, investigations
+of social understanding in the context of peer rela-
+tions require measures that are suitably sensitive to
+the kinds of mental-state reasoning that are
+involved in children’s actual social
+interactions.
+Clearly, ﬁrst-order ToM tasks, such as the standard
+false belief task, will be inadequate for explaining
+individual differences
+in typically developing
+children’s social relationships beyond the age of 5
+or 6 years. Furthermore, although standard ‘‘advan-
+ced’’ ToM tasks, such as measures of second-order
+false belief understanding (Perner & Wimmer, 1985;
+Sullivan et al., 1994) have been shown to relate to
+various other measures of social reasoning such as
+the understanding of self-presentation and social
+emotions (e.g., Banerjee & Yuill, 1999; Bennett &
+Matthews, 2000; see also review by Miller, 2009),
+they may not be adequate to capture the mental-
+state reasoning involved in everyday peer interac-
+tions. Indeed, Peterson, Garnett, Kelly, and Attwood
+(2009) have recently shown that even those autistic
+children who pass laboratory ToM tasks typically
+were rated as poorer on ‘‘everyday mindreading’’
+(social and conversational skills requiring mental-
+state reasoning). Thus, more naturalistic measures
+of the speciﬁc mental-state reasoning skills required
+for ‘‘everyday mindreading’’—probably including
+tasks such as faux pas understanding but also tasks
+measuring the comprehension of irony, sarcasm,
+and complex emotions (e.g., Channon, Pellijeff, &
+Rule, 2005; Happe´, 1993; Heerey, Keltner, & Capps,
+
+1900 Banerjee, Watling, and Caputi
+
+2003; Ozonoff, Pennington, & Rogers, 1991)—are a
+critical requirement for future research.
+
+subsequent
+
+A second issue of importance concerns the devel-
+opmental timing of the associations between peer
+relations and social understanding. In the present
+study, we observed that peer rejection was an ante-
+cedent of
+faux pas understanding
+between 7 and 10 years of age, when mean-level
+performance on the faux pas task was steadily ris-
+ing. However, between 10 and 11 years, when faux
+pas scores in general appeared to have ﬂattened
+out, peer rejection emerged as a longitudinal con-
+sequence of having relatively low faux pas scores.
+Thus, the nature of the association between social
+relationships and social understanding is likely to
+vary depending on the age of the participants and
+the normative developmental
+trajectory for the
+given measure of social understanding. For exam-
+ple, as we have seen above, parents’ interactions
+with their young children can provide particularly
+fertile soil from which social understanding can
+grow and mature, insofar as features such as men-
+tal-state talk can facilitate and accelerate the devel-
+opment of mentalizing skills (e.g., Ruffman et al.,
+2002). On the other hand, we suggest that individ-
+ual differences in a given mentalizing skill may
+come to play a more prominent role in inﬂuencing
+peer group processes once most children have mas-
+tered that skill: At that point, the relevant social
+understanding may become an important founda-
+tion for successful peer group interaction and those
+who lack that understanding may therefore be
+‘‘unable to enter deeply into peer
+relations’’
+(Slaughter et al., 2002, p. 560).
+
+Bringing together both of the points above is the
+possibility that different social understanding tasks
+may have varying importance at different ages. Just
+as we noted that standard false belief tasks cannot
+explain variance in peer relations during middle
+childhood, we must also observe that the faux pas
+task does not explain variance in peer relations
+during early childhood. This raises key questions
+about which dimensions of social understanding
+are linked to interpersonal relations during differ-
+ent periods of a child’s development.
+In fact,
+research over the past 25 years has revealed a
+remarkable array of developmental accomplish-
+ments in social understanding from toddlerhood to
+adolescence,
+including—apart from the faux pas
+reasoning studied here—capacities for understand-
+ing pretence, reasoning about desires, recognizing
+emotions, understanding false belief, appreciating
+interpretative
+emotional
+ambivalence, and knowing how to regulate emo-
+
+explaining
+
+diversity,
+
+tional and cognitive states (see Carpendale &
+Lewis, 2006). A systematic analysis of when, how,
+and why these different accomplishments are
+linked to social relationships is a critical challenge
+for future research.
+
+Limitations and Directions for Further Work
+
+The present study has a number of important
+limitations that must be acknowledged and that
+correspond with directions for further research.
+First, we have relied on a single measure of social
+understanding,
+the faux pas task. Although we
+believe there is good reason to view this as a valu-
+able naturalistic measure of social understanding—
+it has been successfully examined in connection
+with a range of socially meaningful characteristics
+(e.g., social anxiety, Banerjee & Henderson, 2001;
+autistic spectrum disorders, Baron-Cohen et al.,
+1999; frontal lobe lesions, Stone, Baron-Cohen, &
+Knight, 1998)—further work using a wider range of
+tasks, tapping different features of social under-
+is required to substantiate the claims
+standing,
+made above about
+links between
+social understanding and peer relations.
+
+the reciprocal
+
+Second, the potential contributions of cognitive
+and verbal ability to children’s social understand-
+ing are not sufﬁciently clear. In the present study,
+we controlled for a basic measure of receptive
+vocabulary—which was indeed associated with
+performance on the faux pas task—but it seems
+plausible that other dimensions of cognition and
+language may have important roles to play (e.g.,
+semantic dimensions, Milligan, Astington, & Dack,
+2007; syntax, Ruffman, Slade, Rowlandson, Rum-
+sey, & Garnham, 2003; Smith, Apperly, & White,
+2003; executive function, Blair, Zelazo, & Green-
+berg, 2005; Carlson & Moses, 2001; Hughes, 1998).
+
+concerns
+
+Third, it is important to stress that there may
+be unmeasured variables that contribute to the
+relation between the faux pas and peer relations
+scores. Even though social understanding is obvi-
+ously and immediately relevant to children’s peer
+interactions, it seems plausible that other variables
+play a role in inﬂuencing each of these. One key
+area
+children’s motivation. Wentzel
+(1996), for example, reports on research connecting
+children’s social goals with their academic atti-
+tudes, goals, and achievements. It seems highly
+plausible that broad motivational orientations con-
+cerning dimensions such as peer afﬁliation will
+also give rise to different responses to the kinds of
+scenarios and questions presented in the faux pas
+task. However, we must recognize that those dif-
+
+ferences in goal orientation and motivation them-
+selves are likely to stem from variations in chil-
+dren’s social experiences. Indeed, aspects of family
+functioning discussed earlier (e.g., Meins et al.,
+2002; Ruffman et al., 2002) will almost certainly
+have independent as well as causally connected
+effects on both interpersonal
+functioning and
+social understanding. Future research that com-
+bines assessment of family and peer contexts will
+therefore be invaluable for identifying the poten-
+tial additive and interactive effects of these social
+environments.
+
+Fourth, a major direction for further research
+concerns the mediating mechanisms that explain
+the observed longitudinal associations between
+social understanding and peer
+relations. With
+regard to the potential inhibition of social-cogni-
+tive development caused by peer rejection, we
+have suggested above that constrained opportuni-
+ties to engage in positive social
+interactions are
+likely to hinder learning about complex social sit-
+uations involving interplays of
+intentions, emo-
+tions, and beliefs. While this seems a plausible
+line of argument, it is important to stress that we
+do not have any direct measurements of the quan-
+tity or quality of children’s social
+interactions.
+Research that provides such ﬁne-grained measure-
+ments will be critical for understanding precisely
+what aspects of peer rejection might lead to delays
+or impairments in social understanding. For exam-
+ple, it is not clear if there are differences in social
+understanding between children who are rejected
+because of aggressive behavior and children who
+are rejected because of withdrawn behavior (see
+Gifford-Smith & Brownell, 2003). On a related
+point, further research should take into account
+the subtle difference between friendlessness and
+group exclusion; in fact, a mutual friendship could
+potentially mitigate the negative effects of peer
+rejection on mindreading abilities (Peterson & Si-
+egal, 2002).
+
+In a similar way, we need to understand more
+about the speciﬁc social, emotional, and behavioral
+features that mediate the relation between poor faux
+pas scores and subsequently increased peer rejec-
+tion, as observed among the 10- to 11-year-olds in
+the present study. It seems possible that children
+who do not have a sophisticated insight into the
+interplay of mental states involved in the faux pas
+situations are more likely to react inappropriately to
+these situations in their social life; such responses, in
+turn, could lead to a more negative peer reputation
+and ultimately to greater rejection. However, this is
+an empirical question that demands multi-informant
+
+Peer Relations Faux Pas
+
+1901
+
+assessment of behavior and further longitudinal
+analysis of meditational models.
+
+serve
+
+as
+
+that
+
+antecedents
+
+Thus, gaining insight into the subtle connections
+between social understanding and peer relations is
+likely to depend on the use of a variety of different
+methodologies in future research. Pepler and Craig
+(2005), for example, point to the richness of data that
+can be derived from observation of peer interac-
+tions, both in naturalistic and structured settings.
+Adding such work to the knowledge gained from
+sociometric analysis, one can potentially determine
+the speciﬁc aspects of peer group functioning and
+and ⁄ or
+discourse
+consequences of particular forms of social reason-
+ing. This would help us to go beyond broad indexes
+of acceptance and rejection in order to identify
+which features of social interaction might contribute
+to different aspects of faux pas understanding. In
+addition, such a multimethod approach can help us
+uncover the potential moderating role of gender in
+the connection between peer relations and social
+understanding. Although we found only a main
+effect of gender on faux pas reasoning in the present
+study, more detailed methodological approaches
+to both peer relations and social understanding may
+help us see how important gender-related differ-
+ences in peer relationships (e.g., Benenson, Apos-
+toleris, & Parnass, 1998) map onto distinctions
+between boys and girls in their social reasoning, par-
+ticularly concerning negative emotions (Banerjee,
+Rieffe, Meerum Terwogt, Gerlein, & Voutsina,
+2006).
+
+Conclusion
+
+In summary, the present study has for the ﬁrst
+time revealed bidirectional links between peer rela-
+tions and social understanding in schoolchildren
+between the ages of 6 and 11 years. The results
+indicate that active rejection by the peer group is
+likely to hinder the understanding of faux pas, at a
+time when such understanding is typically increas-
+ing. In addition, difﬁculties in understanding faux
+pas toward the end of primary school appear to
+predict subsequently elevated peer rejection. These
+developmental patterns not only underline the
+importance of naturalistic measures of social under-
+standing as both antecedents and consequences of
+children’s interpersonal relationships but also show
+that the nature of these longitudinal relationships
+changes over time. Further research is needed to
+identify the speciﬁc mechanisms that account for
+the development of different aspects of social
+understanding within the peer context.
+
+1902 Banerjee, Watling, and Caputi
+
+References
+
+Adria´n, J. E., Clemente, R. A., & Villanueva, L. (2007).
+Mothers’ use of cognitive state verbs in picture-book
+reading and the development of children’s understand-
+ing of mind: A longitudinal study. Child Development,
+78, 1052–1067. doi:10.1111/j.1467-8624.2007.01052.x
+
+Asher, S. R., & Wheeler, V. A. (1985). Children’s loneliness:
+A comparison of rejected and neglected peer status. Jour-
+nal of Consulting and Clinical Psychology, 53, 500–505.
+
+Badenes, L., Estevan, R. A., & Bacete, F. J. (2000). Theory
+of mind and peer rejection at school. Social Development,
+9, 271–283. doi:10.1111/1467-9507.00125
+
+Banerjee, R. (2000). The development of an understanding
+of modesty. British Journal of Developmental Psychology,
+18, 499–517.
+
+Banerjee, R. (2002). Audience effects on self-presentation
+in childhood. Social Development, 1, 487–507. doi:10.
+1111/1467-9507.00212
+
+Banerjee, R.
+
+(2004). The role of social experience in
+advanced social understanding. Behavioral and Brain
+Sciences, 27, 97–98. doi:10.1017/S0140525X04230035
+
+Banerjee, R. (2008). Social cognition and anxiety in chil-
+dren. In C. Sharp, P. Fonagy, & I. Goodyer (Eds.), Social
+cognition and developmental psychopathology (pp. 239–
+269). Oxford, UK: Oxford University Press.
+
+Banerjee, R., & Henderson, L. (2001). Social-cognitive fac-
+tors in childhood social anxiety: A preliminary investi-
+gation. Social Development, 10, 558–572. doi:10.1111/
+1467-9507.00180
+
+Banerjee, R., Rieffe, C., Meerum Terwogt, M., Gerlein, A.,
+& Voutsina, M. (2006). Popular and rejected children’s
+reasoning about negative emotions in social situations:
+Interactions with gender. Social Development, 15, 418–
+433. doi:10.1111/j.1467-9507.2006.00349.x
+
+Banerjee, R., & Watling, D. (2005). Children’s understand-
+ing of faux pas: Associations with peer relations. Hel-
+lenic Journal of Psychology, 2, 27–45.
+
+Banerjee, R., & Yuill, N. (1999). Children’s understanding
+of self-presentational display rules: Associations with
+mental-state understanding. British Journal of Develop-
+mental Psychology, 17, 111–124. doi:10.1348/026151
+099165186
+
+Baron-Cohen, S. (1995). Mindblindness: An essay on autism
+
+and theory of mind. Cambridge, MA: MIT Press.
+
+Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R., &
+Plaisted, K. (1999). Recognition of faux pas by normally
+developing children and children with Asperger syn-
+drome or high-functioning autism. Journal of Autism
+and Developmental Disorders, 29, 407–418. doi:10.1023/
+A:1023035012436
+
+Benenson, J., Apostoleris, N., & Parnass, J. (1998). The
+organization of children’s same-sex peer relationships.
+New Directions for Child and Adolescent Development, 81,
+5–23. doi:10.1002/cd.23219988103
+
+Bennett, M., & Matthews, L. (2000). The role of second-
+order belief-understanding and social
+in
+children’s self attributions of social emotions. Social
+Development, 9, 126–130. doi:10.1111/1467-9507.00115
+
+context
+
+Blair, C., Zelazo, P. D., & Greenberg, M. T. (2005). The
+measurement of executive function in early child-
+hood. Developmental Neuropsychology,
+561–571.
+doi:10.1207/s15326942dn2802_1
+
+28,
+
+Bosacki, S., & Astington, J. W. (1999). Theory of mind in
+preadolescence: Relations between social understand-
+ing and social competence. Social Development, 8, 237–
+255. doi:10.1111/1467-9507.00093
+
+Buhs, E. S., & Ladd, G. W. (2001). Peer rejection in kin-
+dergarten as an antecedent of young children’s school
+adjustment: An examination of mediating processes.
+Developmental Psychology, 37, 550–560. doi:10.1037//
+0012-1649.37.4.550
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differ-
+ences in inhibitory control and children’s theory of
+mind. Child Development, 72, 1032–1053. doi:10.1111/
+1467-8624.00333
+
+Carpendale, J. I., & Chandler, M. (1996). On the distinction
+between false belief understanding and subscribing to
+an interpretive theory of mind. Child Development, 67,
+1686–1706. doi:10.1111/j.1467-8624.1996.tb01821.x
+
+Carpendale, J. I. M., & Lewis, C. (2004). Constructing an
+understanding of mind: The development of children’s
+social
+interaction.
+Behavioral and Brain Sciences, 27, 79–151. doi:10.1017/
+S0140525X04000032
+
+understanding within
+
+social
+
+Carpendale, J. I. M., & Lewis, C. (2006). How children
+
+develop social understanding. Oxford, UK: Blackwell.
+
+Cassidy, K. W., Werner, R. S., Rourke, M., Zubernis, L. S.,
+& Balaraman, G. (2003). The relationship between psy-
+chological understanding and positive social behaviors.
+Social Development,
+198–221. doi:10.1111/1467-
+9507.00229
+
+12,
+
+Chandler, M. J. (1973). Egocentrism and antisocial behav-
+ior: The assessment and training of social perspective-
+taking skills. Developmental Psychology, 9, 326–332.
+doi:10.1037/h0034974
+
+Chandler, M. (2001). Perspective taking in the aftermath
+of theory–theory and the collapse of the social-role tak-
+ing literature. In A. Tryphon & V. Vone`che (Eds.),
+Working with Piaget: Essays in honour of Ba¨rbel Inhelder
+(pp. 39–64). Hove, UK: Psychology Press.
+
+Chandler, M., Greenspan, S., & Barenboim, C. (1974).
+Assessment and training of role-taking and referential
+communication skills in institutionalized emotionally
+disturbed children. Developmental Psychology, 10, 546–
+553. doi:10.1037/h0036735
+
+Channon, S., Pellijeff, A., & Rule, A. (2005). Social cogni-
+tion after head injury: Sarcasm and theory of mind.
+Brain
+doi:10.1016/
+j.bandl.2004.09.002
+
+Language,
+
+and
+
+93,
+
+123–134.
+
+Coie, J. D., & Dodge, K. A. (1983). Continuities and
+changes in children’s social status: A ﬁve-year longitu-
+dinal study. Merrill-Palmer Quarterly, 29, 261–281.
+
+Coie, J. D., & Dodge, K. A. (1988). Multiple sources of
+data on social behavior and social status in the school:
+A cross-age comparison. Child Development, 59, 815–
+829.
+
+Cutting, A. L., & Dunn, J. (2006). Conversations with sib-
+lings and with friends: Links between relationship
+quality and social understanding. British Journal of
+Developmental Psychology,
+73–87. doi:10.1348/
+026151005X70337
+
+24,
+
+Dahlgren, S., & Trillingsgaard, A. (1996). Theory of mind
+in non-retarded children with autism and Asperger’s
+syndrome. A research note. Journal of Child Psychology
+and
+doi:10.1111/j.1469-
+7610.1996.tb01469.x
+
+Psychiatry,
+
+759–763.
+
+37,
+
+Dodge, K. A., Lansford, J. E., Burks, V. S., Bates, J. E.,
+Pettit, G. S., Fontaine, R., et al. (2003). Peer rejection
+and social information-processing factors in the devel-
+opment of aggressive behavior problems in children.
+Child Development,
+374–393. doi:10.1111/1467-
+8624.7402004
+
+74,
+
+Dodge, K. A., & Pettit, G. S. (2003). A biopsychosocial
+model of the development of chronic conduct problems
+in adolescence. Developmental Psychology, 39, 349–371.
+doi:10.1037/0012-1649.39.2.349
+
+Dunn, J. (1995). Children as psychologists: The later cor-
+relates of individual differences in understanding of
+emotions and other minds. Cognition and Emotion, 9,
+187–201. doi:10.1080/02699939508409008
+
+Dunn, J., Brown, J., & Beardsall, L. (1991). Family talk about
+feeling states and children’s later understanding of oth-
+ers’ emotions. Developmental Psychology, 27, 448–455.
+
+Dunn, L. M., Dunn, L. M., Whetton, C., & Burley, J.
+(1997). British Picture Vocabulary Scale II. Windsor, UK:
+NFER-Nelson.
+
+Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Proso-
+cial development. In N. Eisenberg, W. Damon, & R. M.
+Lerner (Eds.), Handbook of child psychology (6th ed., pp.
+646–718). New York: Wiley.
+
+Ensor, R., & Hughes, C. (2008). Content or connected-
+ness? Mother–child talk and early social understand-
+ing. Child Development, 79, 201–216. doi:10.1111/j.1
+467-8624.2007.01120.x
+
+Faulkner, D., & Miell, D. (1993). Settling into school: The
+importance of early friendships for the development of
+children’ social understanding and communicative
+competence. International Journal of Early Years Educa-
+tion, 1, 23–46. doi:10.1080/0966976930010104
+
+Flavell, J. H. (2004). Theory-of-mind development: Retro-
+spect and prospect. Merrill-Palmer Quarterly, 50, 274–
+290. doi:10.1353/mpq.2004.0018
+
+Flavell, J., Botkin, P., Fry, C., Wright, J., & Jarvis, D.
+(1968). The development of role-taking and communication
+skills in children. New York: Wiley.
+
+Gifford-Smith, M. E., & Brownell, C. A. (2003). Childhood
+peer relationships: Social acceptance, friendships, and
+peer networks. Journal of School Psychology, 41, 235–284.
+doi:10.1016/S0022-4405(03)00048-7
+
+Happe´, F. G. E. (1993). Communicative competence and
+theory of mind in autism: A test of relevance theory. Cog-
+nition, 48, 101–119. doi:10.1016/0010-0277(93)90026-R
+
+Happe´, F. G. E. (1994). An advanced test of theory of
+thoughts
+
+mind: Understanding of story characters’
+
+Peer Relations Faux Pas
+
+1903
+
+and feelings by able autistic, mentally handicapped,
+and normal children and adults. Journal of Autism and
+Developmental Disorders,
+129–154. doi:10.1007/
+BF02172093
+
+24,
+
+Happe´, F. G. E. (1995). The role of age and verbal ability
+in the theory of mind task performance of subjects with
+autism. Child Development, 66, 843–855. doi:10.1111/
+j.1467-8624.1995.tb00909.x
+
+Heerey, E. A., Keltner, D., & Capps, L. M. (2003). Making
+sense of self-conscious emotion: Linking theory of
+mind and emotion in children with autism. Emotion, 3,
+394–400. doi:10.1037/1528-3542.3.4.394
+
+Howes, C., & Matheson, C. C.
+
+(1992). Sequences in
+the development of competent play with peers: Social
+and pretend play. Developmental Psychology, 28, 961–
+974.
+
+Hu, L. T., & Bentler, P. M. (1998). Fit indices in covari-
+ance structure modeling: Sensitivity to underparame-
+terized model misspeciﬁcation. Psychological Methods, 3,
+424–453.
+
+Hughes, C. (1998). Executive function in preschoolers:
+Links with theory of mind and verbal ability. British
+Journal of Developmental Psychology, 16, 233–253.
+
+‘‘Pretend you didn’t
+Hughes, C., & Dunn,
+know’’: Preschoolers’
+in
+pretend play. Cognitive Development, 12, 477–497.
+doi:10.1016/S0885-2014(97)90019-8
+
+talk about mental states
+
+(1997).
+
+J.
+
+Hughes, C., Lecce, S., & Wilson, C. (2007). ‘Do you know
+what I want?’ Preschoolers’ talk about desires, thoughts
+and feelings in their conversations with sibs and
+friends.
+330–350.
+doi:10.1080/02699930600551691
+
+Cognition
+
+Emotion,
+
+and
+
+21,
+
+Hughes, C., & Leekam, S. R. (2004). What are the links
+between theory of mind and social relations? Review,
+reﬂections and new directions for studies of typical
+and atypical development. Social Development, 13, 590–
+619. doi:10.1111/j.1467-9507.2004.00285.x
+
+Ladd, G. W. (1999). Peer relationships and social compe-
+tence during early and middle childhood. Annual
+Review of Psychology, 50, 333–359. doi:10.1146/annurev.
+psych.50.1.333
+
+Ladd, G., Herald, S. L., & Kochel, K. P. (2006). School
+readiness: Are there social prerequisites? Early Educa-
+tion
+115–150. doi:10.1207/
+s15566935eed1701_6
+
+and Development,
+
+17,
+
+Ladd, G. W., Herald-Brown, S. L., & Reiser, M. (2008).
+the
+Does chronic classroom peer rejection predict
+development of
+classroom participation
+during the grade school years? Child Development, 79,
+1001–1015. doi:10.1111/j.1467-8624.2008.01172.x
+
+children’s
+
+Lalonde, C. E., & Chandler, M. J. (1995). False belief
+understanding goes to school: On the social-emotional
+consequences of coming early or late to a ﬁrst theory of
+mind. Cognition and Emotion, 9, 167–185. doi:10.1080/
+02699939508409007
+
+LeMare, L. J., & Rubin, K. H. (1987). Perspective taking
+and peer interaction: Structural and developmental
+analyses. Child Development, 58, 306–315.
+
+1904 Banerjee, Watling, and Caputi
+
+Lillard, A. (1993). Pretend play skills and the child’s the-
+348–371.
+
+of mind. Child Development,
+
+ory
+doi:10.1111/j.1467-8624.1993.tb02914.x
+
+64,
+
+Maguire, M. C., & Dunn, J. (1997). Friendships in early
+childhood, and social understanding. International Jour-
+nal of Behavioral Development, 21, 669–686. doi:10.1080/
+016502597384613
+
+McAlister, A., & Peterson, C. (2007). A longitudinal study
+of child siblings and theory of mind development. Cog-
+nitive Development,
+258–270. doi:10.1016/j.cog-
+dev.2006.10.009
+
+22,
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta,
+M. D., Fradley, E., & Tuckey, M.
+(2002). Maternal
+mind-mindedness and attachment security as predic-
+tors of theory of mind understanding. Child Develop-
+ment, 73, 1715–1726. doi:10.1111/1467-8624.00501
+
+Miller, S. A. (2009). Children’s understanding of second-
+order mental states. Psychological Bulletin, 135, 749–773.
+doi:10.1037/a0016854
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Lan-
+guage and theory of mind: Meta-analysis of the relation
+between language ability and false-belief understand-
+ing. Child Development, 78, 622–646. doi:10.1111/j.1467-
+8624.2007.01018.x
+
+Newcomb, A. F., Bukowski, W. M., & Pattee, L. (1993).
+Children’s peer relations: A meta-analytic review of
+popular, rejected, neglected, controversial, and average
+sociometric status. Psychological Bulletin, 113, 99–128.
+
+Ozonoff, S., Pennington, B., & Rogers, S. J. (1991). Execu-
+tive function deﬁcits in high-functioning autistic indi-
+viduals: Relationship to theory of mind. Journal of Child
+Psychology and Psychiatry, 32, 1081–1105. doi:10.1111/
+j.1469-7610.1991.tb00351.x
+
+Parker, J. G., & Gottman, J. M. (1989). Social and emo-
+tional development
+in a relational context. In J. T.
+Berndt & G. W. Ladd (Eds.), Peer relationships in child
+development (pp. 95–131). New York: Wiley.
+
+Pears, K. C., & Moses, L. J. (2003). Demographics, parent-
+ing, and theory of mind in preschool children. Social
+Development, 12, 1–20. doi:10.1111/1467-9507.00219
+
+Pepler, D. J., & Craig, W. M. (1998). Assessing children’s
+peer relationships. Child and Adolescent Mental Health, 3,
+176–182. doi:10.1111/1475-3588.00238
+
+Pepler, D. J., & Craig, W. M. (2005). Aggressive girls on trou-
+bled trajectories: A developmental perspective. In D. J.
+Pepler, K. C. Madsen, C. Webster, & K. S. Levene (Eds.),
+The development and treatment of girlhood aggression (pp. 3–28).
+Mahwah, NJ: Earlbaum.
+
+Perner, J., & Wimmer, H. (1985). ‘‘John thinks that Mary
+thinks that y’’: Attribution of second-order beliefs by 5-
+to 10-year-old children. Journal of Experimental Child
+Psychology,
+437–471. doi:10.1016/0022-0965(85)
+90051-7
+
+39,
+
+Peterson, C. C., Garnett, M., Kelly, A., & Attwood, T.
+(2009). Everyday social and conversation applications
+theory-of-mind understanding by children with
+of
+autism-spectrum disorders or
+typical development.
+
+European Child & Adolescent Psychiatry, 18, 105–115.
+doi:10.1007/s00787-008-0711-y
+
+Peterson, C. C., & Siegal, M. (2002). Mindreading and
+moral awareness in popular and rejected preschool-
+ers. British Journal of Developmental Psychology, 20,
+205–224.
+
+Peterson, C. C., & Slaughter, V. (2003). Opening windows
+into the mind: Mothers’ preferences for mental state
+explanations and children’s theory of mind. Cognitive
+Development, 18, 399–429. doi:10.1016/S0885-2014(03)
+00041-8
+
+Piaget, J. (1932). The moral judgement of the child, London:
+
+Kegan Paul.
+
+Renouf, A., Brendgen, M., Parent, S., Vitaro, F., Zelazo,
+P., Boivin, M., et al. (2010). Relations between theory of
+mind and indirect and physical aggression in kinder-
+garten: Evidence of the moderating role of prosocial
+behaviors. Social Development, 19, 535–555. doi:10.1111/
+j.1467-9507.2009.00552.x
+
+Repacholi, B. M., & Slaughter, V. (Eds.). (2003). Individual
+differences in theory of mind. New York: Psychology
+Press.
+
+Rose-Krasnor, L. (1997). The nature of social competence:
+A theoretical review. Social Development, 6, 111–135.
+doi:10.1111/j.1467-9507.1997.tb00097.x
+
+Rubin, K. H., Bukowski, W. M., & Parker, J. G. (2006). Peer
+interactions, relationships, and groups. In N. Eisenberg,
+W. Damon, & R. M. Lerner (Eds.), Handbook of child psy-
+chology (6th ed., pp. 571–645). Hoboken, NJ: Wiley.
+
+Ruffman, T., Perner, J., Naito, M., Parkin, L., & Clements,
+W. A. (1998). Older (but not younger) siblings facilitate
+false belief understanding. Developmental Psychology, 34,
+161–174.
+
+Ruffman, T., Perner, J., & Parkin, L. (1999). How parent-
+ing style affects false belief understanding. Social Devel-
+opment, 8, 395–411. doi:10.1111/1467-9507.00103
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation
+between children’s and mothers’ mental state language
+and theory-of-mind understanding. Child Development,
+73, 734–751. doi:10.1111/1467-8624.00435
+
+Ruffman, T., Slade, L., Rowlandson, K., Rumsey, C., &
+Garnham, A. (2003). How language relates to belief,
+desire, and emotion understanding. Cognitive Develop-
+ment, 18, 139–158. doi:10.1016/S0885-2014(03)00002-9
+
+Selman, R. L. (1976). Social-cognitive understanding: A
+guide to educational and clinical practice. In T. Licko-
+nia (Ed.), Moral development
+and behavior: Theory,
+research, and social issues (pp. 299–316). New York: Holt,
+Rinehart & Winston.
+
+Selman, R. L. (1980). The growth of interpersonal understand-
+
+ing. New York: Academic Press.
+
+Selman, R. L., Beardslee, W., Schultz, L. H., Krupa, M.,
+& Podorefsky, D.
+adolescent
+interpersonal negotiation strategies: Toward the inte-
+gration of structural and functional models. Develop-
+mental Psychology, 22, 450–459. doi:10.1037/0012-1649.
+22.4.450
+
+(1986). Assessing
+
+Slaughter, V., Dennis, M., & Pritchard, M. (2002). Theory
+of mind and peer acceptance in preschoolers. British
+Journal
+545–564.
+doi:10.1348/026151002760390945
+
+of Developmental Psychology,
+
+20,
+
+Slomkowski, C., & Dunn, J. (1996). Young children’s
+understanding of other people’s beliefs and feelings
+and their connected communication with friends.
+Developmental Psychology, 32, 442–447.
+
+Smith, M., Apperly, I. A., & White, V. (2003). False belief
+reasoning and the acquisition of relative clause sen-
+tences. Child Development, 74, 1709–1719. doi:10.1046/
+j.1467-8624.2003.00633.x
+
+Stone, V. E., Baron-Cohen, S., & Knight, R. T. (1998).
+Frontal lobe contributions to theory of mind. Journal of
+Cognitive Neuroscience,
+640–656. doi:10.1162/
+089892998562942
+
+10,
+
+Sutton, J., Smith, P., & Swettenham, J. (1999). Social cog-
+inadequacy or skilled
+nition and bullying: Social
+manipulation? British Journal of Developmental Psychol-
+ogy, 17, 435–450. doi:10.1348/026151099165384
+
+Sullivan, K., Zaitchik, D., & Tager-Flusberg, H. (1994).
+Preschoolers can attribute second-order beliefs. Devel-
+opmental Psychology, 30, 395–402.
+
+Taylor, M., & Carlson, S. M. (1997). The relation between
+individual differences in fantasy and theory of mind.
+Child Development, 68, 436–455. doi:10.1111/j.1467-
+8624.1997.tb01950.x
+
+Vernberg, E. M., Ewell, K. K., Beery, S. H., & Abwender,
+D. A. (1994). Sophistication of adolescents’
+interper-
+sonal negotiation strategies and friendship formation
+after relocation: A naturally occurring experiment. Jour-
+nal of Research on Adolescence, 4, 5–19. doi:10.1207/
+s15327795jra0401_2
+
+Walker, S. (2005). Gender differences in the relationship
+between young children’s peer-related social compe-
+tence and individual differences in theory of mind.
+Journal of Genetic Psychology, 166, 297–312. doi:10.3200/
+GNTP.166.3.297-312
+
+Watson, A. C., Nixon, C. L., Wilson, A., & Capage, L.
+(1999). Social interaction skills and theory of mind in
+young children. Developmental Psychology, 35, 386–391.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-
+theory-of-mind development: The truth
+false belief. Child Development, 72, 655–684.
+
+analysis of
+about
+doi:10.1111/1467-8624.00304
+
+Wentzel, K. (1996). Motivation in context: Social relation-
+ships and achievement in middle school. In J. Juvonen
+& K. Wentzel (Eds.), Social motivation: Understanding
+
+Peer Relations Faux Pas
+
+1905
+
+children’s school adjustment (pp. 226–247). New York:
+Cambridge University Press.
+
+Youngblade, L. M., & Dunn, J. (1995). Individual differ-
+ences in young children’s pretend play with mother and
+sibling: Links to relationships and understanding of
+other people’s feelings and beliefs. Child Development, 66,
+1472–1492. doi:10.1111/j.1467-8624.1995.tb00946.x
+
+Zerwas, S., Balaraman, G., & Brownell, C. (2004). Con-
+structing an understanding of mind with peers. Behav-
+ioral
+130. doi:10.1017/
+S0140525X04590039
+
+and Brain
+
+Sciences,
+
+27,
+
+Appendix
+
+Sample story, questions, and response options
+
+Nick has painted a picture of a rocket for a class
+exhibition. Nick’s friend, Peter, is in another class,
+but he comes to see the exhibition after school.
+Peter points to Nick’s picture and says, ‘‘The rest of
+the paintings are quite nice, but this rocket picture
+is dreadful, isn’t it?’’ Nick says, ‘‘Oh, I need to go
+home now.’’
+
+Detection. In the story, did someone say some-
+
+thing they should not have said? [Yes OR No]
+
+Identiﬁcation. What was said that should not have
+been said? [Nick said, ‘‘I need to go home now’’
+OR Peter said, ‘‘This rocket picture is dreadful’’]
+
+Feelings. How does Nick feel now? [Sad OR
+
+Pleased]
+
+Intention. Did Peter want to make Nick upset?
+
+[Yes OR No]
+
+Comprehension. Who painted the rocket picture?
+
+[Nick painted it OR Someone else painted it]
+
+Ignorance. Did Peter know that Nick had painted
+
+the rocket picture? [Yes OR No]
+
+Content of other scenarios
+
+One character says curtains are horrible to person
+
+who has just bought them.
+
+One character says he hates apple pie to cousin
+
+who has just made one.
+
+One character is negative about violins to friend
+
+who has just started violin lessons.
+
+

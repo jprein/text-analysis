@@ -1,5 +1,6 @@
 ---
-title: "word2vec_analysis"
+title: "Text Analysis"
+author: "Julia Prein"
 output: html_document
 ---
 
@@ -25,165 +26,48 @@ library(reshape2)
 tic("Run the whole script")
 ```    
 
-
-```{r}
+```{r import_python_function}
 library(reticulate)
-# Error in if (forge) "conda-forge" : 
-#   argument is not interpretable as logical
-conda_install("pdfminer", "os", "io")
-```
+os <- import("os")
+os$listdir(".")
 
-```{r}
-library(reticulate)
+# install libraries that aren't installed yet (which are in the .py file)
+run_python_file <- function(python_file) {
+  print(python_file)
+  a = try(reticulate::py_run_file(python_file),silent = TRUE)
+  if (inherits(a, "try-error") & grepl("ModuleNotFoundError", a)) {
+    system(sprintf("python -m pip install %s", gsub(".* |\\W","", c(a))))
+    run_python_file(python_file)
+  }
+  else a
+}
 
-# create a new environment 
-conda_create("r-reticulate")
-
-# install SciPy
-conda_install("r-reticulate", "pdfminer")
-
-# import SciPy (it will be automatically discovered in "r-reticulate")
-
-# Error in py_module_import(module, convert = convert) : 
-#   ModuleNotFoundError: No module named 'pdfminer'
-pdfminer <- import("pdfminer")
-```
-
-```{r}
-library(reticulate)
-
-# create a new environment 
-virtualenv_create("r-reticulate")
-
-# install SciPy
-virtualenv_install("r-reticulate", "pdfminer")
-
-# import SciPy (it will be automatically discovered in "r-reticulate")
-# ...... 
-# Successfully installed pdfminer-20191125 pycryptodome-3.9.9
-# Error in py_module_import(module, convert = convert) : ModuleNotFoundError: No module named 'pdfminer'
-pdfminer <- import("pdfminer")
+run_python_file("convert_pdf_to_txt.py")
+source_python("convert_pdf_to_txt.py")
 ```
 
 
-```{python}
-# Python 3.8.3 (/Users/julia_prein/Library/r-miniconda/bin/python)
-# Reticulate 1.16 REPL -- A Python interpreter in R.
-# SyntaxError: invalid syntax (<string>, line 1)
-conda activate pdfminer
-```
-
-```{r}
-library(reticulate) # for running python in R 
-
-# Error: could not find a Python environment for /Users/julia_prein/Library/r-miniconda/bin/python
-py_install("pdfminer") # works
-
-# py_install("os") # doesn't work
-# py_install("io") # doesn't work
-```
-
-```{r}
-file_list <- list.files(here("raw-data"), pattern = "*.pdf")
-data_list <- vector("list", "length" = length(file_list))
-```
-
-```{python}
-# https://stackoverflow.com/questions/26494211/extracting-text-from-a-pdf-file-using-pdfminer-in-python
-from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
-from pdfminer.converter import TextConverter
-from pdfminer.layout import LAParams
-from pdfminer.pdfpage import PDFPage
-from io import StringIO
-from os import path
-
-def convert_pdf_to_txt(path):
-    rsrcmgr = PDFResourceManager()
-    retstr = StringIO()
-    codec = 'utf-8'
-    laparams = LAParams()
-    device = TextConverter(rsrcmgr, retstr, laparams=laparams)
-    fp = open(path, 'rb')
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    password = ""
-    maxpages = 0
-    caching = True
-    pagenos = set()
-
-    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
-        interpreter.process_page(page)
-
-    text = retstr.getvalue()
-
-    fp.close()
-    device.close()
-    retstr.close()
-    return text
-
-# if __name__ == '__main__': 
-#     from sys import argv
-#     # print(convert_pdf_to_txt(argv[1]))
-#     text_file = open("test.txt", "w")
-#     n = text_file.write(convert_pdf_to_txt(argv[1]))
-#     text_file.close()
-
-# needs main to function properly. but in main, I can't access r.file_list()
-# if __name__ == '__main__':
-#       
-#     # läuft nicht, weil os nicht installiert  
-#     # files = [f for f in os.listdir('.') if os.path.isfile(f)]
-#     # files = filter(lambda f: f.endswith(('.pdf','.PDF')), files)
-#     
-#     text_file = open("test.txt", "w")
-#     n = text_file.write(convert_pdf_to_txt("/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/adrián2007mothers.pdf"))
-#     text_file.close()
-```
-
-```{python}
-if __name__ == '__main__':
-      
-    # läuft nicht, weil os nicht installiert  
-    # files = [f for f in os.listdir('.') if os.path.isfile(f)]
-    # files = filter(lambda f: f.endswith(('.pdf','.PDF')), files)
-    
-    text_file = open("test.txt", "w")
-    n = text_file.write(convert_pdf_to_txt("/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/adrián2007mothers.pdf"))
-    text_file.close()    
-```
-
-```{python}
-tmp = 12
-```
-```{python}
-print(tmp)
-```
-
-
-```{r}
-# läuft theoretisch (aber fehler wenn import im .py)
-# source_python("pdfconverter.py") # läuft nicht mit import in .py
-# py_run_file("pdfconverter.py")
-```
-
-```{python}
-print(r.file_list) # hier gehts (oben in der main nicht)
-```
-
-
-```{r load_data}
-# READ IN THE DATA. Papers are stored in the folder "raw-data". 
-# we want a list with again list entries. each list entry is one paper (e.g. data_list[[1]])
-
-# saves the names of all the pdf documents which are in your current folder
-file_list <- list.files(here("raw-data"), pattern = "*.pdf")
+```{r convert_pdf_to_txt, message=FALSE, warning=TRUE}
+# create list of all the names of our pdf files (located in the folder raw-data/pdfs)
+file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
 
 # creates a list with as many entries as you have pdf files. in here, we will save all the text content from the pdf files
 data_list <- vector("list", "length" = length(file_list))
 
-# for every pdf file, read in the text and save it in data list
-for (i in seq_along(file_list)) {
-   data_list[[i]] <- pdf_text(here("raw-data", file_list[i])) %>% 
-    readr::read_lines()
+# ONLY DO IT ONCE; CONVERT PDFs TO TXT FILES! 
+# in python script, define your working directory
+# for (i in seq_along(file_list)) {
+#   convert_pdf_to_txt(here("raw-data/pdfs", file_list[i]))
+# }
+
+file_list <- list.files(here("raw-data/txts"), pattern = "*.txt")
+
+### ERROR! 
+# for every txt file, read in the text and save it in data list
+for (i in 3) {
+  # print(file_list[i])
+  # data_list[[i]] <- read.delim(here("raw-data/txts", file_list[i]))
+  data_list[[i]] <- read_tsv(here("raw-data/txts", file_list[i]), locale = readr::locale(encoding = "utf8"))
 }
 ```
 

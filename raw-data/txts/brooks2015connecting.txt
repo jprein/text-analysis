@@ -1,0 +1,1007 @@
+Journal of Experimental Child Psychology 130 (2015) 67–78
+
+Contents lists available at ScienceDirect
+
+Journal of Experimental Child
+
+Psychology
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / j e c p
+
+Connecting the dots from infancy to childhood:
+A longitudinal study connecting gaze following,
+language, and explicit theory of mind
+Rechele Brooks a,b,⇑
+
+, Andrew N. Meltzoff a,c
+
+a Institute of Learning & Brain Sciences, University of Washington, Seattle, WA 98195, USA
+b Department of Psychiatry & Behavioral Science, University of Washington, Seattle, WA 98195, USA
+c Department of Psychology, University of Washington, Seattle, WA 98195, USA
+
+a r t i c l e
+
+i n f o
+
+a b s t r a c t
+
+Article history:
+Received 17 April 2014
+Revised 22 September 2014
+Available online 23 October 2014
+
+Keywords:
+Gaze following
+Language
+Social cognition
+Mental-state terms
+Theory of mind
+Longitudinal study
+
+This longitudinal study tested the same children at three time
+points: infancy (10.5 months of age), toddlerhood (2.5 years of
+age), and early childhood (4.5 years of age). At 10.5 months, infants
+were assessed experimentally with a gaze-following paradigm. At
+2.5 years, children’s language skills were measured using the
+MacArthur–Bates Communicative Development Inventories. At
+4.5 years, children’s explicit theory of mind was assessed with a
+standard test battery. Analyses revealed that infants with higher
+gaze-following scores at 10.5 months produced signiﬁcantly
+more mental-state words at 2.5 years and that children with more
+mental-state words at 2.5 years were more successful on the
+theory-of-mind battery at 4.5 years. These predictive longitudinal
+relationships remained signiﬁcant after controlling for general
+language, maternal education, and nonsocial attention. The results
+illuminate the bridging role that language plays in connecting
+infants’ social cognition to children’s later understanding of others’
+mental states. The obtained speciﬁcity in the longitudinal relations
+informs theories concerning mechanisms of developmental change.
+Ó 2014 Elsevier Inc. All rights reserved.
+
+⇑ Corresponding author at: Institute of Learning & Brain Sciences, University of Washington, Box 357988, Seattle, WA 98195,
+
+USA.
+
+E-mail address: recheleb@uw.edu (R. Brooks).
+
+http://dx.doi.org/10.1016/j.jecp.2014.09.010
+0022-0965/Ó 2014 Elsevier Inc. All rights reserved.
+
+68
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+Introduction
+
+By 4 or 5 years of age, children exhibit an explicit understanding of the representational nature of
+beliefs (e.g., Gopnik & Astington, 1988; Perner, 1991; Wellman, Cross, & Watson, 2001). At younger
+ages, they understand interrelationships among perception, desire, and intentional action, which
+are also integral to the development of a ‘‘theory of mind’’ (ToM) or ‘‘mentalizing’’ (e.g., Flavell,
+2004; Meltzoff, 1995; Repacholi & Slaughter, 2003; Wellman, Phillips, & Rodriguez, 2000;
+Williamson, Brooks, & Meltzoff, 2013). In this article, we focus on even earlier development—infant
+gaze following and children’s talk about the mind. Studying gaze following and its downstream effects
+provides insights into mechanisms of change in development and also informs discussions about the
+early identiﬁcation and treatment of children with autism spectrum disorders who have deﬁcits in
+gaze following (Jones & Klin, 2013; Mundy, Sullivan, & Mastergeorge, 2009; Toth, Munson, Meltzoff,
+& Dawson, 2006). Here, we report a longitudinal study with typically developing children that con-
+nects the dots between early gaze following, mental-state language use, and later ToM as measured
+by a standard test battery (Wellman & Liu, 2004).
+
+At a theoretical level, gaze following has been argued to relate to a child’s concept of mind via at
+least two routes. First, it has been thought of as a front-end ability that triggers or enables further
+growth along the ToM trajectory (Baron-Cohen, 1995). Second, gaze following promotes early word
+learning (Baldwin, 1993, 2000; Brooks & Meltzoff, 2005, 2008; Carpenter, Nagell, & Tomasello,
+1998), and this verbal advantage has been argued to support and engender perspective taking and
+mentalizing. On the other hand, it has been suggested that infant gaze following may be unrelated
+to conceptualizing mental states because gaze following during early infancy could simply be an ori-
+enting response to physical movement or spatial cues (e.g., Corkum & Moore, 1998; Doherty, 2006;
+Doherty & Anderson, 1999).
+
+Understanding visual perception and ToM
+
+Children’s understanding of visual perception is a key aspect of their grasp of others’ mental states
+(e.g., Gopnik & Astington, 1988; Lohmann & Tomasello, 2003; Meltzoff & Brooks, 2008; Pratt & Bryant,
+1990; Wellman et al., 2000). Intervention studies provide the strongest evidence; training preschool-
+ers on perception tasks improves their understanding of false belief (Slaughter & Gopnik, 1996). It may
+be that learning about other people’s visual perception (which has a bodily component in terms of
+head and eye direction) gives children leverage to understand deeper, less visible mental states such
+as beliefs.
+
+A nascent reaction to the direction of people’s gaze begins during early infancy. At 6 to 9 months of
+age, infants turn in the same direction that a person orients (Butterworth & Jarrett, 1991; Corkum &
+Moore, 1998; Gredebäck, Fikke, & Melinder, 2010). By 9 to 12 months of age, infants connect the loo-
+ker to a focal object (Carpenter et al., 1998; Johnson, Ok, & Luo, 2007; Sodian & Thoermer, 2004;
+Woodward, 2003). By 10 to 12 months of age, infants selectively follow the head turns of a person
+who has open eyes more often than closed eyes, suggesting that infants recognize that people see with
+their eyes and that infants are not simply responding to salient head movement cues (Brooks &
+Meltzoff, 2002). By 12 to 18 months of age, a randomized control training study demonstrated that
+infants use their own visual experiences (with a visual barrier) to interpret when another person
+can and cannot see an object (Meltzoff & Brooks, 2008), providing strong evidence for construing gaze
+in a mentalistic framework.
+
+Language development and ToM
+
+Children’s language has consistently been shown to inﬂuence ToM development (Milligan,
+Astington, & Dack, 2007; Peterson, Wellman, & Liu, 2005). Many of children’s conversations with
+adults and peers concern mental states (de Rosnay & Hughes, 2006). Based on their social interactions
+in everyday settings, children increase their mental-state vocabulary and enrich their understanding
+of others’ desires, emotions, and beliefs (Dunn, Brown, Slomkowski, Tesla, & Youngblade, 1991;
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+69
+
+Ruffman, Slade, & Crowe, 2002). Children’s production of mental-state terms is speciﬁcally related to
+their understanding of beliefs (Ensor & Hughes, 2008; Meins, Fernyhough, Arnott, Leekam, & de
+Rosnay, 2013).
+
+Longitudinal prediction studies
+
+Researchers have begun to examine longitudinal relationships between gaze following and later
+social–cognitive understanding. Kristen, Sodian, Thoermer, and Perst (2011) assessed gaze following
+by having an adult look, vocalize, and point at a target. They found that infants’ responses to this mul-
+timodal cue predicted later use of mental-state words. Because the adult’s presentation included
+vocalizations, it is unclear how much infants relied exclusively on the adult’s gaze to localize the tar-
+get. Infants’ sensitivity to the adult vocalizations themselves could have been a factor in the obtained
+predictive relationship with language. Indeed, tests of infant following that disallowed adult vocaliza-
+tion did not relate to later performance on mental-state tasks (Colonnesi, Rieffe, Koops, & Perucchini,
+2008).
+
+Other studies have measured infant behaviors that were not speciﬁcally gaze following per se but
+involved the eyes, such as the number of gaze shifts infants made when looking between an adult and
+a target object. Using this measure, there are some reports of correlations between infants’ gaze shift-
+ing and later understanding of mental states (Charman et al., 2000; Nelson, Adamson, & Bakeman,
+2008). Although these gaze shifts show that infants can disengage their attention from an object to
+look at an adult, they do not implicate gaze following per se. Such gaze shifts may reﬂect infants’
+growing capacity for attentional control, which may relate to later ToM through an executive function
+pathway.
+
+The general issue of infant attentiveness and attentional control has not been controlled in previ-
+ous reports of how infant responses to adult gaze may relate to language and ToM development. Gen-
+eral attentiveness is an untested ‘‘third factor’’ that could mediate obtained relationships between
+gaze following and other concurrent or subsequent social cognition (e.g., Colonnesi et al., 2008;
+Kristen et al., 2011).
+
+Study rationale and aims
+
+To begin to connect the dots in a longitudinal study, we tested the same children at three points in
+development: infancy (10.5 months of age), toddlerhood (2.5 years of age), and early childhood
+(4.5 years of age) and measured gaze following, productive vocabulary (including mental-state terms),
+and explicit ToM, respectively. A strength of this study is that we examined the speciﬁcity of the lon-
+gitudinal relations. The relations were examined while controlling for general language and maternal
+education, which are known to be mediators of longitudinal relationships in social cognition (e.g.,
+Cutting & Dunn, 1999; Hughes et al., 2014). We also assessed infants’ looking during a nonsocial atten-
+tion task to provide control data on infants’ general visual attentiveness to targets.
+
+The current work capitalized on the opportunity to retest children who participated in a nonverbal
+assessment of gaze following when they were infants (Brooks & Meltzoff, 2008). We followed the chil-
+dren longitudinally to assess (a) whether infants’ gaze following at 10.5 months of age speciﬁcally
+predicts toddlers’ acquisition of mental-state terms at 2.5 years of age and (b) whether differences
+in these early skills predict children’s later scores on a standard ToM battery at 4.5 years of age.
+
+Method
+
+Participants
+
+A total of 32 infants (16 boys) were originally tested at 10.5 months of age (M = 10.53 months,
+SD = 0.54) in a study of gaze following (Brooks & Meltzoff, 2008). In the longitudinal follow-up
+reported here, 5 of the original families were unable to participate at 2.5 years of age because they
+declined (n = 1), did not have time to complete forms (n = 2), or could not be reached (n = 2). Thus,
+
+70
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+27 children (14 boys) were assessed when they were 2.5 years old (M = 2.51 years, SD = 0.02). Of these
+children, 19 (11 boys) were retested when they were 4.5 years old (M = 4.53 years, SD = 0.07). The
+other 8 children were unable to participate at 4.5 years because their parents declined (n = 1), moved
+(n = 3), or could not be reached (n = 4). In total, 59% (19 of 32) of the children originally tested during
+early infancy provided complete data at all time points through 4.5 years of age, which is comparable
+to (a) the retention rates of other longitudinal work (Wellman, Lopez-Duran, LaBounty, & Hamilton,
+2008; Yamaguchi, Kuhlmeier, Wynn, & vanMarle, 2009) and (b) the ﬁnal sample size reported in pre-
+vious longitudinal studies spanning from infancy to preschool tests of ToM (Aschersleben, Hofer, &
+Jovanovic, 2008; Charman et al., 2000).
+
+Parents identiﬁed 74% of the children as White, 5% as Black, and 21% as more than one ethnicity/
+race for the longitudinal group. Mothers reported their educational degrees as ranging from high
+school to advanced degrees, with a mean of a 4-year university degree (M = 16.63 years of schooling,
+SD = 1.98). Families received a small gift at each assessment.
+
+Procedures and measures
+
+The longitudinal study included data from 10.5 months, 2.5 years, and 4.5 years of age.
+
+Test at 10.5 months
+
+Infants sat on their parent’s lap across the table from an experimenter in the laboratory. The gaze-
+following task was administered before the nonsocial-looking task to prevent task interference. (The
+latter task had activated targets, which could inﬂuence the infants’ gaze-following responses.)
+
+Gaze following. Infants participated in a gaze-following task with distal stationary targets (9 cm diam-
+eter  16 cm tall). There were two identical colorful targets, 75° to the left and right of the infant
+(135 cm away from infant midline), placed at the infant’s eye level on pedestals. As reported by
+Brooks and Meltzoff (2008), there were four 6.5-s test trials in the original assessment of gaze follow-
+ing. The experimenter made eye contact with the infant to conﬁrm that the infant was at midline
+before looking at a target. The experimenter silently turned her head and eyes with a neutral expres-
+sion toward one of the two distal targets.
+
+Infants’ looking was scored from video by a coder who was kept blind to the direction of the exper-
+imenter’s head turn and the hypotheses of the study. As is common in the laboratory-based gaze-
+following literature, the ﬁrst ‘‘correct look’’ in each trial was scored when the infant’s eyes aligned with
+the experimenter’s target (e.g., Gredebäck et al., 2010) and used in the statistical analysis. The ‘‘gaze-
+following’’ score was calculated as the average duration of correct looks—that is, the total duration of
+correct looks divided by the number of correct looks (as scored by Brooks & Meltzoff, 2008). (A score of
+0 was given to infants who had no correct looks.) An independent coder also scored 25% of the infants’
+videos to test for coder agreement. Intercoder agreement (Cohen’s j) was .95 for gaze following.
+
+Nonsocial looking. A nonsocial-looking task was also administered. This task used remotely activated
+mechanical targets (24 cm long  12 cm wide  14 cm tall) that sat on the pedestals. The two identi-
+cal targets were toy pigs programmed to move their noses and tails while emitting a sound and then to
+move their legs (although the targets were anchored to stay in one place). During the two trials,
+the experimenter remained neutral with a pleasant demeanor and looked forward without looking
+at the activated targets. One infant did not complete this task because of mechanical problems with
+the targets.
+
+A coder scored infants’ looking from video and was kept blind to the target activation and the
+hypotheses of the study. The ‘‘nonsocial-looking’’ score was the average duration of correct looks
+across the two trials. An independent coder scored 25% of the infants’ videos for coder agreement.
+The intercoder agreement (Cohen’s j) was .98.
+
+Test at 2.5 years
+
+We assessed children’s productive vocabulary. Parents were mailed two standardized forms from
+the MacArthur–Bates Communicative Development Inventories (CDI): the Words and Sentences
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+71
+
+form (680 words appropriate for ages 1.5–2.5 years) and the Level III form (100 words appropriate
+for ages 2.5–3.1 years). The forms are valid and reliable measures of children’s productive vocabu-
+lary (Fenson et al., 2007). Two language scores were derived from the CDI forms (similar to
+Meins et al., 2013).
+
+Mental-state terms. The CDI forms yielded a score for children’s production of 15 mental-state terms
+from three categories: cognition (4 words: ‘‘forget,’’ ‘‘idea,’’ ‘‘pretend,’’ and ‘‘think’’), desire (3 words:
+‘‘need,’’ ‘‘wanna’’ or ‘‘want to,’’ and ‘‘wish’’), and emotion (8 words: ‘‘angry,’’ ‘‘happy,’’ ‘‘hate,’’ ‘‘like,’’
+‘‘love,’’ ‘‘mad,’’ ‘‘sad,’’ and ‘‘scared’’). These words were the most common mental-state terms pro-
+duced by young children (e.g., Bartsch & Wellman, 1995; Bretherton & Beeghly, 1982; Brown &
+Dunn, 1991; Shatz, Wellman, & Silber, 1983).
+
+Nonmental terms. The CDI forms also yielded a score for children’s production of nonmental vocabu-
+lary. Most of the mental terms were predicates (verbs and adjectives, which are categorized as action
+and descriptive words on the CDI; Bates et al., 1994). Thus, the ‘‘nonmental terms’’ were the number of
+action and descriptive words minus the number of mental-state terms.
+
+Test at 4.5 years
+
+Children were evaluated in the laboratory by experimenters who were kept blind to the results of
+
+the children’s previous assessments.
+
+Verbal ability. Children’s verbal comprehension was assessed with the Peabody Picture Vocabulary
+Test (PPVT, 3rd edition), which has high internal consistency and validity (Dunn & Dunn, 1997).
+The administration of the PPVT was abridged to word lists for children aged 5 to 7 years to test
+age-appropriate verbal comprehension. Those items were assigned raw scores based on PPVT scoring
+instructions, resulting in a possible range of 25 to 72.
+
+ToM. The experimenter administered ﬁve tasks from Wellman and Liu’s (2004) explicit ToM scale and
+an additional false-belief task (as in Wellman et al., 2008). D. Liu (personal communication, October
+2006) provided a minor modiﬁcation to one task (i.e., to use the hidden emotion task from
+LaBounty, Wellman, Olson, Lagattuta, & Liu, 2008) and provided the change-of-location task. A ﬁxed
+presentation order was used for the six tasks: (1) diverse desires, (2) knowledge acquisition, (3) false
+belief (unexpected contents), (4) diverse beliefs, (5) hidden emotions, and (6) false belief (changed
+location).
+
+Scoring rules from Wellman and Liu (2004) were used to code children from video. Children were
+scored as ‘‘correct’’ if they correctly answered the test and the associated control questions. Two scores
+were derived as described by Wellman and colleagues (2008). The overall ToM score was the total
+number of correct scores from the ﬁrst ﬁve tasks (possible range of 0–5). The ‘‘false-belief’’ (FB) score
+was the total number of correct scores from Tasks 3 and 6 (possible range of 0–2).
+
+In addition to the primary scorer, an independent coder reviewed 25% of the children’s videos to
+test coder agreement. The coder was blind to the children’s previous scores. Intercoder agreement
+was 1.00 (Cohen’s j).
+
+Results
+
+Preliminary analyses
+
+Table 1 presents the descriptive statistics for the children in the longitudinal study. The infants who
+were assessed at 2.5 and 4.5 years of age had scores consistent with the entire group of infants orig-
+inally tested at 10.5 months of age (N = 32). More speciﬁcally, both the gaze-following and nonsocial-
+looking scores were not signiﬁcantly different between infants assessed at 2.5 years (N = 27) and those
+who were not assessed at 2.5 years (ps > .30), nor were there any signiﬁcant differences between
+
+72
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+Table 1
+Mean scores for dependent measures.
+
+Dependent measure
+
+Gaze followinga
+Nonsocial lookingb
+
+Nonmental terms
+Mental-state terms
+Cognition terms
+Desire terms
+Emotion terms
+
+PPVT score
+Theory-of-mind score
+False-belief score
+
+a N = 27.
+b N = 26.
+c N = 19.
+
+Mean
+
+10.5 months
+
+1.34
+3.95
+
+2.5 yearsa
+128.37
+10.11
+2.22
+2.07
+5.81
+
+4.5 yearsc
+63.53
+3.63
+1.11
+
+SD
+
+1.22
+1.67
+
+36.66
+4.22
+1.55
+0.83
+2.24
+
+4.03
+1.16
+0.94
+
+Range
+
+0–4.12 s
+1.20–6.50 s
+
+35–155 words
+2–15 words
+0–4 words
+0–3 words
+1–8 words
+
+56–70 raw score
+2–5 correct
+0–2 correct
+
+infants’ scores for children seen at 4.5 years (N = 19) and those who did not return to participate at
+4.5 years (ps > .20).
+
+Main analyses
+
+First, longitudinal associations were assessed using Pearson correlations. (Nonparametric Spear-
+man rank–order correlations yielded similar results.) Second, longitudinal relationships were submit-
+ted to hierarchical regression analyses to examine whether longitudinal associations were signiﬁcant
+after controlling for general language. Follow-up analyses were conducted with individual categories
+of mental states.
+
+Longitudinal relationships between infant scores and language at 2.5 years
+
+The behavior from infant social and nonsocial gaze tasks were tested as correlates of nonmental
+
+and mental-state terms.
+
+Gaze following. Infant gaze following at 10.5 months of age was evaluated as a predictor of children’s
+language at 2.5 years of age. Infant gaze following was highly correlated with children’s subsequent
+use of mental-state terms at 2.5 years, r(25) = .53, p = .005. Infant gaze following was also correlated
+with the use of nonmental terms at 2.5 years, r(25) = .40, p = .041.
+
+A secondary analysis tested whether socioeconomic status (SES) was a covariate of measures at
+2.5 years of age. Maternal education (as a proxy for SES) did not signiﬁcantly correlate with toddler
+mental-state terms, r(25) = .11, p = .59, or nonmental terms, r(25) = –.007, p = .97, nor did it correlate
+with infant gaze following, r(25) = .21, p = .29.
+
+A hierarchical regression analysis tested the predictors of mental-state terms at 2.5 years of age
+(Table 2), evaluating whether the relationship between gaze following and mental-state terms
+remained signiﬁcant after accounting for general vocabulary. The analysis included only measures
+with signiﬁcant correlations in this study to limit the number of variables. In Step 1, nonmental terms
+(2.5 years) were entered as a control for general vocabulary and were found to be a signiﬁcant predic-
+tor of concurrent mental-state terms (p < .0001). In Step 2, gaze following signiﬁcantly predicted
+mental-state terms (p = .043) after controlling for nonmental terms. Thus, infants who had higher
+gaze-following scores subsequently used more mental-state terms at 2.5 years even after accounting
+for their general vocabulary.
+
+At an even ﬁner level, infant gaze following at 10.5 months of age was positively correlated with
+individual categories of mental-state terms at 2.5 years of age. Gaze following signiﬁcantly correlated
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+73
+
+Table 2
+Predictors of mental-state terms at 2.5 years of age tested with hierarchical regression analysis.
+
+Steps and variables
+
+Step 1
+
+Nonmental terms (2.5 years)
+
+Step 2
+
+Nonmental terms (2.5 years)
+Gaze following (10.5 months)
+
+Note. N = 27.
+
+b
+
+.85
+
+.76
+.23
+
+DR2
+
+.72
+
+.04
+
+DF
+
+65.63
+
+4.55
+
+p
+
+<.0001
+<.0001
+
+.043
+<.0001
+.043
+
+with the number of cognition, desire, and emotion words (rs ranged from .45 to .54 and ps ranged from
+.018 to .004). Gaze following still signiﬁcantly correlated with cognition terms after controlling for
+nonmental terms, partial r(24) = .40, p = .043. Gaze following did not signiﬁcantly correlate with the
+two other categories after controlling for nonmental terms: desire, partial r(24) = .32, p = .11; emotion,
+partial r(24) = .24, p = .23. In the Discussion, we examine how these ﬁndings of ‘‘speciﬁcity’’ ﬁt with
+and also advance previous longitudinal studies (Kristen et al., 2011).
+
+Nonsocial looking (control). Infants’ nonsocial looking at 10.5 months of age did not signiﬁcantly cor-
+relate with their nonmental terms at 2.5 years of age, r(24) = .22, p = .28. Nonsocial looking also did not
+signiﬁcantly correlate with mental-state terms at 2.5 years, r(24) = .29, p = .15. Thus, infant nonsocial
+attention did not relate to the subsequent use of mental or nonmental terms.
+
+A hierarchical regression analysis tested whether mental-state terms were predicted by gaze fol-
+lowing after controlling for nonsocial looking. In Step 1, nonsocial looking was entered as a control
+for general (nonsocial) attention (b = .29, R2 = .08, p = .15). In Step 2, gaze following was still a signif-
+icant predictor of mental-state terms (b = .49, p = .016), DR2 = .21, F(1, 23) = 6.71, p = .016, after con-
+trolling for nonsocial looking (b = .10, p = .59). Thus, gaze following, rather than general visual
+attentiveness, predicted mental-state terms, again suggesting interesting speciﬁcity, as discussed
+later.
+
+Longitudinal relationships between toddler language and ToM at 4.5 years
+
+Nonmental terms at 2.5 years of age correlated with ToM scores at 4.5 years of age, r(17) = .48,
+p = .038, but not when PPVT (at 4.5 years) was controlled, partial r(16) = .29, p = .25. Nonmental terms
+did not signiﬁcantly correlate with FB scores at 4.5 years, r(17) = .35, p = .14. Infant gaze following and
+nonsocial looking were not signiﬁcantly correlated with ToM and FB at 4.5 years (ps > .45), a point
+taken up in the Discussion.
+
+The use of mental-state terms at 2.5 years of age was evaluated as a predictor of ToM and FB scores
+at 4.5 years of age. Children’s mental-state terms at 2.5 years signiﬁcantly predicted their ToM scores
+at 4.5 years, r(17) = .57, p = .01; with PPVT controlled, partial r(16) = .40, p = .10. They showed even
+stronger predictions for FB scores in particular, r(17) = .61, p = .005; with PPVT controlled, partial
+r(16) = .50, p = .04.
+
+A secondary analysis examined whether verbal ability and SES were covariates of false belief at
+4.5 years of age. Concurrent PPVT scores (an index of children’s verbal ability) signiﬁcantly correlated
+with FB scores, r(17) = .48, p = .026. Maternal education (a proxy for SES) signiﬁcantly correlated with
+FB scores, r(17) = .56, p = .012, and with PPVT, r(17) = .46, p = .045.
+
+A hierarchical regression analysis tested the predictors of false-belief understanding at 4.5 years of
+age (Table 3). This analysis evaluated whether the relationship between mental-state terms and FB
+scores remained signiﬁcant after accounting for SES and general verbal ability. The analysis included
+only the measures with signiﬁcant correlations so as to limit the number of variables. In Step 1, two
+control measures were entered: (a) maternal education to control for SES and (b) PPVT (at 4.5 years) to
+control for verbal ability. Together these measures signiﬁcantly (p = .032) predicted FB scores at
+4.5 years. In Step 2, mental-state terms signiﬁcantly (p = .034) predicted FB scores after controlling
+for maternal education and general verbal ability. Thus, toddlers who used more mental-state terms
+
+74
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+Table 3
+Predictors of false-belief performance at 4.5 years of age tested with hierarchical regression analysis.
+
+Steps and variables
+
+Step 1
+
+Maternal education
+PPVT (4.5 years)
+
+Step 2
+
+Maternal education
+PPVT (4.5 years)
+Mental-state terms (2.5 years)
+
+Note. N = 19.
+
+b
+
+.46
+.21
+
+.43
+ .06
+.51
+
+DR2
+
+.35
+
+.17
+
+DF
+
+4.31
+
+5.46
+
+p
+
+.032
+.058
+.37
+
+.034
+.052
+.79
+.034
+
+at 2.5 years of age also succeeded on more false-belief tasks even after controlling for maternal edu-
+cation and children’s verbal ability.
+
+At a ﬁner level of detail, follow-up analyses revealed that a particular category of mental-state
+terms at 2.5 years of age signiﬁcantly correlated with performance on false-belief tasks at 4.5 years
+of age after controlling for maternal education and children’s general verbal ability at 4.5 years. After
+controlling for maternal education and PPVT, cognition terms were signiﬁcantly correlated with FB
+scores, partial r(15) = .49, p = .046. Desire and emotion terms did not reach statistical signiﬁcance, par-
+tial r(15) = .48, p = .053, and partial r(15) = .45, p = .073, respectively. Thus, children who used more
+cognition terms at 2.5 years had better performance on explicit false-belief tasks at 4.5 years even
+after controlling for general language ability and maternal education.
+
+Discussion
+
+The current work shows longitudinal predictive relations among infant gaze following, toddler lan-
+guage, and childhood ToM performance even after controlling for children’s general verbal ability. Two
+speciﬁc longitudinal relations that are relevant to developmental theory emerged. The ﬁrst is the sig-
+niﬁcant connection from infants’ gaze following at 10.5 months of age to their later production of
+mental-state terms at 2.5 years of age. Gaze following was assessed before infants began talking,
+yet it predicted the use of mental-state terms more than 1.5 years later. Crucially, the relationship
+between gaze following and mental-state terms was not explained by infant general (nonsocial) atten-
+tion or more general toddler vocabulary size. The second key ﬁnding was that children’s use of mental-
+state terms at 2.5 years strongly predicted their later understanding of false belief at 4.5 years.
+
+These results suggest that infant gaze following plays a quantiﬁable developmental role in chil-
+dren’s early linguistic and social–cognitive development. Gaze following relates to later production
+of mental-state terms (especially about cognition). The link from gaze following to cognition words
+accords with recent work about children’s rich understanding of visual perception (Moll, Meltzoff,
+Merzsch, & Tomasello, 2013; Moll & Tomasello, 2006). Perhaps infants’ own experiences with seeing
+supports an understanding of how others visually acquire information—Meltzoff’s (2007, 2013) ‘‘like
+me’’ idea. This cognitive understanding could then be coded in language—following models of how
+early cognition supports speciﬁc aspects of semantic development (e.g., Carey, 2009; Gopnik &
+Meltzoff, 1986; Markman, 1989).
+
+The current results assess the speciﬁcity of developmental relations and support, but go beyond,
+the more global view that children’s verbal ability is important for the development of ToM (for
+reviews, see Milligan et al., 2007; San Juan & Astington, 2012). In the ﬁndings reported here, general
+verbal ability was examined and controlled. First, we used a list of nonmental terms to closely match
+to the mental-state terms. Second, we assessed and controlled for general verbal ability at 4.5 years of
+age using a standardized test (PPVT). With these controls for language, gaze following predicted later
+mental-state terms and mental-state terms predicted later ToM, suggesting theoretically relevant
+speciﬁcity in development.
+
+At ﬁrst blush, one might be surprised that infant gaze-following skills did not directly predict pre-
+schooler ToM performance at 4.5 years of age. A close reading of the previous longitudinal studies
+indicates that this is not unexpected, although a small sample size may be a limiting factor in the
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+75
+
+current study. Past studies assessing correlations between various measures of joint attention and
+later social–cognitive tasks have yielded mixed results even when some used larger samples than
+the current study (e.g., Camaioni, Perucchini, Bellagamba, & Colonnesi, 2004; Charman et al., 2000;
+Colonnesi et al., 2008). A possible procedural reason for differences among the ﬁndings is that some
+studies incorporate adult vocalizations into their infant assessment (e.g., Kristen et al., 2011; Nelson
+et al., 2008). In such studies, it is difﬁcult to know which factors (i.e., gaze or language sensitivity)
+underlie the observed longitudinal relationships. In the current study, the infant gaze-following
+assessment intentionally did not include verbal cues; despite this, infants’ gaze following predicted
+mental-state terms (even after controlling for children’s general vocabulary). Thus, gaze following
+related to mental-state vocabulary over and above children’s more general language competence.
+
+The current ﬁndings differ from longitudinal studies that have assessed other aspects of infant
+social cognition, notably the understanding of goal-directed acts. These studies reported signiﬁcant
+predictive relationships between infant performance and later explicit theory of mind even after
+‘‘third factors’’ that might mediate this relation were controlled (e.g., Aschersleben et al., 2008;
+Wellman et al., 2008; Yamaguchi et al., 2009). One way of reconciling this apparent difference is to
+recognize that infant social cognition might not start as a fully integrated psychological system.
+Particular infant behaviors (e.g., understanding goal-directed acts) may be contributors to aspects of
+subsequent social cognition, whereas other infant behaviors (e.g., gaze following) have a different
+effect on linguistic and social–cognitive development (see also Charman et al., 2000; Flom, Lee, &
+Muir, 2007; Gopnik & Meltzoff, 1997; Kristen et al., 2011; Meltzoff, Kuhl, Movellan, & Sejnowski,
+2009; Mundy & Newell, 2007).
+
+Gaze following at 10.5 months of age speciﬁcally related to subsequent production of mental-state
+terms at 2.5 years of age. It has been argued that, in principle, gaze following could reﬂect children’s
+general attentional system (e.g., Mundy et al., 2009), but past longitudinal work did not control for
+such a possibility. In the current work, nonsocial looking was speciﬁcally assessed as an index of gen-
+eral attentiveness. Even after controlling for nonsocial looking, gaze following remained a signiﬁcant
+predictor of children’s use of mental-state terms. (The link between infant gaze following and subse-
+quent mental-state language also suggests that infant gaze following is not wholly reducible to the
+leanest interpretation of following salient physical movements in the visual ﬁeld.) Following the gaze
+of others may help infants to relate visible behavior (e.g., looking) to invisible properties of people
+(e.g., seeing or knowing), supporting the acquisition of mental-state terms especially for cognition.
+Such a process is highly compatible with the ‘‘speciﬁcity hypothesis’’ linking speciﬁc aspects of early
+cognition with speciﬁc aspects of semantic development (Gopnik & Meltzoff, 1986, 1987, 1997).
+
+Gaze following provides infants with a special avenue for learning from conversations with parents,
+caregivers, and siblings. Just as infants who follow a person’s line of regard are given a boost in learn-
+ing the names of objects (e.g., Baldwin, 2000), infants may also gain an advantage in learning mental-
+state terms by following their parents’ looks during discussions. Gaze followers can identify the topic
+(e.g., a person, object, or action) and learn about mental states when hearing their parents talk about
+psychological experiences connected to that sight (e.g., Repacholi, Meltzoff, Rowe, & Spiewak Toub,
+2014). Examinations of parent–child interactions show that parents’ individual styles of using lan-
+guage to highlight mental states (sometimes called ‘‘mind-mindedness’’) contribute to children’s
+understanding of the mind (Dunn et al., 1991; Ensor & Hughes, 2008; LaBounty et al., 2008; Meins
+et al., 2013; Perner, Ruffman, & Leekam, 1994; Ruffman et al., 2002; Sabbagh & Callanan, 1998). Other
+work shows that parents tend to talk about higher level mental states (e.g., ‘‘remember’’) yet talk less
+often about direct perceptual states (e.g., ‘‘see’’) once their infants become consistent gaze followers
+(Slaughter, Peterson, & Carpenter, 2008), suggesting complex developmental relations and intuitive
+pedagogy.
+
+The current work has limitations. One limitation is that it had a relatively small sample size (yet the
+sample size was similar to other longitudinal studies in this area, including Aschersleben et al., 2008,
+and Yamaguchi et al., 2009). A second limitation is that it is a correlational study and causal pathways
+were not established. Future longitudinal work with a larger sample and additional assessments
+would permit the use of more detailed regression models to address causal pathways from a statistical
+viewpoint (e.g., Hughes, Ensor, & Marks, 2011; Meins et al., 2013). A randomized control intervention
+would be a stronger test of causal relations. Speciﬁcally, one could design an intervention to change
+
+76
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+infant gaze following (e.g., Kasari, Paparella, Freeman, & Jahromi, 2008; Meltzoff & Brooks, 2008;
+Mundy et al., 2009) with the a priori prediction, based on the current report, that this intervention will
+affect subsequent mental-state language and explicit ToM.
+
+The current study also has some notable strengths. The study longitudinally followed an existing
+group of infants assessed before they were producing language and tracked them into early childhood.
+From a methodological viewpoint, it used different experimenters for assessing infant gaze behaviors
+and later ToM performance, thereby rigorously preserving experimental blindness. Moreover, we
+made a special effort to test all children so that they were tightly clustered around their target ages.
+All but 1 child at the 2.5-year test was assessed within 20 days of the target age of 30 months; all but 3
+children at the 4.5-year visit were assessed within 20 days of the target age of 54 months. Given that
+children develop rapidly, this tight age clustering may have helped to uncover relationships that more
+liberal protocols for age may have missed. Finally, the current work controlled for salient third factors
+that might affect the observed relations; the predictive relationships remained signiﬁcant after con-
+trolling for maternal education, infants’ nonsocial attention, and children’s verbal skills.
+
+Taken together, the pattern of ﬁndings helps to connect the dots among infancy, language, and the
+emergence of an explicit ToM during childhood. The current work speciﬁcally links infants’ gaze
+following to their subsequent production of mental-state terms (not just to general vocabulary
+development). The results suggest that infants’ gaze following feeds children’s linguistic coding of
+psychological concepts (especially cognition words), which in turn supports and predicts explicit
+ToM development.
+
+These ﬁndings have implications for children with pervasive developmental disorders character-
+ized by deﬁcits in gaze following—for example, children with autism spectrum disorders—because
+they would be expected to have downstream deﬁcits following the pathways described here. Interven-
+tions seeking to improve gaze following could, in theory, improve children’s developing mental-state
+language and their emerging concept of mind. By understanding basic developmental pathways and
+mechanisms of change, we can design more speciﬁc and effective treatment protocols for children
+who might proﬁt from early interventions (Meltzoff et al., 2009). This would allow us to connect
+the dots more completely in both theory and practice.
+
+Acknowledgments
+
+We gratefully acknowledge support from the National Science Foundation (SMA-0835854) and
+from the Institute for Learning & Brain Science at the University of Washington. We thank Calle Fisher,
+Craig Harris, and Linden Hale for their assistance.
+
+References
+
+Aschersleben, G., Hofer, T., & Jovanovic, B. (2008). The link between infant attention to goal-directed action and later theory of
+
+mind abilities. Developmental Science, 11, 862–868.
+
+Baldwin, D. A. (1993). Early referential understanding: Infants’ ability to recognize referential acts for what they are.
+
+Developmental Psychology, 29, 832–843.
+
+Baldwin, D. A. (2000). Interpersonal understanding fuels knowledge acquisition. Current Directions in Psychological Science, 9,
+
+40–45.
+
+Baron-Cohen, S. (1995). Mindblindness: An essay on autism and theory of mind. Cambridge, MA: MIT Press.
+Bartsch, K., & Wellman, H. M. (1995). Children talk about the mind. New York: Oxford University Press.
+Bates, E., Marchman, V., Thal, D., Fenson, L., Dale, P., Reznick, J. S., et al (1994). Developmental and stylistic variation in the
+
+composition of early vocabulary. Journal of Child Language, 21, 85–123.
+
+Bretherton, I., & Beeghly, M. (1982). Talking about internal states: The acquisition of an explicit theory of mind. Developmental
+
+Psychology, 18, 906–921.
+
+Brooks, R., & Meltzoff, A. N. (2002). The importance of eyes: How infants interpret adult looking behavior. Developmental
+
+Psychology, 38, 958–966.
+
+Brooks, R., & Meltzoff, A. N. (2005). The development of gaze following and its relation to language. Developmental Science, 8,
+
+535–543.
+
+Brooks, R., & Meltzoff, A. N. (2008). Infant gaze following and pointing predict accelerated vocabulary growth through two years
+
+of age: A longitudinal, growth curve modeling study. Journal of Child Language, 35, 207–220.
+
+Brown, J. R., & Dunn, J. (1991). ‘‘You can cry, mum’’: The social and developmental implications of talk about internal states.
+
+British Journal of Developmental Psychology, 9, 237–256.
+
+Butterworth, G., & Jarrett, N. (1991). What minds have in common is space: Spatial mechanisms serving joint visual attention in
+
+infancy. British Journal of Developmental Psychology, 9, 55–72.
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+77
+
+Camaioni, L., Perucchini, P., Bellagamba, F., & Colonnesi, C. (2004). The role of declarative pointing in developing a theory of
+
+mind. Infancy, 5, 291–308.
+
+Carey, S. (2009). The origins of concepts. New York: Oxford University Press.
+Carpenter, M., Nagell, K., & Tomasello, M. (1998). Social cognition, joint attention, and communicative competence from 9 to
+
+15 months of age. Monographs of the Society for Research in Child Development, 63. 4, Serial No. 255.
+
+Charman, T., Baron-Cohen, S., Swettenham, J., Baird, G., Cox, A., & Drew, A. (2000). Testing joint attention, imitation, and play as
+
+infancy precursors to language and theory of mind. Cognitive Development, 15, 481–498.
+
+Colonnesi, C., Rieffe, C., Koops, W., & Perucchini, P. (2008). Precursors of a theory of mind: A longitudinal study. British Journal of
+
+Developmental Psychology, 26, 561–577.
+
+Corkum, V., & Moore, C. (1998). The origins of joint visual attention in infants. Developmental Psychology, 34, 28–38.
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, language, and family background: Individual
+
+differences and interrelations. Child Development, 70, 853–865.
+
+de Rosnay, M., & Hughes, C. (2006). Conversation and theory of mind: Do children talk their way to socio-cognitive
+
+understanding? British Journal of Developmental Psychology, 24, 7–37.
+
+Doherty, M. J. (2006). The development of mentalistic gaze understanding. Infant and Child Development, 15, 179–186.
+Doherty, M. J., & Anderson, J. R. (1999). A new look at gaze: Preschool children’s understanding of eye-direction. Cognitive
+
+Development, 14, 549–571.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Youngblade, L. (1991). Young children’s understanding of other people’s feelings
+
+and beliefs: Individual differences and their antecedents. Child Development, 62, 1352–1366.
+
+Dunn, L. M., & Dunn, L. M. (1997). Peabody Picture Vocabulary Test (3rd ed.). Circle Pines, MN: American Guidance Service.
+Ensor, R., & Hughes, C. (2008). Content or connectedness? Mother–child talk and early social understanding. Child Development,
+
+79, 201–216.
+
+Fenson, L., Marchman, V. A., Thal, D. J., Dale, P. S., Bates, E., & Reznick, J. S. (2007). MacArthur–Bates Communicative Development
+
+Inventories: User’s guide and technical manual (2nd ed.). Baltimore, MD: Paul H. Brookes.
+
+Flavell, J. H. (2004). Development of knowledge about vision. In D. T. Levin (Ed.), Thinking and seeing: Visual metacognition in
+
+adults and children (pp. 13–36). Cambridge, MA: MIT Press.
+
+Flom, R., Lee, K., & Muir, D. (Eds.). (2007). Gaze-following: Its development and signiﬁcance. Mahwah, NJ: Lawrence Erlbaum.
+Gopnik, A., & Astington, J. W. (1988). Children’s understanding of representational change and its relation to the understanding
+
+of false belief and the appearance–reality distinction. Child Development, 59, 26–37.
+
+Gopnik, A., & Meltzoff, A. N. (1986). Relations between semantic and cognitive development in the one-word stage: The
+
+speciﬁcity hypothesis. Child Development, 57, 1040–1053.
+
+Gopnik, A., & Meltzoff, A. N. (1987). The development of categorization in the second year and its relation to other cognitive and
+
+linguistic developments. Child Development, 58, 1523–1531.
+
+Gopnik, A., & Meltzoff, A. N. (1997). Words, thoughts, and theories. Cambridge, MA: MIT Press.
+Gredebäck, G., Fikke, L., & Melinder, A. (2010). The development of joint visual attention: A longitudinal study of gaze following
+
+during interactions with mothers and strangers. Developmental Science, 13, 839–848.
+
+Hughes, C., Devine, R. T., Ensor, R., Koyasu, M., Mizokawa, A., & Lecce, S. (2014). Lost in translation? Comparing British, Japanese,
+and Italian children’s theory-of-mind performance. Child Development Research, 2014. http://dx.doi.org/10.1155/2014/
+893492. art. 893492.
+
+Hughes, C., Ensor, R., & Marks, A. (2011). Individual differences in false belief understanding are stable from 3 to 6 years of age
+
+and predict children’s mental state talk with school friends. Journal of Experimental Child Psychology, 108, 96–112.
+
+Johnson, S. C., Ok, S.-J., & Luo, Y. (2007). The attribution of attention: 9-month-olds’ interpretation of gaze as goal-directed
+
+action. Developmental Science, 10, 530–537.
+
+Jones, W., & Klin, A. (2013). Attention to eyes is present but in decline in 2–6-month-old infants later diagnosed with autism.
+
+Nature, 504, 427–431.
+
+Kasari, C., Paparella, T., Freeman, S., & Jahromi, L. B. (2008). Language outcome in autism: Randomized comparison of joint
+
+attention and play interventions. Journal of Consulting and Clinical Psychology, 76, 125–137.
+
+Kristen, S., Sodian, B., Thoermer, C., & Perst, H. (2011). Infants’ joint attention skills predict toddlers’ emerging mental state
+
+language. Developmental Psychology, 47, 1207–1219.
+
+LaBounty, J., Wellman, H. M., Olson, S., Lagattuta, K., & Liu, D. (2008). Mothers’ and fathers’ use of internal state talk with their
+
+young children. Social Development, 17, 757–775.
+
+Lohmann, H., & Tomasello, M. (2003). The role of language in the development of false belief understanding: A training study.
+
+Child Development, 74, 1130–1144.
+
+Markman, E. M. (1989). Categorization and naming in children: Problems of induction. Cambridge, MA: MIT Press.
+Meins, E., Fernyhough, C., Arnott, B., Leekam, S. R., & de Rosnay, M. (2013). Mind-mindedness and theory of mind: Mediating
+
+roles of language and perspectival symbolic play. Child Development, 84, 1777–1790.
+
+Meltzoff, A. N. (1995). Understanding the intentions of others: Re-enactment of intended acts by 18-month-old children.
+
+Developmental Psychology, 31, 838–850.
+
+Meltzoff, A. N. (2007). ‘‘Like me’’: A foundation for social cognition. Developmental Science, 10, 126–134.
+Meltzoff, A. N. (2013). Origins of social cognition: Bidirectional self–other mapping and the ‘‘like-me’’ hypothesis. In M. R. Banaji
+& S. Gelman (Eds.), Navigating the social world: What infants, children, and other species can teach us (pp. 139–144). New York:
+Oxford University Press.
+
+Meltzoff, A. N., & Brooks, R. (2008). Self-experience as a mechanism for learning about others: A training study in social
+
+cognition. Developmental Psychology, 44, 1257–1265.
+
+Meltzoff, A. N., Kuhl, P. K., Movellan, J., & Sejnowski, T. J. (2009). Foundations for a new science of learning. Science, 325,
+
+284–288.
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-analysis of the relation between language
+
+ability and false-belief understanding. Child Development, 78, 622–646.
+
+Moll, H., Meltzoff, A. N., Merzsch, K., & Tomasello, M. (2013). Taking versus confronting visual perspectives in preschool
+
+children. Developmental Psychology, 49, 646–654.
+
+78
+
+R. Brooks, A.N. Meltzoff / Journal of Experimental Child Psychology 130 (2015) 67–78
+
+Moll, H., & Tomasello, M. (2006). Level 1 perspective-taking at 24 months of age. British Journal of Developmental Psychology, 24,
+
+603–613.
+
+Mundy, P., & Newell, L. (2007). Attention, joint attention, and social cognition. Current Directions in Psychological Science, 16,
+
+269–274.
+
+Mundy, P., Sullivan, L., & Mastergeorge, A. M. (2009). A parallel and distributed-processing model of joint attention, social
+
+cognition, and autism. Autism Research, 2, 2–21.
+
+Nelson, P. B., Adamson, L. B., & Bakeman, R. (2008). Toddlers’ joint engagement experience facilitates preschoolers’ acquisition of
+
+theory of mind. Developmental Science, 11, 847–852.
+
+Perner, J. (1991). Understanding the representational mind. Cambridge, MA: MIT Press.
+Perner, J., Ruffman, T., & Leekam, S. R. (1994). Theory of mind is contagious: You catch it from your sibs. Child Development, 65,
+
+1228–1238.
+
+Peterson, C. C., Wellman, H. M., & Liu, D. (2005). Steps in theory-of-mind development for children with deafness or autism.
+
+Child Development, 76, 502–517.
+
+Pratt, C., & Bryant, P. (1990). Young children understand that looking leads to knowing (so long as they are looking into a single
+
+barrel). Child Development, 61, 973–982.
+
+Repacholi, B., Meltzoff, A. N., Rowe, H., & Spiewak Toub, T. (2014). Infant, control thyself: Infants’ integration of multiple social
+
+cues to regulate their imitative behavior. Cognitive Development, 32, 46–57.
+
+Repacholi, B., & Slaughter, V. (2003). Individual differences in theory of mind: Implications for typical and atypical development. New
+
+York: Taylor & Francis.
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation between children’s and mothers’ mental state language and theory-of-
+
+mind understanding. Child Development, 73, 734–751.
+
+Sabbagh, M. A., & Callanan, M. A. (1998). Metarepresentation in action: 3-, 4-, and 5-year-olds’ developing theories in mind in
+
+parent–child conversations. Developmental Psychology, 34, 491–502.
+
+San Juan, V., & Astington, J. W. (2012). Bridging the gap between implicit and explicit understanding: How language
+development promotes the processing and representation of false belief. British Journal of Developmental Psychology, 30,
+105–122.
+
+Shatz, M., Wellman, H. M., & Silber, S. (1983). The acquisition of mental verbs: A systematic investigation of the ﬁrst reference to
+
+mental state. Cognition, 14, 301–321.
+
+Slaughter, V., & Gopnik, A. (1996). Conceptual coherence in the child’s theory of mind: Training children to understand belief.
+
+Child Development, 67, 2967–2988.
+
+Slaughter, V., Peterson, C. C., & Carpenter, M. (2008). Maternal talk about mental states and the emergence of joint visual
+
+attention. Infancy, 13, 640–659.
+
+Sodian, B., & Thoermer, C. (2004). Infants’ understanding of looking, pointing, and reaching as cues to goal-directed action.
+
+Journal of Cognition and Development, 5, 289–316.
+
+Toth, K., Munson, J., Meltzoff, A. N., & Dawson, G. (2006). Early predictors of communication development in young children
+with autism spectrum disorder: Joint attention, imitation, and toy play. Journal of Autism and Developmental Disorders, 36,
+993–1005.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The truth about false belief. Child
+
+Development, 72, 655–684.
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-of-mind tasks. Child Development, 75, 523–541.
+Wellman, H. M., Lopez-Duran, S., LaBounty, J., & Hamilton, B. (2008). Infant attention to intentional action predicts preschool
+
+theory of mind. Developmental Psychology, 44, 618–623.
+
+Wellman, H. M., Phillips, A. T., & Rodriguez, T. (2000). Young children’s understanding of perception, desire, and emotion. Child
+
+Development, 71, 895–912.
+
+Williamson, R. A., Brooks, R., & Meltzoff, A. N. (2013). The sound of social cognition: Toddlers’ understanding of how sound
+
+inﬂuences others. Journal of Cognition and Development. http://dx.doi.org/10.1080/15248372.2013.824884. in press.
+
+Woodward, A. L. (2003). Infants’ developing understanding of the link between looker and object. Developmental Science, 6,
+
+297–311.
+
+Yamaguchi, M., Kuhlmeier, V. A., Wynn, K., & vanMarle, K. (2009). Continuity in social cognition from infancy to childhood.
+
+Developmental Science, 12, 746–752.
+
+

@@ -1,0 +1,1376 @@
+Developmental  Psychology
+1985,  Vol. 21, No.  1,46-55
+
+In the  public domain.
+O012-I649/85/SO0.7J
+
+Naturalistic and Structured  Assessments of Prosocial Behavior
+
+in  Preschool Children: The Influence  of Empathy  and
+
+Perspective Taking
+
+Laboratory  of Developmental  Psychology,  National  Institute  of  Mental  Health
+
+Ronald J.  Iannotti
+
+The  interrelationship  of  different  categories  of  prosocial  behavior,  different
+assessment  procedures,  and  the  role  of  empathy  and  perspective  taking  as
+mediators of different  categories of prosocial behavior are examined  in the present
+study.  Prosocial  behavior  in  52  preschool  children  was  assessed  using  three
+different  approaches: (a) naturalistic observation of prosocial events, (b) structured
+measures  of  perspective  taking,  empathy,  and  two  types  of  prosocial  behaviors,
+and  (c) teacher  ratings  of  prosocial  behaviors  under  different  eliciting  situations.
+Different  categories  of  prosocial  behavior  within  the  first  two  settings  were
+relatively  independent.  Teacher  ratings  were  internally  consistent  but  generally
+unrelated  to  the  other  measures.  The  structured  measure  of  prosocial  behavior
+that  had  a  peer  as  the recipient  was the best  predictor  of the  equivalent  observed
+behavior.  Inconsistencies in  previous  research  investigating the  empathy-altruism
+relationship  may  reflect  differences  in  assessment  procedures,  because  significant
+relationships  between  different  forms  of  empathy  and  prosocial  behavior  were
+dependent  on  the  operational  definitions  of  these  processes.  Preschool  children
+demonstrated  a  sensitivity  to  the  needs  and  feelings  of  their  peers. Although  this
+capacity  was  not  tapped  by  traditional  measures  of  perspective  taking,  it  may
+have mediated  prosocial  behavior  in  the  natural  setting.
+
+Most  studies  of prosocial  behavior  rely  on
+a  single  measure  of  a  particular  form  in  an
+atypical  context.  Generalizations  of  these
+findings  and  comparisons  between  studies
+have  therefore  been  very  difficult.  Studies
+that  report  the relationship  between  different
+measures of prosocial behavior indicate a low
+but  statistically  significant  correlation  (e.g.,
+Eisenberg-Berg  &  Hand,  1979;  Hay,  1979;
+Yarrow  &  Waxier,  1976).  Both  Rushton
+(1976)  and  Underwood  and  Moore  (1982b)
+suggest  that  a  correlation  of  .30  is  most
+
+This  research  was conducted  while  the  author  was  at
+Marietta  College, Marietta,  Ohio.  Portions of this  article
+were presented at the meeting of the Society for  Research
+in  Child  Development,  Boston,  April  1981.
+
+The  author  would  like  to  thank  Terri  Bates  for  her
+assistance in gathering the data for this study, the preschool
+teachers, Judy  Stoof,  Roberta  Smith,  and  Nancy  Carter,
+for their patience and cooperation, and  Mark Curamings,
+Dale Hay, and  Carolyn  Zahn-Waxier for suggestions with
+regard  to an  earlier draft  of this  manuscript.
+
+Requests  for  reprints  should  be  sent  to  Ronald  J.
+Iannotti,  Laboratory  of  Developmental  Psychology,
+Building  15K,  National  Institute  of  Mental  Health,  Be-
+thesda,  Maryland  20205.
+
+46
+
+representative  of  the  findings.  Tonick,  Gel-
+fand, Hartmann, Cromer, and Millsapp (1979)
+and  Eisenberg-Berg and  Lennon  (1980) dem-
+onstrated  the  importance  of  antecedents  in
+the  analysis  of  consistency  and  the  concep-
+tualization  of  motivational  processes  of  pro-
+social behavior. In the present study prosocial
+behaviors  and  their  antecedents  are  observed
+in  a  naturalistic  setting,  rated  by  teachers,
+and  measured  with  structured  tasks.  It  is
+hypothesized  that prosocial behaviors assessed
+in  different  settings  are  related  when  similar
+motivational  processes  are  implicated.  For
+example, measures should correlate when  the
+same  category  of  behavior  is  assessed  with
+similar  recipients, similar  antecedents,  or  in-
+volving similar  social-cognitive  processes.
+
+The  importance  of  the  procedures  for  as-
+sessing  empathy  and  the  way  in  which  em-
+pathy is conceptualized  has been  documented
+as well (Iannotti,  1975b,  1978;Shantz,  1975).
+For example, the  relationship  between  sharing
+and  empathy  has  been  reported  as  positive
+(Buckley,  Siegel,  &  Ness,  1979)  or  negative
+(Iannotti,  1978) depending  on  how  empathy
+is  assessed.  Measures  of  empathy  may  be
+
+PROSOCIAL  BEHAVIOR
+
+47
+
+differentiated  on  the  basis  of  whether  they
+require a cognitive or emotional response and
+whether  this  response  is  to  situational  cues
+or  affective  cues  (Iannotti,  1975a).  Various
+forms  of  empathy  have  been  implicated  in
+several  theoretical  approaches  to  prosocial
+behavior  (Hoffman,  1975;  Iannotti,  1975b;
+Mussen  &  Eisenberg-Berg,  1977).  There  is
+strong support for the argument that  different
+forms of empathy mediate certain  categories
+of prosocial behavior (Eisenberg-Berg & Len-
+non,  1980;  Miller,  1979;  Sawin,  1979).  A
+measure  of  empathy  that  differentiates  be-
+tween  situational  and  affective  cues  and  as-
+sesses both affective  understanding and emo-
+tional responsiveness (Iannotti,  1978) is used
+in the present  study to examine the possible
+relationships between  different  forms  of em-
+pathy  and  different  patterns  of prosocial be-
+havior.
+
+The  corresponding  argument  can  be con-
+structed for the influence of perspective-taking
+processes  on  prosocial  behavior.  Perspec-
+tive taking  involves  understanding  another's
+thoughts  and  motives  as  well  as  feelings;
+unlike  some  forms  of  empathy,  it  does  not
+require  an  emotional  response.  Measures of
+social perspective taking have been positively
+correlated  with  helping and  sharing, and  at-
+tempts  to  enhance  perspective-taking  skills
+have  produced  increased  prosocial  behavior
+(Ahammer  & Murray,  1979; Buckley  et al.,
+1979; Chandler,  1973; Iannotti,  1978; Rubin
+&  Schneider,  1973; Staub,  1971).  However,
+there  is  some  contradictory  evidence  as  to
+whether  the  relationship  is consistent  across
+all ages and across all measures of perspective
+taking  (Eisenberg-Berg  &  Lennon,  1980;
+Johnson,  1975;  Rushton  &  Wiener,  1975;
+Zahn-Waxier, Radke-Yarrow, & Brady-Smith,
+1977).  The  mediational  role  of  perspective-
+taking  processes  may  also  be  dependent  on
+the contextual  and  motivational  elements of
+the  social 
+interchange.  Perspective-taking
+measures that assess perceptual processes, for
+example,  spatial  perspective  taking,  or  that
+require understanding of an unfamiliar  adult
+or hypothetical  peer are  less likely to  reflect
+the interdependencies  between  cognitive  and
+social  domains  in  young  children  than  are
+measures  that  tap  social  inferences  about
+familiar  peers. A battery  of assessment  pro-
+cedures that  indicate social and affective  un-
+
+derstanding of familiar  peers and adults pro-
+vides a  more  reasonable  basis for  evaluating
+interrelationships  and  for  analyzing  the  role
+of  particular  forms  of  perspective  taking  as
+mediators of particular  patterns  of prosocial
+behavior. In the present study, three perspec-
+tive-taking measures assess social perspective
+taking in relation to familiar peers and adults.
+Another persistent problem  in the investi-
+gation  of  the  role  of  perspective  taking  in
+prosocial behavior is the difficulty  of measur-
+ing  social-cognitive  processes  in  a  natural
+setting. One  solution  is to  identify  naturally
+occurring patterns of behavior that appear to
+require  perspective-taking  skills.  Children
+who, without  an explicit  request,  respond  to
+the  needs  of  others  may  be  using  their  per-
+spective-taking  skills  to  infer  the  needs  of
+others. Spontaneous prosocial  acts are there-
+fore examined  in  more detail than  are  other
+antecedent categories.
+
+Method
+
+Subjects
+
+The  52  children  (21  girls  and  31  boys)  in  this  study
+attended  one  of  two  classes  (26  children  each)  of  a
+preschool  in  a  small  midwestern  city.  The  average  age
+was  59  months,  with  a  range  of  52  to  66  months.  The
+children  were  from  predominately  white,  middle-class
+homes.
+
+Procedure
+
+The  order,  the  time  of  day,  and  the  month  of  each
+observation  was  randomized  for  each  child.  Within  this
+schedule,  each  child  was to  be  observed  over  a  5-month
+period  for  three  25-min  sessions.  Interrupted  sessions
+were  rescheduled  so  the  total  observation  time  actually
+averaged  79  min  per  child.  During  the  last  month  of
+observation,  laboratory  measures  of  perspective  taking,
+prosocial  behavior,  and  empathy  were administered,  and
+the three teachers of the class rated the children's prosocial
+behaviors.
+
+Observational Categories
+
+Using  an  event-sampling  procedure,  each  trained  ob-
+server  (male  or  female)  recorded  four  categories  of  pro-
+social  behavior:  sharing,  cooperation,  helping,  and  com-
+forting.  In  addition  to  coding the  prosocial  behavior  the
+observers indicated the antecedents of the act.1  Reliability
+
+1 All antecedents were placed into an existing category,
+i.e., normal  conversational,  aggressive, or prosocial  inter-
+actions were evaluated for evidence of verbal or nonverbal
+behaviors  which  conformed  to  an  existing  category.
+
+48
+
+RONALD  J.  IANNOTTI
+
+between  observers  was  established  with  both  observers
+coding for  300 min. Reliability was computed by dividing
+the  number  of  agreements  by  agreements  plus  disagree-
+ments. The  reliability  across  all categories  was  86%. For
+each  child,  the  number  of  times  a  particular  behavior
+occurred  was divided by the number of minutes the child
+was observed  to  provide a  rate  of occurrence  for  each  of
+the  categories.  These  rates  were  then  used  for  all  data
+analyses.  The  observational  categories  (with  reliabilities
+as percentage of agreements in parentheses) are described
+below.
+
+Antecedents.  Requests  (78) occurred  when the poten-
+tial recipient of the prosocial act used verbal or nonverbal
+means to  indicate  a desire  for  the behavior,  for  example,
+asking  for  assistance  or  pointing  to  an  object.  Directed
+by  child  (100)  was  defined  as  a  child  other  than  the
+recipient  directing  or  requesting  that  the  child  exhibit  a
+prosocial  behavior.  Directed  by  teacher  (90)  entailed  a
+teacher  directing  or  requesting  that  the  child  exhibit  a
+prosocial  behavior.  For  spontaneous  (90),  there  was  no
+explicit  verbal  or  nonverbal  request.
+
+Prosocial  behaviors.  Sharing  (86)  included  giving  or
+verbally  offering  an  object  that  was  previously  in  the
+child's  possession.  Cooperating  (90)  differed  from  the
+other  prosocial categories in that  both  children  benefited
+from  their  involvement,  whereas the  other  child  was the
+major  beneficiary  in  sharing,  helping,  or comforting.  For
+cooperation, at least two children  were mutually  involved
+in  a  task  such  as  clean-up  or  an  activity  facilitated  by
+cooperation. Helping (71) consisted  of one child  assisting
+another  child  by  providing  information,  requesting  aid
+for  the  child  from  the  teacher  or  another  child,  or  by
+doing  something  that  facilitates  the  ongoing  activity  of
+the  other  child.  Comforting2  was  only  coded  when  the
+recipient  showed  distress  prior  to  the  act.  Comforting
+included  verbal or physical  consolation, such as sympathy,
+affection,  giving  an  object  to  the  distressed  other,  or
+getting an  adult  to attend  to the distressed  other.  Refusal
+(83)  was  defined  as  not  acting  prosocially  when  it  was
+explicitly  requested.
+
+Laboratory  Measures
+
+During  the  last  4  weeks  of  observation  each  child,  in
+a  random  order,  was  taken  by  a  familiar  adult,  one  of
+the observers,3 to a room  in the preschool building where
+prosocial  behavior, perspective taking, and  empathy  were
+assessed. The session lasted approximately  IS min. There
+were three measures of perspective taking: a hiding game,
+a  choice  game,  and  a  nickel-dime  game;  two  measures
+of  prosocial  behavior,  helping  and  sharing;  and  a  single
+measure  of  empathy.  The  three  perspective-taking  tasks
+were selected  because they were judged  to be  appropriate
+to this age group and assessed social rather than  perceptual
+perspective  taking  (Kurdek,  1979).  The  two  prosocial
+measures  were  designed  to  assess  helping  and  sharing
+with  real  people  who  were  familiar  to  the  child.  The
+empathy  measure  was  selected  because  several  forms  of
+empathic  behavior  of  theoretical  interest  were  assessed
+with  a  nonverbal  response  suitable  for  this  age  group.
+The  measures  were as  follows:
+
+Helping.  The  experimenter  "accidentally"  knocked  a
+container  of  pencils  onto  the  floor.  He  or  she  said,
+"Oops,"  continued  writing  for  20  s,  and  then  retrieved
+the  pencils for  30 s. The child  who spontaneously  helped
+
+during  the  initial  20  s  received  a  score  of  2.  The  child
+who  helped  when  the  experimenter  was  collecting  the
+pencils received  a  score of  1.
+
+Penny  Hiding.  Devries's (1970)  Penny  Hiding  Game
+was administered  to the children to assess social perspec-
+tive taking in  an  interactive game. In the game, the  child
+is shown  the  experimenter's  closed  hands and  instructed
+to  guess  the  location  of  a  penny,  which,  in  a  concealed
+fashion,  has been  hidden  in  one  hand.  Unknown  to  the
+child,  the  location  of  the  penny  is controlled  to  provide
+the same experience of success and  failure  for all children;
+there  is  a  penny  in  both  hands  for  the  first  three
+presentations, both  hands are empty  for the second  three
+presentations,  and  both  hands  contain  a  penny  in  the
+seventh  trial.  On  the  following  six  trials,  the  child  is
+asked  to  hide  a  single  penny  in  his  or  her  hands  while
+the  experimenter  guesses its  location.
+
+The  scoring  of  this  task  is  based  on  the  10-point
+system  used  by  Devries;  a  low  score  reflects  a  lack  of
+awareness that an individual possesses private  information,
+and  a  high  score  reflects  the  use  of  interactive  strategies
+that  take  into  account  the other's  perspective.
+
+Gift  Choice.  The  Gift  Choice  Task  was developed  by
+Flavell  (TASK  IIIB,  1968). The  child  is shown  a  "store"
+with  stockings, neckties, toy trucks, dolls, and books and
+asked to select a gift  for his or her father,  mother,  teacher,
+opposite-sexed  sibling  or  friend,  and  himself  or  herself.
+The scoring system, which  is described  by Flavell, places
+a  child  in  one  of  four  levels depending  on  whether  he  or
+she  egocentrically  selects  a  role-inappropriate  gift  for  an
+adult  (1)  or  whether  the  child  demonstrates  perspective
+taking by  selecting gifts  that  are  role  appropriate  for  the
+recipient  (4).
+
+Nickel-Dime  Game.  This  task,  also  described  by
+Flavell,  was  included  to  assess  more  advanced  levels  of
+perspective  taking.  The  child  is  shown  a  box  containing
+5  pennies  with  a  " 5" written  on  the  outside,  and  a  box
+containing  10  pennies  with  a  "10"  on  the  outside.  The
+child  is  told  that  another  child  is  going  to  guess  which
+box has money  in it. The child  must  trick  the other child
+by  removing the  money  from  one  of the boxes. Next  the
+child  is  asked  to  choose  between  the  5-  and  10-cent
+boxes  left  by  "the  child  before  you"  who  is  "trying  to
+trick  you."  Based  on  the  child's  reasons  for  selecting  a
+particular  box,  perspective-taking  processes  rather  than
+the  actual  solutions  to  the  problems  are  evaluated  with
+a 6-point  classification  of perspective taking. A child  who
+cannot  give any  reasons or  motives for  behaviors receives
+the  lowest  score;  a  child  who  can  reflect  on  others'
+motives  and  reasons  in  their  decision  receives  a  higher
+score (Selman  & Byrne,  1974).
+
+Empathy.  The  measure  of  empathy  is  described  by
+Iannotti  (1978).  The  child  was  told  a  story  about  a
+picture and  asked to  indicate  his or her own  feelings  and
+the  feelings  of  the  character  in  the  story  by  pointing  to
+one  of  eight  drawings  of  faces.  The  faces  were  verbally
+labeled  as happy,  sad,  afraid,  or  angry.  The  K-R  20  was
+used  to  compute  reliabilities  (indicated  in  parentheses)
+
+2 Comforting  did  not occur during the reliability coding
+
+periods.
+
+3 Observers would occasionally assist the teachers when
+not  observing  and  thus  were  familiar  socially  as  well  as
+in  appearance.
+
+PROSOCIAL  BEHAVIOR
+
+49
+
+for  each  form  of  empathy.  Most  traditional  measures  of
+empathy  (e.g.,  Borke,  1971;  Feshbach  &  Roe,  1968)
+require  that  the  child  identify  the  other's  emotions  and
+his or her own emotions when the character is responding
+appropriately  to the situation,  for example, a happy child
+at  a  birthday  party.  In  8  of  the  16  empathy  items  the
+emotional expression of the character was consistent  with
+the  situation.  The  reliability  of  emotional  matching,
+indicating that  one's own emotions were identical to  that
+of  the  character,  was  acceptable  (.76),  whereas  the  reli-
+ability of identifying  the other's emotions in  the  standard
+situation  was not  (.52).
+
+In  8  of  the  16  pictures  the  emotional  expression  of
+the  character  was  incongruent  with  the  situation,  for
+example,  a  sad  child  at  a  birthday  party.  Children
+indicated  separately  the  character's  and  their  own  emo-
+tions.  Each  of  these  responses  were  scored  twice  to
+determine  if  the  child  matched  the  situational  cues
+(happy  in  the  example  above)  or  the  affective  cues  (sad).
+It  was  also  possible  to  match  neither  set  of  cues.  Thus
+there  were  four  categories  for  scoring:  Responses  that
+matched  the  situational  cues  included  labeling  other's
+emotions  (situational  role taking,  .71) and  labeling  one's
+own  emotions  (.28);  responses  could  also  indicate  that
+the  character's  emotions  (emotional  role  taking,  .72)  or
+the  child's  emotions  (.45)  matched  the  emotional  cues
+(Iannotti,  1975a). The  reliabilities  for  labeling  one's  own
+emotions  in  response  to  either  situational  or  affective
+cues  were  unacceptably  low.  The  three  forms  with  low
+reliabilites  are  not  discussed  further.
+
+Sharing.  Each  child  was  given  a  choice  of  either  M
+& Ms or raisins. Eleven of the preferred  items were given
+to  the  children  while  the  experimenter  indicated  that
+they  "could  leave  some  for 
+(their  best  friend)."
+Several  options  were  presented  (eating  all,  giving  some,
+and  giving  all  of  the  candy  or  raisins).  The  child  was
+then  left  alone  to  put  the  candy  in  an  envelope  marked
+with  the  name  of  his  or  her  best  friend.  Friends,  as
+determined  by  earlier  questioning  and  observing  of  the
+child,  were  used  as  recipients  to  provide  a  context  as
+similar  as possible  to that  found  in  the  natural  setting in
+which  prosocial  behaviors are  frequently  directed  toward
+friends  or  familiar  peers. The  number  of  candies  shared
+with  the  friend  was the  sharing  score.
+
+Teacher ratings.  During the fifth month of the  project,
+the  two  teachers  in  each  of  the  preschool  classes jointly
+rated  the  children's  prosocial  behaviors  using  a  7-point
+scale.  The  form  included  39  items  indicating  examples
+of  sharing,  cooperating,  helping,  and  comforting,  for
+example,  "Spontaneously  offers  consolation  to  another
+child  if  the  other  child  is  hurt  or  sad."  The  eliciting
+situation  for  behaviors,  including  explicit  request  from
+the  teacher,  explicit  request  by  another  child,  or  sponta-
+neous behavior without a request, was also varied. Teach-
+ers'  ratings  for  the  items  relating  to  each  of  the  four
+categories  of  prosocial  behavior  were  summed,  and  four
+percentage  scores  were  calculated  for  each  child  using  a
+perfect  rating as the  denominator.
+
+Results
+
+The  means  and  standard  deviations  for
+boys and  girls and  the percentage  of  children
+scoring  greater  than  zero  for  both  sexes  are
+
+shown  in  Table  1.  A  total  of  421  naturally
+occurring  prosocial  events  were  observed.
+The  most  frequent  prosocial  behavior  was
+cooperative  behavior.4  The  rates  of  the  pro-
+social behaviors are quite low, consistent  with
+the rates found  in  other  observational  studies
+(e.g., Eisenberg-Berg & Lennon,  1980; Yarrow
+&  Waxier,  1976). As  indicated  in  the  second
+column, at least 73% of the children  exhibited
+each  of the  remaining  categories of  prosocial
+behavior.
+
+There  were  no  significant  differences  be-
+tween  boys  and  girls  in  the  naturalistic  data
+or  the  laboratory  measures  (all  ts <  1.6).
+Teachers rated  girls higher for  sharing, i(50) =
+3.63, p  <  .001; and  comforting,  t(50) =  2.33,
+p < .05. Consistent with past research  (Bryan,
+1975;  Devries,  1970;  Radke-Yarrow,  Zahn-
+Waxler,  &  Chapman,  1983),  two  of  the  be-
+haviors  showed  a  positive  relationship  with
+age,  cooperative  behavior,  r(50)  =  .27,  p  <
+.05,  and  performance  on  the  Penny  Hiding
+Game,  r(50)  =  .33, p  < .05.
+
+Analysis  of  Antecedents
+
+Antecedents  were  disproportionately  dis-
+tributed  across  prosocial  categories.  Snaring
+was  more  likely  to  be  preceded  by  a  request
+from  the  recipient  (60%) or was  spontaneous
+(29%).  The  remaining  acts  of  sharing  were
+preceded  by  direction  from  the  teacher  (7%)
+or  another  child  (1%).5  Cooperation  usually
+occurred  in  response  to  a  teacher's  request
+(60%)  or  was  spontaneous  (21%).  Requests
+from  the  recipient  (10%)  or  directions  from
+another child (3%) were less frequent.  Helping
+behaviors  were  usually  spontaneous  (68%)
+rather  than  the  result  of  requests  (12%)  or
+direction  by  a  child  (2%)  or  teacher  (10%).
+These different  patterns of antecedents suggest
+different  motivations for each type of prosocial
+behavior.  Sharing  may  be  a  peer-oriented
+
+4 Only one incident  of comforting  behavior was coded;
+however,  affectionate  behavior  was  not  recorded  and  the
+distress  cues  of  the  recipient  had  to  be  quite  salient
+before  the behavior  was coded  as comforting.  Because  of
+this low rate the data  with  respect  to comforting  will  not
+be discussed  further.
+
+5 Observers did not code antecedents if verbal statements
+were  not  clear,  if  the  prosocial  act  occurred  at  the
+beginning  of the  observation  session  and  did  not  include
+a  sufficient  antecedent  period,  or  if  the  complete  ante-
+cedent  circumstances  were not  observable.
+
+50 
+
+RONALD  J.  IANNOTTI
+
+Table  1
+Means,  Standard  Deviations,  and Percentages  of  Children  With  Scores  Greater  Than  Zero  for
+Observational  Categories,  Laboratory  Measures,  and Teacher  Ratings
+
+Boys
+
+Girls
+
+Behavior
+
+%>  0
+
+Observational categories*
+
+Sharing
+Cooperating
+Helping
+Comforting
+Refusing
+
+Laboratory  measures
+
+Helping task
+Sharing task
+Penny hiding
+Gift  choice
+Nickel-dime  game
+
+Empathy
+
+Emotional  matching
+Situational  role taking
+Emotional  role taking
+
+Teacher ratings
+
+Sharing
+Cooperating
+Helping
+Comforting
+
+79
+98
+73
+2
+67
+
+37
+56
+100
+96
+56
+
+98
+75
+90
+
+100
+100
+100
+100
+
+M
+
+.031
+.078
+.015
+.000
+.030
+
+.52
+3.2
+8.4
+3.3
+.55
+
+3.8
+2.4
+4.0
+
+84.5
+89.4
+86.7
+83.2
+
+SD
+
+.03
+.05
+.02
+.00
+.05
+
+.72
+3.4
+1.4
+.87
+.62
+
+2.3
+1.9
+2.0
+
+9.8
+8.1
+11.4
+10.5
+
+M
+
+.030
+.091
+.029
+.000
+.010
+
+.38
+3.4
+9.0
+3.6
+.76
+
+3.6
+1.8
+4.4
+
+91.4"
+92.2
+88.5
+88.6C
+
+SD
+
+.04
+.05
+.03
+.00
+.01
+
+.67
+• 3.6
+.97
+.98
+.63
+
+1.7
+2.1
+2.5
+
+5.1
+5.6
+10.9
+7.4
+
+* Means for observational  categories were computed  by dividing the frequency  of occurrence by the minutes  observed
+for  each  child.
+b Girls were rated  as sharing  significantly  more  than  boys (p <  .001).
+c Girls  were  rated  as comforting  significantly  more than  boys (p <  .05).
+
+behavior,  partially  motivated  by social  con-  for aid that  are subsequently  refused.  As  in
+cerns. Teachers were more likely to define the  past  research,  two laboratory  measures of
+goals  of cooperative  interaction  at this  age,  prosocial behavior were unrelated. The same
+perhaps because of the children's own prob-  was true of the three measures of perspective
+lems with initiating complex tasks, which are 
+The structured measure of sharing (sharing
+of mutual  interest to peers. The spontaneity 
+of  helping  behavior  may reflect  the ability 
+task) was significantly correlated with labeling
+both to recognize the needs of others and to  others'  emotions  based  on  affective  cues
+identify  how to provide aid.
+
+taking.
+
+RelatiotlS  Within  Settings 
+
+6 Spontaneous prosocial behavior was included in fur-
+ther analyses because it was of theoretical interest. Teacher-
+requested behavior was included as a basis for comparison.
+The three categories of prosocial behav-  JJ ^g  S S T E S T S SS  2
+prosOcial  categories  should be interpreted  with  caution
+lor—sharing,  cooperating, and helping—were 
+Summed  to  provide  a  total  rate  of prosocial 
+because they are not independent; since each  prosocial
+behavior.  The  correlation  matrix6  for  two  event was coded for antecedent and category, frequencies
+antecedents, the more frequent  observational  within  jPf^  ™ 
+
+i e t aJi  ?*cher
+
+  r a tT i , Tr
+
+t
+
+'. 
+
+.  .  . 
+
+. 
+
+,  ., 
+
+,  , 
+
+. 
+
+excluded  from  the  tables  and subsequent  analysis for
+
+categories,  the total  rate,  and the laboratory 
+measures,  are  presented  in  Table  2.  Within 
+the  same  settings, the observational  categories 
+of  prosocial  behavior  were  unrelated  except 
+, 
+I 
+that  sharing  was correlated  with  refusing  to 
+be  prosocial.  It  may be  that  children  who 
+share  receive disproportionately  more  requests  were significant,  four would be expected by chance.
+
+c l a r hy  of  p r e s e n t a t i o n.  Although  they  were  internally
+consistent,  the teacher  ratings  were  unrelated  to the
+naturalistic  observations  of  prosocial  behavior.  One
+h u n d r ed  **> correlations  were  computed  in  Table 2;
+
+w o u ld  te  e x p e c t ed  by  c h a n ce  Seveaty  ^ 
+correlations  were  computed  for  teacher  ratings;  eight
+
+twenty  two were  significant;  five  significant  correlations
+
+a d d i t i o n al
+
+i  .!  j 
+
+, 
+
+• i_ 
+
+*•  • 
+
+. 
+
+PROSOCIAL  BEHAVIOR
+
+51
+
+1
+0
+-
+
+7
+1
+-
+
+s
+
+2
+
+1
+2
+-
+
+4
+0
+-
+
+§
+
+©
+
+<N
+
+8
+
+o
+
+o 
+\c  ^  —. 
+O  O  O  O 
+I
+
+ll 
+
+o\  ON  as
+—  CM  —.
+
+I
+
+O 
+I 
+
+©
+I
+
+o o * © v ^ f * 1 f^ 
+—  O  — O  — 
+I 
+I 
+
+O  —•  —
+C N C N f)
+
+I
+
+7  7 
+
+i 7
+
+I
+
+00 —
+o 
+
+i
+o
+
+—  rsi
+
+SO  5  Os  O 
+©  © 
+
+* 
+iri  v>  —  f*"i  O  O  —'
+
+SO  «*>  —•  —<  >/1
+
+• 
+
+•
+
+op  TT —  O  Os
+CS 
+I 
+I
+
+I 
+
+I
+
+o  fs
+
+11
+
+g
+
+I
+
+oo  m (S  m
+—  O  —  CM
+
+op as
+as  .S  C
+•H  -S  '-2
+•g  s  a
+"  U  u
+1 s !
+
+S E liillif|llJil
+
+B ••3
+
+—«  <s  m  ^* «n so r-
+
+2
+
+oo  o\  o  —•  <N  Q.  t*>  •&  <n
+
+o
+
+I
+
+8
+v
+
+p
+V
+
+v
+
+I
+
+I
+
+1
+
+1
+1
+1
+
+"8
+
+I
+
+52
+
+RONALD  J.  IANNOTTI
+
+(emotional  role  taking)  and  was  negatively
+related to role-appropriate gift choice. Helping
+an adult was positively correlated with using
+situational  cues  to  identify  another's  affect
+(situational  role taking). The teacher ratings,
+not  shown  in  Table  2, were  all  significantly
+related to each other, with correlations ranging
+from  .60 to .75.
+
+Relations Between Settings
+
+In  spite  of  the  relative  independence  of
+these  behaviors  within  settings,  there  were
+some relationships between  settings. Sponta-
+neous prosocial behavior was negatively cor-
+related  with  a  cognitive  task,  the  Nickel-
+Dime Game, and positively  related  to sensi-
+tivity to other's affective  cues. Sharing in the
+preschool  was positively  correlated  with  the
+laboratory  measure  of  sharing  and  with  la-
+beling another's affect based on the emotional
+cues. Being asked to demonstrate a prosocial
+behavior but refusing to do so was associated
+with  laboratory  measures of sharing  and re-
+sponding emotionally to consistent cues.
+
+The  teacher  ratings  (omitted  from  Table
+2)  were  not  related  to  any  of  the  naturally
+occurring prosocial behaviors. Teacher rating
+of comforting  was positively  correlated  with
+performance on the Gift Choice Task, r(50) =
+.34, p  < .05, and  negatively  correlated  with
+sharing  in  the  laboratory  setting,  r(50) =
+- . 3 9 , / x . O l.
+
+Discussion
+
+Analysis of Assessment Procedures
+
+Different  categories  of  prosocial  behavior
+were unrelated within the same setting. This
+was the case for  the  four  categories assessed
+in  the  natural  setting  as  well  as  the  two
+categories,  helping  and  sharing,  which  were
+assessed with structured  tasks (cf.  Eisenberg-
+Berg  &  Lennon,  1980;  Yarrow  &  Waxier,
+1976).  Performance  on  the  three  structured
+measures of perspective taking was also rela-
+tively independent (cf. Kurdek,  1977; Rubin,
+1978). Studies that  rely on a single measure
+of prosocial  or social-cognitive  behavior  are
+not  readily  generalizable  to  other  behaviors
+or contexts.
+
+Are  structured  measures  of  prosocial  be-
+
+havior  valid  predictors  of  prosocial  inter-
+changes in the preschool setting? The sharing
+task  was related  to  sharing  in  the  preschool
+setting. The helping task was not  significantly
+related to any category of prosocial behavior.
+The  sharing  task  involved  generosity  to  a
+friend,  whereas  the  helping  task  involved
+assisting  an  adult.  One  explanation  for  the
+independence  between  structured  and  natu-
+ralistic measures of helping is that the setting,
+contextual constraints, and focus of attention
+are  all  situational  determinants  of  prosocial
+behavior. The sharing task involved a proso-
+cial  act  that  was  structurally  similar  to  be-
+havior  coded  as  sharing  in  the  preschool;
+sharing required  the child  to relinquish  part
+or  all  of  a  possession  for  the  benefit  of  a
+friend.  The outcome of the helping task was
+similar  to  helping  in  the  preschool  setting,
+that  is, providing  aid,  but  the  recipient  was
+an adult, not a peer. Prosocial behavior toward
+peers  may  involve  different  processes  than
+that toward adults (Zahn-Waxier, Iannotti, &
+Chapman,  1982).  When  these  elements  are
+similar,  as  with  the  sharing  task,  predictive
+validity is possible.
+
+The behaviors identified for teacher ratings
+were  almost  identical  to  those  observed  in
+the preschool.  In contrast  to the  other  mea-
+sures, the teacher ratings of prosocial behavior
+were  consistent  across  categories  and  across
+eliciting situations. This  consistency  may be
+a  product  of  the  breadth  of  the  teacher's
+experience  with  each  child.  It  is  possible,
+however,  that  observer  biases  confound  the
+validity  of  teacher's  ratings.  Sex  differences
+favoring  females  were present  for two of the
+categories. These findings conform to our sex
+role stereotypes but do not correspond to the
+observational  data  reported  here  and  else-
+where (e.g., Barrett,  1979). Furthermore, lack
+of  correlation  between  teacher  ratings  and
+structured  or observational measures of pro-
+social behavior indicate that the use of teacher
+ratings as the sole measure of behavior should
+be avoided.
+
+Mediators of Prosocial Behavior
+
+Two  processes  frequently  linked  to  the
+development  of  prosocial  behavior  are  em-
+pathy  and  social  perspective  taking  (Aron-
+freed,  1968; Hoffman,  1975; Iannotti, 1975b;
+
+PROSOCIAL  BEHAVIOR
+
+53
+
+Staub,  1971).  Previous findings with  regard
+to  the  empathy-altruism  relationship  have
+not  been  consistent  (Underwood  & Moore,
+1982a). These inconsistencies may be due to
+the  variety  of  measures  that  tap  different
+empathic processes (Iannotti,  1975a). The six
+forms  of  empathy  assessed  in  the  present
+study were not uniformly reliable. The variety
+of measures in use and the lack of reliability
+in younger children may account for previous
+failure  to find consistent  relationships across
+all measures of empathy and in all age groups.
+The  relationship  between  different  forms
+of  empathy  and  prosocial  behavior  are  de-
+pendent  on  the  operational  definitions  of
+these  processes,  for  example,  whether  the
+empathic  response  is  affective  or  cognitive,
+whether the prosocial  behavior  is elicited by
+an adult, requested by a peer, or spontaneous
+(see  Table  2).  Responses  to  the  empathy
+stimuli  were  predictors  of  various  observa-
+tional  measures  of  prosocial  behavior.  Rec-
+ognizing another's affect  based on situational
+cues  (situational  role  taking)  was  related  to
+helping  an  adult  in  a  structured  setting  and
+was a predictor of teacher-requested prosocial
+behavior.  Situational  cues  may  indicate  the
+form  of aid that  is required.
+
+Inferring  another's emotions based  on the
+affective  cues  of  the  other  (emotional  role
+taking) was a predictor of sharing in both the
+structured  and  the  natural  settings,  was the
+best single predictor of spontaneous prosocial
+behavior, and was the best structured measure
+predicting the composite prosocial score. This
+is  consistent  with  the  relationship  between
+affective  labeling  and  sharing  reported  by
+Tierney  (1976).  Sharing  behavior  may  be
+mediated by responses to affective cues. Once
+recognizing  that  the  other  is  in  need,  the
+altruist  feels sympathy, not empathy,  for  the
+other child and is motivated toward prosocial
+sacrifice  to  benefit  the  other.  That  is,  the
+young child apparently does not have to feel
+the  emotions  of the  other  (emotional  empa-
+thy) but merely needs to be able to recognize
+the  affective  cues  (cf.  Tierney,  1976). There
+is  substantial  evidence  that  response  to  an-
+other's emotions relates to prosocial behavior,
+this  relationship  depends  on  the  form  of
+prosocial behavior, the nature of the empathic
+cues, and the quality of the response to those
+cues.  Other  research  supports  the  notion  of
+
+a complex relationship between empathy and
+prosocial behavior depending on a variety of
+factors,  including contextual  elements (Gove
+& Keating,  1979; Miller,  1979; Radke-Yarrow
+et al.,  1983).
+
+Antecedents of Prosocial Behavior
+
+Children  frequently  exhibit  prosocial  be-
+haviors without receiving direct requests from
+the recipient or indirect requests from teachers
+or  peers.  Spontaneous  prosocial  behaviors
+account  for  28% of the prosocial  acts. There
+is evidence that  these children were sensitive
+to the needs of the other child. Two examples
+illustrate this point. The path of a child with
+an armload of Playdough was blocked by two
+chairs.  Another  child  stopped  her  ongoing
+activity  and  moved  the  chair  before  the ap-
+proaching  child  reached  it.  In  another  ex-
+ample, a boy saw another child spill a puzzle
+on  the  floor  and  assisted  him  in  picking  it
+up. Responding to the needs of others without
+an  explicit  request  would  suggest  that  these
+children  understood the feelings and motives
+of  others  (perspective  taking)  and  acted  on
+this awareness. The potential relationship be-
+tween  altruism  and  perspective  taking  may
+be  dependent  on  whether  a  child  sponta-
+neously  applies  perspective-taking  processes
+in the social context.
+
+Contrary to theoretical expectations, spon-
+taneous prosocial  behavior  was unrelated  or
+negatively  related  to  structured  measures of
+social perspective taking. Two hypotheses for
+these findings deserve  further  consideration.
+First, the measures of perspective taking may
+be inadequate  for  assessing the processes in-
+volved  in  prosocial  behavior  or  too  context
+specific  to  generalize  to  other  settings.  The
+competitive  nature  of  two  of  the  tasks,  the
+Nickel-Dime  Game  and  the  Penny  Hiding
+Game,  may  invoke  motivational  processes
+incompatible with prosocial behavior.
+
+The  second  hypothesis  is  that,  in  fact,
+general  perspective-taking  skills  may  be  un-
+related to prosocial behavior at this early age.
+The meta-analysis performed  by Underwood
+and  Moore  (1982a)  led them  to  the  conclu-
+sions that the relationship is most evident in
+older children.  Iannotti  (1979) provided evi-
+dence that more advanced  perspective-taking
+processes  than  those  exhibited  in  these pre-
+
+54
+
+RONALD  J.  IANNOTTI
+
+school  children  are  involved  in  the  sharing
+of  older  children  and  that  the  relationship
+between  general  perspective  taking  and pro-
+social  behavior  is  not  evident  until  these
+more advanced levels are attained. A negative
+relationship between the sharing task and the
+Gift  Choice  Game  was  found.  Again,  this
+suggests that in children this young, concern
+with nonaffective  cues may be inappropriate
+to a  sharing  response  (Eisenberg  & Lennon,
+1980;  Johnson,  1975;  Rubin  &  Schneider,
+1973; Rushton & Wiener, 1975; Zahn-Waxler
+et  al.,  1977).  Although  perspective  taking
+may  be  evident  in  specific  prosocial  acts,
+competencies  in  perspective  taking does  not
+assure increased rates of prosocial behavior.
+
+Conclusions
+
+It  is  clear  that  these  young  children  are
+sensitive to  the  needs and  emotions  of their
+peers  and  that  some  use  this  awareness  in
+their  social  interchanges.  However,  the  lack
+of a consistent relationship between perspec-
+tive  taking  and  prosocial  behavior  in  the
+natural  setting implies that,  for  preschoolers
+at least, the capacity to understand the point
+of  view  or  cognitions  of  another  does  not
+assure prosocial behavior. Indeed, such a skill
+may  also  help  the  child  find  alternatives  to
+prosocial  behavior.  We  need  to  determine
+what  influences  some children  to apply  per-
+spective taking to the prosocial  context. The
+child's  interpretation  of  another's  emotions
+and  its  relationship  to  prosocial  behavior,
+particularly  spontaneous  prosocial  behavior,
+also deserves further  attention.
+
+Different  patterns  of  prosocial  behavior
+may reflect  differences  in the child's process-
+ing of situational and motivational cues. Cog-
+nitive and affective processes may have differ-
+ent functions in different  prosocial behaviors.
+Certainly we must be cautious to avoid over-
+reliance on any single measure of perspective
+taking, empathy, or prosocial behavior. Mul-
+tiple measures, which reflect  various contex-
+tual  and  motivational  systems  and  that  are
+sensitive  to  differences  in  types  of  prosocial
+behavior and in the recipients as well as the
+altruists, are required for a broad examination
+of prosocial behavior. Assessment procedures
+that are limited in scope fail to address these
+issues and could lead to overgeneralization of
+context-specific  findings.
+
+References
+
+Ahammer,  I. M.  & Murray, J.  P. (1979). Kindness in  the
+kindergarten: The relative influence of role playing and
+prosocial television in facilitating altruism.  International
+Journal of Behavioral Development,  2,  133-157.
+
+Aronfreed,  J. (1968). Conduct  and conscience. New York:
+
+Academic  Press.
+
+Barrett, D. E. (1979). A naturalistic study of sex  differences
+in children's aggression. Merrill-Palmer Quarterly, 25,
+193-203.
+
+Borke,  H.  (1971).  Interpersonal  perception  of  young
+children:  Egocentrism  or  empathy?  Developmental
+Psychology, 5,  263-269.
+
+Bryan,  J.  H.  (1975). Children's  cooperation  and  helping
+behaviors.  In  E.  M.  Hetherington  (Ed.),  Review  of
+child  development  research  (Vol.  5,  pp.  127-181).
+Chicago: University  of  Chicago  Press.
+
+Buckley, N., Siegel, L. S., & Ness, S. (1979). Egocentrism,
+empathy,  and  altruistic  behavior  in  young  children.
+Developmental Psychology, 15,  329-330.
+
+Chandler,  M.  J.  (1973).  Egocentrism  and  antisocial  be-
+havior:  The  assessment  and  training  of social  perspec-
+tive-taking  skills.  Developmental  Psychology,  9,  326-
+332.
+
+Devries,  R.  (1970).  The  development  of  role-taking  as
+reflected  by  behavior  of  bright,  average,  and  retarded
+children  in a social guessing game. Child  Development,
+41,  759-770.
+
+Eisenberg-Berg, N., & Hand,  M. (1979). The  relationship
+of  preschoolers'  reasoning  about  prosocial  moral  con-
+flicts  to  prosocial  behaviors.  Child  Development,  50,
+356-363.
+
+Eisenberg-Berg,  N.,  &  Lennon,  R.  (1980).  Altruism  and
+the  assessment  of  empathy  in  the  preschool  years.
+Child Development, 51,  552-557.
+
+Feshbach,  N.,  &  Roe,  K.  (1968).  Empathy  in  six-  and
+
+seven-year-olds.  Child  Development,  39,  133-145.
+
+Flavell, J. H.  (1968).  The development of role-taking and
+
+communication  skills  in children. New  York: Wiley.
+
+Gove,  F.  L.,  &  Keating,  D.  P.  (1979).  Empathic  role-
+taking precursors. Developmental Psychology,  15,  594-
+600.
+
+Hay,  D.  F. (1979).  Cooperative  interactions  and  sharing
+between  very  young children  and  their parents. Devel-
+opmental  Psychology, 15, 647-653.
+
+Hoffman,  M. L. (1975). Developmental synthesis of  affect
+and  cognition  and  its  implications  for  altruistic  moti-
+vation. Developmental Psychology, 11, 605-622.
+
+Iannotti,  R. J.  (1975a).  The many faces  of empathy:  An
+analysis  of the definition and evaluation of empathy  in
+children. Paper presented  at the meeting of the Society
+for  Research  in  Child  Development,  Denver.  (ERIC
+Document  Reproduction  Service  No.  ED  143444)
+
+Iannotti,  R.  J.  (1975b). The  nature  and  measurement  of
+empathy  in  children.  The  Counseling  Psychologist,
+5(2),  21-24.
+
+Iannotti, R. J. (1978). The effect  of role-taking experiences
+on  role  taking,  empathy,  altruism,  and  aggression.
+Developmental Psychology, 14,  119-124.
+
+Iannotti,  R.  J.  (1979,  March).  The  elements  of  empathy.
+Paper  presented  at  the  meeting  of  the  Society  for
+Research in Child Development, San Francisco. (ERIC
+Document  Reproduction  Service  No.  ED  171399)
+
+PROSOCIAL  BEHAVIOR
+
+55
+
+Johnson,  D.  W.  (1975).  Cooperativeness  and  social  per-
+spective  taking.  Journal  of  Personality  and  Social
+Psychology, 31,  241-244.
+
+Kurdek,  L.  A. (1977).  Structural  components  and  intel-
+lectual  correlates  of  cognitive  perspective  taking  in
+first- through  fourth-grade children. Child Development,
+48,  1503-1511.
+
+Kurdek,  L. A. (1979). Assessment  of children's perspective
+taking  skills:  Researcher's  perspective.  Unpublished
+manuscript,  Wright  State  University.
+
+Miller, S. M. (1979). Interrelationships among dependency,
+empathy,  and  sharing.  Motivation  and  Emotion,  3,
+183-199.
+
+Mussen, P., & Eisenberg-Berg, N. (1977). Roots  of caring,
+
+sharing,  and  helping.  San  Francisco,  CA:  Freeman.
+
+Radke-Yarrow,  M.,  Zahn-Waxler,  G,  &  Chapman,  M.
+(1983)  Children's  prosocial  dispositions  and  behavior.
+In  M.  Hetherington  (Ed.), Manual  of child  psychology
+(Vol. 4,  pp. 469-545).  New  York: Wiley.
+
+Rubin,  K.  H.  (1978).  Role  taking  in  childhood:  Some
+methodological considerations. Child  Development,  49,
+428-433.
+
+Rubin,  K. H., & Schneider, F. W. (1973). The  relationship
+between  moral  judgment,  egocentrism,  and  altruistic
+behavior.  Child  Development,  44,  661-665.
+
+Rushton,  J.  P.  (1976).  Socialization  and  the  altruistic
+behavior  of  children.  Psychological  Bulletin,  83,  893-
+913.
+
+Rushton, J. P., & Weiner, J. (1975). Altruism and cognitive
+development  in  children. British  Journal  of Social  and
+Clinical  Psychology, 14,  341-349.
+
+Sawin, D. B. (1979, April). Assessing  empathy  in children:
+A  search for  an  elusive  construct.  Paper  presented  at
+the  meeting  of  the  Society  for  Research  in  Child
+Development,  San  Francisco.
+
+Selman,  R.  L.,  &  Byrne,  D.  F.  (1974).  A  structural-
+
+developmental  analysis  of role  taking  in  middle  child-
+hood.  Child  Development,  45,  803-806.
+
+Shantz, C. U. (1975). The development of social cognition.
+In M.  Hetherington  (Ed.), Review  of child  development
+research (Vol.  5, pp.  257-323).  Chicago: University  of
+Chicago  Press.
+
+Staub,  E.  (1971).  The  use  of  role  playing  and  induction
+in  children's  learning of  helping and  sharing  behavior.
+Child  Development,  42,  805-816.
+
+Tierney, M. C. (1976).  The relationship  between  altruism,
+empathy  and  moral judgment  in  young  children.  Un-
+published  manuscript,  University  of  Windsor.
+
+Tonick,  I. J.,  Gelfand,  D.  M.,  Hartmann,  D.  P., Cromer,
+C.  C.  &  Millsapp,  R.  (1977,  August).  A  naturalistic
+study  of children's  prosocial  behavior. Paper  presented
+at  the  annual  meeting  of  the  American  Psychological
+Association,  San  Francisco.
+
+Underwood,  B., & Moore,  B. (1982a).  Perspective-taking
+
+and  altruism.  Psychological Bulletin,  91,  143-173.
+
+Underwood,  B., &  Moore,  B. S. (1982b).  The  generality
+of  altruism  in  children.  In  N.  Eisenberg  (Ed.),  The
+development  of  prosocial  behavior  (pp.  25-52).  New
+York: Academic  Press.
+
+Yarrow,  M.  R.,  & Waxier, C.  Z. (1976). Dimensions  and
+correlates  of  prosocial  behavior  in  young  children.
+Child  Development,  47,  118-125.
+
+Zahn-Waxler,  C,  Iannotti,  R.,  &  Chapman,  M.  (1982).
+Peers  and  prosocial  development.  In  K.  H.  Rubin  &
+H.  S.  Ross  (Eds.),  Peer relationships  and  social  skills
+in childhood (pp.  133-162).  New York: Springer-Verlag.
+Zahn-Waxler,  C,  Radke-Yarrow,  M.,  &  Brady-Smith,  J.
+(1977).  Perspective-taking  and  prosocial  behavior.  De-
+velopmental  Psychology, 13, 87-88.
+
+Received  April  30,  1982
+
+Revision  received  November  16,  1983  •
+
+Call for  Nominations
+
+The  Publications  and  Communications  Board  has  opened  nominations  for  the
+editorship  of  Developmental  Psychology  for  the  years  1987-1992.  Sandra  Scarr  is
+the incumbent editor. Candidates must be members of APA and should be available
+to start receiving manuscripts in early  1986 to prepare for issues published in  1987.
+To nominate candidates, prepare a statement  of one page or less in support of each
+nomination. Submit nominations no later than February  1,  1985 to:
+
+Anne Danielson Pick
+ATTN: Journal Search Committee
+Institute for Child Development
+University of Minnesota
+51 East River Road
+Minneapolis, Minnesota 55455
+
+

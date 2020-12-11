@@ -1,0 +1,1947 @@
+Journal  of  Education  and  Training  Studies 
+Vol.  2,  No.  1;  January  2014 
+ISSN 2324-805X      E-ISSN 2324-8068 
+Published  by  Redfame  Publishing 
+URL:  http://jets.redfame.com 
+
+Experimental Study of Short-term Training in Social Cognition in 
+
+Pre-schoolers 
+
+Marine Houssa1, Nathalie Nader-Grosbois1 & Emilie Jacobs1 
+
+1Université Catholique de Louvain, Institute of Psychological Sciences, Chair Baron Frère in Special Education, 
+Belgium 
+
+Correspondence:  Marine Houssa, Université  Catholique de Louvain, Institute of Psychological Sciences, Chair 
+Baron  Frère  in  Special  Education,  10,  Place  Cardinal  Mercier,  1348  Louvain-la-Neuve,  Belgium.  Tel: 
+32-10-474-688. E-mail: marine.houssa@uclouvain.be   
+
+ 
+Received: July 15, 2013      Accepted: July 29, 2013      Online Published: October 28, 2013 
+
+doi:10.11114/jets.v2i1.181                    URL: http://dx.doi.org/10.11114/jets.v2i1.181 
+
+ 
+Abstract 
+
+Using an experimental approach, our study examined the differentiated effects on pre-schoolers‘ social cognition 
+of two short-term social information processing (SIP) and Theory of Mind (ToM) training sessions dealing with 
+emotions  and  beliefs.  The  links  between  ToM,  SIP,  and  social  adjustment  or  externalizing  behavior  were 
+examined.  47  pre-schoolers  took  part  in  a  pretest  session  involving  cognitive,  socio-cognitive  and  social 
+adjustment  measures.  The  direct  socio-cognitive  measures  involved  tasks  assessing  emotion  recognition,  ToM 
+emotions,  ToM  beliefs  and  social  problem-solving.  The  teachers  filled  out  a  personality  questionnaire  and 
+parents completed the Theory of Mind Inventory, a social adjustment scale and the CBCL. Secondly, they were 
+allocated  at  random  to  two  experimental  groups  (ToM  training  or  SIP  training)  or  to  a  control  group.  In  the 
+experimental groups, each of three children, short training sessions were given using educational materials. Free 
+play  was  offered  in  the  control  group.  Finally,  all  children  took  part  in  a  post-test  session.  Our  results  showed 
+significant improvement in ToM emotions for the ToM training group, in ToM beliefs for the SIP training group, 
+and  in  social  problem-solving  for  both  experimental  groups,  and  some  transfer  learning.  In  pretest,  significant 
+positive  correlations  were  obtained  between  social  cognition  measures  and  individual  characteristics,  and 
+between  social  cognition  measures  and  social  adjustment.  Significant  negative  correlations  were  observed 
+between social adjustment and externalizing behavior, and between social adjustment and emotional reactivity. 
+This study provided some guidelines for formulating a medium-term training program in social cognition aimed 
+at pre-schoolers at risk of displaying externalizing behavior disorders. 
+
+Keywords: theory of mind, social information processing, training, pre-schoolers 
+
+1. Introduction 
+
+Several  theories  have  been  developed  regarding  the  development  of  social  cognition  in  children,  including  the 
+Theory  of  Mind  (ToM)  model,  which  uses  a  developmental-structural  approach,  and  the  social  information 
+processing (SIP) model, which takes a functional approach. Social cognition abilities develop primarily between 
+4 and 6 years of age; in this period, children‘s behavior and thought processes are still flexible (Webster-Stratton, 
+Reid,  &  Beauchaine,  2011).  In  general,  strong  social  cognition  abilities  are  likely  to  result  in  adequate  social 
+adjustment and allow good interaction (Yeates, Dennis, Rubin, Taylor, Bigler, Gerhardt, & Vannatta, 2007). 
+
+In  reference  to  ToM  concepts,  pre-schoolers  develop  the  ability  to  understand  their  own  and  other  people‘s 
+mental states, to take other people‘s perspective, to infer what they know, believe, or feel, and consequently to 
+behave in a well-adjusted way in various social situations (Denham & Burton, 2003; Deneault & Ricard, 2013; 
+Denham, Zinsser & Bailey, 2011; Flavell, 1999; Lane, Wellman, Olson, Labounty & Kerr, 2011; Wellman, 1991). 
+In other words, children who are good at identifying and understanding other people‘s emotions should interact 
+successfully  and  develop  harmonious  social  relationships.  Moreover,  when  children  are  able  to  infer  and 
+understand knowledge, intentions, and beliefs, they can take other people‘s cognitive perspective and adjust their 
+own  behavior  as  a  consequence.  According  to  this  structural-developmental  approach,  maladjusted  children 
+display  deficits  in  social  cognition  and  their  coordination  of  social  perspectives.  In  ToM  studies,  deficits  in 
+at-risk  children  are  postulated  in  the  understanding  of  mental  states,  notably  of  causes  and  consequences  of 
+emotions  (Hughes,  Dunn  &  White,  1998)  and  of  beliefs  (Fahie  &  Symons,  2003;  Walker,  2005).  Moreover, 
+
+ 
+
+139 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+deficient emotional recognition has also been reported (Blair & Coles, 2003; Marsh & Blair, 2008).   
+
+In  reference  to  SIP  models  (Crick  &  Dodge,  1994),  as  they  mature,  children  become  more  able  to  think  about 
+social problems, and their ability to solve them gradually leads to increasingly efficient social reasoning (Dodge 
+&  Pettit,  2003;  Fontaine  &  Dodge,  2009).  These  last  authors  describe  five  steps  in  SIP:  encoding  of  other 
+people‘s social cues, interpretation of social cues, clarification of goals, response access and response decision. 
+According  to  this  functional  approach,  maladjusted  children  display  biases  during  difficult  or  problem-solving 
+situations: deficits are observed in each of five steps of SIP when they are faced with social interactive situations 
+(Crick  et  al.,  1994;  Dodge  &  Crick,  1990;  Dodge  et  al.,  2003;  Fontaine  et  al.,  2009;  Mize  &  Pettit,  2008). 
+Deficits in social problem-solving are also postulated (Pettit, Dodge & Brown, 1988).   
+
+In summary, deficits in social cognition may lead to the development of externalizing behavior disorders (EB) in 
+children, causing them to be perceived as ―hard to manage‖ (Crick et al., 1994; Runions & Keating, 2007). 
+
+With a view to preventing EB and improving social skills, studies have been conducted to test the efficiency of 
+training in ToM or social problem-solving in pre-schoolers (Melot & Angeard, 2003) and children with intellectual 
+disabilities  (Swettenham,  1996)  or  with  autism  (Begeer,  Gevers,  Clifford,  Verhoeve,  Kat,  Hoddenbach  &  Boer, 
+2011;  Feng,  Lo,  &  Tsai,  2008;  Gevers,  Clifford,  Mager  &  Boer,  2006;  Hadwin,  Baron-Cohen,  Howlin,  &  Hill, 
+1996;  Ozonoff  &  Miller,  1995;  Parsons  &  Mitchell,  1999;  Silver  &  Oakes,  2001).  Some  studies  have  reported 
+positive effects from this socio-cognitive training. Children‘s performance in ToM tasks improved after training in 
+understanding emotions (Walker, 2005) and after training in understanding false beliefs in diverse conditions, such 
+as conversations about false beliefs, explanations of correct response, differentiated immediate feedback on their 
+performance or discussion about events in false belief scenarios (Amsterlaw & Wellman, 2006; Appleton & Reddy, 
+1996;  Clements,  Rustin  &  McCallum,  2000;  Howlin,  Baron-Cohen  &  Hadwin,  2011;  Kloo  &  Perner, 
+2003).Furthermore,  an  improvement  in  SIP  was  obtained  after  training  in  which  children  talked  about  concepts 
+arising from stories of peer interaction and did related activities (Bhavnagri & Samuels, 1996), and after training 
+that included role-playing games, group interaction and puppets (Shure & Spivack, 1982). SIP training primarily 
+takes the form of medium-term training (e.g., Webster-Stratton, 2000). 
+
+Table 1 presents the pre- and post-test measures used by authors who reported some positive effects of ToM or SIP 
+training. Studies involving successful training in social cognition highlight the need for explanations during training 
+in order for learning to occur. Giving children ToM or SIP training has a noticeable impact. This effect has usually 
+been tested with pre-schoolers in several short sessions (up to 12), individually or in groups (of up to 11 children). 
+
+In order to better evaluate the impact of these training programs, there is a need for valid assessments of ToM and 
+SIP in pre-schoolers who have limited attention and verbal skills, using visual materials. New methods make this 
+possible, notably ToM emotions and ToM beliefs tasks (Nader-Grosbois & Thirion-Marissiaux, 2008, 2011a), the 
+ToM  task  Battery  (Hutchins,  Prelock,  &  Chace,  2008),  and  the  Theory  of  Mind  Inventory  questionnaire  (ToMI, 
+Hutchins,  Prelock,  &  Bonazinga,  2010).  For  SIP  abilities,  there  is  the  Social  Problem  Solving  Task  (RES, 
+Barisnikov,  Van  Der  Linden,  &  Hippolyte,  2004),  the  Social  Information  Processing  Interview  (SIP-I,  Ziv  & 
+Sorongon, 2011) illustrated by pictures, and the Schultz Test of Emotion Processing - Preliminary Version (STEP-P, 
+Schultz, Ambike, Logie, Bohner, Stapleton, VanderWalde, Min & Jetkowski, 2010), illustrated by videos. 
+
+Table 1. Pre- and post-tests measures from some research in social cognition 
+
+Authors 
+ 
+ 
+Feng et al., 2008 
+Silver et al., 2001 
+ 
+Melot et al., 2003 
+
+Parsons et al., 1999 
+Howlin et al., 2011 
+Kloo et al., 2003 
+Ozonoff et al., 1995 
+
+Walker, 2005 
+
+Appleton et al., 1996 
+Clements et al., 2000 
+
+Pre/post-test measures 
+Theory of mind measures 
+Emotions 
+Situation-based scenarios 
+Emotion recognition cartoons 
+Beliefs 
+Appearance-reality 
+False beliefs 
+False beliefs 
+
+Content task 
+Second-order perspective taking 
+Second-order ToM 
+Location change task 
+Misleading container task 
+Location change task 
+
+ 
+
+140 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+ 
+Hadwin et al., 1996 
+Gevers et al., 2006 
+Begeer et al., 2011 
+Amsterlaw et al., 2006  Location change task 
+
+Emotions and beliefs 
+Understanding of belief and emotion concepts 
+ToM test (Muris et al., 1999) 
+
+Content task 
+Seeing-knowing task 
+Appearance-reality task 
+False belief emotion task 
+Social information processing measures 
+Problematic peer-related situations 
+Problem-solving test (PIPS, Shure et al., 1974) 
+
+ 
+Bhavnagri et al., 1996 
+Shure et al., 1982 
+Webster-Stratton, 2000  Wally problem solving (Webster-Stratton, 1990) 
+
+2. Objectives   
+
+Firstly, this study aims to test whether performance in social cognition tasks can be improved by means of short 
+stimulations;  that  is,  to  assess  the  differentiated  effects  of  two  types  of  experimental  training  on  the  level  of 
+social  cognition  skills  in  pre-schoolers.  No  study  has  ever  combined  structural-developmental  and  functional 
+approaches in order to investigate the respective impacts of one-shot ToM training and of one-shot SIP training 
+on  ToM  and  SIP  abilities,  taking  potential  transfer  learning  into  consideration.  We  predicted  that  (1a)  children 
+who  received  ToM  training  would  have  significantly  better  performance  in  ToM  post-test  measures  compared 
+with  their  pretest  abilities,  and  that  (1b)  children  who  received  SIP  training  would  have  significantly  better 
+post-test  performance  in  SIP  measures  compared  with  their  pretest  abilities.  As  regards  the  potential  transfer 
+effect, we predicted that children who received ToM training  would improve their SIP abilities in post-test and 
+children who benefited from SIP training would improve their ToM abilities in post-test (1c). 
+
+The  second  objective  was,  with  reference  to  a  heuristic  model  of  social  skills  (Nader-Grosbois,  2011a),  to 
+explore  the  links  between  ToM,  SIP  abilities  and  adults‘  perception  of  children‘s  social  adjustment  and 
+externalizing behavior in the  pretest session,  taking into account individual characteristics (developmental age, 
+personality).  We  hypothesized  positive  links  between  ToM  and  SIP  abilities  and  developmental  age  (2a)  and 
+specific factors of personality (2b), as well as between social cognition and social adjustment (2c); however, we 
+predicted  negative  links  between  ToM  and  SIP  abilities  and  externalizing  behavior  (2d),  and  the  ‗emotionally 
+reactive‘ score (2e). 
+
+3. Method 
+
+3.1 Participants 
+
+The participants were 47 children (23 boys and 24 girls), aged between 3 years 9 months and 5 years 6 months 
+(M=  4.7  years,  SD  =  4.9).  They  were  recruited  in  Belgian  French-speaking  schools.  The  teachers  identified 
+children  who  met  the  inclusion  criterion  of  elementary  comprehension  and  production  of  spoken  French.  The 
+exclusion criteria were developmental delay, intellectual disabilities or behavioral disorders. 
+
+3.2 Instruments 
+
+3.2.1 Differential Scales of Intellectual Efficiency – Revised (EDEI-R, Perron-Borelli, 1996). 
+
+These  scales  were  used  in  the  pretest  session  to  check  that  children  had  verbal  and  non-verbal  developmental 
+ages  between  3  years  6  months  and  5  years  6  months,  in  order  to  be  included  in  the  sample.The  verbal 
+developmental age was obtained by means of scores in two scales: ―knowledge‖ and ―social understanding‖, and 
+the non-verbal developmental age by means of ―practical adaptation‖. As regards the validation, the correlations 
+calculated  between  the  raw  scores  of  all  scales  were  high:  they  varied  between  .47  and  .88;  half  of  the  scores 
+were .70 or below. 
+
+3.2.2 ToM Emotions Tasks (Nader-Grosbois & Thirion-Marissiaux, 2011a). 
+
+(1)  Preliminary  task  of  facial  emotional  expression  (FEE)  recognition.  The  four  basic  emotions  (joy,  sadness, 
+anger, and fear) were illustrated by pictures and had to be recognized by the child. 
+
+(2)  Causes of emotions task.  This task  involved  four scripts all beginning  ―Three friends go on a picnic in the 
+forest‖,  with  two  illustrations.  Each  script  (with  a  third  picture)  ended  differently,  to  elicit  an  appropriate 
+response according its emotional quality: joy (friends eat picnic); sadness (picnic canceled because of rain); fear 
+(threatening  dog  is  approaching  the  picnic);  or  anger  (picnic  is  ruined  by  two  friends).  For  each  script,  the 
+experimenter first read out the script (the protagonist‘s face was left blank), and the participant was then asked to 
+assign an emotion to the protagonist by pointing to the most appropriate of the four FEE. The  response to each 
+
+ 
+
+141 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+script  was  scored  between  0  and  1.5  points  according  to  the  participant‘s  justification  (0  =  false  FEE,  no  or 
+incoherent justification; 0.5 = false FEE, coherent justification; 1 = correct FEE, no or incoherent justification; 
+1.5 = correct FEE, coherent justification). The maximum score was 6 points. 
+
+(3)  Consequences  of  emotions  task.  Four  scripts  were  illustrated  by  two  pictures,  presenting:  joy  (receiving  a 
+gift); sadness (pet‘s death); fear (imagining monsters in bedroom at night); and anger (conflict between friends). 
+The  experimenter  explained  the  beginning  of  the  script  (two  pictures).  Then,  the  child  was  asked  to  infer  the 
+protagonist‘s  behavior  and  to  finish  the  script  by  choosing  one  of  three  pictures  corresponding  to  socially 
+adjusted behavior, socially maladjusted behavior or neutral behavior. The child justified the choice. The response 
+to  each  script  was  scored  between  0  and  1.5  points  according  to  the  participant‘s  justification  (0  =  socially 
+maladjusted  or  neutral  behavior,  non-justified  or  incoherent  justification;  0.5  =  socially  maladjusted  or  neutral 
+behavior,  coherent  justification;  1  =  socially  adjusted  behavior,  non-justified  or  incoherent  justification;  1.5  = 
+socially  adjusted  behavior,  coherent  justification).  The  maximum  score  was  6  points.  The  two  ToM  emotions 
+tasks were scored out of a combined total of 12 points. 
+
+A  recently  created  computer  version  of  these  tasks  was  used  in  this  study.  The  factor  analysis  revealed  two 
+subscales  (causes  and  consequences)  which  were  found  in  the  original  version.  Cronbach‘s  alpha  was  .57,  and 
+the test-retest stability was highly significant for the two subscales (between .56 and .68). 
+
+3.2.3 ToM Beliefs Tasks (Nader-Grosbois & Thirion-Marissiaux, 2011a). 
+
+These five tasks estimated the understanding of beliefs. 
+
+(1) Deception skills test (Oswald & Ollendick, 1989). The experimenter hid an object in one hand, and the child 
+then did likewise. The experimenter noted whether or not the child really hid the object. 
+
+(2)  Change  of  representation  task  (Flavell,  Everett,  Croft  &  Flavell,  1981).  The  experimenter  was  sitting 
+opposite the child with a picture of a turtle placed between them, and the child was asked: ―What do you see?‖ 
+and ―What do I see?‖   
+
+(3) Appearance-Reality task (Flavell, 1986). Three substitute objects were presented: (a) a flashlight in the shape 
+of a mobile phone, (b) an eraser in the shape of a peanut in its shell and (c) a telescope looking like a glue stick. 
+The child was asked two questions: ―If you look at this object and you don‘t touch it, what does it look like?‖ 
+and ―What is it really?‖ 
+
+(4) Unexpected content task (Perner, Leekam & Wimmer, 1987). The child was shown a Smarties box and the 
+experimenter  asked:  ―What  is  inside  the  box?‖  The  child  then  opened  the  box  and  found  pencils.  The  pencils 
+were returned to the box and the child was asked: ―What did you think was in the box before  it was opened?‖ 
+and ―What will your mother think is in the box if she has not seen inside it?‖ 
+
+(5)  Change  of  location  task  (Wimmer  &  Perner,  1983).  This  corresponds  to  the  ―Max  and  the  transfer  of 
+chocolate‖ task. 
+
+These ToM beliefs tasks were scored out of a total of 5 points (1 point for each task).   
+
+For  the  validation,  the  inter-judge  agreement  was  very  high  (agreement  percentage  between  99%  and  100%; 
+Cohen‘s kappa between .98 and .99; Pearson correlation coefficient between .99 and 1). No difference between 
+the test and retest session was observed. 
+
+3.2.4 Social Problem-solving Task (RES, Barisnikov et al., 2004). 
+
+This task assesses children‘s capacity to judge whether or not other people‘s social behavior is appropriate and the 
+extent to which their judgment refers to conventional and moral rules. Participants were shown 14 items illustrated 
+by  14  pictures  in  which  a  character  displayed  appropriate  or  inappropriate  social  behavior  in  everyday  social 
+situations. Three questions were asked. (1) ―What is happening in the picture? What do you think? Is he/she doing 
+something that is good or not good?‖ (identification of socially adjusted or maladjusted behaviour, maximum score 
+= 2); (2) ―Can you show me what is good/not good?‖ (identification of the target behavior, maximum score = 1). (3) 
+―Why is it good/not good?‖ (justification, maximum score = 7). The maximum score for all items is 140. 
+
+The inter-judge agreement was 98% (Hippolyte, Iglesias, Van der Linden & Barisnikov, 2010). 
+
+3.2.5 Theory of Mind Inventory – French version (ToMI, Hutchins et al., 2010; translated by Houssa, Mazzone 
+& Nader-Grosbois, in press). 
+
+This  questionnaire  measures  caregivers‘  perception  of  children‘s  ToM  abilities.  It  presents  39  statements  (e.g., 
+―My  child  understands  that  people  can  lie  to  purposely  mislead  others‖).  Caregivers  indicated  their  degree  of 
+agreement  with  each  statement  by  placing  a  vertical  mark  along  a  continuum  ranging  from  ―definitely  not‖  to 
+―definitely.‖ The score for each item ranged from 0 to 20. 
+
+ 
+
+142 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+The validation of the French version matched the original version. Cronbach‘s alpha was .94, and the coefficient 
+of test-retest stability was very significant (r = .86) (Houssa et al., submitted). 
+
+3.2.6 Child Behavior Checklist (CBCL, Achenbach & Rescorla, 2000). 
+
+The CBCL includes items to assess behavioral and emotional problems in children. This measure generates two 
+factors:  externalizing  and  internalizing  behaviors.  In  this  study,  we  used  the  externalizing  behavior  score 
+(EB),corresponding  to  the  sum  of  scores  in  the  subscales  ―Aggressive  behavior‖  (19  items)  and  ―Attention 
+problems‖(5  items).We  also  used  the  subscale  for  ―Emotional  reactiveness‖  (ER),  which  is  an  internalizing 
+behavior. Caregivers had to report on a Likert scale whether the behavior was never, sometimes, or often/always 
+observed. The higher the score, the higher the level of EB or ER. 
+
+The scales had Cronbach‘s alphas of between .63 and .86 and a test-retest reliability of .85.   
+
+3.2.7  Bipolar  Rating  Scales  based  on  the  Five  Factor  Model  (EBMCF,  Roskam,  De  Maere-Gaudissart  & 
+Vandenplas-Holper, 2000). 
+
+This  questionnaire  measures  the  child‘s  personality  in  reference  to  five  factors  (extraversion,  agreeableness, 
+conscientiousness, emotional stability, and openness). The 25 items are completed by caregivers (or teachers), by 
+choosing between two opposite adjectives on a Likert scale.   
+
+The validation was carried out with 321 children. The factor analysis  confirmed the 5 factors, with Cronbach‘s 
+alphas  of  between  .70  and  .93.  The  coefficients  of  test-retest  stability  were  highly  significant  (between  .66 
+and .93 for teachers, between .80 and .89 for caregivers).   
+
+3.2.8 Social Adjustment Scales (EASE, Hughes & Soares-Boucaud, 1997) 
+
+This  measures  adults‘  perception  of  children‘s  socio-emotional  adjustment.  It  includes  items  relating  to  social 
+skills  (non-ToM)  and  items  dealing  with  perspective-taking  abilities  (ToM).  It  was  completed  by  caregivers 
+and/or teachers. For each item, they had to indicate whether the behavior was non-existent or rare (0), frequent (1) 
+or usual (2). 
+
+The  validation  was  carried  out  on  327  pre-schoolers.  The  two  subscales  had  good  internal  consistency 
+(Cronbach‘s alpha was .77 for the ToM scale and .79 for the non-ToM scale). Authors have found a significant 
+regression  between  the  ―ToM  scale‖  and  verbal  developmental  age  (r  =  .22)  (Comte-Gervais,  Giron, 
+Soares-Boucaud, & Poussin, 2008). 
+
+4. Procedure 
+
+Information  letters  and  a  consent  form  for  the  child‘s  participation  were  given  to  parents  via  their  teachers. 
+Participants  were  tested  in  a  quiet  room  at  school  or  at  the  Institute  of  Psychological  Sciences.  In  the  pretest 
+session, four tests were administered individually in two sessions of 45 minutes: EDEI-R scales, ToM emotions 
+and beliefs tasks and the RES. Then, children were randomly assigned to one of the experimental groups (ToM 
+or  SIP  groups)  or  to  the  control  group.  They  participated  in  a  training  or  free  play  session  for  45  minutes  and 
+finally, they were assessed in a posttest session for 45 minutes, by means of ToM emotions and beliefs tasks and 
+RES (see Figure 1). There was an interval of 1-4 days between pre- and post-tests.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Experimental ToM group: 
+
+short training (N=16) 
+
+Recruitment of preschoolers (N=47) 
+
+Pretest:   
+
+EDEI-R, EBMCF, RES, ToM tasks, 
+
+EASE, TOMI 
+
+Randomized in control or experimental 
+
+groups 
+
+Experimental SIP group: short 
+
+training (N=15) 
+
+Post-test: ToM tasks, RES 
+
+(N=47) 
+ 
+
+Figure 1. Design 
+
+143 
+
+Control group:   
+Free play (N=16) 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+4.1 Training in Experimental Groups 
+
+In the experimental groups, children received brief stimulation involving one of the forms of training, in a quiet 
+room. They were trained in subgroups of three, as this allowed them to help one another complete or correct their 
+answers, which could result in socio-cognitive conflict helping their thoughts. Furthermore, there was a speaking 
+slot, which ensured that each child had speaking time. 
+
+Open-ended questions were asked about the presented situations in order to prompt discussion, and feedback was 
+provided after each response, as well as an explanation of the correct or expected response. Correct answers were 
+given  positive  feedback  and  incorrect  responses  were  corrected  with  an  explanation  (differentiated  immediate 
+feedback on the performance in the task). The experimenter also reminded the participant of the general principle 
+related  to  the  task  (such  as  the  social  rules  that  could  be  applied  in  this  social  situation);  that  is  for  the 
+generalization  of  the  knowledge.  Training  was  carried  out  by  a  female  experimenter.  Finally,  in  both  training 
+sessions, different types of materials were used  – evidence-based resources and educational materials – as well 
+as different styles of resources (―unanimated‖ and ―animated‖). 
+
+Table 2 summarizes the training in social cognition in reference to ToM and SIP models.  Appendixes A and B 
+detail, for ToM training and SIP training respectively, the type of resources, the functions  in which training was 
+given (mental states or social situations), the presented situations, and the timing. 
+
+Table 2. Training in social cognition in reference to ToM and SIP models 
+
+Theory of Mind 
+
+Social Information Processing 
+
+Howlin et al., 2011 
+
+Dodge et al., 1990 
+
+Types of training 
+
+ 
+ 
+Theoretical 
+background 
+Functions 
+
+Stimulated skills 
+
+Evidence-based 
+resource 
+
+-Beliefs and false beliefs 
+-Recognition of emotions 
+-Causes and consequences of emotions 
+ 
+-Inferring mental states (beliefs, emotions) 
+-Understanding other people‘s perspectives 
+-Talking about emotions, causes, and consequences 
+in positive and negative social situations 
+-Identifying social emotions 
+Pictures of emotions (Howlin et al., 2011)  
+
+-Each of the five SIP steps 
+-Social problem-solving 
+
+-Emotion and provocation cue interpretation   
+-Response access   
+-Decisions about instrumental and social goals 
+-Generating  alternative  solutions in  relation to  critical 
+social situations 
+Critical social situations:   
+-  Schultz  Test  of  Emotion  Processing  –  Preliminary 
+version  (STEP-P,  Schultz  et  al.,  2010):  scenarios 
+illustrated by short videos 
+-  Social  Information  Processing  –  Interview(SIPI-P, 
+Ziv et al., 2011): scenarios illustrated by pictures 
+-Pictures about emotions 
+
+Educational 
+material 
+
+-Mental  Simil  (Juarez  Monfort  et  al.,  2009): 
+illustrations of false beliefs 
+-Cartoon extracts 
+
+4.1.1 ToM Training Experimental Group 
+
+The  goal  was  to  stimulate  the  comprehension  of  emotions  and  of  beliefs,  based  on  the  program  conceived  by 
+Howlin  et  al.  (2011),  who  described  five  developmental  levels  of  these  abilities.  As  detailed  in  Table  2,  we 
+stimulated children to infer mental states in the protagonist, to talk about his or her emotions and beliefs etc. The 
+progression of this training reflects the five levels. 
+
+Before the session, each child received an envelope  with 4 pictures of  faces representing the expression of the 
+four  basic  emotions.  We  asked  the  children  to  show  the  sad  face,  then  the  happy  face  etc.  Correct  recognition 
+was a necessary condition in order to begin the training. 
+
+The first part used the pictures and program design of Howlin et al. (2011). Children had to say or point to the 
+protagonist‘s emotion, and at the end of each story they had to reply to some questions about the protagonist‘s 
+emotions,  desires  and  beliefs  and  to  justify  their  choice.  If  the  child  gave  a  correct  reply,  the  experimenter 
+reinforced  and  consolidated  this  reply.  By  contrast,  if  the  reply  was  incorrect,  then  the  experimenter  gave  the 
+correct reply and the reason.   
+
+The second part comprised the presentation of cartoon extracts (e.g., Snow White) where the protagonist was in 
+a situation eliciting the emotions of joy, fear, sadness, anger, or had a false belief. The purpose was to train the 
+participants  to  understand  causes  and  consequences  of  emotions  and  some  aspects  of  ToM  beliefs,  such  as 
+
+ 
+
+144 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+reporting another person‘s false belief. 
+
+The third part featured the game ―Mental Simil‖ (Juarez Monfort, Sanchez, & Monfort, 2009) presenting a series 
+of pictures illustrating stories featuring false beliefs. The experimenter showed pictures one by one and told the 
+story. The children had to explain and talk about the featured false beliefs. 
+
+4.1.2. SIP Training Experimental Group 
+
+As explained in Table 2, the SIP training used two sets of materials: video-based SIP illustrating social situations 
+from  the  ―Schultz  Test  of  Emotion  Processing-Preliminary  Version‖  (STEP-P,  Schultz  et  al.,  2010)  and  stories 
+illustrating  social  situations  with  bears  from  the  ―Social  Information  Processing  Interview  for  Pre-schoolers‖ 
+(SIPI-P , Ziv et al., 2011). 
+
+The  STEP-P  includes  three  aspects  of  the  SIP  model:  ―emotions‖,  ―provocation‖,  and  ―goal  acquisition‖.  The 
+emotions category contains videos that present scenarios in which either an emotion-eliciting event occurs or a 
+child  displays  emotion-related  behavior.  The  provocation  category  contains  videos  that  present  scenarios  in 
+which  a  child  receives  provocation  of  ambiguous  intent.  The  goal  acquisition  category  contains  20  videos  that 
+present  scenarios  in  which  children  attempt  to  attain  a  goal  (Schultz  et  al.,  2010).  Each child  in  the  SIP  group 
+watched 3 videos from each category. At the end of each video, the experimenter questioned the child to check if 
+he/she understood what had happened and asked if he/she could explain what had occurred. Then, the child tried 
+to identify the emotion  felt by each protagonist, indicate if one of them acted expressly, and predict the verbal 
+and non-verbal behavior of the protagonists. Finally, the experimenter asked each child to ―take the place of the 
+protagonist‖  and  asked  if  they  had  had  a  similar  experience  themselves,  and  how  they  reacted/would  have 
+reacted in this situation, as a way of generalizing the concepts involved.   
+
+In addition two stories from  the SIPI-P illustrating critical  social situations  with  teddy bears  were presented to 
+children.  The  experimenter  told  the  story  and  asked  the  children  questions  about  it.  Each  child  answered  the 
+questions,  which  were  a  way  of  checking  the  child‘s  comprehension  of  the  facts.  Children  had  to  judge  a 
+protagonist‘s potential reactions as  well-adjusted or maladjusted. The experimenter asked  the children to say if 
+they had had a similar experience themselves, to talk about emotions felt in the past, and to consider what could 
+be done to manage them.   
+
+4.2 Control Group 
+
+Control  children  participated  in  a  play  session  in  groups  of  3  for  45  minutes.  Children  played  a  snakes  and 
+ladders game. The experimenter was the same as for the experimental groups.   
+
+5. Results 
+
+5.1 Pretest and Post-test Performance 
+
+Table 3 presents the means and standard deviations for all variables in the pretest session.   
+
+Table 3. Means and standard deviations of all variables for each group in the pretest session and between-group 
+comparisons 
+
+ 
+ 
+Individual 
+characteristics 
+
+ 
+Variables 
+Sex (% Male) 
+Chronological age   
+Developmental age 
+ 
+ 
+EBMCF 
+ 
+ 
+ 
+ 
+CBCL 
+ 
+
+Social cognition  ToM 
+
+ 
+ 
+RES 
+EASE 
+ 
+ 
+
+Social 
+adjustment 
+
+ 
+
+ 
+ 
+ 
+ 
+Global 
+Verbal 
+Non-verbal 
+Conscientiousness 
+Openness 
+Agreeableness 
+Emotional stability 
+Extraversion 
+EB 
+ER 
+ToM emotions 
+ToM beliefs 
+ToMI 
+ 
+Non-ToM 
+ToM 
+Total 
+
+145 
+
+Control group 
+
+ToM group 
+
+SIP group 
+
+M (SD) 
+
+56% 
+
+56.30 (4.91) 
+62.60 (13.26) 
+61.80 (12.21) 
+64.80 (22.04) 
+
+5.73 (1.99) 
+6.90 (1.54) 
+6.37 (1.37) 
+5.85 (1.47) 
+5.52 (2.36) 
+11.60 (7.43) 
+2.86 (3.06) 
+8.66 (1.47) 
+4.20 (.65) 
+
+M (SD) 
+
+38% 
+
+54.9 (4.01) 
+57.9 (9.70) 
+57.1 (8.28) 
+59.6 (20.94) 
+6.07 (2.14) 
+7.59 (.836) 
+7.53 (1.23) 
+6.24 (1.65) 
+6.17 (1.62) 
+11.79 (7.87) 
+3.64 (3.10) 
+7.3 (1.68) 
+3.94 (.89) 
+
+15.33 (1.76) 
+60.63 (14.08) 
+
+14.05 (2.26) 
+57.44 (17.90) 
+
+.85 (.07) 
+.73 (.14) 
+.80 (.10) 
+
+.83 (.11) 
+.70 (.13) 
+.77 (.11) 
+
+M (SD) 
+
+53% 
+
+54.3 (5.75) 
+62 (10.79) 
+59.9 (10.84) 
+66.2 (15.57) 
+6,53 (1.67) 
+7.93 (.78) 
+6.87 (.98) 
+6.14 (1.24) 
+5.47 (1.38) 
+9.36 (5.84) 
+2.15 (2.03) 
+8.46 (1.86) 
+3.47 (1.34) 
+16.25 (1.58) 
+56.4 (11.55) 
+
+0.87 (.12) 
+0.73 (.15) 
+.81 (.13) 
+
+ 
+F 
+.62 
+.71 
+.79 
+.81 
+.49 
+.40 
+2.14 
+2.61 
+.18 
+.62 
+.42 
+.96 
+2.99 
+2.15 
+2.86 
+.35 
+.59 
+.41 
+.39 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+Note. EBMCF = Bipolar Rating Scales based on the Five Factor Model; CBCL = Child Behavior Checklist; EB 
+=  Externalizing  Behavior;  ER  =  Emotionally  Reactive;  ToM  =  Theory  of  Mind;  ToMI  =  Theory  of  Mind 
+Inventory; EASE = Social Adjustment Scales; RES = Social problem-solving task. 
+
+One-way  ANOVAs  revealed  no  significant  difference  between  the  three  groups  for  sex,  chronological  age, 
+developmental age, personality, social cognition or social adjustment. Consequently, the  groups were equivalent 
+in the pretest session. 
+
+Table 4 presents mean scores and standard deviations in the ToM and SIP tasks for the three groups in pretest and 
+post-test.   
+
+Table 4. Means and standard deviations in pretest, post-test in ToM and SIP measures for each group and t-test 
+for the pre/post-test difference 
+
+ 
+
+Control group 
+
+ToM group 
+
+SIP group 
+
+ 
+
+Pretest 
+
+M (SD) 
+
+Post-test 
+
+M (SD) 
+
+ 
+
+t 
+
+Pretest 
+
+M (SD) 
+
+Post-test 
+
+M (SD) 
+
+ 
+
+t 
+
+Pretest 
+
+M (SD) 
+
+Post-test 
+
+M (SD) 
+
+ 
+
+t 
+
+ToM beliefs 
+
+4.19(.65) 
+
+4.16(.83) 
+
+8.66(1.47) 
+
+8.03(1.64) 
+
+ToM emotions 
+
+.39 
+2.94a 
+RES 
+1.78* 
+Note. = post-test – pretest difference. RES = Social problem-solving task; ToM = Theory of Mind. *p ≤ .10, **p 
+≤ .05, ap = .11 
+
+64.88(15.54) 
+
+61.07(11.59) 
+
+57.44(17.9) 
+
+65.06(19.72) 
+
+2.33** 
+
+56.4(11.55) 
+
+1.78* 
+
+3.47(1.34) 
+
+1.9* 
+
+8.46(1.86) 
+
+7.3(1.68) 
+
+8.28 (1.85) 
+
+3.94 (.89) 
+
+4.25 (.91) 
+
+8.6(1.58) 
+
+4.17(.79) 
+
+60.63(14.1) 
+
+-.18 
+
+-.18 
+
+1.75* 
+
+For  the  pretest  session,  a  one-way  ANOVA  showed  no  difference  between  groups  for  ToM  emotions  (F(2)  = 
+2.99), ToM beliefs (F(2) = 2.08), or RES (F(2) = .35). For the post-test session, a one-way ANOVA showed no 
+difference between groups for ToM emotions (F(2) = .435), ToM beliefs (F(2) = .058), or RES (F(2) = .302). 
+
+5.1.1 ToM Emotions 
+
+A repeated measures ANOVA was conducted on the ToM emotions performance with pretest/post-test score as a 
+within-group  factor  and  as  a  between-groups  factor.  This  analysis  revealed  no  significant  pre-post  effect,  F(1) 
+=  .455,  and  a  significant  pre-post  X  group  interaction,  F(2)  =  3.82,  p<  .05.  A  one-way  ANOVA  with  pre-post 
+difference between groups revealed that the significant interaction between pre-post and groups was due to the 
+fact  that  the  improvement  in  the  ToM  group  was  significantly  greater  than  in  the  control  or  SIP  group.  This 
+pre-post comparison was significant in the ToM group but not in the two other groups.   
+
+5.1.2 ToM Beliefs 
+
+A  repeated  measures  ANOVA  was  conducted  on  the  ToM  beliefs  scores,  showing  a  significant  main  pre-post 
+effect, F(1) = 8.32,  p< .01, and a significant pre-post  X group interaction,  F(2) = 3.43, p< .05. The significant 
+main  pre-post  effect  was  further  analyzed  by  one-tailed  paired  t-tests.  The  pre-post  comparison  was  only 
+significant  in  the  ToM  group,  and  there  is  a  tendency  for  the  SIP  group  (p  =  .11),  in  contrast  with  the  control 
+group. 
+
+5.1.3 RES 
+
+A  repeated  measures  ANOVA  showed  only  a  significant  main  pre-post  effect,  F(1)  =  11.60,  p  =  .001.  The 
+pre-post  X group interaction  was not significant,  F(2) = .437, ns. Post-hoc Bonferroni indicated that all  groups 
+showed a significant improvement on the RES task (see Table 4).   
+
+Although there is no significant difference between groups for the pre/post-test differences, the tendency showed 
+that the ToM group (pre/post-test difference = 7.63) increased more than the control (pre/post-test difference = 
+4.25) or SIP (pre/post-test difference = 4.67) group for the RES task. 
+
+Finally, as shown in Table 4, in the control group, children had a tendency to achieve a lower score in post-test 
+than in pretest for ToM beliefs and ToM emotions. They only improved their score in the RES. However, in both 
+experimental  groups,  there  are  at  least  tendencies  to  improvement  between  pretest  and  post-test  for  each  test 
+(ToM emotions, ToM beliefs, and RES) in both groups. 
+
+5.3 Links between ToM, SIP, and Individual Characteristics 
+
+Figure 2 summarizes the results of significant correlational analyses obtained by applying Pearson‘s coefficient 
+for all subjects combined in pretest. 
+
+ 
+
+146 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+ 
+
+Figure 2. Summary of significant correlations between individual characteristics, socio-cognitive variables, 
+
+social adjustment, and externalizing behavior for all subjects in pretest 
+
+Note.  GDA  =  Global  Developmental  Age;  EBMCF  =  Bipolar  Rating  Scales  based  on  the  Five  Factor  Model; 
+CBCL = Child Behavior Checklist; EB = Externalizing Behavior; ER = Emotionally Reactive; ToM = Theory of 
+Mind;  ToMI  =  Theory  of  Mind  Inventory;  EASE  =  Social  Adjustment  Scales;  RES  =  Social  problem-solving 
+task. 
+
+= Positive links between variables; 
+
+= Negative links between variables      *p ≤ .05, **p ≤ .01, ***p ≤ .001 
+
+Significant correlations (from p< .05 to p = .000) are obtained between social cognition measures and individual 
+characteristics, social cognition measures and social adjustment, and social cognition measures and ER, but also 
+within the social cognition measures, between social adjustment and EB, and between social adjustment and ER. 
+Positive  significant  correlations  were  obtained  between  global  developmental  age  on  the  one  hand  and  ToM 
+emotions,  ToMI,  and  RES  on  the  other  hand.  Furthermore,  ToM  emotions  were  positively  correlated  with 
+―conscientiousness‘,  while  ToM  beliefs  were  positively  correlated  with  ―agreeableness.‖  Positive  significant 
+correlations were also obtained between social adjustment on one hand and ToM emotions, ToMI, and RES on 
+the other hand. Within the social cognition measures, ToM emotions and ToMI, as well as ToM beliefs and RES, 
+were  positively  and  significantly  linked.  Finally,  ToM  emotions  and  ToMI  were  correlated  negatively  and 
+significantly to ER, and the social adjustment measure was negatively and significantly linked with EB and with 
+ER. Moreover, the negative correlation obtained between ToM emotions and EB was nearly significant (r = -.32, 
+p = .054) 
+
+6. Discussion 
+
+6.1 Training Effects 
+
+As  predicted  (1a,  1b),  this  experiment  demonstrated  positive  effects  of  one-shot  training  sessions  in  social 
+cognition.  We  showed  that  training  with  feedback  and  explanations  improved  children‘s  performances  in  the 
+social cognition direct measures. Through quantitative and qualitative analysis, we found that ToM training led 
+to a significant rise in ToM and SIP performances, while SIP training improved performance in RES and in ToM 
+beliefs (tendency). The training not only improved performances in the trained skills, but also induced a transfer 
+of learning to other social cognition tasks (prediction 1c). The transfer effect showed that training in one aspect 
+of  social  cognition  could  influence  children‘s  understanding  of  other  aspects  of  the  mind.  The  mutual  transfer 
+effects between ToM and SIP tasks mean that, at least with those tasks, there is a causal link between ToM and 
+SIP.  As  Kloo  and  Perner  (2003)  argued,  the  transfer  effect  on  the  socio-cognitive  tasks  indicates  that  children 
+learned something that went beyond the immediate context of the task. 
+
+ 
+
+147 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+The ToM training may have enabled children to interpret visual illustrations and to take the protagonist‘s point of 
+view, which can be very useful for the SIP step. Conversely, the SIP training  may have allowed participants to 
+―feel what the protagonist might feel, how he might react…,‖ which can be useful for understanding causes and 
+consequences  of  emotions.  Although  the  children  in  the  SIP  group  were  trained  to  generate  an  alternative 
+appropriate  response,  they  talked  about  the  protagonist  experiencing  the  emotions  in  order  to  justify  their 
+answers. Conversely, children in the ToM group probably used social problem-solving when they saw an extract 
+from  a  cartoon  about  a  child  who  was  scared  or  sad,  because  the  children  had  to  talk  about  potential 
+consequences of emotions and what the protagonist could do to stop that particular feeling.   
+
+The transfer effect may be explained by the fact that, in both groups, the experimenter used similar techniques of 
+exchanges  including  inductive  questions,  explanation  of  expected  responses  and  immediate  differentiated 
+feedback.  Furthermore,  children  were  placed  in  groups  in  order  to  create  opportunities  for  ―socio-cognitive 
+conflicts‖  between  children  that  could  help  bring  about  an  evolution  in  their  mental  representations  of  social 
+situations. In the case of wrong answers, each child was able to benefit from the help of another child or from 
+corrections, feedback, or explanations of alternative or right answers. 
+
+One surprising result was that SIP training did not significantly enhance RES score compared with other groups. 
+Contrary  to  expectation,  the  SIP  group  was  not  the  one  that  displayed  the  greatest  improvement  in  RES. 
+Although  there  was  no  significant  difference  between  groups  for  the  pre/post-test  differences,  the  tendency 
+showed that the ToM group increased more than the control or SIP group for RES. One explanation for this may 
+be  the  learning  effect,  because  even  the  control  group  obtained  significantly  better  scores  in  post-test  than  in 
+pretest.  However,  the  ToM  group  had  a  tendency  to  improve  more  than  the  other  two  groups.  This  could  be 
+explained by the fact that children seemed to enjoy the ToM training more than the SIP training—materials and 
+exercises were probably more attractive and varied—which meant that they were more attentive and motivated. 
+Another  explanation  could  be  that  the  SIP  training  always  used  critical  or  ambiguous  social  situations  or 
+provocation, while the RES assessment included both appropriate and inappropriate situations. 
+
+6.2 Links between ToM, SIP and Individual Characteristics, Social Adjustment 
+
+Preliminary social cognition measures correlated positively together. We found positive significant links between 
+ToM emotions and ToMI (as found by Houssa et al.,  in press), and between ToM beliefs and RES. This result 
+could  be  explained  by  the  fact  that  the  understanding  of  beliefs  and  social  problem  solving  are  probably  more 
+cognitive aspects of social cognition than ToM emotions. As Deneault and Ricard (2013) suggest, ―emotion‖ is 
+an affective mental state, while ―belief‖ is more of a cognitive mental state. 
+
+Firstly, as expected (2a), correlations showed that social cognition aspects are positively linked to developmental 
+age (except ToM beliefs). As several authors have shown (e.g., Schultz et al., 2010; Wellman & Liu, 2004), this 
+means  that,  as  cognitive  capacities  (verbal  and  non-verbal  intellectual  level  of  efficiency)  increase,  children 
+acquire abilities in social cognition.   
+
+Secondly, as expected (2b), some specific personality factors correlated positively with social cognition abilities. 
+Conscientiousness was positively correlated to ToM emotions, while agreeableness was positively correlated to 
+ToM  beliefs.  This  means  that  the  more  children  are  perceived  as  having  a  high  level  of  conscientiousness,  the 
+stronger  their  skills  in  ToM  emotions.  And  the  more  children  are  perceived  as  having  a  high  level  of 
+agreeableness, the higher their skills in ToM beliefs.   
+
+Thirdly,  as  predicted  (2c),  the  social  cognition  measure  (except  ToM  beliefs)  correlated  positively  with  social 
+adjustment.  The  children  who  have  better  abilities  in  social  cognition  are  better  adjusted  socially  (Denham  & 
+Burton, 2003; Houssa et al., submitted; Nader-Grosbois, Houssa & Mazzone, 2013).   
+
+Fourthly,  we  hypothesized  (2d)  that  social  cognition  measures  would  be  negatively  correlated  to  externalizing 
+behavior,  but  the  negative  correlations  obtained  between  ToM  emotions  and  EB  were  not  quite  significant.  As 
+our sample was composed of normally developing pre-schoolers, without behavior problems, this low correlation 
+may  be  due  to  the  variance  in  EB  score.  The  negative  correlation  may  be  significant  with  children  who  have 
+more variance in their externalizing behavior score (e.g., Nader-Grosbois et al., 2013). 
+
+Fifthly,  as  expected,  we  found  a  significant  negative  correlation  between  social  cognition  or  social  adjustment 
+measures,  and  social  maladjustment  measures.  This  means  that  if  children  were  perceived  as  socially 
+well-adjusted, they displayed few externalizing behavior problems, and conversely, if children were perceived as 
+having a lot of externalizing behavior problems, they were also perceived as more socially maladjusted (Ladd & 
+Troop-Gordon,  2003;  Nader-Grosbois  &  Fiasse,  2011b,  p.286).  Furthermore,  we  expected  (2e)  negative  links 
+between ToM emotions, ToMI, and emotional reactivity. This means that if children had good scores in ToM, or 
+
+ 
+
+148 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+were perceived by their parents as having good abilities in  ToM, they  were perceived as having a low level of 
+emotional reactivity (or vice versa). As regards the link between social adjustment and emotional reactivity, this 
+means that the more the child was perceived as being socially well adjusted, the more he/she was perceived as 
+having low emotional reactivity (or vice versa). 
+
+It  might  be  interesting  to  test  these  training  sessions  with  atypical  children  (e.g.,  children  with  or  at  risk  of 
+developing externalizing problems) in order to vary the score for social (mal)adjustment. Furthermore, it could 
+be relevant to test this kind of training via medium-term training (for instance, 15 sessions over 2 months). 
+
+7. Implications for Research and Intervention 
+
+In summary, this battery of pretests and post-tests does differentiate between socio-cognitive profiles and could 
+be useful for detecting weaknesses in pre-schoolers in order to better understand social (mal) adjustment, as this 
+is a critical developmental period just before the start of primary  school,  where the child  will create  his or her 
+social network of peers. Results showed positive quantitative and qualitative effects of both types of short-term 
+training  and  confirmed  that  the  two  training  procedures  are  efficient.  Future  studies  should  determine  whether 
+these improvements are observed in atypical populations. For instance, these procedures could help EB children 
+to increase their socio-cognitive skills and, consequently, to decrease their EB and their social maladjustment. 
+
+Early  detection  of  socio-cognitive  difficulties  could  allow  intervention  before  the  emergence  of  lasting 
+difficulties  in  childhood  and  help  to  limit  the  child‘s  disabilities  (primary  prevention).  As  Denham,  Bassett, 
+Mincic,  Kalb,  Way,  Wyatt,  and  Segal  (2012)  have  shown,  children  who  have  lower  sad-prosocial  and  higher 
+angry-aggressive  choices  to  hypothetical  peer  provocation  also  have  weaker  skills  in  social  problem-solving 
+(children in the ―social-emotional learning risk group‖). According to these authors, pre-schoolers‘ programming 
+should  take  social-emotional  learning  into  account,  because  the  ―social-emotional  learning  risk  group‖  is 
+characterized by difficulty in understanding and identifying emotions and an angry-aggressive pattern of social 
+problem-solving. Training for at-risk pre-schoolers is critical, as it lays the foundations for later development and 
+behavior concerning their social environment (Webster-Stratton et al., 2011). 
+
+This study could help teachers and parents by providing a basis for early training plans, as these types of training 
+can ensure better social adjustment and integration. 
+
+References 
+
+Achenbach, T. M., & Rescorla, L.  A. (2000).  Manual for the ASEBA Preschool Forms &  Profiles. Burlington, 
+
+VT: University of Vermont, Research Center for Children, Youth, & Families. 
+
+Amsterlaw,  J.,  &  Wellman,  H.M.  (2006).  Theories  of  mind  in  transition:  A  microgenetic  study  of  the 
+development  of  false  belief  understanding.  Journal  of  Cognition  and  Development,  7,  139-172. 
+http://dx.doi.org/10.1207/s15327647jcd0702_1 
+
+Appleton, M., & Reddy, V. (1996). Teaching three year-olds to pass false belief tests: A conversational approach. 
+
+Social Development, 5, 275-291. http://dx.doi.org/10.1111/j.1467-9507.1996.tb00086.x 
+
+Barisnikov, K., Van der Linden, M., & Hippolyte, L. (2004). Tâche de résolution sociale. Unpublished manual. 
+
+Genève 
+
+Begeer,  S.,  Gevers,  C.,  Clifford,  P.,  Verhoeve,  M.,  Kat,  K.,  Hoddenbach,  E.,  &  Boer,  F.  (2011).  Journal  of 
+
+Autism and Developmental Disorders, 41, 997-1006. http://dx.doi.org/10.1007/s10803-010-1121-9 
+
+Bhavnagri, N. P., & Samuels, B. G. (1996). Children‘s literature and activities promoting social cognition of peer 
+307-331. 
+
+Research  Quarterly, 
+
+Childhood 
+
+Early 
+
+11, 
+
+relationships 
+http://dx.doi.org/10.1016/S0885-2006(96)90010-1 
+
+preschoolers. 
+
+in 
+
+Blair,  R.J.R.  &  Coles,  M.  (2003).  Expression  recognition  and  behavioral  problems  of  early  adolescence. 
+
+Cognitive Development, 15(4), 421-434. http://dx.doi.org/10.1016/S0885-2014(01)00039-9 
+
+Clements,  W.  A.,  Rustin,  C.  L.,  &  McCallum,  S.  (2000).  Promoting  the  transition  from  implicit  to  explicit 
+81-92. 
+
+belief.  Developmental 
+
+Science, 
+
+study 
+
+false 
+
+of 
+
+3, 
+
+understanding:  A 
+http://dx.doi.org/10.1111/1467-7687.00102 
+
+training 
+
+Comte-Gervais, I., Giron, A., Soares-Boucaud, I., & Poussin, G. (2008). Evaluation de l'intelligence sociale chez 
+
+l'enfant. L’information psychiatrique, 84, 667-673.   
+
+Crick, N. R., & Dodge, K. A. (1994). A review and reformulation of social information processing mechanisms 
+74-101. 
+
+Psychological 
+
+adjustment. 
+
+Bulletin, 
+
+115, 
+
+children's 
+
+in 
+http://dx.doi.org/10.1037/0033-2909.115.1.74 
+
+social 
+
+ 
+
+149 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+Deneault, J., & Ricard, M. (2013). Are emotion and  mind understanding differently linked to young children‘s 
+social  adjustment?  Relationships  between  behavioral  consequences  of  emotions,  false  belief,  and  SCBE. 
+The journal of Genetic Psychology, 174(1), 88-116. http://dx.doi.org/10.1080/00221325.2011.642028 
+
+Denham,  S.  A.,  Bassett,  H.,  Mincic,  M.,  Kalb,  S.,  Way,  E.,  Wyatt,  T.,  &  Segal,  Y.  (2012).  Social-emotional 
+learning  profiles  of  preschoolers‘  early  school  success:  A  person-centered  approach.  Learning  and 
+individual differences, 22, 178-189. http://dx.doi.org/10.1016/j.lindif.2011.05.001 
+
+Denham, S. A., Blair, K. A., DeMulder, E., Levitas, J., Sawyer, K., Auerbach-Major, S., & Queenan, P. (2003). 
+Preschool  emotional  competence:  Pathway  to  social  competence?  Child  Development,  74(1),  238-256. 
+http://dx.doi.org/10.1111/1467-8624.00533 
+
+Denham,  S.  A.,  &  Burton,  R.  (2003).  Social  and  emotional  prevention  and  intervention  programming  for 
+
+preschoolers. New York: Kluwer-Plenum. http://dx.doi.org/10.1007/978-1-4615-0055-1 
+
+Denham, S. A., Zinsser, K., & Bailey, C. S. (2011). Emotional intelligence in the first five years of life. Lewis, 
+M.  topic  ed.  In:  Trembay  RE,  Boivin,  M.,  Peters  RDeV,  eds.  Encyclopedia  on  Early  Childhood 
+Development  (online).  Montreal,  Quebec:  Centre  of  Excellence  for  Early  Childhood  Development  and 
+Strategic Knowledge Cluster on Early Child Development, 1-7.   
+
+Dodge,  K.  A.,  &  Crick,  N.  R.  (1990).  Social  information-processing  bases  of  aggressive  behavior  in  children. 
+
+Personality and Social Psychology Bulletin, 16, 8-22. http://dx.doi.org/10.1177/0146167290161002 
+
+Dodge, K. A. & Pettit, G. S. (2003). A biopsychosocial model of the development of chronic conduct problems 
+
+in adolescence. Developmental Psychology, 39(2), 349-371. http://dx.doi.org/10.1037/0012-1649.39.2.349 
+
+Fahie, C. M., & Symons, D. K. (2003). Executive functioning and theory of mind in children clinically referred 
+51-73. 
+
+problems.  Applied  Developmental  Psychology, 
+
+attention 
+
+24, 
+
+for 
+http://dx.doi.org/10.1016/S0193-3973 
+
+behavior 
+
+and 
+
+Feng,  H.,  Lo,  Y.,  &  Tsai,  S.  (2008).  The  effects  of  theory  of  mind  and  social  skills  training  on  the  social 
+competence  in  a  sixth-grade  student  with  autism.  Journal  of  Positive  Behavior  Interventions,  10(4), 
+228-242. http://dx.doi.org/10.1177/1098300708319906 
+
+Flavell,  J.  H.  (1986).  The  development  of  children‘s  knowledge  about  the  appearance–reality  distinction. 
+
+American Psychologist, 41(4), 418-425. http://dx.doi.org/10.1037/0003-066X.41.4.418 
+
+Flavell,  J.  H.  (1999).  Cognitive  development:  Children‘s  knowledge  about  the  mind.  Annual  Review  of 
+
+Psychology, 50, 21-45. http://dx.doi.org/10.1146/annurev.psych.50.1.21 
+
+Flavell,  J.  H.,  Everett,  B.  A.,  Croft,  K.,  &  Flavell,  E.  R.  (1981).  Young  children's  knowledge  about  visual 
+perception: Further evidence for the level 1-level 2 distinctions. Developmental Psychology, 17(1), 99-103. 
+http://dx.doi.org/10.1037/0012-1649.17.1.99 
+
+Fontaine, R. G., & Dodge, K. A. (2009). Social information processing and aggressive behavior: A transactional 
+perspective. In  A. J. Sameroff (Ed.),  The transactional model of development: How children and contexts 
+shape 
+(pp. 117-135).  Washington,  DC:  American  Psychological  Association. 
+http://dx.doi.org/10.1037/11877-007 
+
+other 
+
+each 
+
+Gevers,  C.,  Clifford,  P.,  Mager,  M.,  &  Boer,  F.  (2006).  Brief  report:  A  theory-of-mind-based  social-cognition 
+training  program  for  school-aged  children  with  pervasive  developmental  disorders:  An  open  study  of  its 
+effectiveness. 
+567-571. 
+http://dx.doi.org/10.1007/s10803-006-0095-0 
+
+and  Developmental  Disorders, 
+
+Journal 
+
+Autism 
+
+36(4), 
+
+of 
+
+Hadwin,  J.,  Baron-Cohen,  S.,  Howlin,  P.,  &  Hill,  K.  (1996).  Can  a  theory  of  mind  be  taught  to  children  with 
+
+autism? Development and Psychopathology, 8, 345-365. http://dx.doi.org/10.1017/S0954579400007136 
+
+Hippolyte, L., Iglesias, K., Van der Linden, M., & Barisnikov, K. (2010). Social reasoning skills in adults with 
+Down  syndrome:  the  role  of  language,  executive  functions  and  socio-emotional  behavior.  Journal  of 
+Intellectual Disability Research, 54(8), 714-726. http://dx.doi.org/10.1111/j.1365-2788.2010.01299.x 
+
+Houssa, M., Mazzone, S., & Nader-Grosbois, N. (in press). Validation d‘une version francophone de l‘Inventaire 
+
+de la Théorie de l‘Esprit. European Review of Applied Psychology. 
+
+Howlin, P., Baron-Cohen, S., & Hadwin, J. (2011).  Apprendre aux enfants autistes à comprendre la pensée des 
+
+autres.Bruxelles: De Boeck. 
+
+Hughes,  C.,  Dunn,  J.,  &  White,  A.  (1998).  Trick  or  treat?  Uneven  understanding  of  mind  and  emotion  and 
+
+ 
+
+150 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+executive  dysfunction  in  ―Hard-to-manage‖  preschoolers.  Journal  of  Child  Psychology  and  Psychiatry, 
+39(7), 981-994. http://dx.doi.org/10.1111/1469-7610.00401 
+
+Hughes,  C.,  Soares-Boucaud,  I.,  Hochman,  J.,  &  Frith,  U.  (1997).  Social  behavior  in  pervasive  developmental 
+disorders: effects of informant, group and ‗‘theory of mind‘‘. European Child and Adolescent Psychiatry, 6, 
+191-198. 
+
+Hutchins,  T.  L.,  Prelock,  P.  A.,  &  Bonazinga,  L.  A.  (2012).  Psychometric  evaluation  of  the  theory  of  mind 
+inventory  (ToMI):  A  study  of  typically  developing  children  and  children  with  autism  spectrum  disorder. 
+Journal of autism and developmental disorders, 42, 327-341. http://dx.doi.org/10.1007/s10803-011-1244-7 
+
+Juarez Monfort, I., Juarez Sanchez, A., & Monfort, M. (2009). Mental Simil. Editions Entha. 
+
+Kloo,  D.,  &  Perner,  J.  (2003).  Training  transfer  between  card  sorting  and  false  belief  understanding:  Helping 
+1823-1839. 
+
+Development, 
+
+Child 
+
+74, 
+
+children 
+descriptions. 
+http://dx.doi.org/10.1046/j.1467-8624.2003.00640.x 
+
+conflicting 
+
+apply 
+
+Ladd, G. D. & Troop-Gordon, W. (2003). The role of chronic peer difficulties in the development of children‘s 
+1344-1367. 
+
+Development, 
+
+problems. 
+
+74(5), 
+
+Child 
+
+psychological 
+http://dx.doi.org/10.1111/1467-8624.00611 
+
+adjustment 
+
+Marsh,  A.  A.,  &  Blair,  R.  J.  R.  (2008).  Deficits  in  facial  affect  recognition  among  antisocial  populations:  A 
+454-465. 
+
+Biobehavioral 
+
+Neuroscience 
+
+Reviews, 
+
+and 
+
+32, 
+
+meta-analysis. 
+http://dx.doi.org/10.1016/j.neubiorev.2007.08.003 
+
+Mize,  J.,  &  Pettit,  G.  S.  (2008).  Social  information-processing  and  the  development  of  conduct  problems  in 
+children and adolescents: Looking beneath the surface. In C. Sharp, P. Fonagy, & I. Goodyer (Eds.),  Social 
+cognition  and  developmental  psychopathology  (pp. 141-174).  New  York:  Oxford  University  Press. 
+http://dx.doi.org/10.1093/med/9780198569183.003.0006 
+
+Melot, A. M., &  Angeard, N. (2003). Theory of Mind: Is training contagious?  Developmental Science, 6,  178. 
+
+http://dx.doi.org/10.1111/1467-7687.00269 
+
+Nader-Grosbois,  N.,  Houssa,  M.,  &  Mazzone,  S.  (2013).  How  could  theory  of  mind  contribute  to  the 
+differentiation of social adjustment profiles of children  with externalizing behavior disorders and children 
+with 
+2642-2660. 
+http://dx.doi.org/10.1016/j.ridd.2013.05.010 
+
+in  Developmental  Disabilities, 
+
+disabilities?  Research 
+
+intellectual 
+
+34, 
+
+Nader-Grosbois,  N.,  &  Thirion-Marissiaux,  A.  F.  (2008).  Manuel  des  épreuves  d‘évaluation  de  la  théorie  de 
+
+l‘esprit relatives aux émotions et aux croyances. Université catholique de Louvain, Louvain-la-Neuve. 
+
+Nader-Grosbois,  N.,  &  Thirion-Marissiaux,  A.  F.  (2011a).  Evaluer  la  compréhension  des  états  mentaux 
+« émotions »  et  « croyances ».  In  N.  Nader-Grosbois  Théorie  de  l’esprit :  Entre  cognition,  émotion  et 
+adaptation sociale chez des personnes typiques et atypiques (pp. 95-124). Bruxelles: De Boeck. 
+
+Nader-Grosbois, N., & Thirion-Marissiaux, A. F. (2011b). Théorie de l‘esprit chez des enfants avec troubles du 
+comportement  et  caractéristiques  développementales,  cognitives,  affectives  et  en  adaptation  sociale.  In  N. 
+Nader-Grosbois  Théorie  de  l’esprit :  Entre  cognition,  émotion  et  adaptation  sociale  chez  des  personnes 
+typiques et atypiques (pp. 283-299). Bruxelles: De Boeck. 
+
+Orobio de Castro, B., Veerman, J. W., Koops, W., Bosch, J. D., & Monshouwer, H. J. (2002). Hostile attribution 
+aggressive  behavior:  A  meta-analysis.  Child  Development,  73,  916-934. 
+
+intent 
+
+of 
+http://dx.doi.org/10.1111/1467-8624.00447 
+
+and 
+
+Oswald, D. P., & Ollendick, T. H. (1989). Role taking and social competence in autism and mental retardation. 
+
+Journal of autism and developmental disorders, 19(1), 119-127. doi.org/10.1007/BF02212723 
+
+Ozonoff,  S.,  &  Miller,  J.  (1995).  Teaching  theory  of  mind:  A  new  approach  to  social  skills  training  for 
+individuals  with  autism.  Journal  of  Autism  and  Developmental  Disorders,  25(4),415-433. 
+http://dx.doi.org/10.1007/BF02179376 
+
+Parsons, S., & Mitchell, P. (1999). What children  with autism  understand about thoughts and thought bubbles. 
+
+Autism, 3, 17-38. doi.org/10.1177/1362361399003001003 
+
+Pears, K. C., Fisher, P. A., & Bronz, K. D. (2007). An intervention to promote social emotional school readiness 
+
+in foster children: Preliminary outcomes from a pilot study. School Psychological Review, 36(4), 665-673. 
+
+ 
+
+151 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+Perner,  J.,  Leekam,  H.,  &  Wimmer,  H.  (1987).  Three-year-olds‘  difficulty  with  false  belief:  The  case  for  a 
+125-137. 
+
+Developmental 
+
+Psychology, 
+
+Journal 
+
+British 
+
+5, 
+
+of 
+
+conceptual 
+http://dx.doi.org/10.1111/j.2044-835X.1987.tb01048.x 
+
+deficit. 
+
+Perron-Borelli, M. (1996). Echelles Différentielles d’Efficiences Intellectuelles. Forme révisée (EDEI-R). Paris: 
+
+Editions et Applications Psychologiques. 
+
+Pettit, G. S., Dodge, K. A., & Brown, M. M. (1988). Early family experience, social problem solving patterns, 
+
+and children‘s social competence. Child Development, 59, 107-120. http://dx.doi.org/10.2307/1130393 
+
+Roskam,  I.,  De  Maere-Gaudissart,  A.  &  Vandenplas-Holper,  C.  (2000).  Mise  au  point  d'un  instrument 
+d'évaluation  de  la  personnalité  des  enfants  à  partir  du  Modèle  à  Cinq  Facteurs.  L'Orientation  Scolaire  et 
+Professionnelle, 29(4), 661-672. 
+
+Runions, K. C., & Keating,  D. P. (2007).  Young children‘s Social Information Processing: Family antecedents 
+838-849. 
+
+Developmental 
+
+Psychology, 
+
+correlates. 
+
+43(4), 
+
+and 
+http://dx.doi.org/10.1037/0012-1649.43.4.838 
+
+behavioral 
+
+Silver,  M.,  &  Oakes,  P.  (2001).  Evaluation  of  a  new  computer  intervention  to  teach  people  with  autism  or 
+in  others.  Autism,  5(3),  299-316. 
+
+recognize  and  predict  emotions 
+
+Asperger  syndrome 
+http://dx.doi.org/10.1177/1362361301005003007 
+
+to 
+
+Schultz,  D.,  Ambike,  A.,  Logie,  S.  K.,  Bohner,  K.  E.,  Stapleton,  L.  M.,  VanderWalde,  H.,  Min,  C.  B.,  & 
+Jetkowski,  J.  A.  (2010).  Assessment  of  Social  Information  Processing  in  Early  Childhood:  Development 
+and Initial Validation of the Schultz Test of Emotion Processing – Preliminary version. Journal of Abnormal 
+Child Psychology, 38, 601-613. http://dx.doi.org/10.1007/s10802-010-9390-5 
+
+Shure, M. B., & Spivack, G. (1982). Interpersonal problem-solving in young children: A cognitive approach to 
+341-356. 
+
+Psychology, 
+
+Community 
+
+American 
+
+Journal 
+
+10(3), 
+
+of 
+
+prevention. 
+http://dx.doi.org/10.1007/BF00896500 
+
+Swettenham,  J.  S.  (1996).  Can  children  with  autism  be  taught  to  understand  false  belief  using  computers? 
+157-165. 
+
+Psychology 
+
+Psychiatry, 
+
+37(2), 
+
+and 
+
+Journal 
+http://dx.doi.org/10.1111/j.1469-7610.1996.tb01387.x 
+
+Child 
+
+of 
+
+Walker,  S.  (2005).  Gender  differences  in  the  relationship  between  young  children‘s  peer-related  social 
+competence  and  individual  differences  in  theory  of  mind.  The  Journal  of  Genetic  Psychology,  166(3), 
+297-312. http://dx.doi.org/10.3200/GNTP.166.3.297-312 
+
+Webster-Stratton,  C. 
+
+(2000).  The 
+
+Incredible  Years  Training  Series. 
+
+Juvenile 
+
+justice  bulletin. 
+
+http://dx.doi.org/10.3200/GNTP.166.3.297-312 
+
+Webster-Stratton, C., Reid, J., & Beauchaine, T. (2011). Combining parent and child training for young children 
+191-203. 
+
+of  Clinical  Child  &  Adolescent  Psychology, 
+
+40(2), 
+
+with  ADHD. 
+http://dx.doi.org/10.1080/15374416.2011.546044 
+
+Journal 
+
+Wellman,  H.  M.  (1991).  From  desires  to  beliefs:  acquisition  of  a  theory  of  mind.  In  A.  Whiten  (Ed.),  Natural 
+
+theories of mind (pp. 19-38). Cambridge, MA: Basil Blackwell. 
+
+Yeates, K. O., Dennis, M.,  Rubin, K. H., Taylor, H. G., Bigler, E. D., Gerhardt, C.  A.,  & Vannatta, K. (2007). 
+Social  outcomes  in  childhood  brain  disorder:  A  heuristic  integration  of  social  neuroscience  and 
+developmental 
+535-556. 
+http://dx.doi.org/10.1037/0033-2909.133.3.535 
+
+Psychological 
+
+psychology. 
+
+Bulletin, 
+
+133, 
+
+Wimmer,  H.,  &  Perner,  J.  (1983).  Beliefs  about  beliefs:  Representation  and  constraining  function  of  wrong 
+103-128. 
+
+deception.  Cognition, 
+
+understanding 
+
+young 
+
+13, 
+
+of 
+
+beliefs 
+http://dx.doi.org/10.1016/0010-0277(83)90004-5 
+
+children's 
+
+in 
+
+Ziv,  Y.,  &  Sorongon,  A.  (2011).  Social  information  processing  in  preschool  children:  Relations  to 
+sociodemographic  risk  and  problem  behavior.  Journal  of  Experimental  Child  Psychology,  109,  412-429. 
+http://dx.doi.org/10.1016/j.jecp.2011.02.009 
+
+ 
+
+ 
+
+ 
+
+152 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+Functions: mental state 
+or social situation 
+
+Description 
+
+Timing 
+(sec.) 
+
+Alan is given an ice cream 
+
+Julie breaks Kevin‘s car 
+
+Suzanne is scared of the spider 
+
+Sylvette‘s dad is leaving 
+
+Mila wants to ride a horse 
+
+Xavier  wants  an  orange  juice  but  is 
+given a hot chocolate 
+
+Betty  wants  and  believes  she  will  be 
+given a teddy bear, and is given one 
+
+At  the  circus,  Thomas  wants  to  see 
+lions  but  believes  that  he  will  see 
+clowns, and does see clowns 
+
+Claire  wants  to  see  pigs  but  believes 
+she will see sheep; she sees pigs 
+
+Jean wants his grandfather to stay and 
+believes that he will, but he leaves 
+
+A little girl is given a gift 
+
+At  dinner,  a  mother  is  angry  with  her 
+children because they are fighting 
+
+Little Red Riding Hood‘s grandmother 
+has to leave 
+
+A  girl  is  looking  for  Mowgli  in  the 
+jungle at night, and she is afraid of an 
+owl   
+
+Snow  White  mistakes  pieces  of  wood 
+for crocodiles 
+
+The  queen  looks  like  an  old  woman 
+and  poisons  an  apple  intended  for 
+Snow White 
+
+Little  Red  Riding  Hood  goes  to  see 
+her  grandmother,  but  it  is  the  big  bad 
+wolf in disguise 
+
+A  girl  is  drawing  and  leaves  for  a 
+while.  Another  girl  comes  along  and 
+changes the location of the pen 
+
+A  boy  pretends  that  he  is  injured.  He 
+has a bandage with ketchup 
+
+A  boy  is  disguised  as  a  shark  and 
+frightens some friends 
+
+A  dad  believes  that  his  baby  has 
+ruined  the  picnic,  but  it  was  due  to 
+someone else‘s ball 
+
+The  cat  has  broken  the  candy  bowl 
+and  the  mother  believes  her  daughter 
+has done it 
+
+120 
+
+120 
+
+120 
+
+120 
+
+150 
+
+150 
+
+180 
+
+180 
+
+180 
+
+180 
+
+32 
+
+20 
+
+28 
+
+32 
+
+40 
+
+105 
+
+26 
+
+28 
+
+180 
+
+180 
+
+180 
+
+180 
+
+Appendix A. ToM training 
+
+ToM Training 
+
+Resources 
+
+Howlin et al. 
+(2011) 
+
+Computerized 
+picture stories 
+
+Situation-based 
+emotions 
+
+Desire-based 
+emotions 
+
+Joy 
+
+Anger 
+
+Fear 
+
+Sadness 
+
+Joy 
+
+Sadness 
+
+Belief-based 
+emotions 
+
+True belief and 
+fulfilled desire 
+
+Cartoons 
+
+Cartoons 
+
+Emotions 
+
+True belief and 
+unfulfilled desire 
+
+False belief and 
+fulfilled desire 
+
+False belief and 
+unfulfilled desire 
+
+Joy 
+
+Anger 
+
+Sadness 
+
+Fear 
+
+Beliefs 
+
+Appearance-Reality 
+
+False belief 
+
+Location change 
+
+Mental Simil 
+(Juarez-Monfort 
+et al., 2009) 
+
+Story 
+pictures 
+
+False belief 
+
+ 
+
+ 
+
+ 
+
+ 
+
+153 
+
+Journal of Education and Training Studies 
+
+ 
+
+Vol. 2, No. 1; 2014 
+
+Appendix B. SIP training 
+
+Description 
+
+Anger/sadness  Two boys are playing; one of them cheats 
+
+Timing 
+(sec) 
+20 
+25 
+22 
+25 
+
+25 
+
+29   
+
+30 
+15 
+
+22 
+
+A girl is sitting at the table with arms crossed 
+A girl says to her friend: ―Leave me alone‖ 
+After asking for a toy, a boy takes one  out of another boy‘s 
+hands 
+A  girl  asks  her  friend  to  help  but  she  says  ―no.‖  She 
+threatens her 
+A  boy  asks  to  play  with  a  puzzle.  His  friend  says  ―no‖  and 
+the boy threatens him 
+Two girls are playing with a ball; the ball hits another girl 
+A boy is walking along and breaks the towel of another boy 
+
+A girl refuses to let another girl sit down 
+
+Mickaël  is  watching  TV  and  another  boy  comes  along  and 
+takes the remote 
+
+300 
+
+Mickaël  asks  some  children  if  he  can  play  with  them  but 
+they do not answer 
+
+A  child  accidentally  knocks  over  Mickaël‘s  glass  and  spills 
+his drink 
+
+300 
+
+300 
+
+Functions :  Mental  state  or 
+social situation 
+Emotion 
+ 
+
+Goal 
+acquisition 
+
+Aggressive/ 
+cooperative 
+
+Provocation  Physical 
+Physical 
+
+Social 
+exclusion 
+
+social 
+
+Critical 
+situations 
+involving  potential  hostile 
+attribution bias 
+
+SIP 
+Training 
+  STEP-P 
+(Schultz 
+et 
+al., 
+2010) 
+
+Resources 
+
+Video 
+illustrating 
+social 
+situations 
+
+SIP-I 
+(Ziv  et 
+al., 
+2011) 
+
+Story 
+illustrating 
+social 
+situations 
+by 
+pictures 
+with bears 
+
+ 
+
+ 
+
+ 
+
+This work is licensed under a Creative Commons Attribution 3.0 License. 
+
+ 
+
+154 
+
+

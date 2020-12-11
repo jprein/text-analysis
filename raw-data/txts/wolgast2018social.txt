@@ -1,0 +1,2787 @@
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+1 
+
+Please cite as: Wolgast, A. & Barnes-Holmes, Y. (in press). Social perspective taking and 
+
+metacognition of children. A longitudinal view across the fifth grade of school. The 
+
+Humanistic Psychologist. Advance online publication. doi:10.1037/hum0000077 
+
+Please note: This is a version sent to The Humanistic Psychologist. The final version in the 
+
+journal might contain editing changes. 
+
+ 
+
+Social Perspective Taking and Metacognition of Children. 
+
+A Longitudinal View Across the Fifth Grade of School 
+
+ 
+
+Anett Wolgast 
+
+Department of Educational Psychology 
+
+Martin-Luther-University Halle-Wittenberg, Germany 
+
+ 
+
+Yvonne Barnes-Holmes 
+
+Department of Experimental, Clinical and Health Psychology 
+
+ 
+
+Ghent University, Belgium 
+
+Author Note 
+
+Anett Wolgast is professor ad interim and head of Educational Psychology at Martin-Luther-
+
+University Halle-Wittenberg, Halle (Saale), Germany. Her research interests include learner’s 
+
+or teacher’s perspective taking and social shifting at school. 
+
+Yvonne Barnes-Holmes is a senior research fellow and associate professor at the Department 
+
+of Experimental, Clinical and Health Psychology, Ghent University. She has published 125+ 
+
+articles and book chapters and given 410+ talks and workshops. She is a recognized world 
+
+trainer in Acceptance and Commitment Therapy (ACT). 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+2 
+
+The longitudinal data used in this study were collected for a study funded by the German 
+
+Federal Ministry of Education and Research. The authors declare that they have no conflict of 
+
+interest. We presented the ideas and data appearing in the manuscript already at conferences 
+
+of the European Association of Research on Learning and Instruction (EARLI) and the 
+
+German Psychological Society (DGPs). The ideas are not shared on a website. The data will 
+
+be available as scientific use files on the website of The Institute for Educational Quality 
+
+Improvement (https://www.iqb.hu-berlin.de/fdz/studies/StEG). We would like to thank 
+
+especially one reviewer for the inspiring comments.  
+
+Corresponding author's telephone and e-mail information: Anett Wolgast, Martin-Luther-
+
+University Halle-Wittenberg, Franckepl. 1, 06110 Halle (Saale), Germany,  
+
+telephone 0049 176 26139478, e-mail: anett.wolgast@gmail.com 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+3 
+
+Abstract 
+
+Social perspective taking (SPT) is understanding the social situation of another person. SPT 
+
+helps us to communicate effectively and to foster social bonds, both of which are skill sets 
+
+that youths need to succeed at school and in life. SPT has been associated with reading 
+
+experience (RE), but there has been little research on the factors that support SPT at school. 
+
+SPT involves understanding the fictional characters described in a text. Metacognitive 
+
+strategies (MCSs) taught in class help students comprehend a text. Our aims were, therefore, 
+
+to investigate the interrelations between these concepts and to test whether variance in SPT is 
+
+indirectly explained by RE with books via using MCSs during in-class reading activities. In 
+
+the current study, N = 2,105 fifth-grade students’ SPT, RE and MCSs were measured three 
+
+times over one year of school. The sample consisted of students at all schools with a focus on 
+
+social learning and reading from a nationally representative study. The results indicate 
+
+interrelations between these concepts over time and the postulated indirect effect. Variance in 
+
+SPT was partially explained by the MCSs, variance in that was in turn explained by RE 
+
+assessed five months before. This suggests that teaching MCSs provides a way to support 
+
+students’ SPT when reading texts with fictional characters and when students have 
+
+experience in reading.  
+
+Keywords:  social  perspective  taking;  metacognition;  reading  experience;  relational  frame 
+
+theory 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+4 
+
+Social Perspective Taking and Metacognition of Children. 
+
+A Longitudinal View Across the Fifth Grade of School. 
+
+SPT has been described as the cognitive dimension of empathy (Davis, 1980). SPT is 
+
+also conceptualized within the cognitive-developmental framework of theory of mind (ToM; 
+
+e.g., Baron-Cohen, Leslie, & Frith, 1985). Further conceptualizations of SPT include theory 
+
+and simulation (e.g., Epley, Keysar, van Boven, & Gilovich, 2004). Thus, SPT is an attempt 
+
+to consider and understand the behavior and the situation of another person by putting 
+
+oneself in the other person’s place (e.g., Chambers & Davis, 2012; Epley et al., 2004). The 
+
+development of social understanding has been examined within humanistic approaches in 
+
+terms of distinctions among self and non-self, perception, and self-other experiences, largely 
+
+based on the ideas of Merleau-Ponty (e.g., De Jaegher, Di Paulo & Gallagher, 2010; 
+
+Gallagher & Metzloff, 1996). Social understanding has also been related to reflective 
+
+conversation that assists in understanding others’ viewpoints (e.g., Halling, Kunz, & Rowe, 
+
+1994).  
+
+All mental representations of others’ viewpoints are a priori anchored in the self, in 
+
+children, adolescents, and adults (e.g., Epley et al., 2004; Gallagher & Metzloff, 1996). One 
+
+way to distance oneself from this anchor is to flexibly switch between one’s own and 
+
+another’s (or others’) social viewpoints (Fizke, Barthel, Peters, & Rakoczy, 2014). This 
+
+requires coordinating one’s own viewpoint with that of another (Foody, Barnes-Holmes, & 
+
+Barnes-Holmes, 2012; Selman, 1980). Coordination is associated with adequately regulating 
+
+social perspectives by means of theory, simulation (Epley et al., 2004), or monitoring and 
+
+controlling knowledge about another person. Monitoring and controlling knowledge is 
+
+known as metacognition and is framed in models such as theory of mind (e.g., Schneider, 
+
+2015). Thus, SPT can be understood as person-related metacognition, and metacognition is 
+
+linked to reading and language (e.g., Schneider, 2015). For example, SPT is applied when 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+5 
+
+one tries to understand a historical or fictional character’s perspective as described in a text, 
+
+and MCSs are applied in coordinating perspectives as in arbitrary text. The more children 
+
+coordinate different perspectives in arbitrary text before, while or after reading the text, the 
+
+more reading experience they gain with different types of texts.  
+
+RE is defined as the context in which a reader has a representation of meaning while 
+
+reading (Britt, Goldman, & Rouet, 2012; Mullis, Martin, & Sainsbury, 2015). This 
+
+representation is connected to an existing network of vocabulary, related knowledge, 
+
+strategies, and skills (e.g., Baker & Beall, 2009; Cunningham & Stanovich, 1997; Schneider, 
+
+2015). This definition of RE coheres with the phenomenal tradition of human experiences 
+
+understood in a self-constructed world as direct experience, in writing, or in reading (e.g., 
+
+Heidegger, 1962, Merleau-Ponty, 1962, Miller, Nash & Fetty, 2014). Thus, RE is a 
+
+phenomenon with multiple definitions in diverse traditions (e.g., Habermas, 1984; Heidegger, 
+
+1962, Merleau-Ponty, 1962). For example, Heidegger (1962) said that we look to the future to 
+
+see the past coming at us again. This has intuitive appeal when we consider how reading can 
+
+inspire the reader to think about the future. The existential-phenomenological angle 
+
+perspective permits a view on the overlaps and disjoins among theories of human action (e.g., 
+
+Habermas, 1984; Park, 2010) and/or development (e.g., Baron-Cohen et al., 1985; Gallagher 
+
+& Metzloff, 1996) theories.  
+
+Crossley (2000) discussed Ricoeur’s work on human action in terms of the 
+
+construction of meaning within text material and imagining the social world around us.  This 
+
+formed part of the “meaning-making model” proposed by Park (2010, p. 258), although the 
+
+focus here was on critical life event adjustment. Nonetheless, the concept of “appraised event 
+
+meaning” within Park’s model (2010, p. 258) appears relevant to the construction of meaning 
+
+during reading.  
+
+Constructed meaning serves as a foundation for a child’s subsequent appraisals of text 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+6 
+
+material. The more positive these appraisals are, the higher the frequency with which the 
+
+child will read similar texts when given the opportunity. Thus, RE is a growing network of 
+
+knowledge constructed in tandem with reading habits, such as frequency of reading different 
+
+types of text material, such as books (see Cunningham & Stanovich 1997, for a brief 
+
+overview). Taken together, SPT, metacognition, and RE each have strong ties to humanistic 
+
+psychology.  
+
+A relevant question is whether SPT, using MCSs during in-class activities, and 
+
+reading experience with books, are interrelated. Specifically, SPT and reading might be 
+
+indirectly associated via in-class use of MCSs. If SPT is associated with teaching MCSs and 
+
+in turn with reading texts containing different social perspectives, this would suggest one 
+
+avenue for improving students’ communication and fostering the social bonds necessary for 
+
+an active and engaged life.  
+
+Social Perspectives While Reading 
+
+Contact with different social perspectives during reading assumes a relational 
+
+network that excludes non-relational possibilities (e.g., Heidegger, 1962). The relating of 
+
+oneself to the world and thus the development of relational networks are fundamentally 
+
+human capabilities. According to Stern (1985), development in the first years of life involves 
+
+the abstraction of a verbal self from the child’s direct observations. As such, the development 
+
+of the self-concept is a necessary anchor for exploring the verbal world. These views are also 
+
+in line with Vygotsky’s (2004) emphasis on developmental context and DeRobertis’ (2006) 
+
+integration of the core ideas of Rogers and Horney into a humanistic theory of healthy child 
+
+development. It is interesting, however, that neither SPT or metacognition are mentioned as 
+
+key developmental phenomena in this account.  
+
+Direct links among SPT, language, and reading have been described and investigated 
+
+in research over the past decade (e.g., Hayes et al., 2001; Hooper, Erdogan, Keen, Lawton, & 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+7 
+
+McHugh, 2015; McHugh, Y. Barnes-Holmes, & D. Barnes-Holmes, 2004). Much of this 
+
+evidence has emerged from a behavioral and functional-analytic conceptualization of 
+
+perspective taking (e.g., Foody et al., 2012) that fits under the rubric of relational frame 
+
+theory, a behavioral account of human language and cognition. According to relational frame 
+
+theory (RFT), arbitrarily applicable relational responding, as the ability to relate stimuli in 
+
+arbitrary ways, begins with the simple coordination between words and the objects to which 
+
+they refer. This skill becomes increasingly complex over the course of childhood and 
+
+facilitates the emergence of relational networks which form the basis of verbal skills and 
+
+complex behavioral experience.  
+
+For RFT, SPT involves perspective-taking relations (also called deictic relations) that 
+
+anchor a person’s perspective here and now (i.e., I is coordinated with here and now), and 
+
+conversely, anchor the perspectives of others there and then (e.g., you is coordinated, from 
+
+my perspective, there and then). In the various relational networks involving these relations, 
+
+there are a myriad of possible relationships among I and you/others, including: coordination 
+
+relations (e.g., you and I are similar in that we both like apples); distinction relations (e.g., I 
+
+am different from you because I am female and you are male); opposition relations (e.g., I am 
+
+extroverted but you are introverted); and hierarchical relations (e.g., I am the parent of my 
+
+children). According to RFT, children develop increasingly complex relational networks that 
+
+support all emergent and directly trained language, within which the relationships among I 
+
+and you/others are central.  
+
+Numerous RFT studies have reported developmental age-based and cognitive ability-
+
+based differences across samples of children, and have involved comparisons between 
+
+typically-developing children and those with developmental disabilities (e.g., Gore, Barnes-
+
+Holmes, & Murphy, 2010). Some of these studies have shown that perspective taking 
+
+relations can be targeted directly for educational remediation (Hooper et al., 2015; McHugh 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+8 
+
+et al., 2004). Therefore, we use this broad framework of RFT and its conceptualization of 
+
+language as relating (Hayes et al., 2001). We assumed that understanding fictional characters 
+
+requires both comprehension of text material and experience in reading, through which key 
+
+relational frames, including perspective taking relations, emerge.   
+
+Cognitive Factors, Gender, and Reading Experience  
+
+Interestingly, Schonert-Reichl et al. (2015) used Davis’ measure (1980) and reported 
+
+higher SPT levels relative to controls in fourth and fifth graders after mindfulness training. 
+
+Using Davis’ SPT scale (1980), Van der Graaff et al. (2014) found that gender correlated 
+
+with SPT in both children and adolescents, and that boys’ SPT levels were significantly lower 
+
+than girls’ at various measurement times.  
+
+However, there have been some mixed findings in terms of correlations with 
+
+cognitive abilities. On the weak side, the correlation was only r = .07 between adults’ SPT 
+
+and passive knowledge of vocabulary on the Wechsler Adult Intelligence Scale (Davis, 
+
+1983). On balance, RFT’s measure of perspective taking correlated (r = .45) with the verbal 
+
+cognitive performance of adults as assessed by the 34-item Wechsler Abbreviated Scale of 
+
+Intelligence (Gore et al., 2010). The results from several experimental studies have also 
+
+shown interpersonal SPT differences based on first- or third-person RE (Brunyé, Ditman, 
+
+Mahoney, Augustyn, & Taylor, 2009; Sato & Bergen, 2013), which Mason and Macrae 
+
+(2008) attribute to cognitive abilities. Specifically, sequencing a text requires higher order 
+
+skills such as MCSs (Schneider, 2015) that help the reader retain some distance from the 
+
+content of the text and to remain objective whilst adopting the various social perspectives 
+
+suggested by the text.  
+
+Following Schneider’s “taxonomy of metacognition components” (2015, p. 261), 
+
+MCSs may be seen as ways to control knowledge about the mental world or as strategies for 
+
+dealing with knowledge about memory (e.g., understanding of mental verbs, mental states, 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+9 
+
+desires, or emotions), persons, or tasks (Schneider, 2015). Thus, MCSs may be helpful in 
+
+dealing with knowledge about tasks within or beyond social situations. When teachers teach 
+
+MCSs, they monitor students’ handling of text information in terms of their understanding of, 
+
+and learning about, what they read (e.g., organizing text information via sub-headings, 
+
+thinking about text content or discussing text information). Students can recall MCSs (i.e., 
+
+which information they prioritized when sequencing a text) and can reflect upon and organize 
+
+information to understand reading content (Bråten et al., 2014; Mason & Macrae, 2008; 
+
+Schneider, 2015). Students recognize that such strategies aid their reading comprehension and 
+
+their understanding of text-based social situations. When this is the case, they are likely to use 
+
+these strategies recurrently and apply metacognitive knowledge (e.g., Flavell, 1979; 
+
+Schneider, 2015). Indeed, when children remember which strategies they have used 
+
+previously to understand textual characters, they are recalling MCSs. Thus, students’ SPT 
+
+might be associated with MCSs that help in appreciating the various perspectives in an 
+
+arbitrary text, and in turn, using MCSs during in-class activities might be associated with RE 
+
+(e.g., with books).  
+
+Aims and Hypotheses 
+
+Previous results indicated that variance in perspective taking tasks can be explained 
+
+by language in general (see the meta-analysis by Milligan, Astington, & Dack, 2007). In the 
+
+current study, we speculated that SPT would be supported by recalled use of MCSs during 
+
+in-class reading activities, and in turn, that these MCSs would be supported by RE with 
+
+books. We tested a mediation hypothesis via two predictions: (1) Interrelations exist among 
+
+students’ SPT, recalled use of MCSs during in-class activities, and RE with books. 
+
+Specifically, variance in students’ SPT is explained by MCSs during in-class activities up to 
+
+six months previous. In turn, variance in these MCSs is explained by RE with books at the 
+
+beginning of fifth grade (see Figure 1). Conversely, variance in MCSs during in-class 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+10 
+
+activities at the end of the fifth grade is explained by SPT in the previous six months. In turn, 
+
+variance in this SPT is explained by MCSs during in-class activities at the beginning of fifth 
+
+grade. (2) Variance in students’ SPT at the end of fifth grade is indirectly explained by RE 
+
+with books at the beginning of the fifth grade when the students recall using MCSs during in-
+
+class reading activities. We expected students’ SPT to be associated with RE with books 
+
+when the students recall using MCSs during in-class activities.  
+
+Data Source and Procedure 
+
+Method 
+
+Our sample consisted of N = 2,105 fifth-grade students (n = 973 female) from k = 127 
+
+classes at 66 schools. The sample consisted of students at all schools with a focus on social 
+
+learning and reading from a nationally representative large-scale study. The main idea of the 
+
+nationally representative study was to examine effects of organizational changes from half-day 
+
+schools to all-day schools with extended education by a multi-perspective longitudinal design 
+
+(i.e.,  linking  teaching  contents  with  extracurricular  activities;  for  full  data  description,  see 
+
+Fischer & Klieme 2013; Study on the Development of All-Day Schools – StEG, 2013). The 
+
+schools of the current sample provided extracurricular activities that aimed to support social 
+
+learning (e.g., by role-playing or communication training) and reading (e.g., providing reading 
+
+time  and  books  which  students  desired  or  reading  together  aloud).  The  study  received 
+
+institutional research ethics committee approval. In this sample (Study on the Development of 
+
+All-Day  Schools – StEG,  2013),  n = 637  students  attended  a  Gymnasium  (the  most 
+
+academically-oriented  type  of  secondary  school  in  Germany),  while  the  other  n  =  1,468 
+
+students attended a secondary school with a more vocational curriculum. In general, the type 
+
+of  secondary  school  students  attend  is  determined  predominantly  by  their  performance  in 
+
+elementary  school.  All  students  (with  a  mean  of  10  years  of  age)  were  assessed  at  three 
+
+measurement points: at the beginning (Time 1),  middle (Time 2), and  end (Time 3) of fifth 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+11 
+
+grade during the school year 2013/2014. The summer break began after Time 3. 
+
+Measures 
+
+Social Perspective Taking  
+
+Davis (1980) has developed measures to assess the cognitive and affective dimensions 
+
+of empathy, and the independent and interactive contributions of each within self-reports. 
+
+Four items on the SPT scale used in this study stemmed from a subscale of this empathy 
+
+questionnaire (Davis, 1980; for psychometric properties in other studies see Davis, 1983; 
+
+Schonert-Reichl et al., 2015; Study on the Development of All-day Schools – StEG, 2013; 
+
+van der Graaff et al., 2014). Students responded to each of the five items using the same 
+
+scenario “Imagine yourself in your school” to encourage them to think about how they 
+
+usually act in social situations at school. Students’ SPT was assessed by their responses to the 
+
+question and various response options:  
+
+What do you do? a) I sometimes try to understand my friends better by imagining 
+
+how things look from their perspective; b) I believe that there are two sides to every 
+
+question and try to look at them both; c) Before criticizing somebody, I try to 
+
+imagine how I would feel if I were in their place; d) I try to look at everybody’s side 
+
+of a disagreement before I make a decision; or e) I pay attention to how other 
+
+people feel.  
+
+Students ranked their responses on a 4-point scale (from 1 = not true at all to 4 = absolutely 
+
+true). Thus, high scoring on the cognitive dimension of the SPT measure indicates that the 
+
+person tends to consider the views of others and “to anticipate the behavior and reaction of 
+
+others” (Davis, 1983, p. 115), pointing to understanding of the frames of reference of both 
+
+oneself and others. This SPT measure has been used in several large-scale surveys (Schonert-
+
+Reichl et al., 2015; Study on the Development of All-Day Schools – StEG, 2013; Van der 
+
+Graaff et al., 2014). In this study, Cronbach’s alpha was α = .84 at Time 1, α = .81 at Time 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+12 
+
+2, and α = .86 at Time 3, thus demonstrating satisfactory internal consistency. 
+
+Intercorrelations between the items and the mean of the items ranged from .56 to .62. SPT 
+
+at Time 3 served as the dependent variable for analyzing interrelations and testing the 
+
+mediation hypothesis.  
+
+Metacognitive Strategies 
+
+To measure students’ MCSs, we asked them, “What do you do when you are reading 
+
+a text very thoroughly in class?” The six response choices were as follows: a) I mark 
+
+passages (e.g., with a highlighter); b) I take notes (e.g., at the border of the text or on a 
+
+separate sheet of paper); c) I speak to others about what I've read; d) I take time to think 
+
+about what I've read; e) I divide the text into sections; f) I pay attention to headings.  
+
+Students indicated the frequency of each of these six options on a 4-point scale (from 
+
+1 = never to 4 = almost always). This MCSs measure was previously used in large-scale 
+
+surveys (for psychometric properties see, for example, Mokhtari & Reichard, 2002; Wagner, 
+
+Helmke, & Rösner, 2009). In this study, Cronbach’s alpha was α = .79 at Time 1, α = .73 at 
+
+Time 2, and α = .79 at Time 3, thus demonstrating acceptable internal consistency. 
+
+Intercorrelations between the items and the mean of the items ranged from .55 to .67. The 
+
+intraclass correlation was low, and the low intraclass correlation shows that values for 
+
+students in the same class did not tend to be similar (intraclass correlation ICC = .03). The 
+
+MCSs during in-class activities at Time 3 served as the dependent variable for analyzing 
+
+interrelations with SPT and RE with books. For testing the mediation hypothesis, we used 
+
+MCSs at Time 2 as the mediator variable. 
+
+Reading Experience with Books 
+
+ 
+
+RE was conceptualized in previous research (e.g., Britt et al., 2012; Mullis et al., 
+
+2015). To generate the independent variable RE with books, students responded to the 
+
+following question at Time 1, Time 2, and Time 3: “How often did you read books the last 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+13 
+
+half year?” Students indicated on a 4-point scale (from 1 = never to 4 = almost always) how 
+
+often they had read books. Students used the full range from never to almost always for 
+
+their responses (see Table 1), with 11% at Time 1 and 21% at Time 3 of the n = 1,132 boys 
+
+indicating they did not read books in the last six months. Reading no books in the last six 
+
+months was indicated by 2% at Time 1 and up to 10% at Time 3 of the n = 973 girls. 
+
+Someone would read almost always, if s/he reads at every opportunity. We measured data 
+
+skewness via adjusted Fisher-Pearson standardized moment coefficients and kurtosis via 
+
+properties of symmetric distributions, and both were within -2 and 2 at Time 1, Time 2, and 
+
+Time 3, thereby supporting the assumption of normally distributed data (Revelle, 2015). 
+
+Despite that, RE with books was considered as a categorical dependent variable at Time 3 
+
+for analyzing interrelations using the weighted least squares mean and variance adjusted 
+
+(WLSMV) estimation based on logistic regression (Rosseel, 2012; 2016). The same estimator 
+
+was applied with RE with books as an independent variable at Time 1 for testing the 
+
+mediation hypothesis.  
+
+[Please insert Table 1 about here] 
+
+ 
+
+Missing Values 
+
+Overall, missing values for SPT and MCSs across the three measurement points 
+
+ranged from 0% to 10%. Table 1 shows the number of missing values. Missing values for RE 
+
+were below 6%. Because of the missing values, we entered structural equations such as the 
+
+CFA by the full information maximum likelihood (FIML) procedure provided in the R 
+
+package lavaan (Rosseel, 2012). 
+
+Control Variables  
+
+ 
+
+Previous research suggested correlations between SPT and verbal abilities (e.g., Gore 
+
+et al., 2010) as well as general cognitive abilities (e.g., Schonert-Reichl et al., 2015), as 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+14 
+
+mentioned above. Therefore, we considered verbal and nonverbal cognitive abilities and 
+
+reading speed as covariates in the current study. Verbal and nonverbal abilities were assessed 
+
+using cognitive performance tasks (Weiß, 2006), which measured comprehension of general 
+
+and advanced German vocabulary, as well as verbal and nonverbal (fluid reasoning by 
+
+matrices) processing capacity. Reading speed was tested with the standardized Salzburger 
+
+Lese-Screening 5–8 (Auer et al., 2011). Students read syntactically and grammatically simple 
+
+sentences as quickly as possible and responded to questions pertaining to the sentences. Table 
+
+2 contains product-moment-correlation coefficients at Time 1, and shows a correlation 
+
+between knowledge of vocabulary and reading speed. 
+
+[Please insert Table 2 about here] 
+
+Statistical Analyses  
+
+A confirmatory two-factor analysis (CFA) using lavaan (Rosseel, 2012) indicated 
+
+that the postulated structure fit the data. Therein, we included the SPT and MCSs items at 
+
+Time 1, Time 2, and Time 3, considering the cluster classes at school; χ2 = 1102.029, df = 
+
+480, fit indices: root mean square error of approximation (RMSEA) = .031, C.I. [.029, 
+
+.033], comparative fit index (CFI) = .983, standardized root mean square residual 
+
+(SRMR) = .040. Furthermore, boys and girls comprehended the items adequately over 
+
+time, indicating scalar invariance across sex and over time in multi-group analyses 
+
+specified simultaneously with the CFA, Models 1 to 4: DELTA.CFI .004–.006 by WLSMV 
+
+(Pornprasertmanit, Miller, Schoemann, & Rosseel, 2014).  
+
+Interrelations and indirect relations were specified as follows: First, a latent auto-
+
+regression model with cross-lags was specified with SPT, using MCSs during in-class 
+
+activities and RE with books at Time 1, Time 2, and Time 3 for boys and girls 
+
+simultaneously. Control variables were included in that model (passive knowledge of 
+
+vocabulary; Weiß, 2006), reading speed (Auer et al., 2011), and fluid reasoning measured by 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+15 
+
+matrices (Weiß). Subsequently, a latent mediation model was specified, again including these 
+
+control variables. Both models are drawn in Figure 1 with control variables, (i.e., the auto-
+
+regression model with cross-lags above and the mediation model below). The models were 
+
+specified with the R package lavaan and WLSMV estimation (Rosseel, 2012; 2016). The 
+
+cluster structure classes at school was considered in these analyses (Rosseel, 2012).  
+
+[Please insert Figure 1 about here] 
+
+Results 
+
+The Relationship between Social Perspectives and Metacognition over Time 
+
+Results from product-moment correlations are depicted in Table 2. The variables SPT, 
+
+RE with books, and using MCSs during in-class-activities at Time 1 correlated significantly 
+
+with each other (see Table 2). The results from the latent auto-regressive model with cross-
+
+lags indicated a good fit between assumed and real data structure (χ2 = 2,816.810; df = 1,332; 
+
+CFI = .960, RMSEA = .042, C.I. [.039, .043], SRMR = .053). Figure 2 and Table 3 show the 
+
+results of the auto-regressive modeling with cross-lags.  
+
+By the end of fifth grade, SPT at Time 3 was only significantly associated with girls’ 
+
+MCSs during in-class-activities at Time 2, but not by RE with books at Time 2. Neither boys’ 
+
+nor girls’ RE with books was associated with either SPT at Time 2 or MCSs at Time 2. 
+
+However, girls’ MCSs during in-class activities at Time 3 were significantly associated with 
+
+SPT at Time 2 and RE with books at Time 2, but boys’ MCSs were not (see Figure 2 and 
+
+Table 3).  
+
+The interrelations within the fifth grade were as follows: boys’ and girls’ SPT at Time 
+
+2 was significantly associated with RE with books at Time 1 and the MCSs at Time 1. RE 
+
+with books at Time 2 was only significantly associated with boys’ and girls’ MCSs at Time 1, 
+
+not with SPT at Time 1. The MCSs at Time 2 were significantly associated with boys’ and 
+
+girls’ SPT at Time 1 and with RE with books at Time 1 (see Figure 2 and Table 3). This 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+16 
+
+latent auto-regression model with cross-lags explained significantly 35% of variance in boys’ 
+
+SPT and 41% of variance in girls’ SPT.  
+
+[Please insert Table 3 about here] 
+
+We tested the mediation hypothesis with the model including SPT, using MCSs 
+
+during in-class activities, RE with books, and the control variables mentioned above 
+
+simultaneously for boys and girls (see the model below in Figure 1). Fit indices indicated that 
+
+the model structure was acceptable identified in the data (bootstrap, WLSMV-estimator, χ2 = 
+
+655.605, df = 164, CFI = .92, RMSEA = .053, C.I. [.049, .058], SRMR = .046). Results from 
+
+the mediation analysis are depicted in the model in Figure 2 and in Table 4. Boys’ SPT at 
+
+Time 3 was significantly associated with RE with books at Time 1, whereas girls’ SPT at 
+
+Time 3 was not associated with RE at Time 1 (direct path a). However, boys’ and girls’ SPT 
+
+at Time 3 were significantly associated with using MCSs during in-class activities at Time 2 
+
+(path b), and these MCSs at Time 2 were, in turn, significantly associated with RE with books 
+
+at Time 1 (path c). The results indicated indirectly explained variance of boys’ and girls’ SPT 
+
+(indirect effect), path b × path c = .06, p = .001, and a significant total effect, 
+
+(path a + path b) × path c = .15, p = .000).  
+
+[Please insert Figure 2 about here] 
+
+The mediation model explained amounts of the variance in SPT at Time 3 (i.e., 8% in 
+
+boys’ and 14% in girls’ SPT) through RE with books via MCSs over one year of school 
+
+(specified for boys and girls simultaneously). Thus, boys’ and girls’ SPT at Time 3 was 
+
+associated indirectly with RE with books one year prior via the use of MCSs during in-class 
+
+activities within the fifth grade several months previously (see Table 4).  
+
+[Please insert Table 4 about here] 
+
+Discussion 
+
+The aim of this study was to investigate whether high levels of SPT are associated 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+17 
+
+with RE with books and by employing MCSs while reading in class. We argued that SPT 
+
+involves the coordination of one’s own and others’ perspectives (e.g., Foody et al., 2012). 
+
+SPT is facilitated when students engage more often in reading, organizing, and reflecting 
+
+upon textual information using metacognition. Davis’ SPT measure (1980) activates internal 
+
+and external frames of reference using different pronouns (e.g., I or their); thus, changes in 
+
+that measure represent SPT levels and the relevant patterns of relational coordination. While 
+
+Davis’ SPT measure (1980) activates internal and external frames of reference mostly with 
+
+regard to other persons, the MCSs measure activates internal frames of reference via the 
+
+most frequently used pronoun I and different mental representations of views on textual 
+
+material.  
+
+Results from previous research (e.g., a meta-analysis by Milligan et al., 2007) 
+
+indicate that students’ understanding of perspective taking tasks is supported by previous 
+
+language use. The positive correlation between SPT and RE with books is consistent with 
+
+results from other studies (Gore et al., 2010; Mori & Cigala, 2015; Sato & Bergen, 2013). If 
+
+students think about the feelings, intentions, and interests of fictional characters in various 
+
+situations, and if they discuss these with others in class, they may be better able to relate to 
+
+real people.  
+
+Coordinating Perspectives on Social and Metacognitive Situations   
+
+We analyzed interrelations among students’ SPT, RE with books, and recalled use of 
+
+MCSs during in-class activities. Furthermore, we tested the mediation hypothesis that SPT is 
+
+associated with RE with books via the MCSs. We specified two statistical models and 
+
+included the available control variables passive knowledge of vocabulary, reading speed, and 
+
+fluid reasoning in both models. Previous research showed differences between boys’ and 
+
+girls’ SPT levels (e.g., Van der Graaff et al., 2014). Considering this previous research, we 
+
+analyzed the data on boys and girls separately and simultaneously using these models.   
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+18 
+
+The new findings are interrelations and an indirect association across a year of school. 
+
+That is, students’ SPT, using MCSs during in-class activities, and RE with books were linked 
+
+to each other over the three measurement times. The SEM moderately supported the idea of 
+
+associations among students’ RE with books, MCSs, and SPT over time. Indeed, the 
+
+autoregressive paths positively affected the amount of explained variance. The results from 
+
+our mediation analysis suggest indirect effects when SPT at Time 3 was regressed on MCSs 
+
+at Time 2 and RE with books at Time 1, while MCSs were regressed on RE with books at 
+
+Time 1. Variance in students’ SPT was explained indirectly by RE with books when the 
+
+students recalled using MCSs during in-class activities. Thus, our results reasonably support 
+
+the assumed model (see Figure 2). That is, the more students reported RE with books, the 
+
+more they agreed with using these MCSs, and in turn, with applying SPT.  
+
+SPT is a skill essential for effective communication and fostering social bonds (Mori 
+
+& Cigala, 2015; Selman, 1980). We conclude from the results that students’ understanding of 
+
+diverse points of view and coordination of perspectives on text material can be supported 
+
+through the use of MCSs taught in class when students have reading experience with books. 
+
+The new-found interrelations and the indirect effect among SPT, MCSs, and RE with books 
+
+support even more than our hypotheses the humanistic psychological approaches (e.g., 
+
+DeRobertis, 2006; Miller et al., 2014; Stern, 1985), and diverse further directions (e.g., Mullis 
+
+et al., 2015; Park, 2010) mentioned in the first sections above.   
+
+Limitations of the Study and Implications for Future Research 
+
+Our  statistical  analyses  were  based  on  data  from  a  longitudinal  study  in  which 
+
+children’s self-reports were used. Self-reported information provided by students on their SPT 
+
+and RE might differ from that observed by other researchers. A confounding variable is social 
+
+desirability, the tendency of students to answer in a manner that is viewed favorably by their 
+
+teachers. Social desirability was relevant for the self-report measures used in this paper (SPT, 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+19 
+
+MCSs,  RE  with  books).  Self-reports  were  controlled  by  assessing  reading  and  cognitive 
+
+abilities.  
+
+Additional items could be included for assessing MCSs that might impact subjective 
+
+and objective SPT measures (e.g., reading the first and last three sentences before the body of 
+
+the text; thinking aloud about a possible continuation of a text in peer learning; or comparing 
+
+the text with a similar text; Bråten et al., 2014). If available in large-scale data, a robust reading 
+
+comprehension  measure  was  a  possible  thread  connecting  social  perspective  taking, 
+
+metacognitive strategy use, and reading experience. 
+
+Boys’  and  girls’  SPT  improves  with  the  application  of  metacognitive  knowledge  in 
+
+classes when they have RE with books. In future research, this might be investigated directly 
+
+using  an  experimental  design  in  which  students  read  texts  and  then  complete  SPT  tasks. 
+
+Randomized independent variables (texts read) and mediation variables (MCSs) also allow for 
+
+the testing of mediation effects, not only indirect effects.  
+
+We propose a broader conceptualization of SPT as perspective coordination, in line 
+
+with existing literature (e.g., Fizke et al., 2014; Selman, 1980) and the current findings. This 
+
+serves to highlight the skill of coordinating different perspectives with different degrees of 
+
+similarity to one’s own, thus reflecting greater flexibility in behavior than the narrower 
+
+concept of taking another’s social perspective. Indeed, no person can fully and only take the 
+
+social perspective of another, because the person remains developmentally anchored to 
+
+his/her own perspective. For example, a person can empathize with another and understand 
+
+what this person is feeling, but all of this is experienced from the person’s own perspective, 
+
+which has not changed (Chambers & Davis, 2012; Davis, 1980).  
+
+Conclusion 
+
+Our main findings suggest interrelations among students’ SPT, recalled use of MCSs 
+
+during in-class activities, and RE with books. Furthermore, SPT was indirectly associated with 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+20 
+
+RE with books via the MCSs during in-class activities. Time frames at school are constrained 
+
+and teachers cannot apply role-playing or other direct SPT training with students in class every 
+
+day.  Our  findings  are  easily  applicable  to  daily  classroom  instruction.  For  example,  MCSs 
+
+might be taught by reading texts in which fictional characters are described. This would allow 
+
+students  to  practice  SPT,  which  may  have  social  implications  as  well  as  educational  ones. 
+
+Furthermore,  the  current  research  contributes  to  existing  knowledge  in  the  fields  of  social 
+
+behavior,  metacognition,  and  reading  experience.  Our  empirical  evidence  supports  links 
+
+among these fields.  
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+21 
+
+References 
+
+Auer, M., Gruber, G., Mayringer, H., & Wimmer, H. (2011). Salzburger Lese-Screening für 
+
+die Klassenstufen 5–8 (SLS 5–8). Bern: Hans Huber.  
+
+Baker, L. & Beall, L. (2009). Metacognitive processes and reading comprehension. In S. 
+
+Israel & G. Duffy (Eds.), Handbook of research on reading comprehension (pp. 373–
+
+388). New York: Routledge. 
+
+Bråten, I., Anmarkrud, Ø., Brandmo, C., & Strømsø, H. I. (2014). Developing and testing a 
+
+model of direct and indirect relationships between individual differences, processing, 
+
+and multiple-text comprehension. Learning and Instruction, 30, 9–24. 
+
+doi:10.1016/j.learninstruc.2013.11.002  
+
+Britt, M., Goldman, S., & Rouet, J. (Eds.). (2012). Reading: From words to multiple texts. 
+
+New York: Routledge. 
+
+Brunyé, T. T., Ditman, T., Mahoney, C. R., Augustyn, J. S., & Taylor, H. A. (2009). When 
+
+You and I share perspectives. Pronouns modulate perspective taking during narrative 
+
+comprehension. Psychological Science, 20, 27–32. doi:10.1111/j.1467-
+
+9280.2008.02249.x 
+
+Chambers, J. R., & Davis, M. H. (2012). The role of the self in perspective taking and 
+
+empathy: Ease of self-simulation as a heuristic for inferring empathic feelings. Social 
+
+Cognition, 30, 153–180. doi:10.1521/soco.2012.30.2.153 
+
+Cunningham, A. E., & Stanovich, K. E. (1997). Early reading acquisition and its relation to 
+
+reading experience and ability 10 years later. Developmental Psychology, 33, 934–945. 
+
+doi:10.1037/0012-1649.33.6.934 
+
+Davis, M. H. (1980). A multidimensional approach to individual differences in empathy. 
+
+JSAS Catalog of Selected Documents in Psychology, 10, 85–94. 
+
+Davis, M. H. (1983). Measuring individual differences in empathy: Evidence for a multi-
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+22 
+
+dimensional approach. Journal of Personality and Social Psychology, 44, 113–126. doi: 
+
+10.1037/0022-3514.44.1.113 
+
+De Jaegher H., Di Paolo E., & Gallagher S. (2010). Can social interaction constitute social 
+
+cognition? Trends in Cognitive Sciences, 14, 441–447. doi:10.1016/j.tics.2010.06.009 
+
+DeRobertis, E. M. (2006). Deriving a humanistic theory of child development from the works 
+
+of Carl R. Rogers and Karen Horney. The Humanistic Psychologist, 34, 177–199. 
+
+doi:10.1207/s15473333thp3402_5 
+
+Epley, N., Keysar, B., van Boven, L., & Gilovich, T. (2004). Perspective taking as egocentric 
+
+anchoring and adjustment. Journal of Personality and Social Psychology, 87, 327–339. 
+
+doi:10.1037/0022-3514.87.3.327 
+
+Fischer, N., & Klieme, E. (2013). Quality and effectiveness of German all-day schools: 
+
+Results of the study on the development of all-day schools. In J. Ecarius, E. Klieme, L. 
+
+Stecher, & J. Woods (Eds.), Extended education: An international perspective (p. 27–
+
+52). Opladen: Budrich. 
+
+Fizke, E., Barthel, D., Peters, T. & Rakoczy, H. (2014). Executive function plays a role in 
+
+coordinating different perspectives, particularly when one’s own perspective is 
+
+involved. Cognition 130, 315–334. doi:10.1016/j.cognition.2013.11.017 
+
+Flavell, J. H. (1979). Metacognition and cognitive monitoring. A new area of cognitive—
+
+developmental inquiry. American Psychologist, 34, 906–911. doi:10.1037/0003-
+
+066X.34.10.906 
+
+Foody, M., Barnes-Holmes, Y., & Barnes-Holmes, D. (2012). The role of self in acceptance 
+
+and commitment therapy (ACT). In L. McHugh, & I. Stewart (Eds.), The self and 
+
+perspective taking: Research and applications (pp. 126–142). Oakland, CA: New 
+
+Harbinger. 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+23 
+
+Gallagher, S., & Meltzoff, A. N. (1996). The earliest sense of self and others: Merleau-Ponty 
+
+and recent developmental studies. Philosophical Psychology, 9, 
+
+doi:10.1080/09515089608573181 
+
+Gore, N., Barnes-Holmes, Y., & Murphy, G. (2010). The relationship between intellectual 
+
+functioning and relational perspective taking. International Journal of Psychology and 
+
+Psychological Therapy, 10, 1–17. Retrieved from http://www.ijpsy.com/volumen10/ 
+
+num1/247/the-relationship-between-intellectual-functioning-EN.pdf 
+
+Habermas, J. (1984). The theory of communicative action. Boston: Beacon Press. 
+
+Halling, S., Kunz, G., & Rowe, J. O. (1994). The contributions of dialogal psychology to 
+
+phenomenological research. Journal of Humanistic Psychology, 34, 109–131. doi: 
+
+10.1177/00221678940341007 
+
+Hadwin, J., Howlin, P., & Baron-Cohen, S. (2015). Teaching children with autism to 
+
+MindRead: The workbook. Oxford: Wiley-Blackwell. 
+
+Hayes, S. C., Barnes-Holmes, D., & Roche, B. (2001). Relational frame theory: A post-
+
+Skinnerian account of human language and cognition. Plenum-Kluwer: New York. 
+
+Heidegger, M. (1962). Being and time. New York, NY: Harper & Row. 
+
+Hooper, N., Erdogan, A., Keen, G., Lawton, G., & McHugh, L. (2015). Perspective taking 
+
+reduces the fundamental attribution error. Journal of Contextual Behavioral Science. 
+
+doi:10.1016/j.jcbs.2015.02.002 
+
+Horney, K. (1939). New ways in psychoanalysis. New York: Norton. 
+
+Mason, M. F. & Macrae, C. N. (2008). Perspective taking from a social neuroscience 
+
+standpoint. Group Processes & Intergroup Relations, 11, 215–232. 
+
+doi:10.1177/1368430207088039 
+
+McHugh, L., Barnes-Holmes, Y., & Barnes-Holmes, D. (2004). A relational frame account of 
+
+the development of complex cognitive phenomena: Perspective taking, false belief 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+24 
+
+understanding, and deception. International Journal of Psychology and Psychological 
+
+Therapy, 4, 303–324. Retrieved from http://www.ijpsy.com/volumen4/num2/86/a-
+
+relational-frame-account-of-the-development-EN.pdf 
+
+Merleau-Ponty, M. (1962). Phenomenology of perception. New York, NY: Routledge. 
+
+Miller, A. D., Nash, T., & Fetty, D. G. (2014). Fostering community: Explicating 
+
+commonalities between counseling psychology and humanistic psychology. Journal of 
+
+Humanistic Psychology, 54, 476–493. doi:10.1177/0022167813516795 
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-
+
+analysis of the relation between language ability and false-belief understanding. Child 
+
+Development, 2, 622–646. doi:10.1111/j.1467-8624.2007.01018.x 
+
+Mokhtari, K. & Reichard, C. A. (2002). Assessing students’ metacognitive awareness of 
+
+reading strategies. Journal of Educational Psychology, 94, 249–259. doi:10.1037/0022-
+
+0663.94.2.249 
+
+Mori, A. & Cigala, A. (2015). Perspective taking: Training procedures in developmentally 
+
+typical preschoolers. Different intervention methods and their effectiveness. 
+
+Educational Psychological Review. Advance online publication. doi:10.1007/s10648-
+
+015-9306-6  
+
+Mullis, I. V. S., Martin, M. O., & Sainsbury, M. (2015). PIRLS 2016 reading framework. In I. 
+
+V.  S.  Mullis  &  M.  O.  Martin  (Eds.),  PIRLS  2016  assessment  framework  (2nd  ed.). 
+
+Chestnut  Hill:  TIMSS  and  PIRLS  International  Study  Center.  Retrieved  from 
+
+timss.bc.edu/pirls2016/downloads/P16_FW_Chap1.pdf  
+
+Park, C. L. (2010). Making sense of the meaning literature: An integrative review of meaning 
+
+making and its effects on adjustment to stressful life events. Psychological Bulletin, 
+
+136, 257–301. doi:10.1037/a0018301 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+25 
+
+Pornprasertmanit, S., Miller, P., Schoemann, A., & Rosseel, Y. (2014). semTools: Useful 
+
+tools for structural equation modeling. R package version 0.4-6. http://CRAN.R-
+
+project.org/package=semTools 
+
+Rogers, C. R. (1980). A way of being. Boston: Houghton Mifflin. 
+
+Revelle,  W.  (2015).  psych:  Procedures  for  Personality  and  Psychological  Research. 
+
+Northwestern  University,  Evanston,  Illinois,  USA.  Retrieved  from  http://CRAN.R-
+
+project.org/package=psych Version = 1.5.8. 
+
+Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. Journal of 
+
+Statistical Software, 48, 1–36. Retrieved from http://www.jstatsoft.org/v48/i02/ 
+
+Rosseel, Y. (2016). lavaan. latent variable analysis.  Retrieved from 
+
+http://lavaan.ugent.be/tutorial/mediation.html 
+
+Sato, M., & Bergen, B. (2013). The case of the missing pronouns: Does mentally simulated 
+
+perspective  play  a  functional  role  in  the  comprehension  of  person?  Cognition, 127, 
+
+361–374. doi:10.1016/j.cognition.2013.02.004. 
+
+Schneider, W. (2015). Memory development from early childhood through emerging 
+
+adulthood. Heidelberg: Springer. 
+
+Schonert-Reichl, K. A., Oberle, E., Steward, Lawlor, M., Abbott, D., Thomson, K., 
+
+Oberlander, T. et al. (2015). Enhancing cognitive and social-emotional development 
+
+through a simple-to-administer mindfulness-based program for elementary school 
+
+children: A randomized controlled trial. Developmental Psychology, 51, 52–66. 
+
+doi:10.1037/a0038454 
+
+Selman, R. L. (1980). The growth of interpersonal understanding: Developmental and 
+
+clinical analyses. New York: Academic Press. 
+
+Stern, D. N. (1985). The interpersonal world of the infant: A view from psychoanalysis and 
+
+developmental psychology. New York: Basic Books. 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+ 
+
+26 
+
+Study on the Development of All-day Schools – StEG (2013). Ganztagsschule 2012/2013 
+
+[All-day schools 2012/2013]. Bundesbericht. Frankfurt am Main, Dortmund, Gießen, 
+
+München. http://www.projekt-steg.de/content/publikationen-aus-steg-zum-download 
+
+Van der Graaff, J., Branje, S., De Wied, M., Hawk, S., Van Lier, P., & Meeus, W. (2014). 
+
+Perspective taking and empathic concern in adolescence: Gender differences in 
+
+developmental changes. Developmental Psychology, 50, 881–888. 
+
+doi:10.1037/a0034325. 
+
+Vygotsky, L. S. (2004). Imagination and creativity in childhood. (M. E. Sharpe, Inc., Trans.). 
+
+Journal of Russian and East European Psychology, 42, 7–97. (Original work published 
+
+1967). doi:10.1080/10610405.2004.11059210 
+
+Wagner, W., Helmke, A. & Rösner, E. (2009). Deutsch Englisch Schülerleistung 
+
+International [German English Student Achievement International]. Materialien zur 
+
+Bildungsforschung, 25, 42–49. Retrieved from http://andreas-helmke.de/publikationen/  
+
+Weiß, R. H. (2006). Wortschatztest und Zahlenfolgentest – Revision – Ergänzungstests zum 
+
+CFT 20-R (WS/ZF-R) [Vocabulary and number sequencing test – revised in addition to 
+
+CFT 20-R]. Göttingen: Hogrefe.  
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+ 
+
+ 
+
+22 
+
+Table 1 
+
+ 
+
+SPT, MCSs during in-class activities and reading experience in fifth grade students across a year at school: Means, standard deviations and 
+
+missing values 
+
+ 
+
+Boys 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Girls 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Variable 
+
+Time 1 
+
+Time 2 
+
+Time 3 
+
+  Time 1 
+
+Time 2 
+
+Time 3 
+
+ 
+
+SPT 
+
+MCSs 
+
+M 
+
+SD 
+
+M 
+
+SD 
+
+M 
+
+SD 
+
+3.87 
+
+1.59 
+
+3.67 
+
+1.61 
+
+3.70 
+
+1.71 
+
+2.26 
+
+0.67 
+
+2.27 
+
+0.72 
+
+2.13  0.78 
+
+RE-Books 
+
+2.80 
+
+1.01 
+
+2.70 
+
+1.08 
+
+2.55  1.13 
+
+Range 
+
+SPT 
+
+MCSs 
+
+1 
+
+25 
+
+34 
+
+4 
+
+177 
+
+25 
+
+1 
+
+14 
+
+44 
+
+4 
+
+1 
+
+4 
+
+123 
+
+37 
+
+130 
+
+47 
+
+113 
+
+50 
+
+RE-Books 
+
+127 
+
+348 
+
+174 
+
+314 
+
+236 
+
+282 
+
+Missing  
+
+SPT 
+
+MCSs 
+
+RE-Books 
+
+Mis 
+
+161 
+
+49 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mis 
+
+139 
+
+130 
+
+98 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mis 
+
+200 
+
+164 
+
+122 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+M 
+
+SD 
+
+M 
+
+SD 
+
+M 
+
+SD 
+
+3.96  1.47 
+
+3.81 
+
+1.48 
+
+3.86 
+
+1.55 
+
+2.36  0.63 
+
+2.29 
+
+0.68 
+
+2.23 
+
+0.72 
+
+3.15 
+
+.95 
+
+3.05 
+
+1.00 
+
+2.96 
+
+1.04 
+
+1 
+
+8 
+
+16 
+
+61 
+
+4 
+
+149 
+
+16 
+
+455 
+
+1 
+
+3 
+
+26 
+
+78 
+
+4 
+
+141 
+
+18 
+
+401 
+
+Mis 
+
+115 
+
+30 
+
+6 
+
+ 
+
+Mis 
+
+  89 
+
+  87 
+
+  68 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+11 
+
+43 
+
+97 
+
+Mis 
+
+109 
+
+104 
+
+70 
+
+4 
+
+145 
+
+31 
+
+369 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note. Number of missing values (Mis), September/October 2013 (Time 1), January/February 2014 (Time 2), June/July 2014 (Time 3). The 
+summer break began after the survey.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+ 
+
+ 
+
+23 
+
+Table 2 
+
+ 
+
+Correlations among independent and control variables at Time 1 
+
+Variable 
+
+SPT1 
+
+RE with books2 
+
+MCSs3 
+
+Vocabulary4 
+
+Reading speed5 
+
+Matrices6 
+
+4 
+
+5 
+
+6 
+
+1 
+
+- 
+
+2 
+
+ 
+
+.18*** 
+
+- 
+
+3 
+
+ 
+
+ 
+
+.35*** 
+
+.29*** 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.10*** 
+
+.18*** 
+
+-.05* 
+
+- 
+
+.12*** 
+
+.21*** 
+
+.08** 
+
+.54*** 
+
+- 
+
+.02ns 
+
+.09*** 
+
+-.02ns 
+
+.29*** 
+
+.22*** 
+
+- 
+
+Note. nsp > .10, **p < .01, ***p < .001. 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+24 
+
+Table 3 
+
+ 
+
+Interrelations between SPT, using MCSs during in-class activities, and RE with books 
+
+Boys 
+
+ 
+
+ 
+
+  Girls 
+
+ 
+
+β 
+
+SE 
+
+p  
+
+ 
+
+ 
+
+SPT, Time 3, regressed on 
+
+ 
+
+ 
+
+ 
+
+SPT, Time 1 
+
+.199 
+
+.069 
+
+.004 
+
+SPT, Time 2 
+
+.636 
+
+096 
+
+.000 
+
+MCSs, Time 2 
+
+.047 
+
+.060 
+
+.435 
+
+RE-Books, Time 2 
+
+.027 
+
+.028 
+
+.327 
+
+RE-Books, Time 3, regressed on 
+
+ 
+
+ 
+
+ 
+
+RE-Books, Time 1 
+
+.313 
+
+.053 
+
+.000 
+
+RE-Books, Time 2 
+
+.528 
+
+.049 
+
+.000 
+
+MCSs, Time 2 
+
+-.027 
+
+.066 
+
+.683 
+
+SPT, Time 2 
+
+-.017 
+
+.080 
+
+.835 
+
+MCSs, Time 3, regressed on  
+
+ 
+
+ 
+
+ 
+
+MCSs, Time 1 
+
+.328 
+
+.106 
+
+.002 
+
+MCSs, Time 2 
+
+.220 
+
+.082 
+
+.008 
+
+SPT, Time 2 
+
+.258 
+
+.073 
+
+.000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+β 
+
+SE 
+
+p  
+
+ 
+
+ 
+
+ 
+
+.207 
+
+.064 
+
+.001 
+
+.592 
+
+.103 
+
+.000 
+
+.110 
+
+.049 
+
+.026 
+
+-.004 
+
+.026 
+
+.862 
+
+ 
+
+ 
+
+ 
+
+.242 
+
+.054 
+
+.000 
+
+.517 
+
+.059 
+
+.000 
+
+.073 
+
+.081 
+
+.367 
+
+.025 
+
+.112 
+
+.824 
+
+ 
+
+ 
+
+ 
+
+.212 
+
+.148 
+
+.151 
+
+.618 
+
+.112 
+
+.000 
+
+.101 
+
+.089 
+
+.257 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+25 
+
+RE-Books, Time 2 
+
+.072 
+
+.028 
+
+.010 
+
+SPT at, Time 2, regressed on 
+
+ 
+
+ 
+
+ 
+
+SPT, Time 1 
+
+.328 
+
+.052 
+
+.000 
+
+MCSs, Time 1 
+
+.259 
+
+.058 
+
+.000 
+
+RE-Books, Time 1 
+
+.072 
+
+.022 
+
+.001 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.000 
+
+.035 
+
+.995 
+
+ 
+
+ 
+
+ 
+
+.183 
+
+.059 
+
+.002 
+
+.395 
+
+.079 
+
+.000 
+
+.099 
+
+.024 
+
+.000 
+
+Note. September/October 2013 (Time 1), January/February 2014 (Time 2), June/July 2014 
+(Time 3). Boys (code 1), girls (code 0). The data cluster structure (students per class at 
+school) was considered at individual level. 
+
+(continued) 
+
+Table 3 (continued) 
+
+ 
+
+Interrelations between SPT, using MCSs during in-class activities, and RE with books 
+
+ 
+
+ 
+
+Boys 
+
+ 
+
+ 
+
+  Girls 
+
+ 
+
+β 
+
+SE 
+
+p  
+
+ 
+
+Β 
+
+SE 
+
+p  
+
+RE-Books, Time 2, regressed on 
+
+ 
+
+ 
+
+ 
+
+RE-Books, Time 1 
+
+.690 
+
+.035 
+
+.000 
+
+MCSs, Time 1 
+
+.231 
+
+.104 
+
+.027 
+
+SPT, Time 1 
+
+.138 
+
+.087 
+
+.114 
+
+MCSs, Time 2, regressed on  
+
+ 
+
+ 
+
+ 
+
+MCSs, Time 1 
+
+.702 
+
+.097 
+
+.000 
+
+SPT, Time 1 
+
+.155 
+
+.054 
+
+.004 
+
+RE-Books, Time 1 
+
+.135 
+
+.028 
+
+.000 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.640 
+
+.038 
+
+.000 
+
+.478 
+
+.137 
+
+.000 
+
+.106 
+
+.114 
+
+.355 
+
+ 
+
+ 
+
+ 
+
+.737 
+
+.157 
+
+.000 
+
+-.244 
+
+.101 
+
+.015 
+
+.178 
+
+.031 
+
+.000 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+26 
+
+RE-Books, Time 1, regressed on  
+
+ 
+
+ 
+
+ 
+
+Fluid Reasoning  
+
+.036 
+
+.024 
+
+.137 
+
+Vocabulary 
+
+.008 
+
+.013 
+
+.540 
+
+Reading Speed 
+
+.192 
+
+.048 
+
+.000 
+
+R2 of latent SPT, Time 3 
+
+R2 of latent MCSs, Time 3 
+
+.349 
+
+.338 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.024 
+
+.024 
+
+.315 
+
+.018 
+
+.013 
+
+.180 
+
+.168 
+
+.051 
+
+.001 
+
+.409 
+
+.532 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note. September/October 2013 (Time 1), January/February 2014 (Time 2), June/July 2014 
+(Time 3). Boys (code 1), girls (code 0). The data cluster structure (students per class at 
+school) was considered at individual level. 
+ 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+27 
+
+Table 4 
+
+ 
+
+SPT indirectly supported by RE with books via MCSs 
+
+ 
+
+ 
+
+SPT (DV), Time 3, regressed on 
+
+Boys 
+
+ 
+
+β 
+
+ 
+
+SE 
+
+ 
+
+ 
+
+p 
+
+ 
+
+RE-Books, Time 1 
+
+.063 
+
+.028 
+
+.027 
+
+Fluid Reasoning 
+
+.002 
+
+.013 
+
+.863 
+
+Vocabulary 
+
+.010 
+
+.006 
+
+.092 
+
+Reading Speed 
+
+-.001 
+
+.025 
+
+.983 
+
+MCSs (MV), Time 2, regressed on 
+
+ 
+
+ 
+
+ 
+
+RE-Books, Time 1 
+
+.154 
+
+.022 
+
+.000 
+
+SPT (DV), Time 3, regressed on 
+
+ 
+
+ 
+
+ 
+
+MCSs (MV), Time 2 
+
+.244 
+
+.067 
+
+.000 
+
+Indirect effect 
+
+Total effect  
+
+.038    
+
+.012      .001 
+
+.101    
+
+.027 
+
+.000 
+
+R2 of latent SPT, Time 3 
+
+.076   
+
+ 
+
+R2 of latent MCSs, Time 2 
+
+.066                
+
+ 
+
+ 
+
+ 
+
+Girls 
+
+ 
+
+β 
+
+ 
+
+SE 
+
+ 
+
+p 
+
+ 
+
+.024 
+
+.027 
+
+.376 
+
+-.009 
+
+.010 
+
+.393 
+
+.002 
+
+.005 
+
+.735 
+
+.001 
+
+.024 
+
+.960 
+
+ 
+
+ 
+
+ 
+
+.200 
+
+.020 
+
+.000 
+
+ 
+
+ 
+
+ 
+
+.456 
+
+.079 
+
+.000 
+
+.040    
+
+.011      .001 
+
+.100    
+
+.030 
+
+.000 
+
+.141    
+
+.181 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note. Dependent variable (DV). Mediator variable (MV). September/October 2013 (Time 1), 
+January/February 2014 (Time 2), June/July 2014 (Time 3). Boys (code 1), girls (code 0). The 
+data cluster structure (students per class at school) was considered at individual level. 
+ 
+
+ 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+28 
+
+Figure 1. The latent autoregressive model with cross-lags over three measurement waves 
+across fifth grade of school specified (above) and the mediation model specified (below). 
+Reasoning = Fluid reasoning (Weiß, 2006). Vocabulary = Passive vocabulary (Weiß, 2006). 
+See Table 3 for the path-coefficients from the autoregressive modeling with cross-lags and 
+Table 4 for results from the mediation modeling. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Running head: PERSPECTIVE TAKING AND METACOGNITION 
+
+29 
+
+Figure 2. Interrelations (above) with path-coefficients of boys’ (before the slash)/girls’ (after 
+the slash) SPT, using MCSs during in-class activities, RE with books and control variables 
+across the fifth grade of school (*p <.05). Results from the latent autoregression model with 
+cross-lags. See Table 3 for path-coefficients, standard errors, and exact probability values. 
+Indirect associations (below) with path-coefficients of boys’ (before the slash)/girls’ (after 
+the slash) SPT, using MCSs during in-class activities, RE with books and control variables 
+across the fifth grade of school (*p <.05). Results from the latent mediation model. See 
+Table 4 for path-coefficients, standard errors, and exact probability values. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+

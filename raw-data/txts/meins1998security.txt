@@ -1,0 +1,1776 @@
+Articles
+
+Security of Attachment as a Predictor of
+Symbolic and Mentalising Abilities: A
+Longitudinal Study
+Elizabeth Meins, Charles Fernyhough, James Russell, University of
+Cambridge and David Clark-Carter, Staffordshire University
+
+Abstract
+
+The  development  of  symbolic  and  mentalising  abilities  was  examined  in  33  children
+whose security of attachment had been assessed in infancy. It was found that securely
+attached  children:  (i) were  better  able  to  incorporate  an  experimenter’s  play  sugges-
+tions into their sequences of symbolic play at 31 months; and (ii) performed better on a
+version of Wimmer and Perner’s (1983) unexpected transfer task at age 4. There was
+also evidence of superior mentalising abilities among the secure group at age 5, despite
+no  group  differences  being  found  in  general  cognitive  ability.  We  suggest  that  these
+security-related  differences  might  be  related  to  mothers’  propensity  to  treat  their
+securely  attached  children  as  individuals  with  minds.  In  support  of  this  hypothesis,
+mothers in the secure group adopted more sensitive tutoring strategies, and were more
+likely to describe their children in terms of their mental characteristics. Possible devel-
+opmental pathways linking security of attachment in infancy with subsequent develop-
+ment were investigated using path analyses.
+
+Key words: Attachment; symbolic play; maternal sensitivity; mentalising abilities
+
+Since the publication of Wimmer and Perner’s (1983) classic ﬁndings, there has been
+general agreement that, by the end of the preschool years, children understand that
+people’s  behaviour  is  governed  by  their  beliefs  about  the  world.  Thus,  when 
+presented  with  Wimmer  and  Perner’s  ‘unexpected  transfer’  task,  4-year-olds  typi-
+cally realise that a naïve protagonist will search for an object in the place where it
+was  originally  hidden,  rather  than  in  its  current  location.  Similar  developments 
+have  been  described  in  children’s  understanding  of  ‘informational  access’,  or  the
+
+Elizabeth  Meins,  Charles  Fernyhough  and  James  Russell,  Department  of  Experimental  Psychology,
+University of Cambridge (ﬁrst two authors now at Department of Psychology, University of Durham).
+David Clark-Carter, School of Social Sciences, Staffordshire University.
+
+The  research  reported  in  this  paper  was  supported  by  an  ESRC  research  studentship  to  the  ﬁrst
+author, and by an MRC research studentship to the second author. We are very grateful to the children
+and  mothers  who  took  part  in  this  study,  and  would  also  like  to  thank  Paul  Harris,  Dorothy  Bishop,
+Eamonn Ferguson and four anonymous reviewers for their helpful comments on an earlier version of this
+paper.
+
+Correspondence concerning this article should be addressed to: Dr. Elizabeth Meins, Department of
+
+Psychology, University of Durham, Science Laboratories, South Road, Durham DH1 3LE, UK.
+
+© Blackwell Publishers Ltd. 1998. Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UK and 350 Main Street,
+Malden, MA 02148, USA.
+
+2 Elizabeth Meins et al.
+
+awareness of how people’s beliefs are determined by the information which is avail-
+able to them (Perner, 1991). In attempting to explain these ﬁndings, some theorists
+have  posited  innately  speciﬁed  ‘metarepresentational’  capacities  which  ultimately
+allow  the  representation  of  others’  representations  of  reality  (e.g.  Leslie,  1991).
+Alternatively, children’s developing understanding of other minds has been seen as a
+process  of  gradual  revision  of  the  child’s  ‘theories’  about  how  mind  determines
+behaviour.  Thirdly,  supporters  of  the  various  species  of  simulation  theory  (e.g.
+Harris, 1991) argue that mentalising abilities are largely dependent upon children’s
+past  experiences  of  other  minds,  such  that  children  who  have  encountered  a  wide
+enough range of situational possibilities are able to use these experiences as a basis
+for predicting behaviour. A fourth view, mainly inﬂuenced by the work of Vygotsky
+(e.g. 1978), holds that individuals’ engagement with other minds is the result of the
+internalisation of the perspectives of others in interpersonal contexts, and the foun-
+dation of ‘dialogic’ modes of thinking (Fernyhough, 1996).
+
+Recently, the focus of research in this area has shifted away from pinpointing the
+precise  age  at  which  children  can  pass  false  belief  tasks  toward  the  question  of
+whether individual differences in children’s social experience impact upon the child’s
+nascent  mentalising  abilities.  For  example,  Dunn  and  colleagues  (Dunn,  Brown,
+Slomkowski,  Tesla  &  Youngblade,  1991;  Youngblade  &  Dunn,  1995)  found  that
+children who grew up in families where feelings were commonly discussed went on to
+perform  better  on  mentalising  tasks.  The  size  of  the  child’s  available  ‘social
+resources’ also appears to be important in this respect. Perner, Ruffman and Leekam
+(1994) reported that children with many siblings were relatively more successful on
+mentalising  tasks  than  their  peers  from  smaller  families,  an  effect  which  Ruffman,
+Perner, Naito, Parkin and Clements (1996) showed to be speciﬁc to older siblings. A
+study  of  Greek  and  Cypriot  children  (Lewis,  Freeman,  Kyriakidou,  Maridaki-
+Kassotaki  &  Berridge,  1996)  found  that  daily  interaction  with  a  large  number  of
+adult family members and with older children was related to superior performance
+on a battery of false belief tasks. One might expect the observed relations between
+familial  interactions  and  mentalising  abilities  to  stem  in  part  from  these  children’s
+greater experience of interpersonal conﬂict, which is likely to be resolved with refer-
+ence to the mental states of the participants. For example, Dunn et al. (1991) found
+that children whose mothers frequently attempted to control the behaviour of older
+siblings were better able to explain a puppet’s behaviour in terms of its false belief.
+To date, however, no studies have considered how the development of mentalising
+abilities might be inﬂuenced by individual differences in the quality of interpersonal
+relationships  in  infancy.  One  of  the  most  important  aspects  of  such  early  relation-
+ships is the nature of the relationship between the child and the primary caregiver,
+speciﬁcally,  the  security of  this  attachment  (Ainsworth,  Blehar,  Waters  &  Wall,
+1978).
+
+Why  might  security  of  attachment  be  related  to  the  development  of  mentalising
+abilities?  First,  security-based  differences  have  already  been  found  in  the  realm  of
+symbolic play, which, in its requirement of an understanding of non-veridical mental
+orientations to reality, is generally agreed to be a precursor of mentalising abilities
+(e.g.  Harris,  1992;  Hobson,  1993;  Leslie,  1987).  During  infancy,  children  rated  as
+securely  attached  to  their  mothers  have  been  reported  to  engage  in  more  frequent
+and sophisticated bouts of solo pretence than their insecurely attached peers (Belsky,
+Garduque & Hrncir, 1984; Bretherton, Bates, Benigni, Camaioni & Volterra, 1979;
+Matas, Arend & Sroufe, 1978). Belsky et al. (1984) found that securely attached 12-
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 3
+
+to 18-month-olds beneﬁted comparatively little from an experimenter’s instructions
+within  a  play  context,  since  they  were  already  performing  close  to  their  maximum
+level in the pre-instruction condition. By the third year of life, this early superiority
+in solo play develops into differences in the ability to interact with others in collabo-
+rative bouts of pretence. For example, Slade (1987) found that maternal involvement
+in toddlers’ play served a facilitating function for securely attached children, but not
+for  their  insecurely  attached  peers.  If  securely  attached  children  are  better  able  to
+recognise and act upon the perspectives of others in a play scenario, it may be that
+these  children  will  be  better  able  to  represent  such  perspectival  differences  at  the
+level of belief. This suggestion is supported by Lillard (1993), who argued that sym-
+bolic play may offer a zone of proximal development (Vygotsky, 1978) for the abilities
+which underpin an understanding of other minds.
+
+Security-based  differences  have  also  been  observed  in  at  least  two  further  areas
+which  may  be  relevant  to  the  development  of  mentalising  abilities:  (a) in  infancy,
+mothers  of  securely  attached  children  are  more  sensitive  to  their  children’s  needs
+(Ainsworth,  Bell  &  Stayton,  1971)  and  consistent  in  their  patterns  of  mothering
+(Isabella,  1993);  and  (b) mothers  of  securely  attached  children  are  more  likely  to
+invoke  mental  states  in  describing  the  behaviour  of  others  (Fonagy,  Steele,  Steele,
+Higgitt & Target, 1994). Although Fonagy et al.’s (1994) ﬁndings were derived from
+mothers’  responses  to  the  Adult  Attachment  Interview  (George,  Kaplan  &  Main,
+1985), it may be reasonable to assume that such differences in the use of mental state
+terms will carry over to mothers’ interactions with their infants.
+
+We suggest that all of these differences exist because mothers of securely attached
+children are more likely to treat their children as mental agents, or individuals with
+minds, from an early age. A similar point is made by Ainsworth et al. (1971), who
+suggest that the mother of a securely attached child is ‘capable of perceiving things
+from [the child’s] point of view’ and respects the child ‘as a separate person; she also
+respects his activity-in-progress and thus avoids interrupting him’ (p. 43). Through
+her greater ability to ‘tune in’ to her child’s current mental activity, the mother of the
+securely  attached  child  is  able  to  present  alternative  perspectives  on  reality  (for
+example, by offering suggestions for a new act of pretence, or by talking about the
+mental states of family members) in such a way that they can be readily assimilated
+(Fernyhough, 1996). This in turn gives reason to suspect that securely attached chil-
+dren,  through  their  increased  opportunities  for  active  engagement  with  their  own
+and  others’  mental  states,  will  develop  a  superior  understanding  of  other  people’s
+mental orientations to the world, and the beliefs and desires which direct and moti-
+vate behaviour.
+
+There  is,  to  date,  little  empirical  evidence  for  a  link  between  security  of  attach-
+ment and children’s understanding of other minds. Main (1991) reported some pre-
+liminary  ﬁndings  on  the  relationship  between  early  security  of  attachment  and
+children’s  subsequent  metacognitive  abilities.  She  found  that  6-year-olds  who  had
+been securely attached in infancy were more likely to acknowledge that other people
+could not read their thoughts, and realised that a particular situation could give rise
+to different emotional responses in different people. Fonagy, Redfern and Charman
+(1997) reported a similar relationship between 3- to 6-year-olds’ performance on the
+Separation Anxiety Test (Klagsbrun & Bowlby, 1976), and a task which required an
+understanding of the relation between belief and emotion. However, Fonagy et al.’s
+study  only  investigated  the  concurrent relationship  between  security  of  attachment
+and  mentalising  abilities,  addressing  neither  the  question  of  whether  children’s 
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+4 Elizabeth Meins et al.
+
+security  of  attachment  in  infancy is  related  to  their  mentalising  abilities  in  early
+childhood, nor which features of this relationship might be important. One aim of
+the studies reported here is to establish whether one such feature is a mother’s pro-
+clivity to treat her child as a mental agent.
+
+The  studies  reported  below  attempted  to  trace  the  longitudinal  development  of
+symbolic  and  mentalising  abilities  with  respect  to  infantile  security  of  attachment.
+The  mothers  and  children  who  took  part  in  these  studies  were  recruited  into  a
+research project in infancy, at which time their security of attachment was assessed
+using  the  strange  situation  procedure  (Ainsworth  &  Wittig,  1969).  Four  follow-up
+studies were performed: (a) an assessment of pretend play at 31 months (Study One);
+(b) an  investigation  at  age  3  into  mothers’  tutoring  sensitivity  and  tendency  to
+describe  their  children  in  mentalistic  terms  (Study  Two);  (c) an  assessment  of  chil-
+dren’s performance on the unexpected transfer task at age 4 (Study Three); and (d)
+administration at age 5 of a task requiring an understanding of informational access,
+and one relating belief and emotion (Study Four). Study Two’s assessments of moth-
+ers’ tutoring sensitivity and tendency to describe their children’s mental characteris-
+tics  were  taken  as  measures  of  maternal  proclivity  to  treat  the  child  as  a  mental
+agent. In order to control for the possible confounding effects of socio-economic sta-
+tus and general cognitive ability, measures of these variables were also taken.
+
+Our main hypothesis was that mothers of securely attached children would show a
+greater  tendency  to  treat  their  children  as  individuals  with  minds,  which  would  in
+turn inﬂuence children’s ability to engage with other people on a mental level. The
+following speciﬁc hypotheses were tested: (a) children classiﬁed as securely attached
+in infancy would show a greater ability to incorporate the verbal suggestions of an
+experimenter into their sequences of pretence (Study One); (b) secure group mothers’
+greater proclivity to treat their children as mental agents would be reﬂected in their
+sensitivity to their children’s current level of functioning (as measured in a tutoring
+context), and their proclivity to describe their children in terms of their mental char-
+acteristics (Study Two); and (c) children receiving a secure attachment classiﬁcation
+in infancy would perform better than their insecurely attached peers on tasks requir-
+ing an understanding of other minds (Studies Three and Four). It was predicted that
+support for the main hypothesis would be demonstrated by meaningful correlations
+between these variables.
+
+Study One1
+
+The purpose of the ﬁrst study was to examine whether children classiﬁed as securely
+attached  in  infancy  would  be  better  able  to  incorporate  the  verbal  suggestions  of
+another person into their pretend play. This hypothesis followed from the work of
+Belsky et al. (1984) and Slade (1987) on the relation between security of attachment
+and symbolic play.
+
+Method
+
+Participants.  Participants  were  33  children  (13  girls  and  20  boys)  from  the
+Cambridge area who had been assessed on the strange situation procedure as part of
+an earlier longitudinal study (Meins, 1992). Mothers and children were recruited via
+local  general  practitioners  and  health  visitors,  and  80%  of  mothers  who  were
+approached agreed to participate.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 5
+
+Assessment of security of attachment. Children were assessed on the strange situation
+procedure  (Ainsworth  &  Wittig,  1969)  at  11  or  13  months.  Children’s  security  of
+attachment  was  assessed  at  one  of  two  ages  since  these  infants  were  originally
+recruited onto a cross-sectional study on the relationship between security of attach-
+ment  and  early  cognitive  development.  One  group  of  participants  (n 5 16)  was
+tested at 11 months, and the other (n 5 17) at 13 months. Of the 33 participants, 19
+(9 boys, 10 girls) were classiﬁed as securely attached (Type B) and the remaining 14
+(11 boys, 3 girls) as insecurely attached (Types A, C and D). The breakdown of the
+insecure  group  was  as  follows:  6  children  were  insecure-avoidant  (Type  A);  4  chil-
+dren  were  insecure-resistant  (Type  C);  and  4  children  were  insecure-disorganised
+(Type D).2 All of the tapes were scored by the ﬁrst author3 and a random quarter
+was coded for a second time by an independent trained rater. Cohen’s Kappa (k) for
+inter-rater  agreement  was  0.81,  and  the  remaining  disagreements  were  resolved  by
+discussion.
+
+Assessment of socio-economic status (SES). The measure of SES was based on mater-
+nal  education,  mother’s  present/previous  occupation  and  father’s  occupation
+(Mueller  &  Parcel,  1981).  That  is,  a  family  was  considered  to  be  ‘status  1’  if  both
+parents had manual/unskilled jobs and the mother had left school at the minimum
+leaving  age,  or  ‘status  2’  if  both  parents  were  in  professional/managerial  positions
+and the mother had either gone on to further education or had qualiﬁed to do so.
+No problematic combinations arose in the sample. Of the 33 participants, 13 (8 from
+the  secure  and  5  from  the  insecure  group)  were  classiﬁed  as  status  1,  and  20  (11
+secure and 9 insecure) as status 2. A chi-square test showed no relationship between
+security  of  attachment  and  SES,  x2 (1,  N 5 33)  5 0.14,  n.s.,  suggesting  that  these
+two factors are independent in this sample.
+
+Assessment at 31 months: symbolic play. The mean age of the children at this testing
+phase was 31 months (range: 30 months to 33 months). Data on symbolic play were
+not available for one of the children (insecure, status 2), since there was a technical
+problem during the recording of this play session. The set of objects used in the sym-
+bolic play task consisted of two representational toys (a toy car and a female doll)
+and a selection of ‘junk’ objects, such as a toilet roll inner tube and a piece of alu-
+minium foil (see Table 1).
+
+The study was performed in the child’s home, and involved two types of play ses-
+sion. The introductory play session started the moment the child made the ﬁrst inten-
+tional contact with a toy or junk object and ended after approximately ﬁve minutes.
+The  introductory  session  was  immediately  followed  by  the  structured  play  session,
+which  involved  two  types  of  structured  play:  elicited and  instructed.  In  the  elicited
+condition, the child was given either the car 1 an object or the doll 1 an object and
+was  asked  ‘What  can  you  do  with  these?’.  When  the  child  had  performed  some
+action  with  the  objects  in  question,  or  if  it  became  clear  that  no  action  would  be 
+performed, the experimenter asked the child to perform a speciﬁc act, such as using
+the  aluminium  foil  as  a  mirror  for  the  doll—this  was  the  instructed  condition  (see
+Table 1).
+
+The order of presentation of the toy-object pairs was randomised, and the sessions
+were video-taped. All of the sessions were scored by the ﬁrst author, and 19 sessions
+were randomly selected and scored by a second coder, who was blind to the attach-
+ment classiﬁcations of the children. The inter-rater agreement for the level of sophis-
+tication of play (see below) was k 5 0.91.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+6 Elizabeth Meins et al.
+
+Table 1. Questions for Instructed Pretend Play
+
+Selection of toys
+
+Instructed question
+
+Car 1 cardboard box
+Car 1 cardboard strip
+Car 1 coffee jar lid
+Car 1 inner tube
+Car 1 7 bricks
+Doll 1 lunch box
+Doll 1 bun case
+Doll 1 aluminium foil
+Doll 1 blue napkin
+
+Make the car go in the garage
+Make the car drive along the road
+Make the car go round the roundabout
+Make the car go through the tunnel
+Make a car park for the car to park in
+
+Make the doll have a bath
+Make the doll eat her dinner off the plate
+Make the doll look at herself in the mirror
+Make the doll go for a swim in the pool
+
+Coding  of  symbolic  play.  The  child’s  play  was  scored  for  each  car-junk  object  and
+each  doll-junk  object  pair  following  criteria  adapted  from  Lewis  and  Boucher
+(1988). Scores ranged from 0 to 4 for each toy-object pair (a sample of the scoring
+criteria are shown in Table 2). For example, the child received a score of 0 if he or
+she played with only one of the objects, such as pushing the car along the ﬂoor. To
+receive a score of 2 or 3, the child had to show a meaningful interaction between the
+toy and the junk object, but fall short of understanding the ﬁner details of what was
+required.  For  example,  when  given  the  car  and  the  toilet  roll  inner  tube,  the  child
+may have held the tube at right angles to the ﬂoor and then dropped the car into the
+tube. To score a maximum 4, the child had to place the tube on its side on the ﬂoor,
+push the car into the tube, and then ‘drive’ the car out of the other end. The same
+scoring criteria were used for both the elicited and instructed play conditions. It was
+therefore possible for a child to receive a maximum score in the elicited condition, if
+he  or  she  performed  the  criterial  sequence  of  actions.  In  practice,  children  rarely
+received a maximum score on any of the toy-object pairings in the elicited condition.
+Each child was given two scores: the ﬁrst was the total from the elicited play con-
+dition;  the  second  the  total  from  the  instructed  play  condition.  For  example,  if  a
+child had received a score of 1 for all nine of the toy-junk object pairs in the elicited
+condition (see Table 1), then his or her total elicited play score would be 9. If this
+child  then  received  a  score  of  4  for  all  nine  toy-object  pairs  in  the  instructed  play
+condition, the total instructed play score would be 36. Thirty-six was the maximum
+total  score  that  any  child  could  receive.  In  order  to  control  for  the  possibility  of
+inﬂated improvement measures among children scoring very low on the elicited con-
+dition, the potential number of levels through which the child could advance from
+the elicited play level for each pair of objects was recorded and totalled. Thus, in the
+above  example,  the  potential  number  of  levels  through  which  the  child  could
+advance  in  order  to  receive  a  maximum  score  would  be  27  (i.e.  3  3 9).  Following
+Belsky et al. (1984), these measures were expressed as a single total for each child,
+using the formula:
+
+Total score instructed play—Total score elicited play
+
+Total number of levels remaining above elicited play levels
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Belsky et al. (1984) used the term ‘executive capacity’ to describe this composite
+score, in that it provides a measure of ‘the infant’s capacity to execute, in a self-initi-
+ated manner, his or her most advanced level of functioning’ (p. 407).
+
+Attachment and Mentalising Abilities 7
+
+Table 2. A Sample of the Scoring Criteria Used in the Symbolic Play Task
+
+Toy car
+Inner tube ‘tunnel’
+
+Toy doll
+Lunch box ‘bath’
+
+0 pushes car along ﬂoor
+1 pushes  car  over  the  tube,  or  some  other  interaction
+
+between the two objects
+tube held upright on ﬂoor, car dropped in
+tube on ﬂoor on its side, car pushed along into it
+as 3, but ‘drives’ car out
+
+2
+3
+4
+
+0 plays with doll
+1 places box in correct orientation
+2
+3 places doll in box
+4 prepares  doll  for  bath  and  places  her  in  box,  or
+
+some interaction between doll and box
+
+‘splashing/ washing’ doll when in box
+
+Results
+
+Table 3 shows the mean scores for elicited and instructed play and executive capacity
+for the two attachment and two SES groups. A 2 (security of attachment) 3 2 (SES)
+analysis of variance was performed on the executive capacity scores. This resulted in
+a  main  effect  of  security  of  attachment,  F(1,  28)  5 17.61,  MStreatment 5 0.86,  p ,
+.001,  with  no  effect  of  SES, F(1,  28)  5 0.01,  n.s.,  and  no  interaction  between  SES
+and security of attachment.
+
+Actual levels of play under the two conditions were then analysed. A 2 (security of
+attachment) 3 2 (SES) 3 2 (type of play) mixed analysis of variance resulted in main
+effects of security of attachment, F(1, 28) 5 5.06, MStreatment 5 247.6, p , .05, and
+type  of  play,  F(1,  28)  5 60.74,  MStreatment 5 1376.5,  p , .001,  with  a  signiﬁcant
+interaction  between  these  two  factors,  F(1,  28)  5 11.29,  MStreatment 5 255.9,  p ,
+.005. There was no main effect of SES, F(1, 28) 5 0.40, n.s., and no other interac-
+tions. Post hoc comparisons using the Bonferroni adjustment of a showed a differ-
+ence between the secure and insecure groups on instructed play,  t(30)  5 3.44, p ,
+.005, but no difference on elicited play, t(30) 5 0.26, n.s.
+
+The  results  showed  that  securely  attached  children  attained  higher  executive
+capacity scores than their insecurely attached peers, and seemed to be more able or
+willing to respond to the pretence suggestions of the experimenter. These differences
+between the secure and insecure groups were not due to differences in SES, nor any
+difference in the two groups’ sophistication of solo (elicited) play.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+8 Elizabeth Meins et al.
+Table 3. Mean Play Scores as a Function of Security of Attachment and SES
+
+Attachment classiﬁcation
+
+SES
+
+Secure
+(n 5 19)
+
+Insecure
+(n 5 13)
+
+Status 1
+(n 5 13)
+
+Status 2
+(n 5 19)
+
+Elicited Play
+
+M
+SD
+
+Instructed Play
+
+M
+SD
+
+Executive Capacity
+
+M
+SD
+
+7.53
+4.64
+
+21.26
+6.81
+
+0.55
+0.25
+
+7.08
+4.87
+
+12.54
+7.41
+
+0.16
+0.23
+
+6.15
+3.76
+
+17.08
+5.31
+
+0.39
+0.28
+
+8.16
+5.12
+
+18.16
+9.81
+
+0.40
+0.33
+
+Note. Maximum play score 5 36 (i.e. 9 toy-object pairs 3 4 play levels).
+
+Study Two4
+
+The  purpose  of  Study  Two  was  to  investigate  whether  there  were  any  differences
+between  the  two  attachment  groups  in  maternal  behaviour  on  a  tutoring  task.
+Mothers who met the criteria for sensitive tutoring were, by deﬁnition, better able to
+pitch  their  interventions  at  the  child’s  ‘zone  of  proximal  development’  (Vygotsky,
+1978), which was assumed to require an attunement to the child’s ongoing difﬁcul-
+ties and areas of competence. Our hypothesis was that secure group mothers would
+be  more  sensitive  tutors,  and  that  this  greater  sensitivity  would  be  due  in  part  to
+their  proclivity  to  treat  their  children  as  mental  agents.  This  proclivity  was  also
+assessed in a brief maternal interview, where mothers were simply asked to describe
+their children. It was hypothesised that secure group mothers would be more likely
+to describe their children in terms of their mental characteristics, rather than behav-
+ioural or physical attributes.
+
+Method
+
+Participants.  Participants  were  30  of  the  original  sample  who  took  part  in  Study
+One: 17 (8 girls, 9 boys) were securely attached and 13 (2 girls, 11 boys) were inse-
+curely attached. With respect to SES, 12 (7 secure and 5 insecure) were status 1 and
+18  (10  secure  and  8  insecure)  were  status  2.  The  mean  age  of  the  children  was  37
+months (range: 35 months to 38 months). Both of the assessments at age 3 were con-
+ducted in a single laboratory session.
+
+Maternal tutoring sensitivity (box construction task). The aim of the box construction
+task was to obtain a measure of the mother’s sensitivity to her child’s needs within
+the  context  of  a  tutoring  task.  The  task  was  to  build  a  box  identical  to  a  model
+which  had  already  been  assembled,  using  eight  Polydron squares  which  snapped
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 9
+
+together. Each mother was told that the task would be too difﬁcult for the child to
+accomplish  alone,  and  that  she  could  give  as  much  or  as  little  help  as  she  liked.
+Participants  were  allowed  to  work  on  the  box  construction  for  as  long  as  they
+wished, and the session only ended if they gave up or if the box was completed. All
+of the sessions were video-taped for later coding.
+
+Each  intervention  made  by  the  mother  during  the  task  was  assigned  a  level  of
+speciﬁcity, according to the following criteria: Level 1: orienting suggestions, focus-
+ing strategies, general rules and comments, e.g. ‘Let’s start with the bottom’; Level 2:
+suggestions about speciﬁc pieces, locations or actions, but not combinations of the
+three, e.g. ‘Find a red one like this’; Level 3: solutions—suggestions indicating which
+piece should be used and where to put it, e.g. ‘That piece ﬁts in here’; Level 4: physi-
+cal help—the mother physically aids the child in completing a section, e.g. holding
+one  square  in  place  whilst  the  child  attaches  another;  Level  5:  demonstration—the
+mother performs an operation by herself. Certain aspects of this scoring procedure
+were  adapted  from  Bee,  van  Egeren,  Pytkowicz  Streissguth,  Nyman  and  Leckie
+(1969) and Wood and Middleton (1975).
+
+A mother’s sensitivity to feedback was deﬁned in terms of her ability to change the
+level of speciﬁcity of her instruction in response to the child’s ability to follow the
+preceding instruction successfully, whilst obeying the rules below. In order for use of
+feedback to be successful:
+
+1. if the child succeeds at a given level of speciﬁcity, the next instruction should be at
+
+the same level or at a lower level of speciﬁcity.
+
+2. (a) if the child fails at a given level of speciﬁcity, the next instruction should be
+
+given at a higher level of speciﬁcity.
+
+(b) if the child fails at a given level of speciﬁcity, the next instruction should be no
+
+more than two levels above the previous level of speciﬁcity.
+
+Parts 1 and 2(a) are equivalent to Wood, Wood and Middleton’s (1978) ‘contingency
+rule’. In Part 2(b), we limited the permitted jump in speciﬁcity to two levels above
+that of the previous intervention. Maternal sensitivity scores were calculated accord-
+ing to how well the mother was able to follow this rule (see below). All of the tapes
+were coded by the ﬁrst author, and a random quarter of the sessions was scored by a
+second rater who was blind to the attachment classiﬁcations. Inter-rater agreement
+for the level of speciﬁcity of instruction was k 5 0.96.
+
+Maternal interview. The aim of the maternal interview was to assess mothers’ inclina-
+tion to use mental characteristics in describing their children. After the tutoring task
+had  been  completed,  video  recording  was  stopped  and  each  mother  was  given  a
+short  interview.  The  mother  was  simply  asked:  ‘Can  you  describe  [child]  for  me?’.
+Mothers were given no guidance on how to respond, and if they asked for clariﬁca-
+tion on what kind of answer was required, they were told that there were no right or
+wrong answers, and that they could talk about any of their children’s characteristics.
+These  interviews  were  audio-taped,  and  mothers’  answers  transcribed  verbatim.
+Criteria were then established to assess the extent to which mothers described their
+children in terms of mental, behavioural and physical characteristics. Each time the
+mother mentioned an attribute of her child, it was entered into one of the following
+categories:
+
+1. Mental: Any reference to the child’s mental life, relating to will, mind, imagina-
+tion,  interest,  intellect,  metacognition,  e.g.  ‘caring’;  ‘he  shows  respect  for  other 
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+10 Elizabeth Meins et al.
+
+people’; ‘she’s got a mind of her own’. Any comments relating to desires, wishes
+and emotions (but not merely in terms of describing the child’s likes and dislikes
+or behavioural tendencies) were also included, e.g. ‘she’d like a baby brother or
+sister’  would  be  classed  as  a  mental  characteristic,  but  ‘he  loves  playing  games’
+would not.
+
+2. Behavioural:  Any  reference  to  behaviour,  such  as  games,  activities  that  the 
+child  liked  to  do  and  interactions  with  others  on  a  behavioural  level,  e.g.  ‘she 
+likes counting’; ‘he prefers playing with other children than by himself’. The fol-
+lowing characteristics were also deemed to be behavioural, in that a purely non-
+mentalistic  interpretation  was  possible  in  each  case:  lively, talkative, boisterous,
+aggressive, passive, friendly, restrained, out-going, naughty.
+
+3. Physical: Any physical attributes, the child’s age and descriptions relating to the
+child’s position in the family, e.g. ‘blond’; ‘three feet tall’; ‘he’s my second son’;
+‘she’s three years old’.
+
+4. General:  Any  general  comments  relating  to  the  child  which  did  not  ﬁt  into  the
+
+above three categories, e.g. ‘he’s a lovely little boy’; ‘he’s a child of extremes’.
+
+These categories were both exhaustive and exclusive. The total number of attributes
+used by each mother to describe her child was computed. Mothers then received a
+score for their use of mental characteristics, expressed as the number of mental char-
+acteristics divided by the total number of attributes used to describe the child. This
+proportional  score  was  intended  to  control  for  differences  in  verbosity  between
+mothers. All of the interviews were coded by the ﬁrst and second authors. In order
+to minimise bias due to the ﬁrst coder’s knowledge of children’s attachment classiﬁ-
+cations, interviews were transcribed and coded anonymously, and were only subse-
+quently  integrated  with  attachment  data.  The  second  coder  remained  blind  to  the
+children’s  attachment  classiﬁcations  throughout.  Inter-rater  agreement  for  the
+assignment of a comment to one of the four categories was k 5 0.91.
+
+Results
+
+Maternal tutoring sensitivity. The total number of interventions (physical and verbal)
+on the tutoring task was calculated for each mother. Scores for maternal sensitivity
+to feedback were obtained by dividing a mother’s successful use of feedback (accord-
+ing to the rules outlined above) by her total number of interventions. The mean sen-
+sitivity scores for the security of attachment and SES groups were as follows: secure
+group M 5 0.66, SD 5 0.23; insecure group M 5 0.45, SD 5 0.16; status 1 group M
+5 0.59, SD 5 0.25; status 2 group M 5 0.56, SD 5 0.21. A 2 (security of attach-
+ment) 3 2 (SES) analysis of variance showed a main effect of security of attachment,
+F(1,26)  5 8.37, MStreatment 5 0.36, p , .01, with no effect of SES, F(1,26)  5 0.07,
+n.s., and no interaction.
+
+Mothers in the secure group were thus more likely to use feedback from their chil-
+dren’s performance in order to gauge the level of speciﬁcity of their succeeding inter-
+ventions.  This  difference  between  the  mothers  in  the  secure  and  insecure  groups
+could not be explained in terms of SES.
+
+Maternal interview. Table 4 shows the mean scores for the total number of attributes
+and for the proportion of mental attributes from the two attachment and two SES
+groups. For the mean total number of attributes, a 2 (security of attachment)  3 2
+(SES) analysis of variance showed a main effect of SES, F(1, 26) 5 6.20, MStreatment
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 11
+5 69.5, p , .025, with more attributes given by status 2 mothers, but no effect of
+security of attachment, F(1, 26) 5 1.13, n.s., and no interaction. For the mean pro-
+portional scores for mental attributes, a 2 (security of attachment) 3 2 (SES) analy-
+sis  of  variance  showed  a  main  effect  of  security  of  attachment,  F(1,  26)  5 6.19,
+MStreatment 5 0.40,  p , .025,  with  no  effect  of  SES,  F(1,  26)  5 0.02,  n.s.,  and  no
+interaction.
+
+Table 4. Mean Proportions of Mentalistic Attributes on the Maternal Interview as a
+Function of Security of Attachment and SES
+
+Attachment classiﬁcation
+
+SES
+
+Secure
+(n 5 17)
+
+Insecure
+(n 5 13)
+
+Status 1
+(n 5 12)
+
+Status 2
+(n 5 18)
+
+Total number of attributes
+
+M
+SD
+
+6.53
+3.71
+
+Proportion of mental attributes
+
+M
+SD
+
+0.48
+0.28
+
+7.77
+3.59
+
+0.24
+0.18
+
+5.08
+2.54
+
+0.39
+0.27
+
+8.39
+3.73
+
+0.37
+0.28
+
+Mothers  of  securely  attached  children  were  thus  more  likely  than  their  counter-
+parts in the insecure group to focus on mental characteristics when asked to give a
+description of their children. This difference appeared to be independent of SES, and
+could  not  be  explained  in  terms  of  the  secure  group  mothers  being  more  verbose
+than those in the insecure group.
+
+Study Three
+
+The  purpose  of  Study  Three  was  to  investigate  whether  securely  attached  children
+would show an advantage over their insecurely attached peers in their understanding
+of the mental states of a story protagonist, as assessed on a version of Wimmer and
+Perner’s (1983) unexpected transfer task. In this task, the participant hears a story
+about a character who hides a desirable object in one location and then leaves the
+scene. In the protagonist’s absence, the object is moved from its original location to
+a second location. The child is ﬁrst asked control questions to ensure that he or she
+remembers  the  details  of  the  story,  and  is  aware  that  the  protagonist  has  not  wit-
+nessed the transfer. Participants are then asked to predict where the protagonist will
+look  for  the  hidden  object.  This  task  is  taken  to  be  a  test  of  mentalising  abilities
+because it requires the child to represent the mental states of another person in order
+to predict that person’s subsequent behaviour.
+
+Method
+Participants. Twenty-ﬁve5 of the children who had participated in Studies One and
+Two  were  available  for  testing  at  age  4.  Fifteen  (9  girls,  6  boys)  of  these  children
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+12 Elizabeth Meins et al.
+
+were  securely  attached  and  10  (2  girls,  8  boys)  were  insecurely  attached.  Eight  (6
+secure, 2 insecure) of these children were status 1 and 17 (9 secure, 8 insecure) were
+status 2. Children’s mean age was 49 months (range 48 to 50 months).
+
+Unexpected  transfer  task.  Participants  were  introduced  to  a  soft  toy  called  Charlie
+the  Crocodile  and  told  that  Charlie’s  favourite  food  was  chocolate.  The  child  wit-
+nessed a chocolate being placed in one of two small cardboard boxes, one red and
+the  other  white.  The  child  was  then  told  that  Charlie  was  hiding  his  chocolate  to
+keep it safe while he went for a swim. Charlie was then removed from the table, and
+it was announced that the experimenter and the child were going to play a trick on
+Charlie. The child watched while the experimenter took the chocolate out of the box
+in  which  it  had  been  hidden  and  placed  it  in  the  other  box,  closing  both  lids.
+Participants were told that Charlie was about to return from his swim, and that he
+would  be  wanting  his  chocolate.  The  following  control  questions  were  then  asked:
+‘Where was the chocolate in the beginning?’ (memory control); ‘Where is the choco-
+late now?’ (reality control); and ‘Does Charlie know where the chocolate is?’ (know-
+ledge  control).  If  any  of  these  questions  was  answered  incorrectly,  the  story  was
+brieﬂy repeated and the three questions asked again, but the child was not explicitly
+corrected.  Children  who  failed  to  answer  correctly  the  second  time  were  excluded
+from the analysis. When correct answers had been given on each of these three ques-
+tions, the test question was asked: ‘Where does Charlie think the chocolate is?’6
+
+The children were divided into two groups, according to whether they passed or
+failed the test question. In order to be assigned to the ‘pass’ group, children had to
+indicate the box which, in reality, did not contain the chocolate.
+
+Results
+
+Four  children  (3  secure  and  1  insecure)  failed  to  answer  the  ‘knowledge’  control
+question  correctly  on  the  second  asking,  and  were  therefore  excluded  from  the
+analysis.  Of  the  remaining  participants,  10  out  of  12  securely  attached  children
+(83%)  answered  the  test  question  correctly,  compared  with  3  out  of  9  insecurely
+attached children (33%). A Fisher exact probability test showed the effect of security
+of attachment to be signiﬁcant at the 0.025 level.7 Three of the 6 status 1 children
+(50%) answered the test question correctly, compared with 10 of the 15 status 2 chil-
+dren  (66%),  which  represented  a  non-signiﬁcant  difference  between  the  two  SES
+groups.
+
+Further  analyses  were  performed  to  establish  whether  any  of  the  measures
+obtained  in  Studies  One  and  Two  were  related  to  performance  on  the  unexpected
+transfer  task.  Mean  executive  capacity  scores  (Study  One)  for  the  pass  and  fail
+groups are shown in Table 5. A t-test showed the difference between the executive
+capacity  scores  of  these  two  groups  to  be  signiﬁcant,  t(18)  5 2.79,  p , .01,  one-
+tailed.  Children  who  passed  the  unexpected  transfer  task  at  age  4  had  been  better
+able to incorporate the experimenter’s suggestions during the symbolic play task at
+31 months.
+
+Table  5  also  shows  the  mean  scores  for  the  measures  taken  from  the  maternal
+tutoring  task  and  maternal  interview  in  Study  Two.  T-tests  showed  a  difference
+between the pass and fail groups on the maternal sensitivity scores, t(18) 5 1.95, p ,
+.05,  one-tailed,  and  on  the  mothers’  proportional  mental  attribute  scores,  t(18)  5
+1.70, p , .05, one-tailed. Children who passed the unexpected transfer task at age 4
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 13
+
+Table 5. Mean Executive Capacity, Maternal Sensitivity and Maternal
+Mental  Attribute  Scores  Related  to  Performance  on  the  Unexpected
+Transfer Task
+
+Performance on unexpected
+transfer task
+
+Pass
+
+Fail
+
+Executive capacity
+
+M
+SD
+
+Maternal sensitivity
+
+M
+SD
+
+Proportion of mental attributes
+
+M
+SD
+
+0.53
+0.22
+
+0.70
+0.23
+
+0.46
+0.29
+
+0.23
+0.26
+
+0.51
+0.20
+
+0.25
+0.24
+
+were more likely to have mothers who, at age 3, had been more sensitive tutors and
+tended to describe their children in terms of their mental characteristics.
+
+Study Four
+
+The purpose of Study Four was to follow up the mentalising assessments made in
+the previous study, by administering more complex mentalising tasks at age 5. The
+ﬁrst of these tasks, the ‘picture identiﬁcation’ task, was designed to assess children’s
+understanding  that  one’s  knowledge  about  a  state  of  affairs  is  constrained  by  the
+information available. The second task, the ‘false belief and emotion’ task, required
+participants to integrate information about a story protagonist’s beliefs with infor-
+mation about the same protagonist’s preferences, in order to predict the character’s
+emotional response. Both tasks had previously been shown to be appropriate to chil-
+dren  of  this  age.  Study  Four  also  presented  an  opportunity  to  assess  participants’
+general cognitive ability, as measured by a test of receptive verbal intelligence.
+
+Method
+
+Participants. All 33 children who had taken part in Study One were available for the
+follow-up  studies  at  age  5.  Children’s  mean  age  was  61.5  months  (range  60  to  63
+months).
+
+Participants  were  tested  in  two  sessions  a  week  apart.  In  the  ﬁrst  session,  the
+British  Picture  Vocabulary  Scale  (Dunn,  Dunn,  Whetton  &  Pintilie,  1982)  was
+administered,  followed  by  the  picture  identiﬁcation  task  (Taylor,  Cartwright  &
+Bowden, 1991), described below. In the second session, the false belief and emotion
+task  (Harris,  Johnson,  Hutton,  Andrews  &  Cooke,  1989)  was  administered  (see
+below).
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+14 Elizabeth Meins et al.
+
+Picture Identiﬁcation Task. The purpose of this task was to assess children’s under-
+standing  of  how  an  individual’s  knowledge  is  constrained  by  informational  access.
+Participants were ﬁrst introduced to a soft toy called Freddy the Frog and the box in
+which he lived. Freddy was placed in his box, and participants were told that they
+were going to see some pictures. Each of six pictures had been glued to the inside of
+an opaque folder, with a 2.5 inch square ‘window’ cut from its front cover, allowing
+one of three kinds of view. For two of the pictures, the visible part was sufﬁcient to
+allow the child to identify the picture (for example, if the picture was of a dog, the
+dog’s head was visible in the window). In the second pair of pictures, the visible part
+of the picture was insufﬁcient to allow identiﬁcation (‘nondescript’ view). In the ﬁnal
+pair of pictures, the window was cut so that no part of the picture was visible.
+
+The order of presentation of the pictures was randomised. The closed folder was
+shown to the child, who was asked what he or she thought was in the picture. The
+experimenter then opened the folder to show what was actually in the picture, and
+closed the folder again. Freddy the Frog was then taken out of his box and placed in
+front  of  the  closed  folder.  The  child  was  asked:  ‘Does  Freddy  know  what’s  in  the
+picture?’
+
+The number of ‘no’ responses to the nondescript views was taken as a measure of
+the  child’s  understanding  of  the  relation  between  informational  access  and  know-
+ledge of picture content. Children who demonstrated a general negative or positive
+response bias (i.e. answering all questions with ‘yes’ or ‘no’) were excluded from the
+analysis.
+
+False  belief  and  emotion  task.  The  ﬁnal  task  assessed  young  children’s  ability  to
+understand not only a character’s current belief, but also to integrate this informa-
+tion with previous knowledge about the character’s preferences and desires in order
+to predict an emotional response. Children were introduced to four named toy ani-
+mals,  and  told  that  another  character,  Charlie  the  Crocodile,  was  going  to  play  a
+trick  on  each  of  the  animals  in  turn.  For  each  animal,  participants  heard  a  story
+about  one  of  the  animal’s  favourite  food.  For  example,  participants  were  told,
+‘Penny the Penguin wants a drink, but she only likes one kind of drink, and that’s
+milk  (pointing  to  a  carton  of  milk).  She  doesn’t  like  Coke  (pointing  to  a  can  of
+Coke); she only likes milk’. Penny the Penguin was then removed from the table, and
+Charlie the Crocodile was seen to pour the milk from its carton and replace it with
+the Coke. All of the containers used in the experiment were opaque. The child was
+then asked: ‘What is Penny’s favourite drink?’ (memory control); and ‘What is actu-
+ally in the carton now?’ (reality control). If either of these questions was answered
+incorrectly,  the  scenario  was  brieﬂy  redescribed.  Penny  was  then  returned  to  the
+table, and the following questions asked: Question 1: ‘How does Penny feel when she
+is ﬁrst given the carton? Does she feel happy or does she feel sad?’ Question 2: ‘How
+does Penny feel when she looks inside the carton and ﬁnds there is Coke instead of
+milk inside? Does she feel happy or does she feel sad?’
+
+The  measure  of  performance  was  the  number  of  correct  answers  to  Question  1
+(maximum score 5 4). Any children who showed a general bias towards positive or
+negative answers were excluded from the analysis. In addition, children were asked
+to justify their answers to Questions 1 and 2. If these justiﬁcations suggested that the
+child  had  forgotten  the  animal’s  preference  or  the  nature  of  the  trick,  the  salient
+information was repeated and the questions reiterated. Within each testing session,
+two of the animals were given an unpleasant surprise (as in Penny’s case), while the
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+other  two  were  given  a  pleasant  surprise  (the  container  of  non-favourite  food  was
+found to contain a favourite food). Presentation of the stories was fully randomised
+and counterbalanced.
+
+Attachment and Mentalising Abilities 15
+
+Results
+
+General  cognitive  ability.  Security-based  and  SES-based  differences  on  the  BPVS
+were investigated. The mean standardised scores were as follows: secure group M 5
+113.3, SD 5 12.5; insecure group M 5 110.9, SD 5 15.5; status 1 group M 5 105.2,
+SD 5 12.9; status 2 group M 5 116.9, SD 5 12.4. A t-test showed no effect of secu-
+rity of attachment on BPVS scores, t(31) 5 0.48, n.s. The difference between the two
+SES groups was signiﬁcant, t(31) 5 2.60, p , .01, one-tailed, with children from sta-
+tus  2  families  attaining  higher  scores.  Table  6  shows  the  correlations  between  the
+BPVS scores and the other measures taken in the four studies reported here.
+
+Picture identiﬁcation task. Five children (3 secure and 2 insecure) were excluded from
+the analyses because of a negative response bias, and 3 children (1 secure and 2 inse-
+cure) were excluded due to a positive response bias. Two further securely attached
+children gave a single incorrect answer to the control question, and were excluded.
+Of the remainder, 11 out of 13 securely attached children (85%) received a maximum
+score of two correct answers for the nondescript views, compared with 5 out of 10
+insecurely attached children (50%). This difference was signiﬁcant, x2 (1, N 5 23) 5
+3.20, p , .05, one-tailed. The mean correct scores for the two attachment groups on
+the  two  nondescript  pictures  were  as  follows:  secure  group  M 5 1.77,  SD 5 0.60,
+insecure  group  M 5 1.10,  SD 5 0.99.  Given  the  non-continuous  nature  of  the
+dependent  variable,  non-parametric  tests  were  used  in  analysing  these  data.  A
+Mann-Whitney  U-test  showed  the  difference  between  the  two  groups  to  be
+approaching signiﬁcance, U(10, 13)  5 41, p 5 .07, one-tailed. No differences were
+found between the two SES groups on mean correct answers or number of children
+receiving a maximum score.
+
+False  belief  and  emotion  task.  Two  children  from  the  secure  group  were  excluded
+from the analysis because of a negative response bias which led to incorrect answers
+to Question 2. Two children in the insecure group answered Question 2 incorrectly
+on one of the four stories. Rather than excluding them from the analysis, the pro-
+portion of correct Question 1 answers for the remaining three stories was calculated
+and  then  multiplied  by  four  (maximum  score  5 4).  The  mean  number  of  correct
+answers  given  by  the  two  groups  were  as  follows:  secure  group  M 5 2.25,  SD 5
+1.44; insecure group M 5 1.62, SD 5 1.33. Again, given the nature of the dependent
+variable, non-parametric tests were used in analysing these data. A Mann-Whitney
+U-test showed the difference between the two groups to be non-signiﬁcant, U(14, 16)
+5 86, n.s.
+
+The mean number of correct answers of the two SES groups were also compared:
+status 1 group M 5 1.11, SD 5 0.80; status 2 group M 5 2.52, SD 5 1.45. This rep-
+resented a signiﬁcant difference, U(12, 18)  5 43.5, p , .01, two-tailed. In order to
+identify the best predictor of children’s performance on the false belief and emotion
+task,  a  multiple  forward  regression  analysis  was  performed,  incorporating  six  fac-
+tors:  security  of  attachment,  SES,  executive  capacity,  proportion  of  mental  attrib-
+utes,  performance  on  the  unexpected  transfer  task,  and  BPVS  score.  This  analysis
+showed that, when these other variables were entered into the equation, SES did not
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+16 Elizabeth Meins et al.
+
+remain a signiﬁcant predictor of children’s performance on the false belief and emo-
+tion  task.  The  best  predictor  of  performance  on  this  task  was  performance  on  the
+unexpected transfer task at age 4 (T 5 2.16, p , .05).
+
+Table 6. Correlations between Measures from Studies One, Two, Three and Four
+
+Security
+
+Excap MS
+
+Pment UT
+
+FBE
+
+BPVS
+
+Security
+Excap
+MS
+Pment
+UT
+FBE
+BPVS
+
+1.00
+0.63††
+0.55†
+0.42**
+0.51**
+0.23
+0.09
+
+1.00
+0.46**
+0.54†
+0.55**
+0.16
+0.43*
+
+1.00
+0.30
+0.42*
+0.29
+0.09
+
+1.00
+0.37
+0.48**
+0.09
+
+1.00
+0.41*
+0.47*
+
+1.00
+0.20
+
+1.00
+
+Note. Security 5 security of attachment, Excap 5 executive capacity, MS 5 maternal
+sensitivity, Pment 5 proportion of mental attributes, UT 5 unexpected transfer task, FBE 5
+false belief and emotion task, BPVS 5 British Picture Vocabulary Scale.
+*p , .05; **p , .025; †p , .005, ††p , .001. Signiﬁcance levels are for one-tailed tests, except
+those involving the BPVS scores (two-tailed).
+
+Path Analysis
+
+Table  6  shows  the  correlations  between  the  measures  taken  in  the  four  studies
+reported above. Children’s performance on the picture identiﬁcation task was found
+to  be  correlated  with  only  one  of  the  measures  taken  on  the  other  tasks  reported
+here: the proportion of mental attributes on the maternal interview (see Study Two),
+where r(21) 5 0.40, p , .025, one-tailed. For the purposes of simplicity of analysis,
+scores  on  the  picture  identiﬁcation  task  were  not  entered  into  the  further  analyses
+described below.
+
+In light of the observed relationships between these measures, path analyses were
+used  to  determine  more  precisely  the  nature  of  the  relationship  between  infantile
+attachment  security  and  later  symbolic  and  mentalising  abilities.  Using  the  data
+from  Studies  One  to  Four,  Pearson  product  moment  correlations  were  calculated
+using  pairwise  deletion  of  missing  values  (see  Table  6).  A  path  analysis  was  con-
+ducted on the data using LISREL 7.17 (Jöreskog & Sörbom, 1989). The data were
+entered as a covariance matrix with pairwise deletion of missing values. Two models
+were tested, as described below.
+
+Model 1
+
+Our prediction of a relationship between security of attachment and later symbolic
+and  mentalising  abilities  stemmed  from  previous  suggestions  that  mothers  of
+securely  attached  children  are:  (a) more  sensitive  to  their  children’s  needs  and  cur-
+rent levels of functioning (measured here as maternal sensitivity on a tutoring task);
+and (b) more likely to treat their children as individuals with minds (measured here
+in  terms  of  mothers’  proclivity  to  use  mental  attributes  to  describe  their  children).
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 17
+
+Model 1 (see Figure 1) shows a possible pathway between these variables, illustrat-
+ing how they might in turn be related to children’s ability to incorporate the sugges-
+tions of another into their symbolic play. Our assumption, which needs to be tested
+by future research, is that mothers’ tendency to treat their children as mental agents
+is  relatively  stable  over  the  preschool  years,  allowing  us  to  extrapolate  back  into
+infancy from the ‘mental attributes’ measure taken at age 3. This model also illus-
+trates a possible direct link between the security of the attachment relationship and
+children’s later mentalising abilities. This model ﬁtted the data using the maximum
+likelihood criteria, x2(10) 5 16.45, p 5 0.09. The goodness of ﬁt index was 0.908 and
+the stability index was 1.326.
+
+Maternal
+Sensitivity
+
+0.102
+
+*
+7
+4
+5
+.
+0
+
+*
+
+3
+
+6
+
+0 .3
+
+8
+8
+0
+.
+0
+
+Security of
+Attachment
+
+0.4
+
+*
+
+7
+
+3
+
+6
+8
+0
+.
+0
+
+BPVS
+
+Unexpected
+Transfer Task
+
+0.430*
+
+Mental
+
+Attributes
+
+0.472*
+
+*
+
+9
+
+6
+
+0 . 3
+
+0.817*
+
+0.308*
+
+0.409*
+
+0.557*
+
+Executive 
+Capacity
+
+0.385*
+
+0.832*
+
+False Belief and
+Emotion Task
+
+Figure 1. Model 1: Developmental pathways from infantile security of attachment to symbolic and men-
+talising abilities in early childhood
+
+Model 2
+
+One  implication  of  Model  1  was  that  the  role  of  caregivers  in  the  development  of
+mentalising abilities is primarily mediated by the security of the attachment relation-
+ship, rather than by any direct inﬂuence on children’s developing understanding of
+other minds. However, it is also plausible that there might be a more direct effect of
+caregivers’  proclivity  to  treat  their  infants  as  individuals  with  minds.  Accordingly,
+two extra paths were added to Model 1: from maternal mental attributes to both the
+unexpected transfer task and to the false belief and emotion task (see Figure 2). The
+values which have been altered between the two models are shown in bold print.
+
+The new model showed an improved ﬁt to the data, using the maximum likelihood
+criteria, x2 (8) 5 8.6, p 5 .38. The model had a goodness of ﬁt index of 0.946 and a
+stability index of 5.13. This model provided a signiﬁcant improvement on the earlier
+model, x2 (2) 5 7.85, p , .02.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+18 Elizabeth Meins et al.
+
+Maternal
+Sensitivity
+
+0.102
+
+*
+7
+4
+5
+.
+0
+
+*
+
+3
+
+6
+
+0 .3
+
+0.817*
+
+0.308*
+
+Mental
+
+Attributes
+
+0.385*
+
+8
+8
+0
+.
+0
+
+Security of
+Attachment
+
+6
+8
+0
+.
+0
+
+BPVS
+
+0.472*
+
+6
+6
+1
+.
+0
+
+*
+
+9
+
+6
+
+0 . 3
+
+Executive 
+Capacity
+
+0
+.
+3
+
+8
+
+4
+
+*
+
+0709*
+
+0.4
+
+*
+
+0
+
+5
+
+Unexpected
+Transfer Task
+
+0.423*
+
+False Belief and
+Emotion Task
+
+0.266
+
+0.538*
+
+Figure 2. Model 2: Developmental pathways from infantile security of attachment to symbolic and men-
+talising abilities in early childhood
+
+These exploratory analyses provide some support for the suggestion that mothers’
+willingness to treat their children as mental agents (as determined from their descrip-
+tions of their children at age 3) directly inﬂuences the later development of mentalis-
+ing  abilities.  In  turn,  this  willingness  is  strongly  related  to  the  security  of  the
+attachment  relationship.  This  tentative  conclusion  should  be  considered  in  light  of
+the need for further research, particularly concerning whether this differential will-
+ingness on the part of mothers can be detected in infancy. An obvious problem in
+interpreting these analyses is the low statistical power resulting from the size of the
+sample.  One  might  expect  that  even  if  the  data  did  deviate  signiﬁcantly  from  the
+model, such a deviation would not show up due to the small sample size. That said,
+the  highly  signiﬁcant  correlations  shown  in  Table  6,  coupled  with  the  signiﬁcant
+improvement observed in Model 2, suggest that power was sufﬁcient if not optimal.
+
+General Discussion
+
+The studies reported above showed that: (a) children who received a secure attach-
+ment  classiﬁcation  in  infancy  were  better  able  to  incorporate  the  pretence  sugges-
+tions  of  an  experimenter  into  their  play  sequences  at  31  months,  despite  no  group
+differences in the level of sophistication of play before the experimenter intervened;
+(b) mothers of securely attached children adopted more sensitive tutoring strategies
+on a collaborative task at age 3; (c) mothers of securely attached children were more
+likely to describe their children in terms of their mental characteristics, rather than
+their  physical  or  behavioural  qualities;  (d) children  who  were  securely  attached  in
+infancy were more likely to pass a version of the unexpected transfer task at age 4;
+and (e) when assessed at age 5, securely attached children were more likely than their
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 19
+
+insecurely attached counterparts to give the maximum number of correct answers on
+a  task  requiring  an  understanding  of  informational  access,  while  group  differences
+on a task relating belief and emotion were non-signiﬁcant. These security-based dif-
+ferences  could  not  be  explained  in  terms  of  general  cognitive  ability  or  SES.
+Although  a  difference  between  the  SES  groups  was  found  on  the  false  belief  and
+emotion  task  (Study  Four),  a  multiple  regression  analysis  showed  that,  when  the
+other  main  independent  variables  were  entered  into  the  equation,  SES  did  not
+remain a signiﬁcant predictor of children’s performance.
+
+Lastly, the path analyses shed some light on the developmental pathways which
+may  link  security  of  attachment  and  later  symbolic  and  mentalising  abilities.
+Security of attachment accounted for a signiﬁcant amount of the variance in the pro-
+portion of mental attributes in mothers’ descriptions of their children, and both of
+these variables were strong predictors of executive capacity scores on the symbolic
+play task. In addition, children’s initial security of attachment was a strong predictor
+of performance of the unexpected transfer task at age 4, which, together with moth-
+ers’ proclivity to describe their children in mentalistic terms, in turn predicted perfor-
+mance on the more advanced mentalising task at age 5.
+
+Before considering the signiﬁcance of these ﬁndings, it should be pointed out that
+the results of the tasks administered at ages 4 and 5 are in line with those of previous
+researchers, in terms of the proportion of children passing at each age (Harris et al.,
+1989;  Taylor  et  al.,  1991;  Wimmer  &  Perner,  1983).  The  failure  to  ﬁnd  a  relation
+between security of attachment in infancy and general cognitive ability is also consis-
+tent with the ﬁndings of other studies (see van IJzendoorn, Dijkstra & Bus, 1995).
+The results of our longitudinal study suggest that the security of the attachment rela-
+tionship in infancy, and those mother-centred variables which characterise a secure
+attachment  relationship  in  early  childhood,  have  an  important  inﬂuence  on  chil-
+dren’s later ability to engage with another person on a mental level. This engagement
+may  either  be  with  an  experimenter’s  suggestions  for  symbolic  play  (Study  One),
+maternal instructions on how to build a box (Study Two), or with the beliefs, emo-
+tions and desires of a range of story characters (Studies Three and Four). Our ﬁnd-
+ings  suggest  that,  from  midway  through  the  third  year  of  life,  securely  attached
+children  are  better  able  to  recognise  and  act  upon  the  alternative  perspectives  of
+another person.
+
+What implications do our ﬁndings have for the four theoretical approaches out-
+lined in the Introduction? First, they would appear to present something of a chal-
+lenge to the ‘modularist’ account of mentalising development. Indeed, any ﬁnding of
+meaningful relationships between early social variables and later mentalising abilities
+would appear to present problems for an account which views such abilities as stem-
+ming from a primarily biological endowment (Baron-Cohen, 1995; Leslie, 1991). An
+obvious line of argument for the modularist would be to say that we are mistaken in
+our  description  of  the  direction  of  causation,  and  that  some  infants’  biological
+endowment simply matures earlier, resulting in a greater early responsivity which is
+picked up by the caregiver and leads to the development of a secure attachment rela-
+tionship.  However,  such  an  interpretation  seems  unlikely  for  at  least  two  reasons.
+First, mothers would have to be sensitive to early precursors of mentalising abilities
+well  before  such  abilities  are  thought,  on  the  modularist  account,  to  mature.
+Secondly, such an interpretation would be at odds with ﬁndings that infants may be
+differently  attached  to  different  caregivers  within  the  same  family  (e.g.  Belsky  &
+Rovine, 1987; Lamb, Hwang, Frodi & Frodi, 1982; Main & Weston, 1982).
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+20 Elizabeth Meins et al.
+
+The  other  three  main  theoretical  alternatives  are  better  placed  to  explain  the
+apparent  social  inﬂuences  on  the  development  of  mentalising  abilities.  There  are  a
+number of ways in which sensitive caregivers and older family members might ‘scaf-
+fold’  (Wood,  Bruner  &  Ross,  1976)  children’s  developing  understanding  of  other
+minds. For example, an adherent to the theory-theory might argue that mothers’ use
+of mental state terms when interacting with their children might scaffold the acquisi-
+tion of the corresponding concepts, which go on to play a role in a fully-ﬂedged the-
+ory  of  mind.  A  similar,  and  not  necessarily  exclusive,  view  might  be  taken  of
+children’s  entry  into  the  folk  psychology  of  the  culture,  with  such  a  development
+being seen as a process of ‘apprenticeship’ in which active participation by the child
+is encouraged by the more senior members of the culture (Astington, 1996; Lewis et
+al., 1996). An enthusiast for the simulation account might argue that exposure to the
+mental states of others, such as would result from a secure attachment relationship,
+might  accelerate  the  acquisition  of  a  sufﬁciently  extensive  database  from  which  to
+simulate the mental states of others. Finally, the sort of sensitive reciprocal interac-
+tion which characterises the secure attachment relationship might be causal in allow-
+ing  children  to  internalise  mediated  interpersonal  exchanges  and,  through  the
+development of dialogic modes of thinking, actively reconstruct social situations on
+a dialogic level (Fernyhough, 1996).
+
+Which speciﬁc features of the secure attachment relationship might be important
+in accounting for the differences reported in this study? The most obvious explana-
+tion can be framed in terms of the different types of interaction which characterise
+secure and insecure attachments. As noted in the Introduction, mothers of securely
+attached  infants  are  more  sensitive  (Ainsworth  et  al.,  1971)  and  consistent  in  their
+patterns of caring (Isabella, 1993), qualities which may enable secure dyads to estab-
+lish more effective and satisfying collaborative interactions which persist into child-
+hood. Moreover, we hypothesised that one cause of these security-related differences
+is that mothers of securely attached children are more likely to treat their children as
+individuals with minds, showing sensitivity to their current levels of understanding,
+using mental state terms in their interaction with them, and so on. This propensity
+has  been  labelled  ‘mind-mindedness’  (Meins,  1997b).  However,  since  our  data  on
+mothers’ mind-mindedness were not collected until the children were three years of
+age, we do not yet know whether this tendency was present in infancy. We should
+also  be  cautious  in  proposing  any  causal  direction  between  these  measures:  a
+mother’s mind-mindedness may be involved in the establishment of a secure attach-
+ment  relationship;  conversely,  the  type  of  interactions  which  result  from  having  a
+securely attached child may cause a mother to focus more on her child’s mental life.
+That  said,  the  current  evidence  concerning  the  precursors  of  a  secure  attachment
+relationship  (e.g.  Ainsworth  et  al.,  1971;  Isabella,  1993)  suggests  that  certain  early
+patterns  of  interaction  may  be  causal.  Moreover,  we  would  suggest  that  such  pat-
+terns  may  themselves  be  dependent  upon  mothers  representing  their  children  at  a
+mental  level,  and  thus  interpreting  their  actions  with  reference  to  their  attendant
+beliefs, desires and intentions. Clearly, further research into the relationship between
+maternal  representations  of  children  in  infancy  and  subsequent  development  is
+needed before this interesting question can be answered.
+
+Perhaps we can be less tentative about the direction of causation between moth-
+ers’  propensity  to  describe  their  children’s  mental  attributes  and  children’s  subse-
+quent  performance  on  tasks  measuring  mentalising  ability.  Given  the  longitudinal
+nature of our study, we know that this proclivity on the part of the mother was pre-
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 21
+
+sent  at  least  a  year  before  children  were  assessed  on  mentalising  tasks.  Assuming
+that maternal mind-mindedness is more or less stable over the ﬁrst few years of life,
+it  seems  that  focusing  on  one’s  child’s  mental  characteristics  over  this  period  may
+make  an  important  contribution  to  the  child’s  developing  understanding  of  other
+minds. This is not to say that early manifested differences in infant responsivity will
+have  no  effect  on  the  quality  of  the  developing  attachment  relationship;  indeed,
+much  more  research  is  needed  to  determine  the  importance  of  such  differences.
+Further, as Main (1991) suggests, a secure attachment relationship may confer other
+relevant beneﬁts, such as allowing children more ‘mental space’ to explore the men-
+tal lives of others. In addition, it may be that mothers of securely attached children
+are  more  sensitive  and  attuned  to  their  children  in  general,  and  that  their  greater
+mind-mindedness might be accompanied by an enhanced attunement to the infant in
+non-mental domains8.
+
+Finally,  some  mention  should  be  made  of  the  reduction  in  the  strength  of  the
+effect  of  security  of  attachment  by  the  time  children  have  reached  5  years  of  age.
+Whilst  the  difference  between  the  secure  and  insecure  groups  on  the  unexpected
+transfer task at age 4 was signiﬁcant, these differences were signiﬁcant on only one
+of the measures (number of children producing maximum scores on the picture iden-
+tiﬁcation task) at age 5. This reduction in effect strength is probably due in part to
+the fact that these children will have started formal schooling, and will consequently
+have had much greater opportunities to interact with other children. As children get
+older, relationships beyond the boundaries of attachment ﬁgures and the family will
+take on a more important role, and the relationship between child and primary care-
+giver will become just one of many formative ties. This view is consistent with those
+which stress the importance of social relationships and interactions within the con-
+texts  of  the  immediate  family  (Dunn  et  al.,  1991),  extended  family  (Lewis  et  al.,
+1996) and school (Lalonde & Chandler, 1995) for the child’s emerging understand-
+ing of other minds.
+
+In summary, we suggest that our ﬁndings add weight to the view that certain fea-
+tures of early infant-caregiver relationships, particularly mothers’ tendency to inter-
+act  with  their  infants  as  individuals  with  minds,  have  an  important  inﬂuence  on
+children’s  development  of  symbolic  and  mentalising  abilities.  These  differences  are
+manifested  in  children’s  ability  to  adopt  the  perspectives  of  an  experimenter  in
+exploring non-veridical orientations to reality, and in their later performance on lab-
+oratory  assessments  of  mentalising  abilities.  Further  research  is  required  to  deter-
+mine  the  precise  signiﬁcance  of  maternal  mind-mindedness  in  the  establishment  of
+the secure attachment relationship and the subsequent advantages shown by securely
+attached children. For example, we need more data on whether the effects of attach-
+ment security are direct or mediated by other variables. In the meantime, however,
+we can suggest that by treating their children as individuals with minds, rather than
+creatures with needs which must be fulﬁlled, mothers of securely attached children
+can provide a ‘creative social mirror’ (Fonagy et al., 1994, p. 247), which allows their
+children  to  develop  a  sense  of  themselves  as  sources  of  perspectives  on  the  world,
+and thus ‘to think of [themselves] as thinkers’ (James, 1890, p. 296). Further investi-
+gation of the correlates and consequences of the secure attachment relationship rep-
+resents an exciting opportunity to increase our understanding of how social contexts
+and cognitive endowments shape each other in early development.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+22 Elizabeth Meins et al.
+
+References
+Ainsworth,  M. D. S.  &  Wittig,  B. A.  (1969).  Attachment  and  exploratory  behaviour  of  one
+year olds in a strange situation. In B.M. Foss (Ed.), Determinants of Infant Behaviour, Vol.
+4. New York: Barnes and Noble.
+
+Ainsworth,  M. D. S.,  Bell,  S. M.,  &  Stayton,  D. J.  (1971).  Individual  differences  in  Strange
+Situation behaviour of one year olds. In H.R. Schaffer (Ed.), The origins of human social
+relations. New York: Academic Press.
+
+Ainsworth,  M. D. S.,  Blehar,  M. C.,  Waters,  E.,  &  Wall,  S.  (1978).  Patterns  of  attachment:
+
+Assessed in the strange situation and at home. Hillsdale, N.J.: Lawrence Erlbaum.
+
+Astington, J. W. (1996). What is theoretical about the child’s theory of mind? A Vygotskian
+view of its development. In P. Carruthers & P.K. Smith (Eds.), Theories of theories of mind.
+Cambridge: Cambridge University Press.
+
+Baron-Cohen, S. (1995).  Mindblindness: An essay on autism and theory of mind. Cambridge,
+
+MA: MIT Press.
+
+Bee,  H. L.,  van  Egeren,  L. F.,  Pytkowicz  Streissguth,  A.,  Nyman,  B. A.,  &  Leckie,  M. S.
+(1969).  Social  class  differences  in  maternal  teaching  strategies  and  speech  patterns.
+Developmental Psychology, 1, 726–734.
+
+Belsky, J. & Rovine, M. (1987). Temperament and attachment security in the strange situa-
+
+tion: An empirical rapprochement. Child Development, 58, 787–795.
+
+Belsky, J., Garduque, L., & Hrncir, E. (1984). Assessing performance, competence and execu-
+tive  capacity  in  infant  play:  Relations  to  home  environment  and  security  of  attachment.
+Developmental Psychology, 20, 406–417.
+
+Bradley, D. R., Bradley, T. D., McGrath, S. G., & Cutcomb, S. D. (1979). Type I error rate
+of the chi-square test of independence in R 3 C tables that have small expected frequencies.
+Psychological Bulletin, 86, 1290–1297.
+
+Bretherton, I., Bates, E., Benigni, L., Camaioni, L., & Volterra, V. (1979). Relationships between
+cognition, communication and quality of attachment. In E. Bates, L. Benigni, I. Bretherton, L.
+Camaioni, & V. Volterra (Eds.), The emergence of symbols. New York: Academic Press.
+
+Camilli, G. & Hopkins, K. D. (1979). Testing for association in 2 3 2 contingency tables with
+
+very small sample sizes. Psychological Bulletin, 86, 1011–1014.
+
+Dunn,  J.,  Brown,  J.,  Slomkowski,  C.,  Tesla,  C.,  &  Youngblade,  L. M.  (1991).  Young  chil-
+dren’s understanding of other people’s feelings and beliefs: Individual differences and their
+antecedents. Child Development, 62, 1352–1366.
+
+Dunn,  L. M.,  Dunn,  L. M.,  Whetton,  C.,  &  Pintilie,  D.  (1982).  Picture  Vocabulary  Scale.
+
+Windsor, UK: NFER-Nelson.
+
+Fernyhough,  C.  (1996).  The  dialogic  mind:  A  dialogic  approach  to  the  higher  mental  func-
+
+tions. New Ideas in Psychology, 14, 47–62.
+
+Fonagy,  P.,  Redfern,  S.,  &  Charman,  A.  (1997).  The  relationship  between  belief-desire  rea-
+soning  and  a  projective  measure  of  attachment  security  (SAT).  British  Journal  of
+Developmental Psychology, 15, 51–61.
+
+Fonagy, P., Steele, M., Steele, H., Higgitt, A. C., & Target, M. (1994). The Emmanuel Miller
+Memorial Lecture 1992: The theory and practice of resilience. Journal of Child Psychology
+and Psychiatry, 35, 231–257.
+
+George,  C.,  Kaplan,  N.,  &  Main,  M.  (1985).  The  Adult  Attachment  Interview. Unpublished
+
+manuscript. University of California at Berkeley.
+
+Harris,  P. L.  (1991).  The  work  of  the  imagination.  In  A.  Whiten  (Ed.),  Natural  theories  of
+mind: Evolution, development  and  simulation  of  everyday  mindreading.  Oxford,  UK:  Basil
+Blackwell.
+
+Harris,  P. L.  (1992).  From  simulation  to  folk  psychology:  The  case  for  development.  Mind
+
+and Language, 7, 120–144.
+
+Harris, P. L., Johnson, C. L., Hutton, D., Andrews, G., & Cooke, T. (1989). Young children’s
+
+theory of mind and emotion. Cognition and Emotion, 3, 379–400.
+
+Hobson,  R. P.  (1993).  Autism  and  the  development  of  mind.  Hove:  Lawrence  Erlbaum
+
+Associates.
+
+Howell, D. C. (1992). Statistical methods for psychology. Belmont, CA: Duxbury Press.
+Isabella,  R. A.  (1993).  Origins  of  attachment:  Maternal  interactive  behavior  across  the  ﬁrst
+
+year. Child Development, 64, 605–621.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+Attachment and Mentalising Abilities 23
+
+James, W. (1890). Principles of psychology. New York: Holt.
+Jöreskog, K. G. & Sörbom, D. (1989). LISREL 7 User’s reference guide. Chicago: Scientiﬁc
+
+Software Inc.
+
+Klagsbrun, M. & Bowlby, J. (1976). Responses to separation from parents: A clinical test for
+
+young children. British Journal of Projective Psychology and Personality Study, 21, 7–26.
+
+Lalonde, C. E. & Chandler, M. J. (1995). False belief understanding goes to school: On the
+social-emotional consequences of coming early or late to a ﬁrst theory of mind. Cognition
+and Emotion, 9, 167–185.
+
+Lamb, M. E., Hwang, C. P., Frodi, A., & Frodi, M. (1982). Security of mother- and father-
+attachment  and  its  relation  to  sociability  with  strangers  in  traditional  and  nontraditional
+Swedish families. Infant Behavior and Development, 5, 355–367.
+
+Leslie,  A. M.  (1987).  Pretense  and  representation:  The  origins  of  ‘theory  of  mind’.
+
+Psychological Review, 94, 412–426.
+
+Leslie,  A. M.  (1991).  The  theory  of  mind  impairment  in  autism:  Evidence  for  a  modular
+mechanism  of  development?  In  A.  Whiten  (ed.),  Natural  theories  of  mind.  Oxford:  Basil
+Blackwell.
+
+Lewis, C., Freeman, N. H., Kyriakidou, C., Maridaki-Kassotaki, K., & Berridge, D. (1996).
+Social inﬂuences on false belief access: Speciﬁc sibling inﬂuences or general apprenticeship?
+Child Development 67, 2930–2948.
+
+Lewis,  V.  &  Boucher,  J.  (1988).  Spontaneous,  instructed  and  elicited  play  in  relatively  able
+
+autistic children. British Journal of Developmental Psychology, 6, 325–339.
+
+Lillard,  A. S.  (1993).  Pretend  play  skills  and  the  child’s  theory  of  mind. Child  Development,
+
+64, 348–371.
+
+Main, M. (1991). Metacognitive knowledge, metacognitive monitoring, and singular (coher-
+ent)  vs.  multiple  (incoherent)  model  of  attachment:  Findings  and  directions  for  future
+research. In C.M. Parkes, J. Stevenson-Hinde, and P. Marris (Eds.), Attachment across the
+life cycle. London: Routledge.
+
+Main,  M.  &  Weston,  D. R.  (1982).  Avoidance  of  the  attachment  ﬁgure  in  infancy:
+Descriptions and interpretations. In C.M. Parkes and J. Stevenson-Hinde (Eds.), The place
+of attachment in human behavior. New York: Basic.
+
+Matas, L., Arend, R. A., & Sroufe, L. A. (1978). Continuity of adaptation in the second year:
+The relationship between quality of attachment and later competence. Child Development,
+49, 547–56.
+
+Meddis, R. (1984). Statistics using ranks: A uniﬁed approach. Oxford: Basil Blackwell.
+Meins, E. (1992). The correlates and consequences of infant attachment behaviour. Unpublished
+
+doctoral dissertation, University of Cambridge.
+
+Meins, E. (1997a). Security of attachment and maternal tutoring strategies: Interaction within
+the  zone  of  proximal  development.  British  Journal  of  Developmental  Psychology, 15,
+129–144.
+
+Meins,  E.  (1997b).  Security  of  attachment  and  the  social  development  of  cognition.  Hove:
+
+Psychology Press.
+
+Meins, E. & Russell, J. (1997). Security and symbolic play: The relation between security of
+attachment and executive capacity. British Journal of Developmental Psychology, 15, 63–76.
+Mueller, C. W. & Parcel, T. L. (1981) Measures of socioeconomic status: Alternatives and rec-
+
+ommendations. Child Development, 52, 13–30.
+
+Perner, J. (1991). Understanding the representational mind. Cambridge, MA: MIT Press.
+Perner, J., Ruffman, T., & Leekam, S. R. (1994). Theory of mind is contagious: You catch it
+
+from your sibs. Child Development, 65, 1228–1238.
+
+Ruffman,  T.,  Perner,  J.,  Naito,  M.,  Parkin,  L.,  &  Clements,  W. A.  (1996).  Older  (but  not
+
+younger) siblings facilitate belief understanding. Manuscript submitted for publication.
+
+Slade, A. (1987). Quality of attachment and early symbolic play. Developmental Psychology,
+
+23, 78–85.
+
+Taylor, M., Cartwright, B. S., & Bowden, T. (1991). Perspective taking and theory of mind:
+Do  children  predict  interpretive  diversity  as  a  function  of  differences  in  observers’  know-
+ledge? Child Development, 62, 1334–1351.
+
+van IJzendoorn, M. H., Dijkstra, J., & Bus, A. G. (1995). Attachment, intelligence, and lan-
+
+guage: A meta-analysis. Social Development, 4, 115–128.
+
+Vygotsky, L. S. (1978). Mind in society: The development of higher psychological processes (M.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+24 Elizabeth Meins et al.
+
+Cole,  V.  John-Steiner,  S.  Scribner,  and  E.  Souberman,  Eds.),  Cambridge,  MA:  Harvard
+University Press.
+
+Wimmer, H. & Perner, J. (1983). Beliefs about beliefs: Representation and constraining func-
+tion  of  wrong  beliefs  in  young  children’s  understanding  of  deception.  Cognition, 13,
+103–128.
+
+Wood, D. J. & Middleton, D. (1975). A study of assisted problem-solving. British Journal of
+
+Psychology, 66, 181–191.
+
+Wood, D. J., Bruner, J., & Ross, G. (1976). The role of tutoring in problem-solving. Journal
+
+of Child Psychology and Psychiatry, 17, 89–100.
+
+Wood, D. J., Wood, H., & Middleton, D. (1978). An experimental evaluation of four face-to-
+
+face teaching strategies. International Journal of Behavioral Development, 1, 131–147.
+
+Youngblade, L. M. & Dunn, J. (1995). Individual differences in young children’s pretend play
+with mother and sibling: Links to relationships and understanding of other people’s feelings
+and beliefs. Child Development, 66, 1472–1492.
+
+Notes
+
+1. The results of this study are published in full in Meins, E. and Russell, J. (1997).
+2. In the studies reported here, security of attachment was treated as a dichotomous variable (secure
+versus insecure), since the numbers of children in the three insecure categories were too small for statisti-
+cal analysis. Group means for the avoidant, resistant and disorganised categories were comparable for all
+of the measures reported here.
+
+3. The ﬁrst author was formally trained in the strange situation coding procedure, and was deemed to
+have  reached  the  required  level  of  competence.  The  second  coder  had  previous  experience  in  coding
+strange situations, and had reached agreement with other experienced coders.
+
+4. The results of the box construction study are published in full in Meins, E. (1997a).
+5. This shrinkage of the sample from Study Two was due to the necessity of administering the unex-
+pected transfer task at an age when individual differences in performance were most likely to show up.
+Participants  were  thus  only  tested  if  they  were  within  two  months  of  their  fourth  birthday,  an  age  at
+which ﬂoor and ceiling effects would be least likely to occur (Perner, 1991).
+
+6. It might be argued that a better measure of mentalising ability would be obtained by asking the test
+question ﬁrst, followed by the control questions. However, C. Lewis (unpublished data) has shown that
+reversing the order of questions has no effect on children’s performance on this task. A further point of
+debate concerns the use of the ‘knowledge’ question as a control. We propose that a genuine failure to
+understand  the  representational  nature  of  mind,  as  opposed  to  a  failure  to  understand  informational
+access, would require the subject to be aware that Charlie does not know where the chocolate is, while still
+predicting his search behaviour on the basis of its actual location.
+
+7. Meddis (1984), among others, has argued that the Fisher exact test is inappropriate when marginal
+totals are not ﬁxed, and presents an alternative test for 2 3 2 contingency tables. The effect of security of
+attachment was signiﬁcant on Meddis’ test, Z 5 2.28, p , .025, and on a standard x2 test, x2 (1, N 5 21)
+5 5.45, p , .05. Despite the low sample size, the lack of skewness in the marginal totals means that the
+results of the x2 test can be assumed to be valid (Bradley, Bradley, McGrath and Cutcomb, 1979; Camilli
+and Hopkins, 1979; Howell, 1992).
+
+8. We are grateful to an anonymous reviewer for making this interesting point.
+
+© Blackwell Publishers Ltd. 1998
+
+Social Development, 7, 1, 1998
+
+

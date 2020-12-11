@@ -1,0 +1,1707 @@
+Journal of Child Psychology and Psychiatry 43:7 (2002), pp 849–860
+
+The cost of understanding other people: social
+cognition predicts young children’s sensitivity
+
+to criticism
+
+Alexandra L. Cutting1 and Judy Dunn2
+1University of Reading, UK; 2Kings College London, UK
+
+Background: Individual differences in sensitivity to teacher criticism, and their links with individual
+differences in social cognition, were examined in 141 young children from diverse family backgrounds.
+Methods: Children’s sensitivity to teacher criticism was assessed in their ﬁrst year of school (mean age
+5.13 years), using a puppet scenario in which a teacher criticises the child for making an error in school
+work. Understanding of false belief and mixed emotions was assessed at the same time. One hundred
+and thirteen of the children had been seen one year earlier in preschool, when comprehensive
+assessments were made of false belief and emotion understanding. Results: Individual differences were
+apparent in children’s sensitivity to teacher criticism, which were correlated with individual differences
+in both preschool and concurrent social cognition: children with more advanced social cognition were
+more sensitive to teacher criticism. Regression analyses showed that preschool social cognition was
+especially important, explaining unique variance in sensitivity to criticism over and above variance
+accounted for by concurrent sociocognitive ability. Conclusions: The results suggest that there are
+costs as well as beneﬁts to understanding other people, at least for young children, and that individual
+differences in early social cognition may have distinct developmental trajectories. These issues, along
+with implications for research into children’s responses to criticism and failure, are discussed.
+Keywords: Individual differences, preschool children, school children, social cognition, theory of mind.
+
+The ability to understand and interpret other
+people’s thoughts, feelings, actions, intentions and
+meaning is essential for successful social interaction
+in human society. Research has shown that most
+young children have developed a basic ‘theory of
+mind’, enabling them to attribute independent
+mental states, by around four or ﬁve years of age
+(Wellman, Cross, & Watson, 2001; Flavell, 2000). It
+is also apparent, however, that there are marked
+individual differences in social understanding at this
+age (e.g., Bartsch & Estes, 1996; Cutting & Dunn,
+1999). Some young children show much less un-
+derstanding of the intentions, feelings and mental
+states of the people around them than do others of
+their age. The importance of individual differences in
+understanding of mind and emotion is now ac-
+knowledged (e.g., Astington, 1993, 2001). Recent
+research has shown that individual differences in
+these aspects of social understanding have distinct
+correlates, and are meaningful in children’s everyday
+lives. For example, individual differences in under-
+standing of mind and emotion have been related to
+differences in the quantity and quality of children’s
+pretend play (Astington & Jenkins, 1995; Hughes &
+Dunn, 1997; Youngblade & Dunn, 1995), to chil-
+dren’s friendship interactions (Dunn & Cutting,
+1999), social skills (Watson, Nixon, Wilson, & Ca-
+page, 1999; Lalonde & Chandler, 1995), and to their
+moral sensibility (Dunn, Brown, & Maguire, 1995;
+Dunn, Cutting, & Demetriou, 2000). The origins of
+individual differences in social understanding are
+
+not fully understood, but both genetic and environ-
+mental inﬂuences have been shown to contribute
+(Hughes & Cutting, 1999). More proximally, factors
+such as verbal ability (Happe´, 1995; Jenkins & As-
+tington, 1996), family background (Cutting & Dunn,
+1999), and family talk about inner states (Dunn,
+Brown, Slomkowski, Tesla, & Youngblade, 1991)
+have been found to predict individual differences in
+theory of mind and emotion understanding.
+
+Somewhat less is known about the sequelae of
+individual differences in early social understanding.
+What implications does a well-developed (or limited)
+understanding of other people’s thoughts, intentions
+and feelings have for young children’s lives? Are
+there long-term implications as well as short-term
+effects? It has been argued that individual differ-
+ences in emotional understanding and other aspects
+of social cognition are implicated in problems in
+children’s relationships with other children (e.g.,
+Pettit, Bates, & Dodge, 1997; Rubin, Bukowski, &
+Parker, 1998). Longitudinal studies also show that
+the sequelae of individual differences in early social
+understanding include differences in later mental-
+state talk with friends, pretend play, and insight into
+friendships (Dunn, 1995; Hughes & Dunn, 1997;
+Dunn, Cutting, & Fisher, in press).
+
+Although it is accepted that individual differences
+in understanding of mind and emotion are import-
+ant, there is a tacit assumption in much of the lit-
+erature that a more advanced, or mature theory of
+mind is an advantage. Being good at ‘reading minds’
+
+Ó Association for Child Psychology and Psychiatry, 2002.
+Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UK and 350 Main Street, Malden, MA 02148, USA
+
+850
+
+Alexandra L. Cutting and Judy Dunn
+
+and interpreting behaviour may well offer certain
+advantages; a child who is sensitive to the thoughts
+and feelings of those around her may ﬁnd it easier to
+get along with her peers, make friends, or get her
+own point of view across, for example. However, it is
+also possible that having a well-developed under-
+standing of other people’s thoughts, intentions and
+feelings could be a disadvantage in some situations.
+In the often competitive, rough-and-tumble world of
+early childhood, it is possible that an advanced and
+accurate understanding of other children’s motives,
+or an early sensitivity to disparaging remarks and
+less-than-pure intentions,
+for example, may be
+damaging to a sense of self that is only just devel-
+oping. To a child with a well-developed ability to
+interpret others’ behaviour, the social world may
+sometimes seem a hostile place. Consistent with this
+possibility, Dunn (1995) found that ability to explain
+false belief at 40 months correlated with self-reports of
+negative experiences in kindergarten two years later.
+One area in which advanced social cognition may
+be a disadvantage for young children is with respect
+to criticism. When young children start school, one
+of the major challenges they face is learning to cope
+with criticism, however constructive, of their work,
+and sometimes of their abilities. How children meet
+this challenge, and respond to failure, is known to
+have serious long-term consequences, which can
+extend beyond childhood (Dweck, 1986). Children
+with mature sociocognitive understanding, who are
+more able to ‘read into’ what their teacher says, may
+take criticism to heart more seriously than children
+who are less able to interpret other people’s opinions
+and comments. Alternatively, well-developed social
+cognition may help children to deal with criticism;
+maybe children who are better at understanding
+others will be more able to rationalise teacher criti-
+cism, and understand that criticism of school work
+is generally intended to promote learning and
+improvement.
+
+Until recently, it had been thought that children
+under the age of 9 or 10 years were relatively im-
+mune to the effects of criticism and failure, largely
+because younger children were not thought to be
+capable of invariant trait conceptions (see Burhans
+& Dweck, 1995, for a review). Recent work by Dweck
+and her colleagues, however, has established that
+children as young as 4 or 5 years of age are sensitive
+to criticism, and that there are distinct patterns and
+individual differences in young children’s responses
+to failure (Smiley & Dweck, 1994; Burhans & Dweck,
+1995; Kamins & Dweck, 1999). Some children show
+a ‘mastery-oriented’ pattern of response. These
+children are likely to maintain positive affect in the
+face of failure, are more persistent in their problem-
+solving, expect that their performance will improve
+with future effort, and are more likely to attribute
+failure to lack of effort or task difﬁculty than to de-
+ﬁciencies in their own ability. A second group of
+children show a ‘helpless’ pattern of response to
+
+failure. In the face of failure, helpless children are
+likely to experience negative affect, engage in negat-
+ive self-cognitions, give up easily and do not expect
+future success. While the helpless pattern of re-
+sponding is not necessarily ‘set in stone’ (it can be
+altered by support and training, for example (Ames,
+1990, cited in Smiley & Dweck, 1994)), it has been
+shown to carry long-term consequences, and is
+considered to be maladaptive in the school learning
+environment (Burhans & Dweck, 1995).
+
+Exploring these response patterns, Heyman,
+Dweck, and Cain (1992) examined group differences
+in young children’s responses to criticism from
+teachers, comparing children who did not appear to
+take teacher criticism into account when rating their
+own work with children who downgraded their own
+appraisal of their work following teacher criticism.
+Children who were sensitive to criticism displayed an
+overall response pattern similar to that shown by
+helpless children in response to failure – they re-
+ported negative affect, rated themselves as ‘bad’, and
+were less persistent. Burhans and Dweck (1995)
+propose that the helpless pattern of responding is
+intimately linked to children’s feelings of self-worth,
+in particular to feelings of contingent self-worth (i.e.,
+the belief that one’s self-worth is dependent on the
+success or failure of one’s achievements). How others
+judge one’s achievements – with criticism or praise,
+they argued, has a large inﬂuence on one’s sense of
+self-worth.
+
+However, this explanation pre-supposes an ability
+to infer and interpret other people’s beliefs from their
+comments, and young children differ markedly in
+their ability to do this (Riggs & Robinson, 1995).
+Sensitivity to criticism at age 4 or 5 may thus reﬂect
+a child’s sociocognitive ability, rather than (or as well
+as) the belief that one’s self-worth is contingent upon
+other people’s judgements. A child who does not
+display a helpless pattern of response in the face of
+criticism may indeed have a more robust sense of
+self-worth than a ‘helpless’ child. Alternatively, that
+child may simply have failed to interpret a critical
+comment, effectively not noticing its implications. If
+this is correct, then children who are particularly
+sensitive to criticism should be good at inferring and
+interpreting other people’s beliefs – that is, they
+would be expected to have relatively mature social
+cognition. Only one study has examined this link to
+our knowledge. Dunn (1995) assessed children’s
+ability to explain false belief at 40 months. As well as
+ﬁnding that this predicted children’s reports of neg-
+ative experiences in kindergarten, Dunn noted that
+these children were also more sensitive to teacher
+criticism, in that they were more likely to take ac-
+count of such criticism when rating the quality of
+their own work. This study was small
+in scale,
+however, and the ﬁnding requires replication.
+
+In this study we examine whether early under-
+standing of mind and emotion predicts later sensi-
+tivity to criticism – in this case, teacher criticism in
+
+Social Cognition Special Section: Social cognition and sensitivity to criticism
+
+851
+
+primary school – in a large sample of children from
+diverse family backgrounds. Criticism has both a
+cognitive intentional component and an emotional
+component. We therefore made comprehensive
+assessments of several aspects of social cognition,
+including
+false belief understanding, affective
+perspective-taking, and understanding of emotional
+causes and mixed emotions. We used a version of
+Heyman et al.’s (1992) method to assess children’s
+responses to teacher criticism, examining whether
+children took criticism into account when rating
+their work and ability, and also their emotional
+response to the criticism. We expected that there
+would be signiﬁcant associations between children’s
+social cognition and their response to criticism;
+speciﬁcally, we predicted that children with more
+advanced sociocognitive skills would be more sensi-
+tive to criticism than children with less mature social
+cognition. The only previous study to suggest a link
+between sensitivity to criticism and social cognition
+(Dunn, 1995) found that early understanding of false
+belief predicted later sensitivity to criticism. Since
+this link may actually be via association with current
+understanding of false belief, we assessed children’s
+sociocognitive skills both prior to assessing sensi-
+tivity to criticism, and concurrently.
+
+Method
+
+Participants
+
+One hundred and forty-one children (mean age
+5.13 years, range 4.42–5.72) took part in this study.
+The children attended primary schools in South Lon-
+don, and were participating in a longitudinal study of
+friendship. Children came about equally from middle
+class and working class backgrounds, the latter inclu-
+ding some neighbourhoods of considerable urban de-
+privation. Sixty-eight per cent were White, 26% were
+Black or Mixed race, and 6% were from other ethnic
+groups. One hundred and thirteen of the children had
+been seen a year previously, in nursery school (mean
+age 4.16 years); 28 children were newly recruited to the
+study.
+
+Procedure
+
+Data were collected at two time points;
+initially in
+preschool, and then a year later, after children had
+made the transition to primary school.
+
+Time 1: Preschool measures. Children were seen
+twice in preschool (visits conducted, on average, 1 week
+apart) and once at home (on average, 3 weeks later). A
+battery of false belief and emotion understanding tests
+was administered over the course of
+these visits.
+Information on family background was collected from
+parents. Not every test or questionnaire was completed,
+for various reasons (e.g., absence from school), so the N
+varied slightly across tasks.
+
+Time 1 theory of mind tasks. In this study, preschool
+theory of mind ability was indexed by an aggregate
+
+score of children’s success on a total of seven false belief
+tasks, all of which involved predicting, explaining or
+recalling a false belief. The tasks included four unex-
+pected location tasks (2 prediction, 2 explanation),
+based on those of Bartsch and Wellman (1989), and
+three unexpected contents false belief tasks, two based
+on tasks by Harris, Johnson, Hutton, Andrews, and
+Cooke (1989), and the ‘Can’t sleep’ task from Hughes,
+Dunn, and White (1998). These tasks are described in
+full detail in Cutting and Dunn (1999) (where their
+interrelations were explored). Brieﬂy, in a typical unex-
+pected location task, children were presented with a
+prototypical box and a plain box, and shown that the
+prototypical box was empty, while the plain box con-
+tained the item in question. They were then asked
+where a puppet, who was ignorant of the contents,
+would search for the item (or why the puppet was
+searching in the prototypical box), and where the item
+was really located. In the unexpected contents tasks,
+the contents of a container were swapped in a charac-
+ter’s absence. Children were then asked what the
+character thought was in the container, and what it
+really contained. In the ‘Can’t sleep’ task, children were
+shown the pages of a story book, each of which had a
+hole through which an animal’s eye could be seen. On
+the last page, what appeared to be another eye trans-
+pired to be a spot on a snake’s tail. Children were asked
+what a puppet would think he could see through the
+hole before the last page was turned, and what it was
+really. In all cases, both the test and reality control
+questions must be answered correctly to pass the task.
+Children scored 1 point for each false belief task
+passed, except in the 2 explanation tasks where 2
+points were awarded for spontaneous explanations and
+1 for prompted explanations. Inter-task correlations
+were high, with virtually every task correlating signiﬁ-
+cantly (p < .01) with every other task; Cronbach’s alpha
+was .80. Together, the 7 tasks provided children with a
+maximum of 9 points. An aggregate score was calcu-
+lated for each child by pro-rating the child’s mean score
+(excluding tasks where the child failed the control
+questions, or did not complete the task) to give an
+equivalent score out of 9.
+
+Time 1 emotion understanding. Two procedures were
+used to assess children’s emotion understanding. First,
+children’s affective perspective-taking ability was as-
+sessed using Denham’s (1986) task. Children had to
+name and indicate four emotions (happy, sad, angry
+and scared) illustrated on felt faces. A puppet then
+enacted 16 vignettes portraying situations in which the
+protagonist felt happiness, sadness, anger or fear, such
+as going to the zoo, seeing a parent off on a trip, having
+a toy hidden by a sibling, or having a bad dream.
+Children had to identify how the puppet felt in each
+vignette. In the ﬁrst 8 vignettes, the puppet felt what
+most children would typically feel in the given situation.
+In the other 8 vignettes the puppet’s emotion differed
+from the emotion that
+the mother said the child
+typically expressed in such a situation (established
+beforehand by interviewing the mother). For each
+vignette in Denham’s procedure, children scored 2
+points for a correct emotional identiﬁcation, 1 for the
+correct valence but wrong speciﬁc emotion (e.g., ‘sad’
+instead of ‘scared’), and zero for a completely incorrect
+answer (e.g., ‘happy’ instead of ‘angry’). Scores were
+
+852
+
+Alexandra L. Cutting and Judy Dunn
+
+summed across the 16 affective perspective-taking
+scenarios (maximum score ¼ 32; Cronbach’s alpha
+¼ .73).
+The second procedure used to examine children’s
+emotion understanding was an interview based on that
+used by Cassidy, Parke, Butkovsky, and Braungart
+(1992).
+In this interview, children were asked to
+identify each of four emotions (happy, sad, angry and
+scared), and were asked what made themselves, their
+mothers and their friends feel each emotion (see Dunn
+& Hughes, 1998, for fuller details). Children’s respons-
+es were recorded and transcribed verbatim. The ad-
+equacy of each response was coded on a 5-point scale
+in which 0 ¼ no response, denial; 1 ¼ poor response,
+including irrelevant remarks, misunderstanding the
+causal nature of question, or suggesting a very
+unlikely cause; 2 ¼ adequate response,
+including
+one-word or simple causes which were appropriate
+and plausible (e.g., friend, scared: ‘Monsters’); 3 ¼
+including relevant appropriate sen-
+good response,
+tence, or more than one adequate response (e.g.,
+mother, happy: ‘When someone bought her ﬂowers’);
+4 ¼ excellent response, including elaborate response
+or evidence of insight (e.g., self, happy: ‘Fireworks.
+They’re gonna be at the one o’clock club. I’ll be very
+happy because I haven’t seen it before’). Scores were
+summed across all 4 emotions and 3 people to give a
+total understanding of emotional causes score (maxi-
+mum score ¼ 48). Agreement on coding was assessed
+by two coders rating transcripts from 25 children;
+Cohen’s kappa was .87.
+
+Verbal ability. Children’s verbal skills were assessed
+using a measure of receptive vocabulary (long form of
+the British Picture Vocabulary Scale (BPVS: Dunn,
+Dunn, Whetton, & Pintilie, 1982)).
+
+Family background. Family background information
+was collected when a child joined the study and was
+assessed using four indicators: mother’s and father’s
+occupational class and education level. Whilst it is true
+that occupation and education do not necessarily
+correlate with income level, in British samples occupa-
+tional class, which is highly correlated with educational
+level, ‘has proved robust as a marker variable for socio-
+economic position’ (Ofﬁce of Population Censuses and
+Surveys, 1991, vol. 3, p. 11). Parental occupational
+class was classiﬁed using the Standard Occupational
+Classiﬁcation (Ofﬁce of Population Censuses and Sur-
+veys, 1991). Categories included skilled and unskilled
+manual or non-manual positions, managerial or tech-
+nical positions, and professional positions. In cases
+where a parent was not currently working, most recent
+occupation was categorised. Parental educational level
+was classiﬁed according to the following scheme: no
+qualiﬁcations, up to GCSE/O level (national examina-
+tions taken at 15/16 years), up to A level (equivalent to
+United States high school graduation), degree or higher.
+A principal components analysis of the four indicators
+yielded a single family background factor that explained
+71.2% of the variance in the items. The four indicators
+were therefore standardised and averaged to yield a
+single family background composite, with higher scores
+corresponding to higher socio-economic status and
+education. In broad terms, the sample at the current
+time point was 46% working class and 54% middle
+class.
+
+In each case,
+
+Time 2: School measures. Sensitivity to criticism.
+Children’s sensitivity to teacher criticism was assessed
+1.5–2 terms after starting primary school, using a
+procedure based on Heyman et al. (1992). Children
+were presented with two interactive puppet scenarios in
+which they pretended to work hard to create a product
+(writing numbers or drawing a family), but made a small
+error (leaving out a number or missing the feet off a
+person).
+the story was told by the
+experimenter in the second person, and the puppet
+was given the child’s own name. Children were asked to
+imagine that they were the puppet, which was then
+used to enact the story. Once the product was created,
+it was shown, with pride, to a puppet teacher. One
+scenario ended at that point, without a response from
+the teacher. In the other scenario, the teacher pointed
+out the error and criticised the child (e.g., ‘The number
+2 is missing. That’s not what I call writing numbers the
+right way. I’m disappointed in you’). The two scenarios
+(failure without and with criticism – henceforth referred
+to as ‘failure’ and ‘criticism’ respectively) were presented
+in counterbalanced order. After each scenario, children
+were asked a series of questions which required them to
+reﬂect upon how they felt, and how they rated their own
+ability, after the criticism/failure incident. First, chil-
+dren were asked whether they felt happy, sad, or angry
+about what had happened, with a forced choice answer
+(yes or no) for each emotion. One point was given for
+each positive response (feeling happy, not feeling sad,
+not feeling angry), the points being summed to reﬂect
+overall quality of Emotional Response (0 ¼ most
+negative, 3 ¼ most positive). Second, children were
+asked to assign their imaginary product a grade (tick or
+cross), and to rate their ability at the activity as ‘good or
+not good’. Again, one point was assigned for each
+positive response (tick, ‘good’), and these were summed
+to give an overall Ability Rating (0 ¼ most negative, 2
+¼ most positive). Finally, children were asked for a
+Teacher Response; they were given the teacher puppet
+and told ‘Now you are the teacher. What would you do
+and say to (child’s name)?’ Spoken responses were
+recorded and transcribed verbatim, and any physical
+responses were noted (e.g., hitting or hugging the child
+puppet). Children’s teacher responses were coded as
+follows: 0 ¼ no response, irrelevant response or ‘don’t
+know’ (these responses were subsequently treated as
+missing data); 1 ¼ strongly negative (aggressive criti-
+cism, punishment, threats and insults, and physical
+violence); 2 ¼ mildly negative (pointing out the error,
+telling the child to re-do the product, mild critical
+comments); 3 ¼ neutral (comments such as ‘Oh yes’ or
+‘ Thank you’, and comments of indeterminate valence);
+4 ¼ positive (praise, encouragement, treating the error
+as an amusing joke). Coding reliability was checked by
+double-coding 25 scripts; agreement between coders
+was 100%. Finally, following Heyman et al.’s (1992)
+procedure, to ensure that children did not leave the test
+session feeling bad, children imagined they were the
+child puppet again, and completed a puzzle success-
+fully. The teacher puppet then admired the puzzle,
+complimented the child and apologised for the earlier
+criticism.
+
+Time 2 theory of mind (ﬁrst- and second-order false
+belief). Children’s false belief understanding at the
+second time point was tested using two story book false
+
+Social Cognition Special Section: Social cognition and sensitivity to criticism
+
+853
+
+belief tasks (based on Sullivan, Zaitchik, & Tager-
+Flusberg, 1994). Each story involved ﬁrstly a ﬁrst-order
+false belief, then a second-order false belief. Children
+were questioned about both false beliefs. In one story,
+John (falsely) tells Mary some chocolate is in the fridge,
+when in fact he put it in a tin. Children were asked
+where Mary thought the chocolate was (ﬁrst-order false
+belief), plus a reality control question (where is the
+chocolate really?). If both questions were passed, the
+story proceeded to a second-order false belief: Mary
+then sees John taking chocolate from the tin, without
+him realising that she has seen. Children were then
+asked a second-order false belief question (Where does
+John think Mary will look for the chocolate?), and two
+further control questions. Children were credited with
+one point for correct answers to each false belief
+question, providing they also passed all control ques-
+tions. Scores were summed across the two stories
+(maximum score ¼ 4).
+
+Time 2 emotion understanding: mixed emotions. A
+story-telling interview based on that developed by
+Gordis, Rosen, and Grand (1989) was used to assess
+children’s understanding of situations in which a
+person can feel two emotions of opposite valence. Two
+sets of stories were presented; in the ﬁrst set, children
+were explicitly told that the protagonist felt two con-
+ﬂicting emotions and were asked to explain why. In the
+second set, children were told stories, and asked what
+the character felt (the correct answer being two con-
+ﬂicting emotions). There were three stories in each set.
+Finally children were asked whether they had ever
+experienced both a positive and a negative emotion at
+the same time, and if so, to describe the occasion.
+Children’s responses were tape-recorded and tran-
+scribed. For the six stories, scores were 0 for no
+emotions explained/stated, 1 for one emotion, or 2 for
+two opposite-valenced emotions for each story. In the
+‘own story’ condition, 2 points were given if the children
+provided plausible explanations for
+two opposite-
+valenced emotions. Children’s responses were summed
+across the three conditions (maximum possible score
+¼ 14 points, Cronbach’s alpha for the scale ¼ .74).
+Time 2 verbal ability. Children’s verbal skills were
+assessed again at time 2, using the long form of the
+British Picture Vocabulary Scale (BPVS: Dunn, Dunn,
+Whetton, & Pintilie, 1982).
+
+Results
+
+We ﬁrst present descriptive results for the social
+cognition and background measures. These are fol-
+lowed by an analysis of the sensitivity to criticism
+task, and an examination of links between sensitivity
+to criticism and both early and concurrent social
+cognition.
+
+Social cognition and background measures
+
+A wide range of individual differences was apparent
+in all of the social cognition measures. Means and
+standard deviations for each domain are shown in
+Table 1, along with background measures (family
+background, language and age). The various measures
+
+Table 1 Descriptive statistics for social cognition and back-
+ground measures
+
+Measure
+
+M
+
+SD
+
+Range
+
+Time 1 – Preschool
+
+Theory of mind time 1
+Affective perspective-
+
+taking
+
+Emotional causes
+BPVS time 1
+Family background
+Agea
+
+Time 2 – School
+
+Theory of mind time 2
+Mixed emotions
+BPVS time 2
+Agea
+
+3.82
+27.24
+
+23.82
+97.05
+).08
+4.17
+
+1.36
+8.37
+98.90
+5.13
+
+2.91
+3.73
+
+9.39
+11.98
+3.30
+.32
+
+1.49
+2.49
+14.10
+.30
+
+0–9
+
+13–32
+
+0–41
+
+71–131
+)7.26–4.97
+3.50–4.80
+
+0–4
+1–14
+
+61–132
+4.42–5.72
+
+BPVS = British Picture Vocabulary Scale.
+a Age in years.
+
+of social cognition were signiﬁcantly positively
+correlated, within and across time points, with two
+exceptions.
+
+Understanding of emotional causes in preschool
+was not signiﬁcantly correlated with preschool af-
+fective perspective-taking (r(104) ¼ .14) or with time
+2 false belief understanding (r(107) ¼ .09), and time
+2 false belief understanding was not signiﬁcantly
+correlated with time 2 understanding of mixed
+emotions (r(133) ¼ .04). Otherwise, all correlations
+were signiﬁcant at p < .01 (r > .25). Of particular
+relevance, the time 1 and time 2 measures of false
+belief understanding were
+signiﬁcantly related
+(r(112) ¼ .25, p < .01), as were the time 1 and time 2
+measures of emotion understanding (r(>100) > .30, p
+< .01). All of the social cognition measures were
+signiﬁcantly positively correlated with children’s
+language scores (rs (>106) > .28, ps < .01), as would
+be expected (e.g., Cutting & Dunn, 1999; Happe´,
+1995). As a whole, this was also true for social cog-
+nition and the family background factor, although
+correlations did not reach signiﬁcance in the cases of
+time 1 emotional causes or time 2 false belief.
+
+Sensitivity to criticism
+
+The results of the criticism and failure task are
+shown in Table 2 (note that lower scores indicate
+more negative responses, and thus greater sensitiv-
+ity to criticism/failure). Preliminary analysis showed
+that neither gender nor presentation order of the
+scenarios affected the results, so these variables
+were not included in the subsequent analysis. In
+addition, children’s responses to criticism and fail-
+ure were unrelated to their language scores (either
+previously or concurrently), age, or their family
+background.
+
+Paired t-tests comparing children’s responses to
+criticism and failure conﬁrmed that the children re-
+sponded more negatively when they were criticised:
+t(140) ¼ )7.28, p < .001;
+Emotional Response,
+
+854
+
+Alexandra L. Cutting and Judy Dunn
+
+Table 2 Descriptive statistics for sensitivity to criticism task
+
+Emotional Response
+Ability Rating
+Teacher Response
+
+M
+
+1.15
+.67
+1.87
+
+Criticism
+
+(SD)
+
+(1.01)
+(.81)
+(1.08)
+
+Failure (no criticism)
+
+Range
+
+0–3
+0–2
+1–4
+
+M
+
+1.92
+1.23
+2.53
+
+(SD)
+
+(1.10)
+(.85)
+(1.22)
+
+Range
+
+0–3
+0–2
+1–4
+
+Lower score denotes more negative response.
+
+Table 3 Correlations between responses to criticism/failure and social cognition measures
+
+Measure
+
+Time 1 – Preschool
+
+Theory of mind time 1
+Affective perspective-taking
+Emotional causes
+
+Time 2 – School
+
+Theory of mind time 2
+Mixed emotions
+
+** p < .01; * p < .05; + p < .06.
+
+Emotional
+Response
+
+).07
+.00
+).03
+
+).14
+).02
+
+Criticism
+
+Ability
+Rating
+
+).24*
+).29**
+).21*
+
+).20*
+).02
+
+Teacher
+Response
+
+Emotional
+Response
+
+).10
+).12
+.07
+
+).18+
+.23*
+
+).21*
+).16
+).04
+
+).08
+).17*
+
+Failure
+
+Ability
+Rating
+
+).18+
+).27**
+.03
+
+.03
+).07
+
+Teacher
+Response
+
+.09
+).22*
+.04
+
+.05
+.08
+
+Ability Rating, t(131) ¼ )6.39, p < .001; Teacher
+Response, t(106) ¼ )4.88, p < .001. Individual dif-
+ferences were also apparent, as is clear from the
+distribution of scores shown in Table 2.
+
+Within the criticism task, children’s Emotional
+Response was related to their Ability Rating (r(134)
+¼ .45, p < .01), but neither was signiﬁcantly related
+to the Teacher Response. Within the failure task,
+Emotional Response and Ability Rating were again
+quite strongly related (r(133) ¼ .45, p < .01); both
+were signiﬁcantly correlated with Teacher Response,
+but only weakly so (rs ¼ .20 and .22, ps < .05, for
+Emotional Response and Ability Rating respectively).
+
+Does social cognition predict sensitivity to criticism?
+
+Having established that children had noticed, and
+responded to, the criticism, we addressed the prin-
+cipal question of the study – whether children’s
+sensitivity to criticism was predicted by their social
+cognition. Our prediction was that this would be the
+case, and more speciﬁcally, that children with more
+advanced social cognition would prove more sensi-
+tive to criticism. The most fundamental
+index of
+children’s response to criticism is their Ability
+Rating, which reﬂects directly on their perception of
+self. We expected that this variable in particular
+would be predicted by children’s sociocognitive
+ability, since children better able to interpret another
+person’s comments, thoughts and feelings should be
+more able, and likely, to interpret the criticism as
+reﬂecting upon themselves and their ability.
+
+Initially, we examined correlations between chil-
+dren’s responses in the criticism and failure scen-
+arios, and their social cognition concurrently and
+as preschoolers. These correlations are shown in
+
+Table 3. Verbal ability, age at each time point, and
+family background are not included in the table,
+since they did not correlate signiﬁcantly with any
+measure of response to criticism or failure.1
+
+Examining Table 3, it can be seen that the overri-
+ding pattern of association between children’s social
+cognition and sensitivity to criticism is one of neg-
+ative correlation.
+In other words, children with
+higher social cognition scores were more sensitive to
+criticism. A similar pattern holds for sensitivity to
+failure (without criticism), but it is less clear. It must
+be noted, however, that the correlations shown in
+Table 3 are individually very modest, and with
+Bonferroni corrections applied for multiple testing,
+several fall below signiﬁcance. This is not to say that
+social cognition as a whole does not predict sensi-
+tivity to criticism, however. In order to test our a
+priori hypothesis directly, we ran a series of hier-
+archical multiple regressions. For each of the out-
+come variables in the criticism task (Emotional
+Response, Ability Rating and Teacher Response), we
+ran two regressions. In the ﬁrst regression, the pre-
+school social cognition measures (theory of mind,
+affective perspective-taking, emotional causes) were
+entered as predictors in a single block. In the second
+
+1Although verbal ability did not correlate signiﬁcantly with the
+children’s responses to criticism and failure, it was correlated
+positively with the measures of social cognition at each time
+point, as would be expected. For the sake of caution, the
+correlations shown in Table 3 were re-run, partialling out
+verbal ability at each time point. The pattern of correlations
+remained the same in terms of signiﬁcance for all correlations
+bar one (the correlation between Ability Rating when criticised
+and Emotional Causes now fell just below signiﬁcance, at
+p < .08).
+
+Social Cognition Special Section: Social cognition and sensitivity to criticism
+
+855
+
+regression, we entered the concurrent social cogni-
+tion measures (theory of mind, mixed emotions) as
+predictors, again in a single block. For comparative
+purposes, the same series of regressions were run for
+the failure (without criticism) task. The results are
+shown in Table 4.
+
+The results of the regressions indicate that the
+social cognition variables taken together do predict
+sensitivity to criticism. The direction of effect – one of
+negative association – is clear from the correlation
+table (see Table 3).
+
+The primary index of children’s sensitivity to cri-
+ticism, their Ability Rating in the face of criticism, was
+clearly predicted by both early (preschool, age four)
+social cognition and concurrent (one year later, age
+ﬁve) social cognition, although preschool social cog-
+nition appears to be a stronger predictor (see
+Table 4). But does the link with preschool social
+cognition reﬂect an early ability that has a distinct
+developmental trajectory, and leaves children espe-
+cially sensitive to later criticism, or are these do-
+mains simply linked by association with concurrent
+social cognition? In other words, does early social
+cognition contribute independently to children’s
+sensitivity to criticism, explaining variance beyond
+that which can be attributed to concurrent social
+cognition? In order to investigate the relative contri-
+butions of early and concurrent social understand-
+ing, we ran a further set of regressions with Ability
+Rating when criticised as the dependent variable.
+Initially, we entered the preschool social cognition
+measures (theory of mind, affective perspective-
+taking, emotional causes) and the concurrent social
+cognition measures (theory of mind, mixed emotions)
+together, in order to establish the total variance ex-
+plained by these variables in combination. Ten per
+cent of the variance in children’s Ability Ratings fol-
+lowing criticism was explained by these variables
+(adjusted R2 ¼ .10, F (5,88) ¼ 3.04, p < .02). The
+preschool social cognition variables were then sep-
+arated into a second step, to investigate whether they
+contributed signiﬁcant unique variance, beyond that
+explained by the concurrent social cognition meas-
+ures. The same process was repeated with the con-
+current variables, to establish whether they also
+contributed unique variance to children’s response
+
+to criticism. The results showed that preschool
+social cognition did contribute signiﬁcant variance
+over and above that contributed by concurrent so-
+cial cognition (D R2 ¼ .076, D F ¼ 2.61, p < .05).
+Concurrent social cognition however, did not con-
+tribute signiﬁcant unique variance (D R2 ¼ .024,
+D F ¼ 1.23, ns).
+
+Children’s Ability Ratings in response to failure
+were not predicted by their concurrent social under-
+standing, but were predicted by preschool social
+cognition: children with more advanced sociocogni-
+tive abilities as preschoolers were signiﬁcantly more
+likely to rate themselves poorly following failure.
+
+Children’s Emotional Response to being criticised
+was not signiﬁcantly predicted by either the pre-
+school sociocognitive measures, or concurrent social
+cognition. Children with less well-developed social
+cognition were just as upset (or unaffected) at being
+criticised as those with more mature social under-
+standing. However, this may be an artefact of the
+methodology used. Children were asked how they
+felt about ‘what happened with the (e.g.) picture’
+prior to the three forced-choice options of happy, sad
+and angry. The experimenters felt that at least some
+children interpreted this question to be referring to
+the speciﬁc error they had made rather than to the
+error plus critical teacher appraisal. The fact that
+children’s Emotional Response in the face of failure
+(when an error is made but is not criticised) was
+predicted by concurrent social cognition supports
+this possibility – examining the pattern of correla-
+tions in Table 3, it appears that children who had a
+greater concurrent understanding of mixed emotions
+were more upset by failure (i.e., gave a less positive
+Emotional Response in the Failure task). This is a
+very small effect, however, so it should be viewed
+with some caution.
+
+The Teacher Responses that children produced
+following criticism were predicted by concurrent so-
+cial cognition. This relationship is difﬁcult to inter-
+pret, however. Children with a better understanding
+of mixed emotions gave more positive, supportive
+Teacher Responses, but there was also a trend in the
+opposite direction for children with higher concur-
+rent theory of mind scores (see Table 3). Teacher
+Responses following failure were not predicted by
+
+Table 4 Regression analyses examining prediction of responses to criticism/failure by social cognition measures
+
+Criticism
+
+Failure
+
+Emotional Response
+Ability Rating
+Teacher Response
+
+Emotional Response
+Ability Rating
+Teacher Response
+
+** p < .01; * p < .05.
+
+Preschool social cognition (1 year earlier)
+
+School social cognition (concurrent)
+
+Adjusted R2
+
+.030
+.103
+).001
+
+.025
+.050
+.056
+
+F
+
+.001
+
+4.75 **
+
+.97
+
+1.90
+2.70 *
+2.63
+
+Adjusted R2
+
+.006
+.034
+.084
+
+.034
+).011
+).011
+
+F
+
+1.41
+3.37 *
+6.03 **
+
+3.33 *
+
+.33
+.41
+
+856
+
+Alexandra L. Cutting and Judy Dunn
+
+preschool or concurrent social cognition. This is
+perhaps unsurprising, since in the failure condition,
+the teacher did not respond to the error made by the
+child, and there was thus little motivation for chil-
+dren to give any speciﬁc type of Teacher Response.
+
+Discussion
+
+The aim of this study was to examine whether early
+sociocognitive understanding predicted sensitivity to
+criticism – in this case, teacher criticism in primary
+school – in a sample of children from diverse family
+backgrounds. The results indicate that early social
+cognition does predict sensitivity to criticism. More
+speciﬁcally, it was clear that the ﬁve-year-olds who
+were most sensitive to teacher criticism were the
+children who had more advanced social under-
+standing, both at the time, and in preschool a year
+earlier. Our results have implications for research
+into criticism and self-worth, as well as for research
+into social cognition.
+
+The ﬁrst result worth noting is that, as a group, the
+ﬁve-year-olds in this study were sensitive to criti-
+cism; they reacted signiﬁcantly more negatively in
+response to criticised failure than in response to
+non-criticised failure, for all three measures taken
+(their Emotional Response, Ability Rating and Tea-
+cher Response). This ﬁnding supports recent reports
+published by Dweck and colleagues (Smiley &
+Dweck, 1994; Burhans & Dweck, 1995; Kamins &
+Dweck, 1999), which claim that children as young as
+four or ﬁve are sensitive to criticism. The diverse
+range of family backgrounds involved in our study
+also give stronger ecological validity to Dweck and
+colleagues’ ﬁndings (whose subjects were from mid-
+dle and upper-middle class families). Second, our
+results suggest a signiﬁcant link between young
+children’s response to criticism and their under-
+standing of mind and emotion: children with more
+advanced understanding of mind and emotion
+showed greater sensitivity to criticism. Measures of
+children’s theory of mind and emotion understand-
+ing explained about 10% of variance in sensitivity to
+criticism; clearly, social cognition does not fully ex-
+plain individual differences in sensitivity to criticism,
+but it is a signiﬁcant factor which has been largely
+overlooked in research on response to criticism to
+date.
+
+Within the task used to assess children’s sensi-
+tivity to teacher criticism, there were three measures
+of the children’s responses – their Emotional Re-
+sponse, Ability Rating and Teacher Response. Chil-
+dren’s sociocognitive ability predicted some of these
+measures but not others. How children responded
+emotionally to teacher criticism was not predicted by
+their earlier social cognition. This was unexpected,
+but there are at least two potential explanations for
+the lack of association. One explanation is that all
+the children felt similarly upset when criticised, but
+
+only those with good sociocognitive skills reﬂected on
+the criticism, or interpreted it further. As such, it
+may be that while all the children were able to tell us
+how they felt following teacher criticism, only those
+with good emotion understanding properly under-
+stood or interpreted their own emotional response.
+This would lead to the overall pattern of results seen.
+A second possible explanation for the lack of corre-
+lation between early social cognition and children’s
+Emotional Responses is that some children may
+have misunderstood the emotion questions. Anec-
+dotally, testers noted that several children seemed to
+be referring to making the error itself, rather than to
+being criticised, when asked how they felt ‘about
+what happened’. For example, one child reported
+negative feelings and spontaneously added that this
+was because ‘I don’t like making mistakes’; another
+said he felt angry ‘cos I did it wrong’. This cannot
+fully explain the results, as children reported signi-
+ﬁcantly more negative feelings when criticised than
+when there was no criticism, but may have had some
+inﬂuence. As such, the lack of correlation between
+children’s Emotional Response and social cognition
+should be viewed with caution.
+
+Children’s ratings of their own ability following
+criticism were clearly predicted by their sociocogni-
+tive skills, especially their abilities at age four (in
+preschool): children with better developed theory of
+mind and emotion understanding gave themselves
+signiﬁcantly lower Ability Ratings following criticism.
+The Ability Rating is the measure that most directly
+reﬂects children’s sense of self-worth following the
+criticism. Burhans and Dweck (1995) argue that
+‘conceptions and goals pertaining to the self as a
+whole and one’s general sense of self worth’ (p. 1731)
+are critical
+in determining helplessness in young
+children, following failure or criticism, and speciﬁc-
+ally, that ‘it is a sense of contingent worth that is the
+earliest and most basic condition for helplessness to
+occur [in young children]’ (p. 1736). It is noteworthy,
+therefore, that children’s early sociocognitive ability
+predicted their judgements of their own ability and
+by inference their self-worth, following criticism. In
+combination with Dweck and colleagues’ ﬁndings,
+our results raise some interesting possibilities. The
+most logical explanation of the links we found be-
+tween social cognition and Ability Ratings is that
+children who were more adept at representing belief
+and emotions were more hurt by the criticism, as
+they understood their own emotional response and
+had a better understanding of the internal beliefs
+and feelings which motivated the teacher’s criticism.
+These children were more likely to say that the cri-
+ticism made them feel that they were ‘not good’ at the
+task in hand, which raises the possibility that ad-
+vanced social cognition at a young age could be re-
+lated to developing a sense of contingent self-worth.
+Children’s representations of themselves, and their
+self-concepts, are rapidly developing at the age when
+they ﬁrst start school (Harter, 1998, 1999). Perhaps
+
+Social Cognition Special Section: Social cognition and sensitivity to criticism
+
+857
+
+those with precocious social understanding, who are
+particularly sensitive to other people’s meanings at a
+time when their sense of self is not fully developed,
+are more likely to ‘take on board’ what others say
+about them, and build this into their sense of self.
+This could potentially lead to a sense of contingent
+self-worth, and ultimately a helpless pattern of
+responding to future failure or criticism.
+
+On the other hand, sensitivity to criticism is not
+necessarily a bad thing – negative feedback is
+important to learning as well as positive feedback.
+Children who are more sensitive to criticism may be
+in a better position to learn from constructive criti-
+cism (and thus to improve their performance in the
+longer term) than those who are less affected by
+critical remarks. Within the context of social rela-
+tionships, children who are more sensitive to criti-
+cism may be better placed to react to criticism from
+others and modify their behaviour accordingly –
+raising the possibility that sensitivity to criticism is
+one route via which young children exercise their
+social cognition in social
+interactions. There has
+been very little research on this topic; the potential
+effects, both negative and positive, of sensitivity to
+criticism (and especially early sensitivity) are clearly
+in need of further investigation. The ﬁndings repor-
+ted here suggest that early sensitivity to criticism has
+negative effects, in as much as children downgraded
+their Ability Rating after being criticised, but this is
+a short-term effect;
+longer-term effects may not
+necessarily all be negative.
+
+The ﬁnal measure we took in the sensitivity to
+criticism task was to ask children to take on the role
+of the teacher and follow up the criticism with a
+further response. There were wide individual differ-
+ences in children’s Teacher Responses – some en-
+acted the teacher giving positive encouragement or
+praise, others enacted punishment and scolding. No
+clear pattern emerged with respect to links between
+children’s socio-cognitive ability and their Teacher
+Responses. The only signiﬁcant correlation we found
+was with children’s current understanding of mixed
+emotions; those with better understanding of mixed
+emotions gave more positive Teacher Responses. As
+a whole, however, social cognition did not predict
+children’s Teacher Responses. We suggest that Tea-
+cher Responses may more directly reﬂect tempera-
+mental and personality factors, or children’s real
+experiences with their own teachers.
+
+The results of this study also have implications for
+research into social cognition and its development.
+As noted in the introduction, there has been a ﬂurry
+of recent research into predictors and correlates of
+social understanding, but little is known about the
+developmental consequences of understanding that
+mental states such as beliefs and feelings inﬂuence
+people’s behaviour. It might be assumed that gaining
+this understanding has very broad developmental
+beneﬁts. Clearly, social cognition is extremely
+important – we know that individuals who have a
+
+deﬁcit or delay in their social understanding (for
+example, due to autism or deafness) experience
+serious long-term difﬁculties as a result (Baron-
+Cohen, 1989; Peterson & Siegal, 1998). The results
+of this study demonstrate that normative individual
+differences in children’s early social understanding
+are also important for their future development, and
+in addition, that having an advanced understanding
+of the links between mind, emotion and behaviour
+may have negative consequences as well as positive
+results. Being able to understand the role of mental
+states in determining behaviour allows children to
+‘read minds’, and is an advantage in many ways,
+such as allowing children to participate in shared
+pretend play, develop closer friendships, empathise,
+joke and comfort. At the same time, however, they
+become aware of what other people think of and feel
+about them, which may not always be positive.
+
+In this study, we found that children’s preschool
+social understanding is of particular signiﬁcance in
+predicting sensitivity to criticism (explaining unique
+variance over and above variance explained by con-
+current social cognition). This indicates that devel-
+opments in social understanding that are in place by
+around four years of age may have a special signiﬁ-
+cance: individual differences at this age may have
+distinct developmental trajectories. This is not to say
+that the level of early sociocognitive understanding a
+child possesses at the age of four is determinative.
+Indeed, a recent series of cross-sectional studies by
+Bartsch and London (2000) suggests that children’s
+ability to use their sociocognitive skills continues to
+develop well beyond the preschool years. But our
+results do suggest that early abilities are particularly
+important in the realm of social understanding. The
+pattern of results shown in Table 3 shows that the
+children who had well-developed social cognition
+skills as preschoolers were more sensitive to both
+criticism and failure a year later (although the effect
+was stronger for criticism), while those who had good
+concurrent social cognition reacted only to the ex-
+plicit criticism. This pattern suggests that having
+more advanced sociocognitive skills at age four leads
+children to have a different, but not necessarily more
+advantageous, experience of the social world than
+children whose early social understanding is less
+advanced.
+
+How children’s self-concepts and self-esteem re-
+late to early social understanding may be an im-
+portant avenue for future research. Do children with
+greater sociocognitive skills early in life have more
+fragile self-esteem at a later date, for example? These
+children may be more sensitive to criticism, but is
+that damaging, or actually a useful learning experi-
+ence for an able child? Poorer social cognition has
+been related to several less desirable outcomes, such
+as disruptive behaviour and aggression (Arsenio &
+Fleiss, 1996; Dodge & Frame, 1982; Hughes et al.,
+1998), but can it also be an advantage in certain
+situations? Do children with poorer social cognition
+
+858
+
+Alexandra L. Cutting and Judy Dunn
+
+in the preschool years gain a serendipitous immu-
+nity from the effect of criticism, for example? Could
+this lead to a more positive sense of self, and explain
+why some aggressive children have positive self-
+esteem (Gresham, MacMillan, Bocian, Ward, &
+Forness, 1998)?
+
+A few comments should be made about
+
+the
+limitations of this study. A degree of caution is
+warranted in interpreting the results, as the corre-
+lations, although signiﬁcant and predictive in
+nature, are very modest.
+In the study’s favour,
+however, is a large and socio-economically diverse
+sample, which is rare in research in social cognition.
+As well as further investigation of the ‘costs’ of
+understanding other people, this study suggests
+new avenues for research into young children’s
+sensitivity to failure and criticism. It should be noted
+that while we used very comprehensive measures of
+social cognition, the sensitivity to criticism task was
+relatively simple. The task has been shown to be
+appropriate for children of this age (Heyman et al.,
+1992), but it would obviously be sensible to employ
+multiple measures to assess sensitivity to criticism
+in future research. These could include tasks
+designed to examine children’s responses to criti-
+cism from other sources. We chose to investigate
+teacher criticism in this study, since we felt it to be
+especially salient for children who have just started
+school, but it is by no means certain that children’s
+responses to teacher criticism can be generalised
+across sources. How young children cope with cri-
+ticism from parents, peers, friends or siblings, for
+example, remains largely unexplored. Criticism from
+peers may be especially important, given the im-
+portance of early peer relations for later development
+(Rubin et al., 1998; Kupersmidt, Coie, & Dodge,
+1990). Lastly, this study examined the inﬂuence of
+individual differences in social understanding over
+just one year. This is a particularly important year in
+the life of a young child, involving the transition to
+school, but future studies will need to examine
+longer-term sequelae of
+individual differences in
+social understanding.
+
+In summary, the results of this study indicate
+signiﬁcant links between early social cognition and
+children’s later sensitivity to criticism. This is the
+ﬁrst clear indication, to our knowledge, that there
+may be costs as well as beneﬁts to understanding
+other people well, early in life. There have been
+suggestions that good sociocognitive skills can be
+put to bad use, for example by some types of bully
+(Sutton, Smith, & Swettenham, 1999), and that
+some children may have a ‘theory of nasty minds’,
+showing better sociocognitive ability within negative
+domains such as antisocial behaviour (Happe´ &
+Frith, 1996) or mean tricks (Hughes et al., 1998).
+Our results suggest that even within a normative
+population, there may be a downside to well-devel-
+oped or precocious social cognition. The extent of this
+‘downside’ and its long-term implications require
+
+further investigation if we are to understand fully the
+role of social cognition in everyday life.
+
+Acknowledgements
+
+This study was supported by a grant to Judy Dunn
+from the National Institute of Child Health and
+Human Development (grant HD23158). We would
+like to thank all the families and schools who parti-
+cipated in the study, and the researchers and staff
+involved in The Friendship Project. The data for this
+study were collected while both the authors were at
+the Institute of Psychiatry.
+
+Correspondence to
+
+Alexandra Cutting, Department of Psychology, Uni-
+versity of Reading, Earley Gate, Whiteknights,
+Reading RG6 6AL, UK; Tel: 0118 931 6225; Fax:
+0118 931 6715; Email: a.l.cutting@reading.ac.uk
+
+References
+
+Arsenio, W., & Fleiss, K. (1996). Typical and behaviour-
+ally disruptive children’s understanding of the emo-
+tional consequences of socio-moral events. British
+Journal of Developmental Psychology, 14, 173–186.
+
+Astington, J.W. (1993). The child’s discovery of the
+
+mind. Cambridge, MA: Harvard University Press.
+
+Astington, J.W. (2001). The future of theory-of-mind
+research: Understanding motivational states, the role
+of
+language, and real-world consequences. Child
+Development, 72, 685–687.
+
+Astington, J.W., & Jenkins, J.M. (1995). Theory of mind
+development and social understanding. Cognition
+and Emotion, 9, 151–165.
+
+Baron-Cohen, S. (1989). The autistic child’s theory of
+mind: A case of speciﬁc developmental delay. Journal
+of Child Psychology and Psychiatry, 30, 285–297.
+
+Bartsch, K., & Estes, D. (1996). Individual differences
+in children’s developing theory of mind and implica-
+tions for metacognition. Learning and Individual
+Differences, 8, 281–304.
+
+Bartsch, K., & London, K. (2000). Children’s use of
+mental state information in selecting persuasive
+arguments. Developmental Psychology, 36, 352–365.
+Bartsch, K., & Wellman, H. (1989). Young children’s
+attribution of action to beliefs and desires. Child
+Development, 60, 946–964.
+
+Burhans, K.K., & Dweck, C.S. (1995). Helplessness in
+early childhood: The role of contingent worth. Child
+Development, 66, 1719–1738.
+
+Cassidy, J.C., Parke, R.D., Butkovsky, L., & Braungart,
+J.M. (1992). Family-peer connections: The roles of
+emotional expressiveness within the family and chil-
+dren’s understanding of emotions. Child Develop-
+ment, 63, 603–618.
+
+Cutting, A.L., & Dunn, J.
+
+(1999). Theory of mind,
+emotion understanding, language and family back-
+ground: Individual differences and inter-relations.
+Child Development, 70, 853–865.
+
+Social Cognition Special Section: Social cognition and sensitivity to criticism
+
+859
+
+Denham, S.A. (1986). Social cognition, prosocial be-
+havior, and emotion in preschoolers: Contextual
+validation. Child Development, 57, 194–201.
+
+Dodge, K.A., & Frame, C. (1982). Social cognitive biases
+and deﬁcits in aggressive boys. Child Development,
+51, 620–635.
+
+Dunn, J. (1995). Children as psychologists: The later
+correlates of individual differences in understanding
+of emotions and other minds. Cognition and Emotion,
+9, 187–201.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., &
+Youngblade, L. (1991). Young children’s understand-
+ing of other people’s feelings and beliefs: Individual
+differences and their antecedents. Child Development,
+62, 1352–1366.
+
+Dunn, J., Brown, J.R., & Maguire, M. (1995). The
+development of children’s moral sensibility: Individ-
+ual differences and emotion understanding. Develop-
+mental Psychology, 31, 649–659.
+
+Dunn, J., & Cutting, A.L. (1999). Understanding others,
+and individual differences in friendship interactions
+in young children. Social Development, 8, 201–219.
+
+Dunn, J., Cutting, A.L., & Demetriou, H. (2000). Moral
+sensibility, understanding others, and children’s
+friendship interactions in the preschool period.
+British Journal Of Developmental Psychology, 18,
+159–177.
+
+Dunn, J., Cutting, A.L., & Fisher, N. (in press). Old
+friends, new friends: Predictors of children’s perspec-
+tives on their friends at school. Child Development.
+
+Dunn, L.M., Dunn, L.M., Whetton, C., & Pintilie, D.
+(1982). British picture vocabulary scale. Windsor, UK:
+NFER-Nelson.
+
+Dunn, J., & Hughes, C.
+
+(1998). Young children’s
+understanding of emotions within close relationships.
+Cognition and Emotion, 12, 171–190.
+
+Dweck, C.S.
+
+(1986). Motivation processes affecting
+
+learning. American Psychologist, 41, 1040–1048.
+
+Flavell, J.H. (2000). Development of children’s know-
+ledge about the mental world. International Journal of
+Behavioral Development, 24, 15–23.
+
+Gordis, F.W., Rosen, A.B., & Grand, S. (1989). Young
+children’s understanding of simultaneous conﬂicting
+emotions. Paper presented at the Biennial meeting
+of the Society for Research in Child Development.
+Kansas City, MO, April.
+
+Gresham, F.M., MacMillan, D.L., Bocian, K.M., Ward,
+S.L., & Forness, S.R. (1998). Comorbidity of hyper-
+activity-impulsivity-inattention and conduct prob-
+lems: Risk factors in social, affective, and academic
+domains. Journal of Abnormal Child Psychology, 26,
+393–406.
+
+Happe´, F.G.E. (1995). The role of age and verbal ability
+in the theory of mind task performance of subjects
+with autism. Child Development, 66, 843–855.
+
+Happe´, F., & Frith, U. (1996). Theory of mind and social
+impairment in children with conduct disorder. British
+Journal of Developmental Psychology, 14, 385–398.
+
+Harter, S. (1998). The development of self-representa-
+tions. In W. Damon & N. Eisenberg (Eds.), Handbook
+of child psychology (5th edn) volume 3: Social, emo-
+tional and personality development (pp. 553–617).
+New York: Wiley.
+
+Harter, S. (1999). The construction of the self: A devel-
+
+opmental perspective. London: Guildford Press.
+
+Harris, P.L., Johnson, C., Hutton, D., Andrews, G., &
+Cooke, T. (1989). Young children’s theory of mind and
+emotion. Cognition and Emotion, 3, 379–400.
+Heyman, G.D., Dweck, C.S., & Cain, K.M.
+
+(1992).
+Young children’s vulnerability to self-blame and
+helplessness: Relationship to beliefs about goodness.
+Child Development, 63, 401–415.
+
+Hughes, C., & Cutting, A.L. (1999). Nature, nurture,
+and individual differences in early understanding of
+mind. Psychological Science, 10, 429–432.
+
+Hughes, C., & Dunn, J. (1997). ‘Pretend you didn’t
+know’: Preschoolers’ talk about mental states in
+pretend play. Cognitive Development, 12, 381–403.
+
+Hughes, C., Dunn, J., & White, A. (1998). Trick or
+treat?: Uneven understanding of mind and emotion
+and executive function among ‘hard to manage’
+preschoolers. Journal of Child Psychology and Psy-
+chiatry, 39, 981–994.
+
+Jenkins, J.M., & Astington, J.W.
+
+(1996). Cognitive
+factors and family structure associated with theory
+of mind development in young children. Developmen-
+tal Psychology, 32, 70–78.
+
+Kamins, M.L., & Dweck, C.S. (1999). Person versus
+process praise and criticism: Implications for contin-
+gent self-worth and coping. Developmental Psychol-
+ogy, 35, 835–847.
+
+Kupersmidt, J.B., Coie, J.D., & Dodge, K.A. (1990). The
+role of poor peer relationships in the development of
+disorder.
+In S.R. Asher & J.D. Coie (Eds.), Peer
+rejection in childhood: Cambridge studies in social
+and emotional development. New York: Cambridge
+University Press.
+
+Lalonde, C.E., & Chandler, M.J. (1995). False belief
+understanding goes to school: On the social-emo-
+tional consequences of coming early or late to a ﬁrst
+theory of mind. Cognition and Emotion, 9, 167–185.
+
+Ofﬁce of Population Censuses and Surveys (1991).
+London:
+
+Standard Occupational Classiﬁcation.
+HMSO.
+
+Peterson, C.C., & Siegal, M. (1998). Changing focus on
+the representational mind: Deaf, autistic and normal
+children’s concepts of false photos, false drawings
+and false beliefs. British Journal of Developmental
+Psychology, 16, 301–320.
+
+Pettit, G.S., Bates, J.E., & Dodge, K.A. (1997). Sup-
+portive parenting, ecological context, and children’s
+adjustment: A seven-year longitudinal study. Child
+Development, 68, 908–923.
+
+Riggs, K.J., & Robinson, E.J. (1995). What people say
+and what they think: Children’s judgements of false
+belief in relations to their recall of false messages.
+British Journal of Developmental Psychology, 13, 271–
+284.
+
+interactions,
+
+Rubin, K.H., Bukowski, W., & Parker, J.G. (1998).
+Peer
+In
+W. Damon and N. Eisenberg (Eds.), Handbook of
+child psychology (5th edn) volume 3: Social, emo-
+tional and personality development (pp. 619–700).
+New York: Wiley.
+
+relationships and groups.
+
+Smiley, P.A., & Dweck, C.S. (1994). Individual differ-
+ences in achievement goals among young children.
+Child Development, 65, 1723–1743.
+
+Sullivan, K., Zaitchik, D., & Tager-Flusberg, H. (1994).
+Preschoolers can attribute 2nd-order beliefs. Devel-
+opmental Psychology, 30, 396–402.
+
+860
+
+Alexandra L. Cutting and Judy Dunn
+
+Sutton, J., Smith, P.K., & Swettenham, J.
+
+(1999).
+Bullying and ‘theory of mind’: A critique of the ‘social
+skills deﬁcit’ view of anti-social behaviour. Social
+Development, 8, 117–127.
+
+Watson, A.C., Nixon, C.L., Wilson, A., & Capage, L.
+(1999). Social interaction skills and theory of mind
+in young children. Developmental Psychology, 35,
+386–391.
+
+Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-
+analysis of theory-of-mind development: The truth
+
+false belief. Child Development, 72, 655–
+
+about
+684.
+
+Youngblade, L.M., & Dunn, J. (1995). Individual differ-
+ences in young children’s pretend play with mother
+and sibling: Links to relationships and understand-
+ing of other people’s feelings and beliefs. Child Devel-
+opment, 66, 1472–1492.
+
+Manuscript accepted 22 October 2001
+
+

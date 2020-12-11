@@ -1,0 +1,2464 @@
+A Two-Year Longitudinal Study of Stressful Life Events, Social Support, and Social 
+Problem-Solving Skills: Contributions to Children's Behavioral and Academic 
+Adjustment
+Author(s): Eric F. Dubow, John Tisak, David Causey, Ann Hryshko and Graham Reid 
+Source: Child Development, Jun., 1991, Vol. 62, No. 3 (Jun., 1991), pp. 583-599  
+Published by: Wiley on behalf of the Society for Research in Child Development 
+
+ 
+
+Stable URL: http://www.jstor.com/stable/1131133
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide 
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and 
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. 
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at 
+https://about.jstor.org/terms
+
+Wiley and Society for Research in Child Development are collaborating with JSTOR to digitize, 
+preserve and extend access to Child Development
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ A Two-Year Longitudinal Study of Stressful
+ Life Events, Social Support, and Social
+ Problem-Solving Skills: Contributions
+ to Children's Behavioral and
+ Academic Adjustment
+
+ Eric F. Dubow, John Tisak, David Causey, Ann Hryshko,
+ and Graham Reid
+
+ Bowling Green State University
+
+ DuBOw, ERIC F.; TISAK, JOHN; CAUSEY, DAVID; HRYSHKO, ANN; and REID, GRAHAM. A Two-Year
+ Longitudinal Study of Stressful Life Events, Social Support, and Social Problem-Solving Skills:
+ Contributions to Children's Behavioral and Academic Adjustment. CHILD DEVELOPMENT, 1991,
+ 62, 583-599. We investigated the contributions of stressful life events and resources (social
+ support and social problem-solving skills) to predicting changes in children's adjustment. At
+ Time 1, 361 third through fifth graders completed measures of social support and social problem-
+ solving skills. Their parents completed a stressful life events scale and a child behavior rating
+ measure. The children's teachers provided ratings of behavioral and academic adjustment. 2-year
+ follow-up data (Time 2) were obtained for approximately half of the sample on the same mea-
+ sures. Time 1 stressful life events and resources showed some significant but modest zero-order
+ correlations with the Time 2 adjustment indices. Hierarchical multiple regressions revealed
+ prospective effects for Time 1 social support on later teacher-rated competencies and grade-point
+ average. In addition, increases over time in social support and social problem-solving skills (a
+ composite score) were significantly related to improvement in behavioral and academic adjust-
+ ment, whereas stressful life events were not predictive of adjustment.
+
+ There is now a great deal of evidence
+
+ supporting a relation between exposure to
+ cumulative stressful life events (e.g., paren-
+ tal separation/divorce, change in school or
+ residence, mother becoming employed) and
+ emotional and behavioral maladjustment in
+ children and adolescents (e.g., Compas,
+ Howell, Phares, Williams, & Giunta, 1989;
+ Dubow & Tisak, 1989). Because the rela-
+ tions are only modest in magnitude, re-
+ searchers have begun to examine the con-
+ tribution of environmental and personal
+ resources to predicting adjustment in chil-
+ dren (Compas, 1987; Rutter, 1987). For the
+ most part, these studies have been cross-
+ sectional in nature, and are thus unable to
+ address the potential etiological impact of
+ stressful life events and resource variables
+ on adjustment. The few prospective studies
+ involving children and adolescents (Cohen,
+ Burt, & Bjorck, 1987; Compas et al., 1989;
+ Gersten, Langner, Eisenberg, & Simcha-
+
+ Fagan, 1977; Swearingen & Cohen, 1985)
+ have generally focused on children past the
+ elementary school ages and have generally
+ placed more emphasis on the contribution of
+ risk factors rather than resource variables.
+
+ Gersten et al. (1977) found that mothers'
+
+ reports of their children's stressful life
+ events failed to predict behavioral adjust-
+ ment 5 years later, after controlling for initial
+ level of adjustment and other chronic pro-
+ cesses (sociodemographic, family environ-
+ ment, and parenting variables). Swearingen
+ and Cohen (1985) utilized self-reports of life
+ events and adjustment (anxiety and depres-
+ sion) in a 5-month prospective study of sev-
+ enth and eighth graders. After controlling for
+ Time 1 adjustment, Time 2 stressful events
+ failed to predict Time 2 adjustment. In a
+ study with a larger sample of seventh and
+ eighth graders, Cohen et al. (1987) found
+ that after controlling for Time 1 adjustment,
+
+ This research was supported by a grant awarded to the first author by the Ohio Board of
+ Regents Research Challenge program. Thanks are due to the anonymous reviewers for their
+ helpful comments. Thanks are also due to the Toledo and Northwood school systems in Ohio
+ for their cooperation and support of this research project. Requests for reprints should be sent
+ to Eric F. Dubow, Department of Psychology, Bowling Green State University, Bowling Green,
+ OH 43403.
+
+ [Child Development, 1991, 62, 583-599. ? 1991 by the Society for Research in Child Development, Inc.
+ All rights reserved. 0009-3920/91/6203-0011$01.00]
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 584 Child Development
+
+ Time 2 controllable events, but not un-
+ controllable events, significantly predicted
+ Time 2 adjustment, but Time 1 events had
+ no effect on Time 2 adjustment. Compas et
+ al. (1989), however, did find significant ef-
+ fects for Time 1 stressful events on the sub-
+ sequent adjustment of 10-15-year-olds, but
+ the percentage of variance explained was
+ only 2%.
+
+ ables from baseline levels. However, find-
+ ings of significant relations between changes
+ in these variables and changes in adjustment
+ are open to a reverse causal explanation (i.e.,
+ changes in adjustment may cause changes in
+ events or social support). The present study
+ allows for the examination of both prospec-
+ tive relations and whether changes in stress-
+ ors and resources are related to changes in
+ adjustment.
+
+ In addition, the prospective studies re-
+
+ viewed above focused primarily on the con-
+ tribution of stressful life events and other
+ risk factors, rather than resources (for excep-
+ tions, see Burt, Cohen, and Bjorck [1988]
+ and Glyshaw, Cohen, and Towbes [1989]).
+ As noted by Compas (1987), if we are to un-
+ derstand processes enhancing positive de-
+ velopment and preventing maladjustment,
+ we must examine resources available to
+ cope with stressors. The present study fo-
+ cused on two such resources reviewed by
+ Compas (1987): social support and social
+ problem-solving skills.
+
+ Social support has been described by
+ Cobb (1976) as information leading the indi-
+ vidual to perceive that he or she is cared for,
+ esteemed, and valued by members of his or
+ her social network. Barrera (1986) has de-
+ fined three separate elements of social sup-
+ port: perceived support, or an appraisal that
+ one's network values and cares for the indi-
+ vidual; social embeddedness, or the quan-
+ tity and identity of network members; and
+ enacted support, or actual supportive behav-
+ iors provided by network members. Sarason,
+ Shearin, Pierce, and Sarason (1987) pre-
+ sented data suggesting that these measures
+ all assess the extent to which one feels cared
+ for and accepted.
+
+ Studies of children's social support have
+
+ examined two models of the role of this re-
+ source variable: the main effect model hy-
+ pothesizes a direct relation between social
+ support and adjustment, whereas the buf-
+ fering model hypothesizes an interaction be-
+ tween stress and social support such that
+ high levels of social support moderate the
+ negative effects of stress on adjustment (Co-
+ hen & Wills, 1985). Compas (1987) notes that
+ studies of youngsters show strong support
+ for a direct relation between social support
+ and adjustment, suggesting a generalized
+ beneficial effect of social support, regardless
+ of level of stressors. In contrast, only a few
+ studies have found that stressors interacted
+ significantly with social support in pre-
+ dicting adjustment, and these interactions
+
+ These results call into question any
+
+ strong etiological effect of stressful life
+ events on subsequent adjustment in chil-
+ dren and adolescents. A few aspects of these
+ studies should be highlighted. In terms of
+ the data analysis strategies, Cohen et al.
+ (1987) describe two approaches commonly
+ followed in prospective stressful life events
+ research and the problems inherent in each
+ approach. The "longitudinal approach" as-
+ sesses the relation between Time 2 events
+ (events occurring within the past several
+ months but assessed at Time 2) and Time 2
+ adjustment after controlling for Time 1 ad-
+ justment; this approach examines the ability
+ of Time 2 stressors to predict change in ad-
+ justment from Time 1 to Time 2. However,
+ it is possible that some third variable (e.g.,
+ disturbed parent-child relations) actually
+ causes both stressors and adjustment. In ad-
+ dition, a reverse causal explanation is pos-
+ sible; changes in adjustment may cause
+ changes in stressors. The second approach,
+ the "prospective approach," examines the
+ relation between Time 1 stressors and Time
+ 2 adjustment after controlling for Time 1 ad-
+ justment. This approach tests the effect of
+ Time 1 stressors on change in adjustment
+ and may be useful if one is attempting to
+ examine whether events occurring at one
+ point in time place an individual at risk for
+ adjustment difficulties at some future date.
+ This approach is not vulnerable to a reverse
+ causal explanation due to the temporal se-
+ quence of the variables being measured.
+ However, the prospective design is still vul-
+ nerable to a third variable explanation. In
+ addition, exposure to events is unlikely to
+ be static; both initial exposure to stressors
+ and subsequent changes in the level of
+ stressful events may be more important in
+ predicting changes over time in adjustment
+ than simply initial level of stressors (see
+ Caspi, Bolger, & Eckenrode, 1987). Holahan
+ and Moos (1981) studied the contributions
+ of changes over time in stressors and social
+ support to predicting changes over time in
+ adults' adjustment and found support for the
+ notion that the critical aspect of stressors or
+ resources may be the change in these vari-
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Dubow et al. 585
+
+ dren and adolescents. Those studies that
+ have been conducted have focused primar-
+ ily on the contribution of stressful events at
+ either Time 1 or Time 2 to predicting change
+ in adjustment, and the samples were primar-
+ ily comprised of older children (sixth grad-
+ ers and older). The present study examines
+ both prospective effects for stressful life
+ events and two resource variables (social
+ support and social problem-solving skills),
+ as well as whether changes in stressors and
+ resources might predict changes in elemen-
+ tary school children's behavioral and aca-
+ demic adjustment. In the present study, we
+ attempted to avoid the potential confound-
+ ing of shared method variance by collecting
+ data on stressors, resources, and adjustment
+ from separate sources (parents, children, and
+ teachers).
+
+ accounted for relatively modest amounts of
+ variance in comparison to the main effects
+ of social support (e.g., Dubow & Tisak, 1989;
+ Wertlieb, Weigel, & Feldstein, 1987).
+
+ Researchers have also found that sup-
+
+ port from different sources (e.g., family,
+ peers, teachers) may be differentially related
+ to adjustment. Hartup (1978) suggests that
+ peers and adults may provide different sup-
+ port functions, thus influencing different
+ outcome variables. Cauce, Felner, and Pri-
+ mavera (1982) found that family support
+ was related to higher scholastic self-concept,
+ whereas peer support was related to higher
+ peer self-concept. However, in a 5-month
+ prospective study of seventh and eighth
+ graders, Burt et al. (1988) failed to find sig-
+ nificant main or stress-buffering longitudinal
+ effects for perceived family environment
+ characteristics (e.g., cohesion, expressive-
+ ness) on anxiety and depression. These stud-
+ ies suggest the need to consider the contri-
+ butions of different sources of support to
+ predicting adjustment.
+
+ Method
+ Subjects and Procedures
+
+ Social problem-solving skills have also
+
+ been examined as a resource or coping vari-
+ able among children (e.g., Asarnow, Carlson,
+ & Guthrie, 1987; Compas, Malcarne, & Fon-
+ dacaro, 1988; Dubow & Tisak, 1989). Social
+ problem solving typically refers to the abil-
+ ity to generate alternative solutions to social
+ interaction problems, evaluate the possible
+ consequences, and choose the most effective
+ solution to the problem (Spivack, Platt, &
+ Shure, 1976). Deficits in social problem-
+ solving skills are related to poor adjustment
+ in elementary school children (Tisdelle &
+ St. Lawrence, 1986). For example, Dubow
+ and Tisak (1989) found that a composite so-
+ cial problem-solving score (taking into ac-
+ count both the number of solutions and their
+ effectiveness) was directly related to teacher
+ and parent ratings of children's behavioral
+ adjustment and grade-point averages. Fur-
+ ther, social problem-solving abilities moder-
+ ated the effects of stressful life events on
+ teacher- and parent-rated behavior problems
+ and grade-point average. Glyshaw et al.
+ (1989) found that among junior high school
+ students, less reliance on problem-solving
+ coping strategies significantly predicted de-
+ pression 5 months later. More prospective
+ studies are needed to examine how changes
+ in social problem solving may be related to
+ changes in adjustment over time.
+
+ In the Spring of 1987 (Time 1), children
+ in third- through fifth-grade classrooms (N
+ = 655) from two urban and two suburban
+ lower-middle-class schools were requested
+ to take home to their parents letters describ-
+ ing the study and consent forms. Parental
+ permission to participate was obtained for
+ 361 children. Data collected from the chil-
+ dren, their parents, and teachers comprised
+ the first wave of the current study (Dubow
+ & Tisak, 1989). At Time 1, the subjects were
+ 137 third graders, 124 fourth graders, and
+ 100 fifth graders. The sample consisted of
+ 195 girls and 166 boys; 73% of the children
+ were white, 21% were black, 5% were His-
+ panic, and 1% were "other." The children
+ completed paper-and-pencil measures in
+ their classrooms during three 45-min ses-
+ sions. The measures were administered by
+ two trained research assistants, one of whom
+ read the questions aloud, while the other
+ checked that the children were following di-
+ rections, not skipping ahead, etc. Question-
+ naires were mailed to parents; 240 (66%) of
+ the parents returned the measures, 91% of
+ which were completed by mothers. Chil-
+ dren whose parents did versus did not return
+ questionnaires were relatively similar in
+ terms of demographic and adjustment vari-
+ ables (Dubow & Tisak, 1989). Teachers also
+ provided information on the children's ad-
+ justment (95% return rate). Parents and
+ teachers received a $10 honorarium for com-
+ pleting the measures.
+
+ This review indicates that relatively few
+
+ prospective studies have examined the roles
+ of stressors and resource variables for chil-
+
+ In the Spring of 1989 (Time 2), an at-
+
+ tempt was made to relocate as many of the
+ children in the original sample as possible
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 586 Child Development
+
+ for a follow-up study. The interval between
+ Time 1 and Time 2 was selected as 2 years
+ in order to allow for changes to occur in the
+ stress, resource, and adjustment variables
+ from middle to late childhood, a develop-
+ mental period of significant cognitive and
+ social growth (Gardner, 1982). The original
+ schools were contacted, and children were
+ tracked by matching the classroom rosters
+ from Time 1 with the schools' current rec-
+ ords and with the central administration's
+ records for children who could not be lo-
+ cated. Parental consent was obtained for 193
+ (53%) of the original sample. Follow-up data
+ were not available for 79 subjects (22%) who
+ had moved, 77 (21%) who did not return con-
+ sent forms, and 12 (3%) who declined partic-
+ ipation. This attrition rate is within the range
+ one would expect given those reported in
+ other recent longitudinal studies (Compas,
+ Wagner, Slavin, & Vannatta, 1986; Stein-
+ berg, Elmen, & Mounts, 1989). The follow-
+ up sample of 193 children consisted of 74
+ fifth graders, 61 sixth graders, and 58 sev-
+ enth graders; 114 of these children were
+ girls, and 78% were white (17% were black,
+ and 5% were Hispanic). Eleven percent of
+ the children (n = 22) transferred to junior
+ high school in the past year, 16% (n = 31)
+ transferred to middle school in the past year,
+ and 19% (n = 36) transferred to middle
+ school 2 years ago.1
+
+ The children completed paper-and-
+
+ pencil measures in their classrooms during
+ one 60-min session, administered in the
+ same manner as at Time 1. Questionnaires
+ were mailed to parents; 146 (76%) of the par-
+ ents returned the measures, 92% of which
+ were completed by mothers. Only one dif-
+ ference was found between children whose
+ parents did and did not return question-
+ naires: children whose parents did not re-
+ turn questionnaires had higher levels of
+ teacher-rated problems, F(1,192) = 6.48, p
+ < .05. As in the first wave, teachers also pro-
+ vided information about the children's ad-
+ justment (100% return rate). Again, parents
+ and teachers received a $10 honorarium for
+ participating.
+
+ For the sample that participated at Time
+
+ 2, parental marital status was as follows:
+
+ married (66%), divorced/separated (18%),
+ remarried (7%), and other (9%). Median fam-
+ ily income was $30,000, with approximately
+ one-third of the sample at or below $20,000.
+ Mean parental education, assessed along
+ Hollingshead's (see Miller, 1977) 7-point
+ scale (1 = graduate/professional training, 7
+ = less than 7th grade), was 3.10 (SD = 1.29),
+ reflecting a level of education between high
+ school graduate and partial college. Mean
+ occupational attainment using Hollings-
+ head's 7-point occupation dimension (1 =
+ major professionals, 7 = unskilled employ-
+ ees) was 4.30 (SD = 1.80), reflecting a level
+ of occupation between skilled manual em-
+ ployee and clerical/sales worker. Using Hol-
+ lingshead's index of social position (Miller,
+ 1977), mean socioeconomic status was 43.20
+ (SD = 15.72) (Level III), reflecting lower-
+ middle-class status. Mean number of chil-
+ dren in the family was 2.43 (SD = .99).
+
+ In terms of the effects of subject attri-
+ tion, in comparison to the sample who only
+ participated at Time 1, the subsample who
+ also participated at Time 2 was more likely
+ to be composed of females, X2(1) = 4.74, p
+ < .05, white children, X2(1) = 4.11, p < .05,
+ and families of higher socioeconomic status,
+ F(1,237) = 4.74, p < .05. The subsample
+ who participated in both waves of the study
+ were also exposed to fewer cumulative
+ stressful life events, F(1,239) = 19.38, p <
+ .01, and exhibited better adjustment in terms
+ of higher grade-point averages, F(1,348) =
+ 8.73, p < .01, lower levels of teacher-rated
+ behavior problems, F(1,343) = 15.35, p <
+ .01, and higher levels of teacher-rated com-
+ petencies, F(1,328) = 15.22, p < .05. The
+ fact that the subsample who participated in
+ both waves of the study was generally better
+ adjusted than the subsample who partici-
+ pated only in the first wave is consistent
+ with other large-scale longitudinal studies
+ (e.g., Lefkowitz, Eron, Walder, & Hues-
+ mann, 1977).
+ Measures
+
+ 1. Child measures.-(a) The Social Sup-
+ port Appraisals Scale (Dubow & Ullman,
+ 1989) was administered at Time 1. This
+ 31-item scale assesses the child's appraisals
+ of peer, family, and teacher support. Items
+
+ 1 Supplementary analyses were conducted to examine the effect of the normative school
+
+ transition. Complete Time 1 and Time 2 child, parent, and teacher data were available for only
+ 11 students who transferred to junior high school in the past year, 20 who transferred to middle
+ school in the past year, and 21 who transferred to middle school 2 years ago. Hierarchical
+ regressions predicting Time 2 adjustment revealed that those students who transferred in the
+ past year showed significant decreases in grade-point average, but no effects on behavioral
+ adjustment were found. No significant longitudinal findings emerged for the block of interaction
+ terms involving school transfer and the stress and resource variables.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Dubow et al. 587
+
+ b) The children's social problem-solv-
+ ing skills were assessed using a procedure
+ developed by Deluty (1981). At Time 1, chil-
+ dren were read 10 vignettes depicting con-
+ flict situations involving peers and parents.
+ For each vignette, children were given 4
+ min to "write down all the things you really
+ might say or do if you found yourself in this
+ situation." A sample vignette is, "You're
+ standing in line for a drink of water. A kid
+ your age and size walks over and just shoves
+ you out of line. What would you do?"
+
+ were developed to reflect Cobb's (1976) con-
+ compared the 2-year stability of a scale
+ ceptualization of social support: information
+ formed using the overlapping 27 items and
+ indicating to the individual that he or she is
+ its subscales (family, peer, and teacher sup-
+ valued and esteemed by others. Thus, the
+ port) with the relation between the 31-item
+ scale primarily assesses esteem support.
+ original scale (Time 1) and the 41-item re-
+ Sample items illustrating the content of the
+ vised scale (Time 2) and their corresponding
+ three subscales include: peer items (e.g.,
+ subscales.
+ whether the child feels left out by his
+ friends), family items (e.g., whether the
+ child is an important member of his family),
+ and teacher items (e.g., whether the child
+ feels his teachers are good to ask for help or
+ advice about problems). The following sam-
+ ple item illustrates the format of each item:
+ "Some kids feel left out by their friends, but
+ other kids don't. Do you feel left out by your
+ friends?" The child responds to each item
+ on a 5-point continuum (1 = always, 5 =
+ never). Dubow and Ullman (1989) reported
+ an internal consistency reliability (Cron-
+ bach's alpha) of .88 and 3-4 week test-retest
+ reliability of .75. Factor analyses supported
+ a three-factor solution: family support (11
+ items, coefficient alpha = .82), peer support
+ (15 items, alpha = .83), and teacher support
+ (5 items, alpha = .78). Moderate intercorre-
+ lations were obtained among the three sub-
+ scales formed based on the factors. Validity
+ data for this measure (Dubow & Ullman,
+ 1989) include: (1) correlations were moder-
+ ate to high with the corresponding subscales
+ of Harter's (1985) social support scale for
+ children, (2) peer support correlated signifi-
+ cantly with a measure of loneliness and peer
+ nominations of social preference, and (3)
+ social support correlated moderately with
+ self-esteem, consistent with the notion that
+ perceived social support provides the indi-
+ vidual with information that he or she is val-
+ ued by others (Cobb, 1976).
+
+ Scoring of the children's responses fol-
+ lowed procedures developed by Lochman
+ and Lampron (1986) and modified by Du-
+ bow and Tisak (1989). The first author and a
+ graduate student trained three undergradu-
+ ate students to rate the number of solutions
+ given to each vignette, the content category
+ of each solution (e.g., Verbal/Physical Ag-
+ gression, Verbal Assertion/Direct Action),
+ and the effectiveness of each solution (a
+ 4-point rating ranging from 1 = immediate
+ action that escalates the conflict, to 4 = so-
+ cially appropriate resolution). After training
+ the undergraduates to a level of 85% exact
+ agreement with the graduate student (crite-
+ rion judge) on practice protocols, 15% of the
+ actual study protocols were rated by all four
+ judges. Exact agreement with the criterion
+ judge on whether each response in fact con-
+ stituted a scorable solution was 98% for each
+ rater; percent of exact agreement with the
+ criterion judge on the content of each solu-
+ tion ranged from 89% to 91% across raters;
+ and correlations of each rater's effectiveness
+ ratings with those of the criterion judge
+ ranged from r = .87 to r = .90 across judges.
+ Dubow and Tisak (1989) examined sev-
+ eral possible scores based on the problem-
+ solving measure (i.e., total number of solu-
+ tions, mean effectiveness of each solution,
+ content category scores, and a composite
+ score). The social problem-solving compos-
+ ite score (SPS Composite) was derived as
+ follows: for each of the 10 vignettes, the ef-
+ fectiveness ratings for all of the child's solu-
+ tions to that vignette were summed, yielding
+ 10 scores; the mean of these 10 scores was
+ the SPS Composite score. (Coefficient alpha
+ for these 10 scores was .85.) The SPS Com-
+ posite score was viewed as the best sum-
+
+ cial Support Appraisals Scale was admin-
+ istered. This 41-item revision included 10
+ new items assessing teacher and classmate
+ support. Four of the original items were also
+ reworded in the reverse direction. The in-
+ ternal consistency of the total revised scale
+ was .93, and a similar three-factor solution
+ emerged as with the original version of the
+ scale (19 peer items, coefficient alpha = .88;
+ 12 family items, alpha = .92; and 10 teacher
+ items, alpha = .86).
+
+ At Time 2, a revised version of the So-
+
+ Analyses were computed to examine the
+
+ similarity between the original and revised
+ measures. At Time 2, the correlation be-
+ tween a subscale comprised of the 27 items
+ that were on both scales correlated r = .84
+ with a subscale comprised of the 14 revised/
+ new items. In addition, the pattern of cross-
+ lag correlations was almost identical if one
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 588 Child Development
+
+ mary measure because it was moderately to
+ highly related to all other problem-solving
+ scores and it is based on both the total num-
+ ber of solutions given to a vignette and the
+ effectiveness ratings. Other investigators
+ (e.g., Fischler & Kendall, 1988; Richard &
+ Dodge, 1982) have demonstrated the need
+ to consider simultaneously the number of
+ solutions as well as their effectiveness.
+
+ Because the schools placed the time
+
+ constraint of meeting with the children for
+ only one session at Time 2, only five of the
+ original 10 vignettes were administered (the
+ odd-numbered items). One graduate student
+ and two undergraduate students used the
+ same rating procedure as described for Time
+ 1. Agreement with the criterion judge on
+ whether each response was a scorable solu-
+ tion was 92% for each rater; agreement with
+ the criterion judge on content category clas-
+ sification for each solution was 85% and
+ 91%; and correlations of effectiveness rat-
+ ings between the criterion judge and each
+ rater were r = .95 and r = .97, respectively.
+ Effectiveness ratings for all of the child's so-
+ lutions to a given vignette were summed,
+ and a mean of these five scores served as the
+ SPS Composite score. (Coefficient alpha for
+ these five scores was .87.)
+
+ loss of job by parent). The events included
+ by Sandler and Block (1979) on this list were
+ selected because they are likely to be out-
+ side of the child's control and thus are less
+ likely to be confounded with the child's ad-
+ justment. Although several different scores
+ can be derived from this measure (i.e., a sim-
+ ple count of all 32 events experienced, a
+ simple count of the 19 negative events or
+ the three positive events-10 events were
+ judged as ambiguous with regard to valence,
+ and a sum of weights assigned to each of the
+ negative and positive events reflecting the
+ presumed amount of life readjustment re-
+ quired), research (Dubow & Tisak, 1989;
+ Sandler & Block, 1979) suggests that a sim-
+ ple count of the total number of experienced
+ events correlates most highly with adjust-
+ ment indices. This score was used in the
+ present study.
+
+ c) The Revised Behavior Problem
+ Checklist (Quay & Peterson, 1983) is an
+ 89-item measure that assesses several types
+ of behavior problems (i.e., aggression, anxi-
+ ety, attention problems). The parent indi-
+ cates the degree to which each behavior is a
+ problem for his or her child along a 3-point
+ continuum (0 = not a problem, 2 = severe
+ problem). A total problem score was calcu-
+ lated to reflect the sum of the parent's scores
+ for each behavior problem (Cronbach's al-
+ pha = .97 at Time 1, and .96 at Time 2).
+ 3. Teacher measures.-(a) At Time 1,
+ the Teacher-Child Rating Scale (T-CRS;
+ Hightower et al., 1986) was completed by
+ teachers. The T-CRS consists of an 18-item
+ Problem Behavior Scale (acting-out, shy,
+ learning problems) and a 25-item Compe-
+ tent Behavior Scale (frustration tolerance,
+ task orientation, assertiveness). Teachers
+ rate the degree to which the child exhibits
+ each behavior along a 5-point continuum.
+ Hightower et al. (1986) reported internal
+ consistencies ranging from .85 to .95 across
+ subscales for different samples, and moder-
+ ate intercorrelations with other measures of
+ children's adjustment.
+
+ Regarding the similarity between the
+ 10-vignette version and the shortened five-
+ vignette version, the correlation between
+ the SPS Composite score based on the five
+ odd-numbered vignettes at Time 1 and the
+ SPS Composite score based on the five
+ even-numbered vignettes at Time 1 was r =
+ .75. Also, the cross-lag correlations compar-
+ ing the 2-year stability of the SPS Composite
+ score based on the shortened scale with the
+ correlation between the Time 1 and Time 2
+ total SPS Composite scores were identical (r
+ = .36).
+
+ 2. Parent measures.-(a) Hollingshead's
+ Two-Factor Index of Social Position (Miller,
+ 1977) was used to compute socioeconomic
+ status. Higher scores indicate lower levels
+ of socioeconomic status.
+
+ At Time 2, the revised version of this
+
+ b) Stressful life events were assessed us-
+ ing Sandler and Block's (1979) modified ver-
+ sion of Coddington's Life Events Scale for
+ Children. Coddington (1972) included items
+ culled from the literature and judged by
+ teachers, pediatricians, and mental health
+ professionals as requiring readjustment for
+ the elementary school-age child. The parent
+ indicates which of 32 events occurred in the
+ child's life within the past year (e.g., child
+ changed schools, mother beginning work,
+
+ scale was used (Hightower, Spinell, & Lo-
+ tyczewski, 1988). In this version, only the
+ Competent Behavior Scale was slightly
+ modified (addition of a new subscale, dele-
+ tion of a few original items); nevertheless,
+ 15 items are repeated on both the original
+ and revised versions. Analyses showed that
+ at each point in time, correlations between
+ a subscale comprised of the original 15 items
+ and the total scale were r = .99. In addition,
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ the 2-year stability of the 15 items repeated
+ on both versions, and the correlation be-
+ tween the original scale at Time 1 and the
+ revised scale at Time 2 were identical (r =
+ .56). Coefficient alpha for the Problem Be-
+ havior Scale was .95, and for the Competent
+ Behavior Scale .96.
+
+ b) Grade-point averages (GPAs) were
+
+ calculated based on the child's grades in En-
+ glish, math, spelling, and reading (5 = A, 1
+ = F).
+
+ Dubow et al. 589
+
+ tered in the first step of the hierarchical re-
+ gression equation predicting the Time 2 cri-
+ terion measure. In the second step, Time 1
+ stressful life events and resources were en-
+ tered, testing the prospective effects of these
+ variables. In step 3, Time 2 stressful life
+ events and resources were entered. Sig-
+ nificant findings at this step suggest that
+ changes in the predictors over time are re-
+ lated to concomitant changes in adjustment
+ over time, because significant findings rep-
+ resent the residual effects of the predictor
+ variables after controlling for the earlier lev-
+ els of the predictor and criterion variables
+ (see Holahan & Moos, 1981). As a final step,
+ the interaction terms of Time 2 stressful life
+ events with Time 2 social support and with
+ Time 2 SPS Composite were entered as a
+ test of the hypothesis that the resource vari-
+ ables might moderate the relation between
+ stressors and adjustment over time.
+ Descriptive Statistics
+
+ Table 1 shows the means and standard
+
+ deviations for the stressful life events, re-
+ source, and adjustment variables at Time 1
+ and Time 2. A series of repeated-measures
+ ANOVAs was computed in order to examine
+ group change over time in these variables.
+ Thus, only those children with both Time 1
+ and Time 2 data for a given variable were
+ included in computing the descriptive statis-
+ tics for that variable at both points in time. A
+ Bonferroni correction was computed setting
+ the familywise error rate at .10, yielding a
+ comparisonwise error rate of .01. Children's
+ grade-point averages significantly decreased
+ over time, F(1,187) = 23.48, p < .001; it is
+ unclear whether this reflects a true develop-
+ mental trend or if teachers are perhaps em-
+
+ Results
+
+ Overview of Data Analyses
+
+ First, descriptive statistics were com-
+
+ puted for the stress, resource, and ad-
+ justment variables at both points in time.
+ Second, cross-sectional correlations were ex-
+ amined. Third, we computed zero-order
+ cross-lag correlations between the Time 1
+ and Time 2 variables. In order to control for
+ the Type I error rate given the large number
+ of correlations being computed, a multistage
+ Bonferroni procedure was applied to the cor-
+ relation matrices (see Larzelere & Mulaik,
+ 1977). Following these authors, correlations
+ that were also significant at the conventional
+ p < .05 level are noted as "borderline sig-
+ nificant" to facilitate comparisons with other
+ studies.
+
+ Finally, a hierarchical regression model
+ was employed to analyze both prospective
+ relations of stressful life events and re-
+ sources (social support and social problem-
+ solving skills) and whether changes in these
+ variables related to concomitant changes in
+ adjustment. Demographic variables and the
+ Time 1 adjustment (criterion) score were en-
+
+ MEANS AND STANDARD DEVIATIONS FOR TIME 1 AND TIME 2 VARIABLES
+
+ TABLE 1
+
+ TIME 1 TIME 2
+
+ VARIABLE n M SD M SD
+
+ Stressful life events ..................... 130 2.62 2.03 2.40 1.93
+ Social support (total) ................... 171 3.86 .53 3.88 .51
+ Family support ......................... 171 4.04 .66 4.11 .73
+ Peer support ................................ 171 3.79 .63 3.88 .56
+ Teacher support ....................... 171 3.68 .89 3.58 .77
+ SPS Composite ............................ 153 4.90 1.92 5.44 2.62
+ Teacher-rated problems ................. 186 1.72 .69 1.65 .74
+ Teacher-rated competencies ......... 179 3.60 .88 3.48 .86
+ Grade-point average .................... 188 3.86 .80 3.61 .94
+ Parent-rated problems ................ 130 20.93 21.07 17.68 17.75
+
+ NOTE.-Only those subjects for whom both Time 1 and Time 2 data were available for a
+ given variable were included in computing means and standard deviations for that variable.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 590 Child Development
+
+ ploying more stringent grading policies at
+ higher grade levels. In addition, parent-
+ rated behavior problems significantly de-
+ creased over time, F(1,129) = 9.28, p < .01.
+ Next, we compared our descriptive sta-
+
+ teacher-rated behaviors (r = .53 for prob-
+ lems, r = .56 for competencies), and high
+ levels of stability were obtained for grade-
+ point average (r = .70) and parent-rated be-
+ havior problems (r = .82).
+
+ tistics with normative data that were avail-
+ able for the Life Events Scale (Sandler &
+ Block, 1979), the Teacher-Child Rating
+ Scale (Hightower et al., 1986, 1988), and the
+ Revised Behavior Problem Checklist (Quay
+ & Peterson, 1984). T tests revealed no differ-
+ ences between the normative and current
+ samples on the Life Events Scale, the T-CRS
+ subscales (examined separately by sex and
+ geographic location), or the Revised Behav-
+ ior Problem Checklist (examined separately
+ by age and sex).
+ Cross-sectional Relations
+
+ Time 1.-Only those subjects who par-
+ ticipated in the study at Time 1 and Time 2
+ are included in these analyses. Table 2 (be-
+ low the diagonal) presents cross-sectional
+ correlations among the Time 1 variables. Of
+ particular interest, higher levels of stressful
+ events were related to lower levels of adjust-
+ ment, and higher levels of social support and
+ social problem-solving skills (SPS Compos-
+ ite) were related to higher levels of adjust-
+ ment (r's in the .30 range). Table 2 also
+ shows that whereas grade level was not as-
+ sociated with adjustment, sex, race, and so-
+ cioeconomic status were: females, white
+ children, and children from higher so-
+ cioeconomic status backgrounds exhibited
+ higher levels of adjustment.
+
+ Table 3 (below diagonal) shows the
+
+ zero-order cross-lag correlations of the Time
+ 1 variables with the Time 2 measures.
+ Higher levels of stressful life events at Time
+ 1 were modestly related to lower levels of
+ behavioral and academic adjustment 2 years
+ later (r's ranged from .18 to .29), and higher
+ levels of social support and the SPS Com-
+ posite at Time 1 were modestly predictive
+ of higher levels of adjustment at Time 2. Re-
+ sults above the diagonal in Table 3 show that
+ some of the Time 1 adjustment measures
+ were modestly related to Time 2 stressors
+ and the SPS Composite, suggesting the pos-
+ sibility of bidirectional relations between
+ stressors and resources on the one hand and
+ adjustment indices on the other.
+ Hierarchical Regressions: Relations of
+ Stressors and Resources with Adjustment
+ Predictors of adjustment.-As noted
+ earlier, a hierarchical regression model was
+ used to analyze both prospective effects for
+ stressful life events and resources, and
+ whether changes in these variables relate to
+ changes in adjustment. Four sets of hierar-
+ chical regressions were computed, one for
+ each Time 2 adjustment measure. Cross-
+ sectional correlations at both Time 1 and
+ Time 2, as presented in Table 2, showed
+ moderate to high relations among the adjust-
+ ment indices. Despite this magnitude of re-
+ lations, all four criterion measures were ex-
+ amined separately due to both conceptual
+ distinctions among the variables and for con-
+ sistency with previous research (Dubow &
+ Tisak, 1989).
+
+ Time 2.-Table 2 (above the diagonal)
+
+ presents intercorrelations of the variables at
+ Time 2. Stressful life events and the re-
+ source variables were generally modestly re-
+ lated to the adjustment indices. Sex, race,
+ and socioeconomic status, but not grade
+ level, showed some degree of relation to at
+ least one adjustment measure. Thus, sex,
+ race, and socioeconomic status were re-
+ tained as background variables in later re-
+ gression analyses.
+ Cross-Lag Correlations
+
+ The values along the diagonal in Table
+ 3 show a moderate degree of stability over
+ 2 years in stressful life events (r = .49), so-
+ cial support (r = .38), and social problem-
+ solving skills (SPS Composite) (r = .36).
+ Moderate stability was also obtained for
+
+ Table 4 shows that in step 1, the demo-
+
+ graphic variables and the appropriate Time
+ 1 criterion variable accounted for between
+ 24% and 74% of the variance across Time 2
+ adjustment indices. The background vari-
+ able that contributed the most to predicting
+ each Time 2 adjustment measure was the
+ child's score on the corresponding Time 1
+ criterion variable.2
+
+ In step 2, the Time 1 set of stressful life
+
+ events and resource variables accounted for
+ an additional 3% to 5% of the variance across
+
+ 2 Following other prospective studies (e.g., Cohen et al., 1987), we examined whether sex
+ interacted with the stress and resource variables in predicting adjustment. No significant longitu-
+ dinal findings emerged for the block of interaction terms of sex and these variables in predicting
+ any of the four adjustment measures.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ ?,
+ aJ *n * I J *n ** *o a
+ - 00 00't 0 to.NIto Cmc 00 >.
+
+ 0 -4 I c#IJ N N #I c#IJ rA
+
+ t 0 x xm c
+
+ S0 0 m
+
+ cc
+
+ 1r~c M, 00 - oc M
+
+ in II IIa O ~ I
+
+ NI 0I t I I --I t I
+
+ "-N01001N 010 Co Co 01
+
+ t- in ian t- ONin 10 moo O O
+
+ Z c)0
+ iN N a)
+
+ Cr ) 01 300000"01J0 -
+
+ cdc
+ z
+
+ dc
+
+ i- n N N ? 0 0 00 --1 N ? 0
+
+ C'o N --1 0 --1 0 --1 M rA Q) l
+ E .M .4 0 I
+
+ U CON N 1000 NNMCO -c
+
+ Z E 0 00
+ o o Q o
+ 0 .0
+
+ in OJOJ c O Oan ~OJ A
+
+ 0
+
+ P-8 (o -A- o t
+ 0 .^ A a
+
+ c~l 0
+
+ po 4-J 0O v
+
+ c-(- C1OII ~
+ o C cj
+
+ W4 Jin : 0 4-0 4-0 4-j 0
+
+ acd cd cl
+
+ CJ 0 cn 0 tj L.,
+ (1)C.? Q) Q) 41
+
+ cd Q) .14 14 .14 Q) 7?
+ 0 o o Q (2) (2 0 e
+
+ vl C v'A l
+ EB 2"rA
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ to v n ~t cl) to --I - to 00 C-1 t.
+
+ eq. . C). . q C o-)C' C' o
+
+ o cq t M, ol0 rA 2
+
+ 'a 0
+
+ *~ *0~ c3 1~ 00
+ ca ca ~ ca 3c 30
+
+ * ~ * * * * s..
+ I I I I I l I -
+
+ in M, t- mc m m M4 ---4
+ 0 CO in n - IO .
+
+ 00u
+ 0-
+
+ ca Q
+
+ c, t- i 0 0 O0 . l M1 f  1::f co
+
+ I~ I I
+
+ ca~
+
+ I --
+
+ I0t I n - -I I
+
+ c cq CID O O CO CIO cq C'I C'I 0;; 0
+ 0 I I 4
+
+ m 00000 0? 0 ) .-
+ M4 C) C) C) o O ~ CJ D l 0 cl
+
+ CI CIO M 0
+
+ m~ .
+
+ z 0 r.
+
+ 4,,-J CSD
+
+ 0l Cd C c3 ) Q) Q) C
+
+ Q Co00fo0 O0OC
+
+ --
+
+ o *P
+
+ c c (1) OIn cn cd cd c d
+
+ C C
+
+ c~p
+
+ O oc 0
+ ~c + ~~C .0)
+ O ~ O O ~ O o C a O
+ CD -4 c3 d c6 416 6 0Jt-: o 66
+
+ cd o oo;2 E
+
+ c~c~ c
+
+ "0)0)
+ E8~
+
+ 00 U
+
+ 592C
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 00 C 00 ( 4O-4(O O4 0-0J 0C *
+
+ CI C?
+
+ z 0
+
+ v, P., be3
+
+ c td t-M 0 CIO
+
+ z P
+ W v
+
+ U 00
+
+ 0* ** 0
+ W d r
+
+ Ct- " to ol to CO m 0t o 0 0
+ "-I~kO~ 001"-"~0 CIO '0C0O
+
+ d, ~ II
+
+ (0 0M, C)-q 0 - 0NNN
+
+ * . *o .00
+
+ a C i 0 00 coy cq co v
+
+ w ? O d C'I C> c
+
+ -e t
+
+ cd 0
+
+ CIO
+
+ U CU 'Ok
+
+ cd CIO
+
+ CQ) 0Cbe 1-
+
+ *0 0
+
+ HC Cd; CD00I 0 CO)".I0)01 C e
+
+ Hc ~c 01M
+
+ cd be
+
+ c~~iC C ~
+
+ 00 -f .) 0
+ o 3) Q 00
+ Z0
+
+ 0 0 (3) 0 b3
+
+ Q .A
+
+ ~4-4
+
+ m 0)
+
+ (3) (3 r
+
+ a q)604-J 4- CJ 4-JJ~ ~JO
+
+ o oU0 .
+
+ 0 oom P444 o 4 P4 o
+
+ 0 0-) E . z P
+
+ ?o Q P.4 ?o 0 0
+
+ 0. c L- u 0)cdcna. -n= > .
+
+ 00
+
+ 59
+
+ 0 P 4:0
+
+ --4 : : 0 p4t 4'A0 4 0 4
+
+ 0,0U)::4-J 0
+
+ "") )d C H '
+
+ u0 0>0--00 4 n .40
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ the four Time 1 adjustment measures was
+ entered; the additional Time 1 predictors
+ were also entered (e.g., Time 1 stress and
+ social support in the regression predicting
+ Time 2 SPS Composite) for statistical control
+ of these variables and to maintain consis-
+ tency between these regressions and those
+ described in the previous section. Signifi-
+ cant results for the Time 1 adjustment mea-
+ sure in this step would lend support for the
+ causal role of early adjustment. In the third
+ step, the Time 2 predictors were entered,
+ including the corresponding Time 2 adjust-
+ ment measure; significant results for the
+ Time 2 adjustment measure would indicate
+ that changes in adjustment over time are re-
+ lated to changes in the criterion over time.
+ For each of the three criterion variables, four
+ regressions were computed, one for each ad-
+ justment measure. The results of these 12
+ regression analyses are not presented in a
+ table.
+
+ In the first step, the Time 1 criterion was
+ consistently related to the Time 2 criterion.
+ In the second step, only one prospective ef-
+ fect was found across the 12 analyses: Time
+ 1 parent-rated problems was a significant
+ predictor of change in stressful life events
+ (beta = .20, p < .05, R2 for step = .04,
+ F[3,100] = 1.44, N.S.). In the third step,
+ only two of the Time 2 adjustment measures
+ were significant predictors of social support:
+ teacher-rated problems (beta = -.27, p <
+ .05; R2 for step = .07, F[(3,98] = 2.55, p <
+ .10) and teacher-rated competencies (beta =
+ .37, p < .01; R2 for step = .14, F[3,93] =
+ 5.18, p < .01). Only Time 2 teacher-rated
+ problems was a significant predictor of SPS
+ Composite (beta = -.25, p < .05; R2 for step
+ = .09, F[3,98] = 3.13, p < .05).
+
+ 594 Child Development
+
+ adjustment measures. Because the blocks of
+ these Time 1 variables were not significant,
+ caution should be taken in examining any
+ variables that were significant within the
+ blocks. However, because prospective find-
+ ings over a 2-year time period are somewhat
+ uncommon, those found will be noted:
+ higher levels of initial social support (total
+ score) predicted higher grade-point avei-
+ ages, and higher levels of initial family sup-
+ port predicted higher levels of teacher-rated
+ competencies.
+
+ In step 3, Table 4 shows that the set of
+
+ Time 2 predictors accounted for an addi-
+ tional 13% to 22% of the variance in Time
+ 2 adjustment. Specifically, increases in so-
+ cial support (total score and peer support)
+ and social problem-solving skills (SPS Com-
+ posite) were related to improvement in
+ teacher-rated problems and competencies,
+ and grade-point average; and increases
+ in family support predicted increases in
+ teacher-rated competencies. Increases in so-
+ cial problem solving (but not social support)
+ predicted improvement in parent-rated be-
+ havior problems. Changes in stressful life
+ events were unrelated to changes in ad-
+ justment.3
+
+ In the final step of the hierarchical re-
+ gressions (not shown in Table 4), no signifi-
+ cant findings emerged for the interaction
+ terms of Time 2 stressful events x Time 2
+ social support and Time 2 stressful events x
+ Time 2 SPS Composite in predicting any of
+ the adjustment indices.
+
+ Prediction of stress 1and resource vari-
+
+ ables.-Findings that changes in the stress
+ and resource variables are related to changes
+ in adjustment are open to a reverse causal
+ explanation, and some studies with adoles-
+ cents support such an explanation (Compas
+ et al., 1986, 1989). Thus, three additional
+ sets of hierarchical multiple regressions
+ were computed, using the same approach as
+ in the previous analyses; however, in these
+ regressions, the criterion variables were
+ Time 2 stress, social support, and SPS Com-
+ posite. In the first step, sex, race, socioeco-
+ nomic status, and the Time 1 criterion vari-
+ able (e.g., Time 1 SPS Composite in the
+ regression predicting Time 2 SPS Compos-
+ ite) were entered. In the second step, one of
+
+ Discussion
+
+ Few prospective studies of stressful life
+
+ events and resource variables have been
+ conducted with children and adolescents,
+ and those that have been conducted have
+ generally focused on older children. This
+ study examined both prospective effects of
+ stressors and resources (social support and
+ social problem-solving skills), as well as
+ whether changes over time in stressors and
+ resources were related to changes over time
+
+ 3 The significant effect for Time 2 stressful life events on Time 2 teacher-rated competencies
+ is due to a suppression effect, indicated by a reversal of the sign of the beta weight in the
+ regression equation, after controlling for other variables, compared to the sign of the zero-order
+ correlation between the predictor and criterion variables. Glyshaw et al. (1989) note that suppres-
+ sion effects are sometimes encountered in multivariate stress research.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ in behavioral and academic adjustment in el-
+ ementary school children.
+
+ event, continuously taxing the individual's
+ coping efforts.
+
+ Dubow et al. 595
+
+ Stressful Life Events
+
+ Prospective analyses failed to support
+ an etiological role of major stressful life
+ events in determining later adjustment, and
+ changes in stressful life events over 2 years
+ were not predictive of changes in adjust-
+ ment. This pattern of negative results is sim-
+ ilar to the findings of Cohen et al. (1987),
+ Gersten et al. (1977), and Swearingen and
+ Cohen (1985). Gersten et al. (1977) posit that
+ "stressful processes" such as chronically dis-
+ turbed parent-child relations and sociocultu-
+ ral disadvantage play causal roles in the oc-
+ currence of both discrete events and the
+ child's adjustment. Cohen et al. (1987) sug-
+ gested that the many developmental tasks of
+ early adolescence, including physical mat-
+ uration, heightened conflict with parents
+ regarding autonomy issues, increased im-
+ portance of the peer group, and more chal-
+ lenging academic tasks might overshadow
+ the impact of an accumulation of specific
+ events.
+
+ It is also possible that the lack of sig-
+ nificant prospective findings in the present
+ study was in part due to the method of data
+ collection. Separate informants provided in-
+ formation on stressors and adjustment. In
+ the Compas et al. (1989) study, adolescent
+ self-report of stressors was a significant pro-
+ spective predictor of self-reported, but not
+ mother-reported, adolescent maladjustment.
+ Achenbach, McConaughy, and Howell
+ (1987) suggested that the typically obtained
+ modest correlations between reports of child
+ adjustment provided by different sources are
+ reflective of the different perspectives of
+ these informants. It may well be that the in-
+ fluence of certain variables on child adjust-
+ ment depends on the salience of those vari-
+ ables to the particular informant, or on the
+ settings in which each informant observes
+ the child. However, the lack of prospective
+ effects for stressful life events on adjustment
+ has been reported in studies in which the
+ same informant provided data on both pre-
+ dictor and criterion measures (e.g., Cohen et
+ al., 1987; Gersten et al., 1977), as well as in
+ the present study in which different infor-
+ mants provided data on stressors and crite-
+ rion measures.
+
+ Finally, although initial stressors failed
+
+ to predict later child adjustment, a prospec-
+ tive effect was found for initial parent-rated
+ child problems on later parent-rated stress-
+ ful life events. While this finding might in
+ part be accounted for by shared method vari-
+ ance, it is also possible that the parents'
+ experience of child behavior problems in-
+ fluences the occurrence of later events such
+ as marital difficulties and parental mental
+ health problems.
+ Resources: Social Support and Social
+ Problem-Solving Skills
+
+ Time 1 social support was a significant
+ prospective predictor of GPA, and Time 1
+ family support was a significant prospective
+ predictor of teacher-rated competencies.
+ Similarly, Steinberg et al. (1989) found that
+ aspects of authoritative child rearing, includ-
+ ing parental warmth and acceptance (anal-
+ ogous to the concept of family support in
+ the present study), made both direct and
+ indirect contributions to child academic
+ achievement over time. This parenting style
+ affected child academic achievement pri-
+ marily through the development of "psy-
+ chosocial maturity" (e.g., aspirations for
+ performing competent work, experiencing
+
+ In contrast to the studies reporting no
+ support for a causal role of stressful events,
+ Compas et al. (1989) found that, among 10-
+ 15-year-olds, Time 1 stressful events added
+ a modest but significant proportion of vari-
+ ance (2%) in predicting Time 2 adjustment,
+ after controlling for Time 1 adjustment.
+ Whereas we used a measure of major dis-
+ crete life events, Compas et al. used the Ad-
+ olescent Perceived Events Scale (APES) to
+ assess stressful events, which contains a
+ large number of "daily hassles" (e.g., pres-
+ sures or expectations by parents, arguments
+ or fights between parents, getting good
+ grades or progress reports). Daily hassles
+ scales may actually reflect those stressful
+ processes described by Cohen et al. (1987)
+ and Gersten et al. (1977). Wagner, Compas,
+ and Howell (1988) suggested that major
+ events might influence adjustment indi-
+ rectly-through their effect on daily stress-
+ ors. For example, the authors point out that
+ a major event such as parental divorce might
+ engender a high level of daily hassles (e.g.,
+ increase in child-care responsibilities, diffi-
+ culty with finances), in turn influencing the
+ child's adjustment. In a study of 58 older ad-
+ olescents, Wagner et al. found support for
+ the mediating role of daily hassles in the re-
+ lation between major events and psychologi-
+ cal symptoms, whereas major events failed
+ to affect symptoms directly. The authors sug-
+ gested that these daily stressors may remain
+ more salient than the time-limited major
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ 596 Child Development
+
+ pleasure in one's work, and development of
+ initiative and a sense of control over events).
+ The development of these intrapersonal
+ qualities might enhance the child's aca-
+ demic achievement over time as academic
+ demands become more challenging and suc-
+ cess experiences accumulate. Consistent
+ with the prospective effect for family sup-
+ port on competencies, Cauce and Srebnik
+ (1989) found that family support showed
+ more consistent relations with perceptions
+ of competence than did peer support, pre-
+ sumably because family members provide a
+ wider range of support functions to the child
+ or adolescent who is still dependent on the
+ family. Early modeling of supportive behav-
+ iors by family members may also provide the
+ child with a sense of security and self-worth,
+ as well as useful strategies for forming future
+ relationships.
+
+ The present study also found that in-
+ creases in social support over 2 years pre-
+ dicted improvement in teacher-rated be-
+ havior problems, competencies, and GPA.
+ Changes in peer support over time appeared
+ to have the most consistent relations to
+ changes in adjustment. This finding likely
+ reflects the growing influence of peer rela-
+ tions during later childhood and early ado-
+ lescence. Hartup (1978) notes that the peer
+ group influences the development of prob-
+ lem-solving skills, appropriate modes of con-
+ flict resolution, and negotiation skills. The
+ development of positive peer relations
+ might also influence both behavioral and ac-
+ ademic adjustment through the processes of
+ enhanced self-esteem and self-efficacy (San-
+ dler, Miller, Short, & Wolchik, 1989).
+
+ changes in adjustment. As suggested by Du-
+ bow and Tisak (1989), it is possible that fam-
+ ily and peers provide a broad range of sup-
+ port functions across many situations, which
+ may have more global effects on adjustment;
+ teachers may be more often viewed as pro-
+ viders of informational and tangible support
+ specific to school-related concerns.
+
+ The current study revealed no signifi-
+ cant prospective effects for social problem-
+ solving skills. However, positive changes
+ in social problem-solving skills over time
+ were related to positive changes in all four
+ adjustment indices. Recall that the social
+ problem-solving skills index was based on
+ both number of solutions generated and
+ their effectiveness. In a social problem-
+ solving skills training program designed to
+ help children adapt to the middle-school
+ transition, Elias et al. (1986) found that posi-
+ tive changes in problem-solving skills were
+ related to reduced adjustment difficulties
+ during the transition. Glyshaw et al. (1989)
+ found that greater use of problem-solving
+ strategies in junior high school students pre-
+ dicted lower levels of depression 5 months
+ later. Perhaps the development of social
+ problem-solving skills (i.e., the ability to
+ generate a range of effective solutions) cre-
+ ates ongoing opportunities for mutually sat-
+ isfying experiences with peers and adults.
+ Because such skills are personal resources
+ rather than resources that must be provided
+ by others, it is likely that the child would
+ use these skills to obtain successful out-
+ comes across situations (adjustment mea-
+ sures).
+
+ Similar to the prospective effect for
+ family support on teacher-rated competen-
+ cies, change in family support over time was
+ also related to change in teacher-rated com-
+ petencies. If one assumes that the family is
+ a critical training ground for modeling and
+ learning strategies for the development of
+ interpersonal relationships (Lefkowitz et al.,
+ 1977), changes in family support may pro-
+ vide the child with more or less favorable
+ modeling opportunities, which in turn may
+ affect the child's social competence in the
+ classroom (as rated by teachers in the pres-
+ ent study). Changes in family support might
+ also reflect changes in stressful family pro-
+ cesses, which in turn might affect the child's
+ social competence.
+
+ No prospective effects were found for
+ teacher support on adjustment, nor did
+ changes in teacher support over time predict
+
+ This study found no longitudinal stress-
+ buffering effects for social support or social
+ problem solving on adjustment. Theoreti-
+ cally, these resources should be more useful
+ to the highly stressed individual, providing
+ him or her with feelings of self-worth and
+ mastery in the face of stressors. In the child
+ and adolescent literature, there is only
+ mixed support for the buffering effect of so-
+ cial support (see Compas, 1987). Cohen and
+ Wills (1985) suggest that for social support
+ to act as a stress buffer, there needs to be a
+ match between the type of stressor (e.g.,
+ move to a new school) and the type of sup-
+ port (e.g., teacher support concerning the
+ new school's social and academic demands).
+ Similarly, specific types of social problem-
+ solving strategies may be more suited to cop-
+ ing with specific stressors (Compas et al.,
+ 1988). Previous studies of children, includ-
+ ing the present one, have not used stressor-
+ specific measures of perceived support or
+
+This content downloaded from 
+
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020  01 Jan 1976 12:34:56 UTC 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Dubow et al. 597
+
+ coping and have thus been unable to exam-
+ ine the match between types of stressors and
+ specific types of resources.
+
+ Overall, there were few prospective ef-
+
+ refined to reflect how subjects match specific
+ types of resources with specific types of
+ stressors. Comparisons among studies also
+ highlight the importance of collecting data
+ from multiple sources. Finally, the pattern
+ of results across studies suggests the need to
+ search for chronic processes that may influ-
+ ence stressors, resources, and adjustment.
+
+ fects for the resource variables on adjust-
+ ment. Although the current study found that
+ changes over time in the resource variables
+ were related to changes over time in adjust-
+ ment, one cannot rule out bidirectional
+ References
+ effects. For example, if a child's behavior
+ Achenbach, T. M., McConaughy, S. H., & Howell,
+ becomes increasingly aggressive over time,
+ peers may begin to reject the child, resulting
+ in lower levels of social support. Expecting
+ peer rejection, the child may begin to use
+ less effective social problem-solving strate-
+ gies when placed in potential conflict situa-
+ tions.
+
+ C. T. (1987). Child/adolescent behavioral and
+ emotional problems: Implications of cross-
+ informant correlations for situational speci-
+ ficity. Psychological Bulletin, 101, 213-232.
+ Asarnow, J. R., Carlson, G. A., & Guthrie, D.
+ (1987). Coping strategies, self-perceptions,
+ hopelessness, and perceived family environ-
+ ments in depressed and suicidal children.
+ Journal of Consulting and Clinical Psychol-
+ ogy, 55, 361-366.
+
+ Several limitations of the present study
+
+ Limitations and Conclusions
+
+ should be addressed. First, despite the pro-
+ spective design of the study, its correlational
+ approach limits definitive conclusions re-
+ garding causality. No correlational prospec-
+ tive field study, regardless of the statistical
+ procedures used to analyze the data (e.g.,
+ longitudinal vs. prospective analyses; Co-
+ hen et al., 1987), can definitively indicate
+ causality. Such studies must be followed up
+ by experimental and quasi-experimental de-
+ signs in which levels of resources are ma-
+ nipulated in groups experiencing high and
+ low levels of stressful events. Interventions
+ might involve the provision of social support
+ or the training of social problem-solving
+ skills (e.g., increasing one's repertoire of ef-
+ fective solutions) for children experiencing
+ different levels of stressful life events.
+
+ Barrera, M. (1986). Distinctions between social
+ support concepts, measures, and models.
+ American Journal of Community Psychology,
+ 14, 413-445.
+
+ Burt, C. E., Cohen, L. H., & Bjorck, J. P. (1988).
+ Perceived family environment as a moderator
+ of young adolescents' life stress adjustment.
+ American Journal of Community Psychology,
+ 16, 101-122.
+
+ Caspi, A., Bolger, N., & Eckenrode, J. (1987).
+ Linking person and context in the daily stress
+ process. Journal of Personality and Social
+ Psychology, 52, 184-195.
+
+ Cauce, A. M., Felner, R. D., & Primavera, J.
+
+ (1982). Social support in high-risk adoles-
+ cents: Structural components and adaptive
+ impact. American Journal of Community Psy-
+ chology, 10, 417-428.
+
+ Another limitation of the present study
+ is a problem inherent in prospective field
+ research: subject attrition. Typically, those
+ subjects experiencing more stress and exhib-
+ iting lower levels of adjustment are more
+ likely to be lost from the sample at follow-up
+ than their counterparts (see Lefkowitz et al.,
+ 1977). In the current study, the relative loss
+ of subjects experiencing higher levels of
+ stressors may have reduced the likelihood of
+ finding stress-buffering effects.
+
+ The findings of this and other prospec-
+
+ tive studies of youngsters should alert re-
+ searchers to select their measures of stress-
+ ors and resources carefully. Evidence is
+ accumulating that chronic daily hassles may
+ play a mediating role in the relation be-
+ tween discrete major life events and adjust-
+ ment, necessitating the collection of mea-
+ sures assessing both types of stressors. In
+ addition, measures of resources need to be
+
+ Cauce, A. M., & Srebnik, D. S. (1989). Peer net-
+ works and social support: A focus for preven-
+ tive efforts with youth. In L. A. Bond & B. E.
+ Compas (Eds.), Primary prevention and pro-
+ motion in the schools (pp. 235-254). New-
+ bury Park, CA: Sage.
+
+ Cobb, S. (1976). Social support as a mediator
+
+ of life stress. Psychosomatic Medicine, 38,
+ 300-314.
+
+ Coddington, R. D. (1972). The significance of life
+
+ events as etiologic factors in the diseases of
+ children: I. A survey of professional workers.
+ Journal of Psychosomatic Research, 16, 7-18.
+ Cohen, L. H., Burt, C. E., & Bjorck, J. P. (1987).
+
+ Life stress and adjustment: Effects of life
+ events experienced by young adolescents and
+ their parents. Developmental Psychology, 23,
+ 583-592.
+
+ Cohen, S., & Wills, T. A. (1985). Stress, social sup-
+ port, and the buffering hypothesis. Psycholog-
+ ical Bulletin, 98, 310-357.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ Compas, B. E. (1987). Coping with stress during
+
+ Hartup, W. W. (1978). Children and their friends.
+
+ 598 Child Development
+
+ childhood and adolescence. Psychological
+ Bulletin, 101, 393-403.
+
+ Compas, B. E., Howell, D. C., Phares, V., Wil-
+
+ liams, R. A., & Giunta, C. T. (1989). Risk fac-
+ tors for emotional/behavioral problems in
+ young adolescents: A prospective analysis of
+ adolescent and parental stress and symptoms.
+ Journal of Consulting and Clinical Psychol-
+ ogy, 57, 732-740.
+
+ Compas, B. E., Malcarne, V. L., & Fondacaro,
+
+ K. M. (1988). Coping with stressful events in
+ older children and young adolescents. Jour-
+ nal of Consulting and Clinical Psychology,
+ 56, 405-411.
+
+ Compas, B. E., Wagner, B. M., Slavin, L. A., &
+
+ Vannatta, K. (1986). A prospective study of life
+ events, social support, and psychological
+ symptomatology during the transition from
+ high school to college. American Journal of
+ Community Psychology, 14, 241-257.
+
+ Deluty, R. H. (1981). Alternative-thinking ability
+ of aggressive, assertive, and submissive chil-
+ dren. Cognitive Therapy and Research, 5,
+ 309-312.
+
+ Dubow, E. F., & Tisak, J. (1989). The relation be-
+ tween stressful life events and adjustment in
+ elementary school children: The role of social
+ support and social problem-solving skills.
+ Child Development, 60, 1412-1423.
+
+ Dubow, E. F., & Ullman, D. G. (1989). Assessing
+
+ In H. McGurk (Ed.), Issues in childhood
+ social development (pp. 130-170). London:
+ Methuen.
+
+ Hightower, A. D., Spinell, A., & Lotyczewski,
+
+ B. S. (1988). Primary Mental Health Project
+ Teacher-Child Rating Scale. Rochester, NY:
+ Primary Mental Health Project, University of
+ Rochester.
+
+ Hightower, A. D., Work, W. C., Cowen, E. L., Lo-
+
+ tyczewski, B. S., Spinell, A. P., Guare, J. C.,
+ & Rohrbeck, C. A. (1986). The Teacher-Child
+ Rating Scale: A brief objective measure of el-
+ ementary children's school problem behav-
+ iors and competencies. School Psychology
+ Review, 15, 393-409.
+
+ Holahan, C. J., & Moos, R. H. (1981). Social sup-
+ port and psychological distress: A longitudi-
+ nal analysis. Journal of Abnormal Psychol-
+ ogy, 90, 365-370.
+
+ Larzelere, R. E., & Mulaik, S. A. (1977). Single-
+ sample tests for many correlations. Psycholog-
+ ical Bulletin, 84, 557-569.
+
+ Lefkowitz, M. M., Eron, L. D., Walder, L. O., &
+ Huesmann, L. R. (1977). Growing up to be
+ violent: A longitudinal study of the develop-
+ ment of aggression. New York: Pergamon.
+ Lochman, J. E., & Lampron, L. B. (1986). Situa-
+
+ tional social problem-solving skills and self
+ esteem of aggressive and nonaggressive boys.
+ Journal of Abnormal Child Psychology, 14,
+ 605-617.
+
+ social support in elementary school children:
+ The survey of children's social support. Jour-
+ nal of Clinical Child Psychology, 18, 52-64.
+ Elias, M. J., Gara, M., Ubriaco, M., Rothman,
+ P. A., Clabby, J. F., & Schuyler, T. (1986).
+ manual for the Revised Behavior Problem
+ Impact of a preventive social problem solv-
+ Checklist. Coral Gables, FL: University of
+ ing intervention on children's coping with
+ Miami.
+ middle-school stressors. American Journal of
+ Community Psychology, 14, 259-276.
+
+ Quay, H. C., & Peterson, D. P. (1983). Interim
+
+ Miller, D. C. (1977). Handbook of research design
+ and social measurement. New York: McKay.
+
+ Fischler, G. L., & Kendall, P. C. (1988). Social
+
+ cognitive problem solving and childhood ad-
+ justment: Qualitative and topological analy-
+ ses. Cognitive Therapy and Research, 12,
+ 133-153.
+
+ Gardner, H. (1982). Developmental psychology.
+
+ Boston: Little, Brown.
+
+ Gersten, J. C., Langner, T. S., Eisenberg, J. G., &
+ Simcha-Fagan, 0. (1977). An evaluation of the
+ etiologic role of stressful life-change events
+ in psychological disorders. Journal of Health
+ and Social Behaviors, 18, 228-244.
+ Glyshaw, K., Cohen, L. H., & Towbes, L. C.
+
+ (1989). Coping strategies and psychological
+ distress: Prospective analyses of early and
+ middle adolescents. American Journal of
+ Community Psychology, 17, 607-623.
+
+ Quay, H. C., & Peterson, D. P. (1984). Appendix
+ I to the interim manual for the Revised Be-
+ havior Problem Checklist. Coral Gables, FL:
+ University of Miami.
+
+ Richard, B. A., & Dodge, K. A. (1982). Social mal-
+ adjustment and problem-solving in school-
+ aged children. Journal of Consulting and
+ Clinical Psychology, 50, 226-233.
+
+ Rutter, M. (1987). Psychosocial resilience and pro-
+ tective mechanisms. American Journal of Or-
+ thopsychiatry, 57, 316-331.
+
+ Sandler, I. N., & Block, M. (1979). Life stress and
+ maladaptation of children. American Journal
+ of Community Psychology, 7, 425-440.
+
+ Sandler, I. N., Miller, P., Short, J., & Wolchik, S.
+ (1989). Social support as a protective factor for
+ children in stress. In D. Belle (Ed.), Chil-
+ dren's social networks and social supports
+ (pp. 277-307). New York: Wiley.
+
+ Harter, S. (1985). Manual for the Social Support
+ Scale for Children. Denver: University of
+ Denver.
+
+ Sarason, B. R., Shearin, E. N., Pierce, G. R., &
+
+ Sarason, I. G. (1987). Interrelations of social
+ support measures: Theoretical and practical
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+ implications. Journal of Personality and So-
+ cial Psychology, 52, 813-832.
+
+ Spivack, G., Platt, J. J., & Shure, M. B. (1976). The
+
+ problem-solving approach to adjustment.
+ San Francisco: Jossey-Bass.
+
+ Steinberg, L., Elmen, J. D., & Mounts, N. S.
+
+ (1989). Authoritative parenting, psychosocial
+ maturity, and academic success among ado-
+ lescents. Child Development, 60, 1424-1436.
+
+ Swearingen, E. M., & Cohen, L. H. (1985). Life
+
+ events and psychological distress: A prospec-
+ tive study of young adolescents. Develop-
+ mental Psychology, 21, 1045-1054.
+
+ Dubow et al. 599
+
+ Tisdelle, D. A., & St. Lawrence, J. S. (1986). Inter-
+ personal problem-solving competency: Re-
+ view and critique of the literature. Clinical
+ Psychology Review, 6, 337-356.
+
+ Wagner, B. M., Compas, B. E., & Howell, D. C.
+
+ (1988). Daily and major life events: A test of
+ an integrative model of psychosocial stress.
+ American Journal of Community Psychology,
+ 16, 189-205.
+
+ Wertlieb, D., Weigel, C., & Feldstein, M. (1987).
+ Stress, social support, and behavior symptoms
+ in middle childhood. Journal of Clinical
+ Child Psychology, 16, 204-211.
+
+This content downloaded from 
+(cid:0)139.18.244.34 on Tue, 23 Jun 2020 08:40:42 UTC(cid:0)
+
+(cid:0) 
+
+All use subject to https://about.jstor.org/terms
+
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+(cid:0)
+

@@ -1,0 +1,3546 @@
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+NIH Public Access
+Author Manuscript
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+Published in final edited form as:
+
+J Posit Psychol. 2009 May 1; 4(3): 223–233. doi:10.1080/17439760902819444.
+
+Assessment of preschoolers’ positive empathy: concurrent and
+longitudinal relations with positive emotion, social competence,
+and sympathy
+
+Julie Sallquista,*, Nancy Eisenberga, Tracy L. Spinradb, Natalie D. Egguma, and Bridget M.
+Gaertnerb
+a Department of Psychology, Arizona State University, USA
+b School of Social and Family Dynamics, Arizona State University, USA
+
+Abstract
+
+The purpose of this study was to examine a new measure of children’s dispositional positive empathy
+(i.e., reactions to others’ positive emotions) and its concurrent and longitudinal relations with positive
+emotion, social competence, and empathy/sympathy with negative emotions. At Time 1, 192 3.5-
+year-olds (88 girls) participated; at Time 2, 1 year later, 168 4.5-year-olds (79 girls) participated.
+Children’s positive empathy was reported by mothers and observed in the laboratory at Time 2.
+Additionally, mothers, fathers, and non-parental caregivers completed questionnaires at Time 1 and
+Time 2 regarding children’s positive emotion, empathy/sympathy, and social competence. Children’s
+positive emotion was observed at both assessments. There was evidence of reliability of the new
+reported measure of positive empathy. Additionally, there were numerous positive relations between
+positive empathy and social competence and between positive empathy and empathy/sympathy with
+negative emotions. This study provides unique insight into children’s positive empathy and relations
+to socio-emotional functioning.
+
+Keywords
+
+positive empathy; positive emotion; social competence; empathy/sympathy
+
+Introduction
+
+Researchers studying empathy typically have focused on empathic responses to others’
+negative emotions rather than positive emotions. Positive affect has been related to benefits in
+a variety of domains of functioning (e.g., physical, cognitive, social; Fredrickson, 2001), but
+the relations of vicariously induced positive affect (positive empathy) to other socio-emotional
+competencies, such as social adjustment, seldom have been examined. The main purpose of
+this study was to examine the reliability of a new measure of children’s dispositional positive
+empathy and to examine the concurrent and longitudinal relations of positive empathy to
+positive emotion, empathy/sympathy, and social competence.
+
+Defining positive empathy
+
+Eisenberg and colleagues have defined empathy as ‘an affective response that stems from the
+apprehension or comprehension of another’s emotional state or condition, and that is identical
+
+*Corresponding author. Julie.sallquist@asu.edu.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 2
+
+or very similar to what the other person is feeling or would be expected to feel’ (Eisenberg &
+Fabes, 1998, p. 702). Many researchers examining empathy have focused on sympathy, which
+often may stem from empathy, and has been defined as an ‘other-oriented emotional reaction
+(such as concern) to another’s emotional state or condition’ (Eisenberg et al., 1989, p. 55). A
+lack of empathy regarding others’ negative emotions in early childhood is believed to
+contribute to psychopathology later in life (e.g., conduct disorder and psychopathy; Cohen &
+Strayer, 1996; Pardini, Lochman, & Frick, 2003). Moreover, empathy/sympathy (often
+measured as a reaction to others’ negative emotions) has been positively related to prosocial
+behavior, social competence, low levels of aggression, and higher-level moral reasoning
+(Eisenberg, Fabes, Murphy, Karbon, Smith, & Maszk, 1996; Eisenberg, Fabes, & Spinrad,
+2006; Eisenberg & Miller, 1987; Eisenberg, Miller, Shell, McNally, & Shea, 1991; Miller &
+Eisenberg, 1988). Thus, empathy is a critical element of children’s socio-emotional
+development.
+
+In contrast to empathy/sympathy with others’ negative emotions or states, positive empathy
+(an expression of happiness or joy that results from comprehending another person’s positive
+emotional state or condition) has not been extensively investigated. Assessing children’s
+positive empathy should provide a unique insight into how children experience and/or express
+positive emotion and approach positive situations. Most of the studies that measured positive
+empathy in children used a picture-story method (e.g., De Weid, Goudena, & Matthys, 2005;
+Feshbach & Feshbach, 1969; Roberts & Strayer, 1996; Strayer, 1993); this method has been
+found to be problematic because children’s answers vary as a function of the experimenter’s
+gender (see Eisenberg & Lennon, 1983: Lennon, Eisenberg, & Carroll, 1983). In the present
+study, positive empathy was assessed with a new reported measure containing an array of
+scenarios that typically elicit vicarious positive affect and with an observed measure of positive
+empathy targeting a specific scenario (i.e., the experimenter receiving a surprise gift).
+
+Emotion and empathy/sympathy
+
+Emotions can be experienced in two ways: (1) directly (i.e., generated based on one’s own
+experiences) and (2) indirectly (i.e., generated by others’ emotions and/or experiences). Some
+researchers examining the relation between direct and indirect negative emotion have found a
+negative relation (especially when intense negative emotions were assessed) between negative
+emotionality and empathy with negative emotions but other researchers have found a positive
+relation (when non-intense negative emotions were assessed) between negative emotionality
+and empathy with negative emotions (see Eisenberg et al., 2006). Although, to our knowledge,
+researchers specifically have not investigated the relation between positive empathy and
+positive emotionality, it is likely that they are related positively because both involve the
+experience of positive affect. Strayer (1980) found a positive relation between children’s
+observed positive affect to a film containing positive content and their empathic responses
+(empathic responses, a match between facial reactions and context of the films, were a
+composite of responses from positive and negative emotion-eliciting situations). Additionally,
+a positive relation between positive affect and positive empathy is logical because positive
+emotions have been associated with attending to situations (Aspinwall & Richter, 1999); thus,
+children’s awareness and sensitivity to the context may become heightened as they experience
+positive affect which, in turn, may increase the likelihood of an empathic reaction.
+
+With regard to direct emotional experiences, researchers have found that negative and positive
+emotionality are best represented as two dimensions rather than one dimension (Belsky, Hsieh,
+& Crnic, 1996) and that the two types of emotions typically elicit differential patterns of brain
+activity (Harmon-Jones, 2003). One cannot simply assume, therefore, that positive and
+negative empathy are related or represent the same underlying continuum; indeed, some of the
+limited existing research on the topic suggests they are not equivalent in their relations to other
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 3
+
+constructs, such as social adjustment (Feshbach, 1982; Zhou et al., 2002). Thus, even though
+empathy with negative emotions and empathy with positive emotions both involve vicariously
+induced emotion, they may be orthogonal processes. The examination of the association
+between the two types of empathy is necessary. In the present study, empathy with negative
+emotions was included as an index of possible convergent validity of empathy with positive
+emotions.
+
+Social competence
+
+Empathy frequently has been viewed as contributing to individuals’ social competence and the
+quality of their social relationships (see Davis, 2004; Eisenberg & Miller, 1987). Social
+competence is necessary for social adjustment and successful social interactions. Researchers
+have found positive emotion to be related positively to the quality of social interactions
+(Denham, McKinley, Couchoud, & Holt, 1990; McDowell & Parke, 2005; Sroufe, Schork,
+Motti, Lawroski, & LaFreniere, 1984) and inducing positive emotion (through reminiscing
+about happy events) can facilitate prosocial behavior (related to social competence; Rosenhan,
+Underwood, & Moore, 1974). In regard to empathy, experiencing another person’s emotional
+state likely has implications for the quality of one’s social relationships and social interactions.
+For example, empathy (regardless of valence) would be expected to be rewarding to others and
+to foster continued interaction because of the likely connectedness with the person initially
+experiencing an emotional response that is facilitated from an empathic reaction (see Davis,
+2004). Consistent with this argument, Davis and Oathout (1987, 1992) found that adults’
+empathic concern (i.e., sympathy) was related to warmth (e.g., affectionate, generous), a
+positive outlook, and, for women only, low levels of insensitivity (in the 1987 but not 1992
+study).
+
+Researchers examining the constructs of empathy with negative emotions or sympathy and
+social competence have found a positive relation between this type of empathy and social
+competence (e.g., popularity, socially appropriate behavior, and constructive social strategies)
+in childhood (Denham, 1986; Eisenberg & Fabes, 1998; Eisenberg et al., 1996, 2006; Garner,
+1996; Zhou et al., 2002) and in adolescence (e.g., Laible, Carlo, & Raffaelli, 2000). For
+example, Zhou et al. (2002) found that children’s empathy with negative emotions (assessed
+in response to viewing emotion-eliciting slides) was positively related to children’s social
+competence (i.e., social skills and popularity) concurrently and 2 years later.
+
+When researchers have examined positive empathy, findings on its relation to social
+competence have been mixed. Zhou et al. (2002) also examined the relation between children’s
+positive empathy (response to viewing slides with positive emotion-eliciting content) and
+adult-reported (parent and teacher) social competence. At the initial assessment and 2-year
+follow-up, there was not a significant relation between children’s facial display of positive
+affect in reaction to positive emotion eliciting slides and social competence (as reported by
+parents and teachers). However, there was a significant relation between children’s self-
+reported positive affect in response to viewing the slides at the first assessment and teacher-
+reported social competence at the later assessment. In another study, De Weid et al. (2005)
+examined positive empathy in response to filmed vignettes and found no mean differences
+between boys with and boys without deficits in social competence (i.e., disruptive behavior;
+girls were not assessed).
+
+Other researchers have found a negative relation between positive empathy and social
+competence. Feshbach (1982) found that aggressive and antisocial boys who are typically rated
+low in social competence tended to respond with excitement during a positive emotion-eliciting
+video; no relation between excitement and aggressive behavior was found with girls. Feshbach
+(1982) suggested that the aggressive boys responded with extremely high levels of vicarious
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 4
+
+joy because of their desire to heighten their own positive affect through sensation seeking.
+Children who respond with either slight or intense joy may be lower in social competence than
+children who respond with moderate happiness. It is important to study a more normative group
+of children than the group used by Feshbach (1982) in order to understand the relation of
+positive empathy to social competence.
+
+In adults, the relation between positive empathy and related aspects of social competence (e.g.,
+prosocial behavior) has been found to depend on the target of the positive emotion-eliciting
+situation. More specifically, Rosenhan, Salovey, and Hargis (1981) examined differences
+between participants who received a self-oriented elicitation of positive affect condition
+(receiving a trip to Hawaii) and participants who received an other-oriented elicitation of
+positive affect condition (friend receives a trip to Hawaii). After the participants read their
+assigned scenario and completed a mood questionnaire, they were allowed to leave or stay as
+long as they wanted to help in another study. Based on the results, participants in the self-
+oriented condition helped more (i.e., completed more questions for the other study) than
+participants in the other-oriented condition. Thus, the induction of positive affect likely
+facilitated a prosocial response.
+
+The present study
+
+This study had two major goals. The first goal was to assess the reliability and validity of a
+new parent-report measure of children’s positive empathy. In order to address this goal, in
+addition to examining the internal reliability (i.e., alpha), a confirmatory factor analysis was
+conducted in order to confirm that a single-factor model represented the reported measure.
+Additionally, the relation between the reported measure of positive empathy and observed
+measure of positive empathy was examined. The second major goal was to assess the relations
+of children’s positive empathy with longitudinal and concurrent measures of children’s positive
+emotion, empathy/sympathy, and social competence.
+
+According to Hoffman’s theory of the development of empathy, children who are at least 3
+years old have the ability to empathize and sympathize with others through rudimentary
+perspective taking (Hoffman, 1990). Moreover, 3-year-olds are quite able to recognize and
+label positive emotion (e.g., Saarni, 1999). Therefore, the children in this study were expected
+to have the cognitive abilities necessary to empathize in the situations that their mothers rated
+and in the observed situation.
+
+Because both positive emotion and positive empathy involve the display of positive affect, it
+seemed likely that the pattern of relations of positive empathy to empathy/sympathy and social
+competence would be similar to that with dispositional positive emotionality (i.e., positive
+relations between the constructs). In addition, we expected children high in positive empathy
+to be relatively high in social competence. Some researchers have found a negative relation
+between positive affect and social adjustment (Lengua, 2003; Lengua & Long, 2002).
+However, within the context of the present study, positive empathy (e.g., smiling when
+someone else receives a gift or responding with positive affect to someone else’s good news)
+could be considered socially appropriate. Furthermore, if children experience positive
+empathy, it is likely a sign that they are attending to their surroundings (e.g., others’ socio-
+emotional behavior); thus, socially competent behavior might stem from, or at least be related
+to, positive empathy.
+
+Positive empathy and negative empathy/sympathy were expected to be related positively
+because both involve the vicarious experiences of emotion. We assumed that attention to others
+and emotional receptivity and perspective taking underlie both positive and negative empathy.
+However, a relation between the two might not be found if a child’s positive empathy is
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+Sallquist et al.
+
+Page 5
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+Method
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+generated by something other than responding from genuine vicarious joy. For example,
+children viewing another person receive a prize or gift might smile because they think they
+will receive something too or become excited because they think they might get to play with
+the object.
+
+Sex differences also were examined. Researchers have found that girls, in comparison to boys,
+typically exhibit higher levels of certain socially competent behaviors (see Eisenberg et al.,
+2006), empathy/sympathy (see Eisenberg et al., 2006; Roberts & Strayer, 1996), and certain
+types of positive emotion (Else-Quest, Hyde, Goldsmith, & Van Hulle, 2006). Thus, girls were
+expected to be higher in mean levels of these constructs. Also, because girls’ display positive
+emotion might be seen as more socially appropriate than boys (Eisenberg et al., 2006; LaFrance,
+Hecht, & Paluck, 2003), it seemed possible that the relations among constructs would differ
+for girls and boys.
+
+The numbers of families participating in the assessments were 192 when children were
+approximately 3.5 years old (M= 3.48 years, SD = 0.05; 88 girls; 191 mothers and 1
+grandmother; henceforth labeled T1) and 168 children 1 year later (M = 4.49 years, SD = 0.07;
+79 girls; 167 mothers and 1 grandmother; henceforth labeled T2). Additionally, fathers and
+non-parental caregivers (e.g., babysitter, daycare teacher) completed questionnaires at T1 and
+T2 (ns= 136 and 119, for fathers; ns= 151 and 145, for caregivers). Correlations among
+variables were similar with and without the grandmother who participated; henceforth, we
+often use the term ‘mother’ for simplicity when referring to the primary caregivers.
+
+Initially, families were recruited at local hospitals shortly after the child’s birth. Mothers’
+average age at the birth was approximately 29 years (range = 19 to 44 years). At T1, the children
+who participated were non-Hispanic, Caucasian (n= 142, 74%); Hispanic, Caucasian (n = 22;
+11%); non-Hispanic, African American (n= 7, 4%); Asian American (n = 2, 1%); non-Hispanic,
+Native American (n= 3, 2%); non-Hispanic, other racial minority or mix of two races (n= 13,
+7%); Hispanic, Native American (n= 1, < 1%); and Hispanic, mix of two races or other race
+(n= 1, <1%; missing data: n=1, <1%). Mother-reported family income ranged from less than
+US$15,000 to over US$ 100,000 (n= 161; 31 mothers did not report annual income; median =
+US$45,000 to US$60,000). For mothers, approximately 4% attended some high school, 9%
+graduated high school, 41% attended some college, 32% graduated college, and 11% attended
+graduate school (n = 5, missing data, 3%). At T2, percentages for demographic variables were
+similar.
+
+Attrition analyses
+
+A series of attrition analyses was conducted in order to examine if there were differences among
+the demographic variables or observed variables between participants at T2 and those who
+dropped out after T1. There were no significant multivariate or univariate effects.
+
+Procedure
+
+Children and their primary caregivers came to a research laboratory room at a university in a
+large metropolitan area. A trained female undergraduate experimenter conducted all of the
+laboratory tasks. Children’s positive emotions were videotaped during emotion-eliciting
+situations at T1 and T2. Mothers reported on children’s positive emotion (at T2 only), social
+competence, and empathy/sympathy. Mothers also provided demographic information (e.g.,
+ethnicity, family income level, and maternal education) and contact information for another
+caregiver (non-parental) who knew the child well. The additional caregiver was contacted and,
+after consent was obtained, was mailed a questionnaire (with a return envelope) pertaining to
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Measures
+
+children’s socio-emotional behaviors. Fathers also were mailed similar questionnaires. For
+participation, children received a small toy and mothers received a moderate payment. The
+caregivers and fathers received moderate and small payments, respectively.
+
+Page 6
+
+Children’s positive empathy was observed and reported with new measures at T2. Positive
+emotion, social competence, and empathy/sympathy were assessed at T1 and T2. The observed
+tasks were coded by two separate assistants per task. One research assistant coded all of the
+videotapes for a particular task and the other coded between 25% and 30% of the videotapes
+for reliability.
+
+Children’s positive empathy
+
+Observed positive empathy—Children’s situational positive empathy was observed at T2
+during a simulation of the experimenter joyfully responding to receiving a gift. The task began
+immediately after a research assistant knocked on the door, informed the experimenter that a
+present was dropped off for her, and handed the gift bag to the experimenter. The experimenter
+responded with, ‘Really? I wonder what it is.’ The research assistant remained in the room and
+pretended to look busy so that the child could not receive nonverbal cues from the research
+assistant. For 30 seconds, the experimenter smiled and responded with positive vocalizations
+(e.g., ‘This is so cool’; This was such a surprise’; ‘Wow’) as she looked inside the bag and
+rustled the tissue paper. The experimenter was trained to focus on the gift so that children would
+not contingently respond to someone smiling directly at them. Additionally, the gift remained
+in the bag the entire task so that the desirability of the object would not influence children’s
+reactions. Children’s intensity of positive emotion displayed during the situation was reliably
+coded in 5-second intervals (intraclass r= .80; 1 = no display of emotion to 4 = extremely intense,
+prolonged display of emotion).
+
+Reported positive empathy—At T2, children’s positive empathy was reported by mothers.
+We created a new measure to assess children’s dispositional positive empathy. Seven items
+are included in the Dispositional Positive Empathy Scale (DPES; e.g., my child is likely to
+show happiness when she/he sees another child receive a gift; see Appendix A for scale items).
+Mothers were asked to select a response (1 = really untrue to 4 = really true) that best fit their
+children (alpha = .81).1
+
+Children’s positive emotion
+
+Children’s positive expressivity was observed at T1 and T2. Additionally, at T2, mothers and
+non-parental caregivers rated children’s positive emotionality.
+
+Positive expressivity during bubbles—At T1 and T2, intensity of positive expressivity
+was reliably coded in 5-second intervals while the experimenter blew bubbles for 1 minute (1=
+no display to 4 = intense display; intraclass rs= .71 and .71). This task is often used by
+researchers to examine children’s positive expressivity (Goldsmith, Reilly, Lemery, Longley,
+& Prescott, 1999). Children’s positive affect during the bubbles task at T1 and T2 were
+significantly related, r(165) = .40, p <.01.
+
+Reported positive emotionality—At T2, mothers and non-parental caregivers rated their
+children’s positive emotionality with the smiling/laughter subscale of the Child Behavioral
+Questionnaire (CBQ; Rothbart, Ahadi, Hershey, & Fisher, 2001) on a 7-point scale (1=
+
+1The DPES was piloted with parents (N = 19) whose children (M = 4.56 years, SD = 0.61) attended two local daycares. The measure had
+good internal validity, alpha = .79.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 7
+
+never to 7 = always; alphas = .79 and .81; to minimize the number of questionnaires, fathers
+were not asked to complete this questionnaire). The smiling/laughter scale contains 13 items
+examining the amount of positive affect in response to changes in stimulus intensity, rate,
+complexity, and incongruity (e.g., smiles a lot at people s/he likes). Mothers’ and other
+caregivers’ ratings were not significantly correlated, r(142) = .13, ns.
+
+Children’s empathy/sympathy
+
+Mothers, non-parental caregivers, and fathers rated children’s empathy/sympathy using the
+empathy/sympathy subscale (7 items; e.g., is aware of other people’s feelings, is worried or
+upset when someone is hurt; 1 item was related to positive emotion, jokes or gives you things
+to make you smile or laugh2) of the Infant-Toddler Social and Emotional Assessment (ITSEA;
+Briggs-Gowan & Carter, 1998) at T1 (alphas = .76, .78, and .78, respectively) and at T2
+(alphas= .78, .76, and .81, respectively). Adults’ ratings of empathy/sympathy at T1 and at T2
+were significantly related within reporter, rs(97–179) = .20–.66, ps <.05, and all ratings were
+significantly related to mothers’ ratings at T1, rs(114–143)=.24–.40, ps<.01. There also was a
+significant relation between mothers’ and fathers’ ratings at T2, r(116) = .33, p <.01.
+
+Children’s social competence
+
+At T1 and T2, parents and non-parental caregivers rated (1=not true to 3 = very true) children’s
+social competence using the ITSEA (Briggs-Gowan & Carter, 1998). A composite of social
+competence was formed with two subscales, imitation/play (6 items; e.g., rolls a ball back to
+you or someone else, imitates playful sounds when you ask him/her to) and compliance (8
+items; e.g., is well behaved, obeys when asked to stop being aggressive), for mothers’, non-
+parental care-givers’, and fathers’ reports (alphas = .69, .73, and .81 at T1; alphas = .71, .74,
+and .73 at T2). Typically, empathy/sympathy is included in the composite with imitation/play
+and compliance; however, empathy/sympathy was kept separate because of the conceptual
+differences between social competence (i.e., imitation/play and compliance) and emotional
+competence (i.e., empathy/sympathy) and the conceptual overlap between children’s reported
+positive empathy and the empathy/sympathy subscale. Adults’ ratings of social competence
+were significantly interrelated within and across time, rs(88–179)= .19–.55, ps <.05, except
+for a non-significant relation between caregivers’ and fathers’ ratings at T1. Social competence
+and empathy/sympathy were moderately correlated within T1 and within T2 for mothers, rs
+(204; 187) = .56 and .46, ps <.01, for caregivers, rs(147; 141) = .56 and .48, ps <.01, and for
+fathers, rs(133; 117) = .60 and .56, ps < 01.
+
+Results
+
+As previously mentioned, the study had two major goals: (1) to examine the reliability of a
+new measure of children’s dispositional positive empathy and (2) to examine the relations of
+positive empathy to positive emotion, empathy/sympathy, and social competence. Descriptive
+analyses are presented first, followed by a confirmatory factor analysis (CFA) of the DPES
+and the relations among child outcomes.
+
+Descriptive and preliminary analyses
+
+Means and standard deviations of the measures for the total sample and by children’s sex are
+provided in Table 1. All variables met normality criteria (see Curran, West, & Finch, 1996).
+Additionally, the time difference between the completion dates of parents’ and caregivers’
+questionnaires (i.e., a proxy for the difference in children’s age between the completions of
+
+2Analyses were computed without this item included in the empathy/sympathy scale. The results from the ANOVAs and all correlations
+were similar when this item was and was not included. Therefore, the complete subscale (7 items) was used.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 8
+
+questionnaires) was used as a covariate in correlations among parents’ and caregivers’ reports
+of positive emotion, empathy/sympathy, and social competence. The time difference was
+calculated by subtracting the date of the laboratory visit or date of the completion of
+questionnaires sent to the parents’ houses (if they did not come for a laboratory visit) from the
+date of completion of the caregivers’ questionnaires. There were no differences in the
+significance level of the partial correlations among these variables; therefore, the time lag
+between parents’ and caregivers’ questionnaires was not used as a covariate.
+
+Relations between socio-economic status and major constructs—Mothers’
+education and family income were standardized and averaged to form a measure of socio-
+economic status (SES). There were several relations between SES and the major study
+variables. SES was positively related to mothers’ and fathers’ reports of social competence at
+T1, rs(195 and 126) = .15 and .22, ps = .03 and .01, and with mothers’, fathers’, and caregivers’
+reports of social competence at T2, rs(180, 111, and 137) = .17, .21, and .23, ps = .03, .03,
+and .01. At T2, SES was positively related to the DPES, r(180) = .18, p = .01. There were no
+significant relations between SES and positive emotion, empathy/sympathy, or observed
+positive empathy. There were no differences in the pattern of findings when SES was covaried;
+thus, SES was not covaried in further analyses.
+
+Sex differences—ANOVAs were computed to examine sex differences in mean levels of
+all major variables. Overall, the mean levels of the DPES, observed positive empathy,
+caregiver-reported social competence at T1 and T2, and mother-reported empathy/sympathy
+at T1 and T2 were similar for boys and girls. Observed positive emotion was higher in girls
+than boys at T2, F(1, 166) = 11.70, p < .01. There were numerous differences in social
+competence and empathy/sympathy; in all cases, girls were significantly higher than boys: (1)
+mothers’ ratings of social competence at T1 and T2, Fs(1, 203; 1, 187) = 6.66 and 5.49, ps =.
+01 and .02; (2) fathers’ ratings of social competence at T1 and T2, Fs(1, 133; 1, 117) = 10.95
+and 9.38, ps < .01; (3) caregivers’ ratings of empathy/sympathy at T1 (but not T2), Fs(1, 147)
+= 4.70, ps = .03; and (4) fathers’ ratings of empathy/sympathy at T1 and T2, Fs(1, 133; 1, 117)
+= 5.54 and 7.13, ps = .02 and .01. Significant sex differences in all correlations were assessed
+using the Fisher r-to-z transformation formula (Steiger, 1980). There were no significant sex
+differences among the correlations. Thus, the correlations are presented for the entire sample.
+
+Confirmatory factor analysis
+
+Muthén and Muthén’s (1998–2007) Mplus 4.2 was used to confirm that the DPES represented
+one factor. The cut-points for fit indices recommended by Hu and Bentler (1999) were used.
+Based on the CFA, the one-factor model fit the data well (after measurement error among three
+items was accounted for in the model; i.e., the addition of three correlations among the error
+variances of items 1 and 4, items 4 and 6, and items 6 and 7): χ2(11) = 15.85, ns; CFI = .99;
+RMSEA = 0.05 (90% Confidence Interval = 0.00, 0.10); SRMR = 0.04. All items loaded
+significantly, unstandardized, βs = .55 to 1.08, completely standardized βs = .42 to .77, ps < .
+01.
+
+Relations of positive empathy with empathy/sympathy, positive emotion, and social
+competence
+
+There was some evidence of the usefulness of the DPES beyond that of finding high internal
+reliability. In regard to the measures of vicarious emotional experiences, there were positive
+relations between positive empathy and empathy/sympathy (see Table 2). At T1 and T2,
+mothers’ and fathers’ reports of empathy/sympathy were positively related to the DPES.
+Caregivers’ reports of empathy/sympathy were unrelated to the DPES. There also were
+relations between children’s positive empathy and positive affect (see Table 2). Children’s
+parent-reported positive empathy was related positively to mother-reported positive emotion
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 9
+
+but was unrelated to caregiver-reported positive emotion. The DPES also was related positively
+to observed positive emotion at T1 but was unrelated to observed positive emotion at T2.
+
+There were numerous relations between children’s social competence and positive empathy
+(see Table 2). At T1 and at T2, mothers’ and caregivers’ reports of social competence were
+positively related to the DPES. Father-rated social competence was unrelated to the DPES. In
+regard to the observed measure of positive empathy, this measure was marginally positively
+related to the DPES; however, this finding was only with girls, r(75) = .22, p < .10 (for boys,
+the two measures were unrelated). Children’s observed positive empathy was not significantly
+related to any of the other constructs.
+
+Discussion
+
+In the present study, the reliability of the DPES and its relations with empathy/sympathy,
+positive emotion, and social competence were examined. Based on the CFA, we confirmed
+that the DPES represented one factor. In regard to the two measures of positive empathy, there
+was a marginal relation between observed positive empathy and the DPES, which provides
+additional support (although somewhat weak because the relation only was marginal and only
+for girls) for convergent validity. Additionally, there were several correlations of the DPES
+with empathy/sympathy and social competence for multiple reporters at both assessments.
+
+The observed measure of positive empathy, however, was unrelated to the other measures in
+the present study. Zhou et al. (2002) also found a lack of relations between observed positive
+empathy and social adjustment. Perhaps, in the present study, children responded with positive
+affect towards the experimenter because they thought they might receive something or get to
+play with the object (throughout the laboratory visit children played with toys and objects and
+received small prizes for their participation). Additionally, the lack of a significant relation
+between the two measures of positive empathy could be in part attributed to the measurement
+context; the observed measure was based on one situation (and only 30 seconds in length)
+whereas the score on the DPES was based on an average rating from an array of situations.
+
+Relations of positive empathy with similar constructs
+
+There was support for an association between positive empathy and empathy/sympathy. The
+DPES was positively related to mothers’ and fathers’ ratings of empathy/sympathy at T1 and
+T2. The relation between these constructs suggests that empathy with positive emotions and
+empathy with negative emotions are not completely orthogonal processes. However, the
+association does not mean that they are the same. When both positive empathy and sympathy
+have been investigated, researchers have found that these constructs relate somewhat
+differently to other constructs (see Feshbach, 1982; Zhou et al., 2002). In contrast, we found
+support for a positive association between positive empathy and social competence that is
+similar to researchers’ findings for empathy with negative emotions (e.g., Zhou et al., 2002).
+
+There also was support for a relation between reported positive empathy and positive emotion.
+The DPES at T2 was positively related to mother-reported positive emotionality at T2 and
+observed positive emotion at T1. It was surprising that the relation between observed positive
+emotion and reported positive empathy at T2 was not significant, especially given the moderate
+positive correlation between the observed measure of positive affect at T1 and T2 and other
+researchers’ findings of rank-order consistency in laboratory measures of this construct
+(Durbin, Hayden, Klein, & Olino, 2007; Kochanska, Aksan, Penney, & Doobay, 2007). It is
+difficult to draw conclusions about this unexpected finding (or lack thereof) because positive
+empathy was not measured at T1. Perhaps, observing positive affect across several situations
+would result in a more trait-like construct than state-like construct and, in turn, result in a more
+consistent relation between positive emotion and positive empathy.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 10
+
+Relations of positive empathy with social competence
+
+Overall, there was evidence for positive relations within and across time between positive
+empathy and social competence. More specifically, the DPES was positively related to adults’
+ratings of social competence (mothers’ and caregivers’ reports) at T1 and T2. Researchers have
+found that children’s positive emotion during social exchanges is beneficial for their peer
+relations (e.g., Lengua, 2003; Sroufe et al., 1984). Additionally, researchers have found positive
+relations between children’s sympathy and social competence (e.g., Eisenberg et al., 1996;
+Garner, 1996; Zhou et al., 2002). In the present study, it is interesting that even though the
+scenarios in the DPES did not directly assess positive emotion (like the smiling/laughter
+subscale), the relation between positive empathy and social competence was found. Thus, this
+study provides support for the relation of vicarious positive emotion with children’s social
+competence. Positive empathy might promote social competence through the facilitation of
+positive social interactions as a result of approach and exploration tendencies (e.g., display of
+positive affect; Frijda, Kuipers, & ter Schure, 1989). On the other hand, social competence
+might promote positive empathy because successful social interactions likely engender positive
+feelings and, thus, enhance one’s susceptibility to positive empathy. The relation between
+positive empathy and social competence is likely transactional. More research examining the
+longitudinal relations of these constructs is needed.
+
+Sex differences
+
+Although there were no significant sex differences in the correlations and no mean-level sex
+differences in positive empathy, there were mean level differences for children’s social
+competence, empathy/sympathy, and observed positive emotion (with girls scoring higher than
+boys on all three constructs). Overall, the results in regard to sex differences were consistent
+with previous research. Other researchers have found that girls are rated higher in social
+competence and empathy/sympathy (Eisenberg, Fabes, Murphy, Maszk, Smith, & Karbon,
+1995; Eisenberg et al., 2006; Mpofu, Thomas, & Chan, 2004). Researchers also have found
+that girls are rated higher in certain types of positive emotion compared to boys; however, the
+difference favoring girls has typically been found with moderated positive affect and not
+intense positive emotions (Else-Quest et al., 2006). Even though the bubbles task, a task on
+which girls exhibited more positive emotion, typically elicits intense positive affect, it also
+involves a social interaction with a female adult. In research involving affective responses,
+children sometimes respond with more affect to same-sex experimenters or targets than
+opposite-sex (e.g., Eisenberg & Lennon, 1983; Feshbach & Roe, 1968). Girls, compared to
+boys, also may recognize and more freely express positive emotion in social settings (e.g., in
+the bubbles context) but not in situations that vicariously evoke positive affect (recall that there
+were no sex differences on the DPES or observed measure of positive empathy).
+
+Strengths and limitations
+
+The present study investigated positive empathy, a construct that has been understudied. Even
+though the study had numerous strengths with its multi-method and longitudinal design, there
+also were some limitations. One limitation was the use of only one rater for the DPES. In the
+future, now that this adult-reported measure demonstrated initial evidence of acceptable
+reliability and relations with other conceptually-related variables, it would be advantageous to
+replicate findings with another sample and with reports from multiple raters. Additionally, with
+the reported measures, relations were not consistent across all three reporters; this is likely
+because reporters view children in different contexts or situations. Another limitation was the
+report of positive emotion at T2 and not at T1. Further longitudinal research examining positive
+emotion and positive empathy would be beneficial to aid in the understanding of the relation
+between these constructs. In addition, it is quite possible that the findings may not generalize
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 11
+
+to samples from other cultures because the expression of positive emotion is viewed differently
+in different cultures (e.g., Eisenberg, Liew, & Pidada, 2001).
+
+In the future, assessing positive empathy across an array of contexts would be beneficial in
+order to rule out confounds of specific objects in situations and social norms. Additionally, it
+would be beneficial to have multiple reporters and observations of positive empathy to examine
+the consistency across contexts, especially because the strongest support for the DPES was the
+relation within reporter (i.e., mothers’ ratings) and the marginally significant correlation
+between observed and reported positive empathy for girls. In the future, exploring more aspects
+of social competence would be beneficial (recall that our construct of social competence
+contained only compliance and imitation/play) as well as other aspects of socio-emotional
+development. In summary, the present study provides initial evidence for a measure of
+children’s positive empathy and provides insight into the role of children’s positive empathy
+in aspects of socio-emotional development.
+
+Acknowledgments
+
+This research was supported by a grant from the National Institute of Mental Health awarded to Nancy Eisenberg and
+Tracy L. Spinrad. We express our appreciation to the families who participated in the study and to the many research
+assistants who contributed to this project. We also thank our project director, Anne Kupfer, and the numerous graduate
+students who have assisted with this project.
+
+References
+
+Aspinwall LG, Richter L. Optimism and self-mastery predict more rapid disengagement from unsolvable
+
+tasks in the presence of alternatives. Motivation and Emotion 1999;23:221–245.
+
+Belsky J, Hsieh K, Crnic K. Infant positive and negative emotionality: One dimension or two?
+
+Developmental Psychology 1996;32:289–298.
+
+Briggs-Gowan MJ, Carter AS. Preliminary acceptability and psychometrics of the Infant-Toddler Social
+and Emotional Assessment (ITSEA): A new adult-report questionnaire. Infant Mental Health Journal
+1998;19:422–445.
+
+Cohen D, Strayer J. Empathy in conduct-disordered & comparison youth. Developmental Psychology
+
+1996;32:988–998.
+
+Curran PJ, West SG, Finch JF. The robustness of test statistics to nonnormality and specification error
+
+in confirmatory factor analysis. Psychological Methods 1996;1:16–29.
+
+Davis, MH. Empathy: Negotiating the border between self and other. In: Tiedens, LZ.; Leach, CW.,
+
+editors. The social life of emotions. Cambridge: Cambridge University Press; 2004. p. 19-42.
+
+Davis MH, Oathout HA. Maintenance of satisfaction in romantic relationships: Empathy and relational
+
+competence. Journal of Personality and Social Psychology 1987;53:397–410.
+
+Davis MH, Oathout HA. The effect of dispositional empathy on romantic relationship behaviors:
+
+Heterosocial anxiety as a moderating influence. Personality and Social Psychology Bulletin
+1992;18:76–83.
+
+Denham SA. Social cognition, prosocial behavior, & emotion in preschoolers: Contextual validation.
+
+Child Development 1986;57:194–201.
+
+Denham S, McKinley M, Couchoud EA, Holt R. Emotional and behavioral predictors of preschool peer
+
+ratings. Child Development 1990;61:1145–1152. [PubMed: 2209184]
+
+De Weid M, Goudena PP, Matthys W. Empathy in boys with disruptive behavior disorders. Journal of
+
+Child Psychology and Psychiatry 2005;46:867–880. [PubMed: 16033635]
+
+Durbin EG, Hayden EP, Klein DN, Olino TM. Stability of laboratory-assessment temperamental
+
+emotionality traits from ages 3 to 7. Emotion 2007;7:388–399. [PubMed: 17516816]
+
+Eisenberg, N.; Fabes, RA. Prosocial development. In: Damon, W.; Eisenberg, N., editors. The handbook
+
+of child psychology: Vol. 3. Social, emotional, and personality development. Vol. 5. New York:
+Wiley; 1998. p. 701-778.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 12
+
+Eisenberg N, Fabes RA, Miller PA, Fultz J, Shell R, Mathy RM, et al. Relation of sympathy and personal
+distress to prosocial behavior: A multimethod study. Journal of Personality and Social Psychology
+1989;57:55–66. [PubMed: 2754604]
+
+Eisenberg N, Fabes RA, Murphy B, Karbon M, Smith M, Maszk P. The relations of children’s
+
+dispositional empathy-related responding to their emotionality, regulation, and social functioning.
+Developmental Psychology 1996;32:195–209.
+
+Eisenberg N, Fabes RA, Murphy B, Maszk P, Smith M, Karbon M. The role of emotionality and regulation
+
+in children’s social functioning: A longitudinal study. Child Development 1995;66:1360–1384.
+[PubMed: 7555221]
+
+Eisenberg, N.; Fabes, RA.; Spinrad, TL. Prosocial development. In: Damon, W.; Eisenberg, N., editors.
+The handbook of child psychology: Vol. 3. Social, emotional, and personality development. Vol. 6.
+New York: Wiley; 2006. p. 646-718.
+
+Eisenberg N, Lennon J. Sex differences in empathy and related capacities. Psychological Bulletin
+
+1983;94:100–131.
+
+Eisenberg N, Liew J, Pidada S. The relations of parental emotional expressivity with quality of Indonesian
+
+children’s social functioning. Emotion 2001;1:116–136. [PubMed: 12899192]
+
+Eisenberg N, Miller PA. The relation of empathy to prosocial and related behaviors. Psychological
+
+Bulletin 1987;101:91–119. [PubMed: 3562705]
+
+Eisenberg N, Miller PA, Shell R, McNally S, Shea C. Prosocial development in adolescence: A
+
+longitudinal study. Developmental Psychology 1991;27:849–857.
+
+Else-Quest NM, Hyde JS, Goldsmith HH, Van Hulle CA. Gender differences in temperament: A meta-
+
+analysis. Psychological Bulletin 2006;132:33–72. [PubMed: 16435957]
+
+Feshbach, ND. Sex differences in empathy and social behavior in children. In: Eisenberg, N., editor. The
+
+development of prosocial behavior. New York: Academic Press; 1982. p. 315-337.
+
+Feshbach ND, Feshbach S. The relationship between empathy and aggression in two age groups.
+
+Developmental Psychology 1969;1:102–107.
+
+Feshbach ND, Roe K. Empathy in six- and seven-year olds. Child Development 1968;39:133–145.
+
+[PubMed: 5645790]
+
+Fredrickson BL. The role of positive emotions in positive psychology: The broaden-and-build theory of
+
+positive emotions. American Psychologist 2001;56:218–226. [PubMed: 11315248]
+
+Frijda NH, Kuipers P, ter Schure E. Relations among emotion, appraisal, and emotional action readiness.
+
+Journal of Personality and Social Psychology 1989;57:212–228.
+
+Garner PW. The relations of emotional role taking, affective/moral attributions, and emotional display
+
+rule knowledge to low-income school-age children’s social competence. Journal of Applied
+Developmental Psychology 1996;17:19–36.
+
+Goldsmith HH, Reilly J, Lemery KS, Longley S, Prescott A. The Laboratory Temperament Assessment:
+
+Preschool Version. 1999 Unpublished measure.
+
+Harmon-Jones E. Clarifying the emotive functions of asymmetrical frontal cortical activity.
+
+Psychophysiology 2003;40:838–848. [PubMed: 14986837]
+
+Hoffman ML. Empathy and justice motivation. Motivation and Emotion 1990;14:151–172.
+Hu L, Bentler PM. Cutoff criteria for fit indexes in covariance structure analysis: Conventional criteria
+
+versus new alternatives. Structural Equation Modeling 1999;6:1–55.
+
+Kochanska G, Aksan N, Penney SJ, Doobay AF. Early positive emotionality as a heterogeneous trait:
+
+Implications for children’s self-regulation. Journal of Personality and Social Psychology
+2007;93:1054–1066. [PubMed: 18072854]
+
+LaFrance M, Hecht MA, Paluck EL. The contingent smile: A meta-analysis of sex differences in smiling.
+
+Psychological Bulletin 2003;129:305–334. [PubMed: 12696842]
+
+Laible DJ, Carlo G, Raffaelli M. The differential relations of parent and peer attachment to adolescent
+
+adjustment. Journal of Youth and Adolescence 2000;29:45–59.
+
+Lengua LJ. Associations among emotionality, self-regulation, adjustment problems, and positive
+
+adjustment in middle childhood. Applied Developmental Psychology 2003;24:595–618.
+
+Lengua LJ, Long AC. The role of emotionality and self-regulation in the appraisal-coping process: Tests
+
+of direct and moderating effects. Applied Developmental Psychology 2002;23:471–493.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 13
+
+Lennon R, Eisenberg N, Carroll J. The assessment of empathy in early childhood. Journal of Applied
+
+Developmental Psychology 1983;4:295–302.
+
+McDowell DJ, Parke RD. Parental control and affect as predictors of children’s display rule use and social
+
+competence with peers. Social Development 2005;14:440–457.
+
+Miller PA, Eisenberg N. The relation of empathy to aggressive and externalizing/antisocial behavior.
+
+Psychological Bulletin 1988;103:324–344. [PubMed: 3289071]
+
+Mpofu E, Thomas KR, Chan F. Social competence in Zimbabwean multicultural schools: Effects of
+
+ethnic and gender differences. International Journal of Psychology 2004;39:169–178.
+
+Muthén, LK.; Muthén, BO. Mplus Software and User. Vol. 4. Los Angeles, CA: Muthén & Muthén;
+
+1998–2007.
+
+Pardini DA, Lochman JE, Frick PJ. Callous/unemotional traits and social-cognitive processes in
+adjudicated youths. Journal of the American Academy of Child and Adolescent Psychiatry
+2003;42:364–371. [PubMed: 12595791]
+
+Roberts W, Strayer J. Empathy, emotional expressiveness, and prosocial behavior. Child Development
+
+1996;67:449–470.
+
+Rosenhan DL, Salovey P, Hargis K. The joys of helping: Focus of attention mediates the impact of positive
+
+affect on altruism. Journal of Personality and Social Psychology 1981;40:899–905.
+
+Rosenhan DL, Underwood B, Moore B. Affect moderates self-gratification and altruism. Journal of
+
+Personality and Social Psychology 1974;30:546–552. [PubMed: 4455774]
+
+Rothbart MK, Ahadi SA, Hershey KL, Fisher P. Investigations of temperament at three to seven years:
+
+The Children’s Behavior Questionnaire. Child Development 2001;72:1394–1408. [PubMed:
+11699677]
+
+Saarni, C. The development of emotional competence. New York: Guilford Press; 1999.
+Sroufe, LA.; Schork, E.; Motti, F.; Lawroski, N.; LaFreniere, P. The role of affect in social competence.
+
+In: Izard, CE.; Kagan, J.; Zajonc, RB., editors. Emotions, cognition, and behavior. Cambridge:
+Cambridge University Press; 1984. p. 289-319.
+
+Steiger JH. Tests for comparing elements of a correlation matrix. Psychological Bulletin 1980;87:245–
+
+251.
+
+Strayer J. A naturalistic study of empathic behaviors and their relation to affective states and perspective-
+
+taking skills in preschool children. Child Development 1980;51:815–822.
+
+Strayer J. Children’s concordant emotions and cognitions in response to observed emotions. Child
+
+Development 1993;64:188–201. [PubMed: 8436029]
+
+Zhou Q, Eisenberg N, Losoya SH, Fabes RA, Reiser M, Guthrie IK, et al. The relations of parental warmth
+
+and positive expressiveness to children’s empathy related responding and social functioning: A
+longitudinal study. Child Development 2002;73:893–915. [PubMed: 12038559]
+
+Appendix A. Children’s positive empathy: Dispositional Positive Empathy
+Scale
+
+Items were rated on a 4-point scale (1 = really untrue; 2 = sort of untrue; 3 = sort of true; 4 =
+really true).
+
+1. My child is likely to show happiness when she/he sees another child receive a gift.
+2. My child typically becomes happy when seeing others in happy situations on TV or
+
+in a movie.
+
+3. My child often feels happy for other children who receive good news.
+4. My child often laughs when others laugh even if she/he does not know what other
+
+children are laughing about.
+
+5. My child is usually happy when she/he sees other children succeed.
+6. My child usually gets excited when other children around him/her are excited.
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+Sallquist et al.
+
+Page 14
+
+7. My child typically feels happy when other children around him/her are smiling.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+Sallquist et al.
+
+Page 15
+
+Means and standard deviations of measures for total sample and by child’s sex.
+
+Table 1
+
+N
+
+Mean
+
+Standard deviation
+
+Positive empathy (T2)
+ DPES
+  Boys
+  Girls
+ Observed
+  Boys
+  Girls
+Positive emotion
+ Bubbles (T1)
+  Boys
+  Girls
+ Bubbles (T2)
+  Boys
+  Girls
+ Mother-reported (T2)
+  Boys
+  Girls
+ Caregiver-reported (T2)
+  Boys
+  Girls
+Empathy/sympathy
+ Mother-reported (T1)
+  Boys
+  Girls
+ Caregiver-reported (T1)
+  Boys
+  Girls
+ Father-reported (T1)
+  Boys
+  Girls
+ Mother-reported (T2)
+  Boys
+  Girls
+ Caregiver-reported (T2)
+  Boys
+  Girls
+ Father-reported (T2)
+  Boys
+  Girls
+Social competence
+
+189
+106
+83
+167
+89
+78
+
+192
+104
+88
+168
+89
+79
+188
+106
+82
+145
+80
+65
+
+205
+113
+92
+149
+86
+63
+144
+70
+65
+189
+106
+83
+144
+79
+65
+135
+67
+52
+
+3.44
+3.44
+3.44
+1.78
+1.72
+1.85
+
+2.37
+2.33
+2.41
+2.56
+2.38
+2.76
+5.90
+5.86
+5.95
+5.29
+5.24
+5.35
+
+2.47
+2.46
+2.48
+2.24
+2.18
+2.33
+2.42
+2.34
+2.50
+2.45
+2.48
+2.42
+2.26
+2.24
+2.28
+2.40
+2.31
+2.51
+
+.41
+.41
+.41
+.71
+.67
+.76
+
+.53
+.57
+.48
+.72
+.76
+.63
+.67
+.66
+.67
+.73
+.80
+.63
+
+.37
+.38
+.37
+.42
+.43
+.38
+.39
+.38
+.39
+.37
+.35
+.39
+.39
+.39
+.39
+.41
+.40
+.40
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+Sallquist et al.
+
+Page 16
+
+ Mother-reported (T1)
+  Boys
+  Girls
+ Caregiver-reported (T1)
+  Boys
+  Girls
+ Father-reported (T1)
+  Boys
+  Girls
+ Mother-reported (T2)
+  Boys
+  Girls
+ Caregiver-reported (T2)
+  Boys
+  Girls
+ Father-reported (T2)
+  Boys
+  Girls
+
+Note: T1 = Time 1; T2 = Time 2.
+
+N
+
+205
+113
+92
+150
+86
+64
+135
+70
+65
+189
+106
+83
+144
+79
+65
+119
+67
+52
+
+Mean
+
+Standard deviation
+
+2.52
+2.48
+2.56
+2.44
+2.42
+2.47
+2.50
+2.44
+2.58
+2.57
+2.53
+2.62
+2.44
+2.40
+2.49
+2.51
+2.45
+2.59
+
+.24
+.22
+.24
+.30
+.32
+.29
+.25
+.25
+.24
+.24
+.25
+.22
+.31
+.31
+.30
+.25
+.26
+.23
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+Sallquist et al.
+
+Page 17
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+h
+o
+r
+ 
+
+ 
+
+t
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+
+ 
+
+t
+
+h
+o
+r
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+
+t
+
+I
+
+-
+
+N
+H
+P
+A
+A
+u
+t
+h
+o
+r
+ 
+
+ 
+
+M
+a
+n
+u
+s
+c
+r
+i
+p
+t
+
+ 
+
+l
+
+2
+e
+b
+a
+T
+
+.
+
+ 
+
+2
+T
+d
+n
+a
+ 
+
+1
+T
+
+ 
+t
+a
+ 
+e
+c
+n
+e
+t
+e
+p
+m
+o
+c
+ 
+l
+a
+i
+c
+o
+s
+ 
+
+d
+n
+a
+ 
+,
+
+n
+o
+i
+t
+o
+m
+e
+ 
+e
+v
+i
+t
+i
+s
+o
+p
+
+ 
+,
+
+y
+h
+t
+a
+p
+m
+y
+s
+/
+y
+h
+t
+a
+p
+m
+e
+ 
+
+h
+t
+i
+
+ 
+
+w
+2
+T
+
+ 
+t
+a
+ 
+
+y
+h
+t
+a
+p
+m
+e
+ 
+e
+v
+i
+t
+i
+s
+o
+p
+
+ 
+f
+o
+
+ 
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+)
+2
+T
+(
+ 
+r
+e
+h
+t
+a
+F
+
+)
+6
+1
+1
+(
+ 
+
+*
+
+9
+1
+
+.
+
+)
+2
+T
+(
+ 
+r
+e
+v
+i
+g
+e
+r
+a
+C
+
+)
+1
+4
+1
+(
+ 
+
+3
+1
+
+.
+
+)
+2
+T
+(
+ 
+r
+e
+h
+t
+o
+M
+
+)
+7
+8
+1
+(
+ 
+
+*
+*
+
+3
+4
+
+.
+
+)
+1
+T
+(
+ 
+r
+e
+h
+t
+a
+F
+
+)
+7
+1
+1
+(
+ 
+
+*
+
+3
+2
+
+.
+
+)
+1
+T
+(
+ 
+r
+e
+v
+i
+g
+e
+r
+a
+C
+
+)
+7
+2
+1
+(
+ 
+
+5
+0
+
+.
+
+)
+1
+T
+(
+ 
+r
+e
+h
+t
+o
+M
+
+)
+9
+7
+1
+(
+ 
+
+*
+*
+
+4
+3
+
+.
+
+)
+2
+T
+(
+ 
+r
+e
+v
+i
+g
+e
+r
+a
+C
+
+)
+8
+3
+1
+(
+ 
+
+2
+1
+
+.
+
+)
+2
+T
+(
+ 
+r
+e
+h
+t
+o
+M
+
+)
+6
+8
+1
+(
+ 
+
+*
+*
+
+7
+4
+
+.
+
+)
+2
+T
+(
+ 
+
+d
+e
+v
+r
+e
+s
+b
+O
+
+)
+1
+T
+(
+ 
+
+d
+e
+v
+r
+e
+s
+b
+O
+
+)
+4
+6
+1
+(
+ 
+
+8
+0
+
+.
+
+)
+7
+6
+1
+(
+ 
+
+*
+
+6
+1
+
+.
+
+n
+o
+i
+t
+o
+m
+e
+ 
+e
+v
+i
+t
+i
+s
+o
+P
+
+s
+e
+r
+u
+s
+a
+e
+M
+
+y
+h
+t
+a
+p
+m
+y
+s
+/
+y
+h
+t
+a
+p
+m
+E
+
+)
+2
+T
+(
+ 
+r
+e
+h
+t
+a
+F
+
+)
+2
+T
+(
+ 
+r
+e
+v
+i
+g
+e
+r
+a
+C
+
+)
+6
+1
+1
+(
+ 
+
+1
+1
+
+.
+
+)
+1
+4
+1
+(
+ 
+
+*
+
+4
+2
+
+.
+
+)
+2
+T
+(
+ 
+r
+e
+h
+t
+o
+M
+
+)
+7
+8
+1
+(
+ 
+
+*
+*
+
+5
+3
+
+.
+
+e
+c
+n
+e
+t
+e
+p
+m
+o
+c
+ 
+l
+a
+i
+c
+o
+S
+
+)
+1
+T
+(
+ 
+r
+e
+h
+t
+a
+F
+
+)
+1
+T
+(
+ 
+r
+e
+v
+i
+g
+e
+r
+a
+C
+
+)
+7
+1
+1
+(
+ 
+
+1
+1
+
+.
+
+)
+8
+2
+1
+(
+ 
+
+ 
+
++
+7
+1
+
+.
+
+)
+1
+T
+(
+ 
+r
+e
+h
+t
+o
+M
+
+)
+9
+7
+1
+(
+ 
+
+*
+*
+
+8
+2
+
+.
+
+S
+E
+P
+D
+
+S
+E
+P
+D
+
+S
+E
+P
+D
+
+.
+s
+e
+s
+e
+h
+t
+n
+e
+r
+a
+p
+
+ 
+
+n
+i
+ 
+e
+r
+a
+ 
+m
+o
+d
+e
+e
+r
+f
+ 
+f
+o
+
+ 
+s
+e
+e
+r
+g
+e
+d
+
+ 
+e
+h
+T
+
+ 
+
+ 
+.
+e
+l
+a
+c
+S
+y
+h
+t
+a
+p
+m
+E
+ 
+e
+v
+i
+t
+i
+s
+o
+P
+
+ 
+l
+a
+n
+o
+i
+t
+i
+s
+o
+p
+s
+i
+D
+=
+S
+E
+P
+D
+
+ 
+
+ 
+
+ 
+;
+2
+
+i
+
+ 
+e
+m
+T
+=
+2
+T
+
+ 
+
+ 
+
+i
+
+ 
+;
+1
+ 
+e
+m
+T
+=
+1
+T
+
+ 
+
+ 
+
+ 
+:
+e
+t
+o
+N
+
+;
+5
+0
+
+.
+ 
+
+<
+p
+
+ 
+
+;
+0
+1
+.
+ 
+
+<
+p
+
+ 
+
+.
+
+1
+0
+.
+ 
+
+<
+p
+
+ 
+
+*
+
++
+
+*
+*
+
+J Posit Psychol. Author manuscript; available in PMC 2009 December 8.
+
+
