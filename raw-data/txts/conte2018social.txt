@@ -1420,3 +1420,4 @@ PHYSICAL COMFORTING (C)
 Note: H = Helping behavior; S = Sharing behavior; C = Comforting behavior.
 
 
+The ENd of Document.

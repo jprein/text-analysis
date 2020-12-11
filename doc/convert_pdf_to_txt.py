@@ -26,14 +26,12 @@ def convert_pdf_to_txt(path):
         interpreter.process_page(page)
 
     text = retstr.getvalue()
-    text = text + "\n"
-    text = text + "Its the end of Docment"
-    print(text)
+    text = text + "\n" + 'The ENd of Document.'
 
     fp.close()
     device.close()
     retstr.close()
-    """"
+    
     direc,filename = os.path.split(path)
     filename,ext = os.path.splitext(filename)
     new_file = filename + '.txt'
@@ -42,7 +40,7 @@ def convert_pdf_to_txt(path):
     textfile = open(new_file, 'w')
     textfile.write(text)
     textfile.close()
-    """
+    
     return
 
 # x = convert_pdf_to_txt('/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/testpdfs/')

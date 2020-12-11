@@ -23,6 +23,7 @@ library(tictoc)
 library(topicmodels) # for LDA
 library(broom)
 library(reshape2)
+library(readtext)
 tic("Run the whole script")
 ```    
 
@@ -49,36 +50,15 @@ source_python("convert_pdf_to_txt.py")
 
 ```{r convert_pdf_to_txt, message=FALSE, warning=TRUE}
 # create list of all the names of our pdf files (located in the folder raw-data/pdfs)
-# file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
+file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
 
-# creates a list with as many entries as you have pdf files. in here, we will save all the text content from the pdf files
-# data_list <- vector("list", "length" = length(file_list))
-
-# ONLY DO IT ONCE; CONVERT PDFs TO TXT FILES! 
+# ONLY DO IT ONCE; CONVERT PDFs TO TXT FILES!
 # in python script, define your working directory
 # for (i in seq_along(file_list)) {
 #   convert_pdf_to_txt(here("raw-data/pdfs", file_list[i]))
 # }
 
-file_list <- list.files(here("raw-data/txts"), pattern = "*.txt")
-data_list <- vector("list", "length" = length(file_list))
-
-### ERROR! 
-# for every txt file, read in the text and save it in data list
-for (i in 10) {
-  # print(file_list[i])
-  # data_list[[i]] <- read.delim(here("raw-data/txts", file_list[i]))
-  data_list[[i]] <- read_tsv(here("raw-data/txts", file_list[i]), locale = readr::locale(encoding = "utf8"))
-}
-
-# sed 's/\\0//g' "/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/adrian2007mothers.txt" > mycsv.txt
-# fread("sed 's/\\0//g' /Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/adrian2007mothers.txt")
-
-cleanFiles<-function(file,newfile){
-  writeLines(iconv(readLines(file,skipNul = TRUE)),newfile)
-}
-
-cleanFiles("/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/bowman2017action.txt", "/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/bowman2017action_1.txt")
+raw_data <- readtext(paste0("/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/*.txt"))
 ```
 
 ```{r preprocess_function}
@@ -141,7 +121,7 @@ tidy_data_list <- vector("list", "length" = length(file_list))
 
 # for every pdf that we read in, preprocess the text
 for (i in seq_along(file_list)) {
-  tidy_data_list[[i]] <- preprocess_text(raw_text = data_list[[i]])
+  tidy_data_list[[i]] <- preprocess_text(raw_text = raw_data$text[i])
 }
 ```
 
