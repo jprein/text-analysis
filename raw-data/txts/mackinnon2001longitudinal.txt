@@ -1,0 +1,2176 @@
+Development and Psychopathology, 13 (2001), 69–81
+Copyright  2001 Cambridge University Press
+Printed in the United States of America
+
+A longitudinal examination of the
+associations between mothers’ and sons’
+attributions and their aggression
+
+CAROL MACKINNON–LEWIS,a MICHAEL E. LAMB,b JOHN HATTIE,a
+AND LAILA P. BARADARANb
+aUniversity of North Carolina at Greensboro; and bNational Institute of Child Health and
+Human Development
+
+Abstract
+This study tested an integrative, multipathway model designed to explain bidirectional effects of the attributions and
+coercive behaviors of mothers and sons in the context of a longitudinal study. Subjects were 246 mothers and sons
+who were 7–9 years of age. Mothers’ and sons’ attributions about one another’s intent were significantly related to
+the aggressiveness of the behavior that each of them directed toward the other. Boys’ earlier aggression did not
+significantly predict the mothers’ subsequent attributions, whereas mothers’ negative behavior indeed predicted
+subsequent negative attributions on the part of the boys. Even after considering children’s earlier negative behavior,
+children’s negative attributions about their mothers helped explain the aggressiveness of their subsequent behavior.
+The same was not true for mothers whose earlier attributions indirectly influenced their subsequent aggressive
+behavior.
+
+Over the last several decades, numerous in-
+(Kupersmidt & Coie, 1990). “Patterns of
+vestigators have documented the adverse
+pathological outcome associated with a given
+long-term consequences of aggressive behav-
+early pathway are diverse, but conceptually
+ior in childhood. Young children who are ag-
+related” (Sroufe, 1990, pp. 335–336), and stu-
+gressive within their families also behave
+dents of developmental psychopathology have
+more aggressively at school, placing them-
+sought to identify the origins of disordered
+selves at risk for rejection by their peers (Dis-
+behaviors such as aggression. A focus on vul-
+hion, 1990; MacKinnon–Lewis, Volling,
+nerable but not yet disordered persons pro-
+Lamb, Dechman, Rabiner, & Curtner, 1994;
+vides insight into the study of normal devel-
+Parke, 1990; Pettit, Dodge, & Brown, 1988;
+opment under disadvantaged conditions, and
+Strassberg, Dodge, Bates, & Pettit, 1992). makes it possible to identify protective fac-
+tors, a prerequisite for the development of
+Moreover, children who behave aggressively
+truly preventive interventions (Garmezy &
+in the preschool and early school-age years
+are more likely to exhibit antisocial behavior
+Masten, 1986). Considerable effort has been
+during adolescence and young adulthood made to identify the processes underlying the
+emergence, maintenance, and escalation of
+aggressive behavior in childhood, with most
+This research was supported by the National Institute of
+researchers emphasizing the role of the fam-
+Mental Health, the National Science Foundation, and a
+Faculty Scholar Award (to C.M.-L.) is from the William ily—particularly the mother–child relation-
+T. Grant Foundation.
+ship—in the development of aggressive be-
+havior (Patterson, 1982).
+
+Address correspondence and reprint requests to: Carol
+MacKinnon–Lewis, Center for the Study of Social Issues,
+41 McNutt Building, University of North Carolina at
+Greensboro, Greensboro, NC 27412-5001.
+
+Patterson (1982) has proposed that inept
+parental responses to aversive child behaviors
+
+69
+
+70
+
+C. MacKinnon–Lewis et al.
+
+are negatively reinforcing and thus train both
+Building on such findings, MacKinnon et
+individuals to behave in increasingly coercive
+al. (1990) proposed a multipathway process
+ways. This coercion model continues to pro- model
+in which the “affective cognitions”
+vide a useful framework for understanding the
+(i.e., emotionally laden thoughts) of both
+development and maintenance of aggressive mothers and children helped explain the ag-
+gressiveness of mother–child interactions.
+behavior, but fails to consider the roles that
+Specifically, MacKinnon, Lamb, Belsky, and
+mothers’ and children’s attributions may play
+Baum (1990) hypothesized that when mothers
+in the maintenance of aggressive interactions
+(MacKinnon, Lamb, Belsky, & Baum, 1990).
+or children erroneously attribute negative in-
+tent to one another, their interactions should
+In this paper, we describe a longitudinal study
+be more aggrssive than when they accurately
+designed to examine the influence of aggres-
+interprete one another’s intentions. These pre-
+sive interactions and negative attributions on
+the development of aggressive behavior in
+dictions were later confirmed in a cross-
+boys.
+sectional study (MacKinnon–Lewis, Lamb,
+Although several researchers have exam- Arbuckle, Baradaran, & Volling, 1992).
+Mothers’ and sons’ negative attributions were
+related to the probabilities that either individ-
+ual would start a coercive interchange, react
+negatively when the other behaved negatively,
+and continue to behave aggressively regard-
+less of the other’s behavior. The most aggres-
+sive mother–son dyads were those in which
+both mothers and sons perceived negative in-
+tent in the other.
+
+ined the formative influence of social cogni-
+tions and attributional biases, most have only
+considered parents’ perceptions and attribu-
+tions, ignoring the potential impact of chil-
+dren’s attributions. Dix and his colleagues
+(Dix & Grusec, 1985; Dix & Lochman, 1990;
+Dix, Ruble, & Zambarano, 1989) have pro-
+posed and tested a model in which attributions
+mediate the association between child behav-
+ior and the parent’s response, such that attri-
+butions of intentionality and responsibility
+predict stronger responses to misbehavior. In
+addition, Bugental and her colleagues (Bugen-
+tal, Blue, & Lewis, 1990; Bugental & Shen-
+num, 1984) reported that mothers who per-
+ceive themselves as having low control
+exacerbate their children’s uncontrollability
+by responding in a highly reactive and inef-
+fectual manner. Though not considered by
+Bugental and Shennum (1984), children’s so-
+cial cognitions have been included in other
+studies concerned with peer-directed aggres-
+sion. For example, Dodge (Dodge, 1986;
+Dodge, Murphy, & Buchsbaum, 1984) has
+shown that aggressive children are more in-
+clined than nonaggressive children to interpret
+their peers’ intentions negatively and to mis-
+In light of the earlier findings, the current
+identify prosocial and accidental intentions. In
+study was designed to address several specific
+such situations, children’s misperceptions of
+questions. First, is there an association be-
+their peers’ intentions rather than the peers’
+tween mothers’ and children’s attributions
+intentions per se affect the likelihood that they
+and aggression when they are assessed con-
+will respond aggressively. In their reformu-
+temporaneously? Earlier work by MacKin-
+lated social
+information processing model,
+non–Lewis et al. (1992) led us to expect that
+Crick and Dodge (1994) thus propose that mothers’ and sons’ who held more negative
+attributions about one another’s intent would
+children’s attributions about
+intent signifi-
+cantly affect children’s behavioral responses.
+behave more aggressively.
+
+Because that study and previous studies of
+peer relationships were cross section, the di-
+rections of influence between negative attri-
+butions and aggressive behavior could not be
+examined. MacKinnon et al. (1990) suggested
+that bidirectional influences likely occur in
+that “both the inclination to attribute negative
+intent when such intent does not exist (i.e.,
+attributional biases) and the proclivity to fo-
+cus upon negative behavior when it does oc-
+cur may not only potentiate coerciveness, but
+also may be generated by coercion” (MacKin-
+non et al., 1990, p. 6). The goal of the present
+study was to disentangle bidirectional effects
+of the attributions and coercive behaviors of
+mothers and children in the context of a longi-
+tudinal study.
+
+Attributions and aggression
+
+71
+
+We also sought
+
+boys (Dodge et al., 1984; MacKinnon–Lewis
+et al., 1992, 1994). Nine mothers had less
+than a seventh grade education, 14 had gradu-
+ate degrees; the mean level of education was
+13.0 years. One-hundred thirty-nine of the
+mothers were White, and 107 were Black.
+
+A second set of questions pertained to the
+direction of influence between negative attri-
+butions and aggression behavior. From an
+affective–cognitive perspective, we asked
+whether mothers’ and sons’ earlier negative
+attributions affected their subsequent aggres-
+sive behavior independent of the effects of
+their earlier aggressive behavior. We hypothe-
+sized that both mothers’ and sons’ later ag-
+gressive behavior would be explained better
+when we considered both their earlier nega-
+tive attributions and their earlier aggression.
+This would lend support to the notion that the
+inclination to attribute negative intent indeed
+potentiates aggressive behavior.
+
+Six public schools in a metropolitan south-
+eastern city provided lists of all boys enrolled
+in the second, third, and fourth grades. We
+identified all boys who met selection criteria
+and contacted their mothers by phone. In or-
+der to participate, boys had to be 7, 8, or 9
+years of age, they had to be Black or White,
+and their mothers had to be currently married
+to or separated for more than 1 year from the
+to determine whether
+boys’ biological fathers. The study was de-
+mothers’ and sons’ earlier experiences with
+scribed to the mothers, and after verbal con-
+one another affected their subsequent attribu-
+sent was obtained, visits to our laboratory
+tions about one another. Mothers of behavior- were scheduled. Most (87%) of the eligible
+problem boys have been shown to make more
+families contacted agreed to participate in the
+negative attributions when responding to sim-
+study. Mothers were paid $35 for participat-
+ulated ambiguous child behaviors and to be
+ing, and the boys were given several presents.
+more aggressive in their parenting practices
+(Strassberg, 1995). If parents attribute nega-
+tive intent to children’s ambiguous behavior
+and respond more negatively, it is reasonable The mothers and sons visited the research lab-
+oratory on two occasions about 12–15 months
+to expect that children may also make nega-
+apart. The procedures used during the two vis-
+tive attributions when others respond nega-
+its were identical, with each session lasting
+tively to them without sufficient provocation.
+Thus, we expected that both mothers’ and
+approximately 2 hours. The mothers and sons
+were interviewed in separate rooms by trained
+sons’ negative attributions would be influ-
+interviewers, during which time the mothers
+enced by the other’s earlier aggressive behav-
+completed the Maternal Attribution Measure
+ior, as predicted by social learning theory.
+(MacKinnon–Lewis et al., 1992, 1994) and
+the children completed the Child Attribution
+Measure (MacKinnon–Lewis et al., 1992,
+1994). Following the interviews, the mothers
+and sons participated in two gamelike tasks, a
+cooperative one and a competitive one.
+
+Procedure
+
+Method
+
+Subjects
+
+The subjects were 246 mothers and sons who
+were 7–9 years of age at the start of the study.
+One-hundred forty-two (58%) of the mothers Child attributions. The Child Attribution Mea-
+sure (MacKinnon–Lewis et al., 1992, 1994)
+were currently married to the boys’ fathers,
+and 104 (42%) were single mothers. Boys
+assessed children’s attributions about
+their
+mothers’ intentions. Each child was told five
+were selected for study because they are at
+stories (supplemented by cartoons) depicting
+particular risk of engaging in coercive interac-
+interactions between a boy and his mother,
+tions with their mothers in both married (Pat-
+terson, 1982) and single, mother-headed fami-
+and was asked to pretend that he and his
+mother were the characters described. In all
+lies (Emery, 1988; Hetherington, Cox, & Cox,
+of the stories, the outcome for the child was
+1978). Also, we were building on a literature
+clearly negative but the mother’s intent was
+in which associations between social cogni-
+ambiguous. An example of a story is as fol-
+tions and aggression were demonstrated with
+
+72
+
+C. MacKinnon–Lewis et al.
+
+lows: “Pretend that you and your mom are
+line and you are winning. Your child knocks
+shopping at the grocery store and that you
+the pieces off the board onto the floor.” As
+reach for a candy bar that you want to look with the children, answers to the question per-
+at. Your mother tells you that you cannot have
+taining to intent (“Why do you think your son
+it.” Following each story, the child was asked would do this?”) were of interest. Examples
+of responses that were coded a 1 to the above
+six questions designed to assess the child’s
+scenario included “Because he gets very
+feelings, his perceptions of his mother’s inten-
+tions (i.e., attributions), and his likely re-
+angry if he does not get his way,” “If he can’t
+sponse. The interview was audiotaped for win, he does not want to play,” and “He is a
+later transcription. Answers to questions con-
+very poor sport; he was determined that I
+cerning the child’s attributional intent (i.e., would not win.” Examples of responses that
+were coded a 0 included “We were probably
+“Why do you think your mother would do
+this?”) were coded on the following scale: 1,
+just playing around and the board was
+knocked,” “We play games just for fun; he
+negative intent (mother acted purposefully
+and intended the outcome described); 0, acci-
+does not take them seriously,” and “It was
+dental or positive intent (mother acted with
+probably just an accident.” The mothers’ re-
+harmless intentions, or the outcome occurred
+sponses were coded in the same way as the
+children’s responses by trained coders. The
+accidently, or the mother intended to behave
+in a positive way). Examples of responses that
+five scores derived from the stories served as
+were coded a 1 to the above scenario included
+indicators of the maternal attribution construct
+(α = .82). Agreement across all stories aver-
+“Because she is mean,” “Because she didn’t
+aged 93.4%, with an average kappa of .83
+want me to have it and because she didn’t
+(range = .78–.91; Cohen, 1960).
+want to have to pay for it,” and “Because she
+is selfish.” Examples of responses that were
+coded a 0 included “It would spoil my din- Mother–son coerciveness. The mother–son dy-
+ads were videotaped while participating in
+ner,” “Because it’s got too much bad stuff in
+it,” “Because she doesn’t want me to get hy-
+two tasks, one cooperative and one competi-
+per,” and “She doesn’t like for me to have too
+tive. In the first task, the mother and child
+many sweets, they are bad for my teeth.” The were presented a complicated figure by the
+five scores from the stories served as indica-
+experimenter and asked to recreate it on an
+tors of the construct “child attributions” (α = Etch-A-Sketch. They were instructed to work
+.85). Coders were trained by providing
+together on this task for 20 min, each control-
+examples from pilot work of children’s re-
+ling only one knob. In addition, the mothers
+and sons participated in a game (Trouble) task
+sponses to the scenarios until interobserver re-
+liability
+in which there is a winner and loser. The rules
+92%. Reliability was
+rechecked weekly on 50% of the sessions.
+of the game were explained and the dyads
+Agreement across all stories averaged 89.3%, were asked to play it for 20 min. If either
+player won in less than 20 min, a new game
+with an average kappa of .76 (range: .70–.88;
+was initiated.
+Cohen, 1960).
+
+reached
+
+From the videotapes, naive observers
+Maternal attributions. Mothers completed the
+coded the onset and offset of the following
+Maternal Attribution Measure (MacKinnon–
+behaviors: negative verbals, negative affects,
+Lewis et al., 1992, 1994), which involved five
+negative physicals, positive verbals, positive
+hypothetical accounts of mother–child inter-
+affects, positive physicals, and neutral behav-
+actions. In each case, the outcome for the
+iors. These behaviors are defined in Table 1
+mother was negative but the child’s intent was
+and were scored from the time of their onset
+unclear; mothers were asked to explain, and
+until they ceased. Previous research has sug-
+thus make attributions about, their children’s
+gested that these behaviors characterize coer-
+behavior. In one such story, the mothers were
+cive families as defined by Patterson (1982).
+told, “Pretend you and your child are playing Of the negative behavior exhibited by mothers
+a board game. You are almost to the finish
+and sons respectively, 29 and 34% involved
+
+Attributions and aggression
+
+73
+
+Table 1. Operational definitions of negative and positive behaviors
+
+Behaviors
+
+Negative verbals
+
+Negative physicals
+
+Negative affects
+
+Positive verbals
+
+Positive physicals
+Positive affects
+
+Neutral verbals
+
+Definition
+
+Any negative verbalization that is threatening, such as name calling, screaming,
+
+criticizing, teasing, whining, insulting
+
+Any negative physical contact, such as grabbing, hitting, pushing, slapping,
+
+Any facial expression denoting negative emotions, such as frowning, crying,
+
+restraining
+
+anger, disgust, face making
+
+Any positive verbalization that is of high intensity, such as praising, reinforcing,
+
+Any positive physical contact, such as touching affectionately, hugging, kissing
+Any facial expression denoting positive emotions, such as smiling, laughing,
+
+complimenting
+
+giggling
+
+Any verbalization that is neither positive nor negative
+
+physical aggression, 51 and 48% involved
+verbal aggression, and 20 and 18% pertained
+to negative affects. Test–retest reliability was
+reported to be .63 for mothers and .58 for
+children.
+
+server reliability, assessed by percentage of
+agreements on the behavior-by-behavior cod-
+ing of the interactions, reached 90%. Reliabil-
+ity was rechecked weekly on 25% of the ses-
+sions. Agreement across all codes averaged
+91.2%, with an average kappa of .79 (range:
+.67–.84) (Cohen, 1960).
+
+In an earlier longitudinal study utilizing
+these behavioral codes, we found associations
+between children’s negativity (as observed
+while interacting with their mother) and chil- Results
+dren’s CBCL scores, as reported by mothers
+(r = .35, p < .001). In addition, children’s ob- The mean scores and standard deviations on
+served negativity was significantly correlated
+the measures of mothers’ and sons’ attribu-
+with peer reports of their aggressiveness, op-
+tions and aggressiveness in both phases are
+displayed in Table 2, while zero-order corre-
+erationally defined as a propensity to start
+fights (r = .41).
+lations among these scores are displayed in
+As in previous research utilizing these
+Table 3. As expected, mothers’ and sons’ per-
+game tasks (MacKinnon, 1989; MacKinnon–
+ceptions of the others’ intent were related to
+Lewis et al., 1992, 1994), the behaviors emit-
+the aggressiveness of their behavior within
+ted were of short duration, primarily as a
+both assessment
+times. Structural equation
+function of the task. As a result, frequency
+modeling was then used to test two major
+scores appear to reflect the nature of interac- models of the relationships among these vari-
+tion better than duration scores. For a sense of
+ables. Structural modeling (using LISREL
+the negativity of maternal and child behaviors VII; Joreskog & Sorbom, 1986) can assess
+not only the factor structure on each occasion
+emitted in each task, mean proportion scores
+but also the hypotheses relating to structural
+were created by dividing the occurrence of the
+negative behavior that the mother and child
+paths across time. After fitting a measurement
+emitted separately by the total number of be- model to data from each time period, we as-
+haviors that each emitted during the two ob-
+sessed various structural paths between the
+servational sessions. These two mean propor- measurement points. The first or “stability”
+model predicted that the attributions and be-
+tion scores (one each for Etch-a-Sketch and
+Trouble) served as indicators of the child ag-
+haviors at Time 2 were predicted by the Time
+1 attributions and behaviors,
+gressiveness
+aggressiveness
+respectively.
+Figure 1 shows the standardized parameter es-
+constructs.
+timates for the stability model. The model
+achieved good overall fit with the data (χ2 =
+
+The coders had been trained using video-
+interob-
+
+tapes of similar interactions until
+
+and maternal
+
+74
+
+C. MacKinnon–Lewis et al.
+
+Table 2. Means and standard deviations of
+variables constituting the latent constructs
+
+Mean
+
+SD
+
+Child negative attributions
+
+Maternal negative attributions
+
+Child negativity
+
+Year 1
+Year 2
+
+Year 1
+Year 2
+
+Year 1
+
+Year 2
+
+Etch-A-Sketch
+Trouble
+
+Etch-A-Sketch
+Trouble
+
+Maternal negativity
+
+Year 1
+
+Etch-A-Sketch
+Trouble
+
+Year 2
+
+Etch-A-Sketch
+Trouble
+
+.41
+.33
+
+.14
+.21
+
+.33
+.39
+
+.28
+.40
+
+.25
+.33
+
+.23
+.32
+
+.56
+.52
+
+.35
+.27
+
+.23
+.22
+
+.25
+.25
+
+.23
+.26
+
+.20
+.24
+
+278.56, df = 94, gfi = .89), and all parameter
+estimates were highly significant (at least 8
+times their standard errors).
+
+figure so that appropriate comparisons can be
+made among the various paths.
+
+The GFI is a measure of goodness of fit
+that quantifies the proportion of the variances
+and covariances in the original covariance
+matrix that are explained by the predicted co-
+variance matrix estimated from the hypothe-
+sized model (Joreskog & Sorbom, 1988). Un-
+like the chi-square statistics, GFI rewards
+simpler models with few parameters and it is
+preferable that these values are close to one
+(and certainly greater than .80).
+
+The model depicted in Figure 2 is consis-
+tent with our hypothesis that children’s nega-
+tive attributions contribute significantly to
+their subsequent aggressive behavior, even
+after considering their previous levels of ag-
+gression. The mothers’ earlier aggressive be-
+havior significantly predicted the children’s
+subsequent negative attributions about their
+mothers. Mothers’ negative attributions at
+Time 1 did not significantly predict their sub-
+sequent aggressive behavior. Moreover, the
+children’s earlier aggressive behavior did not
+contribute to mothers’ subsequent attributions
+about their children. Instead, the associations
+between the mothers’ prior attributions and
+their subsequent behavior appeared to be me-
+diated via the mothers’ attributions at Time 2
+(see Figure 2).
+
+Using the stability model as a baseline, we
+next tested the model, depicted in Figure 2,
+suggesting that negative attributions of the
+mothers and children would contribute signif-
+icantly to their subsequent coercive interac-
+Table 4 presents multivariate analyses of
+tions beyond what would be predicted from
+variance (MANOVAs) by socioeconomic sta-
+measures of their earlier coercive behavior.
+tus, race, and marital status for Time 1 and
+This model specifies the stability model, a
+2. There were no mean differences relating to
+path from the mothers’ behavior at Time 1 to
+socioeconomic status or marital status on the
+the children’s attributions at Time 2, and a
+major dependent variables and no statistically
+path from the children’s attributions at Time
+significant interactions between any of these
+1 to the children’s behavior at Time 2. The
+potential moderator variables. There were sta-
+goodness of fit index (GFI) showed that the
+tistically significant differences at Time 1
+model not only fitted the data extremely well
+only for race. The univariate analyses of vari-
+(χ2 = 259.67, df = 90, gfi = .92) but also repre-
+ance revealed that mothers’ negativity in
+Etch-a-Sketch (F = 3.91, df = 1, 195, p < .05)
+sented a statistically significant improvement
+over the stability model (χ2 = 18.89, df = 4,
+and the mothers’ negativity in Trouble (F =
+p < .001). It should be noted that the majority
+13.75, df = 1, 195, p < .001) contributed most
+of the variance in the model was explained by
+to these overall differences. The African
+the stability model, although the addition of
+American families had higher means on both
+the extra parameters helped produce a model
+of these variables at Time 1. Even though
+that was both more theoretically defensible
+mean differences emerged in the MANOVA
+and a better fit, as indicated by the significant
+at Time 1 for race only, we could not deter-
+improvement in the chi square. The standard-
+mine whether the data fit Black and White,
+ized parameter estimates are provided in the married and single, and higher and lower so-
+
+2
+1
+
+1
+1
+
+0
+1
+
+9
+
+8
+
+7
+
+6
+
+5
+
+4
+
+7
+0
+
+2
+1
+
+1
+1
+
+.
+
+.
+
+.
+
+6
+0
+−
+
+.
+
+*
+*
+9
+3
+
+*
+*
+2
+5
+
+.
+
+.
+
+2
+0
+−
+
+.
+
+*
+*
+7
+3
+
+*
+4
+1
+
+*
+*
+4
+2
+
+*
+*
+8
+4
+
+.
+
+.
+
+.
+
+.
+
+*
+8
+1
+
+1
+1
+
+*
+5
+1
+
+9
+0
+
+*
+*
+7
+4
+
+*
+*
+6
+4
+
+1
+0
+
+*
+*
+6
+2
+
+*
+*
+8
+3
+
+*
+*
+9
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+3
+2
+
+*
+5
+1
+
+*
+*
+5
+3
+
+*
+*
+3
+4
+
+*
+*
+6
+2
+
+*
+*
+5
+3
+
+*
+*
+0
+5
+
+*
+7
+1
+
+0
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+2
+2
+
+*
+*
+9
+2
+
+*
+*
+3
+2
+
+6
+0
+
+*
+*
+8
+1
+
+*
+*
+1
+2
+
+1
+1
+
+6
+0
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+0
+2
+
+*
+*
+2
+2
+
+*
+6
+1
+
+.
+
+.
+
+.
+
+*
+*
+2
+2
+
+*
+*
+9
+2
+
+.
+
+.
+
+*
+*
+8
+5
+
+.
+
+*
+*
+9
+1
+
+*
+6
+1
+
+.
+
+.
+
+*
+*
+3
+2
+.
+
+*
+2
+1
+.
+
+*
+*
+5
+3
+
+*
+*
+9
+1
+
+5
+0
+
+1
+1
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+2
+2
+
+*
+*
+4
+2
+
+*
+*
+3
+3
+
+*
+*
+5
+2
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+5
+2
+
+*
+*
+8
+1
+
+*
+*
+6
+3
+
+*
+*
+8
+1
+
+.
+
+.
+
+.
+
+.
+
+*
+*
+1
+3
+
+*
+6
+1
+
+*
+*
+7
+4
+
+.
+
+.
+
+.
+
+3
+
+*
+*
+7
+3
+
+*
+*
+1
+2
+
+.
+
+.
+
+2
+
+*
+*
+2
+2
+
+.
+
+1
+
+2
+
+r
+a
+e
+Y
+h
+c
+t
+e
+k
+S
+-
+A
+-
+h
+c
+t
+E
+
+1
+
+r
+a
+e
+Y
+e
+l
+b
+u
+o
+r
+T
+
+g
+e
+N
+d
+l
+i
+h
+C
+
+g
+e
+N
+d
+l
+i
+h
+C
+
+h
+c
+t
+e
+k
+S
+-
+A
+-
+h
+c
+t
+E
+
+g
+e
+N
+
+l
+a
+n
+r
+e
+t
+a
+
+M
+
+1
+
+r
+a
+e
+Y
+
+r
+t
+t
+
+A
+g
+e
+N
+
+l
+a
+n
+r
+e
+t
+a
+
+M
+
+1
+
+r
+a
+e
+Y
+
+r
+t
+t
+
+A
+g
+e
+N
+d
+l
+i
+h
+C
+
+1
+
+r
+a
+e
+Y
+e
+l
+b
+u
+o
+r
+T
+
+g
+e
+N
+
+l
+a
+n
+r
+e
+t
+a
+
+M
+
+2
+
+r
+a
+e
+Y
+
+r
+t
+t
+
+A
+g
+e
+N
+
+l
+a
+n
+r
+e
+t
+a
+
+M
+
+2
+
+r
+a
+e
+Y
+
+r
+t
+t
+
+A
+g
+e
+N
+d
+l
+i
+h
+C
+
+r
+a
+e
+Y
+h
+c
+t
+e
+k
+S
+-
+A
+-
+h
+c
+t
+E
+
+2
+
+r
+a
+e
+Y
+e
+l
+b
+u
+o
+r
+T
+
+2
+
+r
+a
+e
+Y
+h
+c
+t
+e
+k
+S
+-
+A
+-
+h
+c
+t
+E
+
+2
+
+r
+a
+e
+Y
+e
+l
+b
+u
+o
+r
+T
+
+g
+e
+N
+d
+l
+i
+h
+C
+
+g
+e
+N
+d
+l
+i
+h
+C
+
+g
+e
+N
+
+g
+e
+N
+
+t
+a
+
+t
+a
+
+M
+
+M
+
+1
+
+r
+a
+e
+Y
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+6
+
+7
+
+8
+
+9
+
+0
+1
+
+1
+1
+
+2
+1
+
+.
+
+.
+
+.
+
+.
+
+.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+75
+
+.
+1
+0
+.
+
+<
+
+p
+*
+*
+
+.
+5
+0
+
+.
+
+<
+
+p
+*
+
+e
+m
+
+i
+t
+
+s
+s
+o
+r
+c
+a
+
+s
+s
+e
+n
+e
+v
+i
+s
+s
+e
+r
+g
+g
+a
+
+d
+n
+a
+
+s
+n
+o
+i
+t
+u
+b
+i
+r
+t
+t
+a
+
+’
+s
+n
+o
+s
+
+d
+n
+a
+
+’
+s
+r
+e
+h
+t
+o
+m
+
+f
+o
+
+s
+e
+r
+u
+s
+a
+e
+m
+g
+n
+o
+m
+a
+
+s
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+.
+
+3
+
+e
+l
+b
+a
+T
+
+76
+
+C. MacKinnon–Lewis et al.
+
+Figure 1. Stability model of mothers’ and sons’ attributions and aggression.
+
+cioeconomic status families equally well.
+Structural modeling would have allowed test-
+ing of the covariation among factors for the
+different groups; however,
+the sample size
+was not large enough to conduct those anal-
+yses.
+
+Discussion
+
+The results of this longitudinal study provide
+the first substantive evidence in support of the
+hypothesis that negative attributions may af-
+fect aggressive behavior within the mother–
+son dyad. The correlational analyses within
+both assessments revealed that mothers’ and
+sons’ negative attributions about one anoth-
+er’s intent were associated with the aggres-
+siveness of the behavior that each of them di-
+rected toward the other. Moreover, children’s
+attributions about
+their mothers at Time 1
+were related to their negative behavior with
+
+their mothers at Time 2; mothers’ attributions
+at Time 1 were not related to their behavior
+at Time 2.
+
+Interestingly,
+
+the correlational data also
+showed mothers’ negativity at Time 1 to be
+related to their sons’ negative attributions
+about their mothers at Time 2. It was also the
+case that boys’ earlier negative behavior was
+related to their mothers’subsequent attribu-
+tions about their sons, raising the question as
+to whether the attributions are indeed biases
+or reasonable inferences made based on previ-
+ous interactions. Because of the correlational
+nature of these data, however, directions of
+influence could not be determined from the
+cross-sectional data.
+
+As a result, questions pertaining to the di-
+rection of influence between attributions and
+aggressive behavior in the mother–son rela-
+tionship were explored using the longitudinal
+data. Specifically, structural equation model-
+
+Attributions and aggression
+
+77
+
+Figure 2. Longitudinal test of associations between mothers’ and sons’ attributions and aggression.
+
+Table 4. MANOVA for the dependent variables moderated
+by socioeconomic status, race, and marital status at Time 1
+and Time 2
+
+Time 1
+
+Time 2
+
+Socioeconomic status
+Race
+Marital status
+SES by race
+SES by marital status
+Race by marital status
+SES by race by marital status
+
+Socioeconomic status
+Race
+Marital status
+SES by race
+SES by marital status
+Race by marital status
+SES by race by marital status
+
+df
+
+F
+
+p
+
+16,376
+8,188
+8,188
+16,376
+16,376
+8,188
+16,376
+
+16,320
+8,160
+8,160
+16,320
+16,320
+8,160
+16,320
+
+1.41
+3.19
+1.19
+1.29
+.50
+1.09
+.82
+
+.77
+.54
+1.49
+1.46
+1.06
+1.18
+.69
+
+.135
+.002
+.307
+.199
+.945
+.373
+.662
+
+.715
+.827
+.164
+.114
+.395
+.313
+.802
+
+78
+
+C. MacKinnon–Lewis et al.
+
+ing techniques were used to test the hypothe-
+sis that mothers’ and sons’ negative attribu-
+tions directly and significantly affect
+their
+subsequent aggressive behavior. Boys’ nega-
+tive attributions predicted their subsequent ag-
+gressive behavior with their mothers, even
+after measures of their earlier aggressive be-
+havior were taken into account.
+
+The same was not true of the mothers. Al-
+though mothers’ negative attributions were
+associated with their aggressive behavior
+within time, their earlier negative attributions
+did not predict their subsequent aggressive be-
+havior directly, although indirect paths were
+evident. Specifically, maternal attributions at
+Time 2 were significantly correlated with in-
+dices of mothers’ aggressiveness at Time 2,
+after accounting for their attributions at Time
+1. It thus appeared that mothers’ earlier attri-
+butions indirectly influenced their subsequent
+behavior.
+
+tributions about their mothers contributed sig-
+nificantly to the aggressiveness of their be-
+havior with their mothers. This suggests that
+the children’s negative behavior did not sim-
+ply represent a behavioral response to the
+mothers’ negative behavior or a stable ten-
+dency on the part of the children to behave
+aggressively. Rather, children’s negative attri-
+butions about their mothers appeared to play
+an independent role in shaping their aggres-
+sive behavior toward their mothers. Certainly,
+mothers’ negative attributions about their sons
+did not appear to play such a role in shaping
+their aggressive behavior toward their sons;
+however, one explanation of the data is that
+early maternal attributions affect later mater-
+nal aggressiveness indirectly through earlier
+maternal aggressiveness.
+
+Our
+
+findings not only confirmed the
+hypotheses offered by MacKinnon et al.
+(1990) but were also consistent with explana-
+Although we expected the relationships be-
+tions of the origins of attributional “biases”
+tween attributions and behavior to be bidirec-
+offered by attachment (Bowlby, 1969, 1980;
+tional, we did not find that the boys’ earlier
+Bretherton, 1990; Lamb, 1981a, 1981b;
+aggressive behavior predicted more negative
+Sroufe & Fleeson, 1986) and discrete emo-
+subsequent attributions in mothers. We did
+tional (Malatesta & Wilson, 1988) theorists.
+find, however, that mothers’ negative behav- The results call into question the notion that
+ior indeed predicted subsequent negative attri-
+the perceptions or attributions are “biased”
+butions on the part of the boys, suggesting
+and instead suggest that such perceptions or
+interpretations are informed by prior social in-
+that from “the perspective of the attributor,
+the biases may represent reasonable infer-
+teractions and social experiences. In other
+ences from the history of interaction with the
+words, the “biased” tendencies on the part of
+other person” (MacKinnon et al., 1990, p. 6).
+the boys in this study to attribute negative in-
+tent to their mothers appear to represent logi-
+It thus appears that the boys’ negative attribu-
+tions and their proclivity to focus on their
+cal expectations based on previous experi-
+mothers’ negative behavior in the past not
+ences with their mothers. Attachment theorists
+only potentiated coerciveness but may also would further argue that earlier experiences
+not only predispose individuals to pay atten-
+have been generated by earlier coercion
+tion to experiences that are affectively similar
+(MacKinnon et al., 1990).
+In fact, the data might suggest that coer-
+to past experiences but also lead them to re-
+cive mother–son interactions are promoted by
+code inconsistent events so as to make them
+their continuing patterns of negative behavior
+consistent. Indeed, the boys who were most
+toward one another, rather than by negative
+aggressive with their mothers were those who
+attributions about one another (MacKinnon–
+not only made negative attributions but had
+Lewis et al., 1992), and the moderately high
+also experienced more aggressive behavior by
+correlations between negative maternal and
+their mothers in the past. Such “biased” infor-
+child behaviors (see Table 3) are consistent mation processing also occurs when aggres-
+sive children interact with their peers (Dodge,
+with such an interpretation. However, even
+1985).
+after considering both mothers’ and children’s
+earlier negative behavior (as well as mothers’
+concurrent behavior), children’s negative at-
+
+The fact that the children’s earlier experi-
+ences contributed to their subsequent negative
+
+Attributions and aggression
+
+79
+
+attributions, which in turn potentiated aggres- There was simply insufficient power to run
+the model separately for each group. Second,
+sive behavior, has implications beyond the
+girls were not
+included in this study and
+mother–son dyad. For example, the tendency
+would need to be studied systematically be-
+of aggressive children to harbor negative attri-
+butional biases which foster aggressiveness
+fore we could reach any conclusions about the
+effects of children’s gender on the processes
+with peers (Dodge, 1986) may have its origin
+explored here.
+in earlier experiences within the family, par-
+ticularly as boys exposed to more coercive
+family experiences are more likely to be ag-
+gressive and rejected by their peers (Dishion,
+1990; MacKinnon–Lewis et al., 1994). In ad-
+dition, the results add to our growing under-
+standing of the processes associated with the
+establishment and maintenance of relationship
+trajectories. Not all outcomes of any given
+experiences need be pathological
+(Sroufe,
+1990); and studies such as this provide infor-
+mation about both normative and nonnorma-
+tive development (Cicchetti, 1990).
+
+Third, since the sample in this study was a
+normative one, there would be merit in deter-
+mining whether the associations between neg-
+ative attributions and aggression were evident
+in nonnormative samples. It may be that the
+associations would be even stronger in a sam-
+ple of aggressive boys, for example. Fourth,
+the children studied here all ranged from 7 to
+9 years of age at the start of the study. It is
+unclear whether the same processes would be
+evident if older or younger children had been
+studied. Fifth, the dyads were followed for
+only 1 year; it is unclear whether the same
+effects would have been evident if they had
+been followed for longer periods of time, par-
+ticularly if assessments were made in various
+developmental phases.
+
+Several
+
+The data reported here provide the first ev-
+idence that both affective–cognitive and inter-
+actional processes may contribute to the de-
+velopment of aggressive behavior
+in the
+mother–child relationship. Because children’s
+social cognitions partially explain aggressive-
+In closing, the contribution of this paper to
+ness toward their mothers and because conti-
+the field is that negative attributions on the
+nuity tends to characterize development (El-
+part of mothers and their children may indeed,
+der, Caspi, & Downy, 1986; Patterson, 1982),
+over time, affect the nature of their interac-
+the findings have significant implications for
+tions. Although having longitudinal data is a
+intervention. The ineffectiveness of many in-
+strength of this study and the standard error
+tervention programs designed to decrease
+of the mean analyses fit with a causal model,
+child aggression and negative mother–child
+these data are correlational and cannot dem-
+interactions may reflect their inattention to the
+onstrate causality. Moreover, sweeping state-
+social cognitions of mothers and children
+ments about the role of attributions in the
+(MacKinnon et al., 1990). This is unfortunate manifestation of aggressive behavior between
+mothers and children must be tempered, as
+because many social difficulties of interest to
+this role appears to depend in large part on
+developmental psychopathologists are associ-
+the actor one chooses to focus on. While for
+ated with negative parent–child relationships
+(Cicchetti & Rizley, 1981). It seems particu-
+children, earlier negative attributions appear
+to uniquely influence subsequent aggressive
+larly important to consider such seemingly sa-
+behavior toward their mothers, mothers’ nega-
+lient factors as maternal and child attributions
+tive attributions at Time 1 may not directly
+when developing interventions with aggres-
+sive children and their mothers (see MacKin-
+influence maternal aggression at Time 2, in
+part because mothers may counter such ag-
+non et al., 1990, for a discussion of possible
+gression through cognitive regulation of their
+intervention strategies).
+behavior. This possibility, which is only a
+testable hypothesis, obviously sets the stage
+for additional research with families in which
+the mother–child relationship is dysfunc-
+tional. This study should also encourage addi-
+tional research by questioning the equation so
+
+limitations of the study deserve
+mention, however. First, there would be merit
+in determining if the proposed model fits
+equally well for Black and White families, for
+married and single families, and for higher
+and lower
+families.
+
+socioeconomic status
+
+80
+
+C. MacKinnon–Lewis et al.
+
+often made in this area between negative
+attribution and bias, showing that negative
+attributions may indeed be accurate reflec-
+
+tions of past interactions more than biased in-
+terpretations that have little basis in experi-
+ence.
+
+References
+
+Bowlby, J. (1969). Attachment and loss: Vol. 1. Attach-
+
+ment. New York: Basic Books.
+
+Bowlby, J. (1980). Attachment and loss: Vol. 3. Loss,
+
+sadness, and depression. New York: Basic Books.
+
+Bretherton, I. (1990). Open communication and internal
+working models: Their role in the development of
+attachment relationships. In R. Thompson (Ed.), Ne-
+braska Symposium on motivation: Vol. 36. Socio-
+emotional development (pp. 57–113). Lincoln: Uni-
+versity of Nebraska Press.
+
+Bugental, D. B., Blue, J., & Lewis, J. (1990). Caregiver
+beliefs and dysphoric affect directed to difficult chil-
+dren. Developmental Psychology, 26, 631–638.
+
+Bugenthal, D. B., & Shennum, W. A. (1984). Different
+children as elicitors and targets of adult communica-
+tion patterns: An attributional–behavioral
+transac-
+tional analysis. Monographs of the Society for Re-
+search in Child Development, 49(1, Serial No. 205).
+Cicchetti, D. (1990). A historical perspective on the disci-
+pline of developmental psychopathology. In J. E.
+Rolf & A. S. Masten (Eds.), Risk and protective fac-
+tors in the development of psychopathology (pp. 2–
+28). New York: Cambridge University Press.
+
+Cicchetti, D., & Rizley, R. (1981). Developmental per-
+spectives on the etiology, intergenerational transmis-
+sion, and sequelae of child maltreatment. New Direc-
+tions for Child Development, 11, 31–55.
+
+Cohen, J. D. (1960). A coefficient of agreement for nomi-
+nal scales. Educational and Psychological Measure-
+ment, 20, 37–46.
+
+Crick, N. R., & Dodge, K. A. (1994). A review and re-
+formulation of social information-processing mecha-
+nisms in children’s social adjustment. Psychological
+Bulletin, 115, 74–101.
+
+children: Implications for developmental psychopath-
+ology. Child Development, 55, 163–173.
+
+Elder, G. H., Jr., Caspi, A., & Downey, G. (1986). Prob-
+lem behavior and family relationships: Life course
+and intergenerational
+themes. In A. Sorenson, F.
+Weinert, & L. Sherrod (Eds.), Human development:
+Multidisciplinary perspectives. New York: Erlbaum.
+Emery, R. E. (1988). Marriage, divorce, and children’s
+
+adjustment. Beverly Hills, CA: Sage.
+
+Garmezy, N., & Masten, A. S. (1986). Stress, competence,
+and resilience: Common frontiers for therapist and psy-
+chopathologist. Behavior Therapy, 17, 500–521.
+
+Hetherington, E. M., Cox, M., & Cox, R. (1978). The
+aftermath of divorce. In J. H. Stevens & M. M. Mat-
+thews (Eds.), Mother–child,
+father–child relations
+(pp. 149–176). Washington, DC: NAEYC.
+
+Joreskog, K. G., & Sorbom, D. (1986). Lisrel: Analysis
+of linear structural relationships by maximum likeli-
+hood, instrumental variables, and least squares meth-
+ods (Version VI). Mooresville, IN: Scientific Soft-
+ware.
+
+Kupersmidt, J. B., & Coie, J. D. (1990). Preadolescent
+peer status, aggression, and school adjustment as pre-
+dictors of externalizing problems in adolescence.
+Child Development, 61, 1350–1362.
+
+Lamb, M. E. (1981a). The development of social expecta-
+tions in the first year of life. In M. E. Lamb & L. R.
+Sherrod (Eds.), Infant social cognition (pp. 155–175).
+Hillsdale, NJ: Erlbaum.
+
+Lamb, M. E. (1981b). Developing trust and perceived ef-
+fectance in infancy. In L. P. Lipsitt (Ed.), Advances
+in infancy research (Vol. 1, pp. 101–127). Norwood,
+NJ: Ablex.
+
+Dishion, T. J. (1990). The family ecology of boys’ peer
+
+MacKinnon, C. E. (1989). An observational investigation
+of sibling interactions in married and divorced fami-
+lies. Developmental Psychology, 25, 36–44.
+relations in middle childhood. Child Development, 61, MacKinnon, C. E., Lamb, M. E., Belsky, J., & Baum, C.
+874–892.
+(1990). An affective–cognitive model of mother–
+child aggression. Development and Psychopathology,
+2, 1–13.
+
+Dix, T., & Grusec, J. E. (1985). Parental influence tech-
+niques: An attributional analysis. Child Development,
+54, 645–652.
+
+Dix, T., & Lochman, J. E. (1990). Social cognition and
+negative reactions to children: A comparison of moth-
+ers of aggressive and nonaggressive boys. Journal of
+Social and Clinical Psychology, 9, 418–438.
+
+MacKinnon–Lewis, C. E., Lamb, M. E., Arbuckle, B. S.,
+Baradaran, L. P., & Volling, B. (1992). The relation-
+ship between biased maternal and filial attributions
+and the aggressiveness of their interactions. Develop-
+ment and Psychopathology, 4, 403–415.
+
+Dix, T., Ruble, D. N., & Zambarano, R. J. (1989). Moth- MacKinnon–Lewis, C., Volling, B., Lamb, M. E., Dech-
+man, K., Rabiner, D., & Curtner, M. E. (1994). A
+cross-contextual analysis of boys’ social competence:
+From family to school. Developmental Psychology,
+30, 325–333.
+
+ers’ implicit theories of discipline: Child effects, par-
+ent effects, and the attribution process. Child Devel-
+opment, 60, 1373–1391.
+
+Dodge, K. A. (1985). Facets of social interaction. In
+
+B. H. Schneider, K. H. Rubin, & J. E. Ledingham (Eds.), Malatesta, C. Z., & Wilson, A. (1988). Emotion cognition
+Children’s peer relations: Issues in assessment and in-
+interaction in personalty development: A discrete
+tervention (pp. 3–22). New York: Springer–Verlag.
+emotions, functionalist analysis. British Journal of
+Social Psychology, 27, 91–112.
+
+Dodge, K. A. (1986). A social information processing
+model of social competence in children. In M. Perl-
+mutter (Ed.), Minnesota Symposia in Child Psychol-
+ogy (Vol. 18, pp. 77–125). Hillsdale, NJ: Erlbaum.
+
+Dodge, K. A., Murphy, R. R., & Buchsbaum, K. (1984).
+The assessment of intention-cue detection skills in
+
+Parke, R. D. (1990, August). Family–peer systems: In
+search of linking processes. Paper presented at the Di-
+vision 7, APA Presidential Address at the Annual
+Meeting of the AmericanPsychological Association,
+Boston, MA.
+
+Attributions and aggression
+
+81
+
+Patterson, G. R. (1982). A social learning approach: Vol.
+
+3. Coercive family process. Eugene, OR: Castalia.
+
+Pettit, G. S., Dodge, K. A., & Brown, M. M. (1988).
+Early family experience, social problem solving pat-
+terns, and children’s social competence. Child Devel-
+opment, 59, 107–120.
+
+Sroufe, L. A. (1990). Considering normal and abnormal
+together: The essence of developmental psychopath-
+ology. Development and Psychopathology, 2, 335–
+347.
+
+Sroufe, L. A., & Fleeson, J. (1986). Attachment and the
+
+construction of relationships. In W. Hartup & Z. Ru-
+bin (Eds.), Relationships and development (pp. 51–
+72). Hillsdale, NJ: Erlbaum.
+
+Strassberg, Z. (1995). Social information processing in
+compliance situations by mothers of behavior-prob-
+lem boys. Child Development, 66, 376–389.
+
+Strassberg, Z., Dodge, K. A., Bates, J. E., & Pettit,
+G. S. (1992). The longitudinal relation between pa-
+rental conflict strategies and children’s sociometric
+standing in kindergarten. Merrill–Palmer Quarterly,
+38, 477–493.
+
+

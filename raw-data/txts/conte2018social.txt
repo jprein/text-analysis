@@ -1,0 +1,1422 @@
+Early Education and Development
+
+ISSN: 1040-9289 (Print) 1556-6935 (Online) Journal homepage: http://www.tandfonline.com/loi/heed20
+
+Social Cognition, Language, and Prosocial
+Behaviors: A Multitrait Mixed-Methods Study in
+Early Childhood
+
+Elisabetta Conte, Ilaria Grazzani & Alessandro Pepe
+
+To cite this article: Elisabetta Conte, Ilaria Grazzani & Alessandro Pepe (2018): Social Cognition,
+Language, and Prosocial Behaviors: A Multitrait Mixed-Methods Study in Early Childhood, Early
+Education and Development, DOI: 10.1080/10409289.2018.1475820
+To link to this article:  https://doi.org/10.1080/10409289.2018.1475820
+
+Published online: 29 May 2018.
+
+Submit your article to this journal 
+
+View related articles 
+
+View Crossmark data
+
+Full Terms & Conditions of access and use can be found at
+
+http://www.tandfonline.com/action/journalInformation?journalCode=heed20
+
+EARLY EDUCATION AND DEVELOPMENT
+https://doi.org/10.1080/10409289.2018.1475820
+
+Social Cognition, Language, and Prosocial Behaviors: A Multitrait
+Mixed-Methods Study in Early Childhood
+Elisabetta Conte
+
+, and Alessandro Pepe
+
+, Ilaria Grazzani
+
+“R. Massa” Department of Human Sciences for Education, University of Milano-Bicocca
+
+ABSTRACT
+Research Findings: In this study, we investigated associations among social
+cognition skills (specifically, emotion knowledge and theory of mind), lan-
+guage abilities, and 3 varieties of prosocial behavior (helping, sharing, and
+comforting) in early childhood. The effects of age and gender were also
+taken into account. Participants were 149 Italian children between 24 and
+47 months of age (M = 35.6 months, SD = 6.77 months). We adopted a
+multitrait mixed-methods research design, using direct measures of
+emotion knowledge, theory of mind, and language as well as naturalistic
+observations of children’s free play with peers to detect the frequency with
+which they engaged in prosocial behaviors. Ordinal
+logistic regression
+analyses showed that helping behaviors were especially accounted for by
+emotion knowledge and gender, whereas variance in sharing behaviors was
+mostly explained by theory-of-mind ability and language. Practice or Policy:
+The findings encourage those involved in early childhood education to
+develop training and intervention programs to enhance children’s emo-
+tional, linguistic, and cognitive skills. Given that these results were obtained
+with children as young as 2 and 3 years, preventive intervention should be
+implemented during the earliest years of life.
+
+In developmental psychology, the early years of life are viewed as a crucial period for the achievement
+of social-emotional, cognitive, and linguistic milestones. Beginning in toddlerhood, children go
+through many changes: For example, they make significant advances in social cognition, a theoretical
+construct that includes the ability to infer the internal states—such as the intentions, goals, emotions,
+desires, beliefs, and thoughts—of other people (Carpendale & Lewis, 2006; Ornaghi, Brockmeier, &
+Grazzani, 2014). Two well-known social cognition competencies are emotion knowledge and theory of
+mind. The former involves the ability to recognize and understand emotions in oneself and others; the
+latter entails the understanding that people’s actions are guided by inner states such as intentions,
+desires, and beliefs (Astington, Harris, & Olson, 1988). Even at the emergent stage, social cognition
+skills are related to language abilities (Grazzani, Ornaghi, Agliati, & Brazzelli, 2016; Imuta, Henry,
+Slaughter, Selcuk, & Ruffman, 2016; Rieffe & Wiefferink, 2017).
+
+A growing body of research has shown that language may provide young children with significant
+insight into other people’s emotions and thoughts (de Rosnay, Pons, Harris, & Morrell, 2004; Milligan,
+Astington, & Dack, 2007; Rhee et al., 2013; Strand, Downs, & Barbosa-Leiker, 2016), with key implications
+for the acquisition of social and emotional competencies. Specifically, children deploy their current social
+cognition skills and language abilities to win acceptance from peers and engage in social interaction
+(Menting, van Lier, & Koot, 2011; Slaughter, Imuta, Peterson, & Henry, 2015). As a result, their compre-
+hension of people’s inner states is enhanced still further, and they make increased attempts to enact positive
+social behaviors (Denham et al., 2012; Ensor & Hughes, 2005). In terms of positive social conduct, the
+
+CONTACT Elisabetta Conte
+University of Milano-Bicocca, Building U6, Piazza dell’Ateneo Nuovo 1, Milano 20126, Italy.
+© 2018 Taylor & Francis
+
+elisabetta.conte@unimib.it
+
+“R. Massa” Department of Human Sciences for Education,
+
+2
+
+E. CONTE ET AL.
+
+literature has focused on prosocial behaviors, defined as voluntary actions intended to benefit another,
+showing their associations with psychological well-being, social adjustment, and school achievement
+(Eisenberg, Eggum-Wilkens, & Spinrad, 2015).
+
+Toddlers begin early on to engage in a variety of prosocial behaviors such as helping, sharing, and
+comforting (Dunfield, Kuhlmeier, O’Connell, & Kelley, 2011; Svetlova, Nichols, & Brownell, 2010),
+which are remarkably complex because they require children to interpret when their intervention is
+relevant and how to act appropriately. Thus, from the very first years of life, both the ability to
+recognize and understand others’
+inner states and suitable levels of language may be crucial
+prerequisites to acting on behalf of others.
+
+However, there is a relative lack of research on the relationships among social cognition,
+language, and prosociality during early childhood. In fact,
+little is known about how emotion
+knowledge and theory of mind generally relate to prosocial behavior in the early years.
+Furthermore, few studies have examined the links between language and prosocial behavior in
+early childhood, as observed by Imuta et al. (2016). In addition, prosocial behaviors have mainly
+been observed in experimental laboratory settings (Dunfield & Kuhlmeier, 2013; Dunfield et al.,
+2011; Ensor & Hughes, 2005; Rhee et al., 2013; Wu & Su, 2014) rather than in naturalistic contexts
+(Cassidy, Werner, Rourke, Zubernis, & Balaraman, 2003; Denham, 1986). Hence, in the current
+study, we adopted a multitrait mixed-methods approach to investigate whether emotion knowledge,
+theory of mind, and language are related to the occurrence of prosocial behaviors in 2- and 3-year-
+olds.
+
+Emotion knowledge and theory of mind
+
+Toddlers learn early on to recognize and label emotion expressions, and as time goes on they also come
+to understand that different situations elicit a range of emotions in oneself and others (Bassett,
+Denham, Mincic, & Graling, 2012). Hence, two distinct components of emotion knowledge gradually
+emerge: the ability to recognize emotion expressions (emotion recognition) and familiarity with typical
+and atypical situational elicitors of emotion (emotion situation knowledge).
+
+Alongside their growing emotion knowledge, young children also develop a progressive understanding
+of the mental states of other people. The classical view of theory-of-mind development suggests that true
+comprehension of others’ internal states is attained at around 4 years, given that most children system-
+atically fail false-belief tasks before this age (Wellman & Liu, 2004). However, children already hold some
+knowledge of others’ minds before the false-belief test milestone. In fact, an understanding of desires
+develops at around 2 years of age as a toddler judges that two persons (the child and someone else) may have
+different desires about the same object. Then, at approximately 3 years, children understand that others can
+hold true beliefs, which are coherent with reality. Later, children judge that two persons may have different
+beliefs about the same object when they do not know which belief is true or false (Wellman, 2014).
+
+The literature shows that toddlers and preschoolers who are more competent in understanding
+emotions generally tend to be more accurate in attributing mental states to others. For example, a
+pioneering study conducted by Denham (1986) with 2- and 3-year-olds identified significant positive
+correlations between children’s emotion knowledge and their cognitive perspective-taking skills.
+Similarly, Harwood and Farrar (2006) found that preschoolers’ affective perspective taking was signifi-
+cantly correlated with their theory-of-mind performance, evaluated by the unexpected identity task and
+the unexpected location task, independent of age and language ability. Evidence of significant correlations
+was also reported by de Rosnay and colleagues (2004). These authors found that the association between
+false-belief understanding and emotion attribution ability in 3- to 6-year-old children remained strong
+after age was controlled for but lost significance when verbal abilities were taken into account.
+
+EARLY EDUCATION AND DEVELOPMENT
+
+3
+
+Language abilities and links with social cognition skills
+
+Research with toddlers and preschoolers has shown that language abilities are key correlates of both emotion
+knowledge and theory of mind. In fact, Cassidy et al. (2003) assessed language, mental state understanding,
+and emotion knowledge in children ages 37 to 65 months, reporting positive and significant correlations
+between language abilities and both theory-of-mind skills and emotion understanding, even when the
+effects of age were taken into account. Similarly, de Rosnay et al. (2004) administered measures of verbal
+ability and belief-based emotion tasks to children in the same age range, finding language abilities to be
+correlated with both false-belief understanding and emotion attribution independent of age.
+
+Significant correlations between emotion knowledge and language were also identified by Strand
+et al. (2016) in a study on emotion recognition, affective perspective taking, and language in children
+ages 36 to 67 months. Again, there was a strong relationship between emotion knowledge and language
+abilities that remained even when the effects of age were accounted for. A further valuable contribution
+to this line of inquiry has been provided by training studies, in which participation in conversational
+activities enhanced children’s ability to express, recognize, understand, and reflect on emotional
+experience (Grazzani, Ornaghi, Agliati, et al., 2016; Grazzani, Ornaghi, & Brockmeier, 2016).
+
+With regard to the relationship between language and theory of mind, Ruffman, Slade, Devitt,
+and Crowe (2006) administered theory-of-mind and language tasks to children at age 3 years
+and again 1 year later, finding significant positive correlations between these measures. More
+recently, a meta-analysis by Imuta et al. (2016) confirmed the existence of a significant associa-
+tion between language abilities and theory of mind in children between 2 and 12 years of age.
+This was in line with the conclusions of an earlier meta-analysis by Milligan and colleagues
+(2007), which also posited strong links between language abilities and false-belief understanding
+in children younger than 7 years. It is interesting that Milligan et al. attempted to clarify the
+causality of these relationships and found bidirectional influences, although language appeared to
+have a greater effect on false-belief understanding than vice versa. Similarly, Meins, Fernyhough,
+Arnott, Leekam, and de Rosnay (2013) monitored the development of children over a 2-year
+period from 26 to 51 months of age, finding that early language abilities predicted later theory-
+of-mind performance.
+
+Prosocial behaviors: Helping, sharing, and comforting
+
+The understanding that others have emotions and thoughts, along with the ability to explicitly infer
+these mental states and comprehend linguistic cues, affects the development of positive peer
+relationships and the emergence of prosocial behaviors (Denham et al., 2012; Rhee et al., 2013),
+defined as voluntary actions intended to benefit others (Eisenberg et al., 2015). Scholars have
+proposed conceptualizing prosocial behavior as a multidimensional construct that encompasses
+helping, sharing, and comforting. Helping behaviors are defined as actions intended to fulfill an
+instrumental need (Dunfield et al., 2011) and can also take the form of providing valuable informa-
+tion to someone who needs it (Liszkowski, Carpenter, & Tomasello, 2008). Sharing behaviors involve
+the voluntary giving away of a valued resource to another individual who both lacks and desires or
+needs it (Brownell, Iesue, Nichols, & Svetlova, 2013). Comforting behaviors are actions intended to
+alleviate the negative emotional or physical state of another person (Zahn-Waxler & Radke-Yarrow,
+1990).
+
+Each of these types of prosocial behaviors requires specific cognitive processes enabling the
+child, respectively, to perceive a given problem, represent its cause and solutions, and feel
+motivated to act accordingly to alleviate another person’s distress (Dunfield, 2014). Given that
+these behaviors are prompted by the recognition of another person’s state of need—whether an
+instrumental need, a material desire, or emotional distress (Dunfield & Kuhlmeier, 2013)—it is
+plausible that the ability to identify and understand such inner states may play a key role in
+prosocial conduct.
+
+4
+
+E. CONTE ET AL.
+
+Social cognition and prosocial behavior
+
+A body of research suggests that the frequency of prosocial behaviors is affected by emotion knowledge
+during the preschool (Denham et al., 2012; Ornaghi, Pepe, & Grazzani, 2016) and school (Eggum et al., 2011;
+Farrant, Devine, Maybery, & Fletcher, 2012) years. The limited number of studies that have explored this
+topic in toddlerhood suggest that emotion knowledge also plays a role in the occurrence of early prosocial
+behaviors. For example, based on cross-sectional research with toddlers, Ensor and Hughes (2005) reported
+that emotion understanding made a unique significant contribution to variance in prosocial behaviors.
+These findings were replicated by Ensor, Spencer, and Hughes (2011) in a longitudinal study: Children were
+assessed at three time points from 2 to 4 years of age, and regression analyses showed that performance on
+emotion understanding tasks at age 3 predicted prosocial behaviors at age 4.
+
+The literature has also been enriched by intervention studies exploring the effects of actively
+engaging toddlers and preschoolers in dyadic or group conversations about emotions. Such dis-
+courses enhance both young children’s awareness of internal states in others and their understanding
+of emotions, consequently also impacting on their ability to identify when and how to respond
+prosocially (Brownell, Svetlova, Anderson, Nichols, & Drummond, 2013; Garner, Dunsmore, &
+Southam-Gerrow, 2008; Grazzani, Ornaghi, Agliati, et al., 2016; Ornaghi, Brazzelli, Grazzani,
+Agliati, & Lucarelli, 2017; Ornaghi, Grazzani, Cherubin, Conte, & Piralli, 2015).
+
+Despite the compelling nature of this evidence, findings from other studies have called into question
+the strength of such associations. For example, no relations between emotion knowledge and prosocial
+behaviors were found when prosocial actions were directly observed during free play sessions at day care
+centers (Denham, 1986); in contrast, associations emerged when prosocial behaviors were observed
+during experimental tasks and structured play situations (Denham, 1986; Garner et al., 2008) or
+measured via questionnaires completed by mothers (Ensor & Hughes, 2005). Hence, it is likely that
+the identification of links between social cognition and prosociality may depend on the method used by
+researchers to obtain data on prosocial behavior. Furthermore, it is important to note that although
+children have a natural inclination to act on behalf of others (Warneken & Tomasello, 2013), in
+toddlerhood prosocial actions still occur relatively infrequently (Eisenberg et al., 2015). This may justify
+the absence of associations between emotion knowledge and prosocial behaviors in some studies of early
+childhood. Finally, the presence or absence of a relationship with emotion understanding may also
+depend on the type of prosocial behavior being investigated. For example, comforting is a prosocial
+action that requires the child undertaking it to have inferred an emotional state and that may therefore be
+more closely related to emotion knowledge than helping or sharing, which are more goal oriented
+(Drummond, Hammond, Satlof-Bedrick, Waugh, & Brownell, 2017; Gross et al., 2015).
+
+Regarding the role of theory of mind, little is known about how it relates to prosocial behaviors in early
+childhood. In a recent meta-analysis, Imuta et al. (2016) attempted to shed light on this relationship by
+analyzing 76 studies conducted with children between 2 and 12 years of age. They concluded that children
+who possess an advanced theory of mind are more likely to act prosocially; this link was consistent across
+different varieties of prosocial conduct (namely, helping, comforting, and cooperating) but did not apply
+to sharing. The relationship between theory of mind and prosocial behavior was independent of age and
+gender, although it tended to be stronger in children ages 6 years and older as well as in girls. It is
+important to note that this comprehensive meta-analysis revealed that only seven out of 76 studies had
+been conducted with children younger than 3 years of age, and none had investigated subtypes of
+prosocial behaviors or adopted desire or true-belief understanding measures of theory of mind.
+
+Language abilities and prosocial behavior
+
+Children with limited language abilities are less likely to engage in social interaction, and this
+reduces their opportunities to learn cognitive and social skills (Hoff, 2014; Menting et al., 2011;
+Rhee et al., 2013). Indeed, there is evidence of an association between language acquisition and
+behavioral issues from the preschool years through middle childhood and adolescence: Specifically,
+
+EARLY EDUCATION AND DEVELOPMENT
+
+5
+
+children with poorer language skills are at increased risk for being rejected by peers and developing
+externalizing behavior problems (Menting et al., 2011). Consistent with this, research on positive
+social behaviors has revealed that toddlers’ and preschoolers’ language abilities positively influence
+the development of prosocial behavior. Note that longitudinal studies have shown that early
+language capacities predict later prosocial actions (Girard, Pingault, Doyle, Falissard, & Tremblay,
+2017; Rhee et al., 2013). Interesting findings have also emerged from studies that investigated the
+relationship between language and prosociality while assessing whether it was mediated by social
+cognition skills. For example, Ensor and Hughes (2005) found that verbal abilities influenced
+prosocial behaviors in 20- to 36-month-old children and that this association was mediated by
+emotion understanding. Similar mediation analyses were performed by Ornaghi et al. (2016) in a
+study with older children, specifically 4- to 6-year-olds: It is interesting that in this case, both
+language and theory of mind contributed to mediating the effect of emotion comprehension on
+prosocial orientation.
+
+In sum, the existing research on early childhood suggests that language plays a role in the
+occurrence of prosocial behaviors, although it is still unclear whether this link drives or is driven
+by associations between social cognition skills and prosocial conduct. More advanced language
+abilities might be expected to facilitate social interaction, thereby enhancing children’s ability to
+recognize another person’s need or difficulty—that is to say, their social cognition. This in turn
+should progressively enable them to select and implement appropriate prosocial responses. At the
+same time, prosocial behaviors might promote further positive exchanges with peers, thus fostering
+the development of social cognition skills with the concurrent intervention of language abilities.
+
+Gender differences
+With regard to gender, the existing literature on children’s social cognition reports mixed findings.
+Some studies have indicated that girls score more highly than boys on measures of emotion knowl-
+edge (Gross et al., 2015; Sette, Bassett, Baumgartner, & Denham, 2015) and theory of mind
+(Charman, Ruffman, & Clements, 2002). In contrast, other research with toddlers and preschoolers
+has found no gender differences in either emotion knowledge (Ensor & Hughes, 2005; Grazzani,
+Ornaghi, Agliati, et al., 2016) or theory-of-mind competence (Eggum et al., 2011; LaBounty,
+Wellman, Olson, Lagattuta, & Liu, 2007; Wellman & Liu, 2004).
+
+The situation is no clearer with regard to gender differences in language abilities. Some studies
+have reported that on average girls display stronger language skills than boys (Bornstein, Hahn, &
+Haynes, 2004; Rhee et al., 2013). This finding was partially supported by a broad meta-analysis
+(Eriksson et al., 2012) indicating that gender differences existed across different non-English-
+language communities. Specifically, girls tended to be linguistically ahead of boys, but the extent
+of this advantage depended on age, language community, and the specific language skill assessed,
+which suggests that these potential confounding variables may explain the mixed findings reported
+on the association between language and gender (Barnett, Gustafsson, Deng, Mills-Koonce, & Cox,
+2012; Eriksson et al., 2012; Girard et al., 2017; Pepe & Addimando, 2014).
+
+Similarly conflicting findings have emerged in relation to the role of gender in prosocial behavior.
+Some studies have identified no gender differences in prosociality (Denham et al., 2012; Dunfield
+et al., 2011; Wu & Su, 2014), whereas others suggest that girls display more prosocial behaviors than
+boys during toddlerhood and the early preschool period (Baillargeon et al., 2011; Eisenberg & Fabes,
+1998; Girard et al., 2017; Rhee et al., 2013; Tisak, Holub, & Tisak, 2007). These gender-related
+differences may be underpinned by cultural expectations and parental socialization practices.
+Specifically, gender stereotypes define girls as caring, responsive, and helpful, whereas boys are
+expected to be more independent and goal oriented (Eisenberg et al., 2015). Children’s caregivers
+may encourage behaviors that match these stereotyped roles, thus socializing boys and girls in
+different ways (Baker, Tisak, & Tisak, 2016; Denham, Bassett, & Wyatt, 2010).
+
+6
+
+E. CONTE ET AL.
+
+The present study
+
+The main goal of this study was to investigate the impact of social cognition skills, namely, emotion
+knowledge and theory of mind, and language on the occurrence of prosocial behaviors in 2- and 3-
+year-olds while taking into account the role of age and gender. To date, little research has been
+conducted on the relations among these variables in early childhood, with especially few studies
+applying a multitrait mixed-methods approach.
+
+Our first research hypothesis, in line with the current literature, was that the three varieties of
+prosocial behaviors (i.e., helping, sharing, and comforting) would not be related to one another.
+Moreover, we expected that prosocial behaviors in general would be positively associated with social
+cognition skills and language. Finally, we expected that emotion knowledge, theory of mind, and
+language would all contribute to accounting for the occurrence of prosocial behaviors.
+
+Method
+
+Participants
+
+Participants were 149 Italian children ages 24 to 47 months (M age = 35.6 months, SD = 6.77 months;
+75 girls, 74 boys) enrolled at 18 day care centers and kindergartens in northern Italy. Of the children,
+79 (53%) were 2-year-olds (M age = 30.2 months, SD = 3.17 months; 45 girls, 34 boys) and 70 (47%)
+were 3-year-olds (M age = 41.8 months, SD = 3.73 months; 30 girls, 40 boys). Most were Caucasian
+(94%). All participants displayed typical development and came from working- and middle-class
+families, as reported in a sociodemographic questionnaire completed by their parents. All parents
+provided written informed consent at the outset of the study.
+
+Procedure
+
+A multitrait mixed-methods design was adopted consisting of both directly administered tasks and
+naturalistic observation. The children were tested individually in a quiet room at their own schools.
+Overall, the assessment lasted approximately 20 min, and the tasks were presented in a counter-
+balanced order. Each child was also observed individually over a series of free play sessions that took
+place on different days. Educators and teachers were encouraged to intervene as little as possible
+during the observation sessions.
+
+Measures
+
+Emotion knowledge
+In order to assess the children’s understanding of basic emotions (i.e., happiness, sadness, anger,
+fear), we administered the short form of the Affect Knowledge Test (Denham, 1986; Italian validated
+version by Camodeca & Coppola, 2010). This task uses a set of four emotion faces and puppets with
+blank faces. Specifically, it evaluates children’s ability to label emotions (expressive task, four items;
+“How does she feel?”), recognize emotions (receptive task, four items; e.g., “Point to the sad face”),
+and identify others’ emotions in typical situations (stereotypical script, three items that refer to
+anger, sadness, and fear) and atypical situations (nonstereotypical script, six items). In the
+stereotypical scripts, the puppet displays the emotion that most children would feel in the described
+scenario (e.g., in the script concerning anger, Nancy knocks down the tower that Johnny has just
+finished building), whereas in the nonstereotypical scripts it expresses a different emotion than
+the child would normally experience, as indicated by an educator or teacher in a short questionnaire
+about the child’s emotional responses in common everyday situations (e.g., if the child’s least favorite
+food is meat, in the script the puppet is happy to know that he or she is going to have meat for
+lunch). Participants received a score of 2 for a correct response, 1 for an incorrect response with the
+correct emotional valence, and 0 for a completely inappropriate response. As recommended in the
+
+EARLY EDUCATION AND DEVELOPMENT
+
+7
+
+literature (Bassett et al., 2012; Sette et al., 2015), two composite scores were assigned: The emotion
+recognition score was the sum of the scores obtained on the expressive and receptive tasks and
+ranged from 0 to 16 (α = .82). The emotion situation knowledge score was the sum of the scores
+obtained on the stereotypical and nonstereotypical script tasks and ranged from 0 to 18 (α = .77).
+
+Theory of mind
+Children’s theory-of-mind competence was evaluated using a battery of two tasks, specifically the
+Italian translations of the Diverse-Desire Task (Wellman & Liu, 2004) and the True-Belief Task
+(Wellman, 1991), which assess, respectively, children’s understanding that other people can have
+desires that differ from their own and that others can hold true beliefs. These measures of theory of
+mind were selected on the basis that they are suited to the age groups under study and known to be
+reliable in the Italian context (Liverta Sempio, Marchetti, Castelli, Lecciso, & Pezzotta, 2005). For
+each task, children scored 1 point for a correct answer and 0 points for an incorrect answer. Hence,
+the total score for each task ranged from 0 to 1, which means that the test was either passed or failed.
+Raykov’s (1997) composite reliability coefficient for the theory-of-mind scores was .70.
+
+Language
+The Italian version of the Peabody Picture Vocabulary Test–Revised (Stella, Pizzoli, & Tressoldi, 2000)
+was administered to provide a measure of children’s receptive vocabulary. It consists of 180 pages of
+increasing difficulty, each featuring four pictures from among which the child is asked to indicate the
+one that corresponds to the word called out by the examiner. Scoring was carried out following the
+standard procedure, with 1 point assigned for each correct answer and 0 points for each wrong answer.
+The first five items were not included in the overall score because they are only intended to train the
+child in how to respond to the items. Thus, possible scores ranged from 0 to 175.
+
+Prosocial behavior
+The Prosocial Behavior Observation Grid was developed ad hoc by the research team to record the
+occurrence of children’s spontaneous helping, sharing, and comforting behaviors toward peers in the
+school setting (see the Appendix). In devising the instrument, we drew on experimental protocols
+described in the literature (Dunfield & Kuhlmeier, 2013; Dunfield et al., 2011), adapting them to suit
+naturalistic, paper-and-pencil observation. Two observers, who had previously spent time getting to
+know the children and their teachers or educators, were trained in identifying children’s prosocial
+behaviors during unstructured free play and entering detailed descriptions of the observed helping,
+sharing, and comforting behaviors in the Prosocial Behavior Observation Grid. Following previous
+observational research (e.g., Grazzani, Ornaghi, Agliati, et al., 2016), each child was observed for 5 min
+on four separate occasions, yielding a total of 20 min of observation time per participant. A single
+researcher observed each child while refraining from having any kind of interaction with him or her.
+Helping behaviors were reported when a child’s peer was in need of either instrumental assistance or
+information. A helping behavior was described as instrumental when a child assisted a classmate’s
+goal-directed efforts (e.g., helped another child to free his or her leg from a string) and as informing
+when a child provided a peer with needed information or explained how to carry out an activity (e.g.,
+by showing a classmate who was struggling to complete a jigsaw puzzle where to place the pieces).
+Behaviors were categorized as sharing when a child gave away material things (e.g., food, a toy) to a
+peer who had none of this resource and desired or needed it. Comforting behaviors were recorded
+when a peer had displayed and/or verbally expressed a negative emotional or physical state; these
+included psychological comforting, when the action was intended to modify the other child’s negative
+internal state (e.g., kissing a classmate who was crying), and physical comforting, when the action was
+intended to soothe another’s physical distress (e.g., rubbing the back of a child who was coughing).
+At a later stage, two expert judges, who were different from the observers and unaware of the
+purposes of the study,
+independently coded the prosocial behaviors reported in the grid. In
+particular, they verified that each description of a prosocial behavior was in keeping with the
+
+8
+
+E. CONTE ET AL.
+
+corresponding standard definition of prosocial behavior provided in literature and had been assigned
+to the correct category of prosocial behavior. The interrater agreement between the two judges was
+κ = .85. In the case of interrater disagreement between the judges, the specific behavior was analyzed
+and discussed until unanimous agreement was reached. Finally, three total scores—for helping,
+sharing, and comforting, respectively—were calculated by summing the occurrences of each of these
+varieties. In the current study, the occurrences of helping and sharing behaviors for each child
+ranged from 0 to 2, whereas the occurrence of comforting behaviors ranged from 0 to 3.
+
+Overview of analyses
+
+Preliminary testing of the data suggested that the study variables were generally normally distributed,
+with skewness and kurtosis values falling within the accepted range of ±2 (George & Mallery, 2010).
+The only exception was comforting prosocial behavior: Even after the scores for comforting had
+been transformed statistically, they continued to be highly skewed, and consequently the comforting
+dimension of prosocial behavior was not included in any of the subsequent analyses.
+
+Next correlations between helping and sharing prosocial behaviors were computed. Then correla-
+tions between emotion knowledge, theory-of-mind understanding, language, prosocial behaviors,
+age, and gender were calculated. In order to avoid Type I error, we applied a Bonferroni correction
+(Frane, 2015); p was set at .01.
+
+Finally, to investigate the relationship between children’s prosocial data (scores for the outcome
+variables ranging from 0 to 2) and the other study variables, we performed ordinal logistic regression
+analyses (as suggested by Fox, 2008). The initial model was set to have the occurrences of two
+different prosocial observed behaviors (helping and sharing) as the target variables, theory-of-mind
+scores as a fixed-effect variable, and language and emotion knowledge as covariates. Finally, age and
+gender were entered as control variables. The effects of theory-of-mind performance, language, and
+emotion knowledge were evaluated. We compared models by testing the fit of the full-null model
+with the null model and evaluating measures of likelihood. Odds ratios (ORs) and their 95%
+confidence intervals (CIs) were calculated to measure effect sizes and evaluate the associations of
+the other variables with prosocial behaviors. The Mahalanobis distance criterion (p > .001) was used
+to identify and skip multivariate outliers. As a result, four outliers were removed. We conducted
+statistical analyses in SPSS using raw unstandardized scores for each of the measures.
+
+Results
+
+Descriptive statistics and correlations
+
+Means, standard deviations, and actual ranges for all study variables are reported in Table 1. Zero-order
+correlations are presented in Table 2. Prosocial behaviors were not significantly correlated. With regard to
+the link between prosociality and the other variables in the research design, helping was significantly
+correlated with emotion situation knowledge (r = .35, p < .001) and language competence (r = .30,
+p < .001). Indeed, language was significantly correlated with all social cognition skills except for true-belief
+understanding, with which language displayed a correlation that tended toward statistical significance.
+Furthermore, age correlated significantly with scores obtained on all directly administered tasks with the
+exception of the true-belief understanding task.
+
+To further clarify whether the associations between study variables remained after the effects of
+age group and gender were controlled for, we conducted partial correlation analysis (see Table 3).
+Again, the prosocial behaviors were not significantly correlated with one another. Helping continued
+to be significantly correlated with emotion situation knowledge (r = .33, p < .001) and language
+ability (r = .31, p < .001). Finally, language scores remained significantly associated with both
+components of emotion knowledge (rs = .40 with emotion recognition and .43 with emotion
+situation knowledge, respectively, p < .001).
+
+EARLY EDUCATION AND DEVELOPMENT
+
+9
+
+Table 1. Descriptive statistics for all study variables.
+M
+Variable
+9.50
+Emotion recognition
+12.82
+Emotion situation knowledge
+.72
+Diverse-desire understanding
+True-belief understanding
+.65
+24.23
+Language
+0.43
+Helping behaviors
+0.57
+Sharing behaviors
+Comforting behaviors
+0.18
+
+SD
+4.01
+3.79
+.45
+.65
+14.7
+0.71
+0.57
+0.51
+
+Range
+0–16
+0–18
+0–1
+0–1
+1–68
+0–2
+0–2
+0–3
+
+3
+
+4
+
+2
+
+Table 2. Zero-order correlations between study variables.
+Variable
+1. ER
+2. ESK
+3. DD
+4. TB
+5. Language
+6. Helping
+7. Sharing
+8. Age
+9. Gender
+Note. Spearman nonparametric correlations were run for gender. ER = emotion recognition; ESK = emotion situation knowledge;
+
+—
+.20
+.14
+.60**
+.35**
+−.059
+.58**
+−.024
+
+1
+—
+.43**
+.16†
+.20
+.55**
+.20
+.088
+.50**
+
+—
+.16†
+.034
+−.11
+.21
+−.092
+
+−.072
+.28*
+.16†
+.13
+.28*
+−.009
+
+—
+−.17
+.18
+.15
+
+—
+.042
+.037
+
+—
+.30**
+
+—
+−.12
+
+.62**
+
+−.14
+
+−.17
+
+−.21
+
+—
+
+—
+
+5
+
+6
+
+7
+
+8
+
+9
+
+DD = diverse-desire understanding; TB = true-belief understanding.
+
+†p = .050–.070. *p < .01. **p < .001.
+
+3
+
+2
+
+Table 3. Partial correlations between study variables, controlling for the effect of age group and gender.
+Variable
+1. ER
+2. ESK
+3. DD
+4. TB
+5. Language
+6. Helping
+7. Sharing
+Note. ER = emotion recognition; ESK = emotion situation knowledge; DD = diverse-desire understanding; TB = true-belief
+
+1
+—
+.29**
+.06
+.12
+.40**
+.21
+.10
+
+—
+.067
+.058
+.43**
+.33**
+−.072
+
+—
+.053
+.025
+−.11
+
+—
+−.13
+.15
+.13
+.14
+
+—
+.31**
+
+—
+−.18
+
+−.17
+
+—
+
+4
+
+5
+
+6
+
+7
+
+understanding.
+
+**p < .001.
+
+Ordinal logistic regression analyses
+Ordinal regression analyses were conducted to obtain a more detailed picture of how children’s
+social cognition skills and language were related to prosocial behaviors by considering the complex
+network of reciprocal associations among them (see Table 4). With regard to helping behaviors, the
+test of the full model against the null model was statistically significant, likelihood χ2(5) = 26.45,
+p < .001.
+
+This indicates that
+
+the regressors were associated with helping behaviors, Pearson’s χ2
+(269) = 246.3, p = .83; pseudo-R2 = .21. A statistically significant effect of emotion situation
+knowledge score was found (b = 0.22, p = .006; OR = 1.24, CI [0.061, 0.37]), with higher emotion
+situation knowledge scores associated with helping behaviors (if helping score = 0, then M =12.01,
+SD = 3.77; if helping score = 1, then M = 13.96, SD = 3.37; if helping score = 2, then M = 15.07, SD =
+2.65). The effect of language was small (b = 0.026, p = .069; OR = 1.29, CI [−0.009, 0.062]), and
+gender (b = −0.90, p = .027; OR = 0.49, CI [−1.70, 0.102]) had a statistically significant effect, with
+boys (M = 0.32, SD = 0.63) displaying fewer helping behaviors than girls (M = 0.53, SD = 0.76). No
+statistically significant associations were found for age and theory-of-mind scores. With regard to
+
+10
+
+E. CONTE ET AL.
+
+Table 4. Results of ordinal regression analyses considering helping and sharing prosocial behaviors.
+
+Helping
+
+95% CI
+
+Sharing
+
+95% CI
+
+Estimate
+
+Wald
+7.48
+0.70
+0.05
+0.15
+
+2.15
+1.50
+4.90
+
+Variables
+ESK
+ToM Cat = 0
+ToM Cat = 1
+ToM Cat = 2
+ToM Cat = 3
+Language
+Age
+Gender = male
+Gender = female
+Note. CI = confidence interval; ESK = emotion situation knowledge; ToM Cat = 0 = both theory-of-mind tasks failed; ToM
+Cat = 1 = Diverse-Desire Task passed, True-Belief Task failed; ToM Cat = 2 = Diverse-Desire Task failed, True-Belief Task
+passed; ToM Cat = 3 = both theory-of-mind tasks passed; N = 145.
+
+Estimate
+0.001
+−0.93
+0.66
+−0.52
+0a
+0.04
+0.07
+−0.05
+0a
+
+Upper
+0.12
+−0.06
+1.49
+0.52
+
+0.22
+−0.74
+0.11
+−0.22
+0a
+0.03
+−0.05
+−0.90
+
+0a
+
+p
+.95
+.036
+.13
+.33
+
+.019
+.057
+.89
+
+p
+.006
+.40
+.82
+.70
+
+.069
+.22
+.027
+
+Lower
+0.06
+−2.47
+−0.81
+−1.33
+
+−0.01
+−0.13
+−1.70
+
+Lower
+−0.13
+−1.82
+−0.18
+−1.56
+
+0.007
+−0.002
+−0.76
+
+Wald
+0.001
+4.39
+2.34
+0.96
+
+5.79
+4.08
+0.02
+
+Upper
+0.37
+0.99
+1.03
+0.89
+
+0.06
+0.03
+−0.10
+
+0.08
+0.14
+0.66
+
+aBaseline parameters.
+
+sharing behaviors, the full model was statistically significant, likelihood χ2(5) = 13.94, p = .030. This
+indicates that all other variables were associated with the response variable, Pearson’s χ2
+(269) = 276.1, p = .38; pseudo-R2 = .11. Although this second model accounted for less variance,
+the pattern of relations it represented overlapped with that of the first model. A statistically
+significant effect of theory of mind was found (b = 0.93, p = .036; OR = 0.39, CI [0.062, 1.82]),
+with children who failed both theory-of-mind tasks (M = .33, SD = 0.77) displaying fewer sharing
+behaviors than the rest of the sample (M = 0.60, SD = 0.83). Language had a small but statistically
+significant effect (b = 0.042, p = .019; OR = 1.52, CI [0.007, 0.077]). There were no significant effects
+of gender, but there was a tendency for sharing behavior to vary with age (b = 0.067, p = .057;
+OR = 1.95, CI = −0.002, 0.135]), such that older children produced sharing behaviors more
+frequently than younger children. No statistically significant associations were found between
+sharing behaviors and emotion situation knowledge scores.
+
+Discussion
+
+The general aim of the current study was to investigate the role of social cognition skills and
+language in the occurrence of children’s prosocial behaviors while taking into account the effects
+of age and gender. There were two main findings. First, helping and sharing behaviors were not
+significantly correlated with each other. Second, social cognition skills, language abilities, and the
+control variables contributed to explaining helping and sharing behaviors, but according to different
+patterns. Specifically, emotion situation knowledge and gender significantly contributed to explain-
+ing the occurrence of helping behaviors, with language playing a marginal role; in contrast, theory-
+of-mind performance and language abilities mainly accounted for sharing with peers. We now
+discuss each of these two major findings in turn.
+
+Associations between helping and sharing
+
+The first major finding was that, as expected, there were no significant associations between helping and
+sharing even after we controlled for the effects of age and gender. This result is consistent with the
+outcomes of previous studies reported in the literature. For example, Dunfield et al. (2011) investigated
+the same varieties of prosocial behavior as we did and found no correlations between helping and sharing
+behaviors, although they measured these via standardized prosocial tasks rather than naturalistic obser-
+vations. In addition, their sample was younger than ours, which means that the present evidence extends
+the age range in which distinct prosocial behaviors have been found to be uncorrelated. Similar results
+were reported by Gross et al. (2015) in a study with 18- to 30-month-old toddlers who were administered
+
+EARLY EDUCATION AND DEVELOPMENT
+
+11
+
+prosocial tasks measuring instrumental helping and sharing. Finally, our finding is also in line with results
+obtained by Dunfield and Kuhlmeier (2013) in controlled experiments with 2- to 4-year-old children:
+Again, these scholars found that helping and sharing behaviors were not correlated with each other, even
+when age was controlled for.
+
+Overall, our findings are consistent with the conceptualization of prosocial behavior as a multi-
+faceted and multidimensional construct. They suggest that helping and sharing are independent
+behaviors underpinned by distinct sociocognitive mechanisms (Thompson & Newton, 2013).
+Indeed, although all prosocial behavior is aimed at alleviating the negative state of another person,
+the type of problem and solution involved is different for each variety (Dunfield, 2014; Dunfield &
+Kuhlmeier, 2013). Specifically, with regard to the problems being represented, helping requires
+recognizing another person’s intention to achieve a goal, whereas sharing demands the ability to
+identify unequal access to resources. With regard to the solutions, children must correct unintended
+outcomes to help a peer and distribute their own resources if they wish to share something with
+someone (Dunfield, 2014).
+
+The contributions of social cognition skills, language, age, and gender to accounting for
+variance in helping and sharing behaviors
+
+The second major finding was that the variables under study had different relationships with helping
+versus sharing behaviors. As expected, the ordinal regression analyses showed that social cognition
+scores were associated with the occurrence of prosocial behaviors. However, the patterns of associa-
+tion were different for the two varieties of prosocial conduct, with emotion situation knowledge
+accounting for variance in helping and theory of mind explaining variance in sharing.
+
+With regard to helping, our results confirm prior research findings highlighting the role of
+emotion knowledge in children’s prosocial orientation (Denham, 1986; Denham et al., 2012; Ensor
+& Hughes, 2005; Ensor et al., 2011). Based on their own personal experiences, it may be implicitly
+clear to children that being unable to complete a task or achieve a goal causes negative emotions,
+such as anger, frustration, and sadness. Hence, it is likely that as early as 2 or 3 years of age, children
+can take a peer’s affective perspective and imagine the potential emotional effects of failing to achieve
+a given purpose. Given that children intrinsically desire to see others happy (Dunfield, 2014; Hepach,
+Vaish, & Tomasello, 2012), it is probable that the outcome of this line of reasoning will be prosocial
+helping behavior. The observational data recorded in the grids supported this finding. For instance,
+one observer described a free play situation in a day care center in which a boy and girl (the target of
+the observation) were making shapes out of play dough. The boy used a cutter to form a person, but
+the resulting shape was missing a leg. He looked sadly at his creation and said, “Oh no, it’s broken.”
+The girl, who was working on her own play dough, looked at the boy and at his play dough and said,
+“I can do it for you.” She went over to the boy, who made room for her, and she helped him to make
+a fully formed person shape. It is likely that the girl understood why the boy was sad and realized
+that helping would allow him to achieve his goal and consequently make him happy.
+
+On the other side, we found that theory-of-mind performance played a key role in the occurrence
+of spontaneous sharing behaviors. It is interesting that children who failed both theory-of-mind tasks
+displayed fewer sharing behaviors than children who passed at least one theory-of-mind task. This
+outcome bears out the findings of previous studies that identified positive links between theory of
+mind and prosocial behavior in the early years of life (Cassidy et al., 2003; Wu & Su, 2014). Again,
+the descriptions of sharing behaviors recorded in the observation grids were consistent with the
+quantitative results obtained. In a kindergarten, for example, children were drawing and a girl told
+the teacher that there were no orange pencils. The target girl glanced at the pen holder and stated, “I
+have the orange, here you are,” holding out the pencil she was using. This account suggests that the
+girl understood her classmate’s desire for an orange pencil to continue drawing and that this had
+prompted her to give up a resource by handing it to her friend.
+
+12
+
+E. CONTE ET AL.
+
+It is important to note that it might be argued that these results are partly at odds with the findings of
+Imuta et al.’s (2016) meta-analysis, in which sharing was reported to be the only variety of prosocial
+behavior not associated with theory-of-mind skills. One simple explanation for this seeming contra-
+diction may lie in the fact that, as mentioned above, although the meta-analysis concerned subjects from
+2 years of age and older, the number of studies involving young children was very small. In contrast, the
+participants in our study were specifically 2- and 3-year-olds, an age group with whom caregivers often
+emphasize the need for sharing. Indeed, beginning in the early years, children are frequently encouraged
+by adults to share toys or food with peers, and this encouragement often takes the form of prompting
+them to adopt another person’s point of view. These social experiences shaped by caregivers gradually
+lead children to become aware that people desire things and that having access to or being deprived of
+such resources can impact on both emotional states and social exchanges (Brownell, Iesue, et al., 2013).
+This may have the effect of reinforcing young children’s association between other people’s desires and
+the expected sharing behaviors.
+
+In addition to the key contribution of social cognition skills to explaining prosocial behaviors, we
+found that language also played a role. This is in line with the scant existing literature concerning the
+specific influence of language on prosocial behavior, supporting the idea that prosocial behaviors in
+early childhood are underpinned by linguistic skills (Ensor & Hughes, 2005; Girard et al., 2017; Rhee
+et al., 2013). Specifically, in the current study, more advanced language abilities significantly encouraged
+sharing resources with peers. Given that needs and desires are often conveyed through terms such as
+mine and yours, better language abilities may both facilitate children’s understanding of others’ mental
+states and improve their ability to efficiently share with others (Brownell, Iesue, et al., 2013).
+
+The role of language skill in prosociality was also confirmed in relation to helping. Although in the
+regression model for helping behavior the effect of language only tended toward statistical significance,
+the correlation analyses revealed a positive association between language ability and helping that
+remained after we controlled for age and gender. This finding suggests an association between language
+and helping that is independent of other factors, a plausible outcome given that these variables are
+closely bound together in children’s lives and both fulfill a social function. Indeed, language abilities are
+primarily social resources that a child can deploy to interact appropriately with others (Hoff, 2014).
+Having more advanced language skills will thus help children to engage in positive social exchanges and
+to verify that their prosocial actions have been effective, increasing their confidence in their own
+abilities. This can make them increasingly attentive toward others’ goals and encourage them to interact
+with others, thereby further extending their social opportunities to act on behalf of others.
+
+Finally, with regard to the control variables, the current findings suggest that in toddlerhood girls
+engage in more helping behaviors than boys. This outcome contributes to the debate over the role of
+gender in prosocial behavior and is in keeping with other studies that have reported that girls are more
+prosocially oriented than boys (Baillargeon et al., 2011; Girard et al., 2017; Rhee et al., 2013; Tisak et al.,
+2007), especially when prosocial behaviors are measured in naturalistic rather than experimental
+contexts (Eisenberg & Fabes, 1998). A possible explanation of these gender-related differences may
+lie in early gender socialization, which can foster a representation of girls as more sensitive and helpful
+than boys (Eisenberg et al., 2015).
+
+Conclusions
+
+Strengths, limitations, and implications for education
+
+The present study, by adopting a multitrait mixed-methods approach that combined direct testing
+with in-depth naturalistic observations of participants, adds key evidence to the growing literature
+on both the independence of different types of prosocial conduct and the associations among
+emotion knowledge, theory of mind, language abilities, and prosocial behavior in 2- and 3-year-olds.
+Nevertheless, the study is not without limitations. First, although we made every effort to
+randomize the participating children and education providers, it was not possible to control for
+
+EARLY EDUCATION AND DEVELOPMENT
+
+13
+
+organizational variables. Specifically, given that the children attended many different day care
+centers and kindergartens, and sometimes were also in different classrooms within the same
+educational institution, our outcomes could have been affected by differences in educational contexts
+and teacher–child relationships, as suggested in the literature (Curby, Brock, & Hamre, 2013;
+Denham, Bassett, & Miller, 2017; Hipson & Séguin, 2015). Unfortunately, the overall size of our
+sample did not allow us to cluster the data by classroom or educational institution in order to run
+more sophisticated analyses. A larger and more diversified sample would not only strengthen the
+statistical power of the analyses already conducted but also enable additional in-depth statistical
+tests, such as hierarchical linear modeling and mediation analysis.
+
+A second limitation of the study lies in its cross-sectional design. Future research may enhance
+understanding of the processes underpinning prosocial behaviors from toddlerhood through child-
+hood by adopting a longitudinal design and taking into account other factors that may contribute to
+individual differences in the occurrence of prosocial behaviors, such as children’s temperamental
+characteristics (Gross et al., 2015; Laible, Carlo, Murphy, Augustine, & Roesch, 2014) and caregivers’
+socialization practices (Grazzani, Ornaghi, Agliati, et al., 2016; Ruffman et al., 2006).
+
+A third limitation of the current study lies in the difficulty we encountered in detecting a
+sufficient number of spontaneous prosocial behaviors to perform appropriate statistical analyses.
+Although the children did spontaneously engage in prosocial conduct, the overall occurrence of
+these behaviors was relatively low, which is common in naturalistic observations of free play
+(Brownell, Iesue, et al., 2013). Despite the significant amount of time we spent observing children’s
+behavior during their interactions with peers, occurrences of comforting behavior were insufficient
+to support quantitative analysis of this variety of prosocial behavior. This issue prompts reflection on
+the true efficacy of naturalistic observations of spontaneous prosocial behaviors. Future studies on
+prosocial conduct and its associations with social cognition skills and language abilities should
+supplement naturalistic observations with information obtained via experimental tasks. In addition,
+regarding the independence of different prosocial behaviors, neurophysiological assessment might
+offer evidence of specific activation patterns. For instance, Paulus, Kuhn-Popp, Licata, Sodian, and
+Meinhardt (2013) found significant correlations between frontal activation and infants’ empathic
+reactions in a comforting task as well as significant correlations between temporal activation and
+infants’ performances in an instrumental helping task.
+
+Despite these shortcomings, our findings strongly encourage those involved in early childhood
+education to design training and intervention programs to enhance the emotional, linguistic, and
+cognitive skills associated with children’s prosocial behaviors. Interventions that foster these competen-
+cies have already proven extremely effective, especially when they have targeted children’s overall
+development (Cigala, Mori, & Fangareggi, 2015; Grazzani, Ornaghi, Agliati, et al., 2016; Ornaghi et al.,
+2015). Indeed, prosocially oriented children tend to have positive peer relationships, suffer less peer
+rejection, and engage in fewer conflicts with peers, all factors that reduce the risk of aggressive behavior
+and bullying (Denham et al., 2003). Educational and school settings stand to benefit significantly from ad
+hoc intervention programs: A higher proportion of peer interaction based on compassion and respect
+rather than on the abuse of power will make for a more peaceful atmosphere. Given that in the current
+study the interrelationship among social cognition skills, language, and prosocial behaviors emerged as
+early as 24 months, efforts should be made to conduct preventive intervention with children during their
+first years of life.
+
+Acknowledgments
+
+We are very grateful to the children who participated in this research, the parents who allowed their children to take
+part in the study, and the educators and teachers for their kind assistance. We also wish to thank Ms. Clare O’Sullivan
+for her help editing the article.
+
+14
+
+E. CONTE ET AL.
+
+Funding
+
+This work was funded by a doctoral grant from the University of Milano-Bicocca (Italy) awarded to Dr. Elisabetta
+Conte.
+
+ORCID
+
+Elisabetta Conte
+Ilaria Grazzani
+Alessandro Pepe
+
+http://orcid.org/0000-0002-1326-3956
+
+http://orcid.org/0000-0001-6420-2160
+
+http://orcid.org/0000-0001-8860-0702
+
+References
+
+Astington, J. W., Harris, P. L., & Olson, D. R. (1988). Developing theories of mind. New York, NY: Cambridge
+
+University Press.
+
+Baillargeon, R. H., Morisset, A., Keenan, K., Normand, C. L., Jeyaganth, S., Boivin, M., & Tremblay, R. E. (2011). The
+development of prosocial behaviors in young children: A prospective population-based cohort study. Journal of
+Genetic Psychology, 172, 221–251. doi:10.1080/00221325.2010.533719
+
+Baker, E., Tisak, M. S., & Tisak, J. (2016). What can boys and girls do? Preschoolers’ perspectives regarding gender
+
+roles across domains of behavior. Social Psychology of Education, 19(1), 23–29. doi:10.1007/s11218-015-9320-z
+
+Barnett, M. A., Gustafsson, H., Deng, M., Mills-Koonce, W. R., & Cox, M. (2012). Bidirectional associations among
+sensitive parenting, language development, and social competence. Infant & Child Development, 21(4), 374–393.
+doi:10.1002/icd.1750
+
+Bassett, H. H., Denham, S., Mincic, M., & Graling, K. (2012). The structure of preschoolers’ emotion knowledge:
+Model equivalence and validity using a structural equation modeling approach. Early Education & Development, 23,
+259–279. doi:10.1080/10409289.2012.630825
+
+Bornstein, M. H., Hahn, C., & Haynes, O. M. (2004). Specific and general
+
+language performance across early
+
+childhood: Stability and gender considerations. First Language, 24(3), 267–304. doi:10.1177/0142723704045681
+
+Brownell, C. A., Iesue, S. S., Nichols, S. R., & Svetlova, M. (2013). Mine or yours? Development of sharing in toddlers
+
+in relation to ownership understanding. Child Development, 84(3), 906–920. doi:10.1111/cdev.12009
+
+Brownell, C. A., Svetlova, M., Anderson, R., Nichols, S. R., & Drummond, J. (2013). Socialization of early prosocial
+behavior: Parents’ talk about emotions is associated with sharing and helping in toddlers. Infancy, 18(1), 91–119.
+doi:10.1111/j.1532-7078.2012.00125.x
+
+Camodeca, M., & Coppola, G. (2010). Competenza socio-emotiva e difficoltà di relazione in età prescolare: Un
+approccio multi-informatore [Social-emotional competence and relationship difficulties in preschool years: A
+multi-informant approach]. In E. Baumgartner (Ed.), Gli esordi della competenza emotiva. Strumenti di studio e
+di valutazione (pp. 51–74). Milan, Italy: LED Edizioni Universitarie.
+
+Carpendale, J., & Lewis, C. (2006). How children develop social understanding. Malden, MA: Blackwell Publishing.
+Cassidy, K. W., Werner, R. S., Rourke, M., Zubernis, L. S., & Balaraman, G. (2003). The relationship between
+psychological understanding and positive social behaviours. Social Development, 12, 198–221. doi:10.1111/1467-
+9507.00229
+
+Charman, T., Ruffman, T., & Clements, W. (2002). Is there a gender difference in false belief development? Social
+
+Development, 11, 1–10. doi:10.1111/1467-9507.00183
+
+Cigala, A., Mori, A., & Fangareggi, F. (2015). Learning others’ point of view: Perspective taking and prosocial
+behaviour in preschoolers. Early Child Development and Care, 185, 1199–1215. doi:10.1080/03004430.2014.987272
+Curby, T. W., Brock, L. L., & Hamre, B. K. (2013). Teachers’ emotional support consistency predicts children’s achievement
+
+gains and social skills. Early Education & Development, 24(3), 292–309. doi:10.1080/10409289.2012.665760
+
+de Rosnay, M., Pons, F., Harris, P. L., & Morrell, J. M. B. (2004). A lag between understanding false belief and emotion
+attribution in young children: Relationships with linguistic ability and mothers’ mental-state language. British
+Journal of Developmental Psychology, 22(2), 197–218. doi:10.1348/026151004323044573
+
+Denham, S. A. (1986). Social cognition, prosocial behavior, and emotion in preschoolers: Contextual validation. Child
+
+Development, 57, 194–201. doi:10.2307/1130651
+
+Denham, S. A., Bassett, H. H., & Miller, S. L. (2017). Early childhood teachers’ socialization of emotion: Contextual
+
+and individual contributors. Child Youth Care Forum, 46(6), 805–824. doi:10.1007/s10566-017-9409-y
+
+Denham, S. A., Bassett, H. H., Thayer, S. K., Mincic, M. S., Sirotkin, Y. S., & Zinsser, K. (2012). Observing
+preschoolers’ social-emotional behavior: Structure, foundations, and prediction of early school success. Journal of
+Genetic Psychology, 173(3), 246–278. doi:10.1080/00221325.2011.597457
+
+Denham, S. A., Bassett, H. H., & Wyatt, T. M. (2010). Gender differences in the socialization of preschoolers’
+
+emotional competence. New Directions for Child and Adolescent Development, 128, 29–49. doi:10.1002/cd.267
+
+EARLY EDUCATION AND DEVELOPMENT
+
+15
+
+Denham, S. A., Blair, K. A., DeMulder, E., Levitas, J., Sawyer, K., Auerbach-Major, S., & Queenan, P. (2003). Preschool
+emotional competence: Pathway to social competence? Child Development, 74(1), 238–256. doi:10.1111/
+cdev.2003.74.issue-1
+
+Drummond, J., Hammond, S. I., Satlof-Bedrick, E., Waugh, W. E., & Brownell, C. A. (2017). Helping the one you hurt:
+Toddlers’ rudimentary guilt, shame, and prosocial behavior after harming another. Child Development, 88(4), 1382–1397.
+doi:10.1111/cdev.12653
+
+Dunfield, K. A. (2014). A construct divided: Prosocial behavior as helping, sharing, and comforting subtypes. Frontiers
+
+in Psychology, 5(958), 1–13. doi:10.3389/fpsyg.2014.00958
+
+Dunfield, K. A., & Kuhlmeier, V. A. (2013). Classifying prosocial behavior: Children’s responses to instrumental need,
+
+emotional distress, and material desire. Child Development, 84(5), 1766–1776. doi:10.1111/cdev.12075
+
+Dunfield, K., Kuhlmeier, V. A., O’Connell, L., & Kelley, E. (2011). Examining the diversity of prosocial behavior in
+
+infancy: Helping, sharing, and comforting. Infancy, 16(3), 227–247. doi:10.1111/j.1532-7078.2010.00041.x
+
+Eggum, N. D., Eisenberg, N., Kao, K., Spinrad, T. L., Bolnick, R., Hofer, C., . . . Fabricius, W. V. (2011). Emotion
+understanding, theory of mind, and prosocial orientation: Relations over time in early childhood. Journal of Positive
+Psychology, 6(1), 4–16. doi:10.1080/17439760.2010.536776
+
+Eisenberg, N., Eggum-Wilkens, N. D., & Spinrad, T. L. (2015). The development of prosocial behavior. In D. A.
+Schroeder & W. G. Graziano (Eds.), Oxford handbook of prosocial behavior (pp. 114–136). New York, NY: Oxford
+University Press.
+
+Eisenberg, N., & Fabes, R. (1998). Prosocial development. In W. Damon & N. Eisenberg (Eds.), Handbook of child
+
+psychology: Social, emotional, and personality development (pp. 701–778). New York, NY: Wiley.
+
+Ensor, R., & Hughes, C. (2005). More than talk: Relations between emotion understanding and positive behaviour in
+
+toddlers. British Journal of Developmental Psychology, 23, 343–363. doi:10.1348/026151005X26291
+
+Ensor, R., Spencer, D., & Hughes, C. (2011). “You feel sad?” Emotion understanding mediates effects of verbal ability
+and mother–child mutuality on prosocial behaviors: Findings from 2 years to 4 years. Social Development, 20(1),
+93–110. doi:10.1111/j.1467-9507.2009.00572.x
+
+Eriksson, M., Marschik, P. B., Tulviste, T., Almgren, M., Perez Pereira, M., Wehberg, S.,
+
+. . . Gallego, C. (2012).
+Differences between girls and boys in emerging language skills: Evidence from 10 language communities. British
+Journal of Developmental Psychology, 30(2), 326–343. doi:10.1111/j.2044-835X.2011.02042.x
+
+Farrant, B. M., Devine, T. A. J., Maybery, M. T., & Fletcher, J. (2012). Empathy, perspective taking and prosocial
+behaviour: The importance of parenting practices. Infant and Child Development, 21(2), 175–188. doi:10.1002/
+icd.740
+
+Fox, J. (2008). Applied regression analysis and generalized linear models. Thousand Oaks, CA: Sage.
+Frane, A. (2015). Are per-family type I error rates relevant in social and behavioral science? Journal of Modern Applied
+
+Statistical Methods, 14(1), 12–23. doi:10.22237/jmasm/1430453040
+
+Garner, P. W., Dunsmore, J. C., & Southam-Gerrow, M. (2008). Mother-child conversations about emotions:
+Linkages to child aggression and prosocial behavior. Social Development, 17, 259–277. doi:10.1111/j.1467-
+9507.2007.00424.x
+
+George, D., & Mallery, M. (2010). Using SPSS for Windows step by step: A simple guide and reference. Boston, MA:
+
+Allyn & Bacon.
+
+Girard, L., Pingault, J., Doyle, O., Falissard, B., & Tremblay, R. E. (2017). Expressive language and prosocial behaviour
+in early childhood: Longitudinal associations in the UK Millennium Cohort Study. European Journal of
+Developmental Psychology, 14(4), 381–398. doi:10.1080/17405629.2016.1215300
+
+Grazzani, I., Ornaghi, V., Agliati, A., & Brazzelli, E. (2016). How to foster toddlers’ mental-state talk, emotion understanding,
+and prosocial behavior: A conversation-based intervention at nursery school. Infancy, 21(2), 199–227. doi:10.1111/
+infa.12107
+
+Grazzani, I., Ornaghi, V., & Brockmeier, J. (2016). Conversation on mental states at nursery: Promoting social
+cognition in early childhood. European Journal of Developmental Psychology, 13(5), 563–581. doi:10.1080/
+17405629.2015.1127803
+
+Gross, R. L., Drummond, J., Satlof-Bedrick, E., Waugh, W. E., Svetlova, M., & Brownell, C. A. (2015). Individual
+differences in toddlers’ social understanding and prosocial behavior: Disposition or socialization? Frontiers in
+Psychology, 6(600), 1–11. doi:10.3389/fpsyg.2015.00600
+
+Harwood, M. D., & Farrar, M. J. (2006). Conflicting emotions: The connection between affective perspective taking
+
+and theory of mind. British Journal of Developmental Psychology, 24(2), 401–418. doi:10.1348/026151005X50302
+
+Hepach, R., Vaish, A., & Tomasello, M. (2012). Young children are intrinsically motivated to see others helped.
+
+Psychological Science, 23(9), 967–972. doi:10.1177/0956797612440571
+
+Hipson, W. E., & Séguin, D. G. (2015). Is good fit related to good behaviour? Goodness of fit between daycare teacher–
+child relationships, temperament, and prosocial behaviour. Early Child Development and Care, 186(5), 785–798.
+doi:10.1080/03004430.2015.1061518
+
+Hoff, E. (2014). Language development (5th ed.). Belmont, CA: Wadsworth Cengage Learning.
+Imuta, K., Henry, J. D., Slaughter, V., Selcuk, B., & Ruffman, T. (2016). Theory of mind and prosocial behavior in
+
+childhood: A meta-analytic review. Developmental Psychology, 52(8), 1192–1205. doi:10.1037/dev0000140
+
+16
+
+E. CONTE ET AL.
+
+LaBounty, J., Wellman, H. M., Olson, S., Lagattuta, K., & Liu, D. (2007). Mothers’ and fathers’ use of internal state talk
+
+with their young children. Review in Social Development, 17(4), 757–775. doi:10.1111/j.1467-9507.2007.00450.x
+
+Laible, D., Carlo, G., Murphy, T., Augustine, M., & Roesch, S. (2014). Predicting children’s prosocial and co-operative
+behavior from their temperamental profiles: A person-centered approach. Social Development, 23(4), 734–752.
+doi:10.1111/sode.12072
+
+Liszkowski, U., Carpenter, M., & Tomasello, M. (2008). Twelve-month-olds communicate helpfully and appropriately
+
+for knowledgeable and ignorant partners. Cognition, 108(3), 732–739. doi:10.1016/j.cognition.2008.06.013
+
+Liverta Sempio, O., Marchetti, A., Castelli, I., Lecciso, F., & Pezzotta, C. (2005). Mentalizzazione e competenza sociale.
+La comprensione della falsa credenza nello sviluppo normale e patologico [Mentalizing and social competence: The
+false-belief understanding in typical and atypical development]. Milan, Italy: Franco Angeli.
+
+Meins, E., Fernyhough, C., Arnott, B., Leekam, S. R., & de Rosnay, M. (2013). Mind-mindedness and theory of mind:
+Mediating roles of language and perspectival symbolic play. Child Development, 84(5), 1777–1790. doi:10.1111/
+cdev.12061
+
+Menting, B., van Lier, P. A., & Koot, H. M. (2011). Language skills, peer rejection, and the development of externalizing
+behavior from kindergarten to fourth grade. Journal of Child Psychology and Psychiatry, 52(1), 72–79. doi:10.1111/
+j.1469-7610.2010.02279.x
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-analysis of the relation
+between language ability and false-belief understanding. Child Development, 78(2), 622–646. doi:10.1111/j.1467-
+8624.2007.01018.x
+
+Ornaghi, V., Brazzelli, E., Grazzani, I., Agliati, A., & Lucarelli, M. (2017). Does training toddlers in emotion knowledge
+lead to changes in their prosocial and aggressive behavior toward peers at nursery? Early Education & Development,
+28(4), 396–414. doi:10.1080/10409289.2016.1238674
+
+Ornaghi, V., Brockmeier, J., & Grazzani, I. (2014). Enhancing social cognition by training children in emotion
+understanding: A primary school study. Journal of Experimental Child Psychology, 119, 26–39. doi:10.1016/j.
+jecp.2013.10.005
+
+Ornaghi, V., Grazzani, I., Cherubin, E., Conte, E., & Piralli, F. (2015). “Let’s talk about emotions”: The effect of
+conversational training on preschoolers’ emotion comprehension and prosocial orientation. Social Development, 24(1),
+166–183. doi:10.1111/sode.12091
+
+Ornaghi, V., Pepe, A., & Grazzani, I. (2016). False-belief understanding and language ability mediate the relationship
+between emotion comprehension and prosocial orientation in preschoolers. Frontiers in Psychology, 7(1534), 1–12.
+doi:10.3389/fpsyg.2016.01534
+
+Paulus, M., Kuhn-Popp, N., Licata, M., Sodian, B., & Meinhardt, J. (2013). Neural correlates of prosocial behavior in
+infancy: Different neurophysiological mechanisms support the emergence of helping and comforting. NeuroImage,
+66, 522–530. doi:10.1016/j.neuroimage.2012.10.041
+
+Pepe, A., & Addimando, L. (2014). Teacher-parent relationships: Influence of gender and education on organizational
+parents’ counterproductive behaviors. European Journal of Psychology of Education, 29(3), 503–519. doi:10.1007/
+s10212-014-0210-0
+
+Raykov, T. (1997). Estimation of composite reliability for congeneric measures. Applied Psychological Measurement, 21(2),
+
+173–184. doi:10.1177/01466216970212006
+
+Rhee, S. H., Boeldt, D. L., Friedman, N. P., Corley, R. P., Hewitt, J. K., Young, S. E., . . . Zahn-Waxler, C. (2013). The role
+of language in concern and disregard for others in the first years of life. Developmental Psychology, 49(2), 197–214.
+doi:10.1037/a0028318
+
+Rieffe, C., & Wiefferink, C. H. (2017). Happy faces, sad faces: Emotion understanding in toddlers and preschoolers
+
+with language impairments. Research in Developmental Disabilities, 62, 40–49. doi:10.1016/j.ridd.2016.12.018
+
+Ruffman, T., Slade, L., Devitt, K., & Crowe, E. (2006). What mothers say and what they do: The relation between parenting,
+language and conflict/cooperation. British Journal of Developmental Psychology, 24, 105–124.
+
+theory of mind,
+doi:10.1348/026151005X82848
+
+Sette, S., Bassett, H. H., Baumgartner, E., & Denham, S. A. (2015). Structure and validity of affect knowledge test
+Journal of Genetic Psychology, 176(5), 330–347. doi:10.1080/
+
+(AKT) in a sample of Italian preschoolers.
+00221325.2015.1075466
+
+Slaughter, V., Imuta, K., Peterson, C. C., & Henry, J. D. (2015). Meta-analysis of theory of mind and peer popularity in
+
+the preschool and early school years. Child Development, 86(4), 1159–1174. doi:10.1111/cdev.12372
+
+Stella, G., Pizzoli, C., & Tressoldi, P. (2000). Peabody: Test di vocabolario recettivo [The Peabody: Receptive vocabulary
+
+test]. Turin, Italy: Omega.
+
+Strand, P. S., Downs, A., & Barbosa-Leiker, C. (2016). Does facial expression recognition provide a toehold for the
+
+development of emotion understanding? Developmental Psychology, 52(8), 1182–1191. doi:10.1037/dev0000144
+
+Svetlova, M., Nichols, S. R., & Brownell, C. A. (2010). Toddlers’ prosocial behavior: From instrumental to empathic to
+
+altruistic helping. Child Development, 81(6), 1814–1827. doi:10.1111/cdev.2010.81.issue-6
+
+Thompson, R. A., & Newton, E. K. (2013). Baby altruists? Examining the complexity of prosocial motivation in young
+
+children. Infancy, 18(1), 120–133. doi:10.1111/j.1532-7078.2012.00139.x
+
+EARLY EDUCATION AND DEVELOPMENT
+
+17
+
+Tisak, M. S., Holub, S. C., & Tisak, J. (2007). What nice things do boys and girls do? Preschoolers’ perspectives of
+peers’ behaviors at school and at home. Early Education & Development, 18(2), 183–199. doi:10.1080/
+10409280701282686
+
+Warneken, F., & Tomasello, M. (2013). Parental presence and encouragement do not influence helping in young
+
+children. Infancy, 18(3), 345–368. doi:10.1111/j.1532-7078.2012.00120.x
+
+Wellman, H. M. (1991). From desires to beliefs: Acquisition of a theory of mind. In A. Withen (Ed.), Natural theories
+of mind: Evolution, development and simulation of everyday mindreading (pp. 19–38). Cambridge, MA: Basil
+Blackwell.
+
+Wellman, H. M. (2014). Making minds: How theory of mind develops. New York, NY: Oxford University Press.
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-of-mind tasks. Child Development, 75(2), 523–541. doi:10.1111/
+
+j.1467-8624.2004.00691.x
+
+Wu, Z., & Su, Y. (2014). How do preschoolers’ sharing behaviors relate to their theory of mind understanding? Journal
+
+of Experimental Child Psychology, 120, 73–86. doi:10.1016/j.jecp.2013.11.007
+
+Zahn-Waxler, C., & Radke-Yarrow, M. (1990). The origins of empathic concern. Motivation and Emotion, 14, 107–130.
+
+doi:10.1007/BF00991639
+
+Appendix: Prosocial Behavior Observation Grid
+
+Types of Prosocial Behaviors
+
+Time:
+
+Time:
+
+Time:
+
+Time:
+
+Total
+
+Observation N°1
+Date: __/__/__
+
+Observation N°2
+Date: __/__/__
+
+Observation N°3
+Date: __/__/__
+
+Observation N°4
+Date: __/__/__
+
+INSTRUMENTAL HELPING (H)
+INFORMING (H)
+SHARING (S)
+PSYCHOLOGICAL COMFORTING (C)
+PHYSICAL COMFORTING (C)
+
+Note: H = Helping behavior; S = Sharing behavior; C = Comforting behavior.
+
+

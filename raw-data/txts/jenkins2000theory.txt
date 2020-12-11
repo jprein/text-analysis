@@ -1,0 +1,1133 @@
+ 
+ 
+Theory of Mind and Social Behavior: Causal Models Tested in a Longitudinal Study
+Author(s): Jennifer M. Jenkins and  Janet Wilde Astington
+Source: Merrill-Palmer Quarterly, Vol. 46, No. 2 (April 2000), pp. 203-220
+Published by: Wayne State University Press
+Stable URL: https://www.jstor.org/stable/23093714
+Accessed: 12-06-2020 11:23 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Wayne State University Press is collaborating with JSTOR to digitize, preserve and extend
+access to Merrill-Palmer Quarterly
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Merrill-Palmer Quarterly, Vol. 46, No. 2
+
+ Theory of Mind and Social Behavior:
+
+ Causal Models Tested in a Longitudinal Study
+
+ Jennifer M. Jenkins and Janet Wilde Astington
+
+ University of Toronto
+
+ The aim of this study was to test two competing causal models concerning the rela
+ tionship between children's social behaviors and theory of mind. Children between
+ 3 and 4 years of age (η = 20) at the time of first testing were assessed three times over
+ approximately 7 months. Theory of mind was assessed using false belief tasks. Chil
+ dren were videotaped during play with a friend, and measures of pretend play, joint
+ planning, and explicit role assignment were made on the basis of transcripts. Theory
+ of mind understanding was found to predict joint planning and role assignment, after
+ taking into account initial performance on joint planning and role assignment, as
+ well as contemporaneous language ability and age. There was no evidence that
+ social behaviors predicted children's theory of mind.
+
+ Children's understanding of their own and others' minds undergoes a
+
+ profound change toward the end of the preschool years. Children come
+ to realize that another person may have and act on beliefs that are differ
+ ent from their own, and therefore false from their point of view (Wimmer
+ & Perner, 1983). They recognize that they themselves may sometimes
+ hold false beliefs (Gopnik & Astington, 1988). They understand that an
+ object may appear different from what it really is, so that they or another
+ person might hold a false belief about its identity (Flavell, Flavell, &
+ Green, 1983). The contemporaneous development of these insights leads
+ to what is called children's representational theory of mind (Astington,
+ Harris, & Olson, 1988).
+
+ Jennifer Jenkins and Janet Wilde Astington, Human Development and Applied Psy
+
+ chology.
+
+ We are grateful to the Social Sciences and Humanities Research Council of Canada
+ and to the Natural Sciences and Engineering Research Council of Canada. We are also
+ indebted to the children who took part in this study, to J. J. Fueser, Elizabeth Lee, Stephanie
+ Mathany, Jan Pelletier, and Alan Polak for data collection, transcription, and coding, and
+ to Sve Elgie for statistical advice.
+
+ Correspondence may be sent to Jenny Jenkins, Human Development and Applied Psy
+ chology, OISE/UT, University of Toronto, 252 Bloor St. West, Toronto, Ontario, Canada,
+ M5S 1V6 or jenny.jenkins@utoronto.ca.
+
+ Merrill-Palmer Quarterly, April 2000, Vol. 46, No. 2, pp. 203-220.
+ Copyright © 2000 by Wayne State University Press, Detroit, Ml 48201
+
+ 203
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 204
+
+ MERRILL-PALMER QUARTERLY
+
+ The term "theory of mind" also has been used more broadly to refer
+ to children's social understanding, as revealed in their talk about people's
+ thoughts, intentions, and desires. This development usually begins in the
+ second year of life (Bretherton, McNew, and Beeghly-Smith, 1981 ). Here
+ we use the term theory of mind in a narrower sense. We use it to refer to
+ the attribution of false belief and the ability to distinguish between
+ appearance and reality that emerges when children are between 3 and 4
+ years old. Our focus in this paper is on relations between this specific
+ aspect of theory of mind and children's social behavior.
+
+ The development in children's ability to represent their own and oth
+
+ ers' beliefs might be expected to have important consequences for chil
+ dren's social interactions. A general assumption is made that this is the
+ case (Moore & Frye, 1991), although until recently there has been little
+ study of relations between children's theory of mind and their behavior in
+ natural settings. Some authors have remarked on changes in children's
+ behavior, such as the way they play hide-and-seek, that develop around
+ the same age as that at which they start to pass false belief tasks (Perner,
+ 1991; Wellman, 1990). More to the point, some recent empirical studies
+ directly relate social behavior to theory-of-mind task performance (Asting
+ ton & Jenkins, 1995; Frith, Happe, & Siddons, 1994; Lalonde & Chandler,
+ 1995; Taylor, Gerow, & Carlson, 1993). However, in only one project have
+ such relations been examined over time (Dunn, 1995; Dunn, Brown,
+ Slomkowski, Tesla, & Youngblade, 1991; Youngblade & Dunn, 1995).
+ Children with autism have severe difficulties with social interaction
+
+ and generally fail false belief tasks. The minority who pass false belief
+ tasks are rated more highly for both social and antisocial behaviors that
+ depend on recognizing and manipulating other people's mental states
+ (Frith et al., 1994). Likewise, 3- and 4-year-olds' false belief task perfor
+ mance correlates with ratings of their social maturity on a subscale of
+ items judged to require understanding other minds (Lalonde & Chandler,
+ 1995). Three- and 4-year-olds who score higher on a composite theory
+ of-mind measure also engage in more fantasy and pretense, controlling
+ for age and verbal intelligence (Taylor et al., 1993). Considering relations
+ over time, children aged 3;4 who were able to explain actions based on
+ false beliefs had engaged at the age of 2;9 in more role enactment in pre
+ tend play, participated in more conversation about feelings and causal
+ relations, and cooperated more with their siblings (Dunn et al., 1991;
+ Youngblade & Dunn, 1995). Later, in kindergarten, these children were
+ more likely to understand conflicting emotions, showed more sensitivity
+ to criticism, and had more negative perceptions at the beginning of the
+ school year than children who failed the false belief explanations task at
+ age 3;4 (Dunn, 1995).
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 205
+
+ The correlations described in all of these studies suggest that the
+
+ experimental assessment of children's theory of mind, using false belief
+ and other tasks, is tapping a genuine change in children's cognition,
+ because this change is associated with naturally occurring everyday
+ behaviors. Some authors suggest that the association found between pre
+ tense and theory of mind is consistent with the view that early pretend
+ play encourages the development of theory of mind (Flavell, Flavell, &
+ Green, 1987; Taylor et al., 1993; Youngblade & Dunn, 1995). Nonethe
+ less, all of them refrain from making causal claims from their findings.
+ Similarly, when we found that performance on false belief tasks was
+
+ correlated with proposing joint activities and assigning roles in pretend
+ play, we conceded that we could not make any claim about the direction
+ of causality that might be operating (Astington & Jenkins, 1995). In that
+ study 30 children aged 3;1 to 5;5 were given four false belief tasks and a
+ standard test of language ability, and they were videotaped during 10 min
+ of pretend play. Controlling for age and language ability, we found signif
+ icant correlations between false belief task performance and the fre
+ quency with which children explicitly made joint proposals or assigned
+ roles to themselves or another during the pretend play. False belief under
+ standing was not related to the amount of pretend play, only to these spe
+ cific aspects of the play.
+
+ These findings were consistent with the hypothesis that pretend play
+
+ supports theory-of-mind development. However, they are equally consis
+ tent with the alternative view that developing an understanding of others'
+ minds changes the nature of children's pretend play, increasing the fre
+ quency with which children generate explicit joint plans and make
+ explicit role assignments. We argued that the ability to simultaneously
+ represent multiple and contrasting beliefs will lead to social behavior in
+ which multiple roles are adopted by participants and plans with multiple
+ agents are proposed between people, precisely because such social skills
+ rely on the simultaneous representation of multiple belief states. The
+ acquisition of false belief understanding makes children more likely to
+ see the need to be explicit within the ambiguous context of pretend play
+ because they understand that beliefs can differ between people. They are
+ more likely to initiate joint plans because this ability to hold in mind mul
+ tiple and potentially conflicting beliefs allows them to be more skilled in
+ coordinating their own plans, intentions, and beliefs with those of other
+ people. The alternative causal model would argue that practice in gener
+ ating joint plans and making role assignments leads to the development
+ of false belief understanding.
+
+ The present study was designed to test these competing hypotheses.
+ We hypothesize that the development of a theory of mind has conse
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 206
+
+ MERRILL-PALMER QUARTERLY
+
+ quences for children's ability to interact with other people, which is seen
+ in the quality of their pretend play. As children acquire the ability to rep
+ resent their own and others' beliefs, they develop social behaviors such as
+ the ability to make plans with another child, and to communicate explic
+ itly about aspects of play that may be ambiguous. Hence, in this study we
+ test such a causal model of the relationship between children's theory of
+ mind and their social behaviors during interaction with other children.
+
+ METHOD
+
+ Participants
+
+ Twenty children in the nursery class at a university laboratory school
+ were the participants in this study. They were between 34 and 45 months
+ old when the study commenced, and data collection continued for 7
+ months. At the laboratory school, parents give written consent at the
+ beginning of each school year to a general class of studies involving cog
+ nitive and social-emotional measures. Children give their verbal consent
+ to participation.
+
+ Procedure
+
+ Children were assessed on all measures at three time points approx
+ imately 3.5 months apart. At each point, theory-of-mind tasks and a
+ general test of language ability were administered and children were
+ videotaped during play with a partner.
+
+ Measures
+
+ Theory of mind. The children were given three theory-of-mind tasks
+ at each time. The order of the tasks and of test questions within tasks was
+ counterbalanced across children. One task was a standard "change in
+ location" story acted out with dolls (Wimmer & Perner, 1983). A doll
+ leaves an object in one place and while he is away it is moved to a new
+ place. Then he returns and the child is asked where the doll will look for
+ the object. A different story, with different dolls, objects, and locations,
+ was used at each time. The second task was a standard "unexpected con
+ tents" false belief task (Hogrefe, Wimmer, & Perner, 1986). A familiar box
+ was shown to the child and then opened to reveal an unusual content.
+ After this was replaced in the box the child was asked what he or she had
+ thought was in the box before it was opened and what a friend (named in
+ the test question) would think was in the box before it was opened. A dif
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 207
+
+ ferent box and content was used each time. At the end of the test session
+ at each time point children were asked what was in a box that did con
+ tain its usual content. We included this item so that children would not
+ think that every box we showed them had an unexpected content. The
+ third task was similar to the second, including questions about own belief
+ and friend's belief, but used standard appearance-reality test materials
+ (Flavell et al., 1983).
+
+ The three tasks yielded six scores: three from questions about another
+ person's false belief, two from questions about the child's own false belief
+ and one appearance-reality question. The six scores were summed to
+ give the child's theory-of-mind score (range 0-6). Internal consistency of
+ this measure was examined at each time point. In each test period the
+ appearance-reality question was the only question that reduced the relia
+ bility of the overall measure. Consequently this measure was dropped
+ from the summed score. The internal consistency, assessed by Cronbach's
+ alpha was 0.67 at Time 1, 0.65 at Time 2, and 0.86 at Time 3. Although
+ the main analyses of this study involve a composite measure of theory-of
+ mind understanding, in preliminary analyses in the Results section, find
+ ings for individual tasks are presented.
+
+ General language ability. The Test of Early Language Development
+
+ (Hresko, Reid, & Hammill, 1981) was used to assess children's general
+ language ability. This test, which has been standardized on children
+ between 3 and 7 years, assesses syntactic and semantic skills of children,
+ and both their expressive and receptive abilities. Good test-retest reliabil
+ ity and internal consistency are reported in the manual (Hresko et al.,
+ 1981). The test-retest reliability coefficient was found to be .90, when
+ 1 77 children were tested with a time interval between testing sessions of
+ 2 weeks. Internal consistency, assessed in a sample of 500 children, was
+ found to be α = .90. In a previous study (Jenkins & Astington, 1996), this
+ measure was found to be highly correlated with the sentence memory
+ measure in the Stanford Binet (r- .76).
+
+ Pretend play video observation. Children played together in pairs in
+ a small room equipped with dress-up clothes and props that would
+ encourage pretend play. The experimenter withdrew behind the camera
+ once play was under way. Children were videotaped for a period of
+ approximately 10 min. Videotapes were transcribed with descriptions
+ of what the child was holding or who they were talking to when this
+ was necessary to determine whether they were engaging in pretend play.
+ All transcripts were coded by someone uninformed about the theory-of
+ mind scores of children, using the same coding scheme as that used in
+ our previous study (Astington & Jenkins, 1995). Tapes were segmented
+ into speaker turns. A speaker turn was defined as one child's utterance
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 208
+
+ MERRILL-PALMER QUARTERLY
+
+ bounded by another child's utterances, or, if only one child was speaking,
+ a speaker turn was one utterance separated by a silence of 5 s or more
+ prior to the next utterance. All comments to the experimenter were
+ excluded from analysis.
+
+ Amount of pretend play. Each turn was coded for the presence of
+
+ pretense. This was any speech concerned with nonIiterai play and
+ included playing or assigning a role, discussing an imaginary activity,
+ substituting one object for another, and using replica objects as real
+ objects. Speaker turns that were not coded as pretense included acknowl
+ edgments of other children's utterances (e.g., "Oh OK," "Yes"), unfin
+ ished phrases too minimal to code as pretense (e.g., Well . . .), and repe
+ tition of someone else's pretense without any evidence of new elements
+ of pretense (e.g., a child saying "Let's go to bed now" when he said the
+ same on his previous speaker turn).
+
+ All pretend turns were coded for two elements: whether explicit joint
+
+ proposals were made and whether there was evidence of explicit role
+ assignment. The raw frequencies of joint proposals and role assignments
+ were converted to proportions of the total amount of pretend play. This
+ was done because of slight variation in the length of play sessions and in
+ the extent of children's participation. The proportions ensured that the
+ measures reflected the type of pretend play skills children demonstrated
+ when they were involved, independently of their level of involvement.
+
+ Joint proposals. For this to be coded, reference had to be made to
+ another person and to the self within the same turn. For example, "Pre
+ tend you're squirting me again." Reference to self and other was also
+ achieved by the use of first-perso η plural pronouns such as we, us, or our
+ to specify the self and other, for example, "There we go, under the
+ umbrella in case someone squirts us." One child did not engage in any
+ pretend play during the session and received a score "0" on the propor
+ tion of pretend turns involving joint play and role assignment.
+
+ Role assignment. This was defined as children assigning a pretend
+ role to themselves or to another child. This had to be done verbally and
+ explicitly, such as "Let's be firegirls now" or in addressing their peer, "Oh
+ hello teacher." Role assignment was not coded if a child was playing at
+ being someone, as evidenced by their dress, actions, or change in voice,
+ but the child never explicitly said who they were pretending to be.
+
+ Interrater reliability. A second person independently coded 10 tran
+ scripts (33% of the total) randomly chosen from the three time points.
+ Reliability was assessed in two ways. First we examined the extent to
+ which coders agreed on each individual instance of pretense, joint plan
+ ning, and role assignment. This was assessed using Cohen's kappa and
+ the resulting kappas were pretense, κ = .63; joint planning, κ = .86; role
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ Table 1. Means and Standard Deviations of All Variables
+
+ at Three Points in Time
+
+ Time 1
+
+ Time 2
+
+ Time 3
+
+ M
+
+ SD
+
+ Ν
+
+ M
+
+ SD
+
+ Ν
+
+ M
+
+ SD
+
+ Ν
+
+ Theory of mind
+ understanding
+
+ 1.05
+ Joint planning  0.18
+ Role assignment 0.01
+ Age (in months) 39.56
+
+ 1.31
+ 0.18
+ 0.02
+ 3.29
+
+ 19
+ 19
+ 19
+ 19
+
+ 2.90
+ 0.20
+ 0.08
+ 43.50
+
+ 1.52
+ 0.13
+ 0.06
+ 3.35
+
+ 20
+ 20
+ 20
+ 20
+
+ 3.00
+ 0.28
+ 0.07
+ 46.74
+
+ 2.00
+ 0.17
+ 0.12
+ 3.23
+
+ 18
+ 18
+ 18
+ 18
+
+ assignment, κ = .75. As the scores used in the analysis were the summed
+ score of role assignments (or joint planning) divided by the sum of pre
+ tend turns, we also examined the reliability of these proportional mea
+ sures. Reliability (assessed by Cronbach's alpha) for the proportion of pre
+ tend turns that involved joint planning was α = 0.98, and for the
+ proportion of pretend turns that involved role assignment was a = 0.93.
+
+ RESULTS
+
+ Two cases had incomplete data over the three time points. One child
+
+ did not speak during the videotaped play session at Time 1, and this same
+ boy refused to be included in the pretend play session at Time 3. The fam
+ ily of another child had moved away before Time 3 videotaped play ses
+ sions occurred. For analyses including Time 1 variables, Ν = 19. For
+ analyses including Time 3 data, Ν = 18 children.
+
+ Table 1 shows the mean and standard deviation of each variable
+
+ at Times 1, 2, and 3. Three repeated-measures analyses of variance
+ (ANOVAs) were carried out to determine whether there was a significant
+ increase in theory-of-mind understanding, joint planning, and role
+ assignment over the 7-month period. Children showed an increase in
+ theory-of-mind understanding as a function of time, F(2,16) = 12.7, ρ <
+ .001. It is evident from Table 1 that the difference between times is largely
+ accounted for by the increase in understanding that takes place between
+ Time 1 and Time 2. Children also showed a significant increase in role
+ assignment, F(2,16) = 15.7, ρ < .001. As is evident from Table 1 this
+ increase occurred between Time 1 and Time 2. It should be noted that at
+ Time 1 only two children (5%) showed any instance of role assignment.
+ By Time 2, 15 children (75%) showed at least one instance of role assign
+ ment. With so little variability at Time 1, it is unlikely that this measure
+ will be found to predict change in any other variables. Consequently,
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ Table 2. Intercorrelations of Time 1, 2, and 3 Assessments of Theory of Mind
+
+ (Tom) and Social Behaviors (Joint Planning and Role Assignment)
+ Tom 1
+
+ Role 2
+
+ Tom 1
+ Tom 2
+ Tom 3
+
+ Joint 1
+ Joint 2
+ Joint 3
+ Role 1
+ Role 2
+
+ Tom 2 Tom 3 Joint 1  Joint 2
+ .54*
+ .29
+ .08
+ .68**
+
+ .47* .39 .41
+ .72" .16
+ -.06
+
+ Joint 3
+
+ .28
+ -.27
+ -.34
+
+ .04
+ .00
+
+ Role 1
+ .48*
+ .19
+ .29
+ -.14
+ .15
+ .14
+
+ -.04
+ .27
+ -.02
+ .07
+ .03
+ -.42
+ .07
+
+ Role 3
+ .53*
+ .45
+ .25
+ .08
+ .31
+ .31
+ .42
+ -.21
+
+ 'ρ < .05. " ρ .01.
+
+ negative findings in relation to Time 1 role assignment must be viewed
+ cautiously. Children did not show a significant increase in joint planning
+ across the three time periods, F{2, 16) = 1.4, ρ < .27. Six children (30%)
+ showed no joint planning at Time 1, but this dropped to two children
+ (5%) at Times 2 and 3.
+
+ It was evident from examination of all variables that Time 3 role
+
+ assignment was skewed, and to reduce the effect of outliers in the multi
+ variate analysis, square root transformation was necessary. Analyses were
+ run with and without this transformation and significant effects were the
+ same. Results cited are based on the transformed variable.
+
+ Table 2 shows the intercorrelation of theory of mind, joint planning,
+
+ and role assignment at and across the three time points. These correla
+ tions give an indication of the stability of the theory of mind and social
+ behaviors over time. The closer the measures of theory of mind are to one
+ another in time, the more strongly they are related to each other: r( 18) =
+ .47, ρ < .05, between Times 1 and 2; r = .72, ρ < .001, between Times 2
+ and 3; compared with r( 18) = .39, ρ < . 11, between Times 1 and 3. Time
+ 1 and Time 2 measures of joint planning are strongly related to one
+ another, r( 18) = .68, ρ < .002, but measures at other time points are not
+ related to one another. None of the measures of role assignment are sig
+ nificantly related to one another, although there was a weak association
+ between Time 1 and Time 3 role assignment, r(18) = .42, ρ < .09.
+
+ Next, contemporaneous relationships were examined between the
+ ory of mind and joint proposals. None of these associations were signifi
+ cant, although Time 1 theory of mind was weakly related to Time 1 joint
+ planning, r( 18) = .41, ρ < .09, and the relationship at Time 2 was in the
+ expected direction. The negative correlation between Time 3 theory of
+ mind and Time 3 joint planning, although nonsignificant, was opposite to
+ our prediction.
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 211
+
+ Finally, we examined contemporaneous relationships between the
+
+ ory of mind and role assignment. Time 1 theory of mind was related to
+ Time 1 role assignment, r(18) = .48, ρ < .05, and correlations between
+ Time 2 and 3 variables were in the expected direction, although not sig
+ nificant.
+
+ Although our main theory-of-mind measure is a composite score,
+ because few studies use multiple measures of theory-of-mind under
+ standing across time, it was also of interest to examine the consistency of
+ children's performance on the different tasks. We calculated the mean
+ percentage pass rate across the different tasks. The change in location
+ task was the most difficult with a mean percentage pass rate of 37%
+ across the three time periods. This task also had the lowest pass rate at
+ Time 1. The unexpected contents task was next most difficult with mean
+ percentage pass rates of 39% (other belief) and 42% (own belief). The
+ appearance-reality task was the easiest task with mean percentage pass
+ rates of 54% (other belief) and 59% (own belief). Children showed great
+ est variability in their performance across individual measures at Times 1
+ and 2 (as previously indicated by Cronbach's alpha, reported in the Mea
+ sures section).
+
+ Children's performance on the different tasks within each time period
+ were compared, and the percentage agreement was determined across
+ two tasks (i.e., the percentage of children who failed both tasks or passed
+ both tasks). This was carried out for all 10 combinations of tasks (treating
+ own and other belief as separate tasks). Agreement in responses to own
+ and other belief questions within each task was high at each time period
+ for both the unexpected contents task (range = 89%-95% for the three
+ different time points) and the appearance-reality task (range = 74%-80%).
+ At Time 1 the range across the remaining 8 combinations of tasks was 57%
+ to 84%. Thus, in the combination of tasks that produced the most discrep
+ ancy in children's performance (the worst case combination), 43% of chil
+ dren at Time 1 passed one task but not another. At Time 2 the range across
+ the remaining 8 combinations of tasks for children showing the same
+ responses on two tasks was 40% to 65%. Thus, in the worst case combi
+ nation of tasks, 60% of children atTime2 passed one task but not another.
+ At Time 3 the range across the remaining 8 combinations of tasks for chil
+ dren showing the same responses on two tasks was 67% to 94%. There
+ was no evidence that one particular combination of tasks was more prob
+ lematic than any other, when these combinations were compared across
+ time periods.
+
+ These results indicate that there is substantial variability in children's
+
+ performance across different theory-of-mind tasks, especially when the
+ development of their understanding is in the early stages. Particularly at
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ Times 1 and 2, a substantial proportion of children are able to pass one
+ task but not another. Although there is sufficient consistency in individual
+ scores to treat the phenomenon as a unitary construct, as evidenced by
+ the internal consistency statistic, there is also enough variability across
+ tasks to make it clear that development in this area is not an "all-or-none
+ phenomenon." Children seem to acquire this understanding gradually, as
+ previously noted (Jenkins & Astington, 1996).
+
+ Analytic Strategy
+
+ To establish the direction of effect between theory of mind and social
+ behaviors, two different global causal models were compared: (a) theory
+ of mind affects social behaviors and (b) social behaviors affect the devel
+ opment of theory of mind.
+
+ To test the model that theory of mind affects social behaviors, two
+ multivariate multiple regressions were run: one in which Time 1 theory of
+ mind predicted Time 2 and Time 3 social behaviors, and one in which
+ Time 2 theory of mind predicted Time 3 social behaviors. By carrying out
+ a multivariate multiple regression, the risk of a Type 1 error was reduced
+ and allowed us to determine whether the criterion variables both within
+ and across time were redundant. If it is the case that theory-of-mind
+ development affects the development of social behaviors, we would
+ expect to see Time 1 theory of mind related to Time 2 and Time 3 joint
+ planning and role assignment and Time 2 theory of mind related to Time
+ 3 joint planning and role assignment.
+
+ Does Time 1 theory of mind predict Time 2 and Time 3 social behav
+ iors?The multivariate multiple regression was significant, F(4, 13) = 3.18,
+ ρ = .05. A step-down analysis was performed to examine the unique con
+ tribution of each criterion variable to the composite dependent variable.
+ In this analysis, criterion variables are hierarchically ordered in terms of
+ theoretical significance. Each successive criterion variable is tested with
+ the higher priority criterion variables acting as covariates in the analysis,
+ to determine whether the new criterion significantly adds to the combi
+ nation of criterion variables already tested. The criterion variables were
+ given the following order of priority: Time 2 joint planning, Time 2 role
+ assignment, Time 3 joint planning, Time 3 role assignment. This order
+ was adopted because in our earlier paper (Astington & Jenkins, 1995)
+ theory-of-mind understanding was more strongly associated with joint
+ planning than role assignment.
+
+ The variable that was significant on step-down analysis was Time 2
+ joint planning, step-down F{ 1,16) = 7.12, ρ < .02. Univariate analyses
+ showed that Time 1 theory of mind was associated with Time 3 role
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 213
+
+ assignment, F(1,16) = 6.19, ρ < .03, but this relationship was already
+ accounted for in the composite criterion variable by the higher priority
+ criterion variables, and this variable was found not to be significant on
+ step-down analysis, step-down F(1,13) = 2.46, ρ < .14. Time 2 role
+ assignment was not significant on univariate analysis, F( 1,16) = 0.02, ρ <
+ .89, or step-down analysis, step-down F(1,15) = 0.05, ρ < .82. Time 3
+ joint planning was not significant on univariate analysis, F(1,16) = 1.36,
+ ρ < .26, or step-down analysis, step-down F(1,14) = 2.07, ρ < .17. In
+ summary, performance on Time 1 theory-of-mind tasks predicted chil
+ dren's performance on joint planning approximately 4 months later.
+
+ Does Time 2 theory of mind predict Time 3 social behaviors? The
+
+ same analysis was carried out with Time 2 theory-of-mind scores as the
+ predictor variable and Time 3 social behaviors as the criterion variables.
+ The multivariate multiple regression was significant F(2,15) = 4.9, ρ <
+ .03. The only variable found to be significant on step-down analysis was
+ Time 3 role assignment, step-down F(1,15) = 7.9, ρ < .02. Time 2 theory
+ of mind was not related to Time 3 joint planning either on step-down
+ analysis, step-down F(1,16) = 1.33, p< .27, or on univariate analysis. In
+ summary, Time 2 theory of mind predicted role assignment during play
+ assessed approximately 4 months later.
+
+ Alternative Model: Social Behaviors Encourage Development
+ of Theory of Mind
+
+ Although one causal direction was hypothesized, we wanted to com
+
+ pare our hypothesized causal model with the alternative. The other
+ causal model to be tested was that social behaviors encourage the devel
+ opment of theory of mind. If this is the case, we would expect to see joint
+ planning and role assignment at Time 1 predicting theory of mind at Time
+ 2 or Time 3, and joint planning and role assignment at Time 2, predicting
+ theory of mind at Time 3.
+
+ Do Time 1 social behaviors predict Time 2 or Time 3 theory of mind?
+
+ A multivariate multiple regression was conducted with Time 2 and Time
+ 3 theory of mind as the criterion variables and Time 1 social behaviors as
+ the predictor variables. The multivariate multiple regression was not sig
+ nificant, F(4,30) = 0.69, ρ < .60. Neither of the social variables was a sig
+ nificant predictor of Time 2 or Time 3 theory of mind on univariate or
+ step-down analysis.
+
+ Do Time 2 social behaviors predict Time 3 theory of mind? A multi
+ ple regression was carried out with Time 3 theory of mind as the criterion
+ variable and Time 2 social behaviors as the predictor variables. This was
+ not multivariate because there was only one criterion variable. Neither of
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ the Time 2 social behaviors was found to predict Time 3 theory of mind,
+ F(2,15) = 0.07, p< .93.
+
+ In summary, these two sets of analyses demonstrated that there is
+
+ stronger support for the proposed hypothesis that theory-of-mind devel
+ opment has a significant effect on social behavior than the alternative
+ hypothesis that social behaviors have a significant effect on theory-of
+ mind development. Both joint planning and role assignment at two dif
+ ferent time points were found to be affected.
+
+ More Stringent Tests of the Causal Hypothesis
+
+ We followed up the multiple multivariate regression with a multiple
+
+ regression for each of the predictor/criterion relationships that had been
+ found to be significant on the multivariate analysis. The aim of this set of
+ analyses was to test a causal model more rigorously. This was done in two
+ ways. First, by entering in the regression first the repeated measure that
+ preceded the criterion measure, any subsequent measure that entered the
+ regression was predicting change between the earlier measure of the cri
+ terion and the later measure. Thus, if we hypothesize that theory of mind
+ predicts later Time 2 joint planning, by entering Time 1 joint planning
+ into the equation first, we account for all of the variance of Time 2 joint
+ planning that was attributable to Time 1 joint planning. The unaccounted
+ for variance in Time 2 joint planning is the extent to which joint planning
+ has changed since Time 1. By entering Time 1 theory of mind into the
+ equation next we can see whether performance on this variable predicts
+ changes on the criterion between Time 1 and Time 2.
+
+ The second aim of these hierarchical regressions was to control for
+
+ other variables that might account for the relationship between predictor
+ and criterion variables. In our previous work (Astington & Jenkins, 1995),
+ we found that age and language ability mediated the relationship be
+ tween theory of mind and social behaviors, although weakly. In testing a
+ causal model we wanted to ensure that changes in criterion variables
+ could not be accounted for by age or language ability. The measure of
+ language ability that was entered was contemporaneous with the crite
+ rion variable. Regressions were rerun dropping covariates when (a) the
+ covariate added nothing to the prediction of the criterion variable, and
+ (b) the covariate was not acting as a suppressor variable.
+
+ For each regression that was carried out, multicollinearity was tested
+
+ for. No combination of predictor variables accounted for more than 50%
+ of the variance of any other predictor variable.
+
+ Prediction of Time 2 joint planning. In the first hierarchical regres
+ sion, Time 2 joint planning was the criterion variable. Time 1 joint plan
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 215
+
+ ning was entered first into the regression followed by age, language, and
+ Time 1 theory of mind. Language ability added nothing to the prediction
+ of Time 2 joint planning and was dropped from the analysis. Age was
+ retained as it was acting as a suppressor variable. After Step 3 with all pre
+ dictor variables in the equation, multiple R = .77, F(3,15) = 7.1, ρ < .003.
+ After Step 1 with Time 1 joint planning in the equation adjusted R2= .41,
+ F( 1,1 7) = 13.5, ρ < .002. After Step 2 with Time 1 joint planning and age
+ in the equation, there was no significant increase in R2, adjusted R2 = .38,
+ Find1,16) = .18, ρ < .68. After Step 3 when Time 1 theory of mind was
+ entered into the equation, there was a significant increase in R2, adjusted
+ R2= .51, F/'nc(1,15) = 5.1, p< .04. Thus Time 1 theory of mind accounted
+ for approximately 13% of the variance in the change between Time 1 and
+ Time 2 joint planning.
+
+ Prediction of Time 3 role assignment. In this hierarchical regression,
+
+ Time 3 role assignment was the criterion variable. Time 2 role assignment
+ was entered first into a hierarchical regression followed by age, language,
+ and Time 2 theory of mind. Neither language ability nor age was found to
+ make a significant contribution to the prediction of role assignment, nor
+ did they act as suppressor variables, and they were dropped from further
+ analysis. After Step 2 with both variables in the equation, multiple R =
+ .57, F(2,15) = 3.7, ρ = .05. After Step 1 R2= .05, F(1,16) = .82, ρ < .38.
+ After Step 2 when Time 2 theory of mind was entered into the equation,
+ R2 = .33, F/'nc(1,15) = 6.3, ρ < .03. In summary, Time 2 theory of mind
+ predicted 28% of the variance in the change in role assignment from
+ Time 2 to Time 3.
+
+ DISCUSSION
+
+ Our interest was to examine the relationship over time between
+ theory-of-mind development and children's play interactions with peers.
+ In a previous study we demonstrated contemporaneous associations
+ between theory of mind, joint planning, and role assignment during play
+ interaction with peers (Astington & Jenkins, 1995). In the present study
+ our aim was to examine a causal model in which we hypothesized that
+ developments in theory of mind lead to increased abilities to initiate joint
+ plans and to assign roles.
+
+ We confirmed our previous results that joint planning and role
+
+ assignment are associated with theory of mind. Theory of mind at Time 1
+ predicted 13% of the variance in change in joint planning from Time 1 to
+ Time 2. This was the case after controlling for the amount of children's
+ joint planning at Time 1, as well as controlling for effects of age and con
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 216
+
+ MERRILL-PALMER QUARTERLY
+
+ temporaneous language performance. Thus, changes in joint planning
+ were predicted by performance on theory-of-mind tasks.
+
+ In addition, theory of mind at Time 2 was related to the amount of
+ time that children spent during play in explicitly assigning a role to them
+ selves or their play partner. This was also the case after controlling for the
+ amount of children's role assignment at Time 2, as well as controlling for
+ effects of age and contemporaneous language performance. Thus, earlier
+ theory-of-mind performance predicted 28% of the variance in change in
+ role assignment between Time 1 and Time 2.
+
+ The theory-of-mind construct is sometimes treated as if an under
+
+ standing of other minds is either present or absent. Yet our results relating
+ to children's performance on different tasks make it clear that at the first
+ two testing points many children are passing some tasks and failing oth
+ ers. This suggests that theory of mind is gradually acquired when children
+ are between the ages of 2 and 5 years. We obtained the same results
+ when we tested a larger group of children on a series of theory-of-mind
+ tasks (Jenkins & Astington, 1996).
+
+ Why should theory-of-mind development affect the development of
+ these social behaviors? Our view is that being able to represent multiple
+ beliefs of the self and other simultaneously, including beliefs that con
+ trast with one another, allows for social interactions that are potentially
+ less ambiguous and are more geared to the joint endeavors of partici
+ pants. Others have found relationships between sociodramatic play and
+ developments in children's metacognitive skills. For instance, higher
+ levels of sociodramatic play have been found to be associated with chil
+ dren's greater ability to take the perspective of the other (Connolly &
+ Doyle, 1984; Rubin, 1976). Perspective-taking tasks are not equivalent
+ to false belief tasks, but they do assess the child's ability to operate from
+ a perspective that is not their own, thus showing some similarity to false
+ belief tasks. More recently relationships between sociodramatic play
+ and theory of mind have been demonstrated by others (Youngblade &
+ Dunn, 1995).
+
+ There has been much less investigation of the relationship between
+ the variable that we have called joint planning and theory-of-mind devel
+ opment. As humans we have to learn how to cooperate in a complex
+ world in which there are multiple agents, each with multiple goals and in
+ which unknown and unpredictable elements operate (Oatley, 1992).
+ Infants communicate with their parents in expressing goals as well as
+ modifying their own goals over time to cooperate with their caregivers.
+ Accounts of the way in which parent-infant interaction is highly synchro
+ nized and mutually responsive demonstrate that some form of coopera
+ tive action is present in early infancy (Stern, 1985). We see our variable
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ 217
+
+ of joint planning as representing a new stage in the development of coop
+ erative action. We propose that part of one's ability to carry out complex
+ cooperative plans comes with being able to represent the mental states of
+ others that may contrast with one's own. Thus, as children improve in
+ representing multiple and contrasting beliefs, they become more skilled
+ at the complex undertaking of cooperative action.
+
+ We found no evidence for the opposite causal model to that which
+
+ was hypothesized (i.e., that joint planning and role assignment affect the
+ development of theory of mind). One reason for this may be method
+ ological. There was very little variability on Time 1 role assignment, mak
+ ing it unlikely that an association with any other variables would be
+ found. Although this may explain the lack of relationship between Time 1
+ role assignment and Time 2 and Time 3 theory of mind, it is not the expla
+ nation for the failure in the prediction of Time 1 or Time 2 joint planning,
+ or Time 2 role assignment. The variability on these variables was good,
+ but they still did not predict later theory-of-mind task performance. Given
+ this, we conclude that it is more likely that theory of mind affects the
+ development of these social behaviors, rather than the opposite causal
+ model. The sample size for this study was small, however, and replication
+ with a larger sample will be important.
+
+ Of course, it is not possible from a naturalistic study to be certain
+ about the direction of effect in these relationships. In a quasi-experimental
+ study these results are only suggestive. Considering only the results from
+ the naturalistic longitudinal study, it is still possible that a third variable,
+ related to both theory of mind and social behaviors, accounts for the rela
+ tionship between them. Although an attempt was made to examine the
+ role of a third variable in explaining the association between theory of
+ mind and social behaviors (by partialling out effects of age and language
+ ability in the regression analyses), it is still possible that other variables, not
+ tested in this study, were responsible for these relationships.
+
+ For instance, Plaut and Karmiloff-Smith (1993) have suggested that
+ developments in representational architecture underlie the child's ability
+ to pass false belief tasks. It is not difficult to imagine that this is also
+ responsible for the child's growing capacity to communicate explicit role
+ assignments to another person, as well as offer a plan for the self and
+ other simultaneously. If this is the case, theory of mind has no causal role
+ in affecting joint planning or role assignment, but changes along with
+ these other variables, as a consequence of changes in representational
+ architecture. Of course, one of the difficulties in hypothesizing a latent
+ structure such as representational architecture is that one cannot measure
+ it and differentiate it from those observable behaviors that it affects. Train
+ ing or intervention studies may throw light on these causal relationships,
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ 218
+
+ MERRILL-PALMER QUARTERLY
+
+ as well as providing opportunities for operationalizing these hypothetical
+ constructs.
+
+ Youngblade and Dunn (1995) found that children aged 2;9 who
+ engaged in more pretend play role enactments performed better on a
+ false belief explanations task at age 3;4, and they argue that pretend play
+ scaffolds theory-of-mind development, as we mentioned earlier. "Role
+ enactment" was coded if the child gave any evidence of playing a par
+ ticular pretend role, without explicitly defining it. Explicit definition of a
+ role was coded as "role play," which corresponds to our variable "role
+ assignment." Youngblade and Dunn did not find that role play at 2;9 was
+ related to the ability to give false belief explanations at 3;4. We, on the
+ other hand, found that children's earlier false belief task performance pre
+ dicted their later production of role assignments.
+
+ We do not believe that our results and those of Youngblade and Dunn
+
+ (1995) contradict each other. Harris (1991 ) argues that children's pretend
+ play fosters their ability to simulate feelings and desires not currently held
+ and to imagine states of the world not currently existing. Further, he
+ argues that it is these abilities that lead to theory-of-mind development,
+ allowing the child to understand that other people may hold different
+ beliefs about the world and to perform correctly on false belief tasks.
+ From this perspective we would expect that some aspects of pretend play,
+ such as acting out different roles (Youngblade and Dunn's "role enact
+ ment"), would precede and support the development of false belief
+ understanding, whereas other aspects of pretend play, such as making
+ one's role explicitly clear to one's play partners (our "role assignment"),
+ would follow and result from false belief understanding. This is because
+ children need to know that people may have different beliefs about the
+ world if they are to see the need to make their own view clear in situa
+ tions where it may not be so, such as the potentially ambiguous context
+ of pretend play. As Youngblade and Dunn put it, "role enactment involves
+ mental representation by exemplifying a category of action. Role play, in
+ contrast, is genuinely symbolic; the child's behavior designates the
+ behavior of another person or character" (1995, p. 1476). That is to say,
+ role play (viz., "role assignment" here) is more sophisticated because it
+ requires explicit representation of two conflicting states—who the child
+ really is and what character he or she is depicting. Thus, we would argue
+ that pretend play and theory of mind have a complex and interdependent
+ relationship.
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Theory of Mind
+
+ REFERENCES
+
+ ASTINGTON, J. W., HARRIS, P. L., & OLSON, D. R. (Eds.). (1988). Developing
+
+ theories of mind. New York: Cambridge University Press.
+
+ ASTINGTON, J. W„ & JENKINS, J. M. (1995). Theory of mind and social under
+
+ standing. Cognition and Emotion, 9,151-165.
+
+ BRETHERTON, I., MCNEW, S„ & BEEGHLY-SMITH, M. (1981). Early person
+
+ knowledge as expressed in gestural and verbal communication: When do
+ infants acquire a "theory of mind"? In M. E. Lamb & L. R. Sherod (Eds.), Infant
+ social cognition. Hillsdale, NJ: Erlbaum.
+
+ CONNOLLY, J. Α., & DOYLE, A. B. (1984). Relation of social fantasy play to
+ social competence in preschoolers. Developmental Psychology, 20,
+ 797-806.
+
+ DUNN, J. (1995). Children as psychologists: The later correlates of individual dif
+
+ ferences in understanding of emotions and other minds. Cognition and Emo
+ tion, 9, 1 87-201.
+
+ DUNN, J., BROWN, J., SLOMKOWSKI, C, TESLA, C, & YOUNGBLADE, L.
+
+ (1991 ). Young children's understanding of other people's feelings and beliefs:
+ Individual differences and their antecedents. Child Development, 62,
+ 1352-1366.
+
+ FLAVELL, J. H„ FLAVELL, E. R., & GREEN, F. L. (1983). Development of the
+
+ appearance-reality distinction. Cognitive Psychology, 15, 95-120.
+
+ FLAVELL, J. H„ FLAVELL, E. R., & GREEN, F. L. (1987). Young children's knowl
+ edge about the apparent-real and pretend-real distinctions. Developmental
+ Psychology, 23, 816-822.
+
+ FRITH, U„ HAPPE, F., & SIDDONS, F. (1994). Autism and theory of mind in
+
+ everyday life. Social Development, 3, 108-123.
+
+ GOPNIK, Α., & ASTINGTON, J. W. (1988). Children's understanding of represen
+ tational change and its relation to the understanding of false belief and the
+ appearance-reality distinction. Child Development, 59, 26-37.
+
+ HARRIS, P. L. (1991). The work of the imagination. In A. Whiten (Ed.), Natural
+ theories of mind: Evolution, development and simulation of everyday mind
+ reading. Oxford: Basil Blackwell.
+
+ HOGREFE, G.-J., WIMMER, Η., & PERNER, J. (1986). Ignorance versus false
+ belief: A developmental lag in attribution of epistemic states. Child Develop
+ ment, 57, 567-582.
+
+ HRESKO, W. P., REID, D. K„ & HAMMILL, D. D. (1981). The Test of Early Lan
+
+ guage Development (TELD). Austin, TX: Pro-Ed.
+
+ JENKINS, J. M., & ASTINGTON, J. W. (1996). Cognitive factors and family struc
+ ture associated with theory of mind development in young children. Devel
+ opmental Psychology, 32, 70-78.
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ LALONDE, C. E., & CHANDLER, M. (1995). False belief understanding goes to
+
+ school: On the social-emotional consequences of coming early or late to a
+ first theory of mind. Cognition and Emotion, 9, 167-185.
+
+ MOORE, C., & FRYE, D. (1991 ). The acquisition and utility of theories of mind. In
+ D. Frye & C. Moore (Eds.), Children's theories of mind. Hillsdale, NJ: Erl
+ baum.
+
+ OATLEY, K. (1992). Best laid schemes. The psychology of emotions. Cambridge,
+
+ England: Cambridge University Press.
+
+ PERNER, J. (1991). Understanding the representational mind. Cambridge, MA:
+
+ Bradford Books/MIT Press.
+
+ PLAUT, D. C., & KARMILOFF-SMITH, A. (1993). Representational development
+ and theory-of-mind computations. Behavioral and Brain Sciences, 16,
+ 70-71.
+
+ RUBIN, K. H. (1976). The relationship of social play preference to role taking
+
+ skills in preschool children. Psychological Reports, 39, 823-826.
+
+ STERN, D. (1985). The interpersonal world of the infant. New York: Basic Books.
+ TAYLOR, M., GEROW, L. E., & CARLSON, S. M. (1993, March). The relation
+
+ between individual differences in fantasy and theory of mind. Paper pre
+ sented at the meeting of the Society for Research in Child Development, New
+ Orleans, LA.
+
+ WELLMAN, H. M. (1990). The child's theory of mind. Cambridge, MA: Bradford
+
+ Books/MIT Press.
+
+ WIMMER, H., & PERNER, J. (1983). Beliefs about beliefs: Representation and
+ constraining function of wrong beliefs in young children's understanding of
+ deception. Cognition, 13,103-128.
+
+ YOUNGBLADE, L. M., & DUNN, J. (1995). Individual differences in young chil
+ dren's pretend play with mother and sibling: Links to relationships and
+ understanding of other people's feelings and beliefs. Child Development, 66,
+ 1472-1492.
+
+This content downloaded from 139.18.244.34 on Fri, 12 Jun 2020 11:23:19 UTC
+
+All use subject to https://about.jstor.org/terms
+
+

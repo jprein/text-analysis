@@ -1,0 +1,1282 @@
+ 
+ 
+A Longitudinal Study of White Children's Racial Prejudice as a Social-Cognitive
+Development
+Author(s): Anna Beth Doyle and  Frances E. Aboud
+Source: Merrill-Palmer Quarterly, Vol. 41, No. 2 (April 1995), pp. 209-228
+Published by: Wayne State University Press
+Stable URL: https://www.jstor.org/stable/23090532
+Accessed: 26-05-2020 09:53 UTC
+ 
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+ 
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+Wayne State University Press is collaborating with JSTOR to digitize, preserve and extend
+access to Merrill-Palmer Quarterly
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Merrill-Palmer Quarterly, Vol. 41, No. 2.
+
+ A Longitudinal Study of White Children's Racial
+ Prejudice as a Social-Cognitive Development
+
+ Anna Beth Doyle
+
+ Concordia University
+
+ Frances E. Aboud
+ McCill University
+
+ Longitudinal changes between ages 6 and 9 years in white children's (η = 47)
+ prejudice towards black people and Native Indians were examined, with use of the
+ Preschool Racial Attitude Measure (PRAM II) and a multiple-response racial attitude
+ measure (MRA). Additional children (n = 40) were tested at age 9. In both samples,
+ older children were less prejudiced on the PRAM than younger children, most of
+ whom were prejudiced. On the MRA, which measured attitudes to each racial group
+ independently, favorable-white and unfavorable-black evaluations did not decline
+ with age, but unfavorable-white and favorable-black evaluations increased. These
+ decreases in prejudice were associated developmental^ with the perception that
+ different races are more similar, that individuals of the same race are more different,
+ and that racially different perspectives are both acceptable. Perception of within
+ race similarity was associated positively with individual differences in prejudice at
+ each age.
+
+ Prejudice and discrimination are major social problems in hetero
+ geneous societies such as North America and Europe. Racial prejudice,
+ a predisposition to respond in an unfavorable manner to members of a
+ racial group (Aboud, 1988), is often viewed as primarily a problem of
+ adults and adolescents, but not of children (Allport, 1954). Evidence has
+ accumulated, however, that prejudice in young white children is high,
+ peaking at about kindergarten and then declining somewhat (Bigler &
+ Liben, 1993; Brown & Johnson, 1971; Corenblum & Annis, 1987; Katz
+
+ This research was supported by Quebec FCAR. Portions of this paper were reported
+ at the Society for Research in Child Development, Kansas City, 1989, and the Canadian
+ Psychological Association, Ottawa, 1990. Thanks to the children, teachers, and principals
+ of Harold Napper and Royal Charles Elementary Schools for participating, and to Maria
+ Sufrategui, Laurie McMurdo, Audrey Rotman, and Carla Vandoni for their help in data
+ collection. Correspondence may be sent to Anna Beth Doyle, Centre for Research in Human
+ Development, Concordia University, 7141 Sherbrooke St. W., Montreal, Canada H4B 1R6.
+
+ Merrill-Palmer Quarterly, April 1995, Vol. 41, No. 2, pp. 209-228.
+ Copyright © 1995 by Wayne State University Press, Detroit, Ml 48201-1309
+
+ 209
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ & Zalk, 1978; Ramsey, 1991 ; Williams & Morland, 1976). These conclu
+ sions are based on cross-sectional rather than longitudinal comparisons;
+ consequently, it is not known to what extent measures of prejudice
+ reflect stable individual differences across age and/or to what extent
+ age changes in prejudice in majority-group children are explained by
+ developmental variables such as social-cognitive growth. One purpose
+ of the present study was to examine longitudinal changes in prejudice
+ and its component attitudes from 6 to 9 years of age. A second purpose
+ was to explore several social cognitions related to race that might explain
+ developmental changes.
+
+ Longitudinal Changes in Racial Bias and Counter-bias
+
+ Cross-sectional studies have indicated that in many samples of white
+
+ children prejudice declines during the elementary school years (e.g.,
+ Bigler & Liben, 1993). One interpretation of these findings is that relative
+ levels of prejudice remain the same among individual children whereas
+ absolute levels decline developmentally (i.e., individual differences re
+ main stable despite age changes). Another interpretation is that both
+ relative and developmental changes occur. A third possibility is that
+ cohort differences account for the decline in prejudice with age. The
+ present study combines a longitudinal with a cross-sectional design to
+ distinguish among these different interpretations.
+
+ Single-response measures of prejudice, which typically decrease
+
+ with age (e.g., the Preschool Racial Attitude Measure—PRAM II), have
+ been criticized for yielding only one index that confounds acceptance
+ of one group with rejection of the other (Aboud, 1988; Branch & New
+ combe, 1986). That is, because only one race can be selected for each
+ positive and negative evaluation, it is unclear whether the observed
+ decrease in prejudice with age reflects a decrease in ethnocentric bias
+ or an increase in attitudes that run counter to bias (i.e., an increase in
+ positive attitudes to other groups and/or an increase in negative attitudes
+ to own group).
+
+ Studies in which multiple response measures of ethnic bias were
+ used shed some light on this question. Doyle, Beaudet, and Aboud
+ (1988) permitted English-speaking children to assign positive and neg
+ ative traits to either English- and French-speaking stimulus figures or to
+ a "both" category. Ethnic bias (positive evaluations of own group and
+ negative evaluations of the other group) decreased from Grades 1 to 6 in
+ conjunction with an increase in use of the "both" category. Bigler and
+ Liben (1993) replicated these findings with 4- to 9-year-olds' attitudes to
+ black and white people, indicating that attitudes to linguistically defined
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice 211
+
+ ethnic groups and to racial groups develop similarly. The increasing use
+ of the "both" box implies a developmental increase in counter-bias at
+ titudes, which, unfortunately, could not be assessed independently from
+ prejudiced attitudes. That is, assignment of a negative evaluation to the
+ "both" category reflects both a negative response to own group (counter
+ bias) and a negative evaluation of the outgroup (bias). Bigler and Liben
+ (1993) also found that older children tended (marginally) to give more
+ responses that ran directly counter to prejudice. We predicted that when
+ attitudes to own group and other group are assessed independently, a
+ similar developmental pattern will be found. On the other hand, attitudes
+ consistent with prejudice were not expected to change with age.
+
+ Socio-cognitive Correlates of Age Changes in Prejudice
+
+ There is mounting evidence to support the view that declines in
+
+ white children's prejudice during the early elementary school years are
+ associated with increases in cognitive and socio-cognitive skills con
+ current with the transition from preoperational to concrete-operational
+ thought. These findings are consistent with a cognitive developmental
+ perspective (Aboud, 1988; Katz, 1976), in which children's prejudice is
+ determined partly by their limited cognitive abilities. As noted earlier,
+ however, longitudinal studies of associations between temporal changes
+ in prejudice and cognitions are lacking.
+
+ In terms of the particular cognitive abilities implicated, children
+
+ who have mastered conservation have been found to be less prejudiced
+ (Clark, Hocevar, & Dembo, 1980). Because by age 9 years most chil
+ dren have mastered most conservation tasks (Gulko, Doyle, Serbin, &
+ White, 1988), but only some children are unprejudiced, other cogni
+ tions also may be implicated in accounting for decreases in prejudice.
+ Cross-sectional studies of 4- to 9-year-olds suggest that classification skill
+ accounts for the positive relation between age and "both" responses, but
+ not prejudiced responses (Bigler & Liben, 1993). Mature moral judgments
+ have been found to predict lower prejudice (Davidson, 1976); however,
+ movement from one moral stage to another is very slow in young chil
+ dren. Another promising social cognition to examine is reconciliation of
+ different perspectives, which is central to the cognitive-developmental
+ theory of Piaget and Weil (1951) and Kohlberg (1969) concerning chil
+ dren's understanding of different national groups. In addition, perceived
+ similarity within and between races has been noted as significantly re
+ lated to prejudice and its reduction (Katz, 1976).
+
+ Piaget and Weil (1951) proposed that, with the development of
+
+ perspective-taking skills, children understand the feelings of different
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ groups, and so show less prejudice toward them. They noted that the
+ understanding of national/racial relationships includes, first, reciprocity
+ (i.e., the awareness that other nationalities prefer their ingroup as much
+ as the child prefers his/her ingroup), and then, reconciliation (i.e., the
+ awareness that both are right). Reconciliation is essential for reducing
+ prejudice, because reciprocity alone could as easily result in reciprocal
+ prejudice, in which a child assumes that each group prefers its own group
+ and dislikes the other. Failure to assess reconciliation may account for
+ the findings in one study of 7- to 10-year-olds of no significant relation
+ between two conventional measures of perspective-taking and either
+ the Katz-Zalk Projective Test or the Preschool Racial Attitude Measure
+ (Nagata, 1985). Ability to reconcile two different racial perspectives
+ increases from 5 to 9 years of age (Aboud, 1981) and correlates with
+ social perspective-taking (Weinheimer, 1972). In the present study, we
+ expected that white children who show greater improvement in recon
+ ciliation of different racial views from kindergarten to third grade also
+ show a greater decline in prejudice.
+
+ It has been established that the perception of similarity within races
+ and dissimilarity between races is an important component of racial
+ prejudice (Linville, Fischer, & Salovey, 1989; Messick & Mackie, 1989).
+ With age, white children have been found to rate members of different
+ races more similarly and members of the same race more differently
+ (Aboud & Mitchell, 1977; Katz, Sohn, & Zalk, 1975). Though individual
+ differences in perceived between-race similarity are related to prejudice
+ (Katz et al., 1975), developmental changes in association to prejudice
+ merit study. We expected children whose perceived similarity between
+ races increases between kindergarten and third grade to show a greater
+ decline in prejudice.
+
+ The second skill, perceiving individual differences within racial
+
+ groups, was found to be significantly related to lower levels of prejudice
+ in sixth-grade children (Katz et al., 1975). They hypothesized that when
+ children begin to attend to individual characteristics of group members,
+ instead of racial characteristics, their negative attitudes are likewise less
+ generalized. Because perceptions of between-race similarity appear to
+ change more rapidly in the early school years than perceptions of within
+ race differences (Aboud & Mitchell, 1977; Katz et al., 1975), we expected
+ changes in the former to be a more important determinant of changes in
+ prejudice in young children.
+
+ The present study is focused on longitudinal changes in prejudice
+ and its components, bias and counter-bias, from kindergarten to third
+ grade, and their relations to developmental changes in social cognitions.
+ Four cognitive skills most relevant to this age group were examined:
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice 213
+
+ conservation, reconciliation of social perspectives, perceived similarity
+ between races, and perceived similarity of individuals within a race.
+
+ METHOD
+
+ Participants
+
+ Ninety-six, white, English-speaking children participated in the cross
+
+ sectional design at Time 1, 56 in kindergarten (32 girls; mean age 5.9
+ years, SD = 0.28) and 40 in third grade (20 girls; M = 8.9 years, SD
+ = 0.79). Forty-seven of these kindergarten children (27 girls) constituted
+ the longitudinal sample and were retested when they were in third grade
+ (Time 2). Children were primarily middle-class in background (/Vf = 40.6,
+ SD = 13; Hollingshead, 1975) and attended two suburban public schools
+ in a large Canadian city. The school populations were predominantly
+ white, and approximately 10% black, 10% East Indian, and 20% Asian.
+ Parents gave written consent for participation (acceptance 56%, no re
+ sponse 39.5%, and refusal 4.5%).
+
+ Measures of Racial Attitudes
+
+ Prejudice measure. An adaptation of the Preschool Racial Attitude
+
+ Measure II (PRAM II) series A (Williams, Best, Boswell, Mattson, &
+ Graves, 1975) consisting of 12 racial evaluation items and four gender
+ stereotype filler items, was used to measure pro-white/anti-black preju
+ dice. A second version with identical evaluation items but using Native
+ Indian and white stimulus persons was used in assessing the gener
+ alization of prejudice to a second outgroup. (A large Native Indian
+ community was located within a few miles of the schools where testing
+ was conducted.) The original PRAM pictures of black and white stimulus
+ persons were redrawn to vary hair texture as well as skin color in order
+ to permit clear identification of the minority group figures as black or
+ Native Indian. In addition, the racial groups of the persons depicted
+ were mentioned for the first few items of each version to ensure that the
+ child would identify them accurately. The six positive adjectives and six
+ negative adjectives composing the racial evaluation items were clean,
+ nice, kind, happy, healthy, wonderful, bad, stupid, ugly, cruel, sad, and
+ selfish. For each adjective the child was shown the corresponding picture
+ and asked, for example, "One of these children is kind; once he saved
+ a kitten from drowning. Who is kind?"
+
+ As in the original PRAM II, one point was given for choosing a white
+
+ figure in response to a positive adjective, and one point for choosing
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ a black/Native Indian figure in response to a negative adjective. The
+ maximum score for each of the white/black and white/Native Indian
+ versions was 12. As defined by Williams and Morland (1976), high scores
+ (>9) indicated pro-white/anti-other-race bias, scores around the midpoint
+ indicated no bias, and low scores (<3) indicated anti-white bias.
+
+ The internal consistencies (Cronbach's alpha) at Time 1 for both
+ versions of the scale were acceptable, but lower in kindergarten (.46
+ and .64) than in grade three (both .77 for white/black and white/Native
+ Indian, respectively), in part because the kindergarten scores were high.
+ Multi-response Racial Attitude Measure (MRA). To permit age
+ changes to be examined separately for positive and negative attitudes,
+ and for bias and counter-bias, Doyle et al.'s (1988) measure of attitudes
+ to two groups was adapted to assess attitudes to the three racial groups,
+ black, white and Native Indian. Each of 20 evaluative adjectives were
+ presented with a concrete behavioral example depicted identically on
+ three 8 X 8-in. cards (total 60 cards). For example, "naughty" was
+ depicted by three cards showing a room with crayons on the floor and
+ crayon scribbles on one wall. There were 10 positive adjectives taken
+ from the PRAM II (clean, wonderful, healthy, good, nice, happy, friendly,
+ kind, helpful, and smart), 10 negative adjectives (unfriendly, mean, dirty,
+ cruel, stupid, selfish, sick, naughty, sad, and bad), and four neutral filler
+ attributes. The cards were to be sorted among three boxes: one labeled
+ as belonging to a white child, another to a black child, and the third to
+ a Native Indian child, identified by appropriate same-sex, colored head
+ drawings, differing only in skin color and hair texture.
+
+ For each adjective, the child was handed the three identical cards
+ and instructed to place them in the box or boxes of people who are that
+ way. For example, the child was told, "Some children are naughty. They
+ often do things like drawing on the wall with crayons. Who is naughty?
+ Is it the black child, the white child, the Indian child, or more than
+ one child who is naughty?" Children distributed non-evaluative stimuli
+ (photos of racial group members, drawings of t-shirts) to practice two
+ types of distributions of three identical pictures (i.e., members of the
+ same racial group all to one box and t-shirts to more than one box).
+
+ The number of adjectives rather than the number of cards placed in
+ each box was tallied. Six scores were derived initially, a positive and a
+ negative score for each of the three racial groups, each with a possible
+ range of 0-10. Internal consistency (alpha) varied from .79 to .91 at Time
+ 1. Test-retest reliability across a 4-month interval for a sample of Grade
+ 4 children ranged from .56 for negative-white to .82 for negative-black.
+ To obtain a prejudice score comparable to the white/black PRAM,
+ the positive-white and negative-black MRA scores, which correlated
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice 215
+
+ .39 and .47 for kindergarten and Grade 3, respectively, were summed
+ (Tabachnick & Fidel I, 1989) to yield a white/black bias score (range from
+ 0 to 20). A white/black counter-bias score was derived by summing the
+ negative-white and positive-black scores, which correlated .68 and .70
+ at kindergarten and Grade 3, respectively. Similar bias and counter-bias
+ scores were derived for the white/Native Indian MRA scores.
+
+ Cognitive Measures
+
+ Conservation. The level of concrete operational thinking was evalu
+
+ ated with use of an adaptation (Gulko et al., 1988) of the Goldschmidt
+ and Bentler Concept Assessment Kit. Seven conservation tasks were ad
+ ministered: area, number, substance, continuous quality, weight, discon
+ tinuous quantity, and volume, in that order. Answers which demonstrated
+ conservation with at least a partially correct explanation were scored as
+ correct; the number of tasks correct indicated cognitive developmental
+ level (maximum 7).
+
+ Racial reconciliation. Aboud's (1981 ) measure of reconciliation was
+
+ adapted. Children were asked to reconcile the difference between their
+ own racial preference and those of two unfamiliar same-sex children.
+ Subjects indicated their preferences by placing color photographs of two
+ white, two black, and two Indian same-sex children on a 60-cm board
+ that stretched away from them, the closer, the more the pictured child
+ was liked, and the farther away, the less he/she was liked. The pho
+ tographs were of unfamiliar children of approximately the same age and
+ had been judged by 40 college students to be of intermediate attractive
+ ness. The tester then asked children to compare and evaluate their own
+ ratings with those of two other children in the following manner, (a) The
+ tester showed a picture of another child of the least-liked other race and
+ indicated that child's preference ratings by arranging a duplicate set of
+ identical photos on a second board in the reverse order to the subject's.
+ The tester asked, "This is how you put them; this is how s/he put them.
+ Are both of you right or is someone wrong?" (b) The tester then showed
+ a picture of a white child, indicated that he/she liked the people in the
+ reverse order to the subject, and asked if both were right or if someone
+ was wrong. One point was awarded for each response indicating that
+ both subject and picture child could be right (reconciliation), range 0 to
+ 2) Scores for the two items were uncorrelated (r = .13 and .18, η s, for
+ kindergarten and Grade 3, respectively).
+
+ Ά third item was included to rule out the possibility that children failed to rec
+
+ oncile with the other race because of prejudice. On this item, a second child from the
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ Perceived similarity within and between race. Children were asked
+ to rate the similarity of 12 pairs of color photographs of same-race and
+ different-race, same-sex children. As adapted from the study by Aboud
+ and Mitchell (1977), the children were given one pair of photographs
+ at a time and asked to place them, facing each other, on a 60-cm
+ board, those closer together the more similar they were judged to be and
+ those farther apart the more different. Perceived between-group similarity
+ was scored as 60 minus the mean distance between six different-race
+ pairs (two from each of black-white, white-Indian, Indian-black). Internal
+ consistency (alpha) at Time 1 was .73 and .84, for kindergarten and
+ Grade 3, respectively. Within-group similarity was scored as 60 minus
+ the mean distance between six same-race pairs (two from each of black
+ black, white-white, Indian-Indian). Internal consistency at Time 1 was
+ .80 and .76 for kindergarten and Grade 3, respectively, with own-race
+ and other-race stimuli contributing equally. Test-retest reliability across
+ a 4-month interval for Grade 4 children ranged from .62 to .74 for the
+ different races. Scores were subtracted from 60 so that higher scores
+ indicated greater perceived similarity.2
+
+ Procedure
+
+ Each child participated in three sessions lasting approximately 25
+ min each, spaced 2 weeks apart on average (range 1 to 4). The measures
+ of interest were interspersed with additional measures of racial awareness
+ not relevant to the present study.3 The racial measures were administered
+ in the first two sessions, the conservation task in the third session. The
+ PRAM and MRA were given in separate sessions to avoid spurious corre
+ lation between them, with order counterbalanced within school, grade,
+ and gender. The remaining tasks were given in three counterbalanced
+ orders. Kindergartners were retested in Grade 3 on all but the Native
+ Indian-white PRAM, omitted because it correlated substantially with the
+ black-white PRAM (r = .67), and provided redundant developmental
+
+ least preferred race was shown with an arrangement in the same order as the subject. If
+ responses were due to prejudice towards the outgroup rather than to the ability to reconcile
+ differences, then children would reconcile on Item 2 (same-race), but not on Items 1 and
+ 3 (other-race). Only two subjects out of 47 showed this pattern. Thus, failure to reconcile
+ was not due to prejudice.
+
+ 2Full procedures of all measures may be obtained from the authors.
+ 3They were recognition of the races, recognition of the label used for self, spontaneous
+ sorting of the photos, and a two-item measure of racial group members' perceived social
+ status.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice 21 7
+
+ information in the cross-sectional sample, and the three additional mea
+ sures of racial awareness. All testing was carried out by white women.
+
+ Overview
+
+ RESULTS
+
+ Longitudinal changes and measure differences (black/white, Native
+ Indian/white) in PRAM prejudice are presented first. To clarify the nature
+ of age changes in PRAM prejudice, longitudinal changes and race-of
+ target differences (white, black, Native Indian) on the MRA measures are
+ then presented and compared with the PRAM. Longitudinal changes in
+ the cognitive measures are then presented. Similar analyses performed on
+ the cross-sectional data are reported in each section. Finally, longitudinal
+ changes in the PRAM and MRA racial attitude scores are examined in
+ relation to longitudinal changes in the cognitive measures.
+
+ Preliminary Data Analyses
+
+ Because no major or systematic differences were found in the cross
+ sectional data, sex, school, and order of testing were not retained as
+ factors in analyses. Analyses of the label recognition measure indicated
+ that, when given the racial group label, children had little difficulty
+ identifying photos of black and white children (means initially correct
+ were 2.92 and 2.45, respectively, out of 3) but some difficulty with the
+ Indian photos (mean 1.32). However, no child took more than three
+ trials to accurately identify the race of each pictured child. There was
+ no significant grade or grade-by-race effect on this measure.
+
+ Prejudice Measures
+
+ PRAM II revised. In the longitudinal sample, black/white PRAM
+
+ scores decreased from kindergarten to Grade 3, f(44) = 4.27, ρ < .001.
+ To investigate cross-sectional differences, a 2 (Grade) X 2 (PRAM Ver
+ sion) analysis of variance (ANOVA) was conducted on PRAM scores
+ with PRAM version (black/white, Native Indian/white) as a repeated fac
+ tor. Differences between grades and between versions were significant,
+ F( 1, 93) = 15.8, ρ < .001, and 5.1, ρ < .05 (see Table 1). Children
+ in Grade 3 were less prejudiced than kindergarten children on both
+ versions. At both ages, children were somewhat less prejudiced to Native
+ Indians than to black people.
+
+ An examination of extreme scores (>9) (Williams and Moreland,
+
+ 1976) indicated that 85% of kindergartners were biased against black
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ !ΙΓ^Γ <^ΐ^£}'ΙΓ'ΙΓ ^ «-ο TUT ΙΖΓ ^ HT !Ζ"
+ οο cooocccoocoo
+ V ν ν ν ν ν ν ν ν  ν ν ν
+
+ σ) ο
+ (ν ro
+
+ a^aiKro^^cqKfNOLnK
+ <— τ— csirocNCsirOLO^^tLO^O
+
+ o
+ co  co
+
+ o
+
+ ro  o  ΓΝ|
+
+ SO
+ l\  co  l\  co  l\
+
+ r  vX)
+
+ LO
+ ΤΦ  rsi
+
+ LO
+
+ ro
+
+ LO
+
+ τ—
+
+ 2 ι
+ 9 1
+ V
+
+ r\
+ rsi
+
+ v£>
+
+ CO
+
+ τ
+
+ ,—
+
+ τ—
+
+ ty> o  *—  Ο <n  to V) O  τ—  <j~, ο τ—
+ c o  o  o C  eco  ο  c ο  ο
+ ν
+
+ V  V  ν
+
+ ν
+
+ ν
+
+ ν
+
+ Τ  LO LO Τ
+ ο  LO cm  ο
+ ο  o  ο  ο
+ ν  ν
+ ν
+
+ ιί
+
+ a^^^Lncqr\r\|r\|coT— r— T^j
+ O CN fN ro *— (Ν (N lo 't rn iri Tf
+
+ κ^^)^σ;ΓΜ^οθΓ\σ]θσι
+ (^cocoKcococoLnfNK^r-^
+
+ cq^roK^KcocoKi^^prn
+ Τ— rOrOrOCNCsirOvD^rO^vO
+
+ Table 1. Means and (Standard Deviations) and Significance Levels for Grade Comparisons
+
+ Ι\
+
+ ΓΟ
+
+ Ò
+
+ Γ—
+
+ <
+ c¿
+ CL·
+
+ (V
+ ~σ
+ 3
+
+ * ^
+ <d Λ
+ %t·
+
+ O —
+ CL CD
+ <S)
+
+ Ç2 OJ <
+
+ °PoI
+
+ <
+ C*
+
+ φ
+ "Ό
+
+ cd ~
+ i/i _C
+
+ i£ θ3 (D
+ § 5
+ Cl cd
+ ΙΛ >
+ cu ~
+
+ o
+ =5 Cl.
+
+ c
+ .2
+ TD
+ c
+ Cû —
+ ^ cd
+ -* >
+ U \p
+ as as
+
+ Ζ Ζ  £  CÛ  Ζ
+
+ <d
+ >
+
+ cd
+ >
+
+ cd
+ >
+
+ Π3
+
+ OJ
+
+ rC
+ DO 00 00 £
+ î) ï) d) Π3
+
+ <S) (S)
+
+ .2 O
+ û.û.ZZZm0^m0
+
+ co  τ °i  rsj
+
+ <ό  νβ
+
+ -φ co  r\  r\ τ—  o  v¿
+
+ ro
+
+ vD  co
+ "φ
+
+ ro
+
+ ro <3)
+ r— ro
+
+ ro  Γ
+
+ 00
+
+ Ö
+
+ '— *—
+
+ *—  *—
+
+ _ <D
+
+ •"ë >*
+ _ns .tt
+ e à
+
+ Φ c/>
+
+ - Ζ
+ ζ  > 03
+ > a;
+ ^ £
+ Π3 ο;
+ _ E >
+ 3 E~
+
+ S «■
+ > c γ :
+ ¿ eu Λ
+ 0) a; .E
+ ï|i _
+ 5 c O oj '<» 03
+ u~, g>U CQ 5- o¿
+
+ U
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice 219
+
+ people compared with 52% of the same children in third grade (50% in
+ cross-sectional sample). With respect to Native Indians, 70% of kinder
+ garten children were prejudiced, compared with 45% of Grade 3 chil
+ dren in the cross-sectional sample. Thus, by Williams and Moreland's
+ (1976) definition, a considerable number of the younger children were
+ prejudiced toward both minority groups.
+
+ Multi-response Racial Attitude Measure (MRA). To evaluate more
+
+ closely the nature of age changes in prejudice, for the longitudinal sam
+ ple's positive and negative MRA scores, a 2 (Grade) X 3 (Evaluations of
+ White People, Black People, Native Indians) repeated measures multi
+ variate analysis of variance (MANOVA) was conducted. For both positive
+ and negative evaluations, there were significant interactions of grade
+ and race, F(2, 92) = 4.4, ρ < .025 and 5.1, ρ < .01. As verified by
+ Tukey HSD post-hoc tests (p < .05), positive evaluations of white people
+ did not change significantly with age but increased for evaluations of
+ black people and Native Indians (see Table 1). Conversely, negative
+ evaluations of white people increased with age but did not change for
+ evaluations of black people and Native Indians. As verified by analyses
+ of simple effects and Sheffé post-hoc tests (p < .05), kindergarten children
+ were significantly more positive to white than to black people or Native
+ Indians, and more negative to black people and Native Indians than
+ to white people, whereas by Grade 3, the three races did not differ
+ significantly in either positive or negative evaluations. Thus, attributes
+ counter to prejudice increased with age.
+
+ These interactions qualified significant main effects of grade, F( 1, 46)
+
+ = 13.9, ρ < .001, and 9.1, ρ < .01, and race, F(2, 92) = 29.2 and 34.9,
+ ρ < .001. Scores were higher in Grade 3 than in kindergarten. Children
+ were more positive to white people and negative to black people and
+ Native Indians (Sheffé ρ < .05). These results were replicated in the
+ cross-sectional sample (see Table 1).
+
+ The longitudinal MRA bias and counter-bias indices were subjected
+
+ to a 2 (Grade) by 2 (Target Minority Group: white/black [W/B], white/
+ Native Indian fW/NI]) MANOVA with repeated measures on both factors.
+ Both the W/B and W/NI bias scores increased slightly with grade F( 1, 46)
+ = 3.84, ρ = .056, though the Tukey HSD post-hoc tests indicated no
+ significant differences. There was more bias against black people than
+ Native Indians at both ages, F( 1, 46) = 10.9, ρ < .01.
+
+ Both the W/B and W/NI counter-bias scores increased significantly
+
+ with grade, F( 1, 46) = 14.5, ρ < .001, with no difference between the
+ W/B and W/NI measures, F( 1, 46) = 2.0, ns. Given these age changes,
+ which indicate that decreases in prejudice may reflect increases in coun
+ ter-bias attitudes rather than decreases in bias, a single MRA summary
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ measure was computed by subtracting the counter-bias index from the
+ bias index. A 2 (Grade) by 2 (Measure: W/B, W/NI) ANOVA indicated
+ that both the W/B and W/NI MRA summary scores decreased signifi
+ cantly with grade, F( 1, 46) = 9.28, ρ < .01, and that the W/B score was
+ higher than W/NI at both grades, F( 1, 46) = 9.23, ρ < .01. Similar age
+ changes in MRA scores were replicated with the cross-sectional sample.
+ Relations between PRAM and MRA scores. The W/B PRAM corre
+
+ lated significantly in kindergarten with W/B MRA bias (r = .43, ρ < .01),
+ but not W/B MRA counter-bias (r = .07) or the MRA summary score (r =
+ .18, ns). By third grade, the W/B PRAM correlated less with W/B MRA
+ bias (r = .26, ns) and somewhat more with W/B MRA counter-bias (r
+ = -.28, ρ = .05) and summary score (r = .43, ρ < .01). In the cross
+ sectional sample, third-grade W/B PRAM correlated significantly with
+ MRA counter-bias (r = -.48) and summary score (r = .52, ρ < .01), but
+ not with MRA bias, (r = .13, ns).
+
+ Neither the PRAM nor the MRA measures correlated significantly
+
+ from Time 1 to Time 2 in the longitudinal sample (r ranged from .02 to
+ .04, ns). Thus, changes in racial attitudes reflected predominantly devel
+ opmental level rather than stable individual differences, and an analysis
+ of covariance approach to assessing the relationship of change in PRAM
+ scores to change in MRA bias and counter-bias was precluded (Cohen
+ & Cohen, 1983). Instead, difference scores were calculated (Grade 3
+ minus kindergarten). For the PRAM and MRA counter-bias and summary
+ scores, 80% of the children showed reduced prejudice or no change
+ over time, with change ranging from 0 to -8 on the PRAM, 0 to 19
+ on MRA counter-bias, and 0 to —22 on MRA summary. In contrast,
+ for MRA bias, only 35% of scores decreased or stayed the same, range
+ 0 to —6. Decreases over time in the PRAM score in the longitudinal
+ sample correlated significantly with decreases in MRA bias (r = .38), ρ
+ < .01, with increases in MRA counter-bias (r = -.34), ρ < .01, and with
+ decreases in the MRA summary score (r = .52), ρ < .001.4
+
+ Conservation, Reconciliation, and Perceived Similarity
+
+ A MANOVA with repeated measures on grade confirmed longitudi
+ nal changes in the conservation and reconciliation scores. Conservation
+ scores increased dramatically with age, F( 1, 39) = 411.19, ρ < .001.
+
+ 4Only analyses comparing the W/B MRA measures to the PRAM and to measures
+ of cognitive skill are reported, because of substantial correlations between and similar
+ developmental patterns in the W/B and W/NI MRA scores (median r = .66 and .93 for bias
+ and counter-bias, respectively), and the fact that the W/NI PRAM was not administered in
+ Grade 3 in the longitudinal sample.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice
+
+ Conservation scores also increased significantly with age in the cross
+ sectional sample. Reconciliation scores increased significantly in the
+ longitudinal sample, where by third grade 67% reconciled on both items,
+ F( 1, 39) = 23.23, ρ < .001, and increased slightly in the cross-sectional
+ sample, F( 1, 82) = 3.30, ρ > .10.
+
+ Longitudinal similarity scores were entered into a 2 (Crade) X 2
+
+ (Between- vs. Within-Race Judgments) ANOVA with repeated measures
+ on both factors. Children perceived more similarity both between and
+ within race in grade 3 than in kindergarten, F( 1, 44) = 9.1, ρ < .01, and
+ at both ages perceived less between-race than within-race similarity,
+ F( 1, 44) = 132.1, ρ < .001, but there was no significant interaction.
+ Results for the cross-sectional sample were similar.
+
+ As with the attitude measures, except for within-race similarity (r =
+ .32, ρ < .05), correlations of the cognitive measures from Time 1 to Time
+ 2 were low and nonsignificant (median r = .09, ns). Thus, changes in
+ these measures again reflected predominantly developmental level rather
+ than stable individual differences and an analysis of covariance approach
+ was precluded (Cohen & Cohen, 1983). Difference scores were calcu
+ lated (Grade 3 minus kindergarten) to index changes over time. Only
+ change in perceived similarity between races was correlated significantly
+ with change in other cognitive measures, namely reconciliation (r = .31)
+ and conservation (r = .28), ρ < .05, one4ailed.5
+
+ Relations Between Prejudice and Cognitive Measures
+
+ The second principal objective of the study was to examine changes
+
+ in prejudice in relation to changes in conservation, reconciliation,
+ between-race similarity, and within-race similarity. For these analyses,
+ the three measures of prejudice which showed unidirectional change
+ toward greater tolerance along with reasonable variability were cho
+ sen: the B/W PRAM score, the MRA B/W counter-bias index and the
+ MRA B/W summary score. Pearson correlations (one-tailed) are shown
+ in Table 2. Declines in the PRAM score correlated significantly with
+ perceptions of greater similarity between race. Increases in MRA counter
+ bias were associated significantly with perceptions of greater similarity
+ between races and with increases in reconciliation. Decreases in the
+ MRA summary score were associated with increased perceived similarity
+
+ 5The two cohorts of Grade 3 children, from the longitudinal and cross-sectional
+
+ samples, were compared on the 15 attitude and social-cognitive measures via MANOVA.
+ The only significant differences were in reconciliation, F( 1, 85) = 17.6, ρ < .001; RAC
+ positive attitudes to white people, F( 1, 89) = 4.4, ρ < .05; and MRA B/W bias, F( 1, 89) =
+ 4.0, ρ = .05, where the longitudinal sample was slightly higher, as shown in Table 1.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ between races and decreased perceived similarity within racial groups.
+ A Bonferrone correction within each prejudice measure left the relations
+ of counter-bias with reconciliation and the summary with perceived
+ similarity between and within race significant.6
+
+ Because Katz et al. (1975) emphasized the relation of perceived
+ similarity within race to prejudice, associations between these variables
+ were examined in both kindergarten and Grade 3. Perceived within-race
+ similarity was associated positively with W/B PRAM scores at both ages
+ (r = .31 and .33, ρ < .05), with W/B bias in kindergarten, (r = .41,
+ ρ < .01), and with the MRA summary score in Grade 3 (r = .35, ρ <
+ .05). Perceived within-race similarity was associated negatively with W/B
+ counter-bias in third grade, (r = —.28, ρ = .05).
+
+ DISCUSSION
+
+ This study documents that prejudice is high in kindergarten and
+ decreases over the early years of middle childhood. Attitudes which
+ run counter to prejudice increase with age. At the same time, positive
+ evaluations of white people and negative evaluations of black people do
+ not change, but continue to exist along with the newly acquired counter
+ bias attitudes, providing a more differentiated set of racial attitudes.
+ Prejudice and counter-bias attitudes are each associated with several
+ changes in social cognitions, including for prejudice perception of more
+ similarity between races and less similarity within a race, and for counter
+ bias, perception of less similarity between races and greater acceptance
+ of racial differences in preference.
+
+ Age Changes in Prejudice
+
+ The high PRAM scores of the kindergarten children clearly negate
+
+ Allport's (1954) view that young children are tolerant. Moreover, their
+
+ ^Multiple regression analyses were conducted in addition, in which changes in the
+ PRAM, MRA counter-bias and MRA summary scores were predicted from changes in
+ perceived similarity within race, perceived similarity between races, and reconciliation,
+ entered simultaneously. PRAM was not predicted significantly, F(3, 36) = 0.21, ns. The
+ strongest predictor was perceived similarity between race with beta = —.28, ρ = .10. Both
+ counter-bias and the MRA summary score were predicted significantly, F(3, 36) = 3.13 and
+ 3.47, ρ < .05, with reconciliation contributing significantly to counter-bias, beta = .32, ρ
+ < .05, and perceived similarity within race and between race contributing significantly to
+ changes in the summary score, beta = .35 and -.33, ρ < .05, respectively. Because our
+ interest was in the prediction of changes in prejudice from changes in social-cognitive
+ skills taken individually rather than jointly, as a basis for selecting variables for further
+ research, bivariate correlations are presented in the text.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice
+
+ Table 2. Correlations of Prejudice Changes with Changes
+
+ in Cognitions for the Longitudinal Sample (n = 47)
+
+ d PRAM
+
+ d MRA Counter-bias
+
+ d MRA Summary
+
+ Similarity-between —.26*
+ Similarity-within .13
+ Reconciliation -.21
+ Conservation —.11
+
+ .26* -.30**
+ -.17 .32**
+
+ .34** -.17
+ .07 -.18
+
+ Note. PRAM, Preschool Racial Attitude Measure; MRA, Multi-response Racial Attitude
+ Measure; d, change in.
+ *p < .05. **p < .01, one-tailed.
+
+ apparent prejudice was not an artifact of the PRAM's restricted response
+ format or specific to a particular minority group; on the multiple-response
+ MRA measure, kindergartners expressed 50% more bias than counter
+ bias to both black people and Native Indians.
+
+ By third grade, prejudice scores were considerably lower, such that
+
+ half the third graders no longer were categorized as prejudiced on the
+ PRAM, and their bias and counter-bias MRA scores were more equal.
+ Thus, there is a clear decrease in prejudice with age, a conclusion
+ consistent with findings of several other studies (Bigler & Liben, 1993;
+ Doyle et al., 1988; Katz & Zalk, 1978; Williams et al., 1975).
+
+ The specific nature of age changes in children's racial attitudes is
+
+ evident from the age differences on the MRA measure, on which children
+ were free to choose both own- and other-group in their positive and
+ negative evaluations. Children showed a considerable increase with age
+ in counter-bias, that is, positive evaluations of outgroups and negative
+ evaluations of white people. In contrast, bias (i.e., positive evaluations
+ of own-group and negative evaluations of other groups) did not change
+ with age. Thus, although their ethnocentric bias does not decrease with
+ age, children acquire additional attitudes which run counter to prejudice
+ (e.g., they think black people possess some good qualities and white
+ people possess some bad qualities). Studies which show no change in
+ prejudice with age (e.g., Katz et al., 1975) may have utilized measures
+ which do not assess counter-bias evaluations.
+
+ The parallel declines in PRAM and MRA prejudice in the longitu
+
+ dinal and cross-sectional samples confirm the conclusion that previous
+ cross-sectional findings were due to developmental change not cohort
+ differences. In addition, the lack of stability over time in the longitudinal
+ measures indicates that racial attitudes, at least in kindergarten children,
+ likely reflect current developmental status rather than stable individual
+ differences.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ Correlations between the PRAM and the MRA scores indicated that
+
+ the PRAM may reflect different aspects of racial attitudes at different ages.
+ The PRAM appears primarily to tap bias at kindergarten and counter-bias
+ at Grade 3.
+
+ The Importance of Counter-bias
+
+ The MRA counter-bias index, reflecting attitudes running counter
+
+ to prejudice, shows clear developmental change and is significantly
+ related to changes in social-cognitive skills. Additional support for the
+ importance of counter-bias in prejudice comes from research by Devine
+ (1989) with young adults. Although all of Devine's subjects knew the
+ negative stereotype usually attributed to black people, low-prejudiced
+ subjects also possessed additional positive beliefs which allowed them
+ to inhibit their stereotype. Aboud (1993) reports additional data attesting
+ to the validity of the MRA counter-bias score as a measure of tolerance.
+ It is associated with several indices of peer relations in the multiracial
+ fifth-grade class; for example, inversely with sociometric rejection of
+ black people and reports of exclusively same-group chums. Third-grade
+ children may cognitively differentiate enough to possess positive eval
+ uations of minority group members and negative evaluations of white
+ people along with their biased pro-white/anti-minority evaluations. These
+ counter-bias evaluations then may allow older children to inhibit auto
+ matic biased evaluations during cross-race judgments and interaction.
+
+ One often cited explanation for the decline in prejudice with age is
+ that older children mask their true prejudices to please the interviewer
+ (e.g., Katz et al., 1975). Logically, social desirability concerns are most
+ likely to reduce negative evaluations of black people. However, in the
+ present study neither these attitudes nor those towards Native Indians
+ declined with age. Furthermore, Doyle et al. (1988) found no correlation
+ between prejudice and scores on the Crandall Children's Social Desir
+ ability Scale (Crandall, Crandall, & Katkovsky, 1965). Thus, it is unlikely
+ that developmental changes in socially desirable responding account for
+ the developmental changes observed in prejudice.
+
+ Sociocognitive Correlates of Age Changes in Prejudice
+
+ A more probably explanation for developmental changes in prej
+ udice is their relation to developing social-cognitive skills. However,
+ the lack of correlation between racial attitude change and changes in
+ conservation lends support to the idea that the former is not due simply
+ to overall cognitive development. Previous studies that report a relation
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice
+
+ between conservation and prejudice have been based on cross-sectional,
+ not longitudinal, differences (e.g., Clark et al., 1980).
+
+ The relation of prejudice changes to changes in specific social
+ cognitive skills, however, combined with the lack of individual stability
+ across time in racial attitudes does substantiate the underlying develop
+ mental nature of the phenomena. One relation was between increases
+ in MRA counter-bias evaluations and reconciliation. Children who im
+ proved in their understanding that different racial preferences could both
+ be correct had greater increases in attitudes that ran counter to prejudice.
+ These findings are consistent with other research linking perspective
+ taking and reconciliation to other domains of prosocial thought and be
+ havior (e.g., Underwood & Moore, 1982). Our findings support Piaget's
+ view that only when perspective-taking includes the reconciliation of
+ different perspectives is it accompanied by an understanding that there
+ may be some positive qualities in other groups worth liking. Additional
+ evidence is provided by the finding that second-grade reconciling chil
+ dren are more likely than younger ones to change their racial preference
+ ratings, making them less biased, following exposure to the preferences
+ of children of different races (Aboud, 1981). Thus, when children accept
+ the legitimacy of an outgroup child's preferences, it directly affects their
+ own preferences.
+
+ Perception of between-race similarity, which increased with age as
+ expected, was related to declines in the PRAM and MRA summary score
+ and to increases in the MRA counter-bias score. Thus, the developmental
+ tendency to perceive greater similarity between minority-group members
+ and white people may be an important factor in seeing positive qual
+ ities in the other group, and thus, contributing to prejudice reduction at
+ this age.
+
+ Perception of within-race similarity, which was expected to decrease
+
+ with age, instead increased. These results are not inconsistent with Katz
+ et al. (1975), who found within-race similarity in second through sixth
+ graders to decrease only between fourth and sixth grade, suggesting that
+ attention to individual differences may develop later than the ages tested
+ here. It is also possible that the present findings are due to the particular
+ stimulus materials used. Katz et al. (1975) employed drawings and pho
+ tographs identical except for single facial expressions or facial features,
+ whereas we used photographs of actual children. With increasing age the
+ common racial group label may have contributed to what Katz referred to
+ as an "acquired equivalence of racial cues" (p. 142). Whether perceived
+ similarity within racial group increases or decreases with age appears to
+ be dependent on the ages of the children and the nature of the stimuli
+ being judged.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ In the present study, associations between changes in perceived sim
+
+ ilarity within race and racial attitudes were in the predicted direction but
+ were significant only for the MRA summary score. In contrast, changes
+ in perceived between-race similarity were significantly associated with
+ all three developmental measures of racial attitudes, and thus, as pre
+ dicted, were more important in accounting for developmental changes
+ in racial attitudes.
+
+ Perceived similarity within race was associated with racial attitudes
+ at both ages analyzed separately. That is, children who rated same-race
+ members as more similar to each other tended to have higher prejudice
+ as measured by the PRAM at both ages, by bias at kindergarten, and by
+ the MRA counter-bias and summary scores at Grade 3. It is noteworthy
+ that within-race perceived similarity was the one social-cognitive mea
+ sure that was individually stable from kindergarten to Grade 3. These
+ results support Katz and Zalk's (1978) conclusion that perceptual dif
+ ferentiation within race is an important individual difference relevant
+ to prejudice, even in young children. The extent to which correlates
+ of racial attitudes reflect developmental status versus stable individual
+ differences may be relevant to the choice of foci and ages at which to
+ institute efforts to reduce prejudice.
+
+ In conclusion, this study documents that age-related decreases in
+
+ prejudice primarily reflect increases in attitudes that run counter to prej
+ udice rather than a reduction in ingroup bias per se. These changes are
+ primarily developmental in nature and related to social-cognitive growth;
+ between kindergarten and Grade 3 prejudice is not a stable individual
+ difference.
+
+ REFERENCES
+
+ ABOUD, F. E. (1981). Egocentrism, conformity, and agreeing to disagree. Developmental
+
+ Psychology, 17, 791-799.
+
+ ABOUD, F. E. (1988). Children and prejudice. New York: Basil Blackwell.
+
+ ABOUD, F. E. (1993). A fifth grade program to reduce prejudice. In K. McLeod (Ed.),
+ Multicultural education (The State of the Art National Study, Report #1). Toronto:
+ University of Toronto, Faculty of Education.
+
+ ABOUD, F. E., & MITCHELL, F. G. (1977). Ethnic role taking: The effects of preference
+
+ and self-identification. International Journal of Psychology, 12, 1-17.
+
+ ALLPORT, G. W. (1954). The nature of prejudice. Cambridge, MA: Addison-Wesley.
+
+ BIGLER, R., & LIBEN, L. (1993). A cognitive-developmental approach to racial stereotyping
+
+ and reconstructive memory in Euro-American children. Child Development, 64, 1507
+ 1519.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ Racial Prejudice
+
+ BRANCH, C. W., & NEWCOMBE, N. (1986). Racial attitude development among young
+ Black children as a function of parental attitudes: a longitudinal and cross-sectional
+ study. Child Development, 57, 712-721.
+
+ BROWN, G., & JOHNSON, S. P. (1971). The attribution of behavioural connotations to
+
+ shaded and white figures by Caucasian children. British Journal of Social and Clinical
+ Psychology, 10, 306-312.
+
+ CLARK, Α., HOCEVAR, D., & DEMBO, Μ. H. (1980). The role of cognitive development
+
+ in children's explanations and preferences for skin color. Developmental Psychology,
+ 16, 332-339.
+
+ COHEN, J. Α., & COHEN, P. (1983). Applied multiple regression/correlation analyses for
+
+ the behavioral sciences (2nd ed.). Hillsdale, NJ: Erlbaum.
+
+ CORENBLUM, B., & ANNIS, R. C. (1987). Racial preference and identity in Native and
+
+ White Canadian children. Canadian Journal of Behavioural Science, 19, 254-265.
+
+ CRANDALL, V. G„ CRANDALL, V. )., & KATKOVSKY, W. (1965). A children's social
+
+ desirability questionnaire. Journal of Counseling Psychology, 29, 27-36.
+
+ DAVIDSON, F. N. (1976). Ability to respect persons compared to ethnic prejudice in
+
+ childhood. Journal of Personality & Social Psychology, 34, 1256-1267.
+
+ DEVINE, P. (1989). Stereotypes and prejudice: Their automatic and controlled components.
+
+ Journal of Personality and Social Psychology, 56, 5-18.
+
+ DOYLE, A. B., BEAUDET, J., & ABOUD, F. E. (1988). Developmental patterns in the
+ flexibility of children's ethnic attitudes. Journal of Cross-Cultural Psychology, 19, 3-18.
+
+ GULKO, J., DOYLE, A. B„ SERBIN, L., & WHITE, D. (1988). Conservation skills: A repli
+
+ cated study of order of acquisition across tasks. Journal of Genetic Psychology, 149,
+ 425-440.
+
+ HOLLINGSHEAD, A. B. (1975). Four-factor index of social status. Unpublished manuscript,
+
+ Yale University.
+
+ KATZ, P. A. (1976). The acquisition of racial attitudes in children. In P. A. Katz (Ed.),
+
+ Towards the elimination of racism. New York: Pergamon Press.
+
+ KATZ, P. Α., SOHN, M., & ZALK, S. R. (1975). Perceptual concomitants of racial attitudes
+
+ in urban grade-school children. Developmental Psychology, 11, 135-144.
+
+ KATZ, P., & ZALK, S. (1978). Modification of children's racial attitudes. Developmental
+
+ Psychology, 14, 447-461.
+
+ KOHLBERG, L. (1969). Stage and sequence: The cognitive-developmental approach to
+
+ socialization. In D. A. Goslin (Ed.), Handbook of socialization theory and research.
+ Chicago: Rand McNally.
+
+ LINVILLE, P., FISCHER, G. W., & SALOVEY, P. (1989). Perceived distributions of the
+ characteristics of ingroup and outgroup members: Empirical evidence and a computer
+ simulation. Journal of Personality and Social Psychology, 57, 165-188.
+
+ MESSICK, D. M., & MACKIE, D. M. (1989). Intergroup relations. Annual Review of Psy
+
+ chology, 40, 45-81.
+
+ NAGATA, D. K. (1985). The relationship between ethnic attitude and egocentrism mea
+
+ sures. Journal of Genetic Psychology, 146, 151-160.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+ MERRILL-PALMER QUARTERLY
+
+ PIAGET, )., & WEIL, Α. M. (1951 ). The development in children of the idea of the homeland
+
+ and of relations to other countries. International Social Science journal, 3, 561-578.
+
+ RAMSEY, P. (1991). The salience of race in young children growing up in an ail-White
+
+ community. Journal of Educational Psychology, 83, 28-34.
+
+ TABACHNICK, B., & FIDELL, L. (1989). Using multivariate statistics (2nd ed.). New York:
+
+ Harper.
+
+ UNDERWOOD, B., & MOORE, B. (1982). Perspective-taking and altruism. Psychological
+
+ Bulletin, 91, 143-173.
+
+ WEINHEIMER, S. (1972). Egocentrism and social influence in children. Child Development,
+
+ 43, 567-578.
+
+ WILLIAMS, J. E„ BEST, D. L„ BOSWELL, D. Α., MATTSON, L. Α., & CRAVES, D.J. (1975).
+
+ Preschool Racial Attitude Measure II. Educational and Psychological Measurement, 35,
+ 3-18.
+
+ WILLIAMS, J. E., & MORLAND, J. K. (1976). Race, color, and the young child. Chapel
+
+ Hill: University of North Carolina Press.
+
+This content downloaded from 139.18.244.34 on Tue, 26 May 2020 09:53:25 UTC
+
+All use subject to https://about.jstor.org/terms
+
+

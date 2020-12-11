@@ -1,0 +1,1201 @@
+Developmental  Psychology
+1996. Vol. J.2, No.  1,70-78
+
+Copyright  1996 by the American  Psychological  Association,  Inc.
+0OI2lfi49/96/$")O0
+
+Cognitive Factors and Family Structure Associated With Theory of
+
+Mind Development in \bung Children
+
+Jennifer M. Jenkins and Janet Wilde Astington
+
+University of Toronto
+
+Factors associated with individual variation in false belief understanding were examined.  Sixty-eight
+3- to  5-year-olds were  tested  on  4  standard  false  belief tasks. General  language  ability  and  verbal
+memory  were found  to be significant  predictors of false  belief understanding  after  the effects  of age
+were partialled out, but nonverbal memory was not. There was evidence for a threshold effect in that
+children  did  not  pass false  belief tasks before  they  reached  a certain  level of linguistic  ability.  False
+belief scores  were  higher  in  children  from  larger  families,  after  the  effect  of age and  language  had
+been  partialled  out.  Family  size  was  more  strongly  associated  with  false  belief  understanding  in
+children who were less competent linguistically, suggesting that the presence of siblings can compen-
+sate for slower language development in developing false belief  understanding.
+
+The past  10 years have seen rapid growth of a new field of
+developmental  research, known  as children's theory  of mind,
+which investigates the development of children's ability to un-
+derstand human activity by the attribution  of mental states to
+people  (Astington,  1993).  Some  time  during  the  preschool
+years children acquire the folk psychological understanding that
+people generally act in accordance with their desires and beliefs,
+that is, they act to fulfill their desires in the light of their beliefs.
+An important stage in the development of this understanding is
+reached when children recognize that people may act in a way
+that frustrates  their desire because their belief is false. For ex-
+ample, they may look in the wrong place for a desired  object
+because that is where they think they will find the object.
+
+The acquisition of false belief understanding around 4 years
+of age is a highly robust, much-replicated finding (Astington &
+Gopnik,  1991; Perner, Leekam, & Wimmer,  1987). Moreover,
+children's performance on false belief tasks correlates with their
+performance on a number of other "theory of mind" tasks, such
+as memory of their own earlier mistaken beliefs, understanding
+of the appearance-reality distinction, and recognition of the rel-
+ative certainty implied by use of the term  know over think or
+guess (Gopnik  & Astington,  J988; Moore,  Pure,  & Furrow,
+1990). For these reasons, false  belief understanding  has been
+taken as a hallmark of the acquisition of a representational the-
+ory of mind.
+
+So far, the emphasis in the field has been on describing the
+age-related changes in such understanding, with little attention
+being given to individual differences  in children's performance
+on false belief tasks. By examining individual differences we can
+
+Jennifer  M.  Jenkins  and  Janet  Wilde  Astington,  Institute  of  Child
+
+Study, University of Toronto, Toronto, Ontario, Canada.
+
+We are grateful  to the children  for their participation  in the study, to
+Melanie Mann and Barb Burkholder for data collection and coding, and
+to the National Sciences and Engineering Research Council  of Canada.
+Correspondence concerning this article should be addressed to either
+author at the Institute of Child Study, University of Toronto, 45 Walmer
+Road, Toronto, Ontario, Canada  M5R  2X2.
+
+70
+
+gain insights into how false belief understanding relates to other
+areas of cognitive and social development. For instance, on the
+basis of the work of Dunn and her colleagues, we know that false
+belief understanding is related to patterns of interaction within
+the  family  as well as to the  child's discourse (Dunn,  Brown,
+Slomkowski, Tesla, & Youngblade, 1991).
+
+The goals of the present study were twofold. The first goal was
+to  examine  whether  cognitive  processes  {language  and
+memory)  were  related  to  false  belief  understanding.  On  the
+whole investigators of theory of mind development in  normal
+children have not focused their empirical investigation on how
+false  belief understanding  relates to the development  of other
+cognitive skills. In atypical populations there is evidence to sug-
+gest that linguistic ability and theory of mind understanding are
+associated with one another. Children with autism show delayed
+or deviant language development and generally perform  poorly
+on theory  of  mind  tasks (Frith,  1989; Tager-Flusberg,  1993).
+Those autistic children who do pass false belief tasks also score
+higher on a number of measures of linguistic skill than autistic
+children who fail these tasks (Eisenmajer & Prior, 1991).
+
+The  relationship  between  language  and  false  belief  under-
+standing can be conceptualized  in a number of different ways.
+Some researchers have argued that false belief tasks are linguis-
+tically complex,  and that  children  can  understand  them  only
+after they reach a certain level of linguistic skill (Chandler, Fritz
+&Hala,  1989;Freeman,Lewis,&Doherty,  1991;Siegal&Beat-
+tie,  1991). Chandler and his colleagues suggest such a possibil-
+ity when they say that Wimmer and Perner's (1983) false belief
+task "conflates the actual capacity to entertain beliefs about be-
+liefs with the altogether different  ability to comment on this un-
+derstanding" (Chandler et al.  1989, p.  1265). Indeed, experi-
+mental manipulations that lessen the linguistic load on young
+children, result in a greater proportion of young children pass-
+ing false belief tasks (Freeman ctal., 1991). One possibility sug-
+gested by this work is that language plays an important role in
+whether children can perform  the tasks, but bears no relation-
+ship to underlying competence. Fodor (1992) has argued that a
+simple belief-desire  theory  of  mind  is innate, but  because of
+
+THEORY  OF  MIND  DEVELOPMENT
+
+71
+
+limited processing capacity children  younger than  4 years use
+heuristic  shortcuts  in  attempting  to  solve  false  belief  tasks.
+Thus, the child's theory of mind undergoes no alteration over
+time—the reason that children pass tasks around age 4 is be-
+cause performance abilities develop.
+
+Others argue that false belief understanding and language are
+related  to  one another  at  a  more  fundamental  level.  For  in-
+stance, Plaut and Karmiloff-Smith  (1993) argue that children's
+increasing ability to generate and use symbolic representations
+explains their improvement in performance on theory of mind
+tasks as they get older. With age, symbolic representations be-
+come sufficiently elaborated and well-differentiated  so that they
+can override interpretations that arise from direct experience.
+Language provides "particularly  effective  scaffolding  for sym-
+bolic representations" (Plaut & Karmiloff-Smith,  1993, p. 70).
+Relatedly, Feldman (1988) discusses the intrinsic relationship
+between language and theory of mind development in terms of
+the development of recursion.
+
+Researchers have also hypothesized that "processing capac-
+ity" may be related to false belief understanding. For instance
+Chandler has suggested that the tasks are too "computationally
+complex" for 3-year-olds (Chandler etal., 1989, p. 1266). Frye,
+Zelazo, and Palfai (1992) argue that performance on false belief
+tasks depends on children's ability to make inferences using em-
+bedded rules, and suggest that the development  of this ability
+depends on increased processing resources. Some have opera-
+tionalized this more specifically  in terms of memory  function-
+ing. For instance, Case (1989) and  Olson  (1993) both  argue
+that the acquisition  of false  belief understanding is related  to
+increases in children's working memory capacity.
+
+Although there has been a lot of supposition about the kinds
+of cognitive abilities that might be necessary for children to be
+able to pass false belief tests, there has been little investigation
+of how these abilities co-vary in the real world with false belief
+understanding in normal children.
+
+Our second aim was to investigate Perner, Ruffman, and Lee-
+kam's (1994) finding that larger family  size is associated with
+an earlier acquisition of false belief understanding. Perner et al.
+showed that in a sample of seventy-six 3- to 4-year-olds, children
+with two siblings were almost twice as likely to pass a standard
+false belief task as only children were. If language functioning is
+related  to false belief understanding as we hypothesize above,
+then  the  association  between  false  belief  understanding  and
+family size that Perner et al. find, may be accounted for by in-
+creased linguistic ability of children in larger families. Perner et
+al. were not able to investigate this possibility because they had
+no measure of children's linguistic and cognitive abilities apart
+from  their  performance  on the false  belief test. We were also
+interested in whether family size affects the acquisition of false
+belief understanding to a similar degree across age and linguistic
+ability. It could be hypothesized that the presence of siblings is
+particularly  important  in  encouraging the acquisition  of  false
+belief understanding in young children or less linguistically able
+children, making less difference as children get older.
+
+Participants
+
+Method
+
+were drawn  from  one daycare and  one nursery  school affiliated  with
+the University of Toronto. Both of these centers serve a well-educated
+middle-class  community.  Sixty-nine  children  were recruited  for  the
+study. Language data were missing for one child, due to absence from
+school. Consequently 68 children were included in the study; this rep-
+resents 85% of eligible children. All children spoke English fluently al-
+though for  10 children English was their second language. Twenty-two
+children  were only children,  32 children had one sibling,  13 children
+had two siblings and  1  child had three siblings. Thirty-eight  children
+were first-born children, 24 were second-born, 5 were third-born, and  1
+was the fourth-bom  child. Thirty-two children were girls, 36 children
+were boys.
+
+Procedure
+
+False belief tasks.  Four  different  false  belief  tasks were given  in
+counterbalanced order. Two were simple versions of the standard change
+in location paradigm (Wimmer & Perner, 1983). The stories were acted
+out for the children using toys. For example, a boy doll put a ball in a
+box and went away. While he was gone his sister took it out, played with
+it, and put it away in a basket. Then the boy returned and wanted to play
+with the ball. The children were asked where he would look for it. Two
+control questions were given to check that children  remembered both
+the original location and the new, actual location of the ball. The other
+two tasks involved something unexpected (Perner et al., 1987). In one
+of these tasks, children were shown a bandaids box and asked what was
+inside (unexpected contents). After they said it had bandaids in it they
+were shown that it actually contained pencils. The pencils were put back
+inside the box and the children were asked what another child, who had
+not  seen  inside the box, would think  was inside it before opening it.
+The other "unexpected" task used the picture book from Gopnik and
+Astington (1988) in which a partial view of what appear to be cat's ears
+are actually the petals of a flower (unexpected  picture). The children
+were asked what another child, who saw only the partial view, would
+think it was, before seeing the whole picture. For each task the child was
+given a  score of 0 (fail)  or  I (pass). A false  belief score was derived
+which is the total for all four tasks.
+
+General language ability.  The Test of Early Language Development
+(TELD) was used to assess the children's overall language development.
+Syntactic and semantic abilities, in both expressive and receptive forms,
+are assessed through responses to questions and pictures (Hresko, Reid,
+& Hammill, 1981). The test has been standardized on children between
+3 and 7 years. Good test-retest reliability and internal consistency have
+been established. The children's raw scores were used in the analyses.
+
+Verbal memory.  The sentence memory measure of the Stanford-Bi-
+net  was used. The experimenter reads a sentence to the child  who is
+asked to say it back to the experimenter. Sentences increase in length
+and complexity; testing stops after  four  consecutive failures. The raw
+score was used in all analyses.
+
+Nonverbal memory  The bead memory measure of the Stanford-Bi-
+net  was  used  to  examine  nonverbal  working  memory.  Children  are
+asked to  look  at a picture  of a pattern  of beads and then to recreate
+this pattern with actual beads once the picture has been removed. The
+patterns increase in complexity and number of beads; testing stops after
+four consecutive failures. The raw score was used in all analyses.
+
+Family size and birth order.  On  the  consent  form,  parents were
+asked to give the ages of the child's brothers and sisters, if he or she had
+any siblings.
+
+Results
+
+False Belief  Understanding
+
+Children between 2 years 11 months and 5 years 5 months were re-
+cruited for the study {M = 49.2 months, SD = 7.8 months). Children
+
+It  is  initially  important  to  examine  the  pattern  of  scores
+across the different  false  belief tasks. Agreement  between the
+
+72
+
+JENKINS  AND  ASTINGTON
+
+two change in location tasks was 96%. Agreement between the
+other two tasks, involving something unexpected, was lower at
+88%.  Agreement  across  the  two  different 
+types  of  task
+(unexpected  task vs. change in location) ranged  from  71% to
+77%. For instance, 29% of children passed one task but not an-
+other when scores from the unexpected picture task were com-
+pared  with  scores  from  one of the change  in  location  tasks.
+Thirty-seven  percent of the total sample  passed 4 tasks, 10%
+passed  3 tasks,  16% passed 2 tasks,  10% passed  one task and
+27% did not pass any tasks. Fifty-five  percent of the tasks were
+passed overall. The observed distribution was found to be sig-
+nificantly  different  from  the distribution  expected  by chance
+(withapassrateof55%),x2(4,Ar=68)=  155,p< .001. Thus,
+children were not simply guessing on false belief tasks.
+
+Ninety-seven percent of control tasks were passed by the chil-
+dren. This indicates that children  were able to remember the
+facts of the stories that were read to them, (e.g., where the ball
+was at first, where it was moved to, etc.). Given that virtually all
+control questions were passed this was not entered as a covariate
+in any analyses. In preliminary analyses we examined the effect
+of sex on false  belief  understanding,  general  language ability,
+and verbal and nonverbal memory. Sex of the child was not sig-
+nificantly associated with any variables and was not entered in
+any subsequent analyses.
+
+To examine whether any one task was harder than  another,
+we carried out three multivariate repeated measures analyses of
+variance with general language ability, nonverbal memory and
+age as the between-subjects  variable in each analysis, and the
+four false belief tasks as the within-subjects variable. Pillais F is
+reported for all analyses. A median split was carried out to cre-
+ate a high and low category for general language ability, nonver-
+bal memory and age. If one task was harder than  another, we
+would expect a main effect  for task. If one task  required more
+language, memory or greater age than  another then we would
+expect  a significant  interaction  between  the between-subjects
+variable (language, nonverbal memory or age) and the within-
+subjects  variable  (false  belief  task).  When  general  language
+ability was the between-subjects  variable, the main  effect  for
+task was not significant, ^(3,64)  = 1.62,p< .19. The interac-
+tion between language and task was not significant, F(3, 64) =
+.61, p < .63). When nonverbal memory was the between-sub-
+jects variable, the main effect  for task was not significant, _F(3,
+64) =  1.66, p <  .19. There was no significant  interaction be-
+tween  nonverbal  memory and task, F(3, 64) =  .93, p  <  .42.
+When age was the between-subjects variable, the main effect for
+task was not significant, F{3, 64) = 1.58,p< .20. There was no
+significant interaction between age and task: F( 3, 64) = 2.09, p
+<  . 11. Consequently, there was no evidence that one task was
+more  difficult  than  another,  and  no  evidence  that  one task
+needed  higher levels of general  language  ability  or  nonverbal
+memory capacity in order to pass it. Similarly, no one task was
+passed at an earlier age than another task.
+
+In this study our intention was to use a summed measure of
+the false belief scores as the outcome variable. We can only ar-
+gue that some common underlying skill is being measured, and
+that this is reflected in a measure which is a summation of four
+tasks, if the intercorrelation  between different  tasks is strong.
+When these four tasks are summed the internal consistency of
+the measure is high (a = .85). The total score on all four  false
+
+Table I
+Means and Standard Deviations of Age, False Belief
+Understanding, Language, Memory, and Family
+Structure Variables (N = 68)
+
+Variable
+
+Age
+False belief understanding
+General language ability (Test of Early
+
+Language Development)
+
+Verbal memory
+Nonverbal memory
+Family size
+Birth order
+
+M
+
+49.20
+2.21
+
+19.72
+17.25
+11.51
+1.90
+1.54
+
+SD
+
+7.80
+1.65
+
+7.28
+4.10
+4.11
+0.76
+0.70
+
+belief tasks is the measure  used  throughout the remainder of
+this article. The mean and standard deviation for this total false
+belief score, and for general  language ability,  verbal  memory,
+nonverbal memory, family size, birth order, and age can be seen
+in Table 1.
+
+Relationship  Between  False Belief  Understanding, Age,
+and  Cognitive  Abilities
+
+Our first aim was to examine the cognitive abilities associated
+with  false  belief  understanding.  We  wanted  to  determine
+whether the language or memory measures account for variance
+in false belief understanding after  the effects  of age have been
+partialled out.
+
+Table 2 gives the Pearson product  moment correlations be-
+tween the false belief test score, age, the measure of general lan-
+guage  ability  (TELD),  verbal  memory,  nonverbal  memory,
+family size, and birth order. Only 1 child had three siblings, and
+all of them were older. In order that this child did not influence
+the results for both family size and birth order unduly, her fam-
+ily size and birth order were both rescaled to 3. Analyses were
+run with the rescaled variables and the raw score variables, and
+there was little  difference  in the results. The results with the
+rescaled variables are presented. Results related to family size
+and birth  order are discussed  later in this article. False belief
+understanding was found to be significantly associated with age,
+general language ability, verbal memory, and nonverbal mem-
+ory. Given the established  correlation  of these variables with
+age, it was important to determine whether these language and
+cognitive measures remained associated with false belief under-
+standing after taking account of the effects of age. In order to do
+this partial correlations were carried out. Results of this analysis
+can be seen in the lower half of Table 2. After the variance in
+false belief understanding that is attributable to age is taken into
+account,  general  language ability  and verbal  memory  remain
+significantly associated with false belief understanding, but non-
+verbal memory does not.
+
+General  language  ability  and the verbal  memory  measure
+show similarly strong relationships with false belief understand-
+ing. Hierarchical multiple regression analysis was used to deter-
+mine whether these two different types of language measure ex-
+plained unique variance in false belief understanding after the
+effect  of age was partialled out. In the first analysis with  false
+
+THEORY  OF  MIND  DEVELOPMENT
+
+73
+
+Table 2
+Pearson Correlations of False Belief Understanding, Age, General Language Ability,  Verbal
+Memory, Nonverbal Memory, Family Size, and Birth Order (N= 68)
+
+Variable
+
+False belief
+
+understanding
+
+Age
+
+General
+language
+ability
+
+Verbal
+memory
+
+Nonverbal
+memory
+
+Family
+
+size
+
+Age
+General language ability
+Verbal  memory
+Nonverbal  memory
+Family size
+Birth order
+
+.64***
+.64***
+.61***
+,49***
+.46***
+.30*
+
+.69***
+.65***
+.60***
+.17
+.22
+
+.76***
+.60*M
+.27*
+.23
+
+.55***
+.21
+.20
+
+Partial correlation after effect of age is partialled out
+
+.21
+.11
+
+.76***
+
+General language ability
+Verbal memory
+Nonverbal  memory
+
+.35**
+.33**
+.18
+
+*p<m.  ***p<.oo\.
+
+belief understanding as the criterion  variable, age was entered
+first, followed  by the measure of general language ability, fol-
+lowed by the measure of verbal memory. The measure of gen-
+eral language ability accounted for a further 7% of the variance
+in false belief understanding after age had been entered into the
+regression first, but verbal  memory  did not account  for any
+unique variance after  age and general  language had been en-
+tered. When the language variables were entered in the opposite
+order, with  verbal  memory  being entered  before  general lan-
+guage ability, verbal memory accounted for 6.5% ofthe variance
+in false belief understanding after age had been entered, but gen-
+eral language ability did not predict any further variance. Thus,
+just one ofthe  language measures is sufficient  to take account
+ofthe effects of language on false belief understanding.
+
+Saying that language accounts for 7% ofthe  variance in false
+belief test scores, underestimates the real relationship between
+false belief understanding and language ability. As age and lan-
+guage strongly co-vary, r(68) =  .69, much  ofthe  variance in
+false  belief  understanding  accounted  for by age will  also be
+shared by language. By putting age into the regression first, the
+shared variance will be taken up by age. If, on the other hand,
+we enter general language ability into the regression first, it ac-
+counts for 41% ofthe  variance in false belief understanding. A
+further  8% of the variance in false belief understanding is ac-
+counted for by adding age into the equation.
+
+In order to determine whether there was a threshold of lan-
+guage ability necessary for passing false belief tasks, we plotted
+language scores against false belief scores. The scatterplot can
+be seen in Figure  1. A sharp threshold can be seen in this plot.
+For children who passed one or more false belief tasks, 49 out
+of 50 children (98%) had a general language score of 14 or over.
+For those children who did not pass any tasks, 67% (12 out of
+18) had a general language score under  14 with a further 33%
+(n = 6) scoring over  14. A chi-square analysis was carried out
+to determine whether children above this threshold were more
+likely to pass false belief tasks than children below this language
+threshold. The chi-square was highly significant,  %2(UN=6S)
+=  35.7, p  <  .0001,  demonstrating  that  children  above  this
+
+threshold were much more likely to pass false belief tasks than
+children below the threshold.
+
+To examine  whether  language  ability  was associated  with
+false belief understanding once this threshold was reached, we
+calculated  the correlation  between  false  belief  understanding
+and language only on those children who were above the thresh-
+old on language. Language remained associated with false belief
+understanding, r(55) = .49, p<  .001, in this group of children,
+although it fell just below significance  once age was partialled
+out, r = .20, p < .07. These data demonstrate that children do
+need a certain level of language ability to pass the false belief
+tasks, but a weak association between language and false belief
+understanding is evident even after this threshold is reached. By
+carrying out this partial correlation only on children who have
+reached a certain level of language ability we reduce the range
+on the language variable, making it less likely that a significant
+correlation will be evident. The fact  that  a weak  relationship
+between language ability and false belief understanding is pres-
+ent under these conditions, suggests that the link between the
+two is more fundamental than that of a performance constraint.
+
+Relationship Between False Belief Understanding, Age,
+Language Ability, Birth Order, and Family Size
+
+Our  second aim was to determine  whether the association
+between children's false belief  understanding and their  family
+size, recently reported by Perner et al. (1994), can be explained
+by the linguistic abilities of the children. Correlations between
+these variables can be seen in Table 2. Family size is positively
+related to false belief understanding and weakly, but also posi-
+tively, to language  ability.  Children  with  more  siblings show
+higher levels of false belief  understanding and higher levels of
+general language ability. The question that we were interested in
+answering was whether family size was significantly  associated
+with  false  belief  understanding  after  taking into  account the
+children's age and language ability. Given the pattern of corre-
+lation of these variables it is possible that the univariate rela-
+tionship between false belief understanding and family size can
+
+74
+
+JENKINS  AND  ASTINGTON
+
+35 +
+
+30 +
+
+25 +
+
+20 +
+
+15 +
+
+10 +
+
+5 +
+
+0 +
+
+Figure 1.  Plot of scores (68 cases plotted) on Test of Early Language Development (TELD) with scores
+on false belief test. Numbers on the scatterplot refer to the number of cases sharing the same values.
+
+False  Belief
+
+be accounted  for  by linguistic ability. Given  that  birth  order  is
+also positively associated with family size and to a small degree,
+language ability, it is important  to control  for  this effect  before
+entering  family  size into the regression.  In order to  determine
+whether family size is associated with false belief understanding
+after  accounting  for  age,  language  ability,  and  birth  order  we
+carried  out a hierarchical  multiple regression. Age was entered
+into the regression first, language ability second, birth order was
+entered third, and family size last.
+
+The results of this analysis can be seen in Table 3. After  Step
+4 when all independent variables were in the equation,  multiple
+R  =  .77, F(4,63)  = 23.5, p< .001. After Step  1  with age in the
+equation,  R2  =  .41, F ( l,  66)  = 46.4, p < .001. After  Step 2
+with  age  and  language  in  the  equation,  there  was a significant
+increase in R2,R2  = .49, Fiac(  1,65)  -  9.3,p <  .003. After  Step
+3 when birth order was entered  into the equation, there was no
+significant  increase in R2. After Step 4 with age, language, birth
+order, and family  size in the equation, there was again a signifi-
+cant  increase in R2, R2 = .60,  Finc(  1, 63)  =  15.2, p <  .001.
+Family size is a significant  predictor  of false belief  understand-
+ing, after  the effects  of age and  language  ability  have been  par-
+tialled out, but birth order is not.
+
+We examined  whether the  effect  of family  size is stronger  in
+children who are less linguistically  advanced  or  younger.  A hi-
+
+erarchical regression analysis was carried out with variables be-
+ing  entered  in the  following  order:  age,  language,  family  size,
+and the interaction  terms: Family Size X Language and  Family
+Size X Age. With age, language, and family size in the  equation
+R2  =  .58.  The  Family  Size  X  Language  interaction  term  in-
+creased-/?2 to .61, which was a significant increase in R2,  Finc(  1,
+63) =  5.0, p < .03. On the last step when Family Size X Age was
+entered  into  the equation,  there  was no  significant  increase  in
+R\  Fi n c(l,62)  = 0.01, p<.  93.
+
+To illustrate  the  meaning  of  the  interaction  between  family
+size and language ability, we carried  out a  median  split on  lan-
+guage ability to create groups of children with higher and lower
+linguistic  abilities.  The  means  for  total  false  belief  score  as a
+function  of language ability and family size are as follows for the
+low language group: no  sibs(/i  = 13) M—  0.31,  1  sib (n  =  15)
+M  =  1.4,  2 sibs (n  = 4) M = 3.2. The means  for  children  with
+high  language  ability  are: no  sibs (n  = 9) M =  2.9,  1 sib (n  —
+17) M =  2.9,2  sibs (n  =  10) M = 3.6. The presence  of siblings
+is  more  strongly  associated  with  false  belief  understanding in
+children with  lower levels of language ability, than it is in chil-
+dren with higher levels of language ability.
+
+One  might  expect  that  older  siblings  would  have a  greater
+effect  on  the  development  of false  belief  understanding  than
+younger  siblings.  Perner  et al.  (1994)  found  a  nonsignificant
+
+THEORY  OF MIND  DEVELOPMENT
+
+75
+
+Table 3
+Summary of Hierarchical Regression Analysis Examining the
+Predictors of False Belief Understanding (N = 68)
+
+Step/variable
+
+B
+
+SEB
+
+Stepl
+Age
+Step 2
+Age
+Language
+
+Step 3
+Age
+Language
+Birth order
+
+Step 4
+Age
+Language
+Birth order
+Family size
+
+.14
+
+.08
+.08
+
+.08
+.08
+.33
+
+.09
+.06
+-.58
+1.11
+
+.02
+
+.03
+.03
+
+.03
+.03
+.23
+
+.02
+.03
+.31
+.29
+
+**p<.0\.  ***p<.00\.
+
+0
+
+.64
+
+.39
+.37
+
+.37
+.35
+.13
+
+.42
+.27
+-.23
+.49
+
+Change in
+
+R2
+
+.41***
+
+.07**
+
+.02
+
+.10***
+
+trend in this direction, and noted that in Light's (1979) study,
+children with older siblings performed  significantly  better on a
+role-taking task than did those with younger siblings. However,
+in the present study the lack of effect of the birth-order variable,
+once age and language ability are controlled for, suggests that it
+does not matter whether siblings are older or younger than the
+target child. In order to confirm  this, we examined false belief
+scores in children  with only one sibling. Sixteen children had
+an older sibling and  16 children  had a younger sibling. Sibling
+position was entered  into an analysis of covariance, with  false
+belief as the outcome variable, and controlling for the effect of
+age prior to examining the main effect  of sibling position. Sib-
+ling position  was not found to be associated with  false belief,
+F(\,  30) =  .94, ns. We also examined  whether the sibling's
+closeness in age to the target child  was related to false  belief
+understanding. The age difference  between the target child and
+his or her sibling was calculated and the correlation  between
+this variable and false belief understanding was not found to be
+significant r{ 3 2) = - .09. Thus, it is the number of siblings that
+the child has that is important for the development of false belief
+understanding  rather than  whether  these siblings are older or
+younger and how far distant in age they are.
+
+Discussion
+
+Our data suggest that children's ability to perform false belief
+tasks develops gradually  in the preschool  years. This may be
+because the representational  system on which false belief un-
+derstanding depends, develops gradually during the preschool
+period (Plaut & Karmiloff-Smith,  1993) or because increasing
+performance  capacity  enables the child to display  preexisting
+competence.  Our false  belief  measure  comprises  well-estab-
+lished tasks used in many studies examining the development of
+false belief understanding. The focus of interest in most of these
+studies has been on age differences in children's acquisition of
+false belief understanding, and researchers have described this
+
+acquisition as if it were an all or none phenomenon, or at least
+dependent on some ordering of task difficulty. Indeed, studies in
+this area frequently assess false belief understanding using a sin-
+gle task.  Applying an individual  differences  framework  using
+multiple false belief tasks allows us to look at children's pattern
+of acquisition. Given that there was no evidence that any one
+task was more difficult than the others, and that about a third of
+the sample did not just  fail all tests or pass all tests, it would
+appear that the acquisition of skill is more gradual, and that at
+some point children may show partial or insecure understand-
+ing, which is independent  of any ordering of difficulty  within
+tasks.
+
+False belief understanding was found  to be associated  with
+general language ability, after  the effects  of age had been par-
+tialled  out.  Using a standardized  measure of language ability,
+98%  of children  who passed  one or more  false  belief  tasks
+showed a level of linguistic ability equivalent to a child of age 4
+years-1 month or higher (Hresko et al.,  1981). Moreover, lan-
+guage and false  belief understanding were still significantly as-
+sociated  with one another  among this group of children who
+had  achieved  the language  threshold  for passing  false  belief
+tasks.
+
+As expected,  age and general  language  ability  strongly co-
+vary, and much of the variance in false belief understanding ex-
+plained  by these  variables is shared  between  both  variables.
+General language ability accounted for 41% of the variance in
+false belief understanding, before age was entered into the equa-
+tion. Even  after  all the variance attributable  to age has been
+accounted  for,  language  ability  still  predicts  a  significant
+amount of variance in false belief understanding.
+
+There are several possible explanations for the relationship
+between  language  ability  and false  belief  understanding. One
+possibility is that standard methods of measuring children's un-
+derstanding of false  belief rely heavily on children's  linguistic
+abilities. In the standard tasks children have to listen to a story
+or to the experimenter's talk about  some task materials, com-
+prehend this input, process the experimenter's questions about
+it, and make some response. Children may understand false be-
+lief but,  because of the  linguistic complexity  of the  tasks, be
+unable  to  demonstrate  their  understanding  in  this  context.
+From  this  point  of view, the children's linguistic  immaturity
+results in task performance that masks their underlying compe-
+tence. Two questions arise  here: one is whether  performance
+constraints do in fact operate in the demonstration of false belief
+understanding, and the other is whether underlying competence
+could be demonstrated if the performance constraints were re-
+moved. The present data speak to the first question and do sug-
+gest that children need a certain level of linguistic ability across
+tasks to be able to pass false belief tasks. Our data do not speak
+to the issue of whether competence can be demonstrated once
+performance  constraints are lessened, although other people's
+data suggest that this is so (Freeman et al., 1991).
+
+However, the fact  that language ability and false belief un-
+derstanding  remain  linked,  although  weakly  so, in  children
+who have passed the threshold necessary for passing one task,
+suggests that  there is a more  fundamental  relation  between
+false belief understanding and language. This alternative view
+is that linguistic capacity is intrinsically  linked to false belief
+understanding,  not because  linguistic  skills are required to
+
+76
+
+JENKINS  AND  ASTINGTON
+
+carry  out  false belief tasks, but  because theory of  mind  devel-
+opment  and  language  development  are  fundamentally  related
+and  interdependent.
+
+An  important  issue  concerns  the aspects of language  impli-
+cated in this relation. Regarding syntax, Feldman (1988) argues
+that  the  ability  to  reflect  on  thoughts,  essential  for  false  belief
+understanding, depends on the development  of recursive ability,
+that  is, the  syntactic  ability  of  turning  comments  into  topics.
+Further, de Villiers (1995) has shown that children's mastery of
+the syntax  of complementation  is related to their  performance
+on false belief tasks. Regarding semantic aspects, Olson  (1988)
+claims that theory of mind development is dependent on acquir-
+ing a metalanguage, that is, a language for talking about  mental
+states.  During  the  preschool  years  children  acquire  semantic
+terms, such as think  and know, to refer to the propositional atti-
+tude of mental  states. As mentioned  earlier, children's  compre-
+hension  of such  terms is related  to  their  performance  on  false
+belief tasks (Moore et al.,  1990). Regarding pragmatics, Baron-
+Cohen  (1988)  links the  social  deficits  of children  with  autism
+to their difficulties  with language, particularly the pragmatic as-
+pects  of  communication.  And  indeed,  autistic  children's  false
+belief task performance  is related to their score on a test of prag-
+matic ability (Eisenmajer  & Prior,  1991).
+
+In future work it will be important to refine the  measurement
+of  language  competence.  We  need  to  find  out  which  of  these
+aspects of linguistic functioning  is most strongly related to the-
+ory of mind development: the syntactic abilities shown in  recur-
+sion and complementation, the semantic development shown in
+the acquisition of metarepresentational  terms, or the pragmatic
+abilities shown in  communication.
+
+Some investigators have stressed the need to differentiate  be-
+tween issues of competence  and  performance  in children's  un-
+derstanding  of  mind  (Fodor,  1992; Freeman,  1994).  There  is
+more than  one way in which  competence can  be defined  in re-
+lation  to  theory  of  mind.  For  instance,  Leslie  (1991;  Leslie  &
+Roth,  1993)  suggests that  theory  of  mind  abilities  depend  on
+the development  of an innate theory of mind  module.  Presum-
+ably he would explain associations with language such as we see
+in these data by the way in which language affects  performance.
+Leslie's  emphasis  on  innateness  and  modularity  constitute  a
+view  similar  to  Fodor's (1983,  1987,  1992).  However,  there  is
+another  way of conceptualizing  competence,  in  which  the  rep-
+resentational  architecture  itself  actually  undergoes  develop-
+ment  (Karmiloff-Smith,  1992).  In  this  view,  the  representa-
+tional  structures  underlying  false  belief  understanding  and  its
+linguistic  expression  develop  over  time,  rather  than  the  child
+gaining better access to preexisting structures.
+
+These different  notions of competence  lead to different  inter-
+pretations of our data. For instance, many children show under-
+standing on one task but  not another, even though  one task was
+not found  to be more difficult  than  another across all  children.
+If we adopt  an  innate  modular  notion  of  competence,  we can
+interpret  this finding to mean that  performance  factors  operate
+within individuals in complex ways. A child has the competence
+to pass false belief tasks, but because of aspects of the task  that
+are  difficult  for  the  child  in  idiosyncratic  ways,  one  task  is
+passed  but  another  is  failed.  We  stress  the  notion  "idiosyn-
+cratic"  here  because  we  did  not  find  that  one  task  was  more
+difficult  than  another  overall,  or  that  language  or  memory  de-
+
+mands  were  higher  for  one task  rather  than  another.  Adopting
+the  alternative  view  (Karmiloff-Smith,  1992)  that  stresses  the
+development of competence over time, leads to a different  inter-
+pretation  of our data. Children show an insecure  understanding
+of false  belief when  they first begin to understand  it. This is be-
+cause  the  symbolic  representations  that  they  are  relying on  to
+pass the tasks are not sufficiently  established. Consequently they
+are easily overwhelmed  by experience-based  perceptions  (Plaut
+&  Karmiloff-Smith,  1993).  Children's  performance  becomes
+more  reliable  as the  underlying  competence  becomes  more se-
+curely  established.
+
+There was no evidence to support the hypothesis that the ac-
+quisition  of  false  belief  understanding  is  mainly  a  function  of
+increased  memory  capacity.  Verbal  memory  was  associated
+with  false  belief understanding  after  taking account  of age, but
+it did not account  for more  variance in false belief  understand-
+ing than  a  more  general  language  measure  did. Our  nonverbal
+memory  measure  was  not  associated  with  false  belief  under-
+standing after  taking account  of age. Although it might perhaps
+be possible to demonstrate an  association using a more  refined
+memory  measure,  the present  data  do  not  support  the sugges-
+tion that children's ability to pass false belief tasks is dependent
+on their memory  capacity.
+
+In this study we confirmed  Perner et al.'s {1994)  finding  that
+there  is a  positive  relation  between  children's  performance  on
+false  belief tests and  the  number  of siblings they  have. We also
+found,  as did  Perner  et al., that  it does not  matter  whether  the
+target children are older or younger than their siblings, nor how
+close in age they are to their siblings. More important, our study
+demonstrates that the relationship between family size and  false
+belief  understanding  is not  accounted  for  by  language  ability.
+We also found  an  interaction  between  family  size and  language
+ability. Family size has a very small effect  on  false belief  under-
+standing  when  children's  language ability  is high, and  a  strong
+association with performance  when language ability is low.
+
+It may be somewhat surprising that family  size is positively re-
+lated to  increased  false  belief understanding,  as studies of  family
+size and  intellectual  development  suggest  that  IQ is inversely  re-
+lated to family size (Zajonc & Markus,  1975). However, this is the
+case  for  children  in  large  families  of  four  or  more.  Zajonc  and
+Markus's  recalculation  of  Belmont  and  Marolla's  (1973)  data
+shows that in families with two or three children, first- and second-
+borns  have  higher  IQs than  only  children.  Moreover,  false  belief
+understanding  is not  simply  a  proxy  measure  for  IQ. Two skills
+typically  measured  in  IQ  tests were assessed  in  this study.  False
+belief  understanding  was weakly  associated  with  one  (nonverbal
+memory) and more strongly associated with the other (general lan-
+guage ability).  However, these  two  measures explained  less than
+50% of the variance in false belief understanding.
+
+How  might  the  presence  of more  siblings  in  the  home  posi-
+tively affect  the child's acquisition  of false belief  understanding?
+One explanation  for this finding is that a greater number of sib-
+lings in the home allows for an increased number of interactions
+in  which  the  effect  of  beliefs  on  behavior  is evident.  Such  in-
+teractions  might include one person teasing or tricking  another,
+one person  showing surprise when a belief turns out to be  false,
+as well  as  mistaken  actions  based  on  false  belief.  Dunn  et  al.
+(1991)  found  that aspects of mother-sibling and  sibling-sibling
+interaction when the target child was 2 years 9 months predicted
+
+THEORY  OF  MIND  DEVELOPMENT
+
+77
+
+false  belief  understanding  when  the  target  child  was  3  years  4
+months. Specifically, the extent to which the target child and older
+sibling cooperated in play and the extent to which the mother con-
+trolled the sibling, related to the child's understanding of false be-
+lief. Thus, it is likely that the  understanding of false belief is fos-
+tered  by  interactions  that  the  child  observes  as well  as those  in
+which he or she takes part. It is unlikely, however, to be just simply
+exposure  to  other  children  that  has the  important  effect,  as  the
+majority  of the children in this study were with other children  for
+much of the day in the nursery and daycare setting.
+
+The intimacy  of the sibling relationship  may allow for a spe-
+cific  kind  of learning  that  facilitates  the  acquisition  of  an  inti-
+mate kind of knowledge: the understanding of another  person's
+beliefs.  Azmitia  and  Hesser  (1993)  have  shown  how  familiar
+older  children  and  older  siblings  differ  in  the  instructional
+effects that they have when playing with younger children.  Dur-
+ing  an  unstructured  building  task  7-year-old  children  were
+more  likely to imitate  and  consult  their older  sibling and  their
+performance  at  the  end  of the task  was better  than  when  they
+were working with an older friend.  Duringa structured  teaching
+session  the older siblings were  more  likely  to  provide  guidance
+spontaneously,  and  give  more  explanations  than  the  older
+friend.  The  younger  children  were  also  more  likely  to  prompt
+their  siblings* explanations.  These  results  suggest  a  complex
+scaffolding  process whereby the familiarity  and intimacy  of the
+sibling relationship facilitates the learning process. The present
+study involves children younger than  7 years, and the finding in
+relation  to  family  size  is  not  confined  to  children  with  older
+siblings. However, the opportunity to learn  about the nature of
+beliefs may be provided by intimate relationships with  younger
+as well as older siblings.
+
+In  explaining  the  interaction  between  language  and  family
+size several interesting possibilities emerge. Children  can  get to
+an understanding of false belief through the presence of siblings
+when their language abilities are poor, suggesting that either per-
+formance  or competence  in  this domain  does not  rely  entirely
+on language. Within a performance  explanation  of the develop-
+ment  of  false  belief  understanding,  this  would  mean  that  in-
+teraction with siblings fosters children's abilities to demonstrate
+their competence. The implication  for a developmental  view of
+competence  is that  the  representational  system  implicated  in
+false belief understanding is more than  linguistic.
+
+In conclusion, we have shown  that false belief  understanding
+is strongly  associated  with general linguistic ability  and  argued
+that theory of mind and language do not develop independently
+of one another. However, the fact  that  number of siblings is re-
+lated  to the acquisition  of false  belief understanding,  especially
+for  children  with  less linguistic  ability; suggests that  children's
+theory of mind  is more than a linguistic skill.
+
+References
+
+Astington, J. W. (1993). The child's discovery of the mind. Cambridge,
+
+MA: Harvard University Press.
+
+Astington, J.  W., & Gopnik,  A. (1991).  Theoretical  explanations of
+children's understanding of the mind. British Journal of Developmen-
+tal Psychology, 9, 7-31.
+
+Azmitia, M., & Hesser, J. (1993). Why siblings are important  agents
+of cognitive development: A comparison of siblings and peers. Child
+Development, 64, 430-444.
+
+Baron-Cohen, S. (1988). Social and pragmatic deficits in autism: Cog-
+
+nitive or affective?  Journal of Autism and Developmental Disorders,
+75,379-401.
+
+Belmont, L., & Marolla, F. A. (1973, December 14). Birth order, family
+
+size, and intelligence. Science,  182,  1096-1101.
+
+Case, R. (1989, April). A neo-Piagetian analysis of the child's  under-
+standing of other people,  and the internal conditions which  motivate
+their behavior. Paper presented at the Biennial Meeting of the Society
+for Research in Child Development, Kansas City, MO.
+
+Chandler, M. J., Fritz, A. S., & Hala, S. M. (1989). Small scale deceit:
+Deception  as a  marker  of 2-,  3- and  4-year-olds' early  theories of
+mind. Child Development, 60, 1263-1277.
+
+de Villiers, J. G. (1995, March). Steps in the mastery of sentence com-
+plements.  Paper presented at the Biennial Meeting of the Society for
+Research in Child Development, Indianapolis, IN.
+
+Dunn,  J.,  Brown,  J.,  Slomkowski,  C,  Tesla,  C,  &  \bungblade,  L.
+(1991). \bung children's understanding of other people's feelings and
+beliefs: Individual differences  and their antecedents. Child Develop-
+ment, 62, 1352-1366.
+
+Eisenmajer,  R., & Prior, M. (1991). Cognitive linguistic correlates of
+"theory of mind" ability in autistic children. British Journal of De-
+velopmental Psychology, 9,  351-364.
+
+Feldman, C. F. {1988). Early forms of thought about thoughts: Some
+simple linguistic expressions of mental state. In J. W. Astington, P. L.
+Harris, & D. R. Olson (Eds.), Developing theories of mind (pp.  126-
+137). New \brk: Cambridge University Press.
+
+Fodor, J. A. (1983).  The modularity of mind.  Cambridge, MA: MIT
+
+Press.
+
+Fodor, J. A. (1987). Psychosemantics. Cambridge, MA: MIT Press.
+Fodor, J. A. (1992). A theory of the child's theory of mind. Cognition,
+
+44, 283-296.
+
+Freeman,  N. H. (1994). Associations and dissociations in theories of
+
+mind. In C. Lewis & P. Mitchell (Eds.), Children's early understand-
+ingofmind(pp.  95-111). Hove, England: Erlbaum.
+
+Freeman,  N. H.,  Lewis, C,  & Doherty, M. J.  (1991).  Preschoolers'
+grasp of a desire for  knowledge in  false-belief  prediction:  Practical
+intelligence and verbal report. British Journal of Developmental Psy-
+chology,9,  139-157.
+
+Frith, U. (1989). Autism: Explaining the enigma. Oxford, England: Ba-
+
+sil Blackwell.
+
+Frye, D., Zelazo, P. D., & Palfai, T. (1992). The cognitive basis of theory
+
+of mind. Unpublished manuscript, New York University.
+
+Gopnik,  A.. & Astington, J.  W. (1988). Children's understanding of
+representational change and its relation to the understanding of false
+belief and the appearance-reality distinction. Child Development, 58,
+26-37.
+
+Hresko, W. P., Reid, D. K., & Hammill, D. D. (1981). The Test of Early
+
+Language Development (TELD).  Austin, TX: Pro-Ed.
+
+Karmiloff-Smith,  A. (1992). Beyond modularity: A developmental per-
+
+spective on cognitive science. Cambridge, MA: MIT Press.
+
+Leslie, A. M. (1991). The theory of mind impairment in autism: Evi-
+dence for a modular mechanism of development? In A. Whiten (Ed.),
+Natural theories of mind: Evolution,  development and simulation of
+everyday  mindreading  (pp.  63-78).  Oxford,  England:  Basil
+Blackwell.
+
+Leslie, A., & Roth, D. (1993). What autism teaches us about metarep-
+resentation.  In  S.  Baron-Cohen,  H.  Tager-Flusberg,  &  D.  Cohen
+(Eds.),  Understanding  other minds: Perspectives from  autism (pp.
+83-111). Oxford, England: Oxford University Press.
+
+Light, P. (1979). The development of social sensitivity Cambridge, En-
+
+gland: Cambridge University Press.
+
+Moore, C, Pure, K.., & Furrow, D. (1990). Children's understanding of
+the  modal expressions of speaker certainty and  uncertainty  and its
+
+78
+
+JENKJNS  AND  ASTINGTON
+
+relation  to  the  development  of  a  representational  theory  of  mind.
+Child Development, 61, 722-730.
+
+Olson,  D.  R.  (1988).  On  the  origins  of  beliefs  and  other  intentional
+states  in  children.  In  J.  W. Astington,  P.  L.  Harris,  &  D.  R.  Olson
+(Eds.), Developing theories  of mind  (pp.  414-426).  New York: Cam-
+bridge University Press.
+
+Olson, D. R. (1993). The development  of representations: The  origins
+
+of mental life. Canadian  Psychology, 34,  1-14.
+
+Perner,  J.,  Leekam,  S.,  & Wimmer,  H.  (1987).  Three-year-olds'  diffi-
+culty with false belief: The case for a conceptual deficit. British  Jour-
+nal of Developmental  Psychology, 5.  125-137.
+
+Perner,  J.,  Ruffman,  T,  &  Leekam,  S.  R.  (1994).  Theory  of  mind  is
+contagious:  You  catch  it  from  your  sibs.  Child  Development,  65,
+1228-1238.
+
+Plaut, D. C,  & Karmiloff-Smith,  A. (1993). Representational develop-
+ment  and theory-of-mind  computations.  Behavioral  and  Brain  Sci-
+ences, 16, 70-71.
+
+Siegal,  M.,  &  Beattie,  K.  (1991).  Where  to  look  first  for  children's
+
+knowledge of false belief. Cognition,  38,  1-12.
+
+Tager-Flusberg,  H.  (1993).  What  language  reveals  about  the  under-
+standing  of  minds  in  children  with  autism.  In  S.  Baron-Cohen,  H.
+Tager-Flusberg, & D. Cohen (Eds.),  Understanding  other minds: Per-
+spectives from  autism  (pp.  138-157). Oxford,  England: Oxford  Uni-
+versity Press.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs:  Representation
+and constraining function  of wrong beliefs in young children's under-
+standing of deception. Cognition,  13,  103-128.
+
+Zajonc,  R.  B., &  Markus,  G.  B. (1975).  Birth  order  and  intellectual
+
+development.  Psychological Review, 82,  74-88.
+
+Received October 7,  ] 994
+Revision received April  17,1995
+
+Accepted April  17,  1995  •
+
+Low Publication Prices for APA Members and Affiliates
+
+Keeping you up-to-date. All APA Fellows, Members, Associates, and Student Affiliates
+receive—as part of their annual dues—subscriptions to theAmerican  Psychologist  andAPA
+Monitor. High School Teacher and International Affiliates receive subscriptions to the APA
+Monitor,  and they may subscribe to the American  Psychologist at a significantly  reduced
+rate. In addition, all Members and Student Affiliates  are eligible for savings of up to 60%
+(plus  a journal  credit)  on  all  other  APA journals,  as  well  as  significant  discounts  on
+subscriptions from cooperating societies and publishers (e.g., the American Association for
+Counseling and Development, Academic Press, and Human Sciences Press).
+
+Essential  resources.  APA members and affiliates receive special rates for purchases of
+APA books, including the Publication Manual of the American Psychological  Association,
+and on dozens of new topical books each year.
+
+Other  benefits  of  membership.  Membership  in  APA  also  provides  eligibility  for
+competitive insuranceplans, continuing education programs, reduced APAconvention fees,
+and specialty divisions.
+
+More information. Write to American Psychological Association, Membership Services,
+750 First Street, NE, Washington, DC 20002-4242.
+
+

@@ -1,0 +1,1093 @@
+British Journal of Developmental Psychology (1999), 17, 435–450 Printed in Great Britain
+© 1999 The British Psychological Society
+
+435
+
+Social cognition and bullying: Social inadequacy
+
+or skilled manipulation?
+
+J. Sutton*, P. K. Smith and J. Swettenham
+Department of Psychology, Goldsmiths College, London, UK
+
+In contrast to the popular stereotype and research tradition of the ‘oash’ bully lacking
+in social  skills  and understanding,  the bully may be a cold,  manipulative  expert in
+social situations,  organizing gangs and using subtle,  indirect methods. Performance
+on a set of stories  designed to assess  understanding  of cognitions  and emotions  was
+investigated in 193 7–10-year-olds in relation to role in bullying. Ringleader bullies
+scored  higher  than  ‘follower’  bullies  (those  who  helped  or  supported  the  bully),
+victims  and defenders  of the victim.  Results  are  discussed  in terms  of the need for
+further  research  into  cognitive  skills  and  emotion  understanding  in  children  who
+bully,  the  possible  developmental  pathway  of  social  cognition  in  bullying  and
+important implications for intervention strategies.
+
+Over  the last  decade,  bullying  among young children  has  expanded  considerably  as  a
+research issue. It is now recognised as a worldwide problem, with investigation originat-
+ing in Norway  (Olweus,  1978) and spreading to  Australia  (e.g.  Rigby  & Slee,  1991),
+Canada (Pepler, Craig, Zeigler & Charach, 1993) and the USA (Ross, 1996). As many as
+one in four primary school children in the UK report being bullied at least ‘sometimes’
+during the last school term (Whitney & Smith, 1993). Although intervention projects
+have had some success (Olweus, 1993; Smith & Sharp, 1994), none of these school-based
+programmes have reduced bullying by more than about 50%. Evidence from individual
+schools and reports from teachers in such projects (e.g. Eslea & Smith, 1998) suggest that
+there may be a ‘hard core’ of children who bully. Academics and practitioners may need
+to consider in more detail the cognitive style and skills associated with such persistent
+bullying or victimization. This study considers the issue of the social cognition or ‘theory
+of  mind’  abilities  of  children  involved  in  bullying:  how  well  do  they  understand  the
+mental states, beliefs and emotions of others?
+
+It  has  been  argued  (Sutton,  Smith  &  Swettenham,  1999)  that  despite  the  popular
+stereotype of a bully as physically  powerful yet intellectually  simple or backward (‘the
+‘‘oaf ’’’ of literature  who torments the school  swot’: Besag, 1989, p. 15), there  is little
+empirical evidence to support this view. Randall (1997) claims that ‘bullies do not process
+social information accurately’ (p. 23), describing them as ‘socially blind’. Hazler (1996)
+
+* Requests for reprints should be addressed to Jon Sutton, Department of Psychology, Glasgow Caledonian
+University, City Campus, Cowcaddens Road, Glasgow G42 7PU, UK (e-mail:  J.M.Sutton@gcal.ac.uk).
+
+436
+
+J. Sutton et al.
+
+suggests  that  bullies  ‘need  to  recognize  information  about  how  others  perceive  the
+situation’ (p. 98). But considering the social context and nature of bullying, it would seem
+plausible that many children who bully can actually process such social information very
+accurately, and they may use this skill to their advantage.
+
+Sutton  et  al. (1999)  argued  that  views  of  children  who  bully  as  lacking  in  social
+perspective-taking  skills  have  not  been  based  on  empirical  work  involving  bullies:
+instead,  theory  and  equivocal  evidence  from  research  using  aggressive  or  conduct
+disordered children may have formed their basis. For example, the social skills model of
+aggression (Dodge, Pettit, McClaskey & Brown, 1986; updated by Crick & Dodge, 1994)
+has been inuential  in explaining  childhood aggression  in terms  of  social  information
+processing biases or decits at one or more of the following points in a ve-stage process
+of assessing and responding to social situations: social perception, interpretation of social
+cues perceived, goal selection, response strategy generation and response decisions. Several
+studies have found that aggressive children tend to attribute hostile intent to the actions
+of  others  more  frequently  than  do  non-aggressive  children  (Feldman  & Dodge, 1987;
+Gibbins &  Craig, 1997; Guerra  &  Slaby,  1989; Steinberg  &  Dodge, 1983) However,
+Dodge (1991) distinguishes between reactive  aggression (occurring in the context of a
+negatively affectively-charged, high conict relationship) and proactive aggression (coer-
+cive  behaviour  observed  in  the  domination  of  a  peer),  and  hypothesises  that  ‘the
+processing  patterns  at  each  step  might  be  more  strongly  associated  with  one  type  of
+aggression than the other’ (p. 211). Crick & Dodge (1996) note that proactive aggressors
+are not particularly vulnerable to attributional biases, and Boulton & Smith (1994) note
+that it is only proactive aggression that includes bullying.
+
+A recently dominant paradigm in the study of social cognitive abilities is that of ‘theory
+of mind’: the ability of individuals to attribute mental states to themselves and others in
+order to explain and predict behaviour (Premack & Woodruff, 1978; for a recent review,
+see Taylor, 1996). Research has often investigated the part a theory of mind plays in the
+development of appropriate or pro-social behaviour, but theory of mind has only recently
+been  considered  in  relation  to  social  maladjustment  and  anti-social  behaviour.  Social
+impairment in children with conduct disorder has been investigated in terms of a theory
+of  mind decit.  Thus, Happé & Frith (1996) found that such participants  passed two
+standard rst-order false belief tasks but showed impairments of social insight in real life
+behaviour  as  measured  by  the  Vineland  Adaptive  Behaviour  Scale  (Sparrow,  Balla  &
+Cicchetti, 1984).
+
+The  idea  that  a  child  who  bullies  may  be  different  from  an  aggressive  or  conduct
+disordered child in terms of theory of mind ability rests on consideration of how bullying
+can be dened, the context in which it occurs and the roles which children assume within
+this context, and the skills which may be of use (see Sutton et al., 1999).
+
+Bullying can be dened as ‘the systematic abuse of power’ (Smith & Sharp, 1994). This
+inequality  of  power  implies  dominance,  and  (in  contrast  to  the  more  general  eld  of
+aggression) dominance is often associated with social skills and manipulation of belief. For
+example,  Keating  &  Heltman  (1994)  found  that  pre-school  children  who  deceived
+successfully (were judged as honest by adult researchers when persuading another child
+that  a  nasty-tasting  drink  was  pleasant)  also  tended  to  be  those  who  terrorised  the
+playground and were rated as dominant. The implication of repetitive behaviour in the
+denition above may also suggest planning, which could well involve theory of mind: in
+
+Social cognition and bullying
+
+437
+
+fact, Happé & Frith (1996) found that the children in their study most clearly  showed
+their mentalizing abilities in the domains of lying, cheating, teasing and bullying.
+
+Bullying  occurs  within  social  relationships  (Lagerspetz,  Bjorkqvist,  Berts  &  King,
+1982) and usually with peers present (Pepler & Craig, 1995). These peers may take on
+several  roles,  in addition to Bully and Victim:  they may help the bully (Assistant),  or
+reinforce  the  bully  through  watching,  laughing  and  shouting  encouragement  (Rein-
+forcer). Alternatively, they may stick up for the victim (Defender), or remain resolutely
+uninvolved  (Outsider).  Using  this  Participant  Role  Scale  approach  (PRS),  Salmivalli,
+Lagerspetz,  Bjorkqvist,  Österman  &  Kaukiainen  (1996) found that  it  was  possible  to
+assign one of these roles to 87% of 11 to 13-year-old Finnish children. Having a grasp of
+the internal mental states of those involved, along with an ability to manipulate these
+thoughts and beliefs, may be crucial for the bully in developing and maintaining such
+inter-role relations. A Bully would be at a social advantage if he or she were to possess
+social cognition skills that were superior to the Followers (Assistants and Reinforcers) and
+the Victims.
+
+The use of social cognition skills in bullying may also relate to the type of bullying.
+Indirect  or  relational  forms  of  aggression  (Crick  &  Grotpeter,  1995)  such  as  social
+exclusion (Bjorkqvist, Lagerspetz & Kaukiainen, 1992) often require a manipulation of
+the mental states and beliefs of others in the form of gossip, rumours and lies. Indeed,
+indirect  aggression  has  been  found  to  be  positively  correlated  with  peer-rated  social
+intelligence in groups of 8-, 12- and 14-year-olds, whereas physical and verbal aggression
+were not (Kaukiainen et al., 1999). Indirect bullying is also relatively  more frequent in
+girls than boys (Bjorkqvist et al., 1992; Rivers & Smith, 1994), and a recent study found
+a theory of mind superiority among girls (Baron-Cohen & Hammer, 1996). In contrast, it
+may  be that a  theory of mind is  not necessary  for  purely physical  bullying: hitting or
+kicking someone would seem to be a non-mental event, and consequently one may not
+necessarily expect physical bullying to be related to theory of mind.
+
+Sutton et al. (1999) argued that more investigation was needed to investigate the theory
+of mind skills used in bullying; they suggested distinguishing different types of bullies,
+and measuring different aspects of theory of mind ability. Here, a study of this kind is
+reported. The PRS approach was used in conjunction with social cognition measures to
+investigate the following hypotheses:
+
+(a)
+
+(b)
+
+(c)
+
+that  Bullies  will  score  signicantly  higher  than  Victims  on  a  set  of  stories
+measuring social cognition;
+that Bullies will score signicantly higher than Followers (a combined group of
+Reinforcers and Assistants) on a set of stories measuring social cognition; and
+that extent of  teacher-rated  indirect  bullying will  be positively  correlated  with
+total social cognition score when physical and verbal bullying are partialled out.
+
+The study intends to discriminate clearly between two alternative predictions. The social
+skills decit model (Crick & Dodge, 1994) should predict that bullies would score lower
+than other children on theory of mind tasks; this would follow from the view of decits
+and  biases  in  perceiving  and  interpreting  the  situation,  and  choosing  and  reporting
+responses to it. By contrast, the present authors’ prediction is that on a test of theory of
+
+438
+
+J. Sutton et al.
+
+mind, Ringleader Bullies would score higher than Followers (hypothesis A) or Victims
+(hypothesis B), and possibly higher than non-involved children.
+
+Participants
+
+Method
+
+The  authors  approached  all  the children  in  eight  classes  from  four  South-East  London  schools,  a  total
+sample pool of 206. Children who refused to give consent or had a parent refuse consent at the start of the
+study were not included (N = 13). The nal sample was 193 children (102 girls and 91 boys) aged between
+7 years 7 months and 10 years 8 months (mean 9 years 0 months). Although socio-economic measures were
+not taken,  the school  catchment  areas  were lower-  to middle-class.  The ethnic mix  was 38.3%  White,
+45.4%  African-Carribean,  10.2%  Asian,  1.5%  Mediterranean,  and 4.6%  of  mixed  ethnic  origin.  Class
+sizes varied from 20 to 29 pupils (M = 25).
+
+Measures
+
+Verbal ability. The short form of the British Picture Vocabulary Scale (BPVS) (Dunn, Dunn, Whetton &
+Pintilie, 1982) was included as a control measure to ensure that any difference in theory of mind was not
+explained by differences  in understanding the language of the stories.
+
+Role  in  bullying. A  shortened  version  of  the  PRS  (Salmivalli  et  al.,  1996)  was  presented  as  a  self/peer
+nomination interview rather than the questionnaire format of the original, because this method was found
+to be more suited for use with 7 to 10-year-olds  (see Sutton & Smith,  1999, for details  of this adapted
+version). Peer and self-nominations  were given for a set of behaviour descriptions in each of the following
+roles:
+
+Bully:
+Assistant:
+Reinforcer:
+Defender:
+Outsider:
+Victim:
+
+active, initiative taking, leader-like behaviour
+active, but more follower than leader-like
+inciting the bully, providing an audience etc.
+sticking up for or consoling the victim
+doing nothing in bullying situations,  staying away
+nominated in ‘gets bullied’ by 30% of same sex classmates.
+
+The  internal  reliability  for  these  six  subscales  was  moderate  to  good  (Cronbach’s  alphas:  Bully  a
+Reinforcer a
+calculate:
+
+.85,
+.55). These nominations were used to
+
+.88, Assistant a
+
+.67, Defender a
+
+.80, and Outsider a
+
+(a)
+
+Role Scores for each child: There were 21 items or behaviours on the PRS (e.g. ‘gets others to join
+in  bullying’  and  ‘isn’t  usually  there,  stays  away’).  A  nomination  for  ‘sometimes’  showing  a
+behaviour was scored as one, and ‘often’ was scored as two. The number of nominations within a
+role was then divided by the number of nominators and multiplied by 100. The highest possible
+‘role score’ for each role was therefore 200, indicating  that the child and each of their same sex
+classmates  nominated them as ‘often’ showing each behaviour within that role.
+
+(b) A Participant Role for each child on the basis of their highest role score: The exception was that a
+child was assigned to the ‘Victim’ role if 30% or more of their classmates nominated them for the
+‘Gets  bullied’  behavioural  description,  regardless  of  other  role  scores  (as  in  Salmivalli  et  al.,
+1996).
+
+Assessment of social cognition. Children were read 11 short stories designed to test understanding of mental
+states or emotions. Summaries of the stories can be found in the Appendix: two full examples are shown
+below.
+
+Social cognition and bullying
+
+439
+
+Cognitive story: Double bluff (Happé, 1994):
+
+During the war, the Red army captured a member of the Blue army. They want him to tell them
+where his army’s tanks are; they know they are either by the sea or in the mountains. They know that
+the prisoner will not want to tell them, he will want to save his army, and so he will certainly lie to
+them. The prisoner is very brave and very clever, he will not let them nd his tanks. The tanks are
+really in the mountains. Now when the other side asks him where his tanks are, he says, ‘They are in
+the mountains.’
+
+Control question: Is it true what the prisoner said?
+
+Where will the other army look for his tanks?
+Why did the prisoner say what he said?
+
+Emotion story (Sutton, unpublished):
+
+Mike wants to go out with his friends, but he has a really bad tummy ache. He knows that if his Mum
+notices he is ill, she won’t let him go out to play. Mike goes downstairs and asks his Mum, ‘Can I go
+out to play please?’
+
+Control question: Which picture shows how Mike really feels?
+
+Which picture shows how Mike will look when he talks to his Mum?
+
+In addition to the control question based on the content of the story, answers to the questions at the end
+of these  stories  assessing  understanding  of  mental  states  were scored  as  0 (fail),  one  (pass  but without
+reference  to  a mental  state  or  belief),  or  two  (pass  including  reference  to a  mental  state  or belief).  For
+example, an answer to the double bluff story above rated as two may have been ‘They will look by the sea
+because they think that the prisoner is lying to them’. For the emotion story, a child scoring two would
+have selected  either of the bottom two pictures  (see Fig. 1) (neutral or happy), indicating that he or she
+recognized that the boy would try not to show his real feelings, along with a justication referencing the
+mum’s mental states (e.g. ‘He’ll try to look happy so that his Mum doesn’t know that he’s ill’). Inter-rater
+reliability  assessment  of  responses  to  the  stories  produced  an  alpha  coefcient  of  .87,  indicating  good
+agreement.
+
+The stories were also given to 21 independent raters to determine whether an understanding of emotions
+was  crucial  in order  to answer  the  question  at  the end.  Majority  opinion  supported  the  view that  this
+understanding was not crucial for the rst four stories (mean agreement 79%), but was for the remaining
+seven (mean agreement 92%). On the basis of this, each child gained a cognitive score based on the rst four
+stories (maximum eight), an emotion score based on the others (maximum 14), and total social cognition score
+(maximum 22).
+
+Assessment of type of bullying and motivation to bully. Teachers completed short questionnaires for each child
+who scored above the average ‘Bully’ role score for their school class and gender (N = 67). Questions were
+on a three-point scale of ‘never’, ‘sometimes’, and ‘often’, covering:
+
+(a)
+(b)
+(c)
+
+physical bullying: ‘Direct physical, e.g. hitting and kicking’;
+verbal bullying: ‘Name calling’ and ‘teasing/ridiculing’; and
+indirect bullying: ‘Excluding from social groups or activities’ and ‘spreading lies or rumours about
+the victim’.
+
+From  this  sample,  a  sub-sample  (N = 42)  were  taken  who  the  class  teachers  agreed  were  involved  in
+bullying others more than average for their class/gender. This was to ensure that teachers were only rating
+bullying of which they were aware.
+
+Procedure
+
+After obtaining  both parental  and individual  consent,  children  were tested  individually  away from  the
+classroom, whenever possible in a quiet room. There were four sessions with each child: the BPVS, six of
+
+440
+
+J. Sutton et al.
+
+the social cognition stories, the PRS interview (see Sutton & Smith, 1999, for full details of procedure), and
+nally the remaining ve stories.
+
+Results
+
+Results  are  presented  using  the  categorical  measure  of  ‘Participant  Role’  to  compare
+group means in social cognition, and the continuous measure of ‘Role Scores’ to test for
+correlations between social cognition and the extent of different types of behaviour in the
+whole sample.
+
+Figure 1. Social cognition story responses
+
+Social cognition and bullying
+
+441
+
+Participant Roles and characteristics
+
+The distribution of the 193 children across the six Participant Roles is shown in Table 1.
+There was no signicant association between sex and Participant Role (x 2(5) = 8.22, ns).
+There  were  no  signicant  differences  between  roles  in  terms  of  verbal  ability
+(F(5,187) = .38,  ns),  but  a  signicant  main  effect  of  role  on  age  was  found
+(F(5,187) = 2.21, p <  .05). Follow-up t-tests showed that Reinforcers were signicantly
+younger than  both Outsiders  (t(34) = 2 2.62, p <  .05)  and  Victims  (t(48) = 2 2.28,
+p <  .05). To exercise caution, both age and verbal ability were controlled for in further
+analyses.
+
+Table 1. Numbers and participant characteristics  of each role
+
+Number in each
+
+% of total
+sample by
+
+gender
+
+Participant Role
+
+Bully
+Reinforcer
+Assistant
+Defender
+Outsider
+Victim
+
+role (% of
+sample)
+
+25 (13.0)
+15 (7.8)
+12 (6.2)
+85 (44.0)
+21 (10.9)
+35 (18.1)
+
+Boys
+
+Girls
+
+Age (months)
+
+Mean (SD)
+
+11.0
+8.8
+6.6
+36.3
+12.1
+25.3
+
+14.7
+6.9
+5.9
+51.0
+9.8
+11.8
+
+108  (9)
+103  (8)
+107  (8)
+106  (9)
+110  (9)
+110 (10)
+
+Verbal ability
+(BPVS score)
+Mean (SD)
+
+91 (14)
+92 (19)
+90 (15)
+95 (17)
+95 (22)
+93 (18)
+
+Participant Roles and social cognition
+
+From a total of 2123 responses (11 stories each for 193 children), there were 40 cases (less
+than 2% of the total number of responses) when a child got a control question wrong. In
+all cases the question was repeated and was then answered correctly. Errors also did not
+appear to be clustered in any particular Participant Role group: 18 Defenders, 6 Victims,
+5 Bullies, 2 Outsiders, 2 Assistants and 1 Reinforcer failed a control question, gures in
+line with the differences in the sizes of the groups. For these reasons, control questions are
+excluded from further analysis.
+
+Table 2 shows the mean percentage of correct  responses over cognitive and emotion
+stories,  and  overall  social  cognition  performance  for  the  six  participant  groups.  As  a
+group, Bullies score higher on total social cognition score than any other group. A one-
+way analysis of covariance was performed to investigate the effect of Participant Role on
+total social cognition score. The cell-size approach was chosen for dealing with unequal N,
+as the sample sizes represented observed different numbers in the Participant Roles (see
+Tabachnick & Fidell, 1996). Age and verbal ability were entered as covariates. There was
+a signicant effect  of Participant Role on total social cognition score (F(5,192) = 2.29,
+p <  .05).
+
+As there were only two a priori comparisons, standard follow-up t-test were used with
+to control the familywise error rate. These supported the
+
+a more conservative level of a
+
+442
+
+J. Sutton et al.
+
+Table 2. Participant Role and mean percentage social cognition scores
+
+Participant Roles
+
+Mean % cognitive
+
+Mean % emotion
+
+score (SD)
+
+score (SD)
+
+(For whole sample)
+Bully
+Reinforcer
+Assistant
+Defender
+Outsider
+Victim
+
+40.09 (23.59)
+48.00 (23.57)
+35.00 (20.70)
+38.54 (27.93)
+38.53 (20.70)
+45.83 (26.61)
+37.50 (27.45)
+
+39.56 (13.85)
+44.29 (11.48)
+32.38 (17.68)
+37.50 (12.97)
+39.41 (12.93)
+42.18 (15.47)
+38.78 (14.42)
+
+Mean % total
+social cognition
+
+score (SD)
+
+39.59 (14.74)
+45.64 (13.60)
+33.64 (16.99)
+37.88 (14.29)
+38.98 (12.01)
+43.51 (18.16)
+37.53 (17.37)
+
+hypotheses predicting social cognition differences between individual roles. Bullies score
+signicantly  higher than Victims  (hypothesis a:  t(58) = 1.94, p = .025). Bullies  score
+signicantly higher than the Follower group (hypothesis b: t(50) = 2.50, p <  .01). Post
+hoc
+t-tests  also  revealed  that  Bullies  score  signicantly  higher  than  Defenders
+(t(108) = 2.36, p <  .05), but not signicantly higher than Outsiders (t(44) = .45, ns).
+When cognitive score and emotion score are analysed separately, the only signicant
+difference  between  groups  is  between  Bullies  and  Followers  on  the  emotion  score
+(t(50) = 2.51, p <  .05).
+
+Role scores and social cognition
+
+Table 3 indicates two-tailed partial correlation coefcients (controlling for age and verbal
+ability) between social cognition and actual extent of different types of behaviour, using
+the whole sample.
+
+Table 3. Partial correlations of individual role scores and social cognition
+
+Social cognition
+score
+
+Cognitive
+Emotion
+Total score
+
+Role score
+
+Bully Reinforcer Assistant Defender Outsider Victim
+
+.32***
+.17*
+.29***
+
+.28***
+.07
+.21**
+
+.19**
+.01
+.11
+
+.01
+.01
+.01
+
+.16*
+.02
+.10
+
+.16*
+.06
+.15*
+
+***p <  .001; ** p <  .01; * p <  .05
+
+The  initiative-taking,  ringleader  behaviour  of  the  Bully  role  is  the  most  highly
+correlated  with  total  social  cognition  score,  whereas  Victim  score  is  signicantly  neg-
+atively correlated with total social cognition score. Role scores representing involvement
+in  bullying (Bully,  Reinforcer  and  Assistant)  are  all  signicantly  positively  correlated
+with cognitive score, whereas Defender role score is uncorrelated and the Outsider and
+
+2
+2
+2
+2
+2
+2
+2
+2
+Social cognition and bullying
+
+443
+
+Victim role scores are signicantly negatively correlated with cognitive score. Bully score
+is also positively correlated with emotion score.
+
+Type of bullying
+
+Hypothesis C was not supported: a partial correlation between total social cognition score
+and teacher-rated extent of indirect bullying (controlling for age, verbal ability and both
+physical  and  verbal  bullying)  was  not  signicant  (r(36) = 2
+.11,  one-tailed  p = .25).
+In  an  equivalent  analysis  for  physical  bullying,  there  was  a  non-signicant  trend
+(r(36) = 2
+.24,  p = .14),  whereas  there  was  a  signicant  positive  partial  correlation
+between verbal bullying and total social cognition score (r(36) = .43, p = .007).
+
+Discussion
+
+The results of this study clearly do not support an application of the social skills decit
+model of aggression (Crick & Dodge, 1994) to children who bully others in school, or the
+view  of  the  child  who  bullies  as  ‘oash’  and  stupid. There  was  a  signicant  effect  of
+Participant Role on total social cognition score. Bullies scored signicantly higher on the
+stories than all other groups in the bullying process (if it is accepted that Outsiders are not
+involved). In support of hypotheses A and B, Bullies scored higher than both Victims and
+Followers (Assistants plus Reinforcers).  An unexpected nding was that Bullies scored
+higher than Followers on the emotion stories.
+
+As  for  the  continuous measure  indicating  extent  of  the  different  behaviours  in  the
+whole  sample,  role  scores  showing  involvement  in  bullying  others  were  positively
+correlated  with total social  cognition score, whereas Outsider and Defender role scores
+were not correlated and Victim score was negatively correlated with total social cognition
+score.  Roles  involved  in bullying others were  signicantly  correlated  with a  cognitive
+score, whereas Defender role score was not correlated and Outsider and Victim scores were
+negatively  correlated  with  cognitive  score.  The  Bully  role  score  was  also  positively
+correlated with the emotion score.
+
+The positive correlation between teacher-rated verbal bullying and theory of mind was
+not predicted. However, it may well be that the ability to understand the mental states
+and emotions of others is a very adaptive one in teasing somebody effectively, or knowing
+what  names  will  be  most  hurtful.  In  fact,  despite  the  negative  trend  found  between
+teacher-rated physical bullying and theory of mind, it could be argued that even in purely
+physical bullying, social cognition will still be of use in avoiding detection, or choosing
+the most effective time and method for each situation in terms of maximizing the victim’s
+vulnerability and minimizing chances of hurt to themselves (an idea similar to Bjorkqvist,
+Österman & Kaukiainen’s (1992) ‘effect–danger ratio theory’). A single bully and his or
+her chosen victim often appear to have a bizarre dyadic relationship (Randall, 1997), in
+which there may be more consideration of mind than is immediately evident in the bully’s
+behaviour.
+
+However, the treatment of ‘bullies’ as a single category was a limitation of the study.
+Further research is needed into the link between theory of mind and different  types of
+bullying,  particularly  using  information  from  peers  on  the  methods  used.  This  may
+overcome the problem of using teacher questionnaires (Ahmad & Smith, 1990), which
+
+444
+
+J. Sutton et al.
+
+may go some way to explaining the absence of a link between indirect bullying and theory
+of mind. There is evidence that teachers do include examples of indirect and direct forms
+in their views of what bullying is (Boulton, 1997), and analyses in the present study were
+limited to children about whom teachers agreed regarding their overall level of bullying.
+However, there may still be an underestimation of the more covert and indirect methods.
+A larger sample utilizing peer information on the type of bullying may possibly reveal a
+bi-modal distribution of social cognition scores in bullies, with a socially  skilled group
+and a group using predominantly physical methods performing less well on the stories.
+In general, these results support the view presented that bullies may be at an advantage
+if they possess theory of mind skills superior to those of their followers and their victims.
+This study has identied their superior performance on a small set of stories, distinguish-
+ing  between  cognitive  and  emotion  understanding. Three of  the  stories  were  Happé’s
+(1994) stories: these have been shown to be sensitive enough to identify the mentalizing
+decit in autistic participants who pass all standard false belief tasks, and for use in the
+identication  of  the  neural  substrate  of  the  ability  to  mentalize  through  functional
+neuroimaging (Fletcher et al., 1995). The remaining stories were similar in structure and
+style, and the absence of ceiling level performance on the whole set of stories suggests they
+are age-appropriate. However, a more ne-grained analysis using a wide range of tests and
+samples may be required. Younger samples could attempt standard rst-order false belief
+tasks (e.g. the Smarties test of Wimmer & Hartl, 1991), and the ‘reading the mind in the
+eyes/face’ test (Baron-Cohen et al., 1996) would provide a more context and language-free
+measure for a variety of age ranges.
+
+Use  of  a  wider  range  of  social  cognition  tests  may  also  cast  some  light  on  the  less
+expected  link  between  bullying  and  emotion  understanding. In  particular,  a  study  is
+needed which distinguishes between emotion  recognition, emotion understanding and
+empathy  in  children  who  bully.  Such  a  study  could  utilize  stories,  self-report  ques-
+tionnaires of empathic concern (e.g. Bryant, 1982), and even physiological measures of
+arousal. Do those bullies with a good theory of mind show this in all kinds of mentalizing,
+or do they still  show decits in specic areas,  in particular  in theory of mind and false
+beliefs involving the moral emotions not included in this study (e.g. guilt, love, remorse,
+sympathy  and  shame)?  Do  they  understand these  emotions  (at  least  better  than  their
+followers, who scored signicantly lower on emotion score) but just not share them, in
+other words lack empathy? As noted earlier, children with conduct disorder most clearly
+showed their mentalizing ability in the domain of anti-social behaviour (Happé & Frith,
+1996), raising the possibility that this group has an intact but skewed theory of mind, or
+a ‘theory of nasty minds’ (p. 395). This may be similar to Mealey’s (1995) emphasis on
+‘cold cognition’ in sociopathy: a theory of mind formulated purely in instrumental terms,
+without access to the empathic understanding that most people rely on. Blair et al. (1996)
+found  evidence  for  a  dissociation  in  psychopathy  between  mentalizing  and  empathic
+reaction.
+
+It is possible, therefore, that a child who displays a heightened awareness of the feelings
+of others (i.e.  high affective  perspective-taking  ability  as demonstrated by the positive
+correlation in the present study between the Bully role score and the emotion score) but
+also demonstrates an inability or unwillingness to share those feelings (i.e. low empathic
+disposition) would be especially  manipulative  in his or her dealings with others (Hoff-
+man,  1975;  Staub,  1979).  Randall  (1997)  notes  (but  fails  to  test  empirically)  that
+
+Social cognition and bullying
+
+445
+
+proactive aggressors are ‘not easily upset emotionally . . . their emotions do not interfere
+with their social cognition’ (p. 29). In a small sample of clinic-referred  children, Frick,
+O’Brien,  Wootton  &  McBurnett  (1994)  identied  the  factor  of  ‘selsh,  callous,  and
+remorseless use of others’ – familiar behaviour to victims of bullying. Bullies have been
+reported to have higher levels of psychoticism (as measured by the Eysenck Personality
+Questionnaire) than groups of victims and controls (Rigby & Slee, 1993), and psychoti-
+cism does appear to be related to actual psychopathy (Hare, 1982). Longitudinal studies
+are  needed  in  order  to  determine  how  many  bullies  actually  go  on  to  be  classied  as
+psychopaths, and also how these bullies differ  from the less often studied successful  or
+non-institutionalized psychopaths (Lynam, 1997).
+
+Investigation of developmental trends like this, placing social cognition in bullying in
+a lifespan perspective, may be a fruitful avenue for research. First, what type of families
+might  these  socially  skilled  bullies  come  from?  Contributory  family  factors  in  the
+development of social cognition could be integrated with existing knowledge of bullying
+and  the  family,  possibly  investigating  the  links  between  ‘internal  working  models’
+(Bowlby, 1988) and social cognition in bullying. For example,  the families  of children
+who bully are often characterized by a lack of cohesion and an imbalance of power between
+the parents (Bowers, Smith & Binney, 1992). Is this style of relationship internalized in
+children, providing a model for a cold, manipulative way of thinking?
+
+Second, where might these socially  skilled bullies end up? Social  cognition in adult
+bullying  may  also  be  of  interest.  Victims  of  bullying  in  the  workplace  often  refer  to
+managers  who cunningly manipulate  their  workers,  for  example  creating  ‘furtive  alli-
+ances’  and using ‘entrapment’ (inviting  someone  to  commit  themselves  to a  course  of
+action that is already known by the abuser to be awed; Thomas-Peter, 1997), and who
+also manage to hide their behaviour from their superiors, passing it off as an ‘autocratic
+style’. At an extreme level, the kind of social control sometimes seen in the workplace has
+been likened to a cult (O’Reilly & Chatman, 1996), and there may be common elements
+between  cult  leaders,  managers  and  10-year-old  bullies.  All  may  use  aggression  in  a
+controlled,  efcient  form  in  an  environment  that  allows  it  to  ourish,  often  carefully
+choosing  to  punish  those  who  are  not  valued  and  even  disliked  by  the  peer  group.
+Jacobson (1992) also links early bullying behaviour with domestic violence, referring to
+two distinct types: a  hot-headed, excessively  reactive  type, and a cool, calculating  and
+proactive type where the battering is part of a general subjugation of the partner. This
+latter type may be the adult version of a bully with good theory of mind skills.
+
+One other area for further research within this lifespan perspective is the issue of the
+directionality  of any link between bullying and theory of mind. While social cognition
+skills may well assist an individual in bullying and manipulating others, it would also
+seem possible that the experience of bullying itself may aid social cognitive development.
+Indeed, the strategic planning and execution of deceptive acts has been found to facilitate
+false-belief  understanding in 3-year olds (Hala & Chandler, 1996).
+
+If certain types of bully are indeed found to have high level social cognition, this has
+implications for intervention strategies. These bullies, being cold, manipulative masters
+of a social situation, may resist traditional  anti-bullying policies  and curriculum work.
+For example, the ‘No Blame’ approach (Maines & Robinson, 1991; Robinson & Maines,
+1997) relies heavily on empathy on the part of the bully. Considerable success has been
+reported using this method in terms of the reports of victims, but further research would
+
+446
+
+J. Sutton et al.
+
+be  needed  to  determine  if  this  success  is  greatest  in  the  most  empathic  bullies,  and
+whether the bully is also changed by the intervention. The empathic capacity of bullies is
+particularly important: bullies performed well on the stories assessing understanding of
+emotions, but if they do not actually share these emotions then intervention strategies
+may inadvertently hone the skills of an emotionally manipulative bully. In particular, the
+suggestion that  young bullies  should be  trained  in  theory  of  mind  abilities  (Randall,
+1996) should be treated with caution. Children with conduct problems are a notoriously
+heterogeneous group (Hinshaw, Lahey & Hart, 1993) and it is possible that no ‘blanket’
+technique will  be completely  effective.  The popular stereotype  of bullies as lacking in
+intelligence and social skills may be guiding anti-bullying policy away from individuals
+who  do not t this picture,  and confronting  such individuals  may  depend on a  much
+clearer understanding of the psychological weapons that some may use in causing distress
+to others.
+
+Alternatively, the focus could be shifted towards the psychological defences that could
+be used by others: Bullies did not score signicantly higher in terms of social cognition
+than  Outsiders.  Further research  is  needed  to  determine  what  prevents  these  children
+from becoming involved in bullying, and also how their skills could be used in prosocial
+ways to combat bullying. These children could be a useful resource in anti-bullying work,
+as could Defenders. The Participant  Role approach could be used in combination with
+sociometry, identifying popular Defenders and Outsiders and encouraging them to play
+an active role in reducing bullying in the school. This could involve training them as peer
+mediators or counsellors (Cowie & Sharp, 1996), or asking them to talk to Assistants and
+Reinforcers about bullying and the effects it may have. Targeting the social support of the
+Bully in this way may isolate them, and ultimately be more effective than attempting to
+change the more entrenched behaviour of the Bully or the Victim.
+
+Given the low scores of Victims and the negative correlations found between victim
+score and social cognition, one possibility for interventions to keep in mind is a decit in
+the social  cognition skills  of  victims  contributing to their  experience.  Does this  leave
+them more open to manipulation by others? Interventions could possibly use theory of
+mind training alongside assertiveness  training to give victims added skills in assessing
+and responding to bullying, although clearly  such a course of action would need to be
+carefully  monitored  and  empathy  also  emphasized  to  avoid  the  potential  problem  of
+victims turning into bullies.
+
+Further research  could also  investigate  in more  detail  how Crick & Dodge’s (1994)
+social skills model may apply to children who bully, without assuming any decit. Bullies
+may perceive and interpret social cues very accurately (the rst two stages), but may differ
+in  goal  selection,  response  strategy  generation  and  response  decisions,  reecting  past
+experiences and strategies which have worked rather than demonstrating an ‘error’. The
+difference  may  lie  in  their  values,  or  the  content  or  the  cognitions,  rather  than  the
+accuracy:  aggressive  children  attach  more  value  (or  importance)  to  the  rewarding
+outcomes of aggression and less value to the negative outcomes than do non-aggressive
+children (Boldizar, Perry & Perry, 1989). Further research is needed into this ‘costs and
+benets’ analysis, and how this may be affected by both the cultural climate of the school
+and the peer group. Deviant beliefs and values may stem from a deviant network of peers
+(see Patterson, DeBaryshe & Ramsey, 1989), and the beliefs and values are then employed
+in the organization of views of relationships, and instigation of behaviours. Investigation
+
+Social cognition and bullying
+
+447
+
+into  the  interactions  between  beliefs,  values  and  cognitions  could  incorporate  social
+psychological research on conformity, prejudice and leadership, asking what individual
+and cultural expectations promote bullying behaviour. Askew (1989) has suggested that
+schools which value competitiveness may tacitly encourage bullying, and Olweus (1993)
+and  Smith  &  Sharp  (1994)  have  demonstrated  the  positive  effects  of  a  warm  and
+participative school environment. This can presumably be extended to society as a whole:
+if some bullies are indeed skilled in ‘psychological warfare’, it may be necessary to change
+the battleground as well as the weapons used.
+
+Acknowledgements
+
+The authors are grateful to all the schools, teachers and pupils who participated in the study, to Francesca
+Happé,  Simon  Baron-Cohen  and  his  co-authors  for  use  of  story  materials,  and  to  Jody  Dearden  for
+illustrating  the emotion stories.
+
+References
+
+Ahmad, Y. & Smith, P. K. (1990). Behavioural measures: Bullying in schools. Newsletter of Association for
+
+Child Psychology  and Psychiatry, 12, 26–27.
+
+Askew, S. (1989). Aggressive behaviour in boys: To what extent is it institutionalized?  In D. P. Tattum
+
+& D. A. Lane (Eds), Bullying in schools, pp. 59–71. Stoke-on-Trent: Trentham Books.
+
+Baron-Cohen, S & Hammer, J. (1996). Is autism an extreme form of the male brain? Advances in Infancy
+
+Research, 11, 193–217.
+
+Baron-Cohen, S., O’Riordan, M., Stone, V., Jones, R. & Plaisted, K. (in press). Recognition of faux pas by
+normally developing children and children with Asperger Syndrome. Journal of Autism and Developmental
+Disorders.
+
+Baron-Cohen, S., Riviere, A., Cross, P., Fukushima, M., Bryant, C., Sotillo, M., Hadwin, J. & French, D.
+(1996). Reading the mind in the face: A cross-cultural  and developmental  study. Visual Cognition, 3,
+39–59.
+
+Besag, V. (1989). Bullies and victims in schools. Milton Keynes: Open University Press.
+Bjorkqvist,  K.,  Lagerspetz,  K.  M.  J.  &  Kaukiainen,  A.  (1992).  Do  girls  manipulate  and  boys  ght?
+Developmental trends in regard to direct and indirect aggression. Aggressive Behaviour, 18, 117–127.
+Bjorkqvist, K., Österman, K. & Kaukiainen, A. (1992). The development of direct and indirect aggressive
+strategies in males and females. In K. Bjorkqvist & P. Niemela (Eds), Of mice and women: Aspects of female
+aggression, pp. 51–64. San Diego, CA: Academic Press.
+
+Blair, R. J. R., Sellars, C., Strickland, I., Clark, F., Williams, A. O., Smith, M. & Jones, L. (1996). Theory
+
+of mind in the psychopath. Journal of Forensic Psychiatry, 7(1), 15–25.
+
+Boldizar, J. P., Perry, D. G. & Perry, L. C. (1989). Outcome values and aggression. Child Development, 60,
+
+571–579.
+
+Boulton,  M.  J.  (1997).  Teachers’  views  on  bullying:  Denitions,  attitudes  and  ability  to  cope.  British
+
+Journal of Educational Psychology, 67, 223–233.
+
+Boulton, M. J. & Smith, P. K. (1994). Bully/victim problems in middle-school  children: Stability,  self-
+perceived competence, peer perceptions and peer acceptance. British Journal of Developmental Psychology,
+12, 315–329.
+
+Bowers, L., Smith, P. K. & Binney, V. (1992). Cohesion and power in the families of children involved in
+
+bully/victim problems at school. Journal of Family Therapy, 14, 371–387.
+
+Bowlby, J. (1988). A secure base: Clinical applications  of attachment theory. London: Routledge.
+Bryant,  B.  K.  (1982).  An  index  of  empathy  for  children  and  adolescents.  Child  Development,  53,
+
+413–425.
+
+Cowie, H. & Sharp, S. (1996). Peer counselling  in school: A time to listen. London: David Fulton.
+Crick,  N.  R.  &  Dodge,  K.  A.  (1994).  A  review  and  reformulation  of  social  information-processing
+
+mechanisms in children’s social adjustment.  Psychological  Bulletin, 115, 74–101.
+
+448
+
+J. Sutton et al.
+
+Crick, N. R. & Dodge, K. A. (1996). Social information processing mechanisms in reactive and proactive
+
+aggression. Child Development, 67, 993–1002.
+
+Crick, N. R. & Grotpeter,  J. K. (1995). Relational  aggression,  gender,  and social-psychological  adjust-
+
+ment. Child Development, 66, 710–722.
+
+Dodge, K. A. (1991). The structure and function of reactive and proactive aggression. In D. J. Pepler & K.
+H.  Rubin  (Eds),  The  development  and  treatment  of  childhood  aggression,  pp.  201–218.  Hillsdale,  NJ:
+Lawrence Erlbaum.
+
+Dodge, K. A., Pettit,  G. S., McClaskey,  C. L. & Brown, M.  M.  (1986).  Social competence  in children.
+
+Monographs of the Society for Research in Child Development, 51(2), 1–85.
+
+Dunn, L. M., Dunn, L. M., Whetton, C. & Pintilie,  D. (1982). British Picture Vocabulary Scale. Windsor:
+
+NFER-NELSON.
+
+Eslea, M. J. & Smith, P. K. (1998). The long-term effectiveness of anti-bullying work in primary schools.
+
+Educational Research, 40, 203–218.
+
+Feldman, E. & Dodge, K. A. (1987). Social information  processing and sociometric status: Sex, age, and
+
+situational  effects.  Journal of Abnormal Child Psychology, 15, 211–277.
+
+Fletcher, P. C., Happé, F., Frith, U., Baker, S. C., Dolan, R. J., Frackowiak, R. S. J. & Frith, C. D. (1995).
+Other  minds  in  the  brain—a  functional  imaging  study  of  theory  of  mind  in  story  comprehension.
+Cognition, 57(2), 109–128.
+
+Frick, P. J., O’Brien, B. S., Wootton, J. M. & McBurnett, K. (1994). Psychopathy and conduct problems
+
+in children. Journal of Abnormal Psychology, 15, 211–277.
+
+Gibbins,  C.  &  Craig,  W.  (1997).  Mapping  the  path  to  aggression:  Validation  of  a  social  cognitive  model  of
+childhood. Paper presented at the biennial  meeting of the Society for Research in Child Development,
+Washington DC, 3–6 April.
+
+Guerra,  N.  G. & Slaby,  R. G. (1989).  Evaluative  factors  in social  problem  solving  by aggressive  boys.
+
+Journal of Abnormal Child Psychology, 17, 177–289.
+
+Hala,  S. & Chandler,  M.  (1996).  The role of strategic  planning in accessing  false-belief  understanding.
+
+Child Development, 67, 2948–2966.
+
+Happé, F. (1994). An advanced test of theory of mind: Understanding of story characters’ thoughts and
+feelings by able autistic,  mentally handicapped, and normal children and adults. Journal of Autism and
+Developmental Disorders, 24(2), 129–154.
+
+Happé, F. & Frith, U. (1996). Theory of mind and social impairment in children with conduct disorder.
+
+British Journal of Developmental  Psychology, 14, 385–398.
+
+Hare,  R.  D.  (1982).  Psychopathy  and  the  personality  dimensions  of  psychoticism,  extraversion  and
+
+neuroticism.  Personality  and Individual Differences, 3, 35–42.
+
+Hazler, R. J. (1996). Breaking the cycle of violence: Interventions for bullying and victimization. Washington, DC:
+
+Accelerated Development.
+
+Hinshaw, S. P., Lahey, B. B. & Hart, E. L. (1993). Issues of taxonomy and comorbidity in the development
+
+of conduct disorder. Development and Psychopathology, 5, 31–49.
+
+Hoffman, M. L. (1975). Developmental synthesis of affect and cognition and its implication for altruistic
+
+motivation.  Developmental Psychology, 11, 607–622.
+
+Jacobson, N. S. (1992). Behavioural couple therapy: A new beginning. Behaviour Therapy, 23, 493–506.
+Kaukiainen, A., Bjorkqvist, K., Lagerspetz, K., Österman, K., Salmivalli,  C., Forsblom, S. & Ahlbom, A.
+(1999). The relationships between social intelligence, empathy, and three types of aggression. Aggressive
+Behaviour, 25(2), 81–89.
+
+Keating, C. F. & Heltman, K. R. (1994). Dominance and deception in children and adults: Are leaders the
+
+best misleaders?  Personality  and Social Psychology Bulletin, 20, 312–321.
+
+Lagerspetz, K. M. J., Bjorkqvist, K., Berts, M. & King, E. (1982). Group aggression among schoolchildren
+
+in three schools. Scandinavian Journal of Psychology, 23, 45–52.
+
+Lynam, D. R. (1997). Pursuing the psychopath: Capturing the edgling psychopath in the nomological
+
+net. Journal of Abnormal Psychology, 106(3), 425–438.
+
+Maines,  B.  &  Robinson,  G.  (1991).  Don’t  beat  the  bullies!  Educational  Psychology  in  Practice,  7(3),
+
+168–172.
+
+Mealey,  L.  (1995).  The  sociobiology  of  sociopathy:  An  integrated  evolutionary  model.  Behavioural  and
+
+Brain Sciences, 18, 523–599.
+
+Olweus, D. (1978). Aggression in the schools:  Bullies and whipping boys. Washington, DC: Hemisphere.
+
+Social cognition and bullying
+
+449
+
+Olweus, D. (1993). Bullying—what we know and what we can do. Oxford: Blackwells.
+O’Reilly, C. A. & Chatman, J. A. (1996). Culture as social control: Corporations, cults and committment.
+
+Research in Organizational  Behaviour, 18, 157–200.
+
+Patterson,  G.  R.,  DeBaryshe,  B.  D.  &  Ramsey,  E.  (1989).  A  developmental  perspective  on  antisocial
+
+behaviour. American Psychologist, 44, 329–335.
+
+Pepler,  D. J.  & Craig, W. M.  (1995). A peek behind  the fence: Naturalistic  observations  of aggressive
+
+children with remote audiovisual recording. Developmental Psychology, 31(4), 548–553.
+
+Pepler,  D.,  Craig,  W.,  Zeigler,  S.  &  Charach,  A.  (1993).  A  school  based  anti-bullying  intervention:
+Preliminary  evaluation. In D. Tattum (Ed.), Understanding and managing bullying, pp. 76–91. Oxford:
+Heinemann Educational.
+
+Premack, D. & Woodruff, G. (1978). Does the chimpanzee have a theory of mind? Behavioural and Brain
+
+Sciences, 1, 515–526.
+
+Randall, P. (1996). Pre-school children: Experiences if being parented and the routes to bullying. In D.
+
+Tattum & G. Herbert (Eds), Bullying: Home, school and community. London: David Fulton.
+
+Randall, P. (1997). Adult bullying: Perpetrators  and victims. London: Routledge.
+Rigby,  K.  &  Slee,  P.  T.  (1991).  Bullying  among  Australian  school  children:  Reported  behaviour  and
+
+attitudes towards victims.  Journal of Social Psychology, 131, 615–627.
+
+Rigby, K. & Slee, P. T. (1993). The relationship of Eysenck’s personality factors and self esteem to bully–
+
+victim behaviour in Australian schoolboys. Personality  and Individual Differences, 14(2), 371–373.
+
+Rivers, I. & Smith, P. K. (1994). Types of bullying behaviour and their correlates. Aggressive Behaviour, 20,
+
+359–368.
+
+Robinson, G. & Maines, B. (1997). Crying for help: The No Blame Approach to bullying. Bristol: Lucky Duck
+
+Publishing.
+
+Ross, D. M. (1996). Childhood bullying and teasing. Alexandria, VA: American Counselling Association.
+Salmivalli, C., Lagerspetz, K., Bjorkqvist, K., Österman, K. & Kaukiainen, A. (1996). Bullying as a group
+process: Participant roles and their relations to social status within the group. Aggressive Behaviour, 22,
+1–15.
+
+Smith, P. K. & Sharp, S. (1994). School bullying: Insights and perspectives . London: Routledge.
+Sparrow, S., Balla, D. & Cicchetti, D. (1984). Vineland Adaptive Behaviour Scales (survey form). Circle Pines,
+
+MN: American Guidance Services.
+
+Staub,  E.  (1979).  Positive  social  behaviour  and  morality:  Socialization  and  development,  vol.  2.  New  York:
+
+Academic Press.
+
+Steinberg, M. D. & Dodge, K. A. (1983). Attributional bias in aggressive adolescent boys and girls. Journal
+
+of Social and Clinical Psychology, 1, 312–321.
+
+Sutton, J. & Smith, P. K. (1999). Bullying as a group process: An adaptation of the Participant Role Scale
+
+appoach. Aggressive Behaviour, 25(2), 97–111.
+
+Sutton, J., Smith, P. K. & Swettenham, J. (1999). Bullying and ‘theory of mind’: A critique of the ‘social
+
+skills decit’ view of anti-social  behaviour. Social Development, 8(1), 117–134.
+
+Tabachnick, B. & Fidell, L. S. (1996). Using multivariate  statistics, 3rd ed. New York: Harper Collins.
+Taylor, M. (1996). A theory of mind perspective on social cognitive development. In R. Gelman & T. Kit-
+
+Fong Au (Eds), Perceptual and cognitive development, pp. 283–329. London: Academic Press.
+
+Thomas-Peter,  B.  A.  (1997).  Personal  standards  in  professional  relationships:  Limiting  interpersonal
+
+harassment. Journal of Community and Applied Social Psychology, 7, 233–239.
+
+Whitney, I. & Smith, P. K. (1993). A survey of the nature and extent of bullying in junior/middle and
+
+secondary schools. Educational Research, 35, 3–25.
+
+Wimmer, H. & Hartl, M. (1991). Against the Cartesian view on mind: Young children’s difculty with
+
+own false beliefs. British Journal of Developmental Psychology, 9, 125–138.
+
+Received 17 June 1998; revised version received  28 October 1998
+
+450
+
+J. Sutton et al.
+
+Appendix
+
+Summaries of social cognition stories
+
+(1) Aaron attempts to deceive Ben by telling him to go to the school eld after school to play football,
+rather than the usual venue of the park. Ben sees them going to the park. When Aaron’s friends
+ask him where Ben is, he will think Ben has gone to the school eld because he doesn’t know Ben
+knows they are at the park.
+
+(2) When Chu leaves the room, Diane hides her picture,  unaware that Chu is watching her. When
+Chu comes  back,  Diane will  think  she  will  look  for  her picture  where  she left  it,  because  she
+doesn’t know that Chu knows where she put it.
+
+(3) A prisoner uses a double bluff to attempt to trick his captors. They will look for his tanks in the
+
+wrong place because they think he is lying to them.
+
+(4) A burglar needlessly gives himself up when a policeman calls out to him to return a glove he has
+
+dropped, because he thinks the policeman knows he is a burglar.
+
+(5) Mrs Smith tells Jill she will have to drown the kittens if no-one buys them, because she knows that
+
+if Jill thinks this is true she is more likely to buy one.
+
+(6) Mike will put on a brave and happy face to his Mum when he wants to go out to play despite not
+
+feeling well, because he knows that if his Mum knows he is ill she won’t let him go out.
+
+(7) When Fiona  sits  on Gita’s model  at school,  she  thinks  she  will  be upset  or angry  because  she
+
+doesn’t know Gita didn’t like the model and made a new one.
+
+(8) Jane might feel happy for her friend when she wins a competition so that her friend doesn’t just
+
+think she is sad or angry that she didn’t win herself.
+
+(9) Claire is critical  of dinner ladies in front of Robert because she doesn’t know that his Mum is a
+
+dinner lady.
+
+(10) Two boys talk about another one, not knowing he is in the cubicles behind them.
+(11) Uncle Tom says he doesn’t like apple pies, not knowing Kim has just made one for him.
+
+Note. Stories 3, 4 and 5 are published in Happé (1994); 9, 10 and 11 are from Baron-Cohen, O’Riordan,
+Stone, Jones & Plaisted (in press); the remainder are available from the rst author on request.
+
+

@@ -1,0 +1,4468 @@
+Child Development, July/August 2013, Volume 84, Number 4, Pages 1442–1458
+
+Siblings, Theory of Mind, and Executive Functioning in Children Aged
+
+3–6 Years: New Longitudinal Evidence
+
+Anna R. McAlister
+Michigan State University
+
+Candida C. Peterson
+University of Queensland
+
+Longitudinal data were obtained from 157 children aged 3 years 3 months to 5 years 6 months at Time 1. At
+Time 2 these children had aged an average of 12 months. Theory of mind (ToM) and executive functioning
+(EF) were measured at both time points. Results suggest that Time 1 ToM scores predict Time 2 EF scores.
+Detailed examination of sibling inﬂuences suggests that beneﬁts—in terms of advanced ToM development—
+accrue to children with siblings versus without, and to those with a larger number of child-aged siblings. Any
+advance in either area (ToM or EF) is likely to beneﬁt the other, and early sibling interaction appears to act as
+a catalyst.
+
+Cognitive developments of the preschool period are
+impressive (Flavell, 2004) and two of the most nota-
+ble of these are theory of mind (ToM) and executive
+functioning (EF). ToM involves a representational
+understanding of others’ minds including abilities to
+comprehend and predict others’ mental states of true
+and false belief, memory, imagination, and the like,
+even in situations where these mental states are at
+odds with observable reality. Developing dramati-
+cally over the period from ages 2 to 6, the prototypi-
+cal tests for ToM (i.e., inferential false belief tasks) are
+failed by most preschoolers at age 3 but are mastered
+so universally by age 5 as to suggest that understand-
+ing of belief and of mind exhibit genuine conceptual
+change in the preschool years (Wellman, Cross, &
+Watson, 2001). Whereas some theoretical accounts
+(e.g., Leslie & Thaiss, 1992) ascribe ToM development
+to the maturational unfolding of a preprogrammed,
+neurocognitive module largely independent of varia-
+tions in familial, social, or educational experiences,
+many others highlight individual differences among
+preschoolers in the pace of ToM growth (e.g., Dunn
+& Brophy, 2005). Evidence also suggests that faster
+rates of ToM progress among typically developing
+children are linked with variations in social circum-
+stances (e.g., number of siblings; Perner, Ruffman, &
+Leekam, 1994) and life experience (e.g., richness of
+maternal mental state conversation; Ruffman, Slade,
+& Crowe, 2002), suggesting possible causal connec-
+tions (Dunn & Brophy, 2005).
+
+Another key development of the preschool years
+involves increases in the EF skills that control, direct,
+and monitor cognitive function and its behavioral
+outcomes (Zelazo, Carlson, & Kesek, 2008). These
+include inhibitory control, working memory, resis-
+tance to interference, and set shifting (Garon, Bryson,
+& Smith, 2008). EF skills are believed to be responsi-
+ble for conscious, effortful control of thoughts and
+actions (Oh & Lewis, 2008), and are distinct from
+intelligence, including both verbal and nonverbal IQ.
+Cross-sectional links between preschoolers’ ToM and
+EF skills are well established (Moses, Carlson, & Sab-
+bagh, 2006).
+
+Several distinct theoretical accounts have been
+put forward to explain why the EF–ToM associa-
+tion arises (Carlson, Moses, & Breton, 2002). The
+expression account argues that the link is relatively
+superﬁcial. Children simply need EF to display
+their already-developed ToM understanding in test-
+ing situations, especially those relying on inferential
+false belief tests. Alternatively, emergence accounts
+view the association between the two capacities as
+more fundamental than a simple test-performance
+limitation. Although varying in detail, these argue
+that much of the inﬂuence of EF is relevant in terms
+of the level of ToM competence displayed (Carlson
+& Moses, 2001). Without EF capability, ToM might
+be impossible to acquire. Conversely, EF emergence
+may equally be contingent upon the prior develop-
+ment of ToM (e.g., Perner & Lang, 1999). Without
+
+Correspondence concerning this article should be addressed to
+Anna R. McAlister, Department of Advertising & Public
+Relations, 404 Wilson Road, Room 309, East Lansing MI 48824.
+Electronic mail may be sent to annamc@msu.edu.
+
+© 2012 The Authors
+Child Development © 2012 Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2013/8404-0023
+DOI: 10.1111/cdev.12043
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1443
+
+ToM-based awareness of the mind’s role and its
+limitations, children might not master (or apply) EF
+skills to the strategic control of their overt behavior.
+Still a third possibility is that a common mediating
+factor (e.g., language development) might underpin
+the growth of both ToM and EF during the pre-
+school period, thus explaining their observed corre-
+lations with one another. Others have suggested
+that a child gains better self-control once he or she
+has a better understanding of his or her own mind
+(Perner, 1991; Perner, Lang, & Kloo, 2002). More-
+over, some researchers entertain the notion that EF
+and ToM share a common set of representational
+abilities (Perner, 1998) or common brain regions
+(Ozonoff, Pennington, & Rogers, 1991). The cogni-
+tive complexity and control theory (Frye, Zelazo, &
+Burack, 1998) posit that success on false belief tests
+requires a type of reasoning not unique to the
+understanding of mental states. Instead, the general
+intellectual ability to deal with abstract rules and
+relations is thought to underpin both ToM and EF.
+Regardless of the particular mechanism at play,
+cross-sectional research strongly supports an overall
+connection between ToM and EF in young pre-
+schoolers, while highlighting a special link between
+ToM and inhibitory control
+(Carlson & Moses,
+2001). However,
+the cross-sectional methodology
+has limitations when it comes to elucidating devel-
+opmental pathways and distinguishing precursor,
+consequent, or third-variable-mediated connections.
+Longitudinal studies are thus desirable, particularly
+via the cross-lagged approach in which early and
+later abilities in both domains are assessed in the
+same children as they grow in age and experience.
+This enables examination of how gains made in one
+domain (e.g., ToM) may arise out of earlier
+advanced mastery of the other (e.g., EF) after con-
+trolling individual variability in initial mastery of
+the outcome domain itself. Accompanied by appro-
+priate controls for other known EF and ToM corre-
+lates (like language ability), this design allows for a
+relatively pure assessment of pathways of causal
+precedence and consequence.
+
+Cross-lagged longitudinal studies of the ToM–EF
+association remain scarce (Hughes & Ensor, 2007).
+Nonetheless, some have been conducted (e.g., Carl-
+son, Mandell, & Williams, 2004; Farrant, Maybery,
+& Fletcher, 2012; Hughes, 1998; Hughes & Ensor,
+2007; Müller, Liebermann-Finestone, Carpendale,
+Hammond, & Bibok, 2012; Schneider, Lockl, &
+Fernandez, 2005). Although these pioneering inves-
+tigations have supplied very valuable information
+(see below) that has served to illuminate several
+key issues for the early development of EF–ToM
+
+connections, a limitation is that they have mostly
+concentrated on the earliest beginnings of ToM
+from ages 2 to 3 or early 4. There is clearly a need
+for additional cross-lagged longitudinal research on
+EF and ToM especially with somewhat older ages,
+as we will argue in detail later.
+
+One recent study (Hughes & Ensor, 2007) of
+2- to 4-year-olds extended earlier pioneering efforts
+(e.g., Hughes, 1998) to examine 122 socially diverse
+toddlers and found “only partial support for the
+view that ToM is a prerequisite for EF” (p. 1447).
+However, EF at age 2 signiﬁcantly predicted ToM
+performance at ages 3 and 4. Similarly, using a mi-
+crogenetic design with a small sample (N = 21) of
+3-year-olds, Flynn, O’Malley, and Wood (2004)
+found that earlier EF gains were linked with later
+false belief mastery. However, the design entailed
+monthly testing over 6 months, and comparison of
+false belief understanding at adjacent testing times
+showed numerous developmental
+inconsistencies
+with children sometimes later failing tasks they pre-
+viously passed. The authors therefore advocated
+longer term longitudinal research to identify possi-
+ble broader patterns amid short-term inconsistency.
+Carlson et al. (2004) sampled a group of 81 tod-
+dlers at 24 months of age and retested them at
+39 months. The EF tasks
+these authors used
+showed moderate stability across this age range,
+but several of their lab measures of ToM at the ini-
+tial test did not. In light of this, they substituted an
+indirect measure of ToM at 24 months, consisting
+of a listing by parents of all the words for internal
+states (perception, affect, cognition, physiology) that
+they believed their children knew. This language
+measure correlated with later scores on laboratory
+ToM tests, as well as with contemporaneous EF
+measures (at 24 months). Carlson et al. were there-
+fore able to use the cross-lagged method to examine
+the predictive value of toddlers’ early ToM (internal
+state language) on later EF performance at age 3, as
+well as the cross-lagged connection from early EF
+to later ToM. They found no clear support for the
+former pathway, but convincing support
+for the
+latter. Indeed, even after controlling for early ToM
+and language ability, children’s ToM scores at
+39 months were predicted by their EF skills at age
+2. Similarly, Müller et al. (2012) found that EF at
+ages 2 and 3 predicted ToM at ages 3 and 4 even
+after controlling verbal ability and prior ToM. But
+early ToM did not inﬂuence later EF independently
+of language ability.
+
+This pattern has not always emerged consis-
+tently. For example, Schneider et al. (2005) tested
+EF and ToM in 176 children longitudinally on three
+
+1444 McAlister and Peterson
+
+occasions, beginning at a mean age of 3.33 years
+and ending at 4.33 years. At each testing point, the
+strongest associations were between language abil-
+ity and each of
+the other variables, with little
+evidence that EF and ToM were contemporaneously
+associated, after controlling for age and language.
+These ﬁndings are not fully consistent with those of
+Hughes and Ensor (2007) or those of Carlson et al.
+(2004). In fact, Schneider et al. reported no signiﬁ-
+cant predictive relation between early EF perfor-
+mance and later ToM scores. Nor did age or
+working memory contribute to the prediction of
+ToM over and above language ability.
+In other
+words, despite their careful controls, large sample,
+and comprehensive batteries of ToM and EF tasks,
+results of this three-wave cross-lagged study were
+null: ToM made no unique contribution to EF, and
+EF made none to ToM, at any time point.
+
+How are the inconsistencies among results of
+these recent, longitudinal studies of early ToM and
+EF connections to be reconciled? Schneider et al.
+(2005) suggested that one problem might have been
+their sample’s generally poor grasp of ToM at the
+start of their study. In fact, throughout the longitu-
+dinal period, the standard ToM tasks they used
+remained difﬁcult
+for their sample. Percentages
+passing each task did not exceed chance even at the
+ﬁnal testing.
+
+The rationale for studying 2- and 3-year-olds
+(i.e., children younger than the watershed age for
+false belief mastery; Wellman et al., 2001) is to cap-
+ture precursors to both EF and ToM and trace their
+developmental relations over time. The important
+ﬁndings from such studies (e.g., Carlson et al.,
+2004; Hughes & Ensor, 2007) highlight how much
+can be gained from examining these constructs as
+early as possible in development. Nevertheless,
+additional research is now in order with older chil-
+dren (as
+to discover
+whether early patterns are maintained as develop-
+ment continues.
+
+in the present
+
+research)
+
+longitudinal
+
+Theoretically, there are grounds for anticipating
+that
+connections between EF and
+ToM in older pre- and primary schoolers might
+differ from those observed in very early childhood.
+Peer group dynamics become more salient as chil-
+dren progress through pre- and primary school,
+posing new ToM challenges (Dunn, 1995). New EF
+challenges likewise arise in a more academically
+oriented classroom and via competitive games and
+sports.
+this age
+imply that “by excluding school-age children we
+miss much of the developmental picture of EF”
+(Best, Miller, & Jones, 2009, p. 181),
+including
+
+Indeed the known EF gains at
+
+possible changes in its patterns of interconnection
+with ToM. Empirically, further study of older chil-
+dren is desirable to balance the preponderant past
+focus on those younger than 4.5 years. Indeed only
+two known studies of older, typically developing
+children have been published (Farrant et al., 2012;
+Razza & Blair, 2009) and each had limitations.
+Razza and Blair (2009) failed to measure EF at Time
+2, but found no predictive relation between early
+EF (at age 5) and ToM 1 year later. Farrant et al.
+(2012) failed to measure general
+language ability
+and had only one EF task. Also, paradoxically, their
+Time 2 ToM measure was unrelated to chronologi-
+cal age. Nevertheless, their ﬁndings supported sev-
+eral with younger preschoolers in showing early EF
+predicted later ToM but not vice versa. Thus,
+although these ﬁndings are suggestive,
+there is
+clearly a need for further study of older preschool-
+ers and young primary schoolers, and this is one
+aim of the present research.
+
+The other major aim of our study was to exam-
+ine whether having siblings at home, versus being
+an only-child, might inﬂuence the development of
+ToM and EF skills and their connections to one
+another. Past research has suggested that preschool-
+ers often develop ToM understanding rapidly when
+they have one or more siblings to interact with at
+home (e.g., Jenkins & Astington, 1996; Perner et al.,
+1994; Peterson, 2000; Ruffman, Perner, Naito, Par-
+kin, & Clements, 1998). Children with siblings have
+daily access to other children’s minds via mutual
+engagement in pretend play (Perner et al., 1994),
+sibling disputes (Randell & Peterson, 2009), and
+child-oriented conversation (Dunn & Brophy, 2005).
+They can also eavesdrop on parents’ disciplining or
+teaching of siblings. Sibling interaction may also
+trigger strategic EF skills for winning games (Cole
+& Mitchell, 2000) or alert preschoolers to ToM-
+based consideration of others’ outcomes or feelings
+(Ruffman, Perner, & Parkin, 1999). Thus, sibling
+experience might conceivably favor the rapid devel-
+opment of both ToM and EF. Indeed, Cole and
+Mitchell (2000) postulated that the development of
+effortful
+impulse control might be facilitated in
+households with more siblings owing to demands
+to delay gratiﬁcation during conﬂict and play. Some
+cross-sectional evidence supports these predicted
+associations between the household sibling compo-
+sition, EF, and ToM, independently of age and lan-
+guage (e.g., McAlister & Peterson, 2006). However,
+such associations are not always found (e.g., Cole
+& Mitchell, 2000).
+
+One issue to consider in exploring links between
+presence of siblings and the preschooler’s ToM and
+
+EF development is the sibling’s age. As Peterson
+(2000) noted, previous studies have not always
+reported information on siblings’ ages and there
+may be upper and lower limits on the ages at
+which siblings may be of any developmental bene-
+ﬁt. For example, a young infant sibling is probably
+too immature to interact independently with the
+preschooler in ways that could beneﬁt ToM or EF
+development. Adolescent and adult siblings, con-
+versely, might so resemble parents as to create a
+social environment similar to the only-child’s. We
+therefore deﬁned participants as having child-aged
+siblings only if the sibling was over 12 months and
+under 13 years in age. We then performed the fol-
+lowing comparisons of ToM and EF performance:
+(a) only-child versus has at least one sibling, (b)
+participant’s total number of child-aged siblings,
+and (c) birth order in the sibling constellation
+(eldest, etc.).
+
+Method
+
+Participants
+
+The participants were 157 children (75 boys, 82
+girls) aged 3 years 3 months to 5 years 6 months
+(M = 4 years 2 months, SD = .57 years) at Time 1.
+All children were recruited from Australian kinder-
+gartens and preschools that drew families from a
+variety of working-, middle-, and upper-middle-
+class neighborhoods. We had no information on the
+speciﬁc incomes, education, or occupations of our
+participants’ parents. However, population census
+ﬁgures for
+the neighborhoods from which we
+recruited indirectly suggest that maternal education
+levels are predominantly high school completion or
+above (e.g., across the neighborhoods from which
+we sampled, 91% of female residents aged 20 to
+34 years have completed 12 years of secondary
+schooling; Australian Bureau of Statistics, 2008).
+Most children in the sample (94.9%) came from
+Anglo-Australian or other English-language families
+(e.g., New Zealand, Ireland, Canada), whereas the
+remainder had at least one parent of East Asian
+(3.2%),
+(1.3%), or German
+(0.6%) heritage. All children spoke English as their
+ﬁrst language and none had any suspected or diag-
+nosed developmental disorder. We tested all of
+these children again at Time 2 when they had aged
+(SD = 1.57 months).
+an average
+Actual delay periods ranged from 9 months to
+15 months, so that chronological ages ranged from
+4 years 3 months to 6 years 8 months at Time 2
+with a mean age of 5.17 years.
+
+Indian or Pakistani
+
+of
+
+12 months
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1445
+
+Sibling background. Eighty-ﬁve percent of
+
+the
+sample (n = 133) lived with at least one child-aged
+(i.e., ages 1–12 years) sibling at Time 1, whereas 24
+children (15%) were only-children without child
+sibling access. Of these 24 singletons, 21 (or 13% of
+the entire sample) had no siblings at all, whereas 3
+children had a preverbal
+infant sibling only. At
+Time 2, respective percentages with versus without
+child siblings were 87% and 13%.
+
+Longitudinal Design
+
+Children’s ToM, EF, and language ability were
+individually measured at each of the longitudinal
+time points. At Time 1 this was at preschool. At
+Time 2 it also was if still enrolled, or otherwise at
+home (for those who had moved on to primary
+school). Because testing was comprehensive and
+lengthy, it occurred over two sessions (with a time
+lag of 1 week) both at Time 1 and at Time 2. The
+order of tasks and trials within tasks was varied
+systematically.
+
+Task Order, Materials, Procedures, and Scoring
+
+At Time 1, children completed a battery of four
+ToM tasks, two EF tasks, and a language measure
+(Peabody Picture Vocabulary Test [PPVT]). At Time
+2, we selected new and more challenging test bat-
+teries for ToM (four tasks) and EF (four tasks) while
+repeating the PPVT. Previous empirical evidence, as
+detailed below, informed task selection. At Time 1,
+Session A had (in this order) the following: Route
+Navigation (two trials), Appearance–Reality Trial
+A, Unseen Displacement False Belief (two trials),
+and PPVT; whereas Session B had (in order) the
+following: Misleading Container False Belief, Pre-
+tend Play Trial A, Route Navigation EF (two trials),
+Appearance–Reality Trial B, Pretend Play Trial B,
+and Resisting Instructions EF. The Time 2 tasks
+were (Session A) as follows: Hand Game, Card Sort
+A, Appearance–Reality A, Card Sort B, Appearance
+–Reality B, Unseen Displacement False Belief (two
+trials), Emotion False Belief, and (Session B) Resist-
+ing Instructions EF, Real–Apparent Emotion (ToM),
+Tower of London EF, and PPVT. Table 1 shows all
+descriptive statistics.
+
+Details and rationale for Time 1 ToM tasks. The
+tasks used to measure ToM at Time 1 were selected
+because they are widely used, reliable measures of
+a broad range of core ToM skills that would be
+likely to provide adequate variance in the level of
+difﬁculty between tasks. This was essential to detect
+early signs of ToM awareness among our youngest
+
+1446 McAlister and Peterson
+
+Table 1
+Descriptive Statistics for Measures at Times 1 and 2
+
+Time 1 age
+Time 1 number of child siblings
+Time 1 Peabody Picture Vocabulary
+Test (PPVT) score
+Time 1 ToM tasks
+
+Unseen displacement
+Misleading container
+Appearance–reality
+Pretend play
+Time 1 ToM scale score
+
+Time 1 EF Tasks
+
+Route navigation
+Resisting instructions
+Time 1 EF scale score
+Time 2 age
+Time 2 number of child siblings
+Time 2 PPVT score
+
+Time 2 ToM Tasks
+
+Real–apparent emotion
+Emotion-based false belief
+Unseen displacement
+Appearance–reality
+Time 2 ToM scale score
+
+Time 2 EF Tasks
+
+Resisting instructions
+Card sort
+Hand game
+Tower of London
+Time 2 EF scale score
+
+M
+
+4 years 2 months
+
+1.34
+47.54
+
+0.90
+0.45
+0.96
+0.53
+0.58
+
+3.51
+3.24
+0.71
+
+5 years 2 months
+
+1.48
+67.44
+
+0.18
+1.01
+0.80
+1.14
+0.58
+
+4.44
+8.26
+7.80
+4.08
+0.73
+
+SD
+
+0.57
+0.87
+16.06
+
+0.88
+0.50
+0.96
+0.49
+0.26
+
+1.36
+2.64
+0.26
+0.61
+0.91
+18.70
+
+0.39
+0.86
+0.98
+1.00
+0.28
+
+0.78
+4.06
+1.90
+12.01
+0.17
+
+% perfect
+
+Minimum
+
+Maximum
+
+—
+—
+—
+
+31.7
+44.6
+38.8
+31.2
+11.5
+
+49.8
+21.7
+25.5
+—
+—
+—
+
+18.5
+36.3
+29.3
+40.8
+12.7
+
+62.4
+38.9
+67.7
+0.01
+1.3
+
+3 years 3 months
+
+5 years 6 months
+
+0
+12
+
+0
+0
+0
+0
+0
+
+1
+0
+.20
+
+3
+82
+
+2
+1
+2
+1
+1
+
+4
+6
+1
+
+4 years 3 months
+
+6 years 8 months
+
+0
+30
+
+0
+0
+0
+0
+0
+
+0
+0
+0
+0
+0
+
+3
+113
+
+1
+2
+2
+2
+1
+
+6
+14
+10
+24
+1
+
+participants. Because most of the children tested at
+Time 1 were below the age when false belief tasks
+are consistently passed (Wellman et al., 2001), we
+ensured against ﬂoor effects by following Hughes
+and Ensor’s (2005) strategy of including tests of the
+understanding of the representational nature of pre-
+tend play, in addition to standard false belief and
+appearance–reality tasks. The two Time 1 false
+belief
+tests, unseen displacement and misleading
+container, had two test
+trials each, plus control
+questions. The former was a replication of Baron-
+Cohen, Leslie, and Frith’s (1985) “Sally-Ann” task
+with two trials. Each included one test question
+and two control questions. Both were enacted and
+scored exactly as described by the original authors
+except a boy doll replaced “Ann” (for a rationale,
+see Peterson & Siegal, 1999). On each trial, a child
+could earn 1 point for correctly answering the test
+and all control questions. If the control questions
+were passed, but the test question failed, the child
+scored 0. Data were excluded for any child who
+
+did not pass both control questions. Taking into
+account performance on both trials, children could
+earn a maximum of 2 points for the task as a
+whole. The misleading container test
+(Gopnik &
+Astington, 1988) involved a Band-Aid box contain-
+ing pencils. There were two test questions (one
+about own prior belief and one about the belief of a
+naïve classmate) plus one control question. To earn
+1 point, children needed to pass the control ques-
+tion and answer both test questions correctly.
+Scores on unseen displacement and unexpected
+contents false belief tasks were signiﬁcantly corre-
+lated, r(156) = .23, p < .01. Thus (so that false belief
+would be given equal weighting in the ToM com-
+posite to appearance–reality and pretend represen-
+tation), a total
+false belief proportion score was
+created for each child by ﬁrst dividing scores on
+the unseen displacement task by 2, then averaging
+across this and the misleading container task. These
+decimal false belief proportion scores could range
+from 0 to 1.
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1447
+
+The appearance–reality test had two trials. The
+stimulus for the ﬁrst was an apple-shaped candle.
+The second used a realistic ﬂower that was actually
+a ballpoint pen. Each had an initial control question
+(“What is this?”) and two test questions (“What
+does it look like to your eyes? and “What is it
+really and truly?”). Administration and scoring of
+each trial followed Flavell’s (1986) procedure. Chil-
+dren passed a trial (to earn 1 point) only if all three
+questions were answered correctly. Trial scores
+were signiﬁcantly correlated, r(156) = .53 p < .001,
+so an appearance–reality total (0–2; Table 1) was
+subsequently converted to a proportion score for
+the ToM composite.
+
+Finally, at Time 1, awareness of the representa-
+tional nature of pretending and was tested exactly
+as in McAlister and Peterson (2007). For each of two
+trials, a familiar, real object (banana or potato) was
+shown and participants had to pretend it was some-
+thing else (i.e., the banana was a phone, the potato
+was soap). Once pretense was effectively enacted
+(which all children did), there were four test ques-
+tions: (a) “What is this really?” (b) “What did we
+pretend this was?” Then additional objects were
+placed beside the stimulus, a real version of the pre-
+tend item (e.g., a real phone) and an irrelevant
+decoy (e.g., a tennis ball) and questions (c) “Which
+one did we pretend was a [phone or soap]?” and (d)
+“Which one is really a [phone or soap]?” were
+asked. Although each trial had four test questions,
+the maximum score per trial was 1. This was
+achieved only when all
+four questions were
+answered correctly. Any other response pattern
+earned 0. Scores on the two trials were signiﬁcantly
+correlated, r(156) = .24, p < .01, so a proportional
+score was created with a range from 0 to 1.
+
+Time 1 ToM total score. False belief proportion
+scores correlated with proportion scores on appear-
+r(156) = .29, p < .001, and pretend
+ance–reality,
+representation, r(156) = .50, p < .001, and the latter
+two were also signiﬁcantly correlated, r(156) = .29,
+p < .001. Furthermore, each of
+these correlations
+remained statistically signiﬁcant in partial correlations
+controlling for age and language ability, rs(154) = .22,
+.44 and .23, all ps < .01. Given this, a combined pro-
+portional Time 1 ToM scale score (a decimal from 0 to
+1) was calculated as a combined proportion calculated
+as their sum divided by 3. We elected this averaging
+method because we wanted to give equal weighting
+to each separate, conceptually distinct aspect of ToM.
+Cronbach’s test revealed adequate internal consis-
+tency (a = .63) for the Time 1 composite.
+
+Details and rationale for Time 1 EF tests. Two EF
+tests, route navigation and resisting instructions,
+
+exactly replicated Cole and Mitchell’s (2000) battery
+that has been used successfully for groups of a similar
+age. The former captures EF for forward planning,
+attention to relevant features, resisting distraction,
+and the latter, response inhibition. The four route nav-
+igation trials were presented and scored (exactly as
+originally) via maze maps with direct versus indirect
+paths to a goal and children passed by tracing the for-
+mer, perfectly, otherwise 0. Sums over trials (0–4)
+were converted to decimal proportions just as for the
+combined ToM scores (see above).
+
+for each test
+
+Resisting instructions, assessing inhibitory con-
+trol, was Cole and Mitchell’s (2000) adaptation of
+Reed, Pien, and Rothbart’s (1984) test. Questions
+and procedure were identical to Cole and Mitch-
+ell’s, but we replaced their squirrel and badger with
+locally familiar bear and lion puppets. Over 12
+trials, the “good” puppet alternated with the “bad”
+one in issuing commands (e.g., “clap your hands”).
+Children earned 1 point
+for
+following the instruction to ignore the latter (i.e.,
+remain still) to a maximum possible task total of 6
+points. “Good” puppet
+trials were not
+scored. Although there were no practice trials per
+se, each child had passed a memory control ques-
+tion at the beginning by pointing correctly both at
+the puppet to be obeyed and the one to be ignored.
+In line with Cole and Mitchell’s procedure, a pause
+after every fourth trial required children to conﬁrm
+who should be ignored. All children scored per-
+fectly on these controls. A total proportion score
+was created by dividing totals by 6.
+
+(control)
+
+trial
+
+Time 1 EF total score. Scores on route navigation
+and resisting instructions were signiﬁcantly corre-
+lated, r(156) = .39, p < .001, even after age and
+language were partialed out, r(154) = .32, p < .001.
+Hence a composite proportion, the “EF scale score”
+(0–1) was created.
+
+Time 1 language ability. A widely used, norm-
+referenced receptive vocabulary test, the PPVT (Dunn
+& Dunn, 1989), was our measure of language ability.
+This test of receptive vocabulary was scored accord-
+ing to the test manual to yield raw scores (dubbed
+PPVT herewith) and standardized verbal mental age
+estimates (dubbed VMA). Although the test is stan-
+dardized only on a U.S. population, widespread Aus-
+tralian use of this test (particularly the second edition
+that we selected for this reason) has conﬁrmed its
+local suitability (e.g., Oddy et al., 2003).
+
+Time 2 Tasks and Scoring
+
+Time 2 ToM tests. At Time 2 we employed a bat-
+tery of four ToM tasks that were selected to provide
+
+1448 McAlister and Peterson
+
+a greater challenge than the tests used at Time 1,
+thereby making them more appropriate for use
+with an age group not only 1 year older but also
+including mostly 5- and early 6-year-olds who nor-
+matively pass ﬁrst-order false belief (Wellman et al.,
+2001). For continuity with Time 1, the unseen dis-
+placement false belief task (two trials) and appear-
+ance–reality (two trials) were retained. Then,
+to
+increase difﬁculty and guard against ceiling effects,
+the remaining two tasks in the Time 2 battery were
+two more challenging ToM measures requiring
+emotional inferences. First, we used a real–apparent
+emotion task closely modeled on one devised by
+Wellman and Liu (2004). Using Guttman scaling,
+these authors found that the ToM concept assessed
+by this task—understanding that someone may dis-
+play a false emotion on purpose (as when a boy
+hides his sadness to avoid being called a baby)—is
+a more advanced ToM concept than false belief. In
+our version, with exactly Wellman and Liu’s pic-
+tures, procedure, and question wording, plus an
+additional stringent control question (as per Peter-
+son, Wellman, & Liu, 2005), children heard a story
+about a boy, teased by his friends, who did not
+want them to tease him more. An initial control
+question asked how the boy really felt. The test
+question then asked how he made his face look.
+Correct answers to the latter required both accurate
+(pictorial or verbal) emotion selection (i.e., one emo-
+tion more positive than for the “true feeling”) and,
+as in Peterson et al. (2005), accuracy on a further
+control question, “Why did he try to look like
+that?” Children had to display clear comprehension
+of the protagonist’s intention to conceal true feel-
+ings to pass the latter. One point was assigned
+when children answered all questions correctly,
+otherwise 0.
+
+The second advanced Time 2 ToM task was an
+emotion false belief test that other authors have
+shown to be more difﬁcult than ﬁrst-order false
+belief
+(e.g., Bender, Pons, Harris, & de Rosnay,
+2011; Hughes et al., 2000). In the version we used,
+borrowed from Hughes et al. (2000), a puppet who
+liked animal cookies left and the child helped ﬁll an
+animal cookie box with rocks. On the puppet’s
+return there were two test questions: (a) “How will
+[puppet] feel when we give him this all closed up
+like this?” (happy), (b) “How will he feel when he
+opens the box and sees rocks?” (sad or angry) plus
+a control question, and (c) “What does [puppet] like
+to eat?” (animal cookies). Raw scores (test question
+sum) were converted to mean proportions (0–1). As
+noted above,
+the two-trial unseen displacement
+false belief test was also retained from Time 1 with
+
+intercorrelations
+
+showed signiﬁcant
+
+Time 2 ToM total score. All Time 2 ToM mea-
+sures
+(all
+ps  .01) that remained uniformly signiﬁcant with
+age and PPVT controlled (all ps  .01). As at Time
+1, we computed a total ToM scale score using two
+steps. First, proportion scores were computed for
+the unseen displacement false belief test, the emo-
+tion false belief test, and the appearance–reality test.
+These three proportions (0–1) were summed with
+the real–apparent emotion score (0–1) and divided
+by 4 to yield a proportion score (0–1). This compos-
+ite had a Cronbach’s alpha of .79, indicating ade-
+quate internal consistency.
+
+new objects, dolls, and hiding places, and scored
+exactly as at Time 1. The same was true of the two-
+trial appearance–reality task from Time 1. New
+objects were a carrot-pen and a dice-shaped jewelry
+box.
+
+Time 2 EF tests. At Time 2, four tasks were used
+to measure EF. We retained the resisting instruc-
+tions task from Time 1 as it measured inhibitory
+control, an EF concept of known relevance to pre-
+school ToM (Carlson et al., 2002). Furthermore, this
+task had proved highly challenging to our sample
+at Time 1, with few children scoring perfectly (see
+Table 1). Administration was identical to Time 1,
+except a bird puppet replaced the “nice” bear, and a
+monkey, the “naughty” lion. Children’s totals (0–6)
+were converted to proportions (0–1) exactly as at
+Time 1.
+
+The results for Time 1 (see Table 1) suggested
+that the route navigation task, already mastered by
+half the sample at this younger age, might prove
+insufﬁciently challenging 1 year later at Time 2.
+Therefore, we substituted the dimensional card sort
+task as developed by Frye, Zelazo, and Palfai
+(1995), a task seen to demand a range of EF capaci-
+ties including resistance to distraction, response
+inhibition, memory, and attention to relevant fea-
+tures. As in Frye et al., children were provided with
+a pile of cards, each depicting either a yellow circle
+or a red square. Behind each of two boxes stood an
+“identiﬁcation” card: either a red circle or a yellow
+square. Children were initially trained to sort the
+cards on the basis of one dimension (e.g., shape).
+Then, after a distraction, they were trained on a
+reversal shift requiring sorting by a different dimen-
+sion (e.g., color). Finally, after another distraction
+there were three test trials. The ﬁrst required chil-
+dren to sort ﬁve cards according to the most recent
+training dimension. One point was awarded for
+each correct placement, to a total of 5. Next, the
+rule was reversed (without further training) and
+children sorted ﬁve more cards, earning 1 point
+
+each if correct. Finally, four trials were given with
+the sorting rule alternating between every trial.
+Again each correct answer scored one point. Total
+possible scores, combining the three tests,
+thus
+ranged from 0 to 14 and were divided by 14 to give
+a proportion score, in line with other tasks.
+
+Another Time 2 EF test, the hand game, was
+included to assess inhibitory control, an EF dimen-
+sion shown previously to have close links with
+ToM (Carlson et al., 2002). Children were told: “We
+are going to play a game. First we both put our
+hands behind our backs; now when I show my
+hand I want you to make the same shape as me. So
+if I make a ﬁst, you make a ﬁst, and if I point a
+ﬁnger you point a ﬁnger.” After copying (control
+condition) the experimenter’s actions to a total of
+six consecutive correct responses (out of a maxi-
+mum of 15 trials which no child in this sample
+required) the test, a conﬂict condition, was given.
+The tester said, “Now, if I point a ﬁnger, I want
+you to show a ﬁst. And if I show a ﬁst I want you
+to point a ﬁnger. So we’re not making the same
+shapes.” Children earned higher scores the fewer
+trials they needed to reach the criterion of six con-
+secutive correct responses. Any child not achieving
+criterion within 15 test trials scored 0, whereas 1
+point was given for requiring the full 15 trials, 2
+points for requiring only 14, 3 for 13, and so forth.
+The maximum possible score was 10 if the child’s
+performance was errorless. Raw scores (see Table 1)
+were divided by 10 to convert to proportion scores
+ranging from 0 to 1.
+
+The Tower of London EF task, adapted from Shal-
+lice (1982), was chosen as a challenging measure of
+strategic forward planning, attention, and working
+memory. Ours was adapted for younger children by
+using only three pegs (of three different heights).
+Three hollow colored balls (red, blue, green) could
+slide onto the pegs: The shortest peg could hold only
+one; the tallest, all three. Problems involving move-
+ment of balls were presented using three-dimen-
+sional models. A warm-up set, presented ﬁrst,
+involved need for only a single move and was not
+scored. On the fourth and subsequent trials (compris-
+ing successively three of each of two-move trials,
+three-move trials, and four-move problems), children
+scored 2 on each trial for succeeding with minimum
+moves. One move above minimum scored 1, other-
+wise 0. After three consecutive 0s, the task was termi-
+nated. Scores per trial (0–2) were summed and the
+total (0 to 24) was divided by 24 to give a proportion
+score as for other tasks.
+
+Time 2 EF total score. All Time 2 EF measures
+showed signiﬁcant correlations with one another
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1449
+rs  .23, all ps  .01). These correlations
+(all
+remained signiﬁcant after controlling for age and
+language (all rs  .21, all ps  .05). Cronbach’s
+alpha for the four-task composite was .86, indicat-
+ing good internal consistency. Time 2 EF total scale
+scores were again computed proportionally to
+reﬂect a decimal from 0 to 1.
+
+Time 2 language ability. The PPVT was again
+administered in full at Time 2, and raw PPVT
+scores were again computed and used in all statisti-
+cal analyses.
+
+Results
+
+Overview
+
+Table 2 shows the raw correlations among all
+key variables. Partial correlations (controlling for
+age and raw PPVT scores) also appear in this table.
+Correlations across the testing times (i.e., from Time
+1, the initial test, to Time 2, 1 year later) are shown.
+We explore these in relation to two main research
+questions: (a) How does having child-aged siblings
+relate to ToM and EF performance at Times 1 and
+2? and (b) What do cross-lagged correlations say
+about how gains over time in EF and ToM capaci-
+ties relate to earlier individual differences in these
+variables independently of age,
+language ability,
+and number of child siblings? (Each of the analyses
+outlined below was run again with the exact lag
+from Time 1 to Time 2 entered as a further covari-
+ate. As all ﬁndings remained unchanged, results are
+not reported here.)
+
+Siblings and the Development of ToM and EF Skills
+
+Table 2 shows the correlations between total
+child-aged siblings with total ToM and EF propor-
+tion scores at Times 1 and 2. In addition, to more
+fully examine the role of siblings in children’s per-
+formance on ToM and EF tasks at both time points,
+the information regarding number of child-aged
+siblings was recoded to yield an additional two
+different sibling variables. Thus,
+in addition to
+examining the inﬂuence of the number of child-
+aged siblings, we also examine presence versus
+absence of child-aged siblings (dummy coded as 1
+or 0), as well as the child’s birth-order position in
+the sibling constellation (1 = youngest
+in family,
+2 = middle child, 3 = eldest in family). Correlations of
+these variables with ToM and EF at each testing
+time also appear in Table 2.
+
+The correlations suggest that the presence of a
+greater number of child siblings contributes to a
+
+1450 McAlister and Peterson
+
+F
+E
+
+M
+o
+T
+
+]
+7
+0
+.
+[
+
+*
+8
+1
+.
+
+]
+2
+1
+.
+[
+
+*
+0
+2
+.
+
+]
+8
+0
+.
+[
+
+]
+4
+0
+.
+[
+
+3
+1
+.
+
+3
+1
+.
+
+]
+1
+1
+.
+[
+
+8
+0
+.
+
+]
+*
+7
+1
+
+.
+[
+
+5
+1
+
+.
+
+]
+7
+0
+.
+ 
+
+[
+
+1
+0
+.
+ 
+
+]
+9
+0
+ 
+
+.
+
+[
+
+2
+0
+
+.
+
+*
+*
+*
+5
+3
+
+.
+
+]
+*
+*
+*
+3
+3
+
+.
+[
+
+4
+1
+
+.
+
+]
+0
+1
+ 
+
+.
+
+[
+
+*
+*
+*
+0
+6
+
+.
+
+]
+7
+1
+ 
+
+.
+
+[
+
+*
+*
+*
+4
+9
+
+.
+
+*
+*
+*
+2
+5
+
+.
+
+]
+*
+*
+*
+1
+9
+
+.
+[
+
+]
+*
+*
+*
+3
+4
+
+.
+[
+
+g
+n
+
+i
+l
+b
+i
+S
+
+n
+o
+i
+t
+a
+u
+t
+i
+s
+
+t
+n
+e
+s
+e
+r
+p
+
+s
+b
+i
+S
+
+s
+b
+i
+s
+
+.
+
+o
+N
+
+T
+V
+P
+P
+
+e
+g
+A
+
+F
+E
+
+M
+o
+T
+
+]
+*
+*
+2
+2
+.
+[
+
+*
+*
+6
+2
+.
+
+]
+*
+*
+6
+2
+.
+[
+
+*
+*
+*
+0
+3
+.
+
+]
+*
+7
+1
+.
+[
+
+*
+9
+1
+.
+
+]
+*
+*
+*
+7
+5
+
+.
+[
+
+*
+*
+*
+8
+5
+
+.
+
+]
+*
+9
+1
+.
+[
+
+*
+*
+5
+2
+.
+
+]
+7
+0
+.
+[
+
+*
+9
+1
+.
+
+]
+*
+*
+*
+6
+3
+.
+[
+
+*
+*
+*
+7
+3
+.
+
+]
+*
+*
+*
+7
+8
+
+.
+[
+
+*
+*
+*
+8
+7
+
+.
+
+*
+*
+*
+2
+8
+
+.
+
+]
+*
+*
+*
+9
+8
+
+.
+[
+
+*
+*
+*
+4
+5
+
+.
+
+]
+*
+*
+*
+5
+5
+
+.
+[
+
+]
+*
+*
+*
+7
+2
+.
+[
+
+*
+*
+*
+2
+3
+.
+
+]
+*
+0
+2
+.
+[
+
+*
+*
+4
+2
+.
+
+]
+4
+0
+.
+[
+
+8
+0
+.
+
+]
+*
+*
+*
+0
+3
+.
+ 
+
+[
+
+*
+*
+6
+2
+.
+ 
+
+]
+*
+*
+*
+3
+8
+.
+[
+
+*
+*
+*
+2
+8
+.
+
+]
+*
+*
+*
+7
+4
+
+.
+[
+
+*
+*
+*
+8
+4
+
+.
+
+]
+5
+0
+.
+ 
+
+[
+
+3
+0
+.
+ 
+
+]
+4
+1
+
+.
+[
+
+*
+7
+1
+
+.
+
+]
+*
+0
+2
+.
+[
+
+*
+*
+6
+2
+.
+
+]
+9
+0
+.
+[
+
+*
+8
+1
+.
+
+]
+7
+0
+.
+ 
+
+[
+
+*
+0
+2
+.
+
+]
+4
+0
+.
+ 
+
+[
+
+]
+1
+0
+.
+ 
+
+[
+
+*
+*
+*
+2
+3
+.
+
+]
+*
+8
+1
+.
+[
+
+0
+0
+.
+ 
+
+]
+*
+*
+*
+0
+3
+
+.
+[
+
+*
+*
+3
+3
+
+.
+
+3
+0
+.
+
+]
+9
+0
+.
+[
+
+1
+1
+.
+
+]
+*
+7
+1
+
+.
+[
+
+*
+*
+2
+2
+
+.
+
+]
+*
+*
+3
+2
+.
+[
+
+*
+*
+*
+6
+3
+.
+
+]
+*
+*
+9
+2
+.
+ 
+
+[
+
+9
+0
+.
+ 
+
+]
+3
+1
+ 
+
+.
+
+[
+
+8
+0
+
+.
+
+*
+*
+6
+2
+
+.
+
+]
+*
+0
+2
+
+.
+[
+
+*
+*
+*
+5
+3
+
+.
+
+*
+*
+*
+2
+4
+
+.
+
+5
+0
+
+.
+
+]
+2
+0
+
+.
+[
+
+]
+*
+*
+*
+8
+2
+
+.
+[
+
+]
+*
+*
+*
+8
+3
+
+.
+[
+
+*
+*
+7
+2
+
+.
+
+*
+*
+*
+1
+4
+
+.
+
+]
+1
+1
+
+.
+[
+
+]
+*
+*
+*
+8
+3
+
+.
+[
+
+*
+*
+*
+2
+5
+
+.
+
+*
+*
+*
+0
+5
+
+.
+
+]
+*
+*
+*
+8
+3
+
+.
+[
+
+]
+*
+*
+*
+2
+4
+
+.
+[
+
+5
+1
+
+.
+
+]
+1
+0
+ 
+
+.
+
+[
+
+—
+
+*
+*
+*
+2
+8
+
+.
+
+]
+*
+*
+*
+4
+8
+
+.
+[
+
+0
+1
+
+.
+
+]
+9
+0
+
+.
+[
+
+*
+8
+1
+
+.
+
+]
+*
+7
+1
+
+.
+[
+
+*
+*
+*
+0
+6
+
+.
+
+]
+*
+*
+*
+8
+5
+
+.
+[
+
+*
+*
+*
+7
+3
+
+.
+
+]
+*
+*
+8
+2
+
+.
+[
+
+]
+4
+1
+
+.
+[
+
+6
+1
+
+.
+
+*
+*
+*
+5
+3
+
+.
+
+]
+*
+*
+*
+2
+3
+
+.
+[
+
+*
+*
+*
+0
+6
+
+.
+
+]
+*
+*
+*
+7
+5
+
+.
+[
+
+—
+
+*
+*
+*
+0
+3
+
+.
+
+*
+*
+*
+2
+3
+
+.
+
+]
+*
+*
+3
+2
+
+.
+[
+
+]
+*
+0
+2
+
+.
+[
+
+*
+*
+6
+2
+
+.
+
+]
+*
+7
+1
+
+.
+[
+
+*
+*
+*
+8
+2
+
+.
+
+—
+
+]
+4
+1
+
+.
+[
+
+*
+*
+*
+0
+5
+
+.
+
+]
+2
+0
+ 
+
+.
+
+[
+
+*
+*
+*
+2
+3
+
+.
+
+]
+0
+0
+ 
+
+.
+
+[
+
+*
+*
+*
+3
+3
+
+.
+
+]
+*
+7
+1
+
+.
+[
+
+*
+*
+*
+2
+3
+
+.
+
+]
+6
+1
+
+.
+[
+
+*
+*
+*
+8
+3
+
+.
+
+]
+*
+*
+*
+2
+3
+
+.
+[
+
+*
+*
+3
+2
+
+.
+
+]
+*
+9
+1
+
+.
+[
+
+—
+
+8
+0
+
+.
+
+]
+2
+0
+
+.
+[
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+2
+
+e
+m
+T
+
+i
+
+s
+e
+l
+b
+a
+i
+r
+a
+v
+
+1
+
+e
+m
+T
+
+i
+
+2
+
+d
+n
+a
+
+1
+
+s
+e
+m
+T
+
+i
+
+t
+a
+
+s
+e
+l
+b
+a
+i
+r
+a
+V
+y
+e
+K
+
+l
+l
+a
+
+n
+e
+e
+w
+t
+e
+B
+
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+)
+y
+t
+i
+l
+i
+b
+A
+e
+g
+a
+u
+g
+n
+a
+L
+
+d
+n
+a
+
+e
+g
+A
+r
+o
+f
+
+g
+n
+
+i
+l
+l
+o
+r
+t
+n
+o
+C
+
+(
+
+—
+
+]
+1
+0
+.
+[
+
+4
+1
+.
+
+—
+
+]
+4
+0
+.
+ 
+
+[
+
+4
+0
+.
+ 
+
+]
+*
+*
+1
+5
+.
+ 
+
+[
+
+*
+*
+3
+2
+.
+ 
+
+—
+
+]
+1
+0
+.
+ 
+
+[
+
+4
+1
+.
+
+]
+9
+1
+.
+ 
+
+[
+
+2
+1
+.
+
+]
+*
+*
+6
+4
+.
+[
+
+*
+*
+*
+6
+5
+.
+
+—
+
+]
+*
+1
+2
+.
+[
+
+*
+*
+3
+2
+.
+
+]
+*
+*
+3
+2
+.
+[
+
+*
+*
+*
+9
+2
+.
+
+]
+3
+1
+.
+[
+
+*
+*
+7
+2
+.
+
+]
+*
+*
+*
+6
+4
+
+.
+[
+
+*
+*
+*
+4
+6
+
+.
+
+—
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+T
+V
+P
+P
+
+d
+n
+a
+
+e
+g
+a
+
+2
+T
+
+f
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+e
+g
+a
+
+2
+T
+e
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+T
+V
+P
+P
+
+2
+T
+d
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+T
+V
+P
+P
+
+d
+n
+a
+
+e
+g
+a
+
+1
+T
+c
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+e
+g
+a
+
+.
+
+1
+0
+0
+
+.
+
+<
+
+1
+T
+b
+
+p
+*
+*
+*
+
+.
+
+1
+0
+
+.
+
+<
+
+1
+T
+a
+
+p
+*
+
+.
+
+d
+e
+l
+l
+o
+r
+t
+n
+o
+c
+
+T
+V
+P
+P
+
+<
+
+p
+*
+*
+
+.
+
+5
+0
+
+.
+
+g
+n
+
+i
+l
+b
+i
+S
+
+n
+o
+i
+t
+a
+u
+t
+i
+s
+
+s
+b
+i
+S
+
+t
+n
+e
+s
+e
+r
+p
+
+s
+b
+i
+s
+
+.
+
+o
+N
+
+*
+*
+2
+2
+.
+
+]
+*
+9
+1
+
+.
+[
+
+*
+*
+5
+2
+
+.
+
+]
+*
+*
+3
+2
+
+.
+[
+
+*
+*
+*
+4
+3
+
+.
+
+]
+*
+*
+*
+0
+3
+
+.
+[
+
+2
+1
+
+.
+
+]
+3
+0
+.
+ 
+
+[
+
+3
+1
+
+.
+
+]
+5
+0
+ 
+
+.
+
+[
+
+*
+8
+1
+
+]
+4
+0
+ 
+
+.
+
+.
+
+*
+*
+*
+2
+3
+
+.
+
+]
+*
+*
+6
+2
+.
+[
+
+*
+*
+*
+9
+5
+.
+
+]
+*
+*
+*
+7
+5
+
+.
+[
+
+—
+
+—
+
+*
+*
+*
+0
+6
+
+.
+
+]
+*
+*
+*
+2
+6
+
+.
+[
+
+—
+
+y
+d
+o
+b
+a
+e
+P
+
+e
+r
+u
+t
+c
+i
+P
+
+y
+r
+a
+l
+u
+b
+a
+c
+o
+V
+
+)
+T
+V
+P
+P
+(
+
+t
+s
+e
+T
+
+[
+
+*
+*
+*
+2
+6
+
+.
+
+—
+
+l
+a
+i
+t
+r
+a
+P
+
+d
+n
+a
+w
+a
+R
+
+2
+
+e
+l
+b
+a
+T
+
+r
+o
+
+e
+c
+n
+e
+s
+e
+r
+p
+
+1
+T
+
+c
+s
+g
+n
+
+i
+l
+b
+i
+s
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+1
+T
+
+c
+s
+g
+n
+
+i
+l
+b
+i
+s
+
+f
+o
+
+e
+c
+n
+e
+s
+b
+a
+
+c
+n
+o
+i
+t
+a
+u
+t
+i
+s
+
+g
+n
+
+i
+l
+b
+i
+s
+
+1
+T
+
+M
+o
+T
+
+1
+T
+
+c
+e
+r
+o
+c
+s
+
+e
+l
+a
+c
+s
+
+e
+l
+a
+c
+s
+
+F
+E
+
+1
+T
+
+c
+e
+r
+o
+c
+s
+
+d
+e
+g
+a
+
+2
+T
+
+e
+T
+V
+P
+P
+
+2
+T
+
+r
+o
+
+e
+c
+n
+e
+s
+e
+r
+p
+
+2
+T
+
+f
+s
+g
+n
+
+i
+l
+b
+i
+s
+
+f
+o
+
+r
+e
+b
+m
+u
+n
+
+2
+T
+
+f
+s
+g
+n
+
+i
+l
+b
+i
+s
+
+f
+o
+
+e
+c
+n
+e
+s
+b
+a
+
+f
+e
+r
+o
+c
+s
+
+e
+l
+a
+c
+s
+
+f
+
+n
+o
+i
+t
+a
+u
+t
+i
+s
+
+g
+n
+
+i
+l
+b
+i
+s
+
+2
+T
+
+M
+o
+T
+
+2
+T
+
+f
+e
+r
+o
+c
+s
+
+e
+l
+a
+c
+s
+
+F
+E
+
+2
+T
+
+b
+T
+V
+P
+P
+
+1
+T
+
+a
+e
+g
+a
+
+1
+T
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1451
+
+preschool child’s ToM and EF development. Even
+after partialing out inﬂuences from age and raw
+PPVT scores, number of child siblings is signiﬁ-
+r(154) = .32,
+cantly related to ToM at Time 1,
+p < .001, and Time 2, r(154) = .26, p < .01, as well
+as EF at Time 1, r(154) = .20, p < .05, and Time 2,
+r(154) = .22, p < .01. Here, we question whether
+ToM and EF are enhanced simply as a linear func-
+tion of number of child siblings or if the relations
+observed thus far might simply reﬂect an advan-
+tage of sibling presence (in any number) over the
+absence of siblings. We start with an examination
+of sibling presence versus absence.
+
+it
+
+relates
+
+Sibling presence versus absence as
+
+to
+ToM and EF. A one-way analysis of covariance
+(ANCOVA) (with age and PPVT raw scores as con-
+trols) was used to examine the mere presence of
+sibling(s) (0 = only-child) as a predictor of Time 1
+ToM. A similar ANCOVA was then run with Time
+2 ToM as the dependent variable. For Time 1 ToM,
+the results were statistically signiﬁcant in the antici-
+pated direction, with only-children (n = 24) scoring
+lower on ToM (M = .43, SD = .24) than children with
+least one sibling (n = 133, M = .61, SD = .25),
+at
+F(1, 153) = 5.76, p < .05, partial g2 = .04. In other
+words, simply having a child sibling at all was of
+beneﬁt. Similar results were observed in the ANCO-
+VA using Time 2 ToM as the dependent variable.
+Here, only-children (n = 21) with a mean ToM score
+of .45 (SD = .27) were found to score signiﬁcantly
+lower, F(1, 153) = 4.10, p < .05, partial g2 = .03, than
+children with at least one sibling (n = 136, M = .60,
+SD = .28). The results of these ANCOVA analyses
+consistently support the notion of a disadvantage, at
+both testing times, of only-child status for ToM
+mastery.
+
+SD = .25),
+
+Similar ANCOVAs were used to examine EF as
+a function of sibling presence or absence after con-
+trolling for age and PPVT scores. With Time 1 EF
+as the dependent variable,
+the results paralleled
+those for ToM. Only-children (n = 24) earned signif-
+icantly lower EF scores at Time 1 (M = .51,
+SD = .18) than children with at least one sibling
+(n = 133, M = .75,
+153) = 8.04,
+p < .01, partial g2 = .05. A similarly signiﬁcant
+effect was observed for EF scores at Time 2. Only-
+children (n = 21) with a mean of
+.69 (SD = .22)
+were outperformed by children with at least one
+sibling (n = 136, M = .81, SD = .15), F(1, 153)
+= 7.67,
+taking
+account of age and language ability, only-child sta-
+tus appeared to be a disadvantage for EF develop-
+ment for children at both the age periods, just as it
+was for ToM.
+
+p < .01, partial g2 = .05. After
+
+F(1,
+
+Number of child-aged siblings as it relates to ToM
+and EF. To test whether larger numbers of child-
+aged siblings were linked to higher Time 1 or
+Time 2 ToM or EF scores, we ran a similar set of
+ANCOVAs controlling for age and PPVT. The sib-
+ling variable was recategorized as “1 child sibling,”
+“2 child siblings,” or “3 or more child siblings” to
+avoid distortion by the few participants with more
+than three. To avoid duplicating the previous set of
+regressions, we used only the children with at least
+one sibling in these analyses. (Note, however, that
+Table 2 includes correlations from the full sample,
+including only-children.)
+
+Number of child-aged siblings was a signiﬁcant
+overall predictor of Time 1 ToM, F(2, 128) = 7.21,
+p < .01, partial g2 = .10, supporting our hypothesis.
+Planned comparisons revealed no signiﬁcant differ-
+ence between children with one versus two siblings
+(n = 74, M = .56, SD = .25 and n = 41, M = .60,
+SD = .20, respectively), contrast estimate = .03, ns.
+However, children with three siblings or more
+(n = 18, M = .83, SD = .25) outperformed those with
+two siblings (contrast estimate = .23, p < .01), as well
+as
+those with only one sibling (contrast esti-
+mate = .32, p < .001). Time 2 ToM revealed the same
+pattern. Number of child siblings was the only signif-
+icant variable in the model, F(2, 131) = 6.89, p < .01,
+partial g2 = .10. At Time 2, there was no signiﬁcant
+difference between those with one sibling (n = 66,
+M = .53, SD = .25) and those with two siblings
+(n = 48, M = .59, SD = .23), contrast estimate = .06,
+ns. However, children with three or more siblings at
+Time 2 scored higher on Time 2 ToM (n = 22,
+M = .79, SD = .18) than those with two (contrast esti-
+mate = .20, p < .01) or one (contrast estimate = .26,
+p < .001). These ﬁndings consistently support the
+hypothesized advantage, at both testing times, of
+access to more siblings for rapid ToM mastery.
+
+Similar ANCOVAs were conducted to examine
+the association between EF and number of child sib-
+lings at each time point. In the analysis of Time 1 EF,
+the model was signiﬁcant, F(4, 128) = 10.31, p < .001,
+partial g2 = .24. However, age was the only signiﬁ-
+cant contributor, F(1, 128) = 25.11, p < .001, partial
+g2 = .16. Number of child siblings was not a signiﬁ-
+cant predictor, F(2, 128) = .91, ns. In the analysis of
+Time 2 EF, the model was once again signiﬁcant, F(4,
+131) = 40.42, p < .01, partial g2 = .26. Number of
+signiﬁcant, F(2, 131) = 4.33,
+child siblings was
+p < .05, partial g2 = .06. Contrast estimates revealed
+that children with two siblings (n = 48, M = .85,
+SD = .11) outperformed children with one sibling
+(n = 66, M = .76, SD = 17), contrast estimate = .09,
+p < .01. No other contrasts were signiﬁcant.
+
+1452 McAlister and Peterson
+
+Birth-order position in the sibling constellation as it
+relates to ToM and EF. Next, we sought to deter-
+mine whether a child’s position in the family’s
+sibling constellation (eldest, youngest, or middle
+child) is important. To answer this question, data
+from only-children were set aside and additional
+ANCOVAs were conducted on just those children
+who had at least one sibling. Dubbed “sibling con-
+stellation,” we created three categories: those who
+were (a) youngest in the family (n = 97), (b) middle
+children (n = 13), or (c) eldest of siblings (n = 23).
+
+First,
+
+in an ANCOVA with Time 1 ToM as
+dependent variable, we controlled for age, PPVT
+raw scores, and total sibling number (given that
+middle status implied at least two siblings, whereas
+many with only older or younger siblings, as for
+n = 74 in our Time 1 sample, had just one). In
+relation to T1 ToM,
+the overall model was
+statistically signiﬁcant, F(5, 127) = 7.98, p < .001,
+partial g2 = .24. The age covariate was not signiﬁ-
+cant. However, the covariate of PPVT raw scores
+was signiﬁcant, F(1, 127) = 5.82, p < .05, partial
+g2 = .04, as was the covariate of total siblings, F(1,
+127) = 7.48, p < .01, partial g2 = .06. Moreover, the
+target variable (sibling constellation) was not signif-
+icant once these factors were statistically controlled,
+F(2, 127) = 1.48, ns. In other words,
+just having
+younger (child-aged) siblings was no less advanta-
+geous than having older siblings or being a middle
+child for Time 1 ToM in this sample.
+
+An ANCOVA with the same design was then
+run with Time 2 ToM as the dependent variable. At
+Time 2 there were 97 youngest children, 13 middle,
+and 26 eldest in the family. Sixty-six eldest and
+youngest children had only one child-aged sibling.
+In relation to Time 2 ToM, the model was signiﬁ-
+cant, F(5, 130) = 10.82, p < .001, partial g2 = .32.
+Neither age nor PPVT contributed signiﬁcantly
+(ps = .28 and .90, respectively). Number of child
+siblings was a statistically signiﬁcant covariate,
+F(1, 130) = 13.82, p < .001, partial g2 = .10, and (as
+predicted, but in contrast to Time 1 ToM) the focal
+sibling constellation variable was also statistically
+p < .001, partial
+signiﬁcant,
+g2 = .22. The sibling advantage—in terms of ToM
+development in late preschool and early primary
+school—appears to accrue most strongly for chil-
+dren with older siblings (i.e., those who are the
+youngest in the family). Planned contrasts showed
+that the estimated marginal mean of Time 2 ToM
+scores for youngest children (M = .68) was greater
+than that for middle children (M = .42, contrast esti-
+mate =  .27, p < .001), and also eldest children
+(M = .41, contrast estimate =  .25, p < .001).
+
+130) = 18.10,
+
+F(2,
+
+We conducted similar ANCOVAs using EF scores
+as the dependent variable, ﬁrst at Time 1 and then at
+Time 2. Birth-order position (eldest, etc.) was not sig-
+niﬁcantly related to EF at either time point (both
+Fs < 1.67, both ps > .18). For Time 1 EF the overall
+model was signiﬁcant, F(5, 127) = 7.94, p < .001,
+partial g2 = .24, but the age covariate was the only
+signiﬁcant predictor, F(1, 127) = 22.22, p < .001, par-
+tial g2 = .15. For Time 2 EF, the model was again
+signiﬁcant, F(5, 130) = 2.70, p < .05, partial g2 = .11,
+but the pattern was different from that at Time 1.
+Total child siblings were the only signiﬁcant Time 2
+predictor, F(1, 130) = 4.22, p < .05, partial g2 = .03.
+
+Summary of sibling associations with ToM and
+EF. From the analyses thus far, we have learned
+that inﬂuences from child siblings are relevant to
+ToM and EF at both time points. Having any child-
+aged sibling at all (i.e., not being an only-child)
+appears to be consistently related to advanced ToM
+and EF. Within the subgroup with at least one sib-
+ling, ToM was more advanced for those with the
+largest family size. EF was less consistently inﬂu-
+enced, although the pattern of results at Time 2
+was similar to that for ToM. Once the variables of
+age, language, and total family size were statisti-
+cally controlled, however, there was less consistent
+evidence for any distinct
+inﬂuence of particular
+birth-order positions on either ToM or EF. In other
+words, sibling presence (vs. absence) and total fam-
+ily size each were signiﬁcantly related to ToM and
+EF at Times 1 and 2. Birth order in the sibling con-
+stellation only added signiﬁcantly in one case. At
+Time 2, being the youngest sibling was associated
+with more advanced ToM over and above the
+effects associated with having more siblings, being
+older, and having more advanced language.
+
+Predictive Relations Among EF, ToM, and Siblings
+Over Time
+
+In addition to examining sibling effects on ToM
+and EF performance at Times 1 and 2, another aim
+of
+this study was to examine relations between
+individual differences in ToM and EF across the
+age range 3 years 3 months to 6 years 8 months,
+using cross-lagged longitudinal correlations. While
+not unequivocally identifying cause–effect
+rela-
+tions among variables, cross-lagged correlations (in
+which performance on the target variable at the
+initial test time is statistically controlled to examine
+later progress in that same variable) are useful for
+supplying novel information on the place of EF skills
+as developmental precursors versus chronological
+sequels to gains in ToM understanding, and vice
+
+versa. As well as controlling for the earlier levels of
+the outcome variable via the cross-lagged method,
+we also controlled statistically for the effects of age,
+verbal ability, and number of child siblings.
+
+Two separate hierarchical
+
+regression analyses
+were conducted to assess these effects. This was
+because we had no a priori assumptions, or past
+ﬁndings to rely upon, for the present age group. In
+each hierarchical regression, Time 1 age and Time 1
+PPVT scores were entered in the ﬁrst block, as con-
+trol variables, along with the Time 1 score on the
+target-dependent variable (i.e., Time 1 EF was par-
+tialed out of the ﬁnal regression when Time 2 EF
+was the outcome variable, and Time 1 ToM was
+controlled when Time 2 ToM served as the out-
+come). The second block was used to assess the
+impact of the independent variable of interest (e.g.,
+effect of Time 1 ToM on Time 2 EF). Finally, num-
+ber of child siblings at Time 1 was entered in the
+third block in each equation to see if this variable
+made any independent contribution over and above
+all other variables already in each model.
+
+Time 1 ToM as a predictor of Time 2 EF. The
+hypothesis that early ToM understanding predicts
+later advances in EF test performance was tested
+with a hierarchical multiple regression that had
+Time 2 EF as the dependent variable. When Time 1
+age, PPVT scores, and EF scores were entered as
+controls in the ﬁrst block, the regression equation
+signiﬁcant, R = .29, R2 = .08,
+was
+Fchange(3, 153) = 4.64, p < .01. As shown in Table 3,
+the beta weight for Time 1 EF was signiﬁcant in
+
+statistically
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1453
+
+this ﬁrst block, but those for age and language were
+not.
+
+Time 1 ToM was entered in the second block. The
+result was a signiﬁcant increment, R = .38, R2 = .14,
+ΔR2 = .06, Fchange(1, 152) = 10.08, p < .01, indicating
+Time 1 ToM made a unique contribution to the Time
+2 EF variability that was predicted. The inclusion of
+number of child siblings at the ﬁnal step did not
+result in any increase in explained variance, R = .40,
+R2 = .16, ΔR2 = .02, Fchange(1, 151) = 2.99, ns. Results
+for the full model at the end of this third block are
+displayed in Table 3. Time 1 ToM was a statistically
+t(151) = 2.61,
+signiﬁcant predictor of Time 2 EF,
+p < .05, and was the only signiﬁcant predictor vari-
+able in the ﬁnal equation. In other words, early
+understanding of minds was linked with later gains
+in EF skills independently of the other variables.
+These results are consistent with the developmental
+precedence of ToM-based understanding of mental
+states (like false beliefs) as a link to later abilities to
+deploy cognitive EF skills (like inhibitory control or
+strategic memory) more effectively. Note that this
+ﬁnding for the age period from 4 to 5 years that we
+studied contrasts with a predominantly opposite
+pattern in past studies of younger age groups, as we
+discuss in more detail later.
+
+Time 1 EF as a cross-lagged predictor of Time 2
+ToM. We conducted a further hierarchical regres-
+sion to test whether Time 2 ToM might be inﬂu-
+enced by Time 1 EF. The model was set up as above,
+except that ToM variables were substituted for EF
+variables, and vice versa. Results appear in Table 4.
+
+Table 3
+Hierarchical Regression Predicting Time 2 EF From Time 1 ToM,
+While Controlling for Age, Language, Time 1 EF, and Number of
+Child Siblings
+
+Table 4
+Hierarchical Regression Predicting Time 2 ToM From Time 1 EF,
+While Controlling for Age, Language, Time 1 ToM, and Number of
+Child Siblings
+
+Block
+
+Variable
+
+1
+
+2
+
+3
+
+Age
+Peabody Picture
+Vocabulary Test (PPVT)
+Time 1 EF
+Age
+PPVT
+Time 1 EF
+Time 1 ToM
+Age
+PPVT
+Time 1 EF
+Time 1 ToM
+Number of child siblings
+
+sri
+b
+ .03  .02
+.11
+.14
+
+2
+sri
+t
+.00  0.27
+1.47
+.01
+
+.23
+.20
+ .07  .05
+.07
+.09
+.18
+.15
+.27
+.24
+ .11  .07
+.08
+.10
+.13
+.16
+.23
+.20
+.13
+.15
+
+.04
+2.55*
+.00  0.65
+0.89
+.00
+.02
+1.97*
+.06
+3.17**
+.00  0.97
+1.05
+.01
+1.79
+.02
+.04
+2.61*
+1.73
+.02
+
+Block
+
+Variable
+
+1
+
+2
+
+3
+
+Age
+Peabody Picture
+Vocabulary Test (PPVT)
+Time 1 ToM
+Age
+PPVT
+Time 1 ToM
+Time 1 EF
+Age
+PPVT
+Time 1 ToM
+Time 1 EF
+Number of child siblings
+
+b
+
+.04
+.01
+
+sri
+
+.03
+.01
+
+2
+sri
+
+.00
+.00
+
+t
+
+0.43
+0.09
+
+.21
+.19
+.09
+.06
+.01
+.00
+.23
+.20
+ .09  .08
+.02
+.03
+.03
+.03
+.16
+.13
+ .12  .10
+.23
+.25
+
+.04
+2.43*
+.00
+0.78
+.00
+0.05
+.04
+2.57*
+.01  0.99
+0.23
+.00
+.00
+0.33
+.02
+1.74
+.01  1.30
+2.93**
+.05
+
+Note. EF = executive functioning; ToM = theory of mind.
+*p < .05. **p < .01.
+
+Note. EF = executive functioning; ToM = theory of mind.
+*p < .05. **p < .01.
+
+1454 McAlister and Peterson
+
+With control variables of age, language, and Time 1
+ToM entered, the ﬁrst block was signiﬁcant, R = .23,
+R2 = .06, Fchange(3, 153) = 2.97, p < .05. Neither age
+nor PPVT raw scores emerged as
+signiﬁcant,
+ts(153) = 0.43 and 0.09, respectively, both ps > .66,
+but Time 1 ToM signiﬁcantly predicted Time 2 ToM,
+t(153) = 2.43, p < .05. Adding Time 1 EF in the sec-
+ond block failed to increase explained variance,
+R = .25, R2 = .06, ΔR2 = .00, Fchange(1, 152) = 0.97,
+ns. However, when the number of child siblings was
+entered in the third block, there was a signiﬁcant
+change, R = .33, R2 = .11, ΔR2 = .05, Fchange(1,
+151) = 8.60, p < .01. In the ﬁnal model, the inﬂuence
+of number of child siblings eclipsed all other vari-
+ables, including Time 1 EF, with the only signiﬁcant
+beta at the ﬁnal step (see Table 4). These results sug-
+gest that Time 2 ToM scores were not signiﬁcantly
+inﬂuenced by Time 1 EF over the age range that we
+examined. Interestingly, though, number of child
+siblings was a signiﬁcant predictor of 5-year-old
+ToM performance, above all other variables.
+
+Discussion
+
+These data contribute to a well-established litera-
+ture linking ToM and EF developments among pre-
+schoolers. The results are novel, however, in several
+key respects. First, we used a longitudinal cross-
+lagged correlation design with a somewhat older
+age group than in most past research. We found,
+for the ﬁrst time, that ToM performance at a mean
+age of 4.17 years was signiﬁcantly related to indi-
+vidual differences in children’s EF scores 1 year
+later (Mage = 5.17). Furthermore, these Time 1 ToM
+effects were signiﬁcant over and above the effects
+of Time 1 EF upon EF skills at Time 2, and
+emerged from analyses that also controlled statisti-
+cally for effects of age, language skill, and number
+of child siblings. In other words, how advanced a
+child was in earlier mental state understanding
+independently predicted EF skills at age 5, even
+after
+taking account of other known correlates
+including language and Time 1 EF abilities.
+
+This result was unpredicted and evidences a pat-
+tern that appears relatively novel in the published
+literature. As noted earlier, cross-sectional
+links
+between ToM and EF skills among preschool chil-
+dren are well documented (Moses et al., 2006).
+Fewer studies have used the more informative
+cross-lagged longitudinal approach and these have
+focused mainly on children who were substantially
+younger than those in the present sample. While
+yielding valuable insight into the earliest associa-
+
+tions of ToM and EF in toddlerhood and preschool,
+little published data track these relations longitudi-
+nally further in development (but see Farrant et al.,
+2012, for an exception). Importantly, when this was
+done in this study, the pattern differed from that
+most often observed previously. Rather than early
+EF statistically predicting later ToM as is frequently
+seen in younger groups (e.g., Carlson et al., 2004;
+Hughes & Ensor, 2007; Müller et al., 2012), our
+ﬁndings for an age period spanning, for most chil-
+dren, the transition from a play-oriented preschool
+curriculum to a more formal academic one in upper
+pre- or early primary school, displayed the opposite
+pattern. Earlier ToM emerged as a cross-lagged EF
+predictor over and above other Time 1 and Time 2
+correlates. Our results show this prerequisite more
+clearly and less equivocally than any previous
+study (including that of Hughes and Ensor, 2007,
+who found no cross-lagged prediction of later EF
+from earlier ToM between ages 2 and 3 or ages 3
+and 4, but some suggestion of longer term predic-
+tion from ages 2 to 4). Possibly the pathway
+emerged more clearly in our study because our
+sample was somewhat older. The more adept EF
+deployment by older preschoolers or young school-
+aged children who had been precocious in ToM
+understanding 1 year earlier appears consistent
+with Perner and Lang’s (1999) general suggestion
+that children’s EF development may be enhanced
+by social cognitive understanding of minds. Per-
+haps this is particularly true of the understanding
+of false belief, a capacity that does not normatively
+emerge consistently until after ages 4.5 or 5 years
+(Wellman et al., 2001). Cole and Mitchell’s (2000)
+suggestion that social and conversational interaction
+with siblings (particularly in contexts of disputes
+and rule games) might, in theory, beneﬁt both EF
+and ToM is also broadly supported by the present
+ﬁndings.
+
+Nevertheless,
+
+there are many other possible
+accounts for these results, and further investigation
+and replication is clearly warranted. It would be
+particularly useful for further studies to examine
+the sibling variable more fully,
+including direct
+observation of interactions among siblings of differ-
+ent ages in more naturalistic ToM-relevant and
+EF-relevant everyday situations (e.g., while playing
+card games, board games, or deceptive games like
+hide-and-seek). Also, as Sabbagh, Xu, Carlson,
+Moses, and Lee (2006) noted, it would be valuable
+to include different cultural groups besides Anglo-
+heritage speakers of English in these studies.
+Indeed, in cross-cultural comparison of Chinese and
+U.S. preschoolers, Sabbagh et al. found that Chinese
+
+children (none of whom had siblings) signiﬁcantly
+outperformed their U.S. counterparts (virtually all
+of whom had at least one sibling) on EF tasks.
+However,
+the Chinese group was no more
+advanced in ToM performance despite this early EF
+advantage. Although many cultural or sampling
+factors besides (or in addition to) siblings could
+potentially account for these results, Sabbagh et al.
+noted the absence of sibling–sibling interaction
+owing to China’s one child family policy was a
+plausible candidate. Indeed, those in our Australian
+sample who were only-children were outperformed
+on both ToM and EF at both time points.
+
+There are also valid theoretical reasons to specu-
+late that having child siblings at home with whom
+to play and converse may be advantageous to early
+social-cognition and early EF performance. Make-
+believe play, disputes, reminiscence, and other social
+and conversational interactions among young sib-
+lings offer rich and varied exposure to others’ minds
+in ways likely to be useful for early ToM under-
+standing (Harris, 2005). At the same time, in relation
+to EF, having a child sibling boosts opportunities to
+compete in games and serious pursuits with an
+equal, and this potentially challenges children to
+develop planning, memory, strategic thought, and
+inhibitory control
+(Cole & Mitchell, 2000). Such
+uniquely sibling-based experiences could, in theory,
+accelerate both ToM and EF growth.
+
+Indeed, a large body of past research links access
+to child-aged siblings with rapid ToM growth (e.g.,
+Jenkins & Astington, 1996; McAlister & Peterson,
+2007; Ruffman et al., 1998) and EF (e.g., Hughes &
+Ensor, 2005). The sibling link to EF has less often
+been conﬁrmed (Carlson et al., 2004; Cole & Mitch-
+ell, 2000), though, in one previous study that took
+account of the sibling’s age (a variable likely to
+place limits upon the opportunity to proﬁt from
+sibling interaction; Peterson, 2000), McAlister and
+Peterson (2006) found cross-sectionally that number
+of child-aged siblings was a signiﬁcant raw corre-
+late of preschoolers’ EF scores. However, they also
+found that ToM, but not EF, exerted a unique con-
+tribution when age and language ability were
+statistically controlled and suggested that number
+of child siblings might not contribute to EF inde-
+pendently of ToM.
+
+This conclusion, although provocative, was lim-
+ited in the past by the cross-sectional nature of the
+data used to support it. The present ﬁndings, via
+the use of a longitudinal design, both replicated
+and extended McAlister and Peterson’s
+(2006)
+results. When we included number of child siblings
+as a potential explanatory variable, our results sup-
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1455
+
+plied important, novel information. The longitudi-
+nal results showed that children with siblings at
+Time 1 scored higher on both EF and ToM, not
+only contemporaneously but also longitudinally
+1 year later. Furthermore, these effects were inde-
+pendent of both age and language skill. We also
+explored dimensions of the sibling variable in more
+detail and found that number of child siblings at
+Time 1 remained a signiﬁcant predictor of Time 2
+ToM understanding over and above not only chro-
+nological and linguistic maturity but also Time 1
+levels of both ToM and EF skills.
+
+In other words, at a mean age of 5 years, the
+children in our sample who had had opportunities
+to interact with child siblings at home as younger
+preschoolers were better at understanding others’
+minds irrespective of any beneﬁts accruing from
+age, advanced language or EF skills. It is important
+that this sibling–ToM association persisted at Time
+2 when many children had entered full-day pri-
+mary schooling. Furthermore, when we closely
+examined the sibling variable in terms of its sepa-
+rate aspects, we found that having a child sibling at
+all (as opposed to being an only-child) was associ-
+ated with more advanced ToM and EF performance
+at both Time 1 and Time 2 and that this was true
+over and above the potential confounds of age and
+language ability. However, presence or absence was
+not
+the only signiﬁcant sibling effect. When we
+excluded only-children greater total numbers of
+child-aged siblings predicted advanced ToM at
+Times 1 and 2, over and above other variables. Fur-
+thermore, the beneﬁt accrued to children who were
+eldest (and thus had no older siblings) as much as
+to those with siblings in other birth-order positions.
+For EF, by contrast, the primary predictor was the
+fact of not being an only-child. These results for
+ToM and EF make sense theoretically. Siblings’ dis-
+tinctive patterns of conversation, play, and social
+interaction are likely to supply insight into others’
+thoughts and feelings (Harris, 2005) and, when
+unavailable, any ToM advantages conferred by
+early mastery of EF skills may be masked by the
+lack of exposure to these early sibling-based sources
+of ToM stimulation, as has been posited for chil-
+dren growing up in China (Sabbagh et al., 2006).
+
+Interestingly, however, our data suggest
+
+that
+siblings’ beneﬁcial effects are direct for ToM, whereas
+for EF they seem to be channeled at least partially
+through early ToM development. Young children
+with extensive sibling experience are believed to
+achieve ToM understanding precociously via their
+rich exposure to conversations, play, disputes, and
+other interactions (Harris, 2005). Such early expertise
+
+1456 McAlister and Peterson
+
+in “reading” minds would then plausibly lead to
+further rich and varied social participation with sib-
+lings and peers in varied peer-based social activities
+(Peterson, Slaughter, & Paynter, 2007) like pretend
+play, strategic deception, and games. Thus, a young
+4-year-old preschooler with advanced ToM under-
+standing and rich sibling play experience would be
+well equipped to take further advantage of the kinds
+of play experiences that might most rapidly boost
+EF skills.
+
+inhibit
+
+The process is undoubtedly a mutual one, how-
+ever, with advanced ToM assisting gains in EF (as
+well as further ToM gains) and vice versa. For
+example, to be a valued partner in games, pre-
+schoolers must
+impulses to cheat, grab,
+speak out of
+turn, or otherwise undermine the
+game. Much childhood play requires EF inhibition
+skills (e.g., to avoid calling out in hide-and-seek or
+treating the pretense as real). Equally, ToM-driven
+understanding of the motivations and mental states
+of other players is crucial to such play. Further-
+more, at a metalevel, abilities to recognize the play
+partner’s desires (e.g., for a cooperative, rule-abid-
+ing playmate), together with strategic and mindful
+negotiation and conﬂict-resolution skills are funda-
+mental
+inter-
+actions. Thus, ToM and EF together may both build
+upon past social experience (including sibling inter-
+action) and facilitate further social participation.
+
+forms of satisfying social
+
+to most
+
+Further
+
+speculative.
+
+Of course, it is important for these ﬁndings to be
+replicated before any interpretations can be more
+than purely
+longitudinal
+research with both older and younger samples
+would also be useful to more fully explore possible
+changes in the nature of the association between EF
+and ToM with development, in line with present
+ﬁndings. As Best et al.
+(2009) noted, EF skills
+develop importantly from age 5 onward so that
+samples of children in most past cross-lagged
+research may have been too young to optimally
+reveal how ToM contributes to the later growth of
+these later emerging EF capacities. Furthermore,
+our evidence as to the importance of sibling inﬂu-
+ences may also be somewhat age dependent. The
+young children studied in most past longitudinal
+EF–ToM research may not yet have been as capable
+as those in our somewhat older sample of gaining
+ToM or EF beneﬁts from conversational and social
+interactions with their siblings, particularly with
+siblings younger than themselves. Moreover, with
+an older sample of children (who may be more
+likely to have a greater number of siblings), it may
+be possible to test whether the sibling effect is cur-
+vilinear.
+It might well be that more siblings is
+
+“better,” but only up to a point. Because very few
+of the children in our sample had more than two
+siblings, and only one had more than three, a curvi-
+linear relation could not effectively be tested with
+present data. Furthermore, our study was limited
+by the relatively broad age range of the sample at
+each testing point. Few measures of EF and ToM
+optimally suit the entire age range tested. Hence,
+regardless of the age group of interest, future longi-
+tudinal research might do well to sample larger
+numbers within a narrow age band at each point
+and, despite known individual variability in both
+EF and ToM among children of
+identical age
+(Dunn, 1995), might help to circumvent the limita-
+tions of
+some tasks
+showed ceiling and others ﬂoor effects at one of the
+time points. Owing to the relatively wide age range
+at each testing time, some of the eldest children in
+the sample were less than optimally challenged by
+tests that best suited the youngest participants, and
+vice versa. Furthermore,
+in
+future research to adopt larger test batteries for
+ToM and especially for EF than in this and much
+past research. Our study had only two EF tests at
+Time 1 and four at Time 2. Farrant et al. (2012) had
+only one at each testing point. A more comprehen-
+sive battery would ensure that all EF’s multiple
+facets were encompassed.
+
+it would be helpful
+
+research that
+
+the present
+
+in line with Sabbagh et al.’s
+
+Despite these limitations, we believe our ﬁnd-
+ings, although requiring replication and extension,
+make two important contributions. One is methodo-
+logical and the other more substantive. Methodo-
+logically,
+(2006)
+suggestion, they highlight the importance of includ-
+ing assessment of participants’ sibling status in
+future cross-sectional and longitudinal studies of
+the ToM–EF relation. This hitherto largely neglected
+variable clearly has important explanatory potential
+that could, as in this study, assist
+in clarifying
+developmental patterns. Going beyond the present
+ﬁndings, it will also be useful
+in future work to
+explore the speciﬁc kinds of interactions among sib-
+lings that are most closely linked with advances in
+ToM and EF skills. In terms of theory, our ﬁnding
+that Time 1 ToM contributes signiﬁcantly to Time 2
+EF,
+together with several past studies showing
+early EF’s contribution to later ToM, suggest that
+neither set of skills completely precedes or
+is
+uniquely prerequisite to the other across early
+development. Instead, when the body of longitudi-
+nal research as a whole is considered,
+it would
+seem that advances in both cognitive domains assist
+reciprocally one another, especially when the cata-
+lyst of early sibling interaction is added to the
+
+equation. Future research could proﬁtably explore
+these exciting possibilities.
+
+References
+
+Australian Bureau of Statistics. (2008, February 29). 2006
+area).
+Census
+Retrieved July 20, 2011, from http://www.censusdata.
+abs.gov.au
+
+series: 4069 (postal
+
+community proﬁle
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does
+the autistic child have a “theory of mind”? Cognition,
+21, 37–46. doi:10.1016/0010-0277(85)90022-8
+
+Bender, P. K., Pons, F., Harris, P. L., & de Rosnay, M.
+(2011). Do young children misunderstand their own
+emotions? European Journal of Developmental Psychology,
+8, 331–348. doi:10.1080/17405629.2010.495615
+
+Best, J. R., Miller, P. H., & Jones, L. L. (2009). Executive
+functions at age 5: Changes and correlates. Developmen-
+tal Review, 29, 180–200. doi:10.1016/j.dr.2009.05.002
+
+Carlson, S. M., Mandell, D. J., & Williams, L. (2004).
+Executive function and theory of mind: Stability and
+prediction from ages 2 to 3. Developmental Psychology,
+40, 1105–1122. doi:10.1037/0012-1649.40.6.1105
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differ-
+ences in inhibitory control and children’s theory of
+mind. Child Development, 72, 1032–1053. doi:10.1111/
+1467-8624.00333
+
+Carlson, S. M., Moses, L. J., & Breton, C. (2002). How spe-
+ciﬁc is the relation between executive function and
+theory of mind? Contributions of
+inhibitory control
+and working memory. Infant and Child Development, 11,
+73–92. doi:10.1002/icd.298
+
+Cole, K., & Mitchell, P. (2000). Siblings in the develop-
+ment of executive control and a theory of mind. British
+Journal of Developmental Psychology, 18, 279–295. doi:10.
+1348/026151000165698
+
+Dunn, J. (1995). Children as psychologists: The later cor-
+relates of individual differences in understanding of
+emotions and other minds. Cognition and Emotion, 9,
+187–201. doi:10.1080/02699939508409008
+
+Dunn, J., & Brophy, M. (2005). Communication, relation-
+ships, and individual differences in children’s under-
+standing of mind. In J. W. Astington & J. A. Baird (Eds.),
+Why language matters for theory of mind (pp. 50–69).
+New York: Oxford University Press.
+
+Dunn, L. M., & Dunn, L. M. (1989). Peabody Picture Vocab-
+ulary Test–Revised. Circle Pines, MN: American Guid-
+ance Service.
+
+Farrant, B. M., Maybery, M. T., & Fletcher, J. (2012). Lan-
+guage, cognitive ﬂexibility, and explicit
+false belief
+understanding: Longitudinal analysis in typical develop-
+ment and speciﬁc language impairment. Child Develop-
+ment, 83, 223–235. doi:10.1111/j.1467-8624.2011.01681.x
+
+Flavell,
+
+J. H.
+
+(1986). The development of children’s
+knowledge about
+the appearance-reality distinction.
+American Psychologist, 41, 418–425. doi:10.1037/0003-
+066X.41.4.418
+
+Siblings, Theory of Mind, and Executive Functioning
+
+1457
+
+Flavell, J. H. (2004). Theory-of-mind development: Retro-
+spect and prospect. Merrill-Palmer Quarterly, 50, 274–290.
+Flynn, E., O’Malley, C., & Wood, D. (2004). A longitudi-
+nal, microgenetic study of the emergence of false belief
+understanding and inhibition skills. Developmental Sci-
+ence, 7, 103–115. doi:10.1111/j.1467-7687.2004.00326.x
+
+Frye, D., Zelazo, P. D., & Burack, J. A. (1998). Cognitive
+complexity and control: I. Theory of mind in typical
+and atypical development. Current Directions in Psycho-
+logical Science, 7, 116–121.
+
+Frye, D., Zelazo, P. D., & Palfai, T. (1995). Theory of
+mind and rule-based reasoning. Cognitive Development,
+10, 483–527. doi:10.1016/0885-2014(95)90024-1
+
+Garon, N., Bryson, S. E., & Smith, I. M. (2008). Executive
+function in preschoolers: A review using an integrative
+framework. Psychological Bulletin, 134, 31–60. doi:10.
+1037/0033-2909.134.1.31
+
+Gopnik, A., & Astington, J. W. (1988). Children’s under-
+standing of representational change and its relation to
+the understanding of false belief and the appearance-
+reality distinction. Child Development, 59, 26–37.
+
+Harris, P. L. (2005). Conversation, pretense, and theory of
+mind. In J. W. Astington & J. A. Baird (Eds.), Why lan-
+guage matters for theory of mind (pp. 70–83). New York:
+Oxford University Press.
+
+Hughes, C.
+
+(1998). Executive function in preschoolers:
+Links with theory of mind and verbal ability. British
+Journal of Developmental Psychology, 16, 233–253. doi:10.
+1111/j.2044-835X.1998.tb00921.x
+
+Hughes, C., Adlam, A., Happe, F., Jackson, J., Taylor, A.,
+& Caspi, A. (2000). Good test-retest reliability for stan-
+dard and advanced false-belief
+tasks across a wide
+range of abilities. Journal of Child Psychology and Psychia-
+try, 41, 483–490.
+
+Hughes, C., & Ensor, R. (2005). Executive function and
+theory of mind in 2 year olds: A family affair? Develop-
+645–668. doi:10.1207/
+mental Neuropsychology,
+s15326942dn2802_5
+
+28,
+
+Hughes, C., & Ensor, R. (2007). Executive function and
+theory of mind: Predictive relations from ages 2 to 4.
+Developmental Psychology, 43, 1447–1459. doi:10.1037/
+0012-1649.43.6.1447
+
+Jenkins, J. M., & Astington, J. W. (1996). Cognitive factors
+and family structure associated with theory of mind
+development in young children. Developmental Psychol-
+ogy, 32, 70–78. doi:10.1037/0012-1649.32.1.70
+
+Leslie, A. M., & Thaiss, L. (1992). Domain speciﬁcity in con-
+ceptual development: Neuropsychological evidence from
+autism. Cognition, 43, 225–251. doi:10.1016/0010-0277
+(92)90013-8
+
+McAlister, A. R., & Peterson, C. (2006). Mental playmates:
+Siblings, executive functioning and theory of mind.
+British Journal of Developmental Psychology, 24, 733–751.
+doi:10.1348/026151005X70094
+
+McAlister, A. R., & Peterson, C. C. (2007). A longitudinal
+study of child siblings and theory of mind develop-
+ment. Cognitive Development, 22, 258–270. doi:10.1016/
+j.cogdev.2006.10.009
+
+1458 McAlister and Peterson
+
+Moses, L. J., Carlson, S. M., & Sabbagh, M. A. (2006). On
+the speciﬁcity of the relation between executive func-
+tioning and children’s theories of mind. In W. Schneider,
+R. Schumann-Hengsteler, & B. Sodian (Eds.), Young chil-
+dren’s cognitive development: Interrelationships among exec-
+utive functioning, working memory, verbal ability, and
+theory of mind (pp. 131–146). Mahwah, NJ: Erlbaum.
+
+Müller, U., Liebermann-Finestone, D. P., Carpendale, J. I.
+M., Hammond, S. I., & Bibok, M. B. (2012). Knowing
+minds, controlling actions: The developmental relations
+between theory of mind and executive function from 2
+to 4 years of age. Journal of Experimental Child Psychol-
+ogy, 111, 331–348. doi:10.1016/j.jecp. 2011.08.014
+
+Oddy, W., Kendall, G., Blair, E., de Klerk, N., Stanley, F.,
+Landau, L., et al. (2003). Breast feeding and cognitive
+development in childhood. Paediatric & Perinatal Epide-
+miology, 17, 81–90. doi:10.1046/j.1365-3016.2003.00464.x
+Oh, S., & Lewis, C. (2008). Korean preschoolers’ advanced
+inhibitory control and its relation to other executive
+skills and mental state understanding. Child Develop-
+ment, 79, 80–99. doi:10.1111/j.1467-8624.2007.01112.x
+
+Ozonoff, S., Pennington, B. F., & Rogers, S. J. (1991).
+Executive function deﬁcits in high-functioning autistic
+individuals: Relationship to theory of mind. Journal of
+Child Psychology and Psychiatry, 32, 1081–1105. doi:10.
+1111/j.1469-7610.1991.tb00351.x
+
+Perner, J. (1991). Understanding the representational mind.
+
+Cambridge, MA: MIT Press.
+
+Perner, J. (1998). The meta-intentional nature of executive
+functions and theory of mind. In P. Carruthers & J.
+Boucher (Eds.), Language and thought: Interdisciplinary
+themes (pp. 270–283). Cambridge, England: Cambridge
+University Press.
+
+Perner, J., & Lang, B. (1999). Development of theory of
+mind and executive control. Trends in Cognitive Sciences,
+3, 337–344. doi:10.1016/S1364-6613(99)01362-5
+
+Perner, J., Lang, B., & Kloo, D. (2002). Theory of mind
+and self-control: More than a common problem of inhi-
+bition. Child Development, 73, 752–767. doi:10.1111/
+1467-8624.00436
+
+Perner, J., Ruffman, T., & Leekam, S. R. (1994). Theory of
+mind is contagious: You catch it from your sibs. Child
+Development, 65, 1228–1238. doi:10.1111/j.1467-8624.
+1994.tb00814.x
+
+Peterson, C. C. (2000). Kindred spirits: Inﬂuences of sib-
+lings’ perspectives on theory of mind. Cognitive Develop-
+ment, 15, 435–455. doi:10.1016/S0885-2014(01)00040-5
+
+Peterson, C. C., & Siegal, M. (1999). Representing inner
+worlds: Theory of mind in autistic, deaf, and normal
+hearing children. Psychological Science, 10, 126–129.
+doi:10.1111/1467-9280.00119
+
+Peterson, C. C., Slaughter, V. P., & Paynter, J. (2007).
+Social maturity and theory of mind in typically devel-
+oping children and those on the autism spectrum. Jour-
+nal of Child Psychology and Psychiatry, 48, 1243–1250.
+doi:10.1111/j.1469-7610.2007.01810.x
+
+Peterson, C. C., Wellman, H. M., & Liu, D. (2005). Steps
+in theory-of-mind development for children with deaf-
+ness or autism. Child Development, 76, 502–517. doi:10.
+1111/j.1467-8624.2005.00859.x
+
+Randell, A. C., & Peterson, C. C. (2009). Affective quali-
+ties of sibling disputes, mothers’ conﬂict attitudes, and
+children’s theory of mind development. Social Develop-
+ment, 18, 857–874. doi:10.1111/j.1467-9507.2008.00513.x
+Razza, R. A., & Blair, C. (2009). Associations among false-
+belief understanding, executive function, and social
+competence: A longitudinal analysis. Journal of Applied
+Developmental Psychology, 30, 332–343. doi:10.1016/j.
+appdev.2008.12.020
+
+Reed, M. A., Pien, D. L., & Rothbart, M. K. (1984). Inhibi-
+in preschool children. Merrill-Palmer
+
+tory self-control
+Quarterly, 30, 131–147.
+
+Ruffman, T., Perner, J., Naito, M., Parkin, L., & Clements,
+W. A. (1998). Older (but not younger) siblings facilitate
+false belief understanding. Developmental Psychology, 34,
+161–174. doi:10.1037/0012-1649.34.1.161
+
+Ruffman, T., Perner, J., & Parkin, L. (1999). How parent-
+ing style affects false belief understanding. Social Devel-
+opment, 8, 395–411. doi:10.1111/1467-9507.00103
+
+Ruffman, T., Slade, L., & Crowe, E. (2002). The relation
+between children’s and mothers’ mental state language
+and theory-of-mind understanding. Child Development,
+73, 734–751. doi:10.1111/1467-8624.00435
+
+Sabbagh, M., Xu, F., Carlson, S., Moses, L., & Lee, K.
+(2006). Development of executive functioning and the-
+ory of mind: A comparison of Chinese and U.S. pre-
+schoolers. Psychological Science, 17, 74–81. doi:10.1111/j.
+1467-9280.2005.01667.x
+
+Schneider, W., Lockl, K., & Fernandez, O. (2005). Interre-
+lationships among theory of mind, executive control,
+language development, and working memory in young
+children: A longitudinal analysis. In W. Schneider, R.
+Schumann-Hengsteler, & B. Sodian (Eds.), Young chil-
+dren’s cognitive development: Interrelationships among exec-
+utive functioning, working memory, verbal ability, and
+theory of mind (pp. 259–284). Mahwah, NJ: Erlbaum.
+
+Shallice, T. (1982). Speciﬁc impairments of planning. The
+Neuropsychology of Cognitive Function, 298, 199–209.
+doi:10.1098/rstb.1982.0082
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-
+theory-of-mind development: The truth
+false belief. Child Development, 72, 655–684.
+
+analysis of
+about
+doi:10.1111/1467-8624.00304
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-of-
+mind tasks. Child Development, 75, 523–541. doi:10.
+1111/j.1467-8624.2004.00691.x
+
+Zelazo, P. D., Carlson, S. M., & Kesek, A. (2008). Devel-
+opmental cognitive neuroscience. In C. A. Nelson & M.
+Luciana (Eds.), Handbook of developmental cognitive neuro-
+science (2nd ed., pp. 553–574). Cambridge, MA: MIT
+Press.
+
+

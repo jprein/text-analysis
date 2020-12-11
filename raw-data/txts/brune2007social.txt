@@ -1,0 +1,1515 @@
+JOURNAL OF COGNITION AND DEVELOPMENT
+
+ISSN: 1524-8372 (Print) 1532-7647 (Online) Journal homepage: https://www.tandfonline.com/loi/hjcd20
+
+Social Cognition and Social Responsiveness in 10-
+month-old Infants
+
+Camille W. Brune & Amanda L. Woodward
+
+To cite this article: Camille W. Brune & Amanda L. Woodward (2007) Social Cognition and Social
+Responsiveness in 10-month-old Infants, JOURNAL OF COGNITION AND DEVELOPMENT, 8:2,
+133-158, DOI: 10.1080/15248370701202331
+To link to this article:  https://doi.org/10.1080/15248370701202331
+
+Published online: 05 Dec 2007.
+
+Submit your article to this journal 
+
+Article views: 276
+
+View related articles 
+
+Citing articles: 40 View citing articles 
+
+Full Terms & Conditions of access and use can be found at
+
+https://www.tandfonline.com/action/journalInformation?journalCode=hjcd20
+
+JOURNAL OF COGNITION AND DEVELOPMENT, 8(2), 133–158
+Copyright © 2007, Lawrence Erlbaum Associates, Inc.
+
+Social Cognition and Social
+
+Responsiveness in 10-month-old Infants
+
+Camille W. Brune and Amanda L. Woodward
+
+Department of Psychology
+
+University of Chicago
+
+In this study, we investigated relations between infants’ understanding of intentional
+actions and measures of social responsiveness during a transitional period, 9- to
+11-months. Infants (N = 52) were tested in visual habituation paradigms tapping their
+understanding of the relation between a person and the object of her attention. Mea-
+sures of social responsiveness included orienting to the target of another’s attention,
+point production, and supported joint attention in parent–child play. Infants’ re-
+sponses to the habituation events were related to their social responsiveness. Distinct
+factors for understanding actions and social responsiveness as relational were re-
+vealed. Infants who produced object-directed points were more likely to understand
+pointing as relational, and infants who engaged in high amounts of shared attention
+were more likely to understand gaze. Infants’ tendency to orient in response to an
+adult’s gaze shifts and points was unrelated to their understanding of gaze and point-
+ing. These findings elucidate the ways in which social cognition and social respon-
+siveness, although distinct, are related in development.
+
+Between 9 and 12 months of age, infants begin to participate in increasingly rich
+triadic interactions. During this period, the shift in complexity of infants’ social
+behavior is so dramatic that Tomasello (1995) dubbed it the “social-cognitive revo-
+lution”. This term implies that changes in infants’ social responsiveness are
+accompanied by changes in their understanding of others’ actions. Although this
+assumption provides the foundation for many theories of social-cognitive develop-
+ment, until now it has not been empirically tested. Tomasello and colleagues
+(Tomasello, Carpenter, Call, Behne, & Moll, 2005, pp. 689) highlighted the need
+
+Correspondence should be sent to Camille W. Brune, Institute for Juvenile Research, Department of
+Psychiatry (MC 747), University of Illinois at Chicago, 1747 West Roosevelt Rd., Room 155, Chicago,
+Illinois 60608. Email: cbrune@psych.uic.edu
+
+134
+
+BRUNE AND WOODWARD
+
+for this research when they recently wrote, “There has been almost no research—
+not even training studies or correlational studies—that establishes a solid relation-
+ship between any kind of particular social experience infants might have and indi-
+vidual differences in the unfolding of [intentional action knowledge].” We began
+to fill this gap by seeking clearer evidence concerning the relation between social
+responsiveness and intentional action knowledge during infancy.
+
+By social responsiveness, we mean the initiation of behaviors that are shaped in
+response to the actions of another person and fulfill a social function. Similar be-
+haviors might be a demonstration of social responsiveness in one context and not
+in another, depending on the functions they serve. To illustrate, consider two exam-
+ples of gaze behavior, gazing at a social partner’s face to establish joint attention
+and gazing at a passerby on the street. The first is socially responsive behavior,
+whereas the second may not be.
+
+Human infants are socially responsive from early infancy in their dyadic inter-
+actions with caretakers (Hains & Muir, 1996; Jaffe, Beatrice, Stanley, Crown, &
+Jasnow, 2001; Tronick, 1989). For example, in the first few months of life, infants’
+rate of smiling declines when their mothers look away from them (Hains & Muir).
+Toward the end of the first year of life, infants begin to incorporate outside entities,
+such as objects or events, in their interactions with others. These triadic interac-
+tions (i.e., between infant, other, object) often involve sharing attention on objects
+during play (Bakeman & Adamson, 1984). During these interactions, infants fol-
+low adults’ gaze (Butterworth & Grover, 1990; Carpenter, Nagell, & Tomasello,
+1998; Moore & Corkum, 1998; Scaife & Bruner, 1975), spend increasingly long
+bouts engaged in shared attention with adults (Bakeman & Adamson), and pro-
+duce communicative gestures, such as showing or pointing, which may function to
+direct adults’ attention (Bates, Benigni, Bretherton, Camaioni, & Volterra, 1979;
+Carpenter et al., 1998; Liszkowski, Carpenter, Henning, Striano, & Tomasello,
+2004) or to elicit responses from adults (see Corkum & Moore, 1995).
+
+The marked developments in triadic behaviors between 9 and 12 months have
+been used to support the argument that intentional understanding first appears dur-
+ing this time period. In fact, infants’ emerging social responsiveness in triadic in-
+teractions provides a foundation for several current theories of social-cognitive de-
+velopment. To start, these behaviors have been taken as evidence that infants
+understand others’ intentions (Bretherton, 1991; Carpenter et al., 1998; Tomasello,
+1999). For example, Tomasello (1999) proposed that “different joint attentional
+behaviors in which infants follow, direct, or share adult attention and behavior are
+not separate activities or cognitive domains; they are simply different behavioral
+manifestations of this same underlying understanding of other persons as inten-
+tional agents” (p. 64). This assumption stems from rich interpretations of the social
+function of behaviors, for example, assuming that infants alternate gaze to assess
+the adult’s focus of attention (for alternative interpretations, see Baldwin & Moses,
+1996; Corkum & Moore, 1995).
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+135
+
+Furthermore, infants’ engagement in triadic interactions has been hypothesized
+to play a formative role in the development of intentional understanding. For ex-
+ample, Moore and colleagues (Barresi & Moore, 1996; Corkum & Moore, 1995,
+1998; Moore & Corkum, 1994) suggested that infants’ social responsiveness sets
+the conditions for the discovery of others’ intentions. Through engagement in joint
+attention episodes, they proposed, infants align their own states of attention with
+the observable actions of others, thereby coming to understand others’ inner states.
+Infants initially create merged representations of their own and others’ intentional
+states during triadic interactions, and, in later development, they come to differen-
+tiate their own intentions from those of others (for similar proposals, see
+Carpendale & Lewis, 2004; Tomasello, 1999).
+
+These accounts are noteworthy because they take seriously the role of environ-
+mental structure and conceptual learning in infant social cognition, thereby offer-
+ing an alternative to strongly nativist accounts. However, empirical investigation of
+these proposals has been restricted by a reliance on infants’ social responsiveness
+as the chief source of evidence for their underlying social cognition. When infants
+follow others’ gaze shifts, point to objects, and engage in shared attention, the ar-
+gument goes, their actions directly reflect underlying conceptions of others’ inten-
+tions and attention. However, these behaviors are open to more than one interpreta-
+tion, and their status as evidence of underlying social cognition has been hotly
+debated. To illustrate, Moore and his colleagues (Barresi & Moore; Corkum &
+Moore, 1996) suggested that infants’ propensity to follow gaze could be the result
+of low-level orienting responses or perhaps operant reinforcement, and, therefore,
+may not reflect knowledge about others’ attention. Similarly, Baldwin and Moses
+(1996) suggested that infants’ tendency to look toward a parent’s face when con-
+fronted with an ambiguous situation might reflect comfort seeking, rather than at-
+tempts to monitor the parent’s focus of attention.
+
+Infants’ overt attempts to direct others’ attention via pointing and other commu-
+nicative gestures seem to provide clearer evidence that infants understand others’
+states of attention (Liszkowski et al., 2004). These behaviors have also been sub-
+ject to lean as well as rich interpretations. Infants begin to produce points directed
+at objects as early as 9 months of age in some cases (Bates et al., 1979; Bates,
+Camaioni, & Volterra, 1975; Carpenter et al., 1998; Trevarthen, 1977). However,
+the function of these early points may be to mark infants’ own focus of attention
+(Kaye, 1982; Werner & Kaplan, 1963), rather than to direct another person’s atten-
+tion. After 12 months of age, infants accompany points with gaze alternation be-
+tween the onlooker and the object (Bates et al., 1979; Carpenter et al., 1998).
+Moreover, infants initiate shared attention by alternating their gaze between a per-
+son and an object (i.e., engaging in coordinated joint attention) beginning at
+around 12 months of age (Bakeman & Adamson, 1984; Carpenter et al., 1998). Al-
+though these more complex actions are often taken as evidence for infants’ under-
+standing of others’ attention, several researchers have argued that they may reflect
+
+136
+
+BRUNE AND WOODWARD
+
+something less sophisticated. For example, Moore (Moore & Corkum, 1994;
+Moore & D’Entremont, 2001) suggested that infants turn to the adult after pointing
+because they anticipate the adult’s response, rather than out of a desire to monitor
+the adult’s attention (but see Liszkowski et al., 2004).
+
+Research with other populations highlights the problems of inferring social
+cognition from well-organized social responses. For instance, similar debates have
+arisen in the domain of animal cognition. Although some nonhuman primates fol-
+low gaze and anticipate others’ actions, it is not clear that they possess rich or ab-
+stract conceptions of intention or attention (Call, Hare, Carpenter, & Tomasello,
+2004; Povinelli, 2001; Povinelli & Eddy, 1996; Tomasello, Call, & Hare, 2003;
+Whiten, 1994). In some human populations, the relation between social responses
+and social cognition is also unclear. For example, individuals with autism, charac-
+terized by deficits in social responsiveness, can learn to produce social responses
+to particular cues (Klin, Schultz, & Cohen, 2000). Unfortunately, this learning
+does not generalize well to an understanding of others’ behavior in novel situations
+(Klin et al., 2000). The cooccurrence of deficits in social behavior and social un-
+derstanding in autism may be unique (e.g., Mundy, 2003; Travis, Sigman, &
+Ruskin, 2001). However, even typical adults’ social responses, like gaze following,
+do not always reflect underlying attributions of attention or intention (Driver et al.,
+1999; Ricciardelli, Bricolo, Aglioti, & Chelazzi, 2002).
+
+A second problem is that reliance on social responsiveness as evidence for so-
+cial cognition contributes to a circular argument in which researchers have pro-
+posed that social responsiveness is both an effect of social cognition and a cause of
+this effect (Barresi & Moore, 1996; Carpenter et al., 1998; Tomasello, 1999). For
+example, one could argue that infants who produce robust orienting responses may
+be more likely to “catch” the target of another’s attention. Consequently, robust
+orienters learn to form a relation between a person and the object of her attention,
+which in turn causes them to orient to the targets more. Although this argument and
+others like it might be true, they are impossible to test without an independent
+source of evidence about infants’ underlying knowledge of attentional relations.
+These considerations indicate the need for alternative sources of evidence about
+infants’ social cognition.
+
+Recent studies point to the kind of evidence that could address these problems.
+Several studies have used visual habituation measures to investigate infants’ un-
+derstanding of intentional action, and, in particular, their appreciation of the invisi-
+ble relation between a person and the object of his or her attention (Phillips,
+Wellman, & Spelke, 2002; Sodian & Thoermer, 2004; Woodward, 2003; Wood-
+ward & Guajardo, 2002). To illustrate, in one study (Woodward, 2003), infants
+viewed events like the ones depicted in Figure 1. Infants were habituated to an ac-
+tor turning to look at one of two toys, a teddy bear and a ball. After infants habitu-
+ated to this event, the positions of the toys were reversed. Infants then saw alternat-
+ing trials in which (a) the relation between the actor and the object changed (new
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+137
+
+FIGURE 1 Diagram of sample habituation and test trials in Woodward (2003).
+
+object trials) or (b) the actor’s direction of motion changed, but her relation to the
+object did not (new side trials). If infants represented the relation between the actor
+and the object of her attention during habituation, then they were predicted to look
+longer at the new object trials than the new side trials because the actor-object rela-
+tion was disrupted. Infants at 12 months of age, but not 7 or 9 months of age,
+looked significantly longer at the new object trials than the new side trials, which
+suggests that they responded to the change in the actor-object relation. Other stud-
+ies have converged in indicating a transition in infants’ understanding of
+attentional relations between 9 and 12 months of age (Phillips et al., 2002; Sodian
+& Thoermer, 2004; Woodward & Guajardo, 2002).
+
+In these studies, the behavior that indexes social cognition is not a social re-
+sponse. Looking times in habituation procedures are generally assumed to index
+information processing and novelty detection. Studies that have employed this
+method to assess infants’ understanding of intentional action report similar
+
+138
+
+BRUNE AND WOODWARD
+
+patterns of habituation and dishabituation to those involving inanimate events.
+Moreover, although the context of the study might be seen as social in some re-
+spects because the infant views a person, longer looking times on some test trials
+versus others serve no obvious social function.
+
+Further evidence that looking times in this kind of habituation procedure are
+distinct from social responses comes from an analysis of a social response in the
+context of these studies. In the Woodward (2003) study, infants followed the exper-
+imenter’s gaze. This social response was distinct from infants’ overall looking
+times on the experimental test events. Infants at each age (7, 9, and 12 months)
+spent more time looking at the target of the actor’s gaze than the other toy, regard-
+less of whether they viewed new object or new side trials. For the younger infants,
+there was a disassociation between their understanding of the looking relation and
+their gaze following; they did not encode gaze as relational, yet they followed the
+actor’s gaze. Woodward and Guajardo (2002) reported similar findings for infants’
+understanding of and responses to pointing events.
+
+These findings suggest that the visual-habituation paradigm can provide an in-
+dependent measure of infants’ understanding of intentional action, thus providing
+a way to investigate relations between social responsiveness and social cognition.
+Indeed, an initial investigation has suggested that informative relations exist be-
+tween infants’ social responsiveness and their social cognition. Woodward and
+Guajardo (2002) found that between 9 and 12 months of age, infants’ understand-
+ing of pointing as relational (as assessed in the habituation paradigm) was corre-
+lated with their own ability to produce object-directed points. Infants who pro-
+duced object-directed points encoded pointing as relational, but infants who did
+not yet produce points did not do so. Because the infants who pointed did not differ
+in age from those who did not yet point, the relation between point production and
+point comprehension was not accounted for by age.
+
+In this study, we investigated the potential relations between infants’ emerging
+social responsiveness and their emerging social cognition between 9 and 12
+months of age. We tested 10-month-old infants to investigate whether and how
+measures of social responsiveness and social cognition are related during a transi-
+tional period, when both social responsiveness and social cognition are undergoing
+development. Social responsiveness was assessed using four measures: gaze and
+point following in a naturalistic paradigm, orienting to the target of an actor’s at-
+tention in the visual-habituation paradigm, parent report and observation of ob-
+ject-directed pointing, and shared attention in parent–child play. Social cognition
+was assessed using the difference in infants’ looking time to the test events in the
+visual-habituation paradigm as indicative of understanding attentional relations.
+Infants participated in two visual-habituation sessions to index their understanding
+of two canonical expressions of attention, looking and pointing. By exploring the
+concurrent relations across these tasks, our goal was to take an initial step toward
+discovering developmental relations between social responsiveness and social
+cognition in infancy.
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+139
+
+Testing the same infants in two different habituation paradigms also allowed us
+to investigate a second issue: the extent to which infants’ understanding of
+attentional relations is uniform across different kinds of actions. Comparing across
+infants (Sodian, Schoeppner, & Metz, 2004) and across studies (Moore, 1999;
+Woodward, 2003; Woodward & Guajardo, 2002), we know that infants typically
+begin to understand both gaze and pointing as relational between 9 and 13 months
+of age. However, whether understanding one action is associated with understand-
+ing the other is currently unknown. We addressed this question by investigating
+correlations in infants’ responses in the gaze and point habituation procedures, as
+well as by assessing whether responses in these two procedures correlate with the
+same aspects of social responsiveness.
+
+METHOD
+
+Participants
+
+Fifty-two full-term infants from the Chicago area participated in this study. Partici-
+pants were recruited from mailings and advertisements. Their parents were offered
+$10 to reimburse their travel expenses. Infants between 9 and 11 months of age
+were recruited with a mean age across visits of 10 months 3 days (range 9 months 2
+days to 11 months 3 days). On average, visits were 1 week apart (M = 7.7 days,
+range 3 to 14 days). There were 28 boys and 24 girls. Parents identified their in-
+fants as White (52%), African-American (15%), Hispanic (19%), Asian (2%), and
+other (12%). An additional 20 infants began the study but were not included in the
+final sample because they only participated in one visit (n = 10), did not complete a
+habituation task due to distress (n = 4), or because of an experimental error in the
+procedure (n = 6).
+
+Procedure and Measures
+
+Infants visited the lab for two sessions. On each visit, following informed consent
+procedures, the experimenter interviewed the parent about the infants’ point pro-
+duction. Next, infants participated in a series of interactive tasks. We focus on two:
+parent–child play (Visit 1) and attention following (Visit 2). Then, infants partici-
+pated in a visual-habituation procedure. Two infants participated in the visual- ha-
+bituation procedure before the other tasks because of scheduling conflicts. The
+data for these infants did not differ from the rest of the sample, so they were in-
+cluded in the analyses. The interactive tasks took place in a playroom separate
+from the habituation procedure.
+
+Coders were unaware of an infant’s pattern of responses during the habituation
+procedure. For all tasks, interobserver reliability was calculated by having a sec-
+ond observer code all infants or a randomly selected group.
+
+140
+
+BRUNE AND WOODWARD
+
+Measures of Social Cognition: Understanding Attentional Relations.
+Two visual-habituation procedures were used to index infants’ comprehension of
+the attentional relations of looking and pointing. Infants saw gaze events and point-
+ing events on alternate visits. For gaze understanding, infants viewed events in
+which a presenter looked at one of two toys (Figure 2). For point understanding, in-
+fants viewed a very similar event, in which the presenter both looked at and pointed
+to one of the toys (Figure 2). Infants saw the same presenter on each visit. The ha-
+bituation procedures were modeled after Woodward (2003) and Woodward and
+Guajardo (2002). Each infant was randomly assigned to a condition that included
+three factors: (a) visit, which type of events they saw on their first visit (those con-
+taining gaze alone or those containing gaze and pointing), (b) type, which type of
+event they saw on the first test trial (new object or new side), and (c) goal, which
+toy was the target of the actor’s action in habituation (ball or teddy bear). In all,
+eight conditions were approximately evenly distributed across the sample.
+
+Apparatus.
+
+In the habituation procedure, the infant sat on his or her parent’s
+lap inside a black curtained booth facing a puppet stage about 24 in. away. The par-
+ent was instructed to look down at the infant, rather than at the experimental events,
+and not to talk or direct the infant’s attention in any way once the screen was low-
+ered. The stage floor was a narrow table covered with black cloth. It held two black
+3-in. pedestals spaced 13 in. apart, equidistant from the center. A toy was affixed to
+the top of each pedestal. On the pedestal to the infant’s right sat a white teddy bear
+wearing a maroon sweater. The pedestal to the infant’s left held a multi-colored
+ball. The actor sat behind the stage, so that only her upper body and face were seen;
+the lower part of her arms and hands remained on her lap, except during the point-
+ing events. She wore a red long-sleeved shirt. A camera protruded from a small
+hole in the wall behind the actor to record the infant’s patterns of looking. A second
+
+FIGURE 2 Sample habituation and test events.
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+141
+
+video camera captured the infant’s view of the events. A white muslin screen was
+raised to hide the stage from the infant’s view between trials.
+
+Procedure. At the start of each trial, the screen was lowered and then the ac-
+tor made eye contact with the infant and said “Hi”. Next, she said, “Look,” and
+turned to look at one of the two toys. For the pointing events, she pointed to the toy,
+contacting it with her index finger, while she turned to look at it. The actor re-
+mained still in this position (i.e., looking at, pointing to the toy) until the end of the
+trial. The infant’s attention to the display was coded once the actor was in this final
+static pose. The trial ended when the infant looked away from the display for 2 con-
+secutive sec. The habituation criterion was a 50% decrement in attention, on the
+basis of the sum of the first three habituation trials. When the infant looked less
+than half of this sum over three consecutive trials, he or she met the criterion.
+Therefore, every infant saw at least 6 trials. If an infant failed to meet this criterion
+after 14 trials, the habituation phase was ended, and the infant then continued in the
+procedure.
+
+Following habituation, one additional trial of the habituation event was pre-
+sented. This baseline trial provided an unbiased estimate of attention at the end of
+habituation. Then, before beginning the test trials, the actor reversed the location of
+the toys while the screen hid the stage from the infant’s view. The test events were
+the exactly the same as those seen in habituation, except that the location of the ob-
+jects and target object of the actor varied. There were 3 pairs of alternating trials.
+On new side trials, the actor looked (or looked and pointed) at the same toy as dur-
+ing habituation, turning to a new location to do so. On new object trials, the actor
+looked (or looked and pointed) toward the other toy, which sat on the same side of
+the stage that she had previously turned toward.
+
+A trained observer coded the infant’s looking behavior on-line via a monitor.
+An infant was classified as looking at the events when his or her gaze fell within a
+triangle defined by endpoints at the top of the actor’s head and the outer edge of
+each of the toys. The observer could not see the experimental events and was un-
+aware of the condition assignment of the infant. She used a custom software pack-
+age (Pinto, 1994) that recorded infant’s looking with the press of a button.
+
+Reliability. Every infant was coded from video by a second observer, who
+was unaware of the condition assignment. Observers were coded as agreeing if
+they identified the same look away from the display as ending the trial. The pri-
+mary and secondary observers agreed on the endings of 95% (range 75–100%) of
+the test trials for the gaze events, and they agreed on 92% (range 75–100%) for
+pointing events. Although there were few disagreements, it was possible that the
+disagreements favored the hypothesis that infants would look longer on new object
+trials. To test for this possibility, disagreements were categorized as favoring the
+hypothesis (i.e., beeping late on new object trials, beeping early on new side trials)
+
+142
+
+BRUNE AND WOODWARD
+
+or going against the hypothesis. Disagreements did not favor the hypothesis for ei-
+ther the gaze events, X2 (1, n = 15) = .80, p = .37, or the pointing events, X2 (1, n =
+22) = 1.00, p = .99.1
+
+Measures of Social Responsiveness
+
+Point production. To determine whether an infant produced object-directed
+points, the experimenter administered a brief interview at each visit. She asked the
+parent whether the infant produced a well-formed point gesture (index finger ex-
+tended, other fingers curled back), and if so whether the infant directed this gesture
+at objects. If the parent answered both questions affirmatively, then the infant was
+categorized as a pointer. In addition, as in the Woodward and Guajardo (2002)
+study, if an infant produced a well-formed point that was clearly directed at a dis-
+tant object during the visit, he or she was categorized as a pointer.
+
+Parent–child play. To obtain a measure of shared attention, the parent was
+asked to play with his or her infant, as if they were playing at home, for 10 min, fol-
+lowing the procedure developed by Bakeman and Adamson (1984). For all infants,
+the parent in the play session was the primary caregiver, whether that parent was
+the mother (n = 50) or the father (n = 2). The parent and infant were brought into a
+room containing a basket of toys which were chosen to encourage interaction be-
+tween them. The dyad sat in the center of the room on the floor near the basket of
+toys. An experimenter stood silently behind a video camera placed in the corner of
+the room and observed the session through the viewfinder to ensure that the inter-
+action was captured on film.
+
+Videotapes of the session were digitized and coded with inGest (Aronson,
+1999), using coding categories based on those of Bakeman and Adamson (Adam-
+son, Bakeman, Russel, & Deckner, 1998). Two states from the Bakeman and Ad-
+amson coding regime were of focal importance to our research questions: sup-
+ported joint attention and coordinated joint attention. In each of these, the infant
+and parent actively shared attention on an object. Supported joint attention meant
+that the infant and parent were jointly engaged, but the work at sustaining this
+shared attention seemed to be done by the parent. The infant did not acknowledge
+the parent’s attention to the toy. Coordinated joint attention was defined as sup-
+ported joint attention accompanied by the infant’s alternating gaze between the
+parent and the toy(s), thus suggesting that the infant contributed to sustaining
+
+1To control for the possibility that the actor performed differently across trials, a coder, who was un-
+aware of which condition infants were assigned to, guessed the test trial order by watching a videotape
+of the actor. A sample of about 20% (n = 10) of the sessions for both event types was coded. The coder
+was correct on 40% and 53% of the pairs for gaze and pointing events, respectively; for the first pair, she
+was correct 50% and 60%. The coder’s accuracy did not differ significantly from chance, t(9) = –1.20, p
+= .26, and, t(9) = .25, p = .81, respectively; first pair, t(9) = 0, p = .99 and t(9) = .61, p = .56.
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+143
+
+shared attention. Because the goal of the coding scheme is to capture the infants’
+sustained states of attention, each state was coded only for bouts that lasted 3 sec or
+more.
+
+Two measures were derived from this coding. The first, a dichotomous mea-
+sure, was whether or not infants engaged in coordinated joint attention. The sec-
+ond, a continuous measure, was the proportion of time which the infant spent in ei-
+ther supported or coordinated joint attention. These two categories were combined
+(henceforth, called shared attention) because each reflected a time when the infant
+and parent shared a common focus of attention and because, given the age of the
+participants, coordinated joint attention was infrequent. Most infants (n = 38) did
+not meet the criteria for coordinated joint attention, and those who did spent an av-
+erage of only 2% (SD = 0.5%) of the session in this state. In contrast, all infants en-
+gaged in supported joint attention and, on average, spent 24% (SD = 11%) of the
+time in this state.
+
+A second trained observer repeated the coding procedure for approximately
+20% of the sessions (n = 9). Agreement on the dichotomous measure was 100%.
+Agreement on the continuous measures, using Cohen’s kappa, was .70 (range
+0.61-0.84); Fleiss (1981) characterized kappas between .60 and .75 as “good” and
+above .75 as “excellent”.
+
+Attention following. To assess infants’ orienting in a relatively naturalistic
+interaction, we used the attention-following task developed by Carpenter et al.
+(1998). The infant sat on his or her parent’s lap in a chair across the table from the
+experimenter. Four targets were positioned in the playroom (see Figure 3). Two
+targets were pink paper lanterns, which differed in shape, hanging from the ceiling.
+The remaining two targets were stuffed animals (Bugs Bunny™ and Bob the
+Builder™), positioned on a chair and tripod, respectively.
+
+The experimenter drew the infant’s attention to center by saying, “Hi,” and/or
+the infant’s name. Then, while saying, “Look,” she turned her head to look toward
+a target. After 1 sec, she gazed back to the infant, exclaimed, “Wow,” or “Neat,”
+and alternated her gaze between the target and the infant once more. After receiv-
+ing two trials like this, the infant saw the experimenter point to the target (across
+her body). Each infant received a total of four trials with unique targets: two gaze
+trials, followed by two pointing trials.
+
+The session was videotaped using a digital camera mounted to a tripod, placed
+in the back corner of the room. A trained observer watched the videotape of the
+session and coded whether or not the infant turned to look at the correct target. The
+observer used the vocal cue of the experimenter (i.e., completion of the word
+“Look”) to determine when each trial began. Infants received a score for the num-
+ber of targets they followed, 0 to 4. A second coder watched the videotape and
+coded the task the same way. Thirty-six infants (75% of the sample) were coded for
+reliability. Average agreement was 85% (range 50–100%).
+
+144
+
+BRUNE AND WOODWARD
+
+FIGURE 3 Diagram of the order and location of the targets in the attention following task.
+
+Orienting. As another measure of orienting, the amount of time an infant spent
+attending to the same target as the actor during the visual-habituation paradigm was
+coded, as was done in the Woodward (2003) and Woodward and Guajardo (2002)
+studies. To assess each infant’s orienting response to the actor’s attention, coders
+watched the videotape for each session in real time and coded the duration of infants’
+attention to each toy during the test trials. From this coding, the proportion of time
+that the infant looked at the same toy as the actor versus the other toy was calculated.
+A second pair of observers repeated the procedure for about 20% (n = 10) of the in-
+fants. Reliability between the pairs of coders was 92% (range 80–97%) for the gaze
+events and 90% (range 71–98%) for the pointing events.
+
+RESULTS AND DISCUSSION
+
+Descriptive statistics for each measure are presented in Table 1. The data were ana-
+lyzed in two steps. First, we analyzed infants’ responses in the visual-habituation
+procedures and derived scores to index their understanding of attentional relations
+for the gaze and pointing events. Second, we examined potential relations between
+action understanding and social responsiveness.
+
+Habituation Responses: Understanding
+Attentional Relations
+
+Infants met the habituation criterion for both the gaze and pointing events in an av-
+erage of eight trials. One infant did not meet the habituation criterion for the gaze
+events, and 4 infants did not meet it for the pointing events. When these infants
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+145
+
+Overview of Measures and Descriptive Statistics
+
+TABLE 1
+
+Measure
+
+Action understanding
+Gaze understanding
+Point understanding
+
+Social orienting
+
+Orienting in habituation (mean)
+
+Gaze habituation
+Point habituation
+Attention following
+
+Shared attention
+
+na
+
+52
+52
+
+51
+51
+48
+51
+52
+
+Whole
+Sample
+
+Pointers
+
+Non-pointers
+
+M
+
+SD
+
+Range
+
+M
+
+SD
+
+M
+
+SD
+
+0.49
+0.54
+
+0.24
+0.18
+
+0.05–0.89
+0.10–0.90
+
+0.48
+0 .59*
+
+0.26
+0.18
+0.36
+1.57
+0.26
+
+0.12
+0.13
+0.16
+1.03
+0.12
+
+0.03–0.53
+0–0.53
+0.06–0.67
+
+0–4
+
+0.05–0.63
+
+0.29
+0.18
+0.42
+1.95
+0.25
+
+.27
+.15
+
+.11
+.12
+.15
+.83
+.12
+
+0.49
+0.51
+
+0.25
+0.18
+0.32
+1.32
+0.26
+
+0.22
+0.20
+
+0.12
+0.13
+0.16
+1.08
+0.13
+
+aNumber of children out of 52 in study who had complete data for measure.
+*p < .05, two-tailed t test compared to chance (.50).
+
+were excluded from the analyses, the patterns of findings did not change. There-
+fore, the following analyses included data from all 52 infants.
+
+Infants’ attention during habituation did not differ significantly for the gaze and
+pointing events. A repeated measures Analysis of Variance (ANOVA) on total look-
+ing time during the habituation trials of each session with action (gaze or pointing) as
+the within-subjects factor revealed no main effect, F(1, 51) = 1.55, p = .22. Following
+habituation, infants responded to the change in the events during the new object and
+new side trials for both the gaze and the pointing events. Paired comparisons of in-
+fants’looking time during the baseline trial and the first new object and new side tri-
+als revealed reliable recovery in all cases, all ps < .0003. During the test trials, infants’
+attention to the events did not vary by action. A repeated measures ANOVA on total
+looking time during the test trials of each session with action (gaze or pointing) as the
+within-subjects factor revealed no main effect, F(1, 51) = 1.45, p = .23.
+
+For the focal data analyses, we derived a single measure for each of the habitua-
+tion tasks. These measures, gaze understanding and point understanding, were
+proportional scores calculated by dividing the time looking to the new object event
+by the total time looking to the new side event and the new object event. These
+scores were selected because they capture the primary measure of interest, infants’
+selective attention to a change in the object of the agent’s attention, a measure that
+has been found to be related to a social response (pointing) in earlier studies
+(Woodward & Guajardo, 2002), and because they are not conflated with other
+measures such as overall levels of attention.2 However, preliminary analyses re-
+
+2Secondary analyses revealed no significant correlations between the measures of habituation (i.e.,
+number of test trials to habituate, total habituation time, proportion decrement in looking across trials)
+and the measures of action understanding or the measures of social responsiveness.
+
+146
+
+BRUNE AND WOODWARD
+
+vealed infants’ attention tapered off across trials. Means (with standard deviations
+in parentheses) for the average looking time for the first and third pairs of the gaze
+events were 7.46 (4.28) and 5.83 (7.53), respectively, and for the pointing events
+were 10.65 (5.91) and 4.81 (2.45), respectively. Therefore, gaze understanding
+and point understanding scores were calculated using the first test trial pair. These
+scores could be interpreted as an infant’s preference for the events that contained a
+change in the actor-object relation. A score greater than .50 indicated that an infant
+showed a preference for the new object event over the new side event, and this was
+taken as evidence of understanding the attentional relation implied by the action.
+The action understanding scores did not vary reliably as a function of the type of
+action infants viewed, the order in which infants received the gaze and point proce-
+dures, or the particular experimental configuration to which they had been assigned.
+An ANOVA with action (gaze vs. pointing) as the within-subjects factor, visit (gaze
+or pointing events on the first visit), goal (ball or teddy bear in habituation), and type
+(or new side test event given first) as between-subjects factors, revealed no signifi-
+cant main effects or interactions. There was a positive, but nonsignificant, correla-
+tion between gaze understanding and point understanding, r = .24, p = .09.
+
+For neither the gaze nor the pointing events did infants show a reliable prefer-
+ence as a group for the new object trial over the new side trial. That is, their action
+understanding scores did not significantly differ from chance (.50) for gaze, t(51) =
+–.39, p = .70, or for pointing, t(51) = 1.50, p = .14. These findings were consistent
+with prior studies of infants at this age (Phillips, Wellman, & Spelke, 2002; Sodian
+& Thoermer, 2004; Woodward, 2003; Woodward & Guajardo, 2002). Recall that
+this variability in action understanding was precisely what we wanted to explore.
+
+Relations between Action Understanding
+and Social Responsiveness
+
+The central analyses investigated relations between the two measures of action un-
+derstanding and infants’ social responsiveness, including point production, atten-
+tion following, and participation in shared attention with caretakers.
+
+One approach to this issue is to ask whether those infants who attained the highest
+possible scores on the measures of social responsiveness (i.e., are those who pointed
+engaged in coordinated joint attention, and who reliably followed attention) were
+more likely to respond systematically in the habituation procedures. However, given
+the age of our participants, few infants achieved top marks on the measures of social
+responsiveness. Only 1 infant reached the top of the scale on all three measures, and
+only 10 of the 52 infants achieved top scores on two of the three measures. Thus, clas-
+sifying infants on the basis of a composite, categorical measure seemed likely to miss
+important variation in our sample. Therefore, we considered each measure of social
+responsiveness separately in the analyses. In the case of point production, we had a
+dichotomous measure (infants either had begun to produce object-directed points or
+had not). The measures of attention following and shared attention provided graded
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+147
+
+information. Therefore, we pursued analysis strategies that were appropriate for the
+data, evaluating categorical differences for the pointing data, and correlational pat-
+terns for the measures of attention following and shared attention.
+
+Action Understanding and Point Production
+
+Twenty infants, 12 girls and 8 boys, were identified as pointers by parent report (n
+= 9), observation in the laboratory (n = 3), or both (n = 8). We predicted that infants
+who produced object-directed points would be more likely to understand pointing
+as relational than nonpointers based on Woodward and Guajardo (2002). An open
+question was whether pointers would also understand gaze as relational.
+
+Table 1 shows the descriptive statistics for the 20 pointers and 32 nonpointers.
+In contrast to Woodward and Guajardo (2002), pointers were significantly older
+than nonpointers, t(50) = 3.59, p < .001. On average, pointers were 10 months 13
+days, although nonpointers were 9 months 27 days. However, age was not signifi-
+cantly correlated with gaze or point understanding, r = –.11, p = .45, and r = .07, p
+= .61, respectively. There was no difference between pointers’ and nonpointers’ ha-
+bituation patterns. To test whether infants’ understanding of pointing as relational
+was related to their own production of object-directed points, we conducted an
+ANOVA with point understanding as the dependent variable, pointing status (pro-
+ducing or not producing object-directed points), type (new object or new side test
+event given first), and goal (ball or teddy bear in habituation) as independent vari-
+ables, and age as a covariate.3 There was a significant interaction between pointing
+status and goal, F(1, 52) = 4.56, p = .04, and no other reliable effects.
+
+3To rule out age as an explanation for the effect of point production on point understanding, we con-
+ducted an alternative analysis after reducing the sample’s age range. This eliminated 15 younger infants
+(14 nonpointers, 1 pointer), and 1 older pointer. The remaining 19 girls and 17 boys had an average age
+of 10;11. Pointers’ (n = 18) age (M = 10;13, range 9;2–10;29) did not differ from nonpointers’ (n = 18)
+age (M = 10;8, 9;27 - 10;29), t(34) = -1.55, p = .13. Point understanding scores were significantly above
+chance for the pointers, t(17) = 3.47, p < .005, but not for the nonpointers, t(17) = –.57, p = .58. Gaze un-
+derstanding scores did not differ significantly from chance for either group (ts < 1.00). Pointers’ scores
+were significantly greater than nonpointers’ for point understanding, t(34) = 2.51, p < .05, but not for
+gaze understanding, t(34) = .30, p = .76.
+
+To explore this interaction, we conducted post hoc ANOVAs separately on the pointer and
+nonpointer groups. Point understanding was entered as the dependent variable, with goal (ball or teddy
+bear in habituation) as the dependent variable, and age as a covariate. For the pointers, there was no sig-
+nificant main effect of goal. For the nonpointers, there was a significant effect of goal, F(1, 32) = 4.78, p
+= .04. Post hoc comparisons of pairs revealed a mean difference of .15 (SE = 0.07), p = .04; nonpointers
+who saw the teddy bear in habituation had higher point understanding scores than nonpointers who saw
+the ball in habituation, 0.57 (SD = 0.18) and 0.42 (SD = 0.20), respectively. Planned comparisons
+against chance (.50) revealed that pointers looked reliably longer on new object compared to new side
+trials, t(19) = 2.56, p = 0.02. Nonpointers did not differ from chance as a group, t(31) = 0.21, p = 0.83, or
+when divided into the groups that saw the teddy bear versus the ball as the goal object, t(18) = 1.70, p =
+0.11 and t(12) = –1.55, p = 0.15, respectively.
+
+148
+
+BRUNE AND WOODWARD
+
+A parallel set of analyses was carried out with gaze understanding as the de-
+pendent variable. An ANOVA with pointing status, type (new object or new side
+test event given first), and goal (ball or teddy bear in habituation) as independent
+variables, and age as a covariate, revealed no significant main effects or interac-
+tions. Neither pointers nor nonpointers differed from chance in their responding on
+new object versus new side trials for the gaze events.
+
+These results replicated the findings of Woodward and Guajardo (2002) in find-
+ing that infants who produced object-directed points were more likely than
+nonpointers to represent observed points in terms of the relation between the agent
+and the object. Notably, this effect was limited to point understanding; pointers did
+not differ from nonpointers on the gaze understanding measure. Given that point-
+ers did not demonstrate an understanding of gaze, their performance on point un-
+derstanding cannot be attributed to more sophisticated responses overall on the vi-
+sual-habituation tasks. Instead, pointers’ performance on the point-understanding
+task seems to reflect knowledge that is specific to pointing.
+
+Action Understanding, Shared Attention
+and Attention Following
+
+We next considered relations between action understanding and the continuous
+measures tapping attention following and shared attention with caretakers by en-
+tering these measures into an exploratory factor analysis. Because our sample size
+was relatively small for this type of analysis, we kept the number of factors to a
+minimum. We separately entered the gaze-understanding and point-understanding
+scores from the habituation procedures. For the measures of social responsiveness,
+we entered the attention following, orienting (to the actor’s gaze, point during the
+habituation procedure), and shared attention (degree of engagement in shared at-
+tention with the caretaker during parent–child play).4 We also included age (in-
+fants’ average age across visits) to determine whether it explained significant vari-
+ance in these measures. Therefore, in total, we entered six factors for 52
+participants and had a subjects-to-variable ratio of 8.5, which is above the mini-
+mum rule of 5 (Bryant & Yarnold, 1995) but below the ideal of 10:1 (Nunnally,
+1978). We did not include point production in this analysis because it was
+operationalized as a dichotomous variable.
+
+Factor analysis provided a way to test whether correlations between different
+measures of social responsiveness and social cognition reflected a general pattern,
+or instead distinct factors. By including both measures of action understanding, we
+
+4Orienting was an average of gaze orienting and point orienting because they were positively re-
+lated, rs = 0.26, p = .08, after removing two outliers who were greater than 2 standard deviations above
+the mean for gaze orienting; when separate analyses were conducted with gaze orienting and point ori-
+enting the results did not change.
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+TABLE 2
+
+Correlations Among the Measures
+
+Measure
+
+1
+
+1. Age
+2. Gaze understanding
+3. Point understanding
+4. Orienting in habituation
+5. Attention following
+6. Shared attention
+
+2
+
+–.11
+
+3
+
+.07
+.24
+
+4
+
+.22
+.04
+.14
+
+5
+
+.20
+–.15
+.12
+.37*
+
+149
+
+6
+
+.12
+.37*
+–.10
+–.06
+–.19
+
+Note. For correlations including attention following and orienting in habituation, n = 51. For the
+
+correlation between attention following and orienting in habituation, n = 50.
+
+N = 52.
+*p < .01.
+
+could see whether they shared the same patterns of relations with the measures of
+social responsiveness, or whether the patterns seemed to be action specific. In con-
+trast to regression, factor analysis did not require us to specify an outcome vari-
+able. Therefore, this relation could be explored without presupposing the develop-
+mental sequence of these behaviors.
+
+For each measure, scores were standardized with respect to the mean of the
+sample.5 Correlations among the measures are presented in Table 2. The measures
+were entered into a factor analysis (principal components) with Varimax rotation.
+The analysis yielded three factors that accounted for 69% of the variance in the
+model (Table 3). The measures that reflected infants’ social orienting (orienting,
+attention following) loaded positively on a single factor (Factor 1) with age (.70)
+that accounted for 26% of the variance. The measures that represented infants’ ac-
+tion understanding (gaze understanding, point understanding) loaded positively on
+a separate factor (Factor 3) that accounted for 21% of the variance. The other factor
+(Factor 2) included measures from both components, shared attention and gaze un-
+derstanding, which both loaded positively and accounted for 22% of the variance.
+
+The solution with three factors was produced on the basis of the amount of vari-
+ance accounted for in the data by statistically independent factors. Therefore, we
+can interpret these factors as unique contributors to infants’ performance across
+tasks. It is interesting to note that these independent factors accounted for similar
+
+5Mean substitutions were used to replace missing data points for two infants (one for attention fol-
+lowing, the other for orienting in habituation). When these infants were excluded from the analysis in-
+stead, the pattern of findings did not change. One infant was excluded from the analysis because the
+amount of time he spent in shared attention was greater than 3 standard deviations above the mean. This
+inflated the relation between shared attention and the other variables within the factors. When he was
+excluded, the overall pattern of findings (i.e., factor structure, variance) did not change.
+
+150
+
+BRUNE AND WOODWARD
+
+TABLE 3
+
+Factor Analysis of the Measures
+
+Factor Loading
+
+Measure
+
+Factor 1
+
+Factor 2
+
+Factor 3
+
+Age
+Gaze understanding
+Point understanding
+Orienting in habituation
+Attention following
+Shared attention
+Factor statistics
+
+Eigenvalue
+Variance explained (%)
+
+0.70
+
+0.72
+0.71
+
+1.56
+26
+
+0.52
+
+0.90
+
+1.32
+22
+
+0.70
+0.80
+
+1.24
+21
+
+Note. The three factor solution was selected on the basis of a cutoff criterion of eigenvalues
+
+greater than or equal to 1. Factor loadings under .40 were suppressed.
+
+amounts of variance in the data, which suggests that they weighed relatively
+equally into infants’ performance.
+
+Factor 1, which we refer to as “Social Orienting”, did not include either mea-
+sure of social cognition. This factor confirmed that our two measures of social ori-
+enting, one taken from infants’ propensity to follow the habituation actor’s atten-
+tion,
+the other from a more naturalistic procedure, each tapped the same
+underlying ability. Further, our findings suggest that this ability is independent of
+infants’ understanding of gaze and pointing as object-directed actions. Follow-up
+analyses confirmed this finding, even when infants’ responses were considered
+within an action: There were no reliable correlations between gaze orienting and
+the gaze-understanding task, rs = 0.07, p = .64, and point orienting and the
+point-understanding task, rs = 0.12, p = .42. Thus, in keeping with prior findings
+(Woodward, 2003; Woodward & Guajardo, 2002), these findings suggest that gaze
+and point following are not correlated with action understanding at this age. The
+emergence of social orienting and action understanding as independent factors
+argues against the assumption that gaze and point following are direct indexes of
+action understanding.
+
+Factor 3, which we refer to as “Action Understanding,” did not include any mea-
+sure of social responsiveness, but it did include the two measures of action under-
+standing. This factor provides stronger evidence for the relation between gaze and
+point understanding than was evident in the correlational analysis. To take a closer
+look at this relation, we classified infants into groups, on the basis of whether their
+preference for the new object trial fell above or below chance (.50) for each action
+(Table 4). The chi-square distribution of infants’ proportion scores approached sig-
+nificance, χ2 (1, N = 52) = 3.07, p = .08. There was a trend for more infants to un-
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+151
+
+Distribution of Infants’ Action Understanding Scores
+
+TABLE 4
+
+Point Habituation
+
+< .50
+> .50
+Total
+
+< .50
+
+14
+13
+27
+
+Gaze habituation
+
+> .50
+
+7
+18
+25
+
+Total
+
+21
+31
+52
+
+derstand pointing than gaze as relational. These results suggest that infants may
+have more readily noted the relation between agent and object for the pointing
+events than for the gaze events. Given that the pointing events contained two cues,
+gaze and pointing, as well as a concrete connection between the actor and the ob-
+ject, more infants may have interpreted the pointing events as relational because
+they contained richer information.
+
+Furthermore, there was an asymmetry in the relation between these scores,
+which suggests that point understanding may be a facilitator of understanding
+gaze. Of the 31 infants who performed above chance on the point-understanding
+task, 18 of them performed above chance on the gaze-understanding task, p = .48.
+In contrast, of the 25 infants who performed above chance on the gaze-
+understanding task, 18 of
+them performed above chance on the point-
+understanding task, p < .05.
+
+The remaining factor, Factor 2, produced a novel finding, documenting a rela-
+tion between a particular measure of social responsiveness, Shared Attention, and
+a particular measure of social cognition, Gaze Understanding. To investigate this
+relation further, we considered infants in the upper and lower third of the
+distribution in shared attention. The group in the upper third spent between 30 and
+63% of their time in shared attention, and the group in the lower third spent be-
+tween 5 and 19% of their time in this state. On average, the 18 infants in the upper
+third group, 8 girls and 10 boys, spent 39% (SD = 9%) of the time in shared atten-
+tion. The infants in the lower third group, 7 girls and 10 boys, spent 13% (SD = 5%)
+of their time on average in this state. The two groups did not differ significantly in
+age, t(33) = 0.48, p = 0.64.
+
+Compared to the lower third group, infants in the upper third group scored sig-
+nificantly higher on gaze understanding, 0.41 (SD = 0.21) and 0.58 (SD = 0.22), re-
+spectively, t(33) = 2.26, p = .03. This effect did not carry over to point understand-
+ing, t(33) = 0.77, p = .45, indicating that shared attention systematically related to
+infants’ understanding of the actor-object relation of the gaze events, but not to the
+pointing events (Figure 4). However, infants in the upper third group were not
+above chance on the gaze-understanding score, t(17) = 1.49, p = .15. The mean for
+infants in the lower third group fell below chance, but it did not differ reliably from
+
+152
+
+BRUNE AND WOODWARD
+
+FIGURE 4 Comparison of infants’ performance on the action-understanding tasks split by
+their amount of shared attention in parent–child play.
+
+chance t(16) = –1.71, p = .11. It seems likely that if we had tested slightly older in-
+fants, who would have had higher levels of shared attention, then those at the upper
+end of the distribution would have responded more systematically to the habitua-
+tion events. Further research is needed to test this possibility.
+
+GENERAL DISCUSSION
+
+Two assumptions have been prevalent in the recent study of infant social cognition:
+first, that infants’ social responsiveness directly reflects their social understanding,
+and second, that emerging conceptions of intentional action are monolithic. This
+study is the first we know of to directly test these assumptions by independently in-
+vestigating infants’ understanding of intentional relations and their social re-
+sponses. Our findings provide new insights into infants’ emerging ability to repre-
+sent intentional relations and the relation between this ability and developments in
+social behavior. They indicate that emerging social cognition correlates with some,
+but not all, socially functional behaviors. They further suggest that relations be-
+tween action knowledge and social responsiveness may, at least initially, be local
+and circumscribed.
+
+An initial question was whether infants would be equally sensitive to the in-
+tentional structure of two different actions, looking and pointing. Prior findings
+indicate that between 9 and 12 months of age infants begin to understand each of
+these actions as implying a relation between an agent and the object of her atten-
+tion (Phillips et al., 2002; Sodian & Thoermer, 2004; Woodward, 2003; Wood-
+ward & Guajardo, 2002), but no study had directly compared understanding of
+these two actions within the same infant. Our findings were consistent with prior
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+153
+
+research in that, as a group, the 10-month old infants we tested did not respond
+systematically to the gaze or pointing events in the habituation procedure. There
+was a marginal positive correlation between infants’ responses in the two proce-
+dures, although this relation was more evident in the factor analysis. Categorical
+analyses suggested that infants’ point understanding may be a prerequisite for
+gaze understanding. Of those infants who responded above chance for the gaze
+events, most responded in the same way for pointing, but those who responded
+systematically for pointing were evenly divided in their responses to gaze. Thus,
+our findings suggest that infants’ understanding of gaze and pointing are related
+in development. Even so, our subsequent analyses revealed that these two as-
+pects of action knowledge are also related to distinct aspects of social respon-
+siveness.
+
+For both the gaze and pointing events, one goal of this research was to deter-
+mine whether infants’ understanding of actions as relational could be distinguished
+from their propensity to orient in response to viewing these actions. Infants’ gaze
+and point following is often assumed to reflect an understanding of the intentional
+relations at hand. Our findings suggest otherwise. Infants did shift their own atten-
+tion in response to others’ actions, both while viewing the habituation events and in
+the more naturalistic assessment of gaze and point following. However, these ori-
+enting responses were unrelated to infants’ sensitivity to the intentional structure
+of the habituation events.
+
+Despite the lack of correlation with infants’ habituation responses, the measures
+of orienting were related to one another. There was a significant correlation be-
+tween infants’ orienting to the actor in habituation and their orienting to the experi-
+menter in the more naturalistic task. These two measures of orienting positively
+contributed to the same factor in the factor analysis. This suggests that both mea-
+sures of social orienting accurately reflected infants’ propensity to respond to the
+attention of another. Neither measure loaded on the same factor as infants’ action
+understanding in the factor analysis. Collectively, these findings strengthen the ev-
+idence against the assumption that the traditional estimates of infants’ action un-
+derstanding, gaze and point following, reflect understanding the attentional rela-
+tions of actions.
+
+It is possible that the infants’ orienting responses become more closely linked
+with their analysis of intentional relations at later points in development. For ex-
+ample, older infants are able to modify their orienting responses when an adult’s
+gaze is blocked by a blindfold or barrier (Brooks & Meltzoff, 2002; Butler, Caron,
+& Brooks, 2000; Caron, Butler, & Brooks, 2002). These findings suggest that in-
+fants intend to see what the experimenter is seeing, and therefore have some
+knowledge about the relational nature of gaze events. These more intelligent gaze
+following responses support arguments outlined by Moore and colleagues (Barresi
+& Moore, 1996; Corkum & Moore, 1998; Moore & Corkum, 1994) that social re-
+sponses become infused with social cognition early in development.
+
+154
+
+BRUNE AND WOODWARD
+
+Although infants’ action understanding was not related to their propensity to
+follow gaze or points, it was related to other aspects of social responsiveness. Our
+analyses revealed independent clusters of relations with point understanding and
+gaze understanding. These clusters suggest that acquisition of knowledge about
+pointing and gaze events may follow different trajectories and relate to different
+kinds of social experiences. In particular, we found two specific links between in-
+fants’ social cognition and social responsiveness. The first was a relation between
+point production and point understanding, and the second was a relation between
+shared attention and gaze understanding. In each case, an aspect of social respon-
+siveness was related to one kind of action knowledge, but not to the other. Follow-
+ing, we review these links and discuss possible explanations for them. Because we
+are working with concurrent data, we cannot be certain about the direction of cau-
+sation that may account for the correlations we observed. Indeed, we think it is
+very likely that relations between social cognition and social responsiveness are
+bidirectional. Even so, our findings shed new light on these relations and highlight
+a number of questions for further study.
+
+Infants who pointed were more likely to interpret pointing as relational than in-
+fants who did not yet point. This relation was not accounted for by age. This aspect
+of our findings replicates a prior study (Woodward & Guajardo, 2002). Our find-
+ings provide new insight into this relation because they indicate it is action specific
+at this point in development. Pointers were no more able than nonpointers to re-
+cover the relational structure of the gaze events.
+
+There are several possible explanations for the positive relation between point
+production and point understanding. One possibility is that infants learn the func-
+tion of pointing by observing others’ pointing and are then motivated to begin
+pointing themselves. Another possibility, and one that we think is more likely to be
+true, is that infants begin to point for other reasons, and through pointing them-
+selves, become aware of the attentional relation this action implies in others. Some
+researchers have suggested that infants initially point as an expression of their own
+attention, rather than as a symbol for others (Bates et al., 1979; Desrochers et al.,
+1995; Schaffer, 1984; Werner & Kaplan, 1963). If this is the case, then the point
+gesture might function as an overt signal of an attentional relation that could en-
+able infants to interpret other people’s point gestures. These possibilities empha-
+size the causal role of observing or producing a specific action, pointing, in acquir-
+ing action knowledge. Further, they are consistent with the proposal that the root of
+intentional understanding comes from aligning self and other (Meltzoff & Gopnik,
+1993; Tomasello, 1999). Because we do not know whether infants begin pointing
+first or understand pointing as relational first, we can only speculate about these
+possibilities. Longitudinal studies are needed to address this issue.
+
+The second correlation among social cognition and social responsiveness
+concerned the relation between shared attention and gaze understanding. These
+measures were positively correlated, and this relation accounted for a significant
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+155
+
+amount of variance in the infants’ performance. Shared attention could contrib-
+ute to infants’ understanding of gaze by providing them with increased opportu-
+nities to observe and participate in triadic interactions. This idea is consistent
+with the theory put forth by Moore and others (Corkum & Moore, 1995) that
+joint engagement leads to discovery of others’ intentions. Conversely, infants’
+increase in shared attention could result from their understanding of gaze. For
+example, perhaps infants who understood gaze drew their parents to play with
+them by looking to them more or by using the parents’ gaze to locate a common
+object of interest. Given the existence of this concurrent relationship, future
+studies can investigate these relations over time and thereby begin to isolate the
+causal relations involved.
+
+To summarize, we found different patterns of correlations with social respon-
+siveness for point and gaze understanding. These findings indicate that infants’
+pockets of knowledge about actions may be related to different aspects of experi-
+ence. These findings raise the possibility that concepts of intention, although uni-
+fied at some point in life, do not begin that way. If we had found that infants’ under-
+standing of gaze and point were significantly correlated and that this unified action
+knowledge was related to some aspect of social responsiveness, we might argue
+that infants’ initial concepts of intention are inclusive of different attentional rela-
+tions. However, the action-specific relations we found better support the idea that
+infants’ understanding of referential actions starts out as piecemeal.
+
+If this suggestion is correct, then it raises the question of how and when infants’
+action knowledge becomes integrated. One possibility is that understanding one
+action facilitates understanding the other. For example, infants might first under-
+stand pointing as relational, and this knowledge could support later learning about
+gaze. The findings that point and gaze understanding were moderately correlated
+in our sample and that point understanding seemed to predict gaze understanding
+are consistent with this possibility. If point understanding supports infants’ grow-
+ing sensitivity to the relational nature of gaze, we might expect that seeing pointing
+events first in our procedure would have led to more systematic responses to the
+gaze events. We did not find evidence for this kind of facilitation. Infants’ re-
+sponses to the gaze and pointing habituation events did not vary as a function of the
+order in which they received them. However, facilitation might be evident in the
+course of development over longer time scales.
+
+By incorporating measures of social cognition into studies of infants’ social re-
+sponsiveness, the bidirectional influence of infants’ achievements during this tran-
+sitional period can be investigated. Examining infants’ abilities on these skills dur-
+ing this transitional period of development has provided a starting point for
+investigating the relation between social cognition and social responsiveness in de-
+velopment and highlighted the need to do so. Accounts of social development
+should take seriously the distinction and developmental relations between social
+cognition and social responsiveness.
+
+156
+
+BRUNE AND WOODWARD
+
+ACKNOWLEDGMENTS
+
+Camille W. Brune and Amanda L. Woodward, Department of Psychology, Univer-
+sity of Chicago.
+
+Camille W. Brune is now at the Institute for Juvenile Research, Department of
+Psychiatry, University of Illinois at Chicago. Amanda L. Woodward is now at the
+Department of Psychology, University of Maryland.
+
+This work was supported by NICHD (HD35707) (A.L.W.) and the Harris Foun-
+dation (C.W.B.). Parts of this manuscript were completed as part of the first au-
+thor’s dissertation submitted to the Department of Psychology, University of Chi-
+cago, and presented at the 2003 biennial meeting of the Cognitive Development
+Society.
+
+We would like to thank Jennifer Sootsman Buresh, Bradley DiTeresi, Kiley
+Hamlin, and Kevin Uttich for their assistance in data collection. We also thank
+Jessica Sommerville, Sydney Hans, and Lauren Wakschlag for their comments on
+an earlier version of this manuscript. We are greatly indebted to the parents and in-
+fants who volunteered their time to participate in the study.
+
+REFERENCES
+
+Adamson, L. B., Bakeman, R., Russel, C. L., & Deckner, D. F. (1998). Coding symbol-infused engage-
+
+ment states (technical report 9). Georgia Sate University, Atlanta, Georgia.
+
+Aronson, S. (1999). Ingest (Version 1.7). University of Chicago, Chicago, Illinois.
+Bakeman, R., & Adamson, L. B. (1984). Coordinating attention to people and objects in mother-infant
+
+and peer-infant interaction. Child Development, 55(4), 1278–1289.
+
+Baldwin, D. A., & Moses, L. J. (1996). The ontogeny of social information gathering. Child Develop-
+
+ment, 67(5), 1915–1939.
+
+Barresi, J., & Moore, C. (1996). Intentional relations and social understanding. Behavioral & Brain Sci-
+
+ences, 19(1), 107–154.
+
+Bates, E., Benigni, L., Bretherton, I., Camaioni, L., & Volterra, V. (1979). The emergence of symbols:
+
+Cognition and communication in infancy. New York: Academic.
+
+Bates, E., Camaioni, L., & Volterra, V. (1975). The acquisition of performatives prior to speech.
+
+Merrill-Palmer Quarterly, 21(3), 205–226.
+
+Bretherton, I. (1991). Intentional communication and the development of an understanding of mind. In
+D. Frye & C. Moore (Eds.), Children’s theories of mind: Mental states and social understanding (pp.
+49–75). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+
+Brooks, R., & Meltzoff, A. N. (2002). The importance of eyes: How infants interpret adult looking be-
+
+havior. Developmental Psychology, 38(6), 958–966.
+
+Bryant, F. B., & Yarnold, P., R. (1995). Principal components analysis and exploratory and confirma-
+tory factor analysis. In L. G. Grimm & P. R. Yarnold (Eds.), Reading and understanding multivariate
+statistics (pp. 99 36). Washington, D.C.: American Psychological Association.
+
+Butler, S. C., Caron, A. J., & Brooks, R. (2000). Infant understanding of the referential nature of look-
+
+ing. Journal of Cognition & Development, 1(4), 359–377.
+
+Butterworth, G., & Grover, L. (1990). Joint visual attention, manual pointing, and preverbal communi-
+cation in human infancy. In M. Jeannerod (Ed.), Attention and performance 13: Motor representa-
+tion and control. (pp. 605–624). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+
+SOCIAL COGNITION AND SOCIAL RESPONSIVENESS
+
+157
+
+Call, J., Hare, B., Carpenter, M., & Tomasello, M. (2004). ‘unwilling’ versus ‘unable’: Chimpanzees’
+
+understanding of human intentional action. Developmental Science, 7(4), 488–498.
+
+Caron, A. J., Butler, S., & Brooks, R. (2002). Gaze following at 12 and 14 months: Do the eyes matter?
+
+British Journal of Developmental Psychology, 20(2), 225–240.
+
+Carpendale, J., & Lewis, C. (2004). Constructing an understanding of the mind: The development of chil-
+
+dren’s social understanding within social interaction. Behavioral and Brain Sciences, 27, 79–151.
+
+Carpenter, M., Nagell, K., & Tomasello, M. (1998). Social cognition, joint attention, and communica-
+tive competence from 9 to 15 months of age. Monographs of the Society for Research in Child Devel-
+opment, 63(4), 1–176.
+
+Corkum, V., & Moore, C. (1995). Development of joint visual attention in infants. In C. Moore & P. J.
+Dunham (Eds.), Joint attention: Its origins and role in development (pp. 61–83). Hillsdale, NJ: Law-
+rence Erlbaum Associates, Inc.
+
+Corkum, V., & Moore, C. (1998). Origins of joint visual attention in infants. Developmental Psychol-
+
+ogy, 34(1), 28–38.
+
+Desrochers, S., Morissette, P., & Ricard, M. (1995). Two perceptives on pointing in infancy. In C.
+Moore & P. J. Dunham (Eds.), Joint attention: Its origins and role in development (pp. 85–101).
+Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+
+Driver, J., Davis, G., Ricciardelli, P., Kidd, P., Maxwell, E., & Baron-Cohen, S. (1999). Gaze perception
+
+triggers reflexive visuospatial orienting. Visual Cognition, 6(5), 509–540.
+
+Fleiss, J. L. (1981). Statistical methods for rates and proportions (2nd ed.). New York: Wiley.
+Hains, S., & Muir, D. (1996). Infant sensitivity to adult eye direction. Child Development, 67(5),
+
+1940–1951.
+
+Jaffe, J., Beatrice, B., Stanley, F., Crown, C. L., & Jasnow, M. D. (2001). Rhythms of dialogue in in-
+fancy: Coordinated timing in development. Monographs of the Society for Research in Child Devel-
+opment, 66(2), vi–131.
+
+Kaye, K. (1982). The mental and social life of babies: How parents create persons. Chicago: University
+
+of Chicago Press.
+
+Klin, A., Schultz, R., & Cohen, D. (2000). Theory of mind in action: Developmental perspectives on so-
+cial neuroscience. In S. Baron-Cohen, H. Tager-Flusberg, & D. Cohen (Eds.), Understanding other
+minds: Perspectives from developmental neuroscience (2nd ed., pp. 357–388). Oxford, England: Ox-
+ford University Press.
+
+Liszkowski, U., Carpenter, M., Henning, A., Striano, T., & Tomasello, M. (2004). Twelve-month-olds
+
+point to share attention and interest. Developmental Science, 7(3), 297–207.
+
+Meltzoff, A. N., & Gopnik, A. (1993). The role of imitation in understanding persons and developing a
+theory of mind. In S. Baron-Cohen, H. Tager-Flusberg & D. J. Cohen (Eds.), Understanding other
+minds: Perspectives from autism (pp. 335–366). Oxford, England: Oxford University Press.
+
+Moore, C. (1999). Intentional relations and triadic interactions. In P. D. Zelazo, J. W. Astington, & D. R.
+Olson (Eds.), Developing theories of intention: Social understanding and self-control (pp. 43–61).
+Mahwah, NJ: Lawrence Erlbaum Associates, Inc.
+
+Moore, C., & Corkum, V. (1994). Social understanding at the end of the first year of life. Developmental
+
+Review, 14(4), 349–372.
+
+Moore, C., & Corkum, V. (1998). Infant gaze following based on eye direction. British Journal of De-
+
+velopmental Psychology, 16(4), 495–503.
+
+Moore, C., & D’Entremont, B. (2001). Developmental changes in pointing as a function of attentional
+
+focus. Journal of Cognition & Development, 2(2), 109–129.
+
+Mundy, P. (2003). Annotation: The neural basis of social impairments in autism: The role of the dorsal
+medial-frontal cortex and anterior cingulate system. Journal of Child Psychology & Psychiatry &
+Allied Disciplines, 44(6), 793–809.
+
+Nunnally, J. C. (1978). Psychometric theory (2 ed.). New York: McGraw-Hill.
+Phillips, A., Wellman, H. M., & Spelke, E. S. (2002). Infants’ ability to connect gaze and emotional ex-
+
+pression to intentional action. Cognition, 85(1), 53–78.
+
+158
+
+BRUNE AND WOODWARD
+
+Pinto, J. (1994). Macxhab. Stanford, CA.
+Povinelli, D. J. (2001). On the possibilities of detecting intentions prior to understanding them. In B. F.
+Malle, L. J. Moses, & D. A. Baldwin (Eds.), Intentions and intentionality: Foundations of social cog-
+nition (pp. 225–248). Cambridge, MA: MIT Press.
+
+Povinelli, D. J., & Eddy, T. J. (1996). What young chimpanzees know about seeing. Monographs of the
+
+Society for Research in Child Development, 61(3), 1–189.
+
+Ricciardelli, P., Bricolo, E., Aglioti, S. M., & Chelazzi, L. (2002). My eyes want to look where your
+eyes are looking: Exploring the tendency to imitate another individual’s gaze. Neuroreport: For
+Rapid Communication of Neuroscience Research, 13(17), 2259–2264.
+
+Scaife, M., & Bruner, J. (1975). The capacity for joint visual attention in the infant. Nature, 253(5489),
+
+265–266.
+
+Schaffer, H. R. (1984). The child’s entry into a social world. Orlando: Academic Press.
+Sodian, B., Schoeppner, B., & Metz, U. (2004). Do infants apply the principle of rational action to hu-
+
+man agents? Infant Behavior & Development, 27(1), 31–41.
+
+Sodian, B., & Thoermer, C. (2004). Infants’ understanding of looking, pointing, and reaching as cues to
+
+goal-directed action. Journal of Cognition & Development, 5(3), 289–316.
+
+Tomasello, M. (1995). Joint attention as social cognition. In C. Moore & P. J. Dunham (Eds.), Joint at-
+tention: Its origins and role in development (pp. 61–83). Hillsdale, NJ: Lawrence Erlbaum Associ-
+ates, Inc.
+
+Tomasello, M. (1999). Having intentions, understanding intentions, and understanding communicative
+intentions. In P. D. Zelazo & J. W. Astington (Eds.), Developing theories of intention: Social under-
+standing and self-control (pp. 63–75). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+
+Tomasello, M., Call, J., & Hare, B. (2003). Chimpanzees understand psychological states—the ques-
+
+tion is which ones and to what extent. Trends in Cognitive Sciences, 7(4), 153–156.
+
+Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H. (2005). Understanding and sharing inten-
+tions: The ontogeny and phylogeny of cultural cognition. Behavioral and Brain Sciences, 28,
+675–735.
+
+Travis, L., Sigman, M., & Ruskin, E. (2001). Links between social understanding and social behavior in
+
+verbally able children with autism. Journal of Autism & Developmental Disorders, 31(2), 119–130.
+
+Trevarthen, C. (1977). Descriptive analyses of infant communicative behaviour. In H. R. Schaffer (Ed.),
+
+Studies in mother-infant interaction (pp. 227–270). New York: Academic.
+
+Tronick, E. Z. (1989). Emotions and emotional communication in infants. American Psychologist,
+
+44(2), 112–119.
+
+Werner, H., & Kaplan, B. (1963). Symbol formation. New York: Wiley.
+Whiten, A. (1994). Evolving a theory of mind: The nature of non-verbal mentalism in other primates. In
+S. Baron-Cohen, H. Tager-Flusberg, & D. Cohen (Eds.), Understanding other minds: Perspectives
+from autism (pp. 367–396). London: Oxford University Press.
+
+Woodward, A. L. (2003). Infants’ developing understanding of the link between looker and object. De-
+
+velopmental Science, 6(3), 297–311.
+
+Woodward, A. L., & Guajardo, J. J. (2002). Infants’ understanding of the point gesture as an ob-
+
+ject-directed action. Cognitive Development, 17(1), 1061–1084.
+
+

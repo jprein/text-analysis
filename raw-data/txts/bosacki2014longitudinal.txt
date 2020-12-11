@@ -1,0 +1,1434 @@
+ 
+
+ 
+
+ 
+International Electronic Journal of Elementary Education, 2014, 6(2), 213-228. 
+ 
+
+ 
+
+ 
+
+A Longitudinal Study of Children’s Theory 
+of Mind, Self-Concept, and Gender-Role 
+Orientation1 
+
+ 
+
+Sandra Leanne BOSACKI∗∗∗∗ 
+Brock University, CANADA 
+
+ 
+
+Received: 14 August 2013 / Revised: 21 January 2014 / Accepted: 4 February 2014 
+
+Abstract 
+
+This study investigated the longitudinal relations between theory of mind (ToM) understanding, 
+self-perceptions,  and  perceptions  of  gender-role  orientation  in  28  school-aged  children,  (16 
+girls, 12 boys, aged 8-12 years). Theory of mind and perceptions of self were assessed at Time 
+1 (T1, M = 8 y 5 m) and two years later at Time 2 (T2, M = 10 y 4 m). Negative correlation was 
+found  between  T1  ToM  and  T2  Perceptions  of  Moral  Self    (r  =  -.55,  p  =  .004).  Positive 
+correlations were found between T1 Perceived Masculinity and T1 ToM (r = .682, p = .015). No 
+relations were found between ToM T1 and T2 (r = .281, ns), as well as between T1 and T2 Self-
+Understanding scores (r = .244, ns). Positive relations were found between self--understanding 
+and ToM at T1 only (r = .394, p = .038).  Implications for children’s socioemotional development 
+are discussed. 
+
+ 
+
+Keywords: Middle Childhood, Theory of Mind, Self-Concept, Gender-Role Orientation 
+
+ 
+
+ 
+
+Introduction 
+
+Evidence  over  the  past  decade  suggests  understanding  of  mind  may  grow  from  a 
+foundation  of  understanding  of  emotions  and  self  (Bartsch  &  Wellman,  1995),  and 
+develops  in  part  through  social  relationships  and  attachment  relations  (Dunn,  2008; 
+Hughes, 2011; Meins et al., 2002). Few studies, however, have examined such a link 
+past  middle  childhood  (Meins  et  al.,  2006;  Watson  et  al.,  1999),  and  thus,  there  is  a 
+need to understand how the child’s mind and emotion connect (Dunn, 2008). Given the 
+important role that interactions play in children’s later success in understanding other’s 
+mind  and  behaviour  (Amsterlaw  et  al.,  2009;  de  Rosnay  &  Hughes,  2006),  there 
+                                                 
+1
+
+  Portions  of  this  paper  were  presented  at  the  biennial  meeting  of  the  Society  for  Research  in 
+Child Development, April, 2013, Seattle, WA.  
+ 
+∗ 
+ Sandra  Leanne  BOSACKI,  Department  of  Graduate  and  Undergraduate  Studies,  Faculty 
+of  Education,  Brock  University,  St.  Catharines,  Ontario,  L2S  3A1,  Canada.  Phone:  (905)  688-
+5550 FAX: (905) 641-0591. E-mail:sandra.bosacki@brocku.ca 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+remains  a  lack  of  research  on  how  social  experiences  foster  the  growth  of  children’s 
+understanding mind and self including gendered aspects of one’s identity. 
+
+Although  Theory  of  Mind  (ToM)  development  or  the  ability  to  understand  thoughts 
+and  emotions  in  self  and  other  is  an  active  area  of  research  (Dunn,  2008),  empirical 
+evidence gleaned from the later childhood and early adolescent years remains sparse 
+(Hughes, 2011). In addition, there remains a dearth of longitudinal studies that explore 
+whether  or  not  reasoning  about  self    (intrapersonal)  and  other  (interpersonal)  are 
+reciprocal  and  interdependent,  or  remain  isolated  and  independent  from  one  another 
+(Lucariello,  2005).    To  address  this  gap  in  the  research,  the  purpose  of  the  present 
+study is to explore connections over time between children’s theory of mind (ToM), or 
+the ability to understand thoughts and emotions in self and other and their perceptions 
+of self-worth and gender-role orientation. Our main research question is: Do links exist 
+over time (2 years), between children’s ToM understanding and their perceptions of self 
+and gender-role orientation? 
+
+Children’s Understanding of Mind and Emotion 
+
+The development of the ability to represent and reason from second-order beliefs (two 
+or more mental states) has received relatively little attention in the literature particularly 
+during the transition from middle  to  late childhood  (e.g.,  8  –  12  years) (Carpendale  & 
+Chandler,  1996;  Carpendale  &  Lewis,  2004).    This  is  surprising,  given  that  social 
+communication  depends  mainly  on  what  people  believe  about  other  people's  beliefs 
+and emotions (Astington, 1993).  Past research shows that second-order or interpretive 
+reasoning  may  influence  children's  ability  to  understand  speech  acts  such  as  lies, 
+jokes, sarcasm, and irony (Filoppova & Astington, 2008, 2010; Leekam, 1993), and in 
+their  ability  to  understand  self-representational  display  rules  (Banerjee  &  Yuill,  1999; 
+Banerjee & Watling, 2007).  Given that advanced or higher order social reasoning may 
+also  help  adolescents  understand  the  ambiguous  nature  of  personal  and  social 
+silences (Bosacki, 2008), some researchers suggest such advanced reasoning is also 
+fundamental 
+(e.g, 
+embarrassed, proud, etc.), their sense of self and other persons, and social interactions 
+(Hughes, 2011). 
+
+to  adolescents’  understanding  of  social  moral  emotions 
+
+to  understand  complex  or  socio-moral  emotions 
+
+Recent  evidence  suggests  that  ToM  understanding  continues  to  develop  during 
+middle  childhood  to  late  childhood  (approximately  during  the  ages  8-12  years), 
+particularly regarding the understanding of complex and ambiguous emotions (Pons, et 
+al. 2003, 2004; Yuill & Coutlas, 2007).  In contrast to the simple or basic emotions (e.g., 
+happy,  sad), 
+(e.g.,  pride, 
+embarrassment), children must hold in mind two separate pieces of information: other 
+people's and societal norms (Saarni, 1999).  That is, children must imagine what others 
+think  of  their  behaviour  and  self-evaluate  their  behaviour  against  internalized 
+behavioural standards.  Although complex emotion understanding hinges on cognitive 
+abilities such as second-order ToM reasoning and perceptions of self including gender-
+role orientation, to date, no studies have investigated the links among these concepts 
+during  middle  to  late  childhood.  Given  this  gap  in  the  literature,  this  study  will 
+investigate  individual  differences  in  social  cognition  within  the  school  context  during 
+middle childhood. 
+
+ToM and Self-Perceptions in School Context  
+
+Although ToM and self-perceptions are foundational to child's educational experiences 
+(Bruner,  2006), 
+relations  between  ToM 
+understanding,  self-perceptions,  and  school  experiences  beyond  the  age  of  8  or  9 
+either  within  their  family  or  school  context    (Bosacki,  2003;  Hughes,  2011).  Similar  to 
+the  rich  family  context,  the  school  classroom  provides  children  with  a  valuable 
+
+researchers  have  studied 
+
+few 
+
+the 
+
+ 
+
+214 
+
+ 
+
+ 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+opportunity to learn social and emotional messages regarding interactions and others’ 
+mental  states.    Regarding  academic  competence  and  school  success,  associations 
+have  been  found  between  ToM,  emotion  understanding  and  the  production  of  stories 
+and general language ability (Astington & Jenkins, 1995; Denham et al., 2013). Theory 
+of  mind  understanding  has  also  been  claimed  to  facilitate  children's  ability  to  self-
+monitor and regulate their cognitive process and engage in reflexive thinking (Fiasee, & 
+Nader-Grosbois, 2012; Lagattuta & Wellman, 2002). 
+
+that  psychological  understanding 
+
+Although  research  shows  that  knowledge  about  self  and  others’  thoughts  and 
+emotions  continues  to  develop  during  middle  to  late  childhood  (Hughes,  2011),  we 
+know  little  about  older  children’s  ToM  understanding  and  self-perceptions.    Research 
+studies  suggest 
+to  higher-order, 
+metacognitive  thought  or  more  advanced  reasoning  (Pine  &  Siegler,  2003).    That  is, 
+children  who  possess  high  levels  of  ToM  understanding  or  provide  psychological 
+explanations are more likely to "think about their own and others thinking" and engage 
+in  critical  philosophical  enquiry  and  shared  dialogue  during  the  school  day  (Haynes, 
+2002). Thus, given that teaching and learning is crucial to self- and ToM understanding 
+(Bruner,  1996),  this  study  explores  how  children’s  ToM  understanding  plays  a  role  in 
+their perceptions of self within the middle school years  (Ladd, Buhs, & Troop, 2002).  
+Also,  as  Hughes  (2011)  states,  a  relatively  small  number  of  studies  have  examined 
+individual  differences  in  social  understanding  in  relation  to  children’s  own  views  of 
+themselves within the context of their middle school experiences. 
+
+is 
+
+linked 
+
+Children’s Perceptions of Self and Gender-Roles 
+
+Another aspect of social cognitive development is also the ability to understand oneself 
+as  a  concept  that  continues  to  develop  during  childhood  and  into  adulthood  (Harter, 
+1999).  Past  research shows  that  during  childhood, the focus  on  one’s gender  identity 
+during  development  affects  children’s  perceptions  of  their  physical  appearance  and 
+body-image  (Golombok  &  Hines,  2002).  Previous  findings  show  that  children’s 
+perceptions  of  physical  appearance  and  how  they  conform  to  societal  stereotypes  of 
+gender-role orientations (e.g., societal stereotypical feminine and masculine behaviour) 
+often serves as a source of self-worth (Aina & Cameron, 2011; Compion et al., 2004; 
+Harter,  1999).  Such  societal  messages  may  in  part  be  transmitted  and  reinforced  by 
+various  social  agents  including  family,  peers,  and  the  mass  media  (e.g.,  Costarelli  et 
+al.,  2011;  Smolak,  Levine,  &  Schermer,  1999).    Past  studies  suggest  that  parental 
+comments  and  modeling  regarding  gender-role  stereotypes  may  influence  children’s 
+self-perceptions  and  attitudes  concerning  physical  appearance  (Maccoby,  1998).  
+However,  given  the  possible  influence  of  peers  and  teachers  on  children’s  self-
+perceptions and gender-role identity (McHale et  al., 1999; Sandberg et al. 2006), it is 
+surprising  that  few  studies  investigate  children’s  understanding  of  self,  gender-roles, 
+and ToM in childhood within the school context.  
+
+forming  self-judgments  (Fine,  2011;  Maccoby,  1998),  and 
+
+In  addition,  given  the  notion  that  young  females  and  males  may  use  a  different 
+“metric”  when 
+that 
+perceptions  of  others’  social  and  emotional  worlds  may  be  viewed  differently  for 
+females  and  males  (Bussey  &  Bandura,  1999;  Fine,  2011),  this  study  explored  links 
+among  children’s  ToM  understanding  and  understanding  of  self  and  gender-role 
+orientation. Given that social-cultural experiences and self-conceptions are inseparable 
+(Bronfenbrenner, 2005), the present study explored how might children’s perceptions of 
+self  and  gender-role  relate  to  one’s  ToM  ability  during  middle  childhood.  More 
+specifically,  the  present  study  addressed  the  following  questions:  1)  Do  longitudinal 
+relations exist among children’s ToM understanding, self-perceptions, and gender-role 
+orientation at Time 1 and 2 years later at Time 2; and 2) Do individual differences exist 
+
+ 
+
+215 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+in  children’s  scores  and  correlational  patterns  among  variables  at  both  time  points  (8 
+years and 10 years of age)? 
+
+Method 
+
+Participants 
+
+As part of a larger longitudinal study of children’s ToM understanding and its relation to 
+social  cognitive  and  emotional  competencies  (Bosacki,  2008),  this  small-scale, 
+longitudinal,  correlational  study  focused  on  two  time  points  (T1,  2006  and  T2,  2008) 
+involving  28  mainly  Euro-Canadian  children 
+from  middle  SES,  semi-rural 
+neighbourhoods (12 boys, 16 girls, M = 10y, 4m).   
+
+Procedures 
+
+Upon  obtaining  ethical  clearance  from  the  universities,  school  board,  principals, 
+teachers, parents, and students, each year children completed standardized pencil and 
+paper measures and participated in individual interviews that involved social stories to 
+assess  children’s  ToM  understanding  (e.g.,  how  did  they  interpret  mental  states  in 
+others),  and  their  perceptions  of  self  (physical  appearance,  behavioural  or  moral 
+conduct,  and  global  self-worth)  and  gender-role  orientation  (perceived  femininity  and 
+masculinity). Only those children who received written parental permission and agreed 
+verbally participated in the study. 
+
+Data  collection  each  year  (T1  and  T2)  consisted  of  two  stages;  the  first  stage 
+consisted  of  a  group,  in-class  session  where  three  trained  female  researchers  group 
+administered  a  pencil-and-paper  self-report  questionnaire  regarding  self-perceptions 
+and gender-role orientation to the children.  To facilitate task completion, researchers 
+provided explicit written (on the blackboard) and verbal task instructions to the children.  
+Following  this  group  instruction  session,  one researcher read  aloud  the questionnaire 
+items  to  the  participants  and  the  children  completed  the  task  together  item  by  item.  
+The  two  remaining  researchers  monitored  the  class  session  and  addressed  any 
+questions  that  children  had  as  they  completed  the  task.    This  task  was  completed 
+within a 30 minute class period.   
+
+The  second  stage 
+
+involved  an 
+
+two  story-interviews 
+
+individual  session 
+to  explore  TOM 
+
+in  which  children  were 
+administered 
+(order  of  stories  was 
+counterbalanced), followed by a series of questions to assess their self- understanding.  
+Interviews were conducted in a small room outside of the classroom and all interviews 
+were  audiotaped  and  transcribed.    The  interview  session  was  approximately  20-30 
+minutes in length.  Demographic information pertaining to family structure was obtained 
+through parent questionnaire. Children also participated in a semi-structured interview 
+regarding  self-understanding  that  focused  continuity,  distinctiveness,  and  agency 
+(Damon  &  Hart,  1988).  All  tasks  were  administered  by  three  trained  female 
+researchers,  and  children  were  reminded 
+their  responses  would  remain 
+confidential,  and  that  they  had  the  opportunity  to  ask  questions  or  stop  at  any  time 
+during the research.   
+
+that 
+
+This study focuses on tasks conducted during each of two time points (T1 = 2006/7, 
+T2 = 2008/9), the ToM story and self-understanding interviews (February-April T1, T2) 
+and the self-report questionnaire to assess self-perceptions and gender-role orientation 
+(November – April, T1, T2).  As noted above, the self-concept questionnaire (SPSSC, 
+Harter,  1985)  was  group  administered  within  class,  whereas  the  ToM  story  and  self-
+understanding interviews were conducted within a quiet room outside of the classroom 
+during  school  time.  Interviews  were  audiotaped  for  subsequent  transcription  and 
+analysis.  
+
+ 
+
+216 
+
+ 
+
+ 
+
+Measures 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+Theory of Mind Understanding (Social Ambiguous Stories)  (Bosacki, 2000; Bosacki & 
+Astington,  1999).    Gleaned  from  past  research,  to  assess  ToM  understanding  or 
+understanding  other’s  mental  states  and  emotions),  adapted  versions  of  two  brief 
+vignettes  consisting  of  an  ambiguous  social  situation)  that  describe  an  ambiguous 
+social  event  with  three  children  (one  story  involves  three  females,  one  story  involves 
+three  male)  were  read  to  the  child  (Bosacki,  2008).  Borrowing  from  theoretical  work 
+that views ToM as a vehicle or instrument that is used to co-construct or narrate ones’ 
+social reality (Astington, 1993; Bruner, 2006), and studies that investigate an advanced 
+ToM  through  the  use  of  narratives  (Artar,  2007;  Charman  &  Shumeli-Goetx,  2008; 
+Fiasse  &  Nader-Grosbois,  2012;  Happe,  1994),  this  task  aimed  to  asses  the  ToM 
+involved in interpreting social meaning from ambiguous stories.  
+
+The  stories  were  socially  ambiguous  because  past  research  has  found  children’s 
+interpretations  of  ambiguous  social  situations  to  be  an  effective  method  of  eliciting 
+children’s representational understanding of mind and emotion (Dodge & Frame, 1982; 
+Levinson, 1995). Thus, this task was developed to strike a balance between projective, 
+open-ended narrative tasks (e.g., Fox, 1991; Selman, 1980), and more forced-choice, 
+experimental  tasks  (e.g.,  see  Baron-Cohen,  2011).    The  two  stories  involved  one 
+scenario for girls (an unfamiliar girl approaches two friends already engaged; two boys 
+on a sports team need to choose another boy for their team).  However, no reason was 
+given  in  this  story  to  explain  why  the  actors  did  not  speak  to  the  recipient.  Thus, 
+participants  had  to  infer  the  reason  that  the  actors  disregarded  the  recipient.  The 
+following  stories  are  excerpts  from  the  Nancy  Margie  and  Kenny/Mark  Social 
+Ambiguous  Story  Interviews  used  to  assess  participants’  understanding  of  emotions 
+and mental states (Bosacki, 2000). 
+
+Nancy/Margie 
+
+Nancy and Margie are watching the children in the playground.  Without saying a word, 
+Nancy nudges Margie and looks across the playground at the new girl swinging on the 
+swing set.  Then Nancy looks back at Margie and smiles.  Margie nods, and the two of 
+them start off toward the girl at the swingset.  The new girl sees the strange girl walk 
+towards her.  She'd seen them nudging and smiling at each other.  Although they are in 
+her class, she has never spoken to them before.  The new girl wonders what they could 
+want. 
+
+Kenny/Mark 
+
+Kenny  and  Mark  are  co-captains  of  the  soccer  team.    They  have  one  person  left  to 
+choose for the team.  Without saying a word, Mark winks at Kenny and looks at Tom 
+who is one of the last children left to be chosen.  Mark looks back at Kenny and smiles.  
+Kenny nods and chooses Tom to be on their team.  Tom sees Mark and Kenny winking 
+and smiling at each other.  Tom, who is usually one of the last to be picked for team 
+sports, wonders why Kenny wants him to be on his team. 
+
+The  stories  were  followed  by  questions  that  assessed  emotion  understanding 
+including emotion word labelling and understanding of situational causes of emotions.  
+In  addition,  following  each  narrative,  the  children  were  asked  to  imagine  and  predict 
+what the characters would do next, what they be thinking and feeling, and whether or 
+not  the  actions  would  be  considered  the  ‘right’  or  ‘wrong’  thing  or  moral  judgements.  
+They were also asked to imagine what would happen next in the story.  Based on past 
+research  (Bosacki,  2000),  responses  to  each  emotion  were  coded  according  to  their 
+accurateness  (mental  state  and  emotional  labelling),  and  their  level  of  conceptual 
+sophistication  (understanding  of  the  socially  ambiguous  situation,  or  what  causes 
+
+ 
+
+217 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+emotions  for  both  self  and  peer).  For  example,  a  code  of  0  was  provided  for 
+intangential  or  “I  don’t  know  responses,”1  =  behavioral/physical  responses  such  as 
+“Tom  would  walk  away  and  play  elselwhere.”,  2  =  Psychological  that  would  include 
+references to at least 1-2 psychological or emotional state such as “Tom thought that 
+Kenny and Mark were unfair.”  3 = Integrated psychological response which would be a 
+sophisticated  response  involving  a  complex  (3  or  more),  and/or  contradictory 
+combination  of  psychological  emotional  terms  (e.g.,  “Tom  felt  that  Kenny  and  Mark 
+were  angry  with  him  and  wanted  to  trick  him  into  thinking  they  were  his  friends.”). 
+Responses  were  also  coded  for  emotional  valence  including  positive,  negative,  and 
+neutral scenarios. 
+
+Cronbach's alpha for the 21-item aggregate score for the Nancy/Margie/new girl and 
+Kenny/Mark/Tom  story  was  .67  and  69  respectively.  To  obtain  as  sensitive  a  ToM 
+measure  as  possible,  children’s  scores  on 
+the  Nancy?Margie/new  girl  and 
+Kenny/Mark/Tom  (0-21)  were  summed  into  a  reliable  composite  (0–42).    For  the 
+present  sample,  Cronbach’s  alpha  for  the  sum  of  these  two  scores  was  α  =  .69.  
+Consistent  with  past  research  (Bosacki),  this  was  deemed  to  indicate  modest,  but 
+adequate,  internal  consistency  to  use  the  combined  total  score  as  our  main  index  of 
+Time  1  ToM  understanding  (M  =  23.34;  SD  =  4.56,  range  0-42).  Randomly  selected 
+25%  of  the  transcripts  were  coded  by  a  second  independent  coder,  resulting  in  an 
+average  kappa  of  (.92)  across  the  two  stories.  Discrepancies  were  discussed  until 
+consensus was achieved. 
+
+Self-concept.  To assess children’s perceptions of their competencies, three subscales 
+from Harter's (1985) Self-Perception Profile for Children (SPPC) were used.  Based on 
+past  literature  (Cassidy,  1999;  Harter,  1999),  the  present  study  focused  on  three 
+aspects  that  some  researchers  consider  particularly  relevant  to  children  including:  
+perceived behavioral conduct (6 items, e.g., “how well-behaved do you think you are,” 
+Cronbach’s alpha = .81), physical appearance (6 items, e.g., “how good-looking do you 
+think  you  are,”  Cronbach’s  alpha  =  .79),  and  global  self-worth  (6  items,  e,g.,  “how 
+happy are you being who you are?”  Cronbach’s alpha = .89). Randomly selected 25% 
+of the transcripts were coded by a second independent coder, resulting in an average 
+kappa of (.90) across the two coders.  Discrepancies were discussed until consensus 
+was achieved. 
+
+Self-understanding.  To  assess  the  complexity  of  the  self-system,  in  addition  to 
+assessing  the  evaluative  or  objective  component  of  self  as  measured  by  the  SPPC, 
+children  were  also  asked  questions  to  assess  the  subjective  self.    Adapted  from 
+questions from past research, these questions addressed topics of continuity, agency, 
+and distinctiveness.  (Damon & Hart, 1988).  Randomly selected 25% of the transcripts 
+were  coded  by  a  second  independent  coder,  resulting  in  an  average  kappa  of  (.88) 
+across the two coders. Discrepancies were discussed until consensus was achieved. 
+
+Gender-Role  Perceptions.  To  assess  children's  self-perceived  gender  roles,  children 
+were  administered  a  self-report  questionnaire  that  contained  items  gleaned  from  two 
+standard  measures  used 
+in  research  on  children’s  gender  role  perception. 
+Stereotypical  masculine,  feminine  and  neutral  items  concerning  characteristics  and 
+activities were gleaned from the Children's Sex Role Inventory (CSRI, Boldizar, 1991), 
+and  a  recent  study  on  gender  roles  in  middle  childhood  (McHale  et  al.,  1999).  The 
+present  study  focused  on  the  masculinity  items  (6  items,  e.g.,  “I  am  good  at  sports.” 
+Cronbach’s alpha = .70) and the femininity items (6 items, e.g., “I like babies and small 
+children a lot.” Cronbach’s alpha = .72).  This scale was presented orally to the children 
+and  after  each  item  they  were  asked  to  respond  to  a  Likert-type  scale  of  pictures 
+indicating how true it was for them. 
+
+ 
+
+218 
+
+ 
+
+ 
+
+Results 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+Descriptive Statistics and Preliminary Analysis 
+
+Data  analysis  based  on  a  coding  scheme  developed  from  previous  research  was 
+derived  from  the  ToM  interview  questions  to  create  a  composite  ToM  understanding 
+score  (Bosacki,  2000).    Thus,  higher  ToM  scores  represented  a  more  sophisticated 
+understanding of emotion and mental state concepts. Likewise, a coding scheme was 
+derived  from  the  self-understanding  questions  to  create  a  total  composite  subjective 
+self-understanding score as mentioned above. Accordingly, higher scores represented 
+higher  perception  of  self-understanding.  High  ToM,  Self-Perceptions,  Self-
+Understanding, and Gender-Role Orientation scores represented a more sophisticated 
+understanding  of  both  mental  states  in  others  and  one's  own  self-theory  including 
+perceived femininity and masculinity. 
+
+Task Performances and Individual Differences  
+
+Table 1. Means and Standard Deviations of Main Variables for Time 1 and Time 2 
+
+____________________________________________________________________________ 
+
+Time 1  (n = 28)1 
+
+Time 2  (n = 28)2 
+
+T 
+
+p 
+
+Variable 
+
+ 
+
+ 
+
+M (SD)   
+
+M (SD) 
+
+27.29 (19.17) 
+
+____________________________________________________________________________ 
+ToM Total3 
+Femininity 
+Masculinity4 
+Self-Understanding5 
+Self-Perceptions6 
+
+12.30 (3.70) 
+
+15.00 (4.21) 
+
+39.00 (3.42) 
+
+17.35 (5.21) 
+
+13.09 (8.36) 
+
+16.81 (3.72) 
+
+4.18 (4.44) 
+
+1.59 
+
+3.35 
+
+4.11 
+
+4.95 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.00 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.13 
+
+.00 
+
+.00 
+
+Behavioural Conduct 
+
+Physical Appearance 
+
+Global Self-Worth 
+
+ 
+
+ 
+
+ 
+
+15.29 (3.3) 
+
+16.61 (3.02) 
+
+18.04 (7.27) 
+
+ 
+
+ 
+
+ 
+
+15.08 (3.08) 
+
+15.12 (2.35) 
+
+15.95 (1.62) 
+
+ 
+
+ 
+
+ 
+
+-.38 
+
+.71 
+
+-1.48 
+
+.15 
+
+-1.50 
+
+.15 
+
+____________________________________________________________________________ 
+
+Note.    1.  Mean  Age  =  8  y;  5  mos.    2.  Mean  Age:  10  y;  4  mos  3.  Total  Theory  of  Mind  Score 
+(Bosacki, 2000); range 0 – 42; higher scores reflect higher ToM understanding. 4. Higher scores 
+reflect  higher  gender-role  orientation  perception,  T1  N  =  28,  T2  N  =  23.  5.  Total  Self-
+Understanding  Score  (Bosacki,  2005);  range  0  –  10;  higher  scores  reflect  higher  Self-
+Understanding.  6.  SPSS  (Harter,  1985);  range  0-24;  higher  scores  reflect  higher  self-
+perceptions. 
+
+ 
+Table 2. Longitudinal Correlations Between Time 11 and Time 22 for Main Variables 
+
+____________________________________________________________________________ 
+
+ 
+
+ 
+
+Variable 
+1. ToM Total3 
+2. Femininity4 
+3. Masculinity4 
+4. Self-Understanding5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+2. 
+
+--       -.26 
+-.34  
+-.05 
+
+---- 
+.01 
+.00  
+
+-.13 
+
+3. 
+.68* 
+-.38 
+
+---- 
+
+.26 
+
+4. 
+.39* 
+
+.16 
+
+5. 
+
+6. 
+
+7. 
+
+-.00 
+
+.15 
+
+-.34 
+
+-.10 
+
+-.01 
+
+-.03 
+
+--- 
+
+-.06 
+
+-.24 
+.14 
+-.39* 
+
+-.14 
+--.18  
+ .04  
+
+ 
+
+ 
+
+ 
+
+ 
+
+____________________________________________________________________________ 
+
+ 
+
+219 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+Table  2  (Cont).  Longitudinal  Correlations  Between  Time  11  and  Time  22  for  Main 
+Variables 
+
+____________________________________________________________________________ 
+
+Variable 
+ 
+Self-Perceptions6 
+
+ 
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+ 
+
+5. Behavioral Conduct    
+
+.18 
+
+-.12 
+
+6. Physical Appearance  
+
+ .42 
+
+-.10 
+
+-.02 
+ .09 
+
+7. Global Self-Worth 
+
+ 
+
+ .37 
+
+-.03 
+
+ .34 
+
+-.06 
+
+---- 
+
+.25 
+
+.19 
+
+.17 
+.48* 
+
+.44* 
+
+--- 
+.47* 
+
+-.04 
+
+.15 
+------ 
+
+  
+
+___________________________________________________________________________ 
+Note. Time 1  (n = 28)1 above the diagonal, Time 2  (n = 28)2 below the diagonal.. 1. Mean Age 
+= 8 y; 5 mos.  2. Mean Age: 10 y; 4 mos 3. Total Theory of Mind Score (Bosacki, 2000); range 0 
+–  42;  higher  scores  reflect  higher  ToM  understanding.  4.  Higher  scores  reflect  higher  gender-
+role  orientation  perception  5.  Total  Self-Understanding  Score  (Bosacki,  2008);  range  0  –  10; 
+higher  scores  reflect  higher  Self-Understanding.  6.  SPSS  (Harter,  1985);  range  0-24;  higher 
+scores reflect higher self-perceptions. 
+
+* M = p  < .10 ; p = < .05. 
+
+Longitudinal Individual Differences  
+
+Examination  of  the  means  of  the  main  variables  (T1,  T2:  ToM,  SPCC,  Gender-Role 
+Orientations)  showed  significant  effects  for  time  for  ToM,  Self-Understanding  and 
+Perceived  Masculinity  (see  Table  1).    Paired  T-tests  showed  significant  increases 
+between  Time  1  and  Time  2  ToM  Total  scores,  Self-Understanding  Scores  and 
+Perceived Masculinity. In contrast, Self-Perception scores did not increase significantly 
+from T1 and T2. 
+
+Cross-sectional and Longitudinal Correlational analysis 
+
+Correlational analysis was conducted between aggregate ToM scores, self-perceptions 
+and  understanding  and  gender-role  orientation  variables  cross-sectionally  at  T1  and 
+T2, as well as longitudinally between T1 and T2 scores. 
+
+Table  2  shows  cross-sectional  correlations, 
+
+for  ToM,  self-perceptions  and 
+understanding, and gender-role orientation correlations at T1 and T2. Results showed 
+significant positive correlations between T1 ToM scores and T1 perceived Masculinity 
+(r(27) = .68, p = .015), but not at Time 2.  Self-Understanding and ToM were related at 
+T1  only  (r(27)  =  .39,  p  =  .038).  A  negative  correlation  was  found  between  self-
+understanding and perceived physical self-concept at T1 only (r(27) = -.39, p = .039). 
+
+Regarding longitudinal relations between T1 and T2, children’s T1 Total ToM scores 
+and their perceptions of self at T2 showed significant negative correlations between T1 
+Total ToM scores and T2 children’s perceptions of behavioral conduct or a moral sense 
+of self: r(24) = -.55, p = .004; and perceptions of global self-worth: r(22) = -43, p < .05). 
+These  results  support  previous  research  that  found  negative  relations  between  ToM 
+and  self-perceptions  (Bosacki,  2000).  Regarding  connections  between  Time  1  and 
+Time 2 ToM and self-concept scores, no correlations were found between Time 1 and 
+Time  2  ToM  scores  (r(26)  =  .28,  p  =  ns).  Similarly,  no  relations  were  found  between 
+children’s  T1  and  T2  self-perceptions  were  found,  nor  T1  and  T2  self-understanding 
+total scores. 
+
+Regarding longitudinal relations between T1 and T2  among perceptions of gender-
+role  self,  ToM,  a  marginally  significant  negative  correlation  was  found  between 
+perceptions  of  global  self  worth  at  Time  1  and  self-understanding  at  Time  2    (r(27)  -
+
+ 
+
+220 
+
+ 
+
+ 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+.413 p =.056). This result suggests that children who were happy with who they were 
+and  had  a  positive  view  of  self-worth  reported  less  self-understanding  at  10  years  of 
+age.  Alternatively,  children  at  8  years  who  reported  a  negative  feeling  of  self-worth 
+were more likely to report a great sense of self-understanding at 10 years of age. 
+
+Regarding 
+
+longitudinal  relations  between  self-understanding  and  gender-role 
+perceptions, a significant relation was found between perceived masculinity at T1 and 
+self-understanding  at  T2  (r(22)  =  .502,  p  =.017,  whereas  a  marginally  significant 
+positive  correlation  was  found  between  perceived  T1 femininity  T2  self-understanding 
+(r(22)    =  .384,  p  =.08.    The  positive  relation  between  perceived  masculinity  and  self-
+understanding two years later suggests that children who were more likely to perceive 
+themselves  as  stereotypically  masculine  or  relating 
+to  stereotypic  masculine 
+characteristics (e.g., I am good at sports) were more likely to report a greater sense of 
+self-understanding  two  years  later  at  10  years  of  age.  No  correlations  were  found 
+between self-understanding at Time 1 or 2 and Gender-Role at T2. 
+
+In sum, associations between children’s ToM understanding and their perception of 
+self  and  gender-role  orientation  across  time  holds  many  educational  and  clinical 
+implications that will be discussed in the next section.  
+
+Discussion 
+
+This  small-scale  longitudinal  study  examined  the  links  between  children’s  ToM 
+understanding,  perceptions  of  self  and  gender-role  orientation  at  8  years  of  age,  and 
+then 2 years later at 10 years of age. One of the main strengths of this study is that it 
+follows  a  research  design  of  a  relatively  small-scale,  longitudinal  study  that  combines 
+both  qualitative  and  quantitative  analyses  (Creswell,  2012).  Given  that  the  present 
+findings  expand  children’s  perspectives  regarding  ToM,  self-perceptions  and  gender-
+role  orientation,  this  study  offers  a  unique  contribution  to  the  existing  literature 
+regarding ToM in later childhood. Accordingly, the main findings are discussed in terms 
+of the following research questions 1) Do longitudinal relations exist among  children’s 
+ToM understanding and their perceptions of self and gender-role orientation at 8 years 
+of  age  and  two  years  later  at  10  years  of  age,  and  2)  Do  individual  differences  in 
+children’s  scores  and  correlational  patterns  among  variables  exist?    Findings  will  be 
+then be discussed in terms of the extant literature on ToM, self-concept, and gender-
+role orientation. 
+
+Regarding the first research question, examination of the means showed significant 
+age effects for ToM understanding, self-understanding, and perceived masculinity. That 
+is  the  older  the  children,  the  higher  the  ToM  understanding,  self-understanding,  and 
+perceived masculinity scores. From a psychocultural and social cognitive perspective, 
+(e.g., Bussey & Bandura, 2004; Bronfenbrenner, 2005; Maccoby, 1998), such findings 
+can  be  explained  in  terms  of  the  interplay  among  self-understanding,  stereotypic 
+societal gender-role expectations and their link to Theory of Mind. Given past research 
+that  suggests  children  develop  their  ToM  and  self-concept  through  an  interaction  of 
+cognitive  development  and  social  interactions  (de  Rosnay  et  al.,  2006),  perhaps  the 
+increase  in  scores  over  the  two  years  is  partly  due  to  an  interaction  of  individual  and 
+environmental factors. That is, the increase in ToM and self-perceptions may be due in 
+part to the combination of increased cognitive ability to think about the self-concept in a 
+more  coherent  sense  including  a  more  comprehensive  gender  identity.  In  addition, 
+increased  social  exposure  to  others,  particularly  one’s  peer  group  and  conversations 
+regarding others’ mental states may help to develop one self’s concept.  
+
+Guided  by  the  second  research  question  that  asked:  “Do  individual  differences  in 
+children’s  scores  and  correlational  patterns  among  variables  exist?,”  for  both  Time  1 
+and  2,  self-understanding  was  unrelated  to  perceived  self-competence  regarding 
+
+ 
+
+221 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+behavioral  conduct,  physical  appearance,  and  global  self-worth.  The  one  exception 
+was a significant negative relation between T1 self-understanding and T1 physical self-
+concept,  suggesting  that  for  8-year-olds  only,  the  higher  children  scored  on  self-
+understanding  or  understood 
+terms  of  continuity,  agency  and 
+distinctiveness,  they  more  likely  they  were  to  report  negative  comments  about  their 
+physical  sense  of  self.  Alternatively,  the  lower  children  scored  on  self-understanding, 
+the  more  positive  they  rated  their  physical  appearance.  That  is,  participants  who 
+experienced difficulty in understanding themselves as psychological beings, in a more 
+conceptual,  cognitively  complex  way  were  also  more  likely  to  evaluate  their  physical 
+appearance in a positive way. 
+
+themselves 
+
+in 
+
+Such  findings  support  claims  that  the  self-concept  is  a  multidimensional  and 
+dynamic  process  that  continues  to  develop  with  age,  and  may  contain  either  inter-
+related  or  independent  dimensions  (e.g.,  Bruner,  1996;  Gergen,  2001).  Furthermore, 
+such findings support past developmental research that suggests that younger children 
+tend  to  focus  more  on  the  physical  aspect  of  the  self  and  as  they  age,  they  begin  to 
+include  further  psychological  aspects  of  their  self-concept  (Harter,  1999).  As  many 
+researchers  claim  (Bussey  &  Bandura,  2004;  Harter  1999;  Harre,  1986),  we  need  to 
+learn what kind of role self-mechanisms such as self-regulatory functions play in ToM 
+understanding  and  how  this  may  differ  according  to  gender,  ethnicity,  socioeconomic 
+status,  etc.  Future  research  needs  to  explore  the  possible  influences  on,  and 
+connections  between  children’s  developing  ability  to  judge  or  evaluate  themselves  as 
+well as understand themselves as conceptual beings. 
+
+Regarding findings concerning ToM and perceptions of self and gender-role, how do 
+we explain the finding that at 8 years of age only, children who scored higher  in ToM 
+also  viewed  themselves  as  more  stereotypically  masculine?  Relatedly,  perceived 
+masculinity at 8 years old was also correlated positively  with self-understanding at 10 
+years.  Given  that  only  the  younger  children  showed  a  positive  link  between  ToM  and 
+perceived  masculinity,  perhaps  at  8  years  of  age  children  who  are  more  likely  to 
+understand mental states in self and others may also be more likely to understand the 
+complexity  of  gender-stereotypic  characteristics  of  masculinity  such  as  “I  like  to  play 
+sports.” that this kind of statement can be applied to both males and females. Given the 
+development of the conceptual self, the positive relation between perceived masculinity 
+at 8 years of age and self-understand at 10 years of age supports research that shows 
+that  children’s  concept  of  self  may  expand  and  become  more  complex  and 
+multidimensional in that one’s perception of gender-roles may also become integrated 
+into one’s larger conceptual sense of self (Harter, 1999). Thus, perhaps at 8  years of 
+age,  children  who  thought  of  themselves  in  more  stereotypical  masculine  ways  were 
+also more likely to have a more coherent sense of conceptual self at 10 years. 
+
+Regarding the connections between ToM and self-concept, we found two significant 
+relations, one positive relation between ToM and self-understanding at 8 years and not 
+at  10  years.  The  second  ToM  and  self  correlation  was  the  negative  relation  between 
+ToM at T1 and a perceptions of behavioural conduct or a moral sense of self – that is, 
+how  well  children  perceived  themselves  to  be  well  behaved  according  to  social 
+conventions. Both findings will be discussed in turn. 
+
+We first need to explain why children who scored high on ToM also scored high on 
+self-understanding  at  8  years  old  but  not  10  years  of  age.  Given  that  a  sense  of  self 
+and  other’s  mental  states  may  develop  through  initial  child-caregiver  interactions 
+(attachment  theory  perspective,  see  Meins  et  al.,  2002),  perhaps  children’s  sense  of 
+self  and  other  are  more  connected  in  younger  childhood  and  becomes  more 
+differentiated.  That  is,  from  an  attachment-theory  perspective,  the  internal  working 
+model (IWM) of the self and other becomes more multidimensional and complex as it 
+
+ 
+
+222 
+
+ 
+
+ 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+may  grow  and  expand  with  new  relationships  beyond  the  initial  caregiver-child 
+relationship. 
+
+We  also  need  to  explain  the  negative  correlation  between  ToM  at  T1  and 
+perceptions of behavioural conduct or a moral sense of self at T2. Perhaps this finding 
+could be explained that if children were more likely to understand mental states of self 
+and other at 8 years old they were also less likely to see themselves as ‘following the 
+rules’ or social conventions at school when they are 10 years old. Perhaps having the 
+ability to see other peoples’ perspectives at 8 years helps to develop the ability to see 
+various  ways  that  ‘rules’  are  created  by  society  and  as  children  grow  older,  they  are 
+more likely to question the rules, or find other ways to follow the rules – or learn about 
+how  rules  are  created  based  on  others’  perspectives  within  society.  Alternatively, 
+children  who  scored  low  on  ToM  at  8  years  may  have  been  less  likely  to  understand 
+the perspectives of others which in turn may have led them to perceive themselves as 
+more  well-behaved  and  likely  to  follow  social  conventions  at  10  years  old.  As  both 
+explanations are complex and researchers need to continue to explore the longitudinal 
+connections between ToM and moral development and behaviour (Lagattuta, Nucci, & 
+Bosacki, 2010; Nucci, 2009). 
+
+The  present  findings  regarding  the  links  between  ToM  and  self-perceptions  could 
+also  be  explained  within  the  context  of  gendered  parent-child  and/or  teacher-child 
+emotion talk (Meins et al., 2002). That is, perhaps the parents of the participants in the 
+present  study  engaged  in  gender-differentiated  behaviours  and  mental  state  talk  with 
+their daughters and sons. In addition to parents, Denham and colleagues (2013) assert 
+teachers  also  play  a  crucial  role  in  shaping  their  children's  social  and  emotional 
+competence.  Thus, teachers may play a crucial role in children’s developing ToM and 
+perceptions of self as thus may act serve as emotion or psychosocial "coaches" in that 
+they could promote the development of social cognitive competencies. 
+
+The present findings support past research that suggests that children’s higher ToM 
+abilities  may  lead  them  to  imagine  what  their  friends  think  about  them  either  in  a 
+positive or negative way.  That is, the present findings support past studies that found 
+some  children  with  a  sophisticated  ToM  ability  may  be  more  sensitive  to  teacher 
+criticism  and  more  likely  to  interpret  hidden  social  messages  among  peers  including 
+negative experiences  with peers (Caravita, Di Biasio, & Salmivalli, 2010; Dunn, 2008; 
+Hughes, 2011).  Perhaps a more developed ToM ability may serve as a double-edged 
+sword and may help some children to decipher ambiguous social messages which may 
+include  both  positive  and  negative  messages.    Researchers  need  to  continue  to 
+explore  how  children’s  ToM  and  perceptions  of  self  and  gender-role  may  have  an 
+influence on their school adjustment and well being in school (Zambo & Brem, 2004). 
+
+Implications 
+
+The  results  of  this  study  may  help  to  remind  educators  and  researchers  of  the 
+importance  of  children'  developing  ability  to  think  about  oneself  and  others  as 
+psychological  beings.  Those  who  work  with  children  also  need  to  be  cognizant  that 
+middle  to  late-childhood  is  a  time  when  females  and  males  develop  an  increasing 
+awareness  of  increased  social  consciousness  and  social  pressures  to  conform  to 
+gender-stereotypic  norms  (Fine,  2011;  Maccoby,  1999).  This  study  may  help  to 
+increase researchers’ and educators' awareness of how gender-stereotypic beliefs may 
+affect  children'  socioemotional  development.    Accordingly,  the  current  findings  may 
+encourage youth workers to minimize the extent to which they use gender-stereotypic 
+language  and  behaviour  around  gradeschool-aged  children.    Moreover,  adults  should 
+be encouraged to emphasize emotion vocabulary and to articulate often how they are 
+feeling  and  thinking.    As  noted  by  Kitayama  et  al.  (1995),  to  provide  a  "thicker" 
+
+ 
+
+223 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+description  of  children's  emotional  understanding,  researchers  need  to  examine  the 
+"emotional  culture"  of  the  home  by  exploring  the  possible  influences  of  all  family 
+members - mothers, fathers, siblings and extended family. 
+
+Given the limitations of the present study (e.g., small-scale, longitudinal correlational 
+study,  lack  of  general  intelligence  measure,  ethnically  homogeneous  sample), 
+interpretations of the present findings are to be made with caution.  Given the complex 
+process of the co-construction of ToM and perceptions of self and gender-roles, semi-
+structured interviews with story narratives and self-report questionnaires may not have 
+been able to capture a complete reflection of such a dynamic process. Moreover, given 
+the  complex  process  of  self-socialization  (Maccoby,  1998),  future  research  needs  to 
+investigate additional socialization agents who may influence the development of ToM 
+and perceptions of self and gender-role, including peers, teachers, family members, as 
+well  as  the  influence  of  media  experiences  with  text  (paper,  electronic),  Internet, 
+television, film, etc. (Bosacki, 2008).  
+
+In sum, findings from this study suggest that longitudinal associations exist between 
+children’s ToM understanding, and how they think and feel about themselves and their 
+gender-roles in the middle school grades Such findings support previous research (e.g, 
+Cutting  &  Dunn,  1999’  Jenkins  &  Astington,  1996),  and  theorists’  claims  that  self-
+perceptions  and  gender-role  perception  may  play  significant  roles  in  children'  ToM 
+understanding (Hughes, 2011). Thus, this research makes two significant contributions 
+to  the  current  discourse  on  the  nature  of  social  cognition  in  middle  childhood.  
+Theoretically,  it  highlights  the  complex  connection  between  children’s  ToM  and 
+perceptions  of  self  and  gender-role  orientation.  Practically,  beyond  contributing  to 
+theories of social cognition, these results have practical significance in that changes in 
+ToM  and  perceptions  of  self  and  gender-role  orientation  play  an  integral  part  in 
+children’s everyday experience in the middle school setting.  
+
+ 
+
+• 
+
+• 
+
+• 
+
+Sandra  Leanne  BOSACKI  is  an  Associate  Professor  in  the  Graduate  and  Undergraduate 
+Department  of  Education  at  Brock  University,  St.  Catharines,  Ontario,  Canada.  Her  teaching 
+and  research  interests  include  sociocognitive,  emotional,  moral,  and  spiritual  development 
+within  diverse  cultural  and  educational  contexts.  She  is  a  contributing  associate  editor  of  the 
+International Journal of Children's Spirituality and is the author of the books entitled, Children's 
+emotional  lives:  Sensitive  shadows  in  the  classroom  (2008)  and  The  culture  of  classroom 
+silence (2005). She has puublished research papers in the Journal of Educational Psychology, 
+the  Journal  of  Early  Adolescence,  Social  Development,  and  Gender  Roles:  A  Journal  of 
+Research. 
+ 
+
+ 
+
+References 
+
+Aina, O. E. & Cameron, P. A. (2011). Why does gender matter? Counteracting stereotypes with 
+
+young children. Dimensions of Early Childhood, 39 (3), 11-19. 
+
+Amsterlaw, J., Lagatutta, K., & Meltzoff, A. (2009). Young children’s reasoning about  the effects 
+of emotional and physiological states on academic performance. Child Development, 80, 15- 
+133. 
+
+Artar, M. (2007). Adolescent egocentrism and theory  of mind in the context of family relations.  
+
+Social Behavior and Personality, 35, 1211-1220. 
+
+ 
+
+224 
+
+ 
+
+ 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+Astington, J., & Pelletier, J. (1997, April). Young children’s theory of mind and its relation to their 
+success  in  school.  Paper  presented  at  the  Biennial  Meeting  of  the  Society  for  Research  in 
+Child Development, Washington, DC. 
+
+Banerjee,  M.,  &  Yuill,  N.  (1999).    Children's  understanding  of  self-presentational  display  rules: 
+Associations with mental-state understanding. British Journal of Developmental Psychology, 
+17, 111-124. 
+
+Banerjee,  R.,  &  Watling,  D.  (2007,  June).  Children’s  understanding  of  faux  pas:  Longitudinal 
+associations between socio-emotional understanding and peer relations. Paper presented at 
+the annual meeting of the Jean Piaget Society, Amsterdam, ND. 
+
+Baron-Cohen, S. (2011). The science of evil: On empathy and the origins of cruelty. New York: 
+
+Basic Books. 
+
+Boldizar,  J.  (1991).  Assessing  sex 
+
+typing  and  androgyny 
+
+in  children.  Developmental 
+
+Psychology, 27, 505-515. 
+
+Bosacki, S. (2000). Theory of mind and self-concept in preadolescents:  Links with gender  and 
+
+language. Journal of Educational Psychology, 92, 709-717. 
+
+Bosacki,  S.  (2003).  Psychological  pragmatics  in  preadolescents:  Sociomoral  understanding,  
+
+self-worth, and school behavior. Journal of Youth and Adolescence, 32, 141-155. 
+
+Bosacki, S. (2008). Children’s emotional lives: Sensitive shadows in the classroom. New York: 
+
+Peter Lang. 
+
+Bosacki,  S.,  &  Astington,  J.  (1999).    Theory  of  mind  in  preadolescence:  Relations  between 
+
+social understanding and social competence. Social Development, 8, 237-255. 
+
+Bronfenbrenner,  U.  (2005).  (Ed).  Making  human  beings  human:  Bioecological  perspectives  on 
+
+human development. Thousand Oaks, CA: Sage Publications. 
+
+Bruner, J. (1996). The culture of education. Cambridge, MA: Harvard University Press. 
+
+Bussey,  K.,  &  Bandura,  A.  (1999).  Social  cognitive  theory  of  gender  development  and 
+
+differentiation. Psychological Review, 106, 676-713. 
+
+Caravita, S., Di Biasio, P., & Salmivalli, C. (2010). Early adolescents’ participation in bullying: Is 
+
+ToM involved?  The Journal of Early Adolescence, 30, 138-170.  
+
+Carpendale, J., & Chandler, M. J. (1996). On the distinction between false belief understanding 
+
+and subscribing to an interpretive theory of mind. Child Development, 67, 1686-1706. 
+
+Carpendale, J., & Lewis, C. (2004). Constructing an understanding of mind: The development of 
+children’s social interaction within social interaction. Behavioral and Brain Sciences, 27, 79–
+151. 
+
+Cassidy, J., Ross, D., Butkovsky, L., & Braungart, J. (1992). Family-peer connections: The roles 
+of  emotional  expressiveness  within  the  family  and  children's  understanding  of  emotions. 
+Child Development, 63, 603-618. 
+
+Compian,  L.,  Gowen,  L.  K.,  &  Hayward,  C.  (2004).  Peripubertal  girls’  romantic  and  platonic 
+involvement with boys: Associations with body image and depression symptoms. Journal of 
+Research on Adolescence, 14, 23-47. 
+
+Costarelli,  V.,  Antonopoulou,  K.,  &  Mavrovounioti,  C.  (2011).  Psychosocial  characteristics  in 
+relation  to  disordered  eating  attitudes  in  Greek  adolescents.  European  Eating  Disorders 
+Review, 19, 322-330. 
+
+Creswell, J. W. (2012). Educational research: Planning, conducting, and evaluating quantitative 
+
+and qualitative research.  (4th Ed.). Upper Saddle River, NJ: Merrill Prentice Hall.  
+
+Cutting,  A.,  &  Dunn,  J.  (2002).  The  costs  of  understanding  other  people:  social  cognition 
+predicts young children’s sensitivity to criticism. Journal of Child Psychology and Psychiatry, 
+43, 849-860. 
+
+ 
+
+225 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+Damon, W., & Hart, D. (1988). Self-understanding in childhood and adolescence. New York:  
+
+  Cambridge University Press. 
+
+Denham,  S.,  Way,  E.,    Kalb,  S.,  Warren-Khot,  H.,  &    Bassett,  H.  (2013).  Preschoolers’  social 
+information  processing  and  early  school  success:  The  challenging  situations  task.  British 
+Journal of Developmental Psychology, 31, 180-197. 
+
+de  Rosnay,  M.,  &  Hughes,  C.  (2006).  Conversation  and  theory  of  mind:  Do  children  talk  their  
+
+way  to socio-cognitive  understanding?   British Journal of Developmental  Psychology  24, 7-
+37. 
+
+Dunn,  J.  (1995).  Children  as  psychologists:  The  later  correlates  of  individual  differences  in 
+
+understanding of emotions and other minds. Emotion and Cognition, 9, 187-201.  
+
+Dunn, J. (2008). Relationships and children’s discovery of the mind. In U. Muller, N. Budwig, & 
+B.  Sokol.,  (Eds.),  Social  life  and  social  knowledge:  Toward  a  process  account  of  
+development (pp. 171-182). New York: Lawrence Erlbaum Associates. 
+
+Fiasee,  C.  &  Nader-Grosbois,  N.  (2012).  Perceived  social  acceptance,  theory  of  mind,  and  
+
+children with intellectual disabilities. Research in Developmental Disabilities, 33,1871-1880. 
+
+Filoppova,  E.,  &  Astington,  J.  (2008).  Further  developments  in  social  reasoning  revealed  in 
+
+discourse irony understanding. Child Development, 79, 126-138. 
+
+Filoppova,  E.,  &  Astington,  J.  (2010).  Children’s  understanding  of  social-cognitive  and  social-
+
+communicative aspects of discourse irony. Child Development, 81, 913-928. 
+
+Gergen, M. (2001).Feminist reconstructions in psychology. Sage, Thousand Oaks, CA. 
+
+Golombok, S., & Hines, M. (2002). Sex differences in social behavior. In P. K. Smith (Ed.) & C. 
+
+H.  Hart  (Ed.),  Blackwell  handbook  of  childhood  social  development.  Blackwell  handbooks  of 
+
+developmental psychology., (pp. 117-136). Malden: Blackwell Publishing,  
+
+Harter,  S.  (1985).  Manual  for  the  self-perception  profile  for  children  (SPPC).  University  of 
+
+Denver. 
+
+Harter, S. (1999). The construction of the self: A developmental perspective. New York: Guilford 
+
+Press. 
+
+Hughes,  C.  (2011).  Social  understanding  and  social  lives:  From  toddlerhood  through  to  the 
+
+transition to school.  New York: Psychology Press. 
+
+Hughes,  C.,  &  Dunn,  J.  (1998).    Theory  of  mind  and  emotion  understanding:  Longitudinal  
+associations  with  mental-state  talk  between  young  friends.  Developmental  Psychology,  34, 
+1026-1037. 
+
+Lagutatta, K., Nucci, L., & Bosacki, S. (2010). Bridging theory of mind and the personal domain: 
+
+Children’s reasoning about resistance to parental control. Child Development, 81, 616-635. 
+
+Leekam,  S.  (1993).  Children's  understanding  of  mind.  In  M.  Bennett  (Ed.),  The  child  as 
+psychologist:  An  introduction  to  the  development  of  social  cognition  (pp.  191-198).  New 
+York: Harvester Wheatsheaf. 
+
+Meins,  E.,  Fernyhough,  C.,  Johnson,  F.,  &  Lidstone,  J.  (2006).  Mind-mindedness  in  children:  
+in  middle  childhood.  British  Journal  of  
+
+Individual  differences 
+Developmental Psychology, 24, 181–196. doi:10.1348/026151005X80174 
+
+talk 
+
+in 
+
+internal-state 
+
+Meins,  E.,  Fernyhough,  Ch.,  Wainwright,  R.,  Clark-Carter,  D.,  Das  Gupta,  M.,  Fradley,  E.. 
+(2003).  Pathways  to  understanding  mind:  Construct  validity  and  predictive  validity  of 
+maternal mind-mindedness. Child Development, 74(4), 1194–1211. 
+
+Maccoby,  E.  (1998).  The  two  sexes:  Growing  up  apart,  coming  together.  Cambridge,  MA:  
+
+Harvard University Press. 
+
+ 
+
+226 
+
+ 
+
+ 
+
+Children’s ToM, Self, and Gender-Role / Bosacki 
+
+ 
+
+McHale,  S.,  Crouter,  A.,  &  Tucker,  C.  (1999).  Family  context  and  gender  role  socialization  in 
+middle  childhood:  Comparing  girls  to  boys  and  sisters  to  brothers.  Child  Development,  70, 
+990-1004. 
+
+Nucci, L. (2009). Nice is not enough: Facilitating moral development. Upper Saddle River,  NJ: 
+
+Pearson. 
+
+Lagatutta,  K.,  &  Wellman,  H.  M.  (2002).  Differences  in  early  parent-child  conversations  about  
+
+negative versus positive emotions. Developmental Psychology, 38, 564–580. 
+
+Pons,  F.,  Lawson,  J.,  Harris,  Pl.,  &  de  Rosnay,  M.  (2003).  Individual  differences  in  children’s 
+emotion understanding: Effects of age and language. Scandinavian Journal of  Psychology, 
+44, 347-411. 
+
+Pons,  F.,  Harris,  P.  L.,  &  de  Rosnay,  M.  (2004).  Emotion  comprehension  between  3  and  11 
+years:  Developmental  periods  and  hierarchical  organization.  European  Journal  of 
+Developmental Psychology, 2(1), 127–152.                                                                                                                                    
+
+Sandberg,  A.,  &  Pramling-Samuelsson,  I.  (2005).  An  interview   study  of  gender  difference  in 
+preschool  teachers’  attitudes  toward  children’s  play.  Early  Childhood  Education  Journal, 
+32(5), 297-305. 
+
+Watson, A., Nixon, C., Wilson, A., &  Capage, L. (1999). Social  interaction skills  and theory  of 
+
+mind in young children. Developmental Psychology, 35, 386-391. 
+
+Yuill,  N.,  &  Coultas,  J.  (2007,  June).  The  relation  between  emotion  recognition  and  social 
+experience in early adolescence. Poster presented at the annual meeting of the Jean Piaget 
+Society, Amsterdam, ND. 
+
+Zambo,  D.,  &  Brem,  S.  (2004).  Emotion  and  cognition  in  students  who  struggle  to  read:  New 
+
+insights and ideas. Reading Psychology, 25, 189-204. 
+
+ 
+
+ 
+
+ 
+
+227 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+International Electronic Journal of Elementary Education Vol.6, Issue 2, 213-228,2014 
+
+ 
+
+ 
+
+ 
+
+ 
+
+www.iejee.com 
+
+This page is intentionally left blank 
+
+228 
+
+

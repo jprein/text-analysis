@@ -1,0 +1,1760 @@
+Articles
+
+A Longitudinal Study of Mother-Child
+Relationships and Theory of Mind in 
+the Preschool Period
+Douglas K. Symons and Sharon E. Clark, Acadia University, Canada
+
+Abstract
+
+To investigate individual differences in theory of mind acquisition, this study exam-
+ined whether different aspects of early mother-child relationships contributed to the
+development of false belief understanding at the close of the preschool period. Forty-
+six mother and child pairs were seen when children were two and again at ﬁve years
+of age. At age two, home-based Q-sort observations of attachment security and mater-
+nal sensitivity were made, and mothers completed a number of self-report measures
+to create an aggregate of maternal emotional distress. At age ﬁve, attachment secu-
+rity and maternal distress were reassessed, and false belief tasks were administered
+that  were  based  on  unexpected  identities  and  locations  of  objects.  In  addition, 
+attachment-relevant false belief tasks involving separation from caregivers were also
+used,  which  children  found  signiﬁcantly  more  difﬁcult  than  tasks  involving  objects.
+Age ﬁve security predicted object location task performance. Maternal sensitivity and
+emotional distress at age two predicted later caregiver location task performance, even
+controlling  for  age  ﬁve  measures.  These  results  support  a  growing  literature  on 
+the  importance  of  relationship  processes  and  parenting  context  to  theory  of  mind
+acquisition.
+
+Keywords: Theory of mind; attachment; parental sensitivity; false belief
+
+Considerable attention is being directed to the thesis that children’s understanding of
+social events is inﬂuenced by their relationship histories with caregivers. It is adap-
+tive for young children to understand the behavior of others, and Bowlby (1969/82)
+initially  proposed  that  this  develops  in  infancy  within  a  goal-corrected  partnership
+with a caregiver. An infant develops expectations that his or her caregiver will behave
+and react to situations in speciﬁc ways based on a history of interactions with the care-
+giver (Kaye, 1982; Vygotsky, 1986). Beyond infancy, Dunn (1991, 1995) has stressed
+that the family context serves as the basis for children’s understanding of mental states
+and behavior of others. In a similiar fashion, Fonagy and Target (1997) suggested that
+the ‘development of children’s understanding of mental states is embedded within the
+social world of the family’ (p. 681).
+
+Correspondence  can  be  addressed  to  Dr.  Doug  Symons,  Psychology  Department,  Acadia  University,
+Wolfville NS CANADA, B0P 1X0. E-mail: DOUG.SYMONS@ACADIAU.CA
+
+© Blackwell Publishers Ltd. 2000. Published by Blackwell Publishers, 108 Cowley Road, Oxford OX4 1JF, UK and 350 Main Street, 
+Malden, MA 02148, USA.
+
+4 Douglas K. Symons and Sharon E. Clark
+
+Theorists have examined the complex social and cognitive milieu that leads to the
+sense of self and others that develops in the ﬁrst six years of life (Dunn, 1991; Fonagy,
+Steele, Steele, & Holder, 1997; Stern, 1985; Sroufe, 1996). From a cognitive devel-
+opment  perspective,  relationship  histories  may  contribute  to  individual  differences 
+in theory of mind development and information-seeking behavior (Astington, 1993;
+Baldwin & Moses, 1996; Barresi & Moore, 1996). And from a social development
+perspective, working models of relationships and metacognitive development associ-
+ated with secure base behavior may be fundamental consequents of early relationships
+and  attachment  security  (Bretherton,  1985;  Main.  1991;  Main,  Kaplan,  &  Cassidy,
+1985; Meins, 1997). Cognitive and social domains are therefore seen as increasingly
+complementary.
+
+The goal of the present study was to examine the hypothesis that various features
+of early mother-child relationships in infancy contribute to the development of social
+understanding  at  the  close  of  the  preschool  period  as  indicated  by  performance  on
+theory of mind tasks. While there has been some attention to predictive models includ-
+ing  attachment  security,  there  has  been  little  consideration  of  general  measures  of
+parental sensitivity and emotional distress. Ainsworth, Blehar, Waters, and Wall (1978)
+proposed that parent-child attachment quality is based on the history of a caregiver’s
+responses  to  an  infant’s  signals  for  proximity  and  contact.  Sensitive  caregiving  is
+widely thought to be related to attachment security, and together, security and sensi-
+tivity  therefore  reﬂect  important  individual  differences  in  relationship  quality  (see
+Ainsworth et al., 1978; DeWolfe & Van IJzendoorn, 1997; Hinde & Stevenson-Hinde,
+1988; Pederson & Moran, 1995). The concurrent and predictive relations of attach-
+ment security, maternal sensitivity, and maternal emotional distress to a variety of false
+belief tasks were therefore examined.
+
+Social understanding in young children can be assessed using false belief tasks from
+theory of mind literature. In these kinds of tasks, a situation is arranged so that a par-
+ticipant’s  belief  about  a  situation  is  true  and  based  on  observable  consequences,
+whereas  a  story-character’s  belief  is  false  relative  to  a  participant’s  (for  review,  see
+Astington,  1993;  Gopnik,  1993).  If  a  participant  reports  that  the  other  will  act  on 
+the basis of the false understanding, then they are assumed to have been able to rep-
+resent the perspective of the other and attribute beliefs that do not match their own.
+He or she is thus seen as successfully completing a false belief task. For example, in
+a  standard  unintended  transfer  task  (e.g.,  Wimmer  &  Perner,  1983),  a  story-line  is
+acted out in which a child-character places an object in a location, leaves for some
+reason, a foil relocates the object to another location, and then the character returns
+and  looks  for  the  object.  If  a  participant  directs  the  character  to  search  where  the 
+object had been left, this is consistent with understanding that the character has beliefs
+that differ from the participant’s. But if the search is directly to where the object actu-
+ally  is,  no  such  distinction  is  drawn.  Normative  age-trends  for  false  belief  under-
+standing  have  become  well  established  and  children  should  pass  tasks  as  early  as 
+four years of age and certainly by age ﬁve (Frye, Zelazo, & Palfai, 1995; Gopnik &
+Astington, 1988; Wellman, 1990), particularly when linguistic demands of the tasks
+are minimised.
+
+False belief tasks have story lines that typically focus on the identity or location of
+an object, but objects should not activate attachment systems. Caregiver-ﬁgures are
+not involved in these story lines, and relationship issues are not proximal to the task.
+Performance on tasks, which incorporate caregivers, may be very different. In a recent
+cross-sectional study of three, four, and ﬁve year-old children (Symons, McLaughlin,
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+5
+
+Moore, & Morine, 1997), the oldest children were found to exhibit false belief under-
+standing for tasks involving the identity and location of objects. Tasks were also devel-
+oped and administered to elicit secure-base behavior by incorporating separation from
+a caregiver into an unintended transfer task (see Wimmer & Perner, 1983). The story-
+line of the caregiver location task is analogous: the child character is with a parent,
+the parent goes off to a particular location, the parent becomes relocated to another
+location for some reason, and then the child-character seeks the caregiver. Both objects
+and caregivers may be desired items within these kinds of tasks, but proximity-seeking,
+emotional security, and secure-base behavior are involved when a character is reunited
+with a caregiver they have been separated from, as opposed to a character ‘ﬁnding’
+an object that has gone missing. In Symons et al. (1997), 5-year-old children did not
+display false belief understanding for these analogous tasks where people instead of
+objects were sought. This may be because the social component of the task interferes
+with performance (as in Nguyen & Frye, 1999), and children may be confused by the
+animacy (e.g., beliefs and intentions) of the sought-for item (Poulin-Dubois & Shultz,
+1990; Gelman & Gottfried, 1996). Regardless, the potential for attachment security to
+be related to false belief task performance might be enhanced if a task is used which
+incorporates separation from a caregiver rather than an object.
+
+Only  recently  have  researchers  begun  to  investigate  individual  differences  in  the
+acquisition of a theory of mind (for example, Gopnik, 1997; Ruffman, 1997). There
+is  some  evidence  that  the  number  of  siblings  (Jenkins  & Astington,  1996;  Perner,
+Ruffman, & Leekham, 1994), and particularly older siblings (Ruffman, Perner, Naito,
+Parkin,  &  Clements,  1998),  as  well  as  fantasy  and  pretense  in  play  (Astington  &
+Jenkins, 1995; Taylor & Carlson, 1997) are related to false belief understanding. Pre-
+sumably this is due to facilitative interactions between siblings or with parents who
+explain the behavior of older siblings to younger children. This, in turn, may enhance
+social understanding or metacognitive skill within play (Astington, 1993; Ruffman et
+al.,  1998).  Dunn  and  co-workers  (Dunn,  Brown,  &  Beardsall,  1991;  Dunn,  Brown,
+Slomkowski, Tesla, & Youngbade, 1991), for example, found that performance on false
+belief tasks at 40 months was predicted by co-operative interactions between children
+and siblings at 33 months. Children who passed tasks also had mothers who had pre-
+viously been rated as controlling and intrusive during interactions with older siblings.
+If  such  parental  behavior  included  intervening  with  an  older  child  to  explain  the
+younger child’s thoughts and feelings, then mothers would be modelling attention to
+mental states.
+
+Cross-sectional data have also related features of social understanding to attachment
+security.  Given  that  metacognition  reﬂects  social  understanding,  Moss,  Gosselin,
+Parent, Rousseau, and Dumont (1997) showed that child metacognitive skills during a
+short, lab-based, problem-solving task were associated with maternal Q-sort ratings of
+attachment security. Fonagy, Redfern, and Charman (1997) found that false belief per-
+formance was concurrently related to a representational measure of attachment secu-
+rity in which a preschool-age child responded to pictures of separation experiences.
+And  ﬁnally,  Laible  and  Thompson  (1998)  recently  found  that  attachment  security
+assessed using a maternal Q-sort was related to children’s understanding of negative
+emotional states in other children, but unrelated to positive emotional states.
+
+Only recently have longitudinal studies examined these relations. First, Meins, Fer-
+nyhough, Russell, and Clark-Carter (1998) assessed strange situation attachment secu-
+rity when 33 children were approximately 12 months of age and followed this sample
+until age ﬁve. Children who were secure relative to insecurely attached children were
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+6 Douglas K. Symons and Sharon E. Clark
+
+more likely to incorporate an experimenter’s pretense suggestions into their symbolic
+play at 31 months, have mothers who focused on their child’s mental characteristics
+at 37 months, and correctly answer an unexpected transfer false belief task at age four.
+Maternal  sensitivity  to  cognitive  skill-level  within  a  teaching  task  was  also  related 
+to false belief task performance (Meins, 1997). Second, Fonagy, Steele, Steele, and
+Holder (1998) used the strange situation to assess attachment security of 92 infants at
+age  one  with  their  mothers  and  at  18  months  with  their  fathers. At  ﬁve  years,  they
+completed a strange situation procedure modiﬁed for use with older children. They
+also administered a cognitive emotion task in which participants had to predict a char-
+acter’s emotion on the basis of their false belief, which was more complex than a stand-
+ard  false  belief  task  because  of  the  affective-interpersonal  component.  Although
+concurrent infant-mother attachment security was not associated with performance on
+the cognitive emotion task, security in infancy was associated with passing the task.
+In addition, both antecedent and concurrent infant-father security was associated with
+passing this task.
+
+Longitudinal data between early social relationships and later theory of mind indices
+are restricted to measures of attachment security from strange situation assessments,
+and only traditional object-oriented false belief tasks have been used. The current study
+was  designed  as  a  prospective  study  in  which  home-based  observations  of  Q-sort
+attachment security ratings at age two and ﬁve were used to predict false belief per-
+formance on a range of tasks at age ﬁve. The advantage of a Q-sort measure is that it
+provides a quantitative measure and lends itself to regression models. The Attachment
+Security Q-sort (Waters, Vaughn, Posada, & Kondo-Ikemura, 1995) has the additional
+advantage  of  being  used  with  children  beyond  infancy  (Symons,  Clark,  Isaksen,  &
+Marshall, 1998), thereby allowing a concurrent assessment of attachment security at
+age  ﬁve  using  the  same  index.  Maternal  sensitivity  is  important  to  consider  given 
+theoretical links to Vygotsky’s ‘zone of proximal development’ (see Moss et al., 1997).
+In this approach, a sensitive parent who sees his or her infant as an intentional being
+may, in turn, enhance mentalising capacity of that young child (Fonagy & Target, 1997;
+Fonagy et al., 1998; Meins, 1997). Studies have also only examined maternal sensi-
+tivity within speciﬁc kinds of structured interactions, whereas the current study exam-
+ined  sensitivity  as  a  general  home-based  construct,  as  originally  envisioned  by
+Ainsworth. A maternal sensitivity Q-sort measure from age two was therefore included
+in  predictive  models  as  an  additional  index  of  the  mother-child  relationship.  It  was
+hypothesised  that  attachment  security  and  maternal  sensitivity  at  age  two  would
+predict theory of mind acquisition at age ﬁve.
+
+A mother’s capacity to serve as a secure base is affected by her own parental stress
+level  and  degree  of  attention  given  to  the  child.  This  was  initially  suggested  by
+Ainsworth et al. (1978) who discussed the ‘emotional availability’ of a mother who is
+sensitive (see also Crnic & Greenberg, 1990; Dix, 1991; Pederson et al., 1990). Par-
+enting  models  (e.g.,  Belsky,  1984;  Crnic  &  Greenberg,  1990;  Dix,  1991)  have  also
+emphasised  how  early  parent-child  relationships  can  be  negatively  impacted  by  the
+emotional distress of a parent (e.g., Downey & Coyne, 1990; Gelfand & Teti, 1990;
+Van IJzendoorn, Goldberg, Kroonenberg, & Frenkel, 1992). Sensitive parenting is a
+high demand activity that requires appropriate awareness, interpretation, and response
+to infant signals in a prompt fashion, so parents high in negative affectivity may be
+less sensitive. Watson and Clark (1984) deﬁned negative affectivity as the tendency to
+experience aversive emotional states such as generalised anxiety and depression. It is
+possible that the controlling and intrusive parental behavior observed by Dunn et al.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+7
+
+(1991)  was  related  to  negative  affectivity  in  parenting,  even  though  this  behavior 
+was directed at siblings and not the participants themselves. Overall, however, little 
+is  known  about  how  parental  emotional  distress  may  relate  to  theory  of  mind  in 
+children. Antecedent and concurrent distress were thus added to predictive models in
+the current study, but no directional predictions were made.
+
+Social understanding was examined using a series of false belief tasks. In six tasks,
+the  identity  of  objects  or  contents  of  containers  were  not  as  they  initially  appeared
+(‘Smarties task’; Gopnik & Astington, 1988). There were two tasks in which objects
+were unexpectedly transferred from one location to another (‘Maxi task’; Wimmer &
+Perner,  1983).  In  addition,  there  were  three  tasks  involving  separation  from  a  care-
+giver  due  to  unexpected  relocation.  Given  previous  research  (e.g.,  Symons  et  al.,
+1997), it was expected that performance on all of these kinds of tasks would be above
+chance for 5-year-old children, but there would still be enough variability to examine
+individual difference questions. Given that caregiver location tasks had embedded rela-
+tionship constructs and were potentially more emotionally salient (as in Fonagy et al.,
+1998), it was hypothesised that performance would be lower relative to tasks involv-
+ing objects. Predictive models were also expected to be better for caregiver location
+tasks because of relevance to relationship processes. Finally, it was felt that a verbal
+IQ control measure did not have to be included because the tasks were acted out with
+age-appropriate play materials and no verbal responses were required of participants.
+Given age effects on theory of mind indices, age at the time of assessment of false
+beliefs was taken into consideration.
+
+Method
+
+Participants
+
+Forty-six mothers and their children (20 girls, 26 boys) followed since birth (Symons
+&  McLeod,  1994)  were  observed  when  children  were  two  years  of  age  (M = 25.1
+months, SD = 1.09, range = 23 to 28), and again when children were around ﬁve years
+of  age  (M = 69.5  months,  SD = 4.08).  Most  children  ranged  in  age  from  64  to  74
+months at the latter age. However, due to scheduling problems, three children were
+outside this age range, and so the complete range was actually 54 to 81 months. Of
+the 57 mother-child pairs seen at age two, we were able to re-contact 48 of these by
+telephone,  and  only  two  (4%)  declined  participation  due  to  other  demands  on 
+their time.
+
+Eighteen (39%) of the children were ﬁrst born. At age ﬁve, three children had no
+siblings,  19  had  one  sibling,  and  24  had  more  than  one  sibling. Thirty-three  (72%)
+children had experienced the birth of at least one younger sibling between the age two
+and ﬁve contacts. Infant medical histories were unremarkable.
+
+Forty-one (89%) of the mothers remained married to or living with the child’s father
+by age ﬁve and the other ﬁve headed single-parent families. The numbers of mothers
+in  part-time  and  full-time  employment  using  20  hours/week  as  a  cut-off  were  20 
+and 26 at both ages. Mothers and fathers had a wide SES range at age ﬁve (Blishen,
+Carroll,  &  Moore,  1987),  and  a  family  SES  measure  was  calculated  as  an  average 
+of SES scores in dual-earner families and as the single score in single-earner families
+(M = 44.3,  SD = 13.7,  Range  23.4  to  78.3).  For  three  families,  neither  parent 
+was  employed,  so  a  Blishen  score  could  not  be  assigned.  Mothers  were  28  to  42 
+(M = 33.72) years of age and fathers’ ages ranged from 28 to 49 (M = 35.69). The
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+8 Douglas K. Symons and Sharon E. Clark
+
+participants  all  spoke  English  as  a  ﬁrst  language  and  were  exclusively  Caucasian,
+which is typical of the population base of this region of rural Nova Scotia.
+
+Procedure and Measures
+
+Two 1.5- to 2-hour visits were conducted with each mother-infant pair at both ages.
+The two visits at each age were scheduled to occur within two weeks of one another.
+At  age  two,  they  consisted  of  a  laboratory  and  home  visit  (see  Symons,  1998-b;
+Symons, Noiles, & Richards, in press), and at age ﬁve, this consisted of two home
+visits. On six (13%) occasions at age two and nine (19.6%) occasions at age ﬁve, a
+single 3-hour home visit was used to collect data due to distant travel. Home visits
+occurred  at  a  time  when  there  would  be  minimal  distraction  from  other  family
+members.
+
+Maternal emotional distress. A number of self-report measures were completed by
+mothers  to  assess  maternal  depressive  symptoms,  state  and  trait  anxiety,  parental
+stress, coping behavior, and social support at each age. All mothers completed all of
+these measures at age two. Time constraints due to new occupations, family stressors,
+and health reasons, however, resulted in only 41 mothers completing all of these ques-
+tionnaires at age ﬁve. Symons (1998-a) has shown that maternal report measures of
+depression,  coping,  social  support,  and  anxiety  are  all  interrelated  in  a  predictable
+fashion, and can be factor-analysed into an aggregate of ‘maternal emotional distress’.
+Given the importance of trait anxiety reports to this factor, this construct may also be
+representative of negative affectivity in parenting (Watson & Clark, 1984). Measures
+were as follows:
+
+The Centre for Epidemiological Studies Depression Scale (CES-D; Radloff, 1977)
+is  a  20-item  self-report  scale  designed  to  assess  depressive  symptomatology  in  the
+general population in which scores range from 0 to 60. Items assess different symp-
+toms of depression such as appetite loss, depressed mood, sleep disturbances, and dif-
+ﬁculty in concentrating according to how the individual felt during the week prior to
+the assessment. The mean CES-D scores at both age two (M = 7.47, SD = 6.01, Range
+= 0 to 25) and ﬁve (M = 5.67, SD = 7.34, Range = 0 to 32) were within the normal
+range. The number of women scoring in the clinical elevation range of 16 or above
+was 6 and 3 for age two and ﬁve, respectively, and the correlation of scores between
+the ages was r (42) = .47, p < .01.
+
+Situational  and  dispositional  anxiety  were  assessed  using  the  State-Trait Anxiety
+Inventory-Form Y (STAI; Spielberger, Gorsuch, Lushene, Vagg, & Jacobs, 1983) which
+incorporates 20 items descriptive of current and dispositional intensity of anxiety. This
+measure has been widely used to assess state and trait anxiety, and the authors report
+good  internal  consistency,  reliability,  and  validity  information  on  the  measure. The
+trait subscale has been described as the best single measure of negative affectivity in
+adults (Watson & Clark, 1984).
+
+Stress  more  speciﬁc  to  the  parent-child  relationship  was  assessed  using  the 
+Parenting  Stress  Index-Form  6 (PSI;  Abidin,  1990).  The  Parent  Domain  examines 
+the  parental  characteristics  and  family  context  variables  thought  to  have  an  impact 
+on  competent  parental  functioning. The  Child  Domain  examines  a  child’s  tempera-
+ment characteristics and parents’ perception of the impact that a given temperament
+has  on  them,  and  scores  are  reported  in  percentiles.  The  correlations  between  the 
+two ages were signiﬁcant for both the child and parent domains, both r’s (42) = .64,
+p < .001.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+9
+
+Coping resources were assessed using the Coping Inventory for Stressful Situations
+(CISS; Endler & Parker, 1991), which is a self-report scale of 48-items of how people
+react to various difﬁcult, stressful, or upsetting situations. Items are evenly distributed
+amongst  three  coping  styles  that  are  task-,  emotion-,  and  avoidance-oriented.  Only
+task-oriented and emotion-oriented coping were used because of their close concep-
+tual  relationship  to  emotional  adjustment.  The  authors  describe  how  anxious  and
+depressed  samples  usually  score  high  in  emotion-oriented  coping  (e.g.,  get  angry,
+become  very  upset)  and  low  in  task-oriented  coping  with  stress  (e.g.,  schedule  my
+time better, think about how I have solved similar problems). All items were rated on
+a  ﬁve-point  Likert  scale  ranging  from  ‘not  at  all’ to  ‘very  much’,  and  scores  are
+reported as T-scores.
+
+To  further  assess  resources,  social  support  was  assessed  from  a  rating  scale 
+of  Crockenberg  and  Litman  (1991).  Using  a  10-point  scale  ranging  from  1  (about 
+as  bad  as  it  can  get)  to  10  (perfect),  mothers  rated  their  degree  of  satisfaction 
+with three aspects of social support (i.e., childcare, emotional, and household). These
+were averaged to provide a single score out of 10 at age two (M = 7.52, SD = 1.77,
+Range = 3 to 10) and ﬁve (M = 7.65, SD = 1.62, Range = 2 to 10). Adequate internal
+consistencies  for  this  measure  were  found  in  the  current  study  (age  two  and  ﬁve 
+alphas  = .73  and  .71,  respectively),  as  well  as  by  Crockenberg  and  Litman  (1991)
+(alpha = .78).
+
+Observations of attachment security and maternal sensitivity. Attachment security
+was  assessed  at  age  two  and  ﬁve,  and  maternal  sensitivity  was  assessed  at  age  two
+using  two  complementary  Q-sort  measures  completed  by  two  observers  trained
+according  to  the  procedures  outlined  in  Pederson  and  Moran  (1995)  and  consistent
+with the AQS Advisor (Waters, 1997). The Attachment Behavior Q-set (AQS; Waters,
+1987; Waters et al., 1995) is a naturalistic assessment technique used to evaluate the
+attachment relationship between a mother and her infant. The AQS is a 90-item set of
+cards referring to speciﬁc infant secure-base and related behaviors as well as relevant
+contexts, with opposite behaviors being deﬁned in italics if needed. Observers place
+cards in nine piles of ten ranging from most unlike to most like the observed child,
+and the resulting attachment score is the correlation between the sort descriptive of
+the  observed  child’s  behaviors  and  a  criterion  sort  of  the  prototypically  securely
+attached infant. Interobserver reliability was very high at both age two, r (45) = .84,
+p < .001, and age ﬁve, r (45) = .74, p < .001. In preliminary analyses, we found mod-
+erate stability between average AQS scores at the two ages, r (45) = .44, p < .01, and
+high  reliability  for  the  relative  judgements  on  speciﬁc  behaviors  at  each  age  (for
+further details see Symons et al., 1998).
+
+The  Maternal  Behavior  Q-sort (MBQ; Pederson et al., 1990)  is an observational
+measure modelled after the AQS and designed to determine the parental sensitivity of
+a mother toward her child. The MBQ has high concurrent validity with the AQS and
+other measures of dyadic functioning (see also Pederson & Moran, 1995). Using 90
+descriptive cards, a measure is taken of a mother’s ability to perceive, identify, and
+respond consistently and accurately to signals from her child. Sorting procedures of
+the  MBQ  are  similar  to  those  of  the AQS. The  MBQ  items  consist  of  referents  to
+maternal behavior that are indicative of either high or low levels of sensitive parent-
+ing, whereas the AQS referents are of infant behaviors more or less indicative of secure
+base behavior. The MBQ sensitivity score is the correlation between the sort descrip-
+tive  of  the  observed  mother’s  behavior  and  the  criterion  sort  of  the  prototypically 
+sensitive  mother  (see  Pederson  et  al.,  1990).  In  the  current  data,  there  was  high 
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+10 Douglas K. Symons and Sharon E. Clark
+
+interobserver  agreement  between  the  MBQ  sorts  of  the  two  observers  at  age  two, 
+r (45) = .80, p < .0001.
+
+Observations  of  attachment  security  and  sensitivity  at  age  two  were  completed 
+independently  and  blind  to  the  questionnaire  data  by  both  observers.  The  order 
+that  the  sorts  were  completed  was  randomly  determined  for  each  observer. At  age 
+ﬁve, both observers completed the AQS, but the MBQ was not completed because age
+two  is  the  upper-end  of  its  age-range.  During  each  home  visit,  both  researchers
+attended to the infant and mother, particularly during naturally occurring separations
+and reunions, as well as when the child was competing for his or her mother’s atten-
+tion. Q-sorts were completed within two days of the completion of the last home visit
+at each respective age.
+
+At age two, the ﬁrst visit included an employment interview administered by one
+researcher, with the other researcher serving as a second observer. At age ﬁve, during
+the  ﬁrst  visit  an  employment  interview  was  again  administered  by  one  researcher,
+while the other conducted false belief tasks in a separate area of the home such as the
+kitchen. On the second visit, the mothers and their children were asked to play a game
+(‘Guess Who’ © Hasbro Co.) in order to give them a structured play task in addition
+to whatever unstructured interactions they had planned on their own. Finally, a small
+number of supplemental questions were used at each age to gather information about
+behavior that could not be observed.
+
+At age two, both observers were blind to false belief performance, but at age ﬁve,
+only one observer was blind. At age two, ﬁve different observers were involved in data
+collection.  At  age  ﬁve,  four  researchers  shared  the  observation  duties,  and  in  ﬁve
+instances, an observer saw the same dyad at age ﬁve and age two. In this small number
+of cases, however, this person did not administer the false belief tasks, remained blind
+to that data, and reported no recollection of the behavioral dynamics of the dyad they
+had seen three years previous.
+
+Attachment security at age ﬁve was the AQS score from the sort of the observer
+blind to false belief performance. At age two, independence between attachment secu-
+rity and maternal sensitivity sorts was obtained by using the AQS sort of a randomly
+determined observer, and the MBQ sort of the other observer for that particular dyad.
+For  all  subsequent  data  analyses,  Fisher  r  to  z transformations  were  conducted  on
+scores for each age. This is appropriate when a dependent variable is a correlation sta-
+tistic, and in addition, this provides correction to the negative skew of the Q-sort dis-
+tribution that is typically found (see Waters et al., 1995; Waters & Deane, 1985). There
+were wide ranges of scores for attachment security at age ﬁve (M = .50,  SD = .23,
+Range = -.15 to .93) and two (M = .42, SD = .27, Range = -.13 to 1.07), and mater-
+nal sensitivity at age two (M = .76, SD = .36, Range = -.07 to 1.33).
+
+False belief tasks. Tasks were used to assess false beliefs children may hold for the
+identity of objects, the location of objects, and the location of caregivers. The three
+sets of tasks were administered in a randomly determined order. Six Object Identity
+tasks were similar to appearance-reality tasks of Gopnik and Astington (1988; see also
+Flavell, Greene, & Flavell, 1986). In these well-known types of false belief tasks, chil-
+dren were sequentially given six objects whose real identity or logical contents of a
+container differed from their apparent identities or actual contents. There was also a
+preceding  warm-up  item  for  task  familiarisation.  Items  were  as  follows:  (1)  an  egg
+carton  containing  forks  and  not  eggs;  (2)  a  Smarties  box  containing  rocks  and  not
+Smarties; (3) a candle that looks like an apple; (4) an eraser that looks like a magic
+marker; (5) a milk carton that contains water; and, (6) a ﬂashlight that looks like a
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+11
+
+pen.  In  each  item,  a  child  was  shown  an  object  (e.g.,  a  box  of  smarties)  and  asked
+what they thought it was or what it contained before they were allowed to discover its
+real identity or contents (e.g., the box really contains rocks). Participants were asked
+whether another child could hold a different representation of the object than them-
+selves to assess false belief (e.g., ‘Another boy/girl hasn’t seen this before, what will
+he/she think it is when he/she ﬁrst sees it, Smarties or rocks?’). Children were also
+asked what their previous beliefs were to assess representational change (e.g., ‘What
+did you think was in the box before we opened it, rocks or Smarties?’). Protocols for
+these and other tasks are available from the ﬁrst author.
+
+Children correctly identiﬁed the object when it was initially presented on a small
+number of occasions (29/276 = 10%). One child correctly guessed that the Smarties
+box  contained  rocks,  four  children  correctly  knew  water  was  in  the  milk  container,
+one recognised the eraser, six identiﬁed the apple as a candle, and seventeen recog-
+nised the ﬂashlight. These items were omitted. False belief scores across the remain-
+ing eligible items had high internal consistency according to Cronbach’s alpha = .77.
+The six object identity tasks were administered to each child in a random order, and
+the summary score consisted of the average number of eligible items that were passed,
+i.e., were consistent with a correct understanding of false belief.
+
+Two Object Location tasks were developed from Wimmer and Perner’s (1983) unex-
+pected transfer task, also known as the ‘Maxi task’ (Moses & Flavell, 1990; Perner,
+Leekam, & Wimmer, 1987). In the two tasks acted out with DUPLO and LEGO mate-
+rials, a gender- and age-matched central character (e.g., ‘Sara’) hides an object (e.g.,
+a toy radio) and leaves the room, a foil (e.g., a monkey) relocates the object, and the
+character returns to the scene. The settings for the two stories were a bedroom- and
+kitchen-setting. The children were then given the character and asked the following
+sequence of questions (taken from the kitchen-setting task): (1) Show me what Sara
+will do next. (false belief question: does Sara search where the toy was left or where
+it actually is?); (2) Where will Sara look for the toy radio? (back up false belief ques-
+tion: necessary only if Sara did not look for the toy radio after the open ended prompt);
+? (emotional justiﬁca-
+(3) Show me how Sara feels right now. Why does Sara feel 
+tion control question: is emotion related to salient features of the task?); (4) Where
+did Sara leave her radio? (ﬁrst memory control question); (5) Where did the monkey
+put the radio? (second memory control question); and (6) Was Sara in the room or
+outside when the monkey switched the toys? (third memory control question). A face-
+board was available for question three, and children identiﬁed the emotion by point-
+ing to one of six photographs of a same-age child modelling a happy, sad, surprised,
+neutral, scared, and angry face.
+
+Those children that had the character search where they had originally left the object
+were  scored  to  have  a  correct  understanding  of  false  belief,  and  those  who  looked
+where the object actually was, were not. An object location item was scored as a pass
+only if participants also answered three of the four control questions properly to control
+for tasks passed by chance. In each object location task, objects could be hidden from
+view in a variety of small drawers and boxes. Two distinct locations on either side of
+each setting were used and locations of objects were counterbalanced. Although per-
+formance on these tasks was unrelated (f = .20, p = .20), this may have been due to
+a  low  base  rate  of  task  failure.  Scores  were  aggregated  and  the  object  location
+summary score consisted of the percentage of tasks that were passed.
+
+The three Caregiver Location tasks were modelled after the object location tasks,
+had the same format, and were acted out with LEGO characters and materials (Symons
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+12 Douglas K. Symons and Sharon E. Clark
+
+et al., 1997). The difference from object location tasks was that, in these tasks, searches
+took place for a parent-character rather than an object, and situations therefore incor-
+porated separation of a child-character from their parent in home, beach, and cloth-
+ing store change room settings. Mother-characters were used in the tasks to activate
+attachment behavior that may be speciﬁc to that parent because the speciﬁc predictor
+variables were relevant to mothers.
+
+An  example  of  a  script  from  the  home  setting  is  as  follows.  A  gender-  and 
+age-matched central character (e.g., ‘Julie’) is alone with his or her mother gardening
+at  the  front  of  the  house. The  mother  says  she  has  to  get  a  garden  hose  at  the  left 
+side of the house and goes around the side of the house in that direction. However,
+the  mother  ﬁnds  the  hose  missing  and  unknown  to  Julie,  moves  around  the  back 
+of  the  house  to  a  hidden  location  on  the  right  side  of  the  house.  Participants  were 
+then handed the character and asked the following sequence of questions: (1) Show
+me what Julie will do next. (false belief question: does Julie search where the mother
+initially  went  to  before  or  after  searching  where  she  actually  is?);  (2)  Julie  needs  a
+drink—where  will  Julie  now  look  for  her  mother?  (back  up  false  belief  question: 
+necessary  only  if  Julie  does  not  initially  look  for  her  mother  after  the  open  ended
+? (emotional
+prompt); (3) Show me how Julie feels right now. Why does Julie feel 
+justiﬁcation  control  question:  is  emotion  related  to  salient  features  of  the  task?); 
+(4)  Where  did  Julie’s  mother  ﬁrst  look  for  the  garden  hose?  (ﬁrst  memory  control 
+question); (5) When it wasn’t there, where did her mother look for the hose? (second
+memory  control  question);  and  (6)  Was  Julie  with  her  mother  when  her  parent 
+went  to  look  for  the  hose?  (third  memory  control  question).  The  emotional  justi-
+ﬁcation  control  question  was  administered  in  the  same  fashion  as  for  Object 
+Location tasks.
+
+All children had the character initiate a search for their mother within 20-sec and
+all eventually ‘found’ her. The way in which they searched, however, indicated whether
+they had passed the task. Children who had the character initially search in the wrong
+place (e.g., go around the left side of the house where the mother was supposed to be)
+answered  consistent  with  an  understanding  of  false  belief.  Those  who  incorrectly
+searched for the parent on the right side of the house where the parent actually was,
+did not. The sequence of searching in these two locations therefore dictated perfor-
+mance and it did not inﬂuence scoring if the participant directed the character to search
+somewhere irrelevant during the task (e.g., behind a bush in the garden or look in the
+windows to the house). Also, entry to the house was not permitted, i.e., the doors were
+taped shut. As before, an item was included as a pass only if participants answered
+three of the four control questions properly.
+
+The two possible locations of the mother at the beach were a phone booth and ice
+cream stand. The change room task story line was somewhat different. The child was
+with their mother at a change room of a clothing store, went off to get a different shirt
+to try on, and then in their absence, a janitor came to clean the change room and relo-
+cated the mother from one change room to another. When the janitor was done and
+had  left,  the  character  returned.  Where  they  sought  his  or  her  mother  was  used  to
+assess false belief understanding. The change rooms were actually boxes with doors
+that could be opened and closed.
+
+Locations within each task were randomly counterbalanced and task sequence was
+randomised. There was modest internal consistency between these three tasks (Cron-
+bach’s alpha = .48). Data were collapsed across the three settings and the caregiver
+location summary score consisted of the average number of these tasks passed.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+13
+
+Results
+
+Performance on False Belief Tasks
+
+Table  one  contains  the  percentages  of  children  passing  individual  tasks  as  well  as
+means and standard deviations of summary scores for each type of task. All summary
+scores ranged from 0% to 100%. A repeated measures analysis of variance (ANOVA)
+was conducted on summary scores to show that performance varied across task type,
+F(2,44) = 9.4, p < .001. Children performed signiﬁcantly above chance of .5 for object
+identity and object location tasks, but most importantly, there were large and compa-
+rable variances for each of the distributions despite different levels of performance.
+This was important given variance in scores was necessary for predictive models to
+be investigated later.
+
+Follow up paired t-tests showed that as expected, children did more poorly on care-
+giver location tasks than either object identity tasks, paired t(45) = 3.19, p < .01, or
+object location  tasks,  paired  t(45) = 4.30,  p < .001. Performance on object identity
+and object location tasks did not differ at the p < .05 level.
+
+It was possible that performance differences were inﬂuenced by the actual age of
+children at age ﬁve, given the wide range in months. The above analysis was rerun
+with task type as a within factor and age entered as a covariate. Age failed to be a sig-
+niﬁcant covariate, however, and the same pattern of task differences was found. The
+impact  of  siblings  on  false  belief  task  performance  was  also  examined  given  that 
+some studies have found a positive relationship between performance and number of
+
+Table 1. False Belief Performance for Individual Tasks and Summary Scores
+
+% of children
+passing tasks
+
+Mean
+
+SD
+
+Object identity
+
+Egg carton/forks
+Smarties box/rocks
+Candle/apple
+Eraser/magic marker
+Milk carton/water
+Flashlight/pen
+Summary score
+
+Object location
+
+Kitchen-setting/toy radio
+Bedroom-setting/marble
+Summary score
+
+Caregiver location
+
+Home
+Beach
+Clothing store change room
+Summary score
+
+71.7
+75.6
+77.5
+91.1
+90.5
+89.7
+
+84.8
+87.0
+
+56.5
+52.2
+71.7
+
+.81a
+
+.86a
+
+.29
+
+.27
+
+.60b
+
+.34
+
+Note. Means designated by different subscripts are different according to paired t-tests p < .05.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+14 Douglas K. Symons and Sharon E. Clark
+
+siblings, and particularly older siblings. Number of siblings was unrelated to any of
+the  three  performance  measures  (all  p’s >.  05).  In  addition,  whether  a  child  had  an
+older sibling or not was entered as a between factor into a mixed ANOVA with per-
+formance  as  a  within  factor  as  before. Again,  performance  differed  between  tasks
+F(2,43) = 6.75, p < .01 but neither the between-effect of siblings, F(1,44) = .89, p =
+.35, nor the task type X sibling interaction, F(2,43) = .78, p = .46, were signiﬁcant.
+False  belief  task  performance  appeared  to  be  independent  from  sibling  variables,
+although it is acknowledged that there was limited power to detect a relation with a
+small effect size.
+
+Maternal Emotional Distress
+
+The next goal was to create measures of maternal emotional distress at two and ﬁve
+years of age to simplify prediction models and create a more diverse construct of dis-
+tress than provided by any single measure. Principal axis factoring with VARIMAX
+rotation was undertaken of age two data, and only one factor was obtained with an
+eigenvalue greater than or equal to 1. The factor represented the anticipated emotional
+distress factor and accounted for 53.1% of the variance. Table two shows the factor
+loadings  that  were  high  for  trait  and  state  anxiety,  depressive  symptoms,  emotion-
+oriented coping, parent domain stress, and child domain stress, and low for task-ori-
+ented coping and social support. Maternal emotional distress at age two became the
+normalized score on this factor, with relatively high scores indicating relatively more
+distress, and less social support and effective coping strategies.
+
+This  analysis  was  repeated  on  the  same  set  of  measures  at  age  ﬁve  to  derive  a
+measure of maternal emotional distress at that age. The factor analysis resulted in a
+ﬁrst  factor  that  accounted  for  55.7%  of  the  variance,  and  table  two  shows  that  the
+factor loadings were almost identical to those of age two, with the exception of child
+domain  stress  that  no  longer  contributed  to  the  factor. The  normalized  factor  score
+represented maternal emotional distress at age ﬁve.
+
+Table  2. Factor  Analysis  of  Maternal  Emotional
+Adjustment Measures at Age Two and Five
+
+Two years
+(n = 46)
+
+Five years
+(n = 41)
+
+Variable
+
+Trait anxiety
+State anxiety
+Depressive symptoms
+Task-oriented coping
+Emotion-oriented coping
+Social support
+Parent domain stress
+Child domain stress
+
+Eigenvalue
+Percent variance explained
+
+.90
+.79
+.88
+-.52
+.56
+-.53
+.81
+.72
+4.25
+53.10
+
+Note. Numbers represent factor loadings.
+
+.87
+.89
+.91
+-.66
+.36
+-.54
+.42
+-.02
+4.45
+55.70
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+15
+
+Preliminary Correlations
+
+Intercorrelations  of  age  two  and  ﬁve  measures  are  presented  in  table  three.  As
+expected,  attachment  security  at  age  two  was  highly  positively  related  to  maternal 
+sensitivity  and  negatively  related  to  emotional  distress  at  the  same  age.  Emotional 
+distress  showed  strong  continuity  between  the  two  ages.  Contrary  to  expectations,
+maternal sensitivity was not signiﬁcantly related to emotional distress at either of the
+ages, although there was a trend (p < .10) at age two with relatively more distressed
+mothers being rated as less sensitive.
+
+As predicted, participants scoring higher on caregiver location tasks at age ﬁve had
+mothers rated as relatively more sensitive at age two. There was also a trend (p = .08)
+for caregiver location to be related to emotional distress such that those children who
+passed tasks at age ﬁve were relatively more likely to have mothers with higher emo-
+tional distress at age two. Contrary to expectations, however, there were no signiﬁcant
+correlations between attachment security at either of the ages and caregiver location
+performance.  Object  location  summary  scores  were  positively  related  to  concurrent
+attachment  security,  but  unrelated  to  maternal  sensitivity  or  attachment  security  at 
+age two.
+
+Table three also contains intercorrelations of the three different false belief summary
+scores, and none of these were signiﬁcant. Finally, age was related to false beliefs for
+object identity tasks with older children being more likely to pass the tasks.
+
+Predicting False Beliefs from Age Two and Five Variables
+
+For each of the three types of false belief tasks, two hierarchical regression analyses
+were conducted to examine the contribution of age two and age ﬁve variables. Crite-
+rion variables therefore consisted of object identity, object location, and caregiver loca-
+tion summary scores. In all analyses, actual age at age ﬁve was entered in the ﬁrst step
+in order to eliminate any contributions of age. In the ﬁrst set of analyses, the age two
+predictor variables of attachment security, maternal sensitivity, and maternal emotional
+distress were entered at the second step. Age ﬁve attachment security was entered at
+
+Table 3. Correlation Matrix of Measures
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Age Two Measures
+1. Attachment security
+2. Maternal sensitivity
+3. Maternal emotional distress
+
+Age Five Measures
+4. Child’s age in months
+5. Attachment security
+6. Maternal emotional distress
+7. False belief object identity
+8. False belief object location
+9. False belief caregiver location
+
+— .70***
+
+—
+
+-.36**
+-.26+
+—
+
+.04
+.06
+.05
+
+.38**
+.19
+-.29*
+
+-.02
+-.03
+.60***
+
+.02
+.10
+.02
+
+— -.13
+
+—
+
+-.08
+.03
+
+—
+
+.37**
+.06
+.01
+—
+
+.23
+.10
+-.03
+
+.15
+.30*
+.14
+.04
+
+—
+
+.16
+.35*
+.27+
+
+.01
+.06
+.20
+-.01
+.14
+
+—
+
+Note. n = 46 for all correlations except those with emotional adjustment at age ﬁve where n = 41.
++ p < .10, * p < .05, ** p < .01, *** p < .001.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+16 Douglas K. Symons and Sharon E. Clark
+
+the third step. This sequence maximised predictive power of antecedent variables. In
+the second set of analyses, steps two and three were reversed. This maximised the pre-
+dictive power of age ﬁve attachment security and determined if age two variables pre-
+dicted criterion variables after controlling for concurrent attachment security. Age ﬁve
+maternal emotional distress was omitted from regression analyses for three reasons:
+it was unrelated to any of the criterion variables, there were missing data points for
+this  variable,  and  the  number  of  predictor  variables  needed  to  be  minimised. Table
+four contains summary data of the respective regression analyses.
+
+Consistent with bivariate correlations, children’s actual age at the time of the ﬁve-
+year assessment predicted a signiﬁcant amount of variance in object identity perfor-
+mance.  However,  after  age  was  incorporated  into  the  two  equations  with  different
+sequences of entry, there were no other age two or ﬁve variables which predicted a
+signiﬁcant amount of variance in scores regardless of the order of entry.
+
+Age did not predict a signiﬁcant amount of variance of object location performance.
+The subsequent pattern of results was only modestly affected by order of entry. When
+age ﬁve attachment security was entered at the second step, the predictive equation
+became signiﬁcant as attachment security accounted for additional 11% of the vari-
+ance. The beta indicated that children with higher concurrent security scores had better
+performance,  even  after  age  was  controlled. Age  two  predictors,  however,  failed  to
+predict additional variance. This pattern was weaker when steps two and three were
+reversed. Object location was not predicted by age two variables at step two. Age ﬁve
+attachment security predicted an additional 7% of the variance when entered at step
+three, which was signiﬁcant at the p < .10 level.
+
+Caregiver location was not predicted by age at step one. Age ﬁve attachment secu-
+rity also failed to predict caregiver location regardless of whether this was entered at
+step two or three of the equations. Age two variables, however, predicted an additional
+26% of the variance when entered at step two of the equation, and 28% of the addi-
+tional variance when entered at step three. An examination of the betas showed that
+this was due to signiﬁcant prediction of both maternal sensitivity and maternal emo-
+tional distress, but not age two attachment security. Mothers who were relatively more
+sensitive  and  in  more  emotional  distress  at  age  two  had  children  perform  better  on
+caregiver location tasks three years later. This prediction was independent of attach-
+ment security at either age, as well as variance in age at age ﬁve.
+
+Discussion
+
+The present study examined individual differences in performance on theory of mind
+tasks using Q-sort observations of attachment security and maternal sensitivity, as well
+as an aggregate of maternal emotional adjustment as predictors. Object location task
+performance  was  related  to  the  concurrent  home-based  observational  measure  of
+attachment  security. This  ﬁnding  is  consistent  with  the  other  recent  cross-sectional
+studies  that  have  related  security  to  false  belief  performance  (Fonagy  et  al.,  1997),
+metacognitive  skills  (Moss  et  al.,  1997),  and  emotional  understanding  (Laible  &
+Thompson, 1998). Contrary to expectations, attachment security and maternal sensi-
+tivity at age two did not predict object location task performance.
+
+Developmental relations were evident, however, for unintended transfer tasks that
+were modiﬁed to incorporate separation from a caregiver instead of a misplaced object
+as  in  object  location  tasks.  Sensitive  parenting  and  maternal  emotional  distress  in
+infancy were predictive of caregiver location performance at age ﬁve. These data are
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+ 
+
+©
+B
+l
+a
+c
+k
+w
+e
+l
+l
+ 
+
+P
+u
+b
+l
+i
+s
+h
+e
+r
+s
+ 
+L
+t
+d
+
+.
+ 
+
+2
+0
+0
+0
+
+S
+o
+c
+i
+a
+l
+ 
+
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+,
+ 
+
+9
+
+,
+ 
+
+1
+
+,
+ 
+
+2
+0
+0
+0
+
+Table  4. Hierarchical  Regressions  Performed  on  Object  Identity, Object  Location, and  Caregiver  Location  Summary  Score 
+Criteria
+
+Criteria
+
+Step Variable (at age)
+
+R2
+
+R2inc
+
+b
+
+t
+
+R2
+
+R2inc
+
+b
+
+t
+
+R2
+
+R2inc
+
+b
+
+t
+
+Object Identity
+
+Object Location
+
+Caregiver Location
+
+1
+2
+
+3
+
+1
+2
+3
+
+Child age in months (5)
+Attachment security (2)
+Emotional distress (2)
+Maternal sensitivity (2)
+Attachment security (5)
+
+Child age in months (5)
+Attachment security (5)
+Attachment security (2)
+Emotional distress (2)
+Maternal sensitivity (2)
+
+.14**
+.15
+
+.14
+.01
+
+.17
+
+.02
+
+.14**
+.15*
+.17
+
+.14
+.01
+.02
+
+.368
+-.074
+.046
+.138
+.159
+
+.368
+.114
+-.141
+.074
+.162
+
+2.63**
+-.35
+.30
+.68
+.99
+
+2.63**
+.80
+-.64
+.47
+.80
+
+Note. + p < .10, * p < .05, ** p < .01, *** p < .001.
+
+.02
+.06
+
+First set of equations
+.02
+.150
+.329
+.08
+.059
+-.121
+.292
+
+.15
+
+.07
+
+Second set of equations
+.02
+.13*
+.15
+
+.02
+.11
+.02
+
+.150
+.323
+.205
+.111
+-.078
+
+.00
+.26**
+
+.00
+.26
+
+.28*
+
+.02
+
+.00
+.00
+.28*
+
+.00
+.00
+.28
+
+1.00
+1.52
+.37
+-.58
+1.79+
+
+1.00
+2.24*
+.93
+.70
+-.38
+
+.006
+-.049
+.376
+.484
+.124
+
+.006
+.065
+-.101
+.398
+.503
+
+.04
+-.25
+2.61**
+2.58**
+.83
+
+.04
+.43
+-.49
+2.71**
+2.65**
+
+R
+e
+l
+a
+t
+i
+o
+n
+s
+h
+i
+p
+s
+ 
+
+ 
+
+a
+n
+d
+T
+h
+e
+o
+r
+y
+ 
+
+o
+f
+ 
+
+M
+i
+n
+d
+
+1
+7
+
+18 Douglas K. Symons and Sharon E. Clark
+
+thus  informative  to  a  growing  base  of  research  examining  how  various  features  of
+parent-child relationships predict later indices of a theory of mind (see Dunn et al.,
+1991; Fonagy et al., 1998; Meins, 1997; Meins et al., 1998). Even though attachment
+security and maternal sensitivity are very highly related when assessed using comple-
+mentary Q-sort observations (e.g., Pederson et al., 1990; Symons et al., in press), the
+current  data  point  to  a  generalised  measure  of  sensitive  parenting  as  being  a  better 
+predictor of performance than either antecedent or concurrent attachment security.
+
+Maternal  sensitivity  is  a  critical  aspect  of  the  relationship  a  mother  has  with  her
+child, and encompasses parental warmth and acceptance, availability for interactions,
+and appropriate responsiveness within social interchange (e.g., Ainsworth et al., 1978;
+DeWolfe & van IJzendoorn, 1997). Sensitive behavior by a mother means she is avail-
+able  for  interactions,  cognisant  of  child  needs,  and  meets  these  needs  in  a  timely, 
+unintrusive, and appropriate fashion. Maternal sensitivity is also dependent on both
+relationship  partners.  Child  behavioral  characteristics  contribute  to  the  degree  of
+harmony within parent-child interactions (e.g., Seifer, Schiller, Sameroff, Resnick, &
+Riordan, 1996; Vaughn et al., 1992), i.e., some children may be harder to be sensitive
+to than others.
+
+A child presumably comes to learn something about his or her own mother’s desires
+and intentions based on the history of caregiving exchanges, and these may be par-
+ticularly  evident  during  structured  tasks.  Sensitivity  has  most  often  been  examined 
+as  a  precursor  to  attachment  security. Thompson  (1997),  however,  described  it  as  a
+catalyst for psychosocial growth through the conﬂict of intention and desires between
+parents  and  children,  and  Bowlby  (1969/82)  suggested  that  within  a  goal-corrected
+partnership, a child acquires insight into his or her mother’s feelings and motives. The
+ﬁnding that maternal sensitivity at age two predicts theory of mind at age ﬁve is con-
+sistent with a Vygotskian approach as mothers who are sensitive may behave within
+a ‘zone of proximal development’ of the infant. Sroufe (1996) suggested that children
+who have experienced responsive relationships are more likely to view relationships
+in these terms and be empathic to the perspective of others. This may be fundamen-
+tal to theory of mind acquisition.
+
+In this study, maternal sensitivity was examined based on three to four hours of rel-
+atively  unstructured  home  contact.  Others  have  more  closely  examined  sensitivity
+during speciﬁc learning tasks. Meins (1997; see also Meins et al., 1998) operational-
+ized sensitivity as a mother making appropriate modiﬁcations to her instruction based
+on the performance of her 3-year-old child during a tutoring task, and found this pre-
+dicted performance on an unintended transfer task at age four (r = .42). She concluded
+that  maternal  ‘mind-mindedness’,  that  is,  awareness  of  the  mental  states  of  others,
+could explain why sensitivity could relate to children’s subsequent understanding of
+the  minds  of  others.  Given  the  potential  relation  between  social  understanding  and
+metacognitive awareness, this is further supported by other work that has related insen-
+sitive parenting to metacognitive deﬁcits in children (Main, 1991; Moss et al., 1997).
+It is possible that sensitive parenting is more metacognitive because it includes reﬂec-
+tion on child behavior and potential motives, and if these are verbalised, then the parent
+is modelling this kind of reﬂection as they ‘think aloud’ about child behavior. Fonagy
+et al. (1998) advanced a similar explanation to account for the relation found in their
+study  between  attachment  security  and  theory  of  mind  acquisition. They  suggested
+that the caregiver’s capacity to observe the moment-to-moment changes in the child’s
+mental state is critical to mentalising capacity and theory of mind of the child (see
+Fonagy et al., 1997). In the current study, sensitivity was related to caregiver location
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+19
+
+tasks but not those involving objects, which replicates the null-ﬁndings of Dunn et al.
+(1991-b)  between  indices  of  parent-child  responsiveness  and  performance  on  false
+belief tasks involving objects.
+
+There was some evidence that mothers who were in more emotional distress at two
+years of age had infants more likely to pass caregiver location tasks at ﬁve years of
+age, and this relation was independent of security, sensitivity, and emotional adjust-
+ment at  age  ﬁve. This ﬁnding  seemed  to be a function of trait anxiety and the per-
+sonality characteristic of negative affectivity (Watson & Clark, 1984). This is the ﬁrst
+study  to  examine  parental  distress  as  an  individual  difference  variable  in  theory  of
+mind acquisition, so the ﬁndings are in need of replication and interpretations are nec-
+essarily speculative. Individuals low in negative affectivity are known to be decisive,
+calm, secure, and generally in a low state of tension or turmoil, and speciﬁc items on
+the trait anxiety scale address these very issues (see Spielberger et al., 1983). Indi-
+viduals high in negative affectivity are more ruminative, and these characteristics may
+lead anxious parents to spend more time talking about what they and others think in
+an indecisive fashion, which is another form of mentalising. It is important to note
+that this was not a clinical sample and only a few individual scores were above clin-
+ical cut-offs for measures, so emotional distress was examined within normal ranges
+for the measures.
+
+One explanation is that parental behavior associated with emotional distress may
+provide another form of mentalising experience for young children. Relatively high but
+non-clinical levels of parental distress may actually increase attentiveness to infant cues
+and ‘thinking aloud’ about infant mental states. This would support suggestions that the
+use of mental state language is an important family characteristic that contributes to
+theory of mind. Another possible account is that the relation of parental negative affec-
+tivity and theory of mind in children has something to do with adult working models
+of relationships (Bretherton, 1985; Fonagy et al., 1998; Main et al., 1985). This would
+be possible if insecure working models of relationships in adults are related to high neg-
+ative  affectivity  and  family  expressiveness,  as  has  been  suggested  (see  Bell,  1998;
+Kobak & Sceery, 1988). The caregiver location task addressed expectations a child had
+for parents to behave in certain ways within the tasks, which would be fundamental to
+child working models of parental behavior. Given the hypothesis that adult working
+models inﬂuence the development of child working models, sensitive parenting and
+theory of mind indices may be useful for understanding the transmission gap between
+working model constructs (for review, see van IJzendoorn, 1995). Research is required
+to develop and cross-validate measures of working models in children.
+
+Limitations of the current study are related to the observational measures and false
+belief  tasks  chosen.  The  AQS  has  generally  accepted  reliability  and  validity,  but
+because it provides a single quantitative measure on a security dimension, potentially
+important  distinctions  between  insecure-avoidant  and  -resistant  infants  are  lost  (see
+Waters et al., 1995). This may be the basis of the failure here to replicate relations
+between age two attachment security and later false belief performance for tasks involv-
+ing objects (as in Fonagy et al., 1998; Meins et al., 1998). The AQS may also have been
+problematic for use with children as old as six years of age, although preliminary analy-
+ses supported the stability of both total scores and speciﬁc behavior-loadings across this
+time frame (Symons et al., 1998). There are other pre-school derivatives of the strange
+situation that would provide qualitative distinctions between dyads at ﬁve years of age
+that could have been used to concurrently validate the AQS with older children. On the
+other hand, there were advantages to using a regression approach with the small sample
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+20 Douglas K. Symons and Sharon E. Clark
+
+size rather than subdividing dyads into very small groups based on attachment classi-
+ﬁcation.  Finally,  the  current  study  was  guilty  of  examining  mothers  and  ignoring
+fathers. This was not done for any particular theoretical reason, but merely because of
+the  availability  of  the  longitudinal  sample.  New  data  being  collected  elsewhere  on
+father-infant attachment security will permit future studies on the potential role fathers
+play in the development of social understanding.
+
+The development of a caregiver location task ultimately became fundamental to the
+study and suggested prediction across ages was only for false beliefs in which rela-
+tionship constructs were embedded in the tasks. It is not known whether the same ﬁnd-
+ings would have been obtained were other adults or other social beings used within the
+tasks. Such differences would be critical, however, as they may isolate speciﬁc expec-
+tations children have for caregivers as opposed to social beings in general. There was
+also a potential problem in a ceiling effect for false belief scores involving objects.
+Although  the  ranges  were  comparable  across  tasks,  the  means  for  tasks  involving
+objects were high. The sample was not at an age when theory of mind was ‘emerging’
+(i.e., performance was near chance of 50%), but instead, was at an age when most chil-
+dren did very well on tasks. On the other hand, ceiling effects work against ﬁnding cor-
+relations with relationship indices, so the current ﬁndings may be conservative given
+the age-range of the sample. The ages chosen, however, were also very appropriate for
+caregiver location tasks where performance was at chance levels.
+
+Keeping these limitations in mind, the current study supports the central hypothe-
+sis that aspects of early mother-child relationships in infancy predict theory of mind
+performance within false belief tasks at the close of the preschool period. Like other
+studies, however, not all relationship indices predicted performance on all false belief
+tasks.  Further  research  is  therefore  necessary  to  clarify  speciﬁc  developmental
+processes associated with a theory of mind displayed in different kinds of tasks. Dis-
+entangling  the  roles  of  parental  sensitivity,  emotion  coherence  of  child  response  to
+tasks,  and  emergent  working  models  of  relationships  could  be  important  goals  of
+future investigations examining how children come to understand social situations and
+what is in the minds of others.
+
+References
+Abidin, R. (1990). Parenting Stress Index. Charlottesville, VA: Pediatric Psychology Press.
+Ainsworth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). Patterns of attachment: A
+
+psychological study of the Strange Situation. Hillsdale, NJ: Lawrence Erlbaum.
+
+Astington, J. W. (1993). The child’s discovery of the mind. Cambridge, MS: Harvard Univer-
+
+sity Press.
+
+Astington, J. W. & Jenkins, J. (1995). Theory of mind development and social understanding.
+
+Cognition and Emotion, 9, 151–165.
+
+Atkinson et al. (1995). Cognitive coping, affective distress, and maternal sensitivity: Mothers
+
+of children with Down Syndrome. Developmental Psychology, 31, 668–676.
+
+Baldwin,  D. A.  &  Moses,  L.  J.  (1996). The  ontogeny  of  social  information-gathering.  Child
+
+Barresi, J. & Moore, C. (1996). Intentional relations and social understanding. Behavioral and
+
+Belsky, J. (1984). The determinants of parenting: A process model. Child Development, 55 (1),
+
+Development, 67, 1915–1939.
+
+Brain Sciences, 19, 107–154.
+
+83–96.
+
+Bell, K. L. (1998). Family expressiveness and attachment. Social Development, 7, 37–53.
+Blishen, B. R., Carroll, W. K., & Moore, C. (1987). The 1981 socioeconomic index for occu-
+
+pations in Canada. Canadian Review of Sociology and Anthropology, 24, 465–488.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+21
+
+Bowlby, J. (1969/1982). Attachment and loss, Vol. 1: Attachment (2nd Ed.). New York: Basic
+
+Books. (Originally published 1969)
+
+Bretherton, I. (1985). Attachment theory: Retrospect and prospect. In I. Bretherton & E. Waters
+(Eds.), Growing points of attachment theory and research. Monographs of the Society for
+Research in Child Development, 50 (1–2, Serial No. 209).
+
+Crnic, K. A. & Greenbery, M. T. (1990). Minor parenting stresses with young children. Child
+
+Development, 62, 930–953.
+
+Crockenberg, S. & Litman, C. (1991). Effects of maternal employment on maternal and two-
+
+year-old child behaviour. Child Development, 62, 930–953.
+
+DeWolff, M. S. & van IJzendoorn, M. H. (1997). Sensitivity and attachment: A meta-analysis
+
+on parental antecedents of infant attachment. Child Development, 68, 571–591.
+
+Dix, T. (1991). The affective organization of parenting: Adaptive and maladaptive processes.
+
+Downey,  G.  &  Coyne,  J.  C.  (1990).  Children  of  depressed  parents:  An  integrative  review. 
+
+Psychological Bulletin, 110, 3–25.
+
+Psychological Bulletin, 108, 50–76.
+
+Dunn,  J.  (1991).  Understanding  others:  Evidence  from  naturalistic  studies  of  children.  In A.
+
+Whiten (Ed.), Natural theories of mind (pp. 51–61). Cambridge, MS: Basil Blackwell.
+
+Dunn, J., Brown, J., & Beardsall, L. (1991-a). Family talk about feeling states and children’s
+
+later understanding of other’s emotions. Developmental Psychology, 27, 448–455.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Youngblade, L. (1991-b). Young children’s
+understanding  of  other  people’s  feelings  and  beliefs:  Individual  differences  and  their
+antecedents. Child Development, 62, 1352–1366.
+
+Dunn,  J.  (1995).  Children  as  psychologists: The  later  correlates  of  individual  differences  in
+
+understanding of emotions and other minds. Cognition and Emotion, 9, 187–201.
+
+Endler, N. S. & Parker, J. D. A. (1991). Coping Inventory for Stressful Situations. Multi-Health
+
+Systems Inc.
+
+Flavell,  J.  H.  (1979).  Metacognition  and  cognitive  monitoring:  A  new  area  of  cognitive-
+
+developmental inquiry. American Psychologist, 34 (10), 906–911.
+
+Flavell, J. H., Green, F. L., & Flavell, E. R. (1986). Development of knowledge about the appear-
+ance-reality  distinction.  Monographs  of  the  Society  for  Research  in  Child  Development,
+51(Serial No. 212).
+
+Fonagy. P., Redfern, S., & Charman, T. (1997). The relationship between belief-desire reason-
+ing and a projective measure of attachment security (SAT). British Journal of Developmen-
+tal Psychology, 15, 51–61.
+
+Fonagy, P., Steele, H., Steele, M., & Holder, J. (1997). Attachment and theory of mind: Over-
+
+lapping constructs? Bonding and Attachment, 14, 31–40.
+
+Fonagy, P., Steele, M., Steele, H., & Holder, J. (1998). Children securely attached in infancy
+
+perform better in belief-desire reasoning task at age ﬁve. Manuscript under review.
+
+Fonagy,  P.  &  Target,  M.  (1997).  Attachment  and  reﬂective  function:  Their  role  in  self-
+
+organization. Development and Psychopathology, 9, 679–700.
+
+Frye, D. & Moore, C. (1991). Children’s theories of mind. Hillsdale, NJ: Lawrence Erlbaum.
+Frye, D., Zelazo, P. D., & Palfai, T. (1995). Theory of mind and rule-based reasoning. Cogni-
+
+Gelfand, D. M. & Teti, D. M. (1990). The effects of maternal depression on children. Clinical
+
+tive Development, 10, 483–527.
+
+Psychology Review, 10, 329–353.
+
+Gelman,  S.  A.  &  Gottfried,  G.  M.  (1996).  Children’s  causal  explanations  of  animate  and 
+
+inanimate motion. Child Development, 67, 1970–1987.
+
+Gopnik,  A.  (1993).  How  we  know  our  minds:  The  illusion  of  ﬁrst-person  knowledge  of 
+
+intentionality. Behavioral and Brain Sciences, 16, 1–14.
+
+Gopnik, A. (1997). How the child’s theory of mind changes. Paper presented at the meeting of
+
+the Society for Research in Child Development, Washington, D. C.
+
+Gopnik, A. & Astington, J. W. (1988). Children’s understanding of representational change and
+its relation to the understanding of false belief and the appearance-reality distinction. Child
+Development, 59, 26–37.
+
+Howes, C. & Smith, E. W. (1995). Children and their child caregivers: Proﬁles of relationships.
+
+Social Development, 4, 44–61.
+
+Hinde, R. A. & Stevenson-Hinde, J. (1988). (Eds.). Relationships within families: Mutual inﬂu-
+
+ences. New York: Oxford University Press.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+22 Douglas K. Symons and Sharon E. Clark
+
+Jenkins, J. M. & Astington, J. W. (1996). Cognitive factors and family structure associated with
+
+Theory of Mind development in young children. Developmental Psychology, 32, 70–78.
+
+Kaye, K. (1982). The mental and social life of babies. Chicago: University of Chicago Press.
+Kobak,  R.  R.  &  Sceery, A.  (1988). Attachment  in  late  adolescence: Working  models,  affect 
+
+regulation, and representation of self and others. Child Development, 59, 135–146.
+
+Laible, D. J. & Thompson, R. A. (1998). Attachment and emotional understanding in preschool
+
+children. Developmental Psychology, 34, 1038–1045.
+
+Main, M. (1991). Metacognitive knowledge, metacognitive monitoring, and singular (coherent)
+vs.  multiple  (incoherent)  model  of  attachment.  In  C.  M.  Parkes,  J.  Stevenson-Hinde,  &  P.
+Marris (Eds.), Attachment across the life cycle (pp. 127–159). Routledge: New York.
+
+Main, M., Kaplan, N., & Cassidy, J. (1985). Security in infancy, childhood and adulthood: A
+move to the level of representation. In I. Bretherton & E. Waters (Eds.), Growing points of
+attachment theory and research. Monographs of the Society for Research in Child Develop-
+ment, 50 (1–2, Serial No. 209).
+
+Meins. (1997). Security of attachment and the social development of cognition. Hove, UK: Psy-
+
+chology Press.
+
+Meins, E., Fernyhough, C., Russell, J., Clark-Carter, D. (1998). Security of attachment as a pre-
+dictor of symbolic and mentalising abilities: A longitudinal study. Social Development, 7 (1),
+1–24.
+
+Moses, L. J. & Flavell, J. H. (1990). Inferring false beliefs from actions and reactions. Child
+
+Development, 61, 929–945.
+
+Moss, E. B., Gosseling, C., Parent, S., Rousseau, D., & Dumont, M. (1997). Attachment and
+joint problem-solving experiences during the preschool period. Social Development, 6 (1),
+1–17.
+
+Nguyen, L. & Frye, D. (1999). Children’s theory of mind: Understanding desire, belief, and
+
+emotion with social referents. Social Development, 8, 70–92.
+
+Pederson, D. R. & Moran, G. (1995). A categorical description of infant-mother relationships
+in the home and its relation to Q-sort measures of infant-mother interaction. In E. Waters,
+B. E. Vaughn, G. Posada, & K. Kondo-Ikemura (Eds.), Caregiving, cultural, and cognitive
+perspectives on secure-base behavior and working models: New growing points of attach-
+ment theory and research. Monographs of the Society for Research in Child Development,
+60(2–3, Serial No. 244).
+
+Pederson, D. R., Moran, G., Sitko, C., Campbell, K., Ghesquire, K., & Acton, H. (1990). Mater-
+nal sensitivity and the security of infant-mother attachment: A Q-sort study. Child Develop-
+ment, 61, 1974–1983.
+
+Perner, J. (1991). Understanding the representational mind. Cambridge, MS: M. I. T. Press.
+Perner, J., Leekam, S. R., & Wimmer, H. (1987). Three-year-olds’ difﬁculty with false belief:
+The case for a conceptual deﬁcit. British Journal of Developmental Psychology, 5, 125–137.
+Perner, J., Ruffman, T., & Leekam, S. R. (1994). Theory of mind is contagious: You catch it
+
+from your sibs. Child Development, 65, 1228–1238.
+
+Poulin-Dubois,  D.  &  Shultz,  T.  F.  (1990).  The  infant’s  concept  of  agency:  The  distinction
+
+between social and non-social objects. Journal of Genetic Psychology, 151, 77–90.
+
+Radloff,  L.  S.  (1977). The  CES-D  Scale: A  self-report  depression  scale  for  research  in  the
+
+general population. Applied Psychological Measurement, 1, 385–401.
+
+Ruffman, T. (1997). The social determinants of theory of mind understanding. Paper presented
+
+at the Society for Research in Child Development conference Washington, D. C.
+
+Ruffman, T., Perner, J., Naito, M., Parkin, L., & Clements, W. A. (1998). Older (but not younger)
+
+siblings facilitate false belief understanding. Developmental Psychology, 34, 161–174.
+
+Seifer, R., Schiller, M., Sameroff, A. J., Resnick, S., & Riordan, K. (1996). Attachment, mater-
+nal sensitivity, and temperament during the ﬁrst year of life. Developmental Psychology, 32,
+12–25.
+
+Spielberger, C. D., Gorsuch, R. L., Lushene, R., Vagg, P. R., & Jacobs, G. A. (1983). Manual
+
+for the State-Trait Anxiety Inventory. Consulting Psychologists Press.
+
+Sroufe, A. (1996). Emotional development: the organization of emotional life in the early years.
+
+Cambridge: University of Cambridge.
+
+Stern, D. (1985). The interpersonal world of the infant. New York: Basic Books.
+Symons, D. (1998-a). Maternal and infant predictors of Q-sort attachment security and mater-
+
+nal sensitivity in the ﬁrst two years. Manuscript under review.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+Relationships and Theory of Mind
+
+23
+
+Symons,  D.  (1998-b).  Post-partum  employment  patterns,  family-based  care  arrangements, 
+and the mother-infant relationship at age two. Canadian Journal of Behavioral Science, 30,
+121–131.
+
+Symons, D. K., Noiles, L., & Richards, C. (in press). Concurrent Q-sort and behavioral indi-
+cators  of  maternal  sensitivity  and  infant-mother  attachment  security  at  age  two.  In  B.  E.
+Vaughn & E. Waters (Eds.), Patterns of secure base behavior: Q-sort perspectives on attach-
+ment and caregiving. Hillsdale, NJ: Erlbaum.
+
+Symons, D., Clark, S., Isaksen, G., & Marshall, J. (1998). Stability of Q-sort attachment secu-
+
+rity from age two to ﬁve. Infant Behavior and Development, 21, 745–752.
+
+Symons, D., McLaughlin, E., Moore, C., & Morine, S. (1997). Integrating relationship con-
+structs  and  emotional  experience  into  false  belief  tasks  in  preschool  children.  Journal  of
+Experimental Child Psychology, 67, 423–447.
+
+Symons, D. & McLeod, P. (1994). Maternal, infant, and occupational characteristics that predict
+
+post-partum employment patterns. Infant Behavior and Development, 17, 71–82.
+
+Taylor,  M.  &  Carlson,  S.  (1997). The  relation  between  individual  differences  in  fantasy  and
+
+theory of mind. Child Development, 68(3), 436–455.
+
+Thompson, R. A. (1997). Sensitivity and security: New questions to ponder. Child Develop-
+
+ment, 68, 595–597.
+
+van  IJzendoorn,  M.  I.  (1995).  Adult  attachment  representations,  parental  responsiveness, 
+and infant attachment: A meta-analysis on the predictive validity of the Adult Attachment
+Interview. Psychological Bulletin, 117, 387–403.
+
+van  IJzendoorn,  M.  H.,  Goldberg,  S.,  Kroonenberg,  P.  M.,  &  Frenkel,  O.  J.  (1992).  The 
+relative effect of maternal and child problems on the quality of attachment: A meta-analysis
+of attachment in clinical samples. Child Development, 63, 840–858.
+
+Vaughn,  B.  E.,  Stevenson-Hinde,  J., Waters,  E.,  Kotsaftis, A.,  Lefever,  G.  B.,  Shouldice, A.,
+Trudel, M., & Belsky, J. (1992). Attachment security and temperament in infancy and early
+childhood: Some conceptual clariﬁcations. Developmental Psychology, 28, 463–473.
+
+Vygotsky, L. S. (1986). Thought and Language. Cambridge, MA: MIT Press.
+Waters, E. (1987). Attachment Q-set (version 3.0). State University of New York at Stony Brook.
+
+Stony Brook, NY 11794.
+
+ewaters/AQS/htm].
+
+Waters,  E.  (1997).  The  AQS  Advisor.  Taken  from  website  [http:www.psy.sunysb.edu/-
+
+Waters, E. & Deane, K. (1985). Deﬁning and assessing individual differences in attachment
+relationships: Q-methodology and the organization of behavior in infancy and early child-
+hood. In I. Bretherton & E. Waters (Eds.), Growing points of attachment theory and research.
+Monographs of the Society for Research in Child Development, 50(1–2, Serial No. 209).
+
+Waters, E., Vaughn, B. E., Posada, G., & Kondo-Ikemura, K. (Eds.) (1995). Caregiving, cul-
+tural, and cognitive perspectives on secure-base behavior and working models: New growing
+points of attachment theory and research. Monographs of the Society for Research in Child
+Development, 60 (2–3, Serial No. 244).
+
+Watson,  D.  &  Clark,  L.  (1984).  Negative  affectivity: The  disposition  to  experience  aversive
+
+emotional states. Psychological Bulletin, 96, 465–490.
+
+Wellman, H. (1990). The child’s theory of mind. Cambridge, MS: M. I. T. Press.
+Wimmer, H. & Perner, J. (1983). Beliefs about beliefs: Representations and constraining func-
+tion  of  wrong  beliefs  in  young  children’s  understanding  of  deception.  Cognition, 13,
+103–128.
+
+Acknowledgements
+A Social Sciences and Humanities Research Council of Canada (SSHRCC) General Grant sup-
+ported this research, and a SSHRCC Doctoral Fellowship supported the second author. Thanks
+go to the mothers and children for their support. C. Moore and three anonymous reviewers are
+thanked  for  their  helpful  comments.  C.  Richards,  L.  White,  L.  Noiles, T.  Szuszkiewicz,  G.
+Isaksen, & J. Marshall assisted with data collection.
+
+© Blackwell Publishers Ltd. 2000
+
+Social Development, 9, 1, 2000
+
+

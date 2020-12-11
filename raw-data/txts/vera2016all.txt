@@ -1,0 +1,2071 @@
+ORIGINAL RESEARCH
+published: 08 March 2016
+doi: 10.3389/fpsyg.2016.00227
+
+All for One: Contributions of Age,
+Socioeconomic Factors, Executive
+Functioning, and Social Cognition to
+Moral Reasoning in Childhood
+
+Evelyn Vera-Estay1,2, Anne G. Seni1, Caroline Champagne1 and
+Miriam H. Beauchamp1,2*
+
+1 Department of Psychology, University of Montreal, Montreal, QC, Canada, 2 Sainte-Justine Hospital Research Center,
+Montreal, QC, Canada
+
+Moral reasoning (MR) is a socio-cognitive skill essential to appropriate social functioning
+in childhood, and evolves in quality and complexity during ontogenetic development.
+Past research suggests that MR is related to age, socioeconomic factors, as well as
+some social and cognitive skills, such as executive functioning (EF), theory of mind
+(ToM), empathy, and affect recognition. However, their contributions have been studied
+in silos rather than comprehensively, with little integration of the relative and combined
+contribution of these skills to MR. Furthermore, few studies have addressed the putative
+links between these factors in childhood, a period during which these skills are in
+maturation. The aim of this study was to explore what factors predict moral maturity in
+typically developing children (n = 76, 47.4% males, M = 9.2, SD = 1.67 years), explore
+the potential moderating and mediating role of executive functions and social cognition
+in the relationship between age and MR maturity, and identify the speciﬁc contributions
+of age, socioeconomic factors, EF, and social cognition, using an innovative visual MR
+assessment tool (So-Moral). The results indicate that MR maturity was correlated with
+age, EF (inhibition, verbal ﬂuency, and attentional control), and social cognition (ToM
+and affect recognition). Neither EF nor social cognition moderated the effect of age on
+MR maturity. However, verbal ﬂuency and third-order false beliefs had a moderating role
+in this link. MR maturity in children was predicted by three variables from each of the
+three domains: age, verbal ﬂuency, and third-order ToM. These results contribute to a
+better understanding of the underpinnings of MR during childhood, suggesting that MR
+is not reducible to general developmental factors such as age, but that higher order
+skills, such EF and social cognition also contribute to moral maturity. The ﬁndings have
+relevance for both typically developing and clinical populations in which social skills may
+be reduced, as well as for the identiﬁcation of potential loci for intervention in children
+at-risk for socially maladaptive behaviors.
+
+Keywords: moral reasoning, executive functions, affect recognition, theory of mind, childhood
+
+Edited by:
+Natasha Kirkham,
+Cornell University, USA
+
+Reviewed by:
+Ayelet Lahat,
+McMaster University, Canada
+Tobias Krettenauer,
+Wilfrid Laurier University, Canada
+
+*Correspondence:
+Miriam H. Beauchamp
+miriam.beauchamp@umontreal.ca
+
+Specialty section:
+This article was submitted to
+Developmental Psychology,
+a section of the journal
+Frontiers in Psychology
+
+Received: 10 November 2015
+Accepted: 04 February 2016
+Published: 08 March 2016
+
+Citation:
+Vera-Estay E, Seni AG, Champagne C
+and Beauchamp MH (2016) All
+for One: Contributions of Age,
+Socioeconomic Factors, Executive
+Functioning, and Social Cognition
+to Moral Reasoning in Childhood.
+Front. Psychol. 7:227.
+doi: 10.3389/fpsyg.2016.00227
+
+Frontiers in Psychology | www.frontiersin.org
+
+1
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+INTRODUCTION
+
+Humans, as social beings and moral agents, are faced with making
+their ﬁrst moral decisions much before attaining cognitive,
+emotional, and social maturity. In everyday life, children have to
+evaluate morally relevant situations in order to make decisions
+concerning social behaviors such as fair play, admit
+their
+wrongdoings, participate or not in bullying, and so on, by
+using abilities that are not yet consolidated. Current research
+demonstrates that children are able to diﬀerentiate moral issues
+from social conventions and personal choices (Turiel, 2002),
+and that their moral understanding increases during ontogenetic
+development, presumably growing in parallel with cognitive
+abilities and social cognition (Lane et al., 2010). In addition,
+some studies suggest that demographic factors such as maternal
+education and social risk could inﬂuence moral understanding
+(Dunn et al., 2000; Arsenio and Gold, 2006; Hinnant et al., 2013).
+Thus, moral reasoning (MR) in childhood is likely to
+be underpinned by cognitive, socio-cognitive, and aﬀective
+capacities in maturation, as well as by demographic factors.
+However, whereas past research suggests an association between
+MR skills and the development of some social and cognitive
+skills, such as executive functioning (EF; Hinnant et al.,
+2013),
+theory of mind (ToM; Baird and Astington, 2004),
+empathy (Hoﬀman, 2000), and aﬀect recognition (Blair et al.,
+2001a), their contributions have been studied in silos rather
+than comprehensively, with little integration of the relative
+and combined contribution of
+these skills to MR, or the
+potential mediation and moderation eﬀects of these skills in
+the relationship between age and MR skills. Understanding the
+building blocks of MR skills in childhood has relevance for both
+typically developing and clinical populations in which social skills
+may be reduced.
+
+Moral Reasoning and Socioeconomic
+Factors
+Broadly, some studies indicate that moral understanding may
+be aﬀected by demographic factors, such as socioeconomic
+status and social risk in particular (Haidt et al., 1993; Dunn
+et al., 2000; Arsenio and Gold, 2006). However, concerning MR
+skills speciﬁcally, some studies have found a positive link with
+socioeconomic status (Cui et al., 2015) and maternal education
+(Hinnant et al., 2013), while others have not shown such an
+association (Caravita et al., 2012; Malti et al., 2013; Vera-Estay
+et al., 2014), including a large-scale longitudinal study from
+childhood to early adolescence (Daniel et al., 2014).
+
+Moral Reasoning and Socio-Cognitive
+Skills
+Social cognition is a broad construct referred to as the human
+capacity to think about others’ thoughts, intentions, feelings,
+attitudes, and perspectives, enabling us to interact in the social
+world (Sharp et al., 2008). MR is a speciﬁc component of social
+cognition, deﬁned as the thinking mechanism through which
+moral judgments about right and wrong are attained (Moll et al.,
+2005). Elementary manifestations of MR can be observed as early
+
+Social Cognition in Childhood
+
+as infancy (Malti and Latzko, 2010; Decety et al., 2012), but it is
+during early childhood that MR skills begin to be more explicit,
+as children interact verbally with peers, siblings and adults,
+resolve conﬂicts and negotiate social situations, leading them
+to experience concepts such as reciprocity, fairness, and justice
+(Killen and Rutland, 2011). MR skills continue to increase during
+middle childhood, supporting prosocial tendencies toward peers
+and adults (Miller et al., 1996). According to Social Domain
+theory (Turiel, 2002), during this period, children learn to
+distinguish and progressively coordinate three main forms
+of social knowledge: moral, social, and psychological, adding
+ﬂexibility and nuance to their interpretation of the social world.
+Moral knowledge related to fairness, justice, welfare and rights,
+changes during childhood. Thus, whereas younger children tend
+to evaluate moral situations based on concrete concepts of
+harm and welfare, older children favor abstract concepts of
+justice and rights (Turiel, 2002; Killen and Rutland, 2011). This
+evolution is likely inﬂuenced by global cognitive development,
+in particular by the evolution of high order cognitive skills
+such as executive functions (EF), a broad range of skills that
+are implicated in regulating thinking and behavior (Kerr and
+Zelazo, 2004), and by other socio-cognitive functions developing
+in parallel.
+
+In addition to MR, socio-cognitive skills include several
+other mental processes used to perceive and process social cues,
+stimuli, and environments (Beauchamp and Anderson, 2010).
+Research in developmental psychopathology has shown that poor
+social functioning may be in part explained by deﬁcits in these
+functions (for a review, see Sharp et al., 2008). Considering that
+even normal variations in socio-cognitive skills could potentially
+translate into inter-individual diﬀerences in social functioning,
+the current study focused on the associations between MR
+skills during childhood and three fundamental aspects of social
+cognition: aﬀect recognition, empathy, and ToM.
+
+Affect Recognition
+Humans are born with an innate preference for faces (Johnson
+and Morton, 1991). They communicate important information
+about the emotional state of individuals, which is essential for
+accurately interpreting social situations. Facial aﬀect recognition
+develops rapidly during infancy and early childhood (Herba et al.,
+2006) and continues to evolve during late childhood, adolescence,
+and even adulthood (Thomas et al., 2007). The evolution of this
+skill appears to be inﬂuenced by other neurocognitive abilities,
+speciﬁcally by EF, as demonstrated in a study of 1000 healthy
+individuals (6 to 91 years; Mathersul et al., 2009). Consistent with
+these ﬁndings, Rosenqvist et al. (2014) found that EF, language,
+and ToM skills are signiﬁcant predictors of children’s aﬀect
+recognition.
+
+Recognizing others’ emotions in moral conﬂicts is likely to
+inﬂuence MR. Deﬁcits in facial aﬀect recognition are associated
+with psychopathy in youth and adult oﬀenders (Hastings et al.,
+2008; Bowen et al., 2014), but also in children with psychopathic
+tendencies, who appear to be less sensitive to sad and fearful
+facial expressions compared to control groups (Blair et al., 2001a;
+Stevens et al., 2001), suggesting a link between aﬀect recognition
+and morality.
+
+Frontiers in Psychology | www.frontiersin.org
+
+2
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+Empathy
+“Empathy is the ability to experience and understand what others
+feel without confusion between oneself and others” (Decety and
+Lamm, 2006, p. 1146). Empathy is critical to regulating behavior
+during social interactions and has been related to prosocial
+MR, moral motivation and prosocial behavior (Eisenberg and
+Mussen, 1978; Eisenberg and Fabes, 1990; Miller et al., 1996;
+Roberts and Strayer, 1996; Hoﬀman, 2000; Eisenberg et al., 2002;
+Eisenberg, 2003; Beauchamp et al., 2013). However, research
+demonstrates a complex relation between empathy and morality.
+Globally, empathy contributes to MR because it informs on the
+emotional state of the actors involved in social situations. These
+emotional states include victim’s suﬀering, as well as victimizer
+emotional experience toward the moral conﬂict, which may
+prevent the rationalization of moral transgressions. Despite this,
+empathic tendencies could also interfere with MR, introducing
+in-group bias and justifying immoral behaviors (Decety and
+Cowell, 2015). Moreover, given that the general term “empathy”
+is used for describing several more speciﬁc aﬀective and cognitive
+concepts, the relationship between empathy and other cognitive
+and behavior variables tends to be blurred (Decety and Cowell,
+2014).
+
+Theory of Mind
+Theory of mind refers to the cognitive ability that allows
+us to understand other people as intentional, perceptive, and
+emotional agents, or to interpret
+their minds in terms of
+intentional, perceptual, or feeling states (Moll et al., 2005). ToM
+skills involve progressive abilities that enable inference of other’s
+mental states at diﬀerent levels of recursive thinking (ﬁrst-order
+belief, John thinks X; second-order belief, John thinks Mary thinks
+X; third-order belief, John thinks what Mary thinks that he thinks
+X, and so on), helping to understand the complexity of human
+social interactions. However, when we infer others’ mental states,
+we must also determine whether they diﬀer from reality or from
+our own knowledge about the world, an ability called “false
+belief understanding.” First-, second-, and third-order false belief
+tasks assess false belief understanding at diﬀerent levels of ToM
+(Korkmaz, 2011).
+
+Whereas ﬁrst order ToM is generally mastered by healthy
+children at around 5 years of age, second and third-order
+ToM, as well as false belief understanding, continue to develop
+through childhood and adolescence (Liddle and Nattle, 2006;
+Dumontheil et al., 2010), supported by the development of
+social experience and speciﬁc high-level cognitive abilities such
+as EF. Thus, according to a meta-analysis conducted by Devine
+and Hughes (2014), EF in the preschool years is a signiﬁcant
+predictor of false belief understanding at school-age, and these
+ﬁndings are consistent across diﬀerent EF tasks and cultures.
+Theoretically, cognitive inhibition is a central mechanism in false
+belief understanding, because it requires inhibition of one’s own
+knowledge in order to think about other’s mental states (Birch
+and Bloom, 2004). ToM and EF are considered to be the cognitive
+bases of social perspective-taking (Gibbs, 2013).
+
+There is growing evidence of the association between MR
+and ToM skills (Lagattuta, 2005; Wainryb and Brehl, 2006;
+Killen et al., 2011; Smetana et al., 2012). ToM is potentially
+
+implicated in the evaluation of moral situations, because it
+provides information about the intention and motivation of
+others’, two key aspects in the evaluation of moral values (Baird
+and Astington, 2004). A cognitive neuroscience study (Young
+et al., 2007) conﬁrms this view suggesting that moral judgment
+depends on cognitive processes mediated by brain areas related
+to belief attribution and ToM. Research in typically developing
+children indicates that as children grow,
+they increasingly
+incorporate information about mental states in their moral
+evaluations (Cushman et al., 2013). In addition, children who
+rely on more advanced ToM, including false belief, have better
+moral understanding (Dunn et al., 2000) and more mature MR
+(Baird and Astington, 2004), which is consistent with the results
+of a longitudinal study conducted by Lane et al. (2010) in which
+ToM skills predicted more mature (societally-oriented) MR in
+children.
+
+Moral Reasoning and Executive
+Functions
+the intense evolution of EF, and in
+As mentioned above,
+particular,
+inhibition, during infancy and early childhood
+is associated with the development of socio-cognitive skills
+(Barkley, 1997; Beauchamp and Anderson, 2010), with better EF
+positively associated with social competence (Kochanska et al.,
+2000), ToM (Carlson and Moses, 2001; Devine and Hughes,
+2014), and moral understanding (Decety and Howard, 2013).
+Moreover, EF has been shown to be a signiﬁcant predictor
+of later social functioning, contributing to social adjustment
+and resilience (Eisenberg et al., 2004; Martel et al., 2007;
+Miller and Hinshaw, 2010). However, there are few studies
+addressing the speciﬁc link between EF and MR in childhood
+and their results support the need for further investigation.
+A recent study in healthy school-aged children demonstrated
+that executive skills are positively associated with MR (Hinnant
+et al., 2013), consistent with ﬁndings in school-aged children
+with developmental disabilities and frontal lesions (Couper et al.,
+2002; Kretschmer et al., 2014). Recent research also supports
+this link in adolescents, in whom more mature MR was found
+to be associated with several executive functions (conceptual
+reasoning, cognitive ﬂexibility, verbal ﬂuency, and feedback
+utilization), with ﬂexibility and verbal ﬂuency independently
+predicting MR maturity, after controlling for the eﬀects of
+age and intelligence (Vera-Estay et al., 2014). However, these
+associations have not been tested in children, nor do we know
+how they play out when socio-cognitive skills are considered in
+combination.
+
+THE CURRENT STUDY
+
+to developmental
+
+study contributes
+
+The present
+socio-
+cognitive research by exploring the combined and independent
+contributions of age and socioeconomic status, cognitive and
+socio-cognitive variables to MR maturity skills using a novel,
+developmentally appropriate, visual
+the
+study aimed to: (1) evaluate the association between MR, age,
+socioeconomic variables (family income and parental education),
+
+task. Speciﬁcally,
+
+Frontiers in Psychology | www.frontiersin.org
+
+3
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+EF (attentional control, inhibition, and verbal ﬂuency), and social
+cognition (empathy, ToM, and aﬀect recognition); (2) evaluate
+whether EF moderates or mediates the relationship between age
+and MR skills (3) evaluate whether executive and social cognition
+variables mediate or moderate the relationship between age
+and MR skills (4) assess the contribution of social cognition
+to MR maturity, after controlling for EF and age. In line with
+current literature on MR development described above, it was
+expected that age, executive and socio-cognitive functions would
+be positively correlated with MR maturity. Considering previous
+results using the So-Moral task (Vera-Estay et al., 2014), we
+expected that socioeconomic variables would not be associated
+with MR scores. Regarding moderation and mediation eﬀects,
+we expected that EF and social cognition variables would play a
+mediating and moderating role in the relationship between age
+and MR skills. We also expected that age and EF would predict
+MR maturity and speciﬁcally, that verbal ﬂuency would have
+an independent contribution to MR scores. Concerning social
+cognition, on the basis of current literature (Dunn et al., 2000;
+Baird and Astington, 2004; Lane et al., 2010; Cushman et al.,
+2013) we expected that it would predict MR scores, with ToM
+making the largest contribution.
+
+MATERIALS AND METHODS
+
+Participants
+Seventy-six participants between 6 and 12 years (47.4% males,
+M = 9.2, SD = 1.67 years) participated in this study. All
+participants and their families were French speakers. They
+were predominantly Caucasian (95%), had no history of any
+psychiatric or neurological condition, had IQ levels in the low
+to high average range (87–129, M = 108.6, SD = 9.9) and
+were primarily from middle-class families according to their
+income (Statistics Canada, 2015). Participants were identiﬁed
+and recruited through regular primary schools in Quebec,
+Canada. All parents provided written informed consent prior
+to participation. Participants were compensated $30 for their
+participation. The Research Ethics Committee of the Faculty of
+Arts and Science at the University of Montreal approved the
+study.
+
+for order
+
+Measures
+To control
+two
+counterbalancing procedures were applied randomly across
+participants: one to the order of the whole testing session, and
+one to the order of the dilemmas in the So-Moral task (see
+below). The following measures were administered.
+
+assessments,
+
+eﬀects
+
+in the
+
+Demographic and Developmental Questionnaire
+Parents’ of participants completed a questionnaire pertaining to
+their child’s medical, developmental, and social history, as well
+parents’ education level, ethnicity, and income.
+
+Intellectual Functioning
+The Wechsler Abbreviated Scale of
+(WASI,
+Wechsler, 1999) was used to provide an estimate of general
+
+Intelligence
+
+intellectual ability based on the Vocabulary and Matrix
+Reasoning subtests (IQ, M = 100, SD = 15).
+
+Theory of Mind
+To assess children’s ability to infer other people’s mental states,
+the Theory of Mind Picture Stories task (Brune, 2005; Bechi
+et al., 2012) was administered. This task consists of six cartoon
+picture storied depicted on four cards each. Two are stories in
+which two characters cooperate, two are stories in which one
+character deceives another, and two stories show two characters
+cooperating to deceive a third. The cards are presented face-
+down in mixed order; participants are asked to turn the cards
+over and to order them in a logical sequence of events. For each
+cartoon story sequenced correctly a maximum score of 6 can be
+obtained: two points are given each for the ﬁrst and last correctly
+sequenced picture and one point each for the third and fourth
+picture. After the children correctly arrange the four cards, they
+are asked to answer questions that pertain to the mental states of
+the diﬀerent characters, including questions of ﬁrst-, second-, and
+third-order false beliefs as well as of reciprocity, deception and
+cheating detection. For each question answered correctly, one
+point is obtained. The variables of interest in this study were ﬁrst-,
+second-, and third-order false belief (scores 0 to 3) and Total ToM
+(score 0–59).
+
+Empathy
+The Griﬃth Empathy Measure (GEM, Dadds et al., 2008) is a 23-
+item parent-report questionnaire adapted from Bryant’s Index of
+Empathy for Children and Adolescents (Bryant, 1982) in which
+parents rate the empathetic abilities of their child on a 9-point
+Likert scale from –4 (strongly disagree) to 4 (strongly agree). This
+questionnaire provides three scores: Cognitive empathy (score –
+56 to 56), Aﬀective empathy (score –68 to 68), and Total empathy
+(score –92 to 92), with higher scores corresponding to higher
+levels of empathy. Cognitive empathy can be deﬁned as “the
+ability to intellectually take the role or perspective of another
+person involving the ability to decode and label emotions and
+their situational cues” (Dadds et al., 2008, p. 112). Aﬀective
+empathy is deﬁned as “an aﬀective response more appropriate
+to, or congruent with, someone else’s situation than to one’s own
+situation” (Dadds et al., 2008, p. 112). The GEM has adequate
+reliability and validity across gender and age (Dadds et al., 2008).
+In line with Decety and Cowell (2014), the Aﬀective empathy
+score was used as the main measure of empathy, whereas the total
+and cognitive scores were used as complementary measures, in
+order to distinguish the speciﬁc link of each aspect of empathy
+with MR skills.
+
+Affect Recognition
+The Aﬀect Recognition subtest from the NEPSY-II (Korkman
+et al., 2007) assesses children’s ability to recognize aﬀect from
+pictures of children’s faces expressing one of ﬁve basic emotions
+(happiness, sadness, anger, fear, disgust) or a neutral expression.
+This 35-item task has four conditions increasing in diﬃculty
+(number of distractors; score 0 to 35). The total number of
+correct responses was used as the aﬀect recognition variable in
+this study.
+
+Frontiers in Psychology | www.frontiersin.org
+
+4
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+Moral Reasoning
+The children’s version of the Socio-Moral Reasoning Aptitude
+Level task (So-Moral-Child, Dooley et al., 2010; Beauchamp et al.,
+2013) is a visual, computer-based task that presents nine moral
+dilemmas speciﬁcally designed for children and has gender-
+speciﬁc versions. Each dilemma (see example Figure 1) consists
+of an introductory screen presenting the name of the dilemma
+(e.g., teacher), three ﬁrst-person perspective pictures of children
+actors playing out various social scenarios representing a conﬂict
+centered on the moral domain (e.g., concerns with justice,
+welfare/harm, and rights) according to Social Domain Theory
+(Turiel, 1983), and a ﬁnal screen presenting a dichotomous
+decision (e.g., whether or not to engage in a particular action,
+such as stealing from a shop, cheating at a game, etc.). The
+aggregate number of responses is compiled to obtain a moral
+decision-making score, which ranges from 0 to 9 points. Children
+are then asked to provide a justiﬁcation for their decision.
+Each participant’s justiﬁcation is recorded verbatim and scored
+using a standardized coding system (Beauchamp and Dooley,
+2012) based on the cognitive-developmental approach to MR
+(Kohlberg et al., 1983; Turiel, 1983; Gibbs, 2010). The moral
+decision-making score does not aﬀect the moral justiﬁcation
+score (both are independent). Developmental stages of MR have
+been adapted to ﬁt the social nature of the dilemmas in the
+So-Moral task and consist of the following: (1) Centrations
+and authoritarian-based consequences; (2) Egocentric/pragmatic
+exchanges; (3) Interpersonal Focus; (4) Societal Regulation; and
+(5) Societal Evaluation (see Table 1). Transition stages (i.e., 1.5,
+2.5, etc.) are used to account for answers that provide elements
+of two consecutive reasoning stages. When elements of non-
+consecutive stages are provided, the response is coded according
+to the highest schema detected. The MR maturity score (0–45
+points) is obtained by summing the nine justiﬁcation scores.
+This test has adequate inter-rater reliability and construct validity
+(Dooley et al., 2010). Each justiﬁcation was scored independently
+by two trained raters (Intraclass correlation coeﬃcient = 0.81)
+and discrepancies were resolved by discussion and consensus.
+The MR maturity score was used as the main dependent variable.
+
+Executive Functioning
+Two tasks from the NEPSY-II battery (Korkman et al., 2007) and
+one task from the Wechsler Intelligence Scale for Children –
+Fourth Edition (WISC-IVCDN−F; Wechsler, 2005) were used
+to measure three executive functions (attentional control,
+inhibition, and verbal ﬂuency).
+
+Attentional control
+The WISC-IV Cancellation subtest was used to measure
+children’s ability to direct their attention and resist distraction
+during a goal-oriented task. Children are asked to detect and
+mark objects belonging to the same category (i.e., animals) that
+are mixed among distracters, within a speciﬁc time limit. The
+raw total score of this task was used as the attentional control
+variable.
+
+Inhibition
+The NEPSY-II Inhibition subtest, an adaptation of the widely
+used Stroop task (Stroop, 1935/1992), assesses children’s
+inhibition skills by using images (shapes and arrows) instead of
+words. In the ﬁrst condition (Naming), children look at a series
+of black and white shapes or arrows must name either the shapes
+(circles or squares) or the direction of arrows (up or down) as
+quickly as possible. In the second condition (Inhibition), children
+must look at the same series of black and white shapes or
+arrows, but must quickly name the opposite shapes or direction
+of arrow. In the third condition (shifting), children must alternate
+the response (same or opposite) depending on the color of the
+shape or arrow. The raw completion time score of the inhibition
+condition was used as the inhibition variable.
+
+Verbal ﬂuency
+The NEPSY-II Word generation subtest was used to assess
+participants’ verbal ﬂuency. In this task, children are asked to
+produce as many words as possible in 1 min, within a semantic
+and a phonetic condition. The raw semantic score was used as
+the verbal ﬂuency variable.
+
+Statistical Analyses
+Statistical analyses were performed using SPSS 21.0 software and
+the PROCESS macro for mediation and moderation analysis
+(Hayes, 2012, 2013). Prior to all statistical analyses, data were
+examined for any violations of test assumptions (normality,
+linearity, and homoscedasticity). Correlation coeﬃcients were
+calculated to examine the relationship between MR maturity
+and age, socioeconomic variables (family income, parental
+education level, and a composite SES score including both
+variables), EF variables (attentional control,
+inhibition, and
+verbal ﬂuency) and social cognition (ToM, empathy, and aﬀect
+recognition). In order to examine the potential moderating
+and mediating eﬀects of EF on the relationship between age
+and MR skills, we performed moderation analyses with each
+variable individually as potential moderators, and a parallel
+
+FIGURE 1 | Example item from the So-Moral-Child task (Socio-Moral Reasoning Aptitude Level).
+
+Frontiers in Psychology | www.frontiersin.org
+
+5
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+TABLE 1 | Brief description of So-Moral coding and examples.
+
+Level
+
+Brief description
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Moral justiﬁcations have an egocentric focus, which is based on obedience to higher authorities and
+potential consequences of their actions for themselves (e.g., punishment). Thinking at this level is inﬂexible;
+there is only one right/wrong way to act.
+Moral justiﬁcations are based on a concept of pragmatic deals or exchanging favours with others (‘fair
+deals’). Thinking is more ﬂexible and is determined by context. The correct option is the one that is right for
+oneself (self-interest).
+Moral justiﬁcations have a focus on interpersonal relationships, a sense of ‘good-ness’, and feelings such as
+empathy and trust. Decisions are made with good motives and a prosocial perspective of the world.
+Moral justiﬁcations start to incorporate a broader view of morality; based on the compliance with rules,
+regulations and standards that society has established to ensure social order.
+Moral justiﬁcations are characterized by the capacity to evaluate situations from various points of view to
+identify values involved in the speciﬁc situation in order to make the fairest decision. Protection of
+fundamental values and people’s rights is speciﬁc to this stage, even though these concepts are expressed
+very concretely.
+
+Example
+• Because I could go to jail.
+
+• Because I might need his/her help in the
+future.
+
+• Because he/she could get hurt.
+
+• Because if everyone were to be unfaithful,
+relationships would not have any meaning.
+• Because people work hard for their things and
+we should respect their belongings.
+
+multiple mediation analysis with attentional control, inhibition
+and verbal ﬂuency together as mediator variables, using the
+PROCESS macro provided by Hayes (2012). To assess the
+potential moderating and mediating eﬀect of social cognition
+variables (aﬀect recognition and third-order false beliefs, the
+ToM variable most correlated with MR) on the association
+between age and MR skills, we performed moderation analyses
+with each variable individually as a potential moderator, and a
+parallel multiple mediation analysis with both variables as a set
+of mediators. In mediation analyses, the statistical signiﬁcance of
+the obtained regression coeﬃcients was determined by obtaining
+a bias-corrected 95% conﬁdence interval by bootstrapping
+based on 1,000 resamples. Finally, a three-step hierarchical
+multiple regression analysis was conducted with age in the ﬁrst
+step, the EF most strongly associated with MR (i.e., verbal
+ﬂuency) in the second step and social cognition variables
+that correlated with MR in the ﬁnal
+to
+explore the speciﬁc contribution of demographic, cognitive,
+and socio-cognitive variables to MR maturity. Socioeconomic
+variables were not
+included in the models because they
+were not related to either MR maturity or other measures
+used in the study. Results corresponding to p < 0.05 were
+considered statistically signiﬁcant. The strength of correlations
+and eﬀect sizes were determined according to Cohen’s (1988)
+criteria.
+
+in order
+
+step,
+
+RESULTS
+
+Descriptive Results
+Participant demographic characteristics and participants’ results
+on socioeconomic, cognitive, and socio-cognitive measures are
+presented in Tables 2 and 3.
+
+Association of Moral Reasoning Maturity
+with Socioeconomic Factors
+Moral reasoning maturity was not related to socioeconomic
+variables including family income and maternal and paternal
+education level (see Table 3).
+
+Association of Moral Reasoning Maturity
+with Age, Executive Functioning, and
+Social Cognition
+As shown in Table 3, MR maturity was strongly and directly
+associated with age (r = 0.54 p < 0.001). In terms of EF,
+there was a moderate signiﬁcant relationship between MR
+maturity and inhibition, as well as verbal ﬂuency, and a
+small but signiﬁcant relationship between MR and attentional
+control. Concerning social cognition variables, MR maturity was
+moderately associated with total ToM and higher order ToM, as
+well as with aﬀect recognition, but it was not associated with ﬁrst-
+order false beliefs. Aﬀective empathy, our main empathy variable,
+as well as total empathy, were not associated with MR skills, but
+cognitive empathy approached signiﬁcance (r = 0.22 p = 0.054).
+Age and Moral Reasoning Maturity: The
+Moderating and Mediating Role of EF
+the moderation analyses performed using the
+Results of
+PROCESS macro detected no signiﬁcant interactions of age X
+attentional control, (b = –0.0009, 95% CI [–0.0016 –0.0033],
+t = 0.7155, p = 0.48); inhibition (b = –0.0001, 95% CI [–
+0.0031 –0.0029], t = –0.0671, p = 0.95) and verbal ﬂuency
+(b = –0.0014, 95% CI [–0.0068 –0.0040], t = –0.5167, p = 0.61)
+on MR maturity,
+these EF do not play a
+signiﬁcant moderating role in the relationship between age and
+MR maturity.
+
+indicating that
+
+Table 4 displays the bootstrapped estimates for the total
+and speciﬁc indirect eﬀects obtained from multiple mediation
+analysis. The total indirect eﬀect of age on MR skills through EF
+variables as a group was not statistically signiﬁcant, as the 95%
+conﬁdence intervals contained zero. Considering the possibility
+of having signiﬁcant speciﬁc indirect eﬀects in the absence of a
+signiﬁcant total indirect eﬀect (Preacher and Hayes, 2008), we
+evaluated the speciﬁc indirect eﬀects associated with each of the
+three mediators, detecting a signiﬁcant mediating role for verbal
+ﬂuency on the link between age and MR skills. To assess the
+eﬀect size of verbal ﬂuency as a mediator, we performed a simple
+mediator model. The indirect eﬀect of verbal ﬂuency obtained
+was statistically signiﬁcant (b= 0.041, 95% CI[0.0013 0.0890]), as
+
+Frontiers in Psychology | www.frontiersin.org
+
+6
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+TABLE 2 | Sociodemographic characteristics of the participants.
+
+Variable
+
+Frequency
+
+%
+
+Gender
+Male
+Female
+Ethnic origin
+White
+Hispanic
+African–American
+Total gross annual household income (CAN $)
+Below 20 000 $
+20 000 through 39 000 $
+40 000 through 59 000 $
+60 000 through 79 000 $
+80 000 through 99 000 $
+100 000 $ and more
+SES on the basis of the annual household income1
+High SES
+Middle SES
+Low SES
+Maternal education
+Master’s degree
+Bachelor’s degree
+College
+High school graduate
+Incomplete high school
+Paternal education
+Doctoral degree
+Master’s degree
+Bachelor’s degree
+College
+High school graduate
+Incomplete high school
+Missing values
+
+36
+40
+
+72
+2
+2
+
+4
+12
+17
+22
+16
+5
+
+5
+54
+16
+
+1
+10
+29
+28
+8
+
+1
+2
+4
+15
+35
+16
+3
+
+1 Statistics Canada, 2015.
+
+52.6
+47.4
+
+94.7
+2.6
+2.6
+
+5.3
+15.8
+22.4
+28.9
+21.1
+6.6
+
+6.6
+72.4
+21.1
+
+1.3
+13.2
+38.2
+36.8
+10.5
+
+1.3
+2.6
+5.3
+19.7
+46.1
+21.1
+3.9
+
+the conﬁdence intervals do not contain zero. The Kelley–Kappa
+squared obtained (κ2; Hayes, 2013) indicates an eﬀect size of 0.15,
+which is considered a medium eﬀect according to Preacher and
+Kelley (2011), based on Cohen’s (1988) criteria.
+
+Age and Moral Reasoning Maturity: The
+Moderating and Mediating Role of Social
+Cognition
+Results of the moderation analyses also detected non-signiﬁcant
+interactions of age X Third-order false beliefs (b = –0.0483,
+95% CI [–0.1080 –0.0114], t = –1.6131, p = 0.11) and aﬀect
+recognition (b = –0.0011, 95% CI [–0.0089 –0.0111], t = 0.2141,
+p = 0.83) on MR maturity, indicating that social cognition
+variables do not moderate the relationship between age and
+MR maturity. Table 4 displays the bootstrapped estimates for
+the total and speciﬁc indirect eﬀects obtained from multiple
+mediation analysis. The total indirect eﬀect of age on MR skills
+through third-order false beliefs and aﬀect recognition as a set
+was statistically signiﬁcant, as the conﬁdence intervals do not
+
+contain zero. The speciﬁc indirect eﬀect of each variable was
+evaluated, detecting a signiﬁcant mediating role of third-order
+false beliefs on the link between age and MR skills. The eﬀect size
+of third-order beliefs as mediators was also assessed performing a
+simple mediator model. The results indicate a signiﬁcant indirect
+eﬀect (b = 0.0224, 95% CI [0.0041 –0.0571]) with a medium eﬀect
+size (κ2 = 0.09).
+
+Contribution of Demographic, EF, and
+Socio-Cognitive Variables to Moral
+Reasoning Maturity
+As shown in Table 5, a three-level hierarchical multiple regression
+indicates that in Step 1, age contributed signiﬁcantly to the
+regression model, F(1,73) = 28.129, p < 0.001 and accounted
+for 28% of the variation in MR maturity, with a large eﬀect size
+(f 2 = 0.37). Introducing verbal ﬂuency to the model explained
+an additional 5% of variation in MR scores and the change in R2
+was signiﬁcant, F change (1,72) = 5.571, p = 0.021. Together, age
+and verbal ﬂuency explained 33% of MR scores (F(2,72)= 17.731,
+p < 0.001), which corresponds to a large eﬀect (f 2 = 0.49).
+Finally, the addition of social cognition variables (third-order
+false beliefs and aﬀect recognition) to the regression model
+explained an additional 6% of the variation in MR maturity and
+the change in R2 was also signiﬁcant, F(2,70) = 3.426, p = 0.038.
+Together, age, verbal ﬂuency, third-order false beliefs and aﬀect
+recognition explained 39% of MR scores [F(4,70) = 11.176,
+p < 0.001], which corresponds to a large eﬀect (f 2 = 0.64).
+When social cognition variables were included in step 3 of the
+regression model, verbal ﬂuency (β= 0.24, 0.041) and third-order
+false beliefs (β = 0.22, p = 0.030) were signiﬁcant, independent
+predictors of MR maturity.
+
+DISCUSSION
+
+This study explored the relationship between demographic
+factors, EF, social cognition, and children’s moral maturity, as well
+as the independent and combined contribution of these variables
+to MR.
+
+While several studies have found a link between demographic
+factors, such as maternal education and SES, and moral processes
+(Dunn et al., 2000; Arsenio and Gold, 2006; Hinnant et al.,
+2013), others have not reported such an association (Caravita
+et al., 2012; Vera-Estay et al., 2014). In the current study,
+neither the SES composite z-score, nor parental education and
+income individually were associated with children’ MR skills.
+This discrepancy in results may be due to population diﬀerences
+and the relatively high-level of SES in the current sample and
+absence of any real social risk. Despite adequate variability in
+family income in our sample, 98% of the mothers of participants
+had at least some high school education, possibly oﬀ-setting
+the adverse eﬀects of low SES, and contrasting with studies
+in extremely disadvantaged children (e.g., Arsenio and Gold,
+2006). In addition, methodological diﬀerences could contribute
+to explaining the lack of association between SES and MR in this
+study. Parental education is known to be linked to child academic
+
+Frontiers in Psychology | www.frontiersin.org
+
+7
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+TABLE 3 | Main descriptive results and correlations of the study.
+
+Variable
+
+M
+
+SD
+
+Correlation
+
+MR maturity
+
+Age
+
+SES composite
+
+0.54∗∗∗
+
+− 0.13
+− 0.13
+− 0.09
+− 0.04
+
+− 0.02
+
+1
+0.73∗∗∗
+0.74∗∗
+0.61∗∗∗
+
+0.75
+1
+1
+1
+
+9.9
+21.1
+9.3
+26.0
+
+− 0.03
+
+0
+0
+0
+
+108.6
+82.5
+30.3
+74.9
+
+1
+
+− 0.02
+− 0.05
+0.08
+− 0.11
+
+Age in months
+Socioeconomic variables
+SES composite z-score
+Annual Household income z-score
+Maternal education z-score
+Paternal education z-score
+Cognitive variables
+Intellectual functioning (WASI IQ)
+Attentional controla
+Verbal ﬂuencyb
+Inhibitionc
+Socio-cognitive variables
+Affect recognitiond
+Empathy (total score)e
+Cognitive empathyf
+Affective empathyg
+Theory of Mindh
+First-order false beliefsi
+Second-order false beliefsj
+Third-order false beliefsk
+Moral reasoningl
+∗p < 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001. aWISC-IV Cancelation raw total score; bNEPSY-II Word generation raw semantic score; cNEPSY-II Inhibition raw completion
+time score; dNEPSY-II Affect Recognition raw total score; eGrifﬁth Empathy Measure total score; fGrifﬁth Empathy Measure Cognitive empathy score; gGrifﬁth Empathy
+Measure Affective empathy score; hTheory of Mind Picture Stories total score; iTheory of Mind Picture Stories First-order false beliefs score; jTheory of Mind Picture
+Stories task Second-order false beliefs score; kTheory of Mind Picture Stories task Third-order false beliefs score; lSo-Moral, total justiﬁcation score.
+
+0.54∗∗∗
+0.34∗∗
+0.32∗∗
+0.29∗
+0.44∗∗∗
+0.27∗
+0.40∗∗
+0.36∗∗
+0.56
+
+− 0.22
+− 0.09
+− 0.10
+− 0.07
+− 0.08
+− 0.05
+− 0.08
+− 0.03
+− 0.13
+
+0.42∗∗∗
+0.21
+0.22
+0.19
+0.32∗∗
+0.11
+0.26∗
+0.40∗∗∗
+
+25.1
+33.2
+25.5
+23.8
+48.7
+2.7
+2.1
+1.9
+18.3
+
+4.6
+23.4
+14.2
+18.8
+7.8
+0.6
+0.9
+1.0
+5.3
+
+0.17
+0.36∗∗
+0.49∗∗∗
+− 0.43∗∗∗
+
+0.16
+0.64∗∗∗
+0.58∗∗∗
+− 0.66∗∗∗
+
+0.03
+0.05
+− 0.19
+
+competence, including reading and writing skills (Bradley and
+Corwyn, 2002; Janus and Duku, 2007; Hooper et al., 2010), yet
+the So-Moral task was speciﬁcally designed to remove the need
+for reading and writing for successful performance (Dooley et al.,
+2010), therefore potentially eliminating the association between
+parental education and MR. Further studies with a larger sample
+and greater SES and social risk variability may be necessary to
+clarify the exact role of parental education and SES on MR.
+
+and
+
+2013)
+
+recent
+
+studies
+
+(Gibbs,
+
+On the other hand, consistent with cognitive-developmental
+theories
+combining
+neurophysiological and behavioral measures (Decety et al., 2012),
+the current results conﬁrm the positive association between age
+and MR skills suggesting an evolution of these during the
+transitional period from childhood to pre-adolescence,
+in
+line with the results obtained in our study with early to late
+adolescents using the So-Moral task (Vera-Estay et al., 2014).
+
+This developmental tendency may be explained by diﬀerences
+in biological and cognitive maturity, but also by increased
+social experience and opportunities for social perspective taking.
+During the school years, children participate actively in the
+construction of social relationships and learn to adjust their
+behavior in order to be integrated in the community, especially in
+peer groups. With age, children learn to integrate and coordinate
+social and moral knowledge (Killen and Rutland, 2011), but this
+progressive process is inﬂuenced by the control of egocentric
+bias in order to consider other’s perspectives (Gibbs, 2013). In
+
+our study, younger children tended to justify moral decisions
+on the basis of egocentric and concrete reasons such as obeying
+authority (e.g., parents, teacher), avoiding punishment, and
+obtaining direct personal beneﬁts, whereas older children more
+frequently incorporated a socio-centric focus in their reasoning,
+including aspects such as empathy toward the victim, caring
+and maintaining interpersonal relationship, and more abstract
+concepts such as mutual respect, reciprocity, and responsibility.
+Despite the age-related tendency of MR skills in typically
+developing children, age alone was not suﬃcient to explain
+individual diﬀerences in MR. We therefore explored associations
+with other cognitive and socio-emotional factors in order to shed
+light on the building blocks of MR.
+
+Moral Reasoning and Executive
+Functioning
+Concerning the cognitive factors related to MR skills, three
+aspects of EF (attentional control, inhibition, and verbal ﬂuency)
+had a small to moderate association with MR skills, with verbal
+ﬂuency having the strongest association. Globally, these results
+are in line with previous research investigating the contribution
+of EF to social adaptation (Kochanska et al., 2000; Eisenberg
+et al., 2004; Martel et al., 2007; Beauchamp and Anderson, 2010;
+Miller and Hinshaw, 2010) and moral understanding (Decety and
+Howard, 2013), as well as with our previous study which found a
+positive link between MR and several EF (conceptual reasoning,
+
+Frontiers in Psychology | www.frontiersin.org
+
+8
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+TABLE 4 | Indirect effects of age on MR skills via EF and social cognition.
+
+Mediator
+
+Bootstrap
+estimate
+
+SE
+
+BC 95%
+CI lower
+
+BC 95%
+CI upper
+
+Model 1 EF
+Attention control
+Inhibition
+Verbal ﬂuency
+Total indirect effect
+Model 2 social cognition
+Affect recognition
+Third-order false beliefs
+Total indirect effect
+
+–0.0079
+0.0148
+0.0336
+0.0465
+
+0.0272
+0.0223
+0.0485
+
+0.0212
+0.0250
+0.0216
+0.0299
+
+0.0146
+0.0131
+0.0179
+
+–0.0498
+–0.0336
+0.0030
+–0.0148
+
+–0.0043
+0.0044
+0.0195
+
+0.0352
+0.0638
+0.0887
+0.1075
+
+0.0560
+0.0574
+0.0923
+
+Based on 1,000 bootstrap samples. BC, bias corrected; CI, conﬁdence interval.
+
+TABLE 5 | Contribution of demographic variables, EF, and social cognition
+to moral reasoning maturity.
+
+Predictor
+
+MR Maturity
+
+Step 1
+
+Age
+
+Step 2
+
+Age
+Verbal ﬂuency
+
+Step 3
+
+Age
+Verbal ﬂuency
+Affect recognition
+Third-order false beliefs
+
+Total R2
+
+n
+∗p < 0.05; ∗∗∗p < 0.001.
+
+R2
+0.28∗∗∗
+
+0.05∗
+
+0.06∗
+
+0.39∗
+76
+
+β
+
+0.53∗∗∗
+
+0.37∗
+0.28∗
+
+0.23
+0.24∗
+0.16
+0.22∗
+
+cognitive ﬂexibility, verbal ﬂuency, and feedback utilization), in
+addition to the independent contribution of cognitive ﬂexibility
+and verbal ﬂuency to MR maturity (Vera-Estay et al., 2014).
+
+The relationship between attentional control and MR skills
+highlights the importance of directing, focusing and maintaining
+attention on relevant stimuli during social situations. Whereas
+paying attention to social clues is considered the ﬁrst step in
+social understanding according to Crick and Dodge’s (1994)
+Social Information Processing Model, this result suggests that
+this skill is also speciﬁcally related to better MR. Thus, detecting
+the relevant information contained in the So-Moral task (as in
+everyday life) requires individuals to focus on the story, control
+environmental, and internal distractors, and pay attention to
+subtle visual details, in order to accurately interpret the situation
+that will then be evaluated according to moral processes.
+
+Inhibition skills were also related to more mature MR. This
+result is consistent with Barkley’s (1997) established ADHD
+model, which depicts inhibition as a pivotal skill for adequate
+self-regulation and social adaptation, one which sustains high
+order socio-cognitive processes, such as social perspective taking,
+internalization of speech and MR. In the same vein, Birch and
+
+Bloom (2004) have underscored the role of inhibition in cognitive
+perspective taking, speciﬁcally false belief understanding, since
+it requires the capacity to control and suspend automatized
+subjective points of view,
+in order to think about other’s
+mental states and knowledge. During MR, inhibiting one’s own
+point of view in favor of taking another’s perspective could
+enable people to distinguish between intentional and involuntary
+harm, or suspend the analysis of personal beneﬁts/costs in a
+moral decision in order to evaluate the potential eﬀects of
+these decisions on other people. Besides, inhibition skills work
+together with attentional control during the encoding step of the
+Social Information Processing Model, helping to control for the
+inﬂuence of distractive or irrelevant stimuli and stop disruptive
+behaviors, in order to focus on signiﬁcant social and moral
+cues. Of note, the ﬁnding of a signiﬁcant association between
+attentional/inhibitory skills and moral maturity suggests that
+future work should investigate the quality of MR in children
+presenting deﬁcits in these areas, such as those with ADHD.
+
+The inﬂuence of inhibition on internalization of speech, verbal
+ﬂuency, and MR proposed by Barkley (1997) is also consistent
+with our ﬁnding concerning the positive link between verbal
+ﬂuency and MR skills. Indeed, the ability to rapidly access
+vocabulary may favor inner speech ﬂuency and consequently
+the MR process, considered as an inner moral dialog in which
+social situations are evaluated in light of moral criteria (Tappan,
+1997). Discussions of moral issues with peers (Berkowitz and
+Gibbs, 1983; Walker et al., 2000) and parents (Walker and Taylor,
+1991; Walker et al., 2000) have been shown to be pivotal in MR
+development, further underscoring the importance of ﬂuid verbal
+skills. Therefore, besides the potential inﬂuence of verbal ﬂuency
+on the internal MR process, this EF may also support the exercise
+of MR skills in social contexts fostering active participation in
+moral dialogs and debate with others.
+
+Moral Reasoning and Socio-Cognitive
+Skills
+This study also investigated the relationship between MR and
+three important socio-cognitive skills in maturation during
+childhood: aﬀect recognition, empathy, and ToM.
+
+Facial emotional expressions are powerful clues for an
+adequate understanding of moral situations, since they inform
+the internal aﬀective state of the actors involved. However,
+traditional written MR tasks do not oﬀer this basic source
+of information. Taking to account this limitation, our study
+measured MR with a visual task including pictures or real child
+actors in which facial emotional expressions reﬂect the moral
+situation played out, and included an aﬀect recognition task
+developed for the pediatric population. Using this approach,
+we found that children who are better at recognizing emotions
+had more mature levels of MR, conﬁrming the importance of
+emotional information for a deeper comprehension of moral
+issues. This result is consistent with previous research relating
+deﬁcits in facial aﬀect recognition with psychopathy in youth
+and adult oﬀenders (Hastings et al., 2008; Bowen et al., 2014),
+as well as in children with psychopathic tendencies (Blair et al.,
+2001a; Stevens et al., 2001). Along with the association of MR
+
+Frontiers in Psychology | www.frontiersin.org
+
+9
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+with both attentional control and inhibition skills, the link
+between aﬀect recognition and MR skills is a novel and interesting
+ﬁnding that highlights the role of encoding cues on high-order
+social cognition, namely, MR skills. While attentional control
+and inhibition support the encoding process, facial emotional
+expressions play the role of content or relevant clue to be
+encoded. The aptitude to distinguish these emotions fosters the
+second step of social information processing (Crick and Dodge,
+1994), i.e., the interpretation of the encoded cues, providing rich
+information to infer more complex mental states to the actors
+involved in a given social situation (e.g., he is sad to have been
+rejected by a friend).
+
+Contrary to our hypothesis, children’s aﬀective empathy, as
+reported by their parents, was not related to their MR skills.
+While unexpected, this result is, however, in keeping with Decety
+and Cowell (2015)’s claims that empathy does not always lead to
+moral behavior and could sometimes aﬀect the objectivity of MR.
+In children, aﬀective empathy may, for instance, push them to
+protect a child from being bullied, but may also induce in-group
+bias justifying immoral behaviors in order to protect or help
+friends, interfering in the analysis of the consequences on other
+actors in the situation. The impact of in-group bias in children’s
+moral evaluations has also been demonstrated in a recent study
+of children aged 3–9 years, who considered within-group harm
+as wrong regardless of explicit rules, but between-group harm
+as wrong when explicit rules are present (Rhodes and Chalik,
+2013). Thus, mature MR skills may help children to analyze
+the situation and expand their concern beyond spontaneous and
+evolutionarily older mechanisms such as kin-care and in-group
+bias, to humanity as a whole. Perspective-taking skills have a
+key role in reducing group partiality and upholding the global
+application of moral values (Decety and Cowell, 2015).
+
+In line with this view, our study also found that ToM skills, in
+general, as well as higher-order levels of false belief understanding
+are associated with better MR skills. However, whereas basic
+understanding of other’s minds (ﬁrst-order false beliefs) was not
+associated with MR, more complex understanding represented
+by second-order and third-order false beliefs (e.g., “What does
+the boy expect the girl thinks he wants to do?”) was related to
+better MR skills in childhood. Third-order false beliefs support
+theoretical reasoning about intentions, lies, cheating, deception,
+and so on. Hence, along with aﬀect recognition, third-order false
+belief theoretically contribute to MR processing in the second
+step of social information processing (Crick and Dodge, 1994),
+sustaining the interpretation of cues in order to evaluate the
+moral situation, in addition to being the cognitive basis of social
+perspective taking.
+
+Age and Moral Reasoning Maturity: The
+Moderating and Mediating Role of EF
+and Social Cognition
+As described above, while the association between age and MR
+maturity has been documented theoretically and empirically
+(Decety et al., 2012; Gibbs, 2013), the multiple factors inﬂuencing
+this developmental trend continue to be explored. The second
+and third aims of this study were to investigate to what extent the
+
+link between age and MR maturity was moderated or mediated
+by EF and social cognition. According to our results and contrary
+to our hypothesis, neither EF nor social cognition variables
+moderated the eﬀect of age on MR maturity. This result suggests
+that, in healthy children, variations in EF and social cognition do
+not aﬀect the magnitude of the relationship between age and MR
+skills. Further research including children with EF and/or social
+cognition deﬁcits are necessary to determine the generalizability
+of the results. On the other hand, verbal ﬂuency and third-
+order false beliefs had a moderating role in this link, in line
+with cognitive-developmental views of MR, suggesting that the
+development of speciﬁc thinking processes related to internal
+speech and perspective taking help to explain the increase in
+moral maturity with age.
+
+In light of growing societal
+
+concern regarding the
+consequences of children’s behaviors, such as bullying and
+peer exclusion, for both victims and victimizers, it is necessary
+to create eﬀective strategies to foster appropriate MR skills
+at an early age. Understanding the mediators of the eﬀect
+of age on MR contributes to this challenge and provides a
+starting point for developing targeted intervention programs
+for the improvement of social skills in both typically developing
+and clinical populations. The results obtained here provide
+direction for such programs, particularly considering that both
+verbal ﬂuency and ToM have the potential to be targeted in
+socio-cognitive intervention programs.
+
+Combined Contributions of
+Demographic, Executive Functioning,
+and Social Cognition to Moral Reasoning
+The fourth aim of this study was to investigate the relative
+and combined contributions of age, EF, and socio-cognitive
+variables to children’s MR skills. To enhance power, the three-step
+hierarchical regression conducted included the variables most
+correlated with MR skills (i.e., age, verbal ﬂuency, third-order
+false beliefs, and aﬀect recognition).
+
+Together these factors explained 39% of the variation in
+children’s MR skills, each domain making an independent
+contribution. As expected in a sample of healthy children, the
+contribution of age (introduced in ﬁrst step) had a large eﬀect
+on MR scores, supporting the cognitive-developmental approach
+of morality (Gibbs, 2013) and in line with studies demonstrating
+that developmental disorders may interfere with this age trend
+(Anderson et al., 1999; Blair et al., 2001b; Couper et al., 2002;
+Dooley et al., 2010; Beauchamp et al., 2013). The addition of
+verbal ﬂuency (added in the second step) had a small but
+signiﬁcant independent contribution to MR scores, as well as
+third-order false beliefs and aﬀect recognition (added in the
+third step). In the ﬁnal model, children’s verbal ﬂuency and their
+ability to understand third-order false beliefs were independent
+predictors of MR maturity. The current study indicates that
+these two skills, theoretically at the core of MR, are not only
+associated with MR skills, but also serve as cognitive predictors
+in healthy children, suggesting that subtle variations in these
+skills may have an impact on the MR process. Considering that
+EF and social cognition are impaired in several developmental
+
+Frontiers in Psychology | www.frontiersin.org
+
+10
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+disorders of childhood aﬀecting social understanding, such as
+autism spectrum disorder and attention deﬁcit hyperactivity
+disorder (Korkmaz, 2011), this study provides strong support for
+investigating MR processes in such groups.
+
+Strengths and Limitations
+This study provides novel information about the contribution of
+socio-cognitive building blocks of children’s MR skills, on the
+basis of the results of an ecological approach to the measurement
+of MR for pediatric populations. Our sample has an adequate
+balance concerning the sex and age of the participants, which
+enhances generalization of the results. Moreover, the results
+obtained with healthy children shed light on potential
+loci
+of intervention for children at-risk for socially maladaptive
+behaviors. However, the present study has some limitations that
+need to be taken into account. First, MR is a higher-order
+human skill inﬂuenced by multiple interactive factors. Many of
+these were taken into account here in one of the few studies to
+explore their combined contribution; however, a modest sample
+size limited inclusion of additional environmental, cultural,
+and individual variables (including other EF) that could also
+contribute to MR. These could be explored in a larger sample,
+with more variability in terms of maternal education, SES and
+ethnicity, in order to build an even more comprehensive view
+of moral development. Although a strength of the study was
+that it relied on direct neuropsychological measures, empathy
+was assessed using a parent-report questionnaire, which may
+
+have introduced bias. Direct observations of children’ empathetic
+skills/behaviors could better estimate their relationship with MR.
+Finally, whereas our study observed age diﬀerences in MR skills
+in a cross-sectional design, further studies using a longitudinal
+design could more accurately explore the progression of MR
+during childhood and infer causal relationships between the
+variables explored.
+
+AUTHOR CONTRIBUTIONS
+
+All authors contributed to study conception and design. EV-E
+and MB contributed to the development of the study hypotheses.
+Testing and data collection were performed by EV-E, AS, and
+CC. EV performed the data analysis and interpretation under the
+supervision of MB. EV-E drafted the manuscript with input from
+MB. MB, AS, and CC provided critical revisions. All authors read
+and approved the ﬁnal version of the manuscript for submission.
+
+FUNDING
+
+This study was funded by the Social Sciences and Humanities
+Research Council of Canada and a scholarship to EV-E from the
+Government of Chile (CONICYT). The funding body was not
+involved in the study design, collection, analysis or interpretation
+of data, nor in the writing of the manuscript and the decision to
+submit the article for publication.
+
+REFERENCES
+Anderson, S. W., Bechara, A., Damasio, H., Tranel, D., and Damasio, A.
+(1999). Impairment of social and moral behavior related to early damage
+in human prefrontal cortex. Nat. Neurosci. 2, 1032–1037. doi: 10.1038/
+14833
+
+Arsenio, W. F., and Gold,
+
+injustice and
+inequality on children’s moral
+a
+theoretical model. Cogn. Dev. 21, 388–400. doi: 10.1016/j.cogdev.2006.
+06.005
+
+J. (2006). The eﬀects of social
+
+and behavior:
+
+judgments
+
+towards
+
+Baird, J., and Astington, J. W. (2004). The role of mental state understanding in the
+development of moral cognition and moral action. New Dir. Child Adolesc. Dev.
+103, 37–49. doi: 10.1002/cd.96
+
+Barkley, R. A. (1997). Behavioral inhibition, sustained attention, and executive
+functions: constructing a unifying theory of ADHD. Psychol. Bull. 121, 65–94.
+doi: 10.1037/0033-2909.121.1.65
+
+Beauchamp, M. H., and Anderson, V. (2010). SOCIAL: an integrative framework
+for the development of social skills. Psychol. Bull. Am. Psychol. Assoc. 136,
+39–64.
+
+Beauchamp, M. H., and Dooley, J. J. (2012). Administration and Coding Manual
+SocioMoral Reasoning Aptitude Level Task (So Moral). Montreal, QC: ABCs
+Laboratory.
+
+Beauchamp, M. H., Dooley, J. J., and Anderson, V. (2013). A preliminary
+investigation of moral reasoning and empathy after traumatic brain injury
+in adolescents. Brain Injury 27, 896–902. doi: 10.3109/02699052.2013.
+775486
+
+Bechi, M., Riccaboni, R., Ali, S., Fresi, F., Buonocore, M., Bosia, M., et al.
+(2012). Theory of mind and emotion processing training for patients
+with schizophrenia: preliminary ﬁndings. Psychiatry Res. 198, 371–377. doi:
+10.1016/j.psychres.2012.02.004
+
+Berkowitz, M. W., and Gibbs, J. C. (1983). Measuring the developmental features
+
+of moral discussion. Merrill Palmer Q. 29, 399–410.
+
+Birch, S. A., and Bloom, P. (2004). Understanding children’s and adults’
+limitations in mental state reasoning. Trends Cogn. Sci. 8, 255–260. doi:
+10.1016/j.tics.2004.04.011
+
+Blair, R. J. R., Colledge, E., Murray, L., and Mitchell, D. G. (2001a). A selective
+impairment in the processing of sad and fearful expressions in children
+with psychopathic tendencies. J. Abnorm. Child Psychol. 29, 491–498. doi:
+10.1023/A:1012277125119
+
+Blair, R. J. R., Monson, J., and Frederickson, N. (2001b). Moral reasoning and
+conduct problems in children with emotional and behavioural diﬃculties. Pers.
+Individ. Diﬀer. 31, 799–811. doi: 10.1016/S0191-8869(00)00181-1
+
+Bowen, K. L., Morgan, J. E., Moore, S. C., and van Goozen, S. H. (2014).
+Young Oﬀenders’ emotion recognition dysfunction across emotion intensities:
+explaining variation using psychopathic traits, conduct disorder and oﬀense
+severity. J. Psychopathol. Behav. Assess. 36, 60–73. doi: 10.1007/s10862-013-
+9368-z
+
+Bryant, B. K. (1982). An index of empathy for children and adolescents. Child Dev.
+
+53, 413–425. doi: 10.2307/1128984
+
+Caravita, S. C., Giardino, S., Lenzi, L., Salvaterra, M., and Antonietti, A.
+(2012). Socio-economic factors related to moral reasoning in childhood and
+adolescence: the missing link between brain and behavior. Front. Hum.
+Neurosci. 6:262. doi: 10.3389/fnhum.2012.00262
+
+Carlson, S. M., and Moses, L. J. (2001). Individual diﬀerences in inhibitory control
+and children’s theory of mind. Child Dev. 72, 1032–1053. doi: 10.1111/1467-
+8624.00333
+
+Cohen, J. (1988). Statistical Power Analysis for the Behavioral Sciences, 2nd Edn.
+
+Hillsdale, NJ: Lawrence Erlbaum Associates.
+
+child
+
+Bradley, R. H.,
+
+and Corwyn, R.
+
+F.
+development. Annu. Rev.
+
+and
+10.1146/annurev.psych.53.100901.135233
+(2005). Emotion recognition,
+in
+
+Brune, M.
+behavior
+schizophrenia.
+10.1016/j.psychres.2004.10.007
+
+Psychiatry
+
+(2002).
+Psychol.
+
+Socioeconomic
+
+53,
+
+371–399.
+
+status
+doi:
+
+‘theory of mind,’
+
+Res.
+
+133,
+
+and social
+doi:
+
+135–147.
+
+Frontiers in Psychology | www.frontiersin.org
+
+11
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+Decety, J., and Lamm, C. (2006). Human empathy through the lens of social
+
+Case of Face Recognition. Oxford: Blackwell.
+
+Couper, E., Jacobs, R., and Anderson, V. (2002). Adaptive behaviour and moral
+reasoning in children with frontal lobe lesions. Brain Impairment 3, 105–113.
+doi: 10.1375/brim.3.2.105
+
+Crick, N., and Dodge, K. (1994). A review and reformulation of social information-
+processing mechanisms in children’s social adjustment. Psychol. Bull. 115,
+74–101. doi: 10.1037/0033-2909.115.1.74
+
+Cui, L., Colasante, T., Malti, T., Ribeaud, D., and Eisner, M. P. (2015). Dual
+trajectories of reactive and proactive aggression from mid-childhood to early
+adolescence: relations to sensation seeking, risk taking, and moral reasoning.
+J. Abnorm. Child Psychol. doi: 10.1007/s10802-015-0079-7 [Epub ahead of
+print].
+
+Cushman, F., Sheketoﬀ, R., Wharton, S., and Carey, S.
+
+(2013). The
+judgment. Cognition 127, 6–21. doi:
+
+development of
+10.1016/j.cognition.2012.11.008
+
+intent-based moral
+
+Dadds, M. R., Hunter, K., Hawes, D. J., Frost, A. D., Vassallo, S., Bunn, P., et al.
+(2008). A measure of cognitive and aﬀective empathy in children using parent
+ratings. Child Psychiatry Hum. Dev. 39, 111–122. doi: 10.1007/s10578-007-
+0075-4
+
+Daniel, E., Dys, S. P., Buchmann, M., and Malti, T. (2014). Developmental relations
+between sympathy, moral emotion attributions, moral reasoning, and social
+justice values from childhood to early adolescence. J. Adolesc. 37, 1201–1214.
+doi: 10.1016/j.adolescence.2014.08.009
+
+Decety, J., and Cowell, J. M. (2014). The complex relation between morality and
+
+empathy. Trends Cogn. Sci. 18, 337–339. doi: 10.1016/j.tics.2014.04.008
+
+Decety, J., and Cowell, J. M. (2015). “The equivocal relationship between Morality
+and Empathy,” in The Moral Brain : A Multidisciplinary Perspective, eds J.
+Decety and T. Wheatley (Cambridge, MA: The MIT Press), 279–302.
+
+Decety, J., and Howard, L. H. (2013). The role of aﬀect in the neurodevelopment of
+
+morality. Child Dev. Perspect. 7, 49–54. doi: 10.1111/cdep.12020
+
+neuroscience. Sci. World J. 6, 1146–1163. doi: 10.1100/tsw.2006.221
+
+Decety, J., Michalska, K. J., and Kinzler, K. D. (2012). The contribution of emotion
+and cognition to moral sensitivity: a neurodevelopmental study. Cereb. Cortex
+22, 209–220. doi: 10.1093/cercor/bhr111
+
+Devine, R. T., and Hughes, C. (2014). Relations between false belief understanding
+and executive function in early childhood: a meta-analysis. Child Dev. 85,
+1777–1794. doi: 10.1111/cdev.12237
+
+Dooley, J. J., Beauchamp, M. H., and Anderson, V. (2010). The measurement
+of sociomoral reasoning in adolescents with traumatic brain injury: a pilot
+investigation. Brain Impairment 11, 152–161. doi: 10.1375/brim.11.2.152
+
+Dumontheil, I., Apperly, I. A., and Blakemore, S.-J. (2010). Online usage of theory
+of mind continues to develop in late adolescence. Dev. Sci. 13, 331–338. doi:
+10.1111/j.1467-7687.2009.00888.x
+
+Dunn,
+
+J., Cutting, A. L., and Demetriou, H.
+
+sensibility,
+understanding others, and children’s friendship interactions in the preschool
+period. Br. J. Dev. Psychol. 18, 159–177. doi: 10.1348/026151000165625
+
+(2000). Moral
+
+Eisenberg, N. (2003). “Prosocial behavior, empathy, and sympathy,” in Well-Being:
+Positive Development Across the Life Course, eds M. H. Bornstein, L. Davidson,
+C. L. M. Keyes, and K. A. Moore (Mahwah, NJ: Lawrence Erlbaum Associates
+Publishers), 253–265.
+
+Eisenberg, N., and Fabes, R. A. (1990). Empathy: conceptualization, measurement,
+and relation to prosocial behavior. Motiv. Emot. 14, 131–149. doi:
+10.1007/BF00991640
+
+Eisenberg, N., Guthrie, I. K., Cumberland, A., Murphy, B. C., Shepard, S. A.,
+Zhou, Q., et al. (2002). Prosocial development in early adulthood: a longitudinal
+study. J. Pers. Soc. Psychol. 82, 993–1006. doi: 10.1037/0022-3514.82.6.993
+
+Eisenberg, N., and Mussen, P.
+
+(1978). Empathy and moral development
+in adolescence. Dev. Psychol. 14, 185–186. doi: 10.1037/0012-1649.
+14.2.185
+
+Eisenberg, N., Spinrad, T. L., Fabes, R. A., Reiser, M., Cumberland, A., Shepard,
+S. A., et al. (2004). The relations of eﬀortful control and impulsivity to
+children’s resiliency and adjustment. Child Dev. 75, 25–46. doi: 10.1111/j.1467-
+8624.2004.00652.x
+
+Gibbs, J. C. (2010). Moral Development & Reality: Beyond the Theories of Kohlberg
+
+and Hoﬀman, 2nd Edn. Boston: Allyn & Bacon.
+
+Gibbs, J. C. (2013). Moral Development and Reality: Beyond the Theories of
+Kohlberg, Hoﬀman, and Haidt, 3rd Edn. New York, NY: Oxford University
+Press.
+
+Haidt, J., Koller, S. H., and Dias, M. G. (1993). Aﬀect, culture, and morality, or is
+it wrong to eat your dog? J. Pers. Soc. Psychol. 65, 613–628. doi: 10.1037/0022-
+3514.65.4.613
+
+Hastings, M. E., Tangney, J. P., and Stuewig, J. (2008). Psychopathy and
+Identiﬁcation of Facial Expressions of Emotion. Pers. Individ. Diﬀer. 44, 1474–
+1483. doi: 10.1016/j.paid.2008.01.004
+
+Hayes, A. F. (2012). PROCESS: A Versatile Computational Tool for Observed
+Variable Mediation, Moderation, and Conditional Process Modeling [White
+paper]. Available at: http://www.afhayes.com/public/process2012.pdf
+
+Hayes, A. F. (2013). Introduction to Mediation, Moderation, and Conditional
+Process Analysis: A Regression-Based Approach. New York, NY: The Guilford
+Press.
+
+Herba, C. M., Landau, S., Russell, T., Ecker, C., and Phillips, M. L. (2006).
+The development of emotion-processing in children: eﬀects of age, emotion,
+and intensity. J. Child Psychol. Psychiatry 47, 1098–1106. doi: 10.1111/j.1469-
+7610.2006.01652.x
+
+Hinnant, J. B., Nelson, J. A., O’Brien, M., Keane, S. P., and Calkins, S. D. (2013). The
+interactive roles of parenting, emotion regulation and executive functioning
+in moral reasoning during middle childhood. Cogn. Emot. 27, 1460–1468. doi:
+10.1080/02699931.2013.789792
+
+Hoﬀman, M. L. (2000). Empathy and Moral Development : Implications for Caring
+
+and Justice. Cambridge: Cambridge University Press.
+
+Hooper, S. R., Roberts, J. E., Nelson, L., Zeisel, S., and Kasambira Fannin, D. (2010).
+Preschool predictors of narrative writing skills in elementary school children.
+Sch. Psychol. Q. 25, 1–12. doi: 10.1037/a0018329
+
+Janus, M., and Duku, E. (2007). The school entry gap: socioeconomic, family, and
+health factors associated with children’s school readiness to learn. Early Educ.
+Dev. 18, 375–403. doi: 10.1080/10409280701610796a
+
+Johnson, M. H., and Morton, J. (1991). Biology and Cognitive Development: the
+
+Kerr, A., and Zelazo, P. D. (2004). Development of "hot" executive function:
+the children’s gambling task. Brain Cogn. 55, 148–157. doi: 10.1016/S0278-
+2626(03)00275-6
+
+Killen, M., Mulvey, K. L., Richardson, C., and Jampol, N. (2011). The accidental
+transgressor: morally relevant theory of mind. Cognition 119, 197–215. doi:
+10.1016/j.cognition.2011.01.006
+
+Killen, M., and Rutland, A. (2011). The Emergence of Morality in Childhood
+Children and Social Exclusion: Morality, Prejudice, and Group Identity (Malden,
+MA: Wiley-Blackwell), 9–36.
+
+Kochanska, G., Murray, K. T., and Harlan, E. T. (2000). Eﬀortful control in
+early childhood: continuity and change, antecedents, and implications for
+social development. Dev. Psychol. 36, 220–232. doi: 10.1037/0012-1649.36.
+2.220
+
+Kohlberg, L., Levine, C., and Hewer, A. (1983). Moral Stages: a Current Formulation
+
+and a Response to Critics. Basel. New York, NY: Karger Publishers.
+
+Korkman, M., Kirk, U., and Kemp, S. L. (2007). NEPSY II. Clinical and
+
+Tnterpretative Manual. San Antonio, TX: Psychological Corporation.
+
+Korkmaz, B. (2011). Theory of mind and neurodevelopmental disorders of
+childhood. Pediatr. Res. 69(Pt 2), 101R–108R. doi: 10.1203/PDR.0b013
+e318212c177
+
+Kretschmer, A., Lampmann, S.-A., and Altgassen, M. (2014). Relations between
+moral reasoning,
+theory of mind and executive functions in children
+with autism spectrum disorders. Int. J. Dev. Disabil. 60, 174–183. doi:
+10.1179/2047387714Y.0000000045
+
+Lagattuta, K. H. (2005). When you shouldn’t do what you want to do: young
+children’s understanding of desires. Rules Emot. Child Dev. 76, 713–733. doi:
+10.1111/j.1467-8624.2005.00873.x
+
+Lane, J. D., Wellman, H. M., Olson, S. L., LaBounty, J., and Kerr, D. C.
+(2010). Theory of mind and emotion understanding predict moral
+development in early childhood. Br. J. Dev. Psychol. 28(Pt 4), 871–889.
+doi: 10.1348/026151009X483056
+
+Liddle, B., and Nattle, D. (2006). Higher-order theory of mind and social
+competence in school-age children. J. Cult. Evolu. Psychol. 4, 231–246. doi:
+10.1556/JCEP.4.2006.3-4.3
+
+Malti, T., Eisenberg, N., Kim, H., and Buchmann, M. (2013). Developmental
+trajectories of sympathy, moral emotion attributions, and moral reasoning:
+the role of parental support. Soc. Dev. 22, 773–793. doi: 10.1111/sode.
+12031
+
+Frontiers in Psychology | www.frontiersin.org
+
+12
+
+March 2016 | Volume 7 | Article 227
+
+Vera-Estay et al.
+
+Social Cognition in Childhood
+
+Malti, T., and Latzko, B. (2010). Children’s moral emotions and moral cognition:
+towards an integrative perspective. New Dir. Child Adolesc. Dev. 2010, 1–10. doi:
+10.1002/cd.272
+
+Martel, M. M., Nigg, J. T., Wong, M. M., Fitzgerald, H. E., Jester, J. M., Puttler,
+L. I., et al. (2007). Childhood and adolescent resiliency, regulation, and
+executive functioning in relation to adolescent problems and competence in a
+high-risk sample. Dev. Psychopathol. 19, 541–563. doi: 10.1017/S09545794070
+70265
+
+Mathersul, D., Palmer, D. M., Gur, R. C., Gur, R. E., Cooper, N., Gordon, E.,
+et al. (2009). Explicit identiﬁcation and implicit recognition of facial emotions:
+II. Core domains and relationships with general cognition. J. Clin. Exp.
+Neuropsychol. 31, 278–291. doi: 10.1080/13803390802043619
+
+Miller, M., and Hinshaw, S. P. (2010). Does childhood executive function predict
+adolescent functional outcomes in girls with ADHD? J. Abnorm. Child Psychol.
+38, 315–326. doi: 10.1007/s10802-009-9369-2
+
+Miller, P. A., Eisenberg, N., Fabes, R. A., and Shell, R. (1996). Relations of
+moral reasoning and vicarious emotion to young children’s prosocial behavior
+toward peers and adults. Dev. Psychol. 32, 210–219. doi: 10.1037/0012-1649.32.
+2.210
+
+Moll, J., Zahn, R., de Oliveira-Souza, R., Krueger, F., and Grafman, J. (2005).
+OPINION The neural basis of human moral cognition. Nat. Rev. Neurosci. 6,
+799–809. doi: 10.1038/nrn1768
+
+Preacher, K. J., and Hayes, A. F. (2008). Asymptotic and resampling strategies for
+assessing and comparing indirect eﬀects in multiple mediator models. Behav.
+Res. Methods 40, 879–891. doi: 10.3758/BRM.40.3.879
+
+Preacher, K. J., and Kelley, K. (2011). Eﬀect size measures for mediation models:
+quantitative strategies for communicating indirect eﬀects. Psychol. Methods 16,
+93–115. doi: 10.1037/a0022658
+and Chalik, L.
+
+Rhodes, M.,
+
+(2013). Social
+interpersonal obligations. Psychol.
+
+categories
+Sci.
+24,
+
+as markers of
+999–1006. doi:
+
+intrinsic
+10.1177/0956797612466267
+
+Roberts, W., and Strayer, J. (1996). Empathy, emotional expressiveness, and
+
+prosocial behavior. Child Dev. 67, 449–470. doi: 10.2307/1131826
+
+Rosenqvist, J., Lahti-Nuuttila, P., Laasonen, M., and Korkman, M. (2014).
+Preschoolers’
+relationships with
+other neurocognitive capacities. Child Neuropsychol. 20, 281–302. doi:
+10.1080/09297049.2013.778235
+
+recognition of emotional expressions:
+
+Sharp, C., Fonagy, P., and Goodyer,
+
+I. M. (2008). Social Cognition and
+
+Developmental Psychopathology. Toronto, ON: Oxford University Press.
+
+Smetana, J. G., Jambon, M., Conry-Murray, C., and Sturge-Apple, M. L.
+(2012). Reciprocal associations between young children’s developing moral
+judgments and theory of mind. Dev. Psychol. 48, 1144–1155. doi: 10.1037/a00
+25891
+
+Statistics Canada (2015). Median Total Income, by Family Type, by Province and
+Territory. Available at: http://www.statcan.gc.ca/tables-tableaux/sum-som/l01/
+cst01/famil108a-eng.htm [Accessed on 26 June, 2015].
+
+Stevens, D., Charman, T., and Blair, R. J. R. (2001). Recognition of emotion in facial
+expressions and vocal tones in children with psychopathic tendencies. J. Genet.
+Psychol. 162, 201–211. doi: 10.1080/00221320109597961
+
+Stroop, J. R. (1935/1992). Studies of interference in serial verbal reactions. J. Exp.
+
+Psychol. 121, 15–23. doi: 10.1037/0096-3445.121.1.15
+
+Tappan, M. B. (1997). Language, culture, and moral development: a vygotskian
+
+perspective. Dev. Rev. 17, 78–100. doi: 10.1006/drev.1996.0422
+
+Thomas, L. A., De Bellis, M. D., Graham, R., and LaBar, K. S. (2007). Development
+of emotional facial recognition in late childhood and adolescence. Dev. Sci. 10,
+547–558. doi: 10.1111/j.1467-7687.2007.00614.x
+
+Turiel, E. (1983). The Development of Social Knowledge : Morality and Convention.
+
+Cambridge: Cambridge University Press.
+
+Turiel, E. (2002). The Culture of Morality: Social Development, Context, and
+
+Conﬂict. Cambridge: Cambridge University Press.
+
+Vera-Estay, E., Dooley,
+
+(2014). Cognitive
+underpinnings of moral reasoning in adolescence: the contribution of executive
+functions. J. Moral Educ. 44, 17–33. doi: 10.1080/03057240.2014.986077
+
+J., and Beauchamp, M. H.
+
+J.
+
+Wainryb, C., and Brehl, B. A. (2006). I thought she knew that would hurt my
+feelings: developing psychological knowledge and moral thinking. Adv. Child
+Dev. Behav. 34, 131–171.
+
+Walker, L. J., Hennig, K. H., and Krettenauer, T. (2000). Parent and peer contexts
+for children’s moral reasoning development. Child Dev. 71, 1033–1048. doi:
+10.1111/1467-8624.00207
+
+Walker, L.
+
+J., and Taylor,
+
+(1991). Family interactions and the
+development of moral reasoning. Child Dev. 62, 264–283. doi: 10.1111/j.
+1467-8624.1991.tb01530.x
+
+J. H.
+
+Wechsler, D. (1999). Wechsler Abbreviated Scale of Intelligence (WASI). San
+
+Antonio, TX: Harcourt Assessment.
+
+Wechsler, D. (2005). Échelle d’intelligence de Wechsler Pour Enfants – Quatrième
+Edition – Version Pour Francophones du Canada. Toronto, ON: Harcourt
+Assessment.
+
+Young, L., Cushman, F., Hauser, M., and Saxe, R. (2007). The neural basis of the
+interaction between theory of mind and moral judgment. Proc. Natl. Acad. Sci.
+U.S.A. 104, 8235–8240. doi: 10.1073/pnas.0701408104
+
+Conﬂict of Interest Statement: The authors declare that the research was
+conducted in the absence of any commercial or ﬁnancial relationships that could
+be construed as a potential conﬂict of interest.
+
+Copyright © 2016 Vera-Estay, Seni, Champagne and Beauchamp. This is an open-
+access article distributed under the terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or reproduction in other forums is permitted,
+provided the original author(s) or licensor are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice.
+No use, distribution or reproduction is permitted which does not comply with these
+terms.
+
+Frontiers in Psychology | www.frontiersin.org
+
+13
+
+March 2016 | Volume 7 | Article 227
+
+

@@ -1,0 +1,1941 @@
+Developmental Science 2017; 20: e12447
+
+DOI: 10.1111/desc.12447
+
+PAPER
+
+Action mechanisms for social cognition: behavioral and neural
+correlates of developing Theory of Mind
+
+Lindsay C. Bowman,1 Samuel G. Thorpe,2 Erin N. Cannon2 and
+Nathan A. Fox2
+
+1. Harvard Medical School, Boston Children’s Hospital, USA
+2. Department of Human Development and Quantitative Methodology, University of Maryland, USA
+
+Abstract
+
+Many psychological theories posit foundational links between two fundamental constructs: (1) our ability to produce, perceive,
+and represent action; and (2) our ability to understand the meaning and motivation behind the action (i.e. Theory of Mind;
+ToM). This position is contentious, however, and long-standing competing theories of social-cognitive development debate roles
+for basic action-processing in ToM. Developmental research is key to investigating these hypotheses, but whether individual
+differences in neural and behavioral measures of motor action relate to social-cognitive development is unknown. We examined
+3- to 5-year-old children’s (N = 26) EEG mu-desynchronization during production of object-directed action, and explored
+associations between mu-desynchronization and children’s behavioral motor skills, behavioral action-representation abilities,
+and behavioral ToM. For children with high (but not low) mu-desynchronization, motor skill related to action-representation
+abilities, and action-representation mediated relations between motor skill and ToM. Results demonstrate novel foundational
+links between action-processing and ToM, suggesting that basic motor action may be a key mechanism for social-cognitive
+development, thus shedding light on the origins and emergence of higher social cognition.
+
+Research highlights
+
+Introduction
+
+(cid:129) We provide evidence that individual differences in
+children’s explicit ToM relate to individual differ-
+ences in neural and behavioral measures of basic
+action, demonstrating novel links between action and
+social cognition. Specifically, when neural systems
+supporting action-processing are highly integrated,
+children’s action-representation abilities mediate
+relations between their basic action-production skills
+and ToM.
+
+(cid:129) Whether/how neural systems underlying action sup-
+port higher social cognition is controversial and
+debated across many fields. Results help clarify
+functions of the mu-rhythm – a measure commonly
+used to investigate neural systems supporting action
+– and shed light on the origins and course of social-
+cognitive development.
+
+Theory of Mind (ToM) – understanding that internal
+mental states such as beliefs, desires,
+intentions, and
+knowledge motivate outward action and interaction – is
+a cornerstone of social cognition, and has been the focus
+of decades of research across a remarkable breadth of
+fields. Yet, core questions about factors and processes
+supporting ToM and its development are debated, and
+remain unclear. In a comprehensive examination of ToM
+development in early childhood, the present study brings
+together measures of executive functioning (EF) and
+verbal intelligence (long-established correlates of ToM;
+see Devine & Hughes, 2014; Milligan, Astington &
+Dack, 2007, for meta-analyses) with measures of basic
+motor action. We demonstrate novel foundational links
+between individual differences in ToM and both behav-
+ioral and neural measures of action – beyond influence
+
+Address for correspondence: Lindsay C. Bowman, Center for Mind and Brain, University of California, Davis, 267 Cousteau Place, Davis, CA 95618,
+USA; e-mail: lcbowman@ucdavis.edu
+
+© 2016 John Wiley & Sons Ltd
+
+2 of 16 Lindsay C. Bowman et al.
+
+of EF and verbal intelligence – to shed new light on
+potential origins and developmental mechanisms of
+higher social cognition.
+
+Theoretical links between action-processing and ToM
+
+Theories in both classic and current literature posit links
+between action and ToM. Despite some differences, they
+converge on the position that the neural and/or mental
+processes involved in planning, executing, and perceiving
+basic bodily movements – referred to broadly in this
+manuscript as ‘action processes’ or ‘action-processing’ –
+contribute to understanding mental states.
+
+To illustrate, several positions emphasize the role of
+internal representation of action in developing mental-
+state understanding. We define action-representation as
+the internal mental process of recreating some semblance
+of a perceived or executed action, in the absence of any
+real-time perception or execution. Some researchers argue
+that mental-state understanding evolved from a neural
+system for detecting and representing actions (Blakemore
+& Decety, 2001; Frith & Frith, 1999). In addition,
+proponents of
+‘simulation’ accounts of mental-state
+understanding posit that others’ actions are mapped onto
+internal representations – or simulations – of one’s own
+actions. It is hypothesized that these simulations, by way
+of connection to one’s own mental states, can then guide
+inference about the mental states motivating others’
+actions (e.g. Goldman, 1992; Gordon, 1996; Decety &
+Grezes, 2006; Gallese & Sinigaglia, 2011).
+
+Other theoretical positions linking action-processes
+and ToM emphasize an additional component beyond
+action-perception and action-representation: action-pro-
+duction – defined here as the execution of one’s own
+actions. Hunnius and Bekkering (2014) argue that
+infants’ action-production experience provides multi-
+faceted representations of actions and their conse-
+quences, which lead to associations between actions
+and outcomes that can then be used to understand and
+predict others’ actions. Woodward (2013; Woodward &
+Gerson, 2014) also argues that infants’ action-represen-
+tations are derived from action-production, and that
+together action-production and representation support
+developing understanding of the intentions and goals
+motivating action, particularly when infants experience
+their own and others’ goal-directed actions in co-
+occurrence. These ideas are echoed by Meltzoff (e.g.
+2002, 2007, 2013) who proposes that ToM is jump-
+started through (1)
+initial detection of equivalences
+between perceived and produced actions, (2) develop-
+ments in producing one’s own actions as motivated by
+one’s own mental states, and (3) the ability to represent
+others’ actions similarly to one’s own. In brief, when
+
+© 2016 John Wiley & Sons Ltd
+
+infants see others acting ‘like me’ (i.e. like the infant
+themself), they project that others have mental experi-
+ences also like their own. Theories of ‘embodied social
+cognition’ highlight similar themes and posit that social
+understanding arises from the production and mutual
+perception of body actions and their outcomes (e.g.
+Daum, Sommerville & Prinz, 2009).
+
+However, these theoretical positions require substan-
+tiation with empirical research, especially considering
+that not all theories of ToM development emphasize a
+foundational role of basic action-processing. Indeed,
+other theories emphasize, for example, innate cortical
+modules dedicated specifically to mental-state reasoning
+(e.g. Scholl & Leslie, 1999), or na€ıve conceptual theories
+of how and why humans generally behave the way they
+do (e.g. Gopnik & Wellman, 1992, 2012), or advance-
+ments in general EF and inhibitory control (e.g. Carlson
+& Moses, 2001; Devine & Hughes, 2014) as alternative
+mechanisms supporting ToM development. Empirical
+research is therefore critical
+to substantiate action-
+processing as a key developmental construct that con-
+tributes to ToM development.
+
+Behavioral relations between action-processing and
+ToM
+
+Behavioral research in infancy provides some support for
+theories linking the emergence of mental-state under-
+standing to action-processing (see Hunnius & Bekkering,
+2014; Woodward, 2013, for reviews). Indeed,
+infants’
+action-production experience is associated with under-
+standing the goals and intentions behind others’ actions
+(e.g. Ambrosini, Reddy, de Looper, Costantini, Lopez
+et al., 2013; Brune & Woodward, 2007; Cannon, Wood-
+ward, Gredeb€ack, von Hofsten & Turek, 2012; Wood-
+ward & Guajardo, 2002; Kanakogi & Itakura, 2011;
+Gerson & Woodward, 2014; Sommerville, Hildebrand &
+Crane, 2008; Sommerville, Woodward & Needham,
+2005). However, relations between action-processing
+and detection of intentions and goals in infancy do not
+provide clear evidence that action-processing facilitates
+development of the complex mental-state understanding
+characteristic of ToM. Developments
+in children’s
+explicit understanding (i.e. as measured with pointing
+or verbal response) of beliefs, desires, knowledge, and
+emotions are manifest
+in the preschool years, over
+roughly 3 to 5 years old (Wellman, Cross & Watson,
+2001; Wellman & Liu, 2004). Thus, investigating how
+behavioral developments in action-processing relate to
+preschoolers’ developments in these advanced, explicit
+mental-state understandings is needed to provide direct
+evidence that action-processing contributes to develop-
+ing higher social cognition and a fully-fledged ToM.
+
+Mu-rhythm as a neural mechanism for linking
+action-processing with ToM development
+
+(e.g. voluntary hand movement)
+
+A specific neural mechanism facilitating links between
+action and ToM, present in early life, would further
+support the notion that action-processing is important
+for ToM development. One possible neural mechanism
+may be captured in the electroencephalogram (EEG) mu-
+rhythm. In both adults and infants/children, mu-rhythm
+reflects EEG oscillations in ‘alpha’ frequency bands
+(~8–13 Hz in adults, ~6–9 Hz in infants/children) that
+desynchronize (i.e. decrease in spectral power relative to a
+resting/baseline period) during an action-production
+event
+(Muthuku-
+maraswamy & Johnson 2004; Pfurtscheller, Neuper,
+Andrew & Edlinger, 1997). The analyses used to identify
+mu-rhythm are often referred to as event-related desyn-
+chronization (ERD) analyses. For mu-rhythm, desyn-
+chronization often occurs maximally over central scalp
+locations overlying sensorimotor cortex (Kuhlman,
+1978), suggesting that it may index sensorimotor cortical
+activation (e.g. Leocani, Toro, Manganotti, Zhuang &
+Hallett, 1997; Toro, Deuschl, Thatcher, Sato, Kufta
+et al., 1994). Indeed, source localization studies have
+identified source estimates of mu-rhythm concentrated in
+sensorimotor areas (Hari, Salmelin, M€akel€a, Salenius &
+Helle, 1997; Salmelin & Hari, 1994a, 1994b; Thorpe,
+Cannon & Fox, 2016).
+
+Though most robustly defined during action-produc-
+tion, mu-desynchronization also occurs during action-
+perception (see Fox, Bakermans-Kranenburg, Yoo, Bow-
+man, Cannon et al., 2016, for meta-analysis; Marshall &
+Meltzoff, 2011). Given these dual properties, some
+researchers
+reason that mu-rhythm reflects activity
+associated with not only producing action, but also
+internally representing action in the absence of produc-
+tion (Muthukumaraswamy & Johnson, 2004; Lepage &
+Theoret, 2006; Marshall & Meltzoff, 2011). Given that
+both action-production and action-representation have
+been posited to support development of mental-state
+understanding as outlined above (e.g. Meltzoff, 2002;
+Woodward, 2013; Decety & Grezes, 2006), it is possible
+that a neural system supporting both of these functions
+could constitute a specific neural mechanism facilitating
+links between action-processing and ToM (see e.g.
+Marshall & Meltzoff, 2011, 2014).
+
+Two sets of evidence are needed to support this
+possibility: (1) evidence that mu-desynchronization is
+associated with both action-production and action-
+representation in early life, and (2) evidence that mu-
+desynchronization is associated with ToM. There is some
+initial indirect support for this first set of evidence (see
+Cuevas, Cannon, Yoo & Fox, 2014; Marshall & Meltzoff,
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 3 of 16
+
+2011, 2014, for reviews). Specifically, infants’ mu-desyn-
+chronization is clearly associated with action-production.
+It occurs when infants produce object-directed grasps (e.g.
+Southgate, Johnson, Osborne & Csibra, 2009; Marshall,
+Young & Meltzoff, 2011), and the magnitude of mu-
+desynchronization during infants’ action-perception
+relates to their experience or proficiency in action-
+production (Cannon, Simpson, Fox, Vanderwert, Wood-
+ward et al., 2016; Gerson, Bekkering & Hunnius, 2015;
+Upshaw, Bernier & Sommerville, 2016; Van Elk, van
+Schie, Hunnius, Vesper & Bekkering, 2008; Virji-Babul,
+Rose, Moiseeva & Makan, 2012; Warreyn, Ruysschaert,
+Wiesema, Handl, Pattyn et al., 2013). Some evidence
+suggests that mu-rhythm may also be somatatopically
+organized by 14 months of age (Marshall, Saby &
+Meltzoff, 2013; Saby, Meltzoff & Marshall 2013).
+
+Support for associations between mu-desynchroniza-
+tion and action-representation comes from findings that,
+similar to action-production, infants’ mu-rhythm desyn-
+chronizes during mere perception of action, both in
+visual and auditory domains (e.g. Southgate et al., 2009;
+Marshall et al., 2011, during visual action perception;
+Gerson et al., 2015; Paulus, Hunnius, van Elk &
+Bekkering, 2012, during auditory perception of action-
+related sounds). This similar desynchronization across
+production and perception conditions has led researchers
+to argue that mu-desynchronization during action-
+perception reflects activation of the same sensorimotor
+neural system supporting action-production, and thus
+mu-rhythm indexes cortical representation of sensorimo-
+tor action even in the absence of actual production
+(Muthukumaraswamy & Johnson, 2004; Lepage &
+Theoret, 2006). In brief, a common conceptualization
+of mu-rhythm is that it reflects activity of a single
+sensorimotor neural system that is activated during both
+action-production and action-representation.
+
+However, the idea that mu-desynchronization during
+action-perception reflects internal representation of sen-
+sorimotor action is difficult to verify because it rests on
+the assumption that the similarity in mu-desynchroniza-
+tion across production and perception conditions indi-
+cates activation of precisely the same sensorimotor
+neural system. This assumption is potentially problem-
+atic given that signals emanating from their source
+neural populations are volume conducted to the scalp
+surface, and thus spatial resolution of the EEG is low.
+Moreover, other conceptualizations of mu-rhythm posit
+that it reflects a dynamic, integrated system in which
+multiple neural networks of different
+functions are
+coupled and entrained (Pineda, 2005; Thorpe et al.,
+2016), and researchers caution against an exclusive
+(Marshall &
+emphasis on sensorimotor
+
+functions
+
+4 of 16 Lindsay C. Bowman et al.
+
+Meltzoff, 2014). Thus, global similarities in mu-rhythm
+desynchronization across action-production and action-
+perception conditions may not necessarily reflect activa-
+tion of precisely the same parts of a potentially more
+complex underlying neural network. Further clarity on
+mu-rhythm function is needed.
+
+More generally, investigations of infant mu-rhythm do
+not necessarily translate to an understanding of mu-
+rhythm function in early childhood, when key advance-
+ments in explicit ToM are manifest (Wellman et al.,
+2001; Wellman & Liu, 2004). To date there is no direct
+evidence examining relations between mu-rhythm and
+explicit ToM in preschool children. These examinations
+are critical for investigating whether mu-rhythm and
+action-processing (i.e. production and/or representation
+processes) may serve as a neural mechanism facilitating
+ToM development.
+
+The present study
+
+in 3-
+
+The present study aims to shed light on links between
+ToM and action-processing, and the possibility that mu-
+rhythm reflects a neural mechanism supporting this link.
+We examined relations between individual differences in
+ToM, and neural and behavioral measures of action-
+processing,
+to 5-year-old typically developing
+children. Guided by existing theories that posit both
+action-production and action-representation as core
+features supporting social-cognitive development (e.g.
+Meltzoff, 2002; 2013; Woodward, 2013; Decety &
+Grezes, 2006), we assessed children’s behavioral skills
+in producing simple motor acts (using the motor skill
+test from the Movement Assessment Battery for Chil-
+dren; MABC; Henderson & Sugden, 1992), as well as
+their action-representation skills (using a novel task
+requiring mental representation of object-directed hand
+actions in the absence of either direct perception or
+production of action). We also assessed explicit ToM
+reasoning (using the Wellman & Liu, 2004, ToM scale
+and standard location-change false-belief tasks; Wimmer
+& Perner, 1983). In addition to these behavioral mea-
+sures, we recorded children’s EEG activity during
+perception and production of simple object-directed
+grasping actions, to examine mu-desynchronization. This
+battery of assessments was designed to address several
+outstanding issues that currently create difficulty in
+evaluating links between ToM and action-processing.
+
+First, behavioral measures of action-processes can
+help clarify mu-rhythm function, and in particular its
+hypothesized association with action-representation per
+se. Clarity on mu-rhythm function has
+important
+implications for the field more broadly, and is central
+to the present study given the hypothesized role of
+
+© 2016 John Wiley & Sons Ltd
+
+action-representation in ToM development (e.g. Wood-
+ward, 2013; Meltzoff, 2002; Decety & Grezes, 2006) and
+the possibility that mu-rhythm reflects a neural mech-
+anism facilitating links between action-processes and
+ToM. The addition of behavioral measures side-steps the
+issue of interpreting similarities in the EEG signal across
+action-production and action-perception conditions
+(which can be difficult to verify given volume conduction
+and low spatial resolution of ERD analyses). Specifi-
+cally, mu-desynchronization in a single condition can be
+correlated with behavioral measures of both action-
+production and action-representation, as well as with
+other cognitive-behavioral measures (e.g. ToM, EF), to
+reveal potentially complex relations among neural and
+behavioral action constructs that may not be detectable
+in the EEG alone.
+
+To guide our hypotheses for how mu-desynchronization
+might relate to behavioral measures of action-production
+and action-representation, we used a more complex
+conceptualization of mu-rhythm function (given recent
+caution against the conceptualization of mu-rhythm as
+reflecting activity in a single sensorimotor system; e.g.
+Marshall & Meltzoff, 2014). This more complex concep-
+tualization posits that mu-rhythm reflects a dynamic and
+integrative network in which multiple neural systems of
+different specialized functions are interconnected (Pineda,
+2005; Thorpe et al., 2016). We hypothesized that individ-
+ual differences in mu-desynchronization may therefore
+reflect the extent to which systems supporting action-
+production and action-representation are interconnected
+into a common integrated network. Support for this
+‘integrated network’ conceptualization would come from
+finding that mu-desynchronization moderates the relation
+between action-production and action-representation,
+rather than correlating directly with either construct (as
+would be predicted by the simplified ‘single sensorimotor
+system’ conceptualization).
+
+Second, we examined relations between individual
+differences in ToM, and behavioral measures of action-
+production and action-representation. This examination
+provides the first direct assessment of links between
+action-processing and the explicit mental-state under-
+standing evident in preschool years. We hypothesized
+that ToM performance would correlate with action-
+representation, but not necessarily with action-produc-
+tion. In infancy, intention-understanding is associated
+with acquisition of entirely new motor production skills
+(e.g. Sommerville et al., 2005), whereas individual dif-
+ferences in the fine-tuning of existing motor skills
+measured in early childhood (Manoel & Conolly, 1998)
+may not directly relate to ToM performance.
+
+Third, to shed light on the possibility that mu-rhythm
+reflects a neural mechanism supporting links between
+
+ToM and action-processing, we explored relations
+between individual differences in mu-desynchronization
+and children’s ToM performance to gain insight into
+how such a neural mechanism may facilitate links
+between action and mental-state understanding.
+
+Finally, to assess unique relations between behavioral
+and neural action constructs and ToM specifically, we also
+assessed children’s EF and verbal intelligence to use as
+covariates in all analyses given robust associations
+between ToM and each of these additional constructs
+(see Devine & Hughes, 2014; Milligan et al., 2007, for
+meta-analyses).
+
+Methods
+
+SD = 6.93,
+
+Participants
+Forty-four children 3 to 5 years old (22 males, Mage =
+range = 45–68 months)
+55.75 months,
+underwent EEG recording and behavioral testing. One
+child did not complete all behavioral tasks and was
+excluded from behavioral analyses. Seventeen additional
+children were excluded from EEG analyses: Three were
+left-handed (our EEG task required grasping toys with
+right hand only), and 14 did not provide more than 50%
+(i.e. ≥7/12 trials) useable (free of motion artifact) EEG
+data (in line with commonly reported attrition rates of
+20–45% in preschool data due to excessive motion
+artifact; Bell & Cuevas, 2012) (see Supplemental Mate-
+rial
+for details on artifact detection and rejection
+processes). Our final sample consisted of 26 children
+(14 males, Mage = 55.98 months, SD = 7.42, range =
+45–68 months; see Supplemental Material for detailed
+sample demographics). All included children had normal
+or corrected-to-normal vision, no history of neuropsy-
+chological disorders or trauma, and were born within
+3 weeks of their original due-date, by parental report.
+Excluded children did not differ from included children
+on any demographic or behavioral measures
+(all
+ps > .14).
+
+Measures
+
+Behavioral assessments
+
+Behavioral tasks were administered after EEG recording
+(see Table S1 for order). Descriptions of individual tasks
+for the ToM and EF batteries can be found in supporting
+information available online.
+
+ToM battery. Diverse-desires, diverse-beliefs, knowl-
+edge-access, contents false-belief and explicit false-belief
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 5 of 16
+
+tasks from the Wellman and Liu (2004) scale were used,
+supplemented by two changed-location false-belief tasks
+(Wimmer & Perner, 1983). All tasks included warm-up
+and/or control questions to ensure that children correctly
+understood the task. Children received one point for
+every task they passed,
+thus higher scores indicate
+greater ToM understanding.
+
+(DCCS)
+
+EF battery. Three EF tasks assessed cognitive flexibility
+and conflict-inhibition. Children completed grass-snow
+stroop (Carlson & Moses, 2001), dimensional-change
+card-sort
+(Zelazo, 2006), and less-is-more
+(Carlson, Davis & Leach, 2005). All tasks included
+warm-up and/or control questions to ensure that chil-
+dren correctly understood the task. Scores were either
+proportion/percent correct or sum correct on target, thus
+higher scores indicate greater EF skills.
+
+II
+
+Intelligence Test
+
+Kaufman Brief
+(KBIT-2): Verbal
+intelligence (Kaufman & Kaufman, 1990). The verbal
+intelligence test from the KBIT-2 (Kaufman & Kauf-
+man, 1990) required selecting the picture correctly
+demonstrating a general fact or meaning of a target
+word. Higher scores indicate greater verbal intelligence.
+
+Motor skill task. The posting coins test of motor skill
+(Henderson & Sugden, 1992) assessed children’s behav-
+ioral action-execution ability. Children were timed as
+they placed 12 coins as fast as they could into a slotted
+box. Shorter times indicate greater motor coordination
+and manual dexterity.
+
+Action-representation task. This
+task assessed chil-
+dren’s ability to mentally represent different hand
+positions and object-directed hand actions. Correct
+responses on each trial required understanding how
+both body orientation (orientation of
+the hand in
+relation to the object) and grasping position (relative
+positions of fingers, palm, and wrist) should be opti-
+mized to grasp differently shaped and oriented handles
+(see Figure 1 for example stimulus). Critically, hand
+positions/orientations and handles were shown as static
+two-dimensional images. Thus, the task required repre-
+sentation of action in the absence of either observation
+or execution of action itself. For each item (eight total),
+children were told to pick the hand that was best
+shaped to grab the handle (only one option was
+correct). Higher
+indicate greater ability to
+mentally represent hand actions in the absence of
+action-execution or action-observation (see supporting
+information for scoring details). All trials were vali-
+dated on a sample of 10 adults (sample achieved 100%
+accuracy).
+
+scores
+
+6 of 16 Lindsay C. Bowman et al.
+
+Figure 1 Example trial stimulus for action-representation task.
+
+EEG grasp task
+
+Children’s EEG was recorded while they grasped a small
+toy. Details of this task are also described in Thorpe
+et al. (2016) in which EEG data from a subset of the
+current sample were analyzed in a larger study, without
+connection to behavioral data. Children sat in front of a
+stage with an opaque curtain. The curtain was raised/
+lowered at the onset/offset of each trial (~1.5 second
+duration). Video-recording captured children’s grasping
+behavior, coded to identify EEG associated with each
+child’s exact point of grasping contact with the toy.
+Trials consisted of a static baseline interval (3 seconds;
+participants viewed black two-dimensional shapes on a
+white background), followed by an execution interval
+(ranged from 5 to 15 seconds depending on how quickly
+the child reached; a hidden experimenter pushed the top
+of the mobile stage towards the participant, and the
+participant picked up the
+toy). Participants were
+instructed to pick up the toy with their right (dominant)
+hand only (occasional
+left-hand execution trials were
+excluded from analyses).
+
+Across trials, ten unique baseline shapes and toys
+were presented in unique orders, randomized across
+subjects. On 50% of trials (24 trials total), baseline was
+(~ 4 seconds;
+followed by an observation interval
+participants viewed a live female experimenter grasp
+a toy with her right hand); observation trials were
+interspersed throughout
+randomly across
+participants, with the stipulation that the same interval
+type (i.e. execution or observation) occurred no more
+than twice consecutively. After every two to three
+trials, children played with stickers to prevent fatigue
+(average duration 1–2 minutes; five breaks total). The
+
+the task,
+
+© 2016 John Wiley & Sons Ltd
+
+EEG net was not removed during breaks though no
+EEG was recorded. Total duration of the task includ-
+ing
+approximately
+20–30 minutes.
+
+transitions was
+
+breaks
+
+and
+
+Electrophysiological recording and analyses
+
+EEG was recorded continuously at 500 Hz using a 64-
+channel Hydrocel Geodesic Sensor Net
+(Electrical
+Geodesic Inc., Eugene, OR) – a network of 64 Ag⁄AgCl
+electrodes embedded in an elastic geodesic tension
+structure. Impedance for all electrodes was kept below
+100 KΩ. Signals were referenced to the vertex (Cz)
+during recording.
+
+first
+
+using
+
+baseline-corrected,
+
+Details of EEG processing and analytic procedures
+can be found in Thorpe et al. (2016) (see also Supple-
+mental Material). Continuous EEG data from each
+participant were
+linear-
+detrended, and re-referenced to the average reference.
+Artifacts associated with body movement were edited
+using a thresholding procedure to remove high ampli-
+tude waveforms. Blinks/eye movements and net displace-
+ment over the front of the head were also identified and
+rejected
+analysis
+(Hyv€arinen, 1999). EEG data were then reconstructed
+in channel space from the remaining set of clean
+components (components removed for each subject:
+M = 8.14, SD = 1.67). After pre-processing and artifact
+rejection, children on average contributed 10 trials
+(SD = 1.09) of artifact-free EEG data for analyses. This
+number is in line with current developmental studies on
+mu-rhythm desynchronization (e.g. Cannon et al., 2016;
+Yoo, Cannon, Thorpe & Fox, 2015), and with pediatric
+
+independent
+
+components
+
+event-related desynchronization studies more generally
+(e.g. Cuevas, Raj & Bell, 2012).
+
+Segmentation and parameters for ERD analysis
+
+two independent
+
+Resultant data were segmented into epochs containing a
+baseline interval (baseline/reference for ERD analyses)
+and its corresponding (subsequent) grasping interval
+(event of interest for ERD analyses) for both ‘observe
+trials’ (experimenter grasps object) and ‘execute trials’
+(child grasps object). The grasping interval was identified
+for each trial from video recorded during task (coded
+frame-by-frame by
+coders who
+achieved agreement within ~100 ms on 90% of trials)
+and consisted of the 2-second interval centered on the
+grasp-completion event
+(i.e. point at which child’s/
+experimenter’s hand first touched the toy in an act
+resulting in a completed grasp), capturing 1 second pre
+and post grasp. This interval reasonably captured both
+the initiation of the voluntary grasping action from the
+reach towards the object (approx. mean duration of
+reach to point of grasp =
+children’s
+1.33 seconds, SD = 0.92) as well as the completion of
+the voluntary grasping action ending with picking the
+object up off the table and retracting it towards the body
+(approx. mean duration of children’s point of grasp to
+completed retraction towards body = 1.34 seconds,
+SD = 0.83). The baseline interval consisted of
+the
+2-second interval beginning 0.5 s after the static baseline
+image was shown. Only segments in which the baseline
+interval was free of any participant hand/arm motion
+were included in ERD analyses to ensure that all epochs
+consisted of clear grasping action referenced to clean,
+non-grasping baseline.
+
+initiation of
+
+ERD scores were calculated across participants for
+each segment in 50 0.5 Hz bins from 0 to 25 Hz, at all
+channels
+(10(log10(Event EEG Power/Baseline EEG
+Power). The ‘observe trials’ did not yield desynchro-
+nization that was reliably significantly different from zero
+in clear and recognizable topographic patterns indicative
+of mu-rhythm. Given that a central aim of the study was
+to examine the possibility that mu-rhythm desynchro-
+nization reflects a neural mechanism supporting links
+between action and ToM, it was critical that we had
+confidence that EEG desynchronization reliably consti-
+tuted the mu-rhythm. Thus, we did not continue analyses
+with ‘observe trials’. ‘Execute trials’ did yield clear and
+reliable mu-rhythm desynchronization (in line with a
+recent meta-analysis demonstrating stronger and topo-
+graphically specific mu-desynchronization during action-
+execution versus action-observation conditions; Fox
+et al., 2016). Thus, analyses were concentrated on these
+‘execute trials’.
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 7 of 16
+
+For ‘execute trials’, the mu frequency band of interest
+was identified as 8–10 Hz: this band emerged from
+empirical bootstrap distributions as that which con-
+tained peak desynchronization (maximal negative val-
+ues) across all channels (see Thorpe et al., 2016, for
+details). The ERD scores within this mu band were then
+averaged across all right-hand grasp trials to obtain an
+average ERD score for each participant, in each channel,
+that reflected desynchronization in the 8–10 Hz mu band
+during right-hand, object-directed grasp-execution.
+
+Results
+
+Preliminary analyses
+
+Behavioral data
+
+Reliable EF and ToM composites were created from
+individual tasks in the batteries, and acceptable reliability
+and validity was found for five items of the novel action-
+representation task (see supporting information for
+reliability and validity details). Table 1 shows correla-
+tions among all behavioral tasks. Interrelations among
+age, EF, verbal intelligence, and the action and ToM
+variables (all rs > .41, ps < .007) confirm the need to
+control for age, EF, and verbal
+intelligence in focal
+analyses.
+
+EEG data
+
+As shown in the 64-channel topomap in Figure 2A and
+2B, two clear, topographically distinct peaks were evident
+over bilateral central-parietal regions that represent
+
+Table 1 Correlations among cognitive/behavioral variables
+and age
+
+Measure
+
+1
+
+2
+
+3
+
+4
+
+5
+
+–
+ .33*
+–
+.47**  .41*
+ .41**
+.26
+ .51**
+.29
+ .49**
+.10
+
+1. Action-Representation
+2. Motor Skill
+3. ToM
+4. Verbal Intelligence
+–
+5. EF
+6. Age
+.40*
+Partial correlations among cognitive/behavioral variables controlling for
+age
+1. Action-Representation
+2. Motor Skill
+3. ToM
+4. Verbal Intelligence
+5. EF
+
+–
+ .33*
+–
+.48**  .24
+ .15
+.25
+ .40**
+.28
+
+–
+.48**
+.53*
+.47**
+
+–
+.41**
+.63**
+
+–
+.27*
+.42**
+
+–
+.23
+
+Notes: *Correlation is significant at p < .05 (two-tailed). **Correlation
+is significant at p < .01 (two-tailed). N = 43.
+
+8 of 16 Lindsay C. Bowman et al.
+
+C
+
+A
+
+B
+
+Figure 2 Three-dimensional topomaps overlayed on a 4-year-old child head model (NIH Pediatric MRI Database; University of
+South Carolina McCausland Brain Imaging Center Neurodevelopmental MRI Database) showing scalp regions of peak EEG
+desynchronization in the 8 to 10 Hz band (peak central-parietal desynchronization show in light blue/white regions), for left (A) and
+right (B) side views. Part C shows the clusters of electrodes corresponding to central-parietal peaks (center, solid red), frontal peaks
+(dashed green, top), and occipital channels (dotted blue, bottom) that were created for analyses.
+
+maximal mu-desynchronization during children’s object-
+directed grasp-execution. From this whole-scalp map,
+electrode clusters were created corresponding to focal left
+and right central-parietal regions (Figure 2C). We also
+created contrast/control clusters in occipital regions, and
+
+Figure 3 Grand average EEG desynchronization in 8 to
+10 Hz band (N = 26) for bilateral central-parietal cluster (solid
+red, left), bilateral frontal cluster (striped green, middle) and
+occipital cluster (dotted blue, right). Error bars represent
+standard errors of the mean.
+
+© 2016 John Wiley & Sons Ltd
+
+left and right frontal regions. Repeated-measures ANO-
+VAs revealed no effect of laterality: F(1, 26) = 1.575,
+p = .221. Figure 3 confirms maximal mu-desynchroniza-
+tion in bilateral central-parietal regions that was signif-
+icantly greater than desynchronization in both occipital
+regions (t(26) = 2.184, p = .038) and bilateral frontal
+regions (t(26) = 2.254, p = .033). Occipital and frontal
+EEG desynchronization did not differ (t(26) = .482,
+p = .634). These results demonstrate a clear neural
+correlate
+(mu-desynchronization in central-parietal
+regions) of action-production (object-directed grasping)
+that was subsequently used in analyses with behavioral
+data.
+
+Relations among behavioral and neural measures of
+action
+
+first
+
+Our
+focal analysis examined relations among
+behavioral measures of action-production (i.e. motor
+skill) and action-representation, and central-parietal mu-
+desynchronization, as a targeted investigation of pro-
+posed action-representation properties of mu. All anal-
+yses were repeated with contrast frontal and occipital
+clusters. To correct
+for these multiple comparisons,
+significance criterion was a < .017 (Bonferroni correc-
+tion a = .05/3).
+
+Correlation analyses and regressions controlling for
+age, EF, and verbal intelligence indicated that neither
+
+notable
+
+variance
+
+regions1
+
+exhibited
+
+motor skill nor action-representation directly related to
+mu-desynchronization in any of central-parietal, frontal,
+(rs < .23, ps > .13; bs < .050,
+or occipital
+ts < .85, ps > .41). There was, however, a significant
+correlation between behavioral motor skill and action-
+representation that withstood correction for
+age
+(Table 1). Given that central-parietal mu-desynchroniza-
+(range = 4.74,
+tion
+SD = 1.18, variance = 1.402), and given the
+clear
+hypotheses that central-parietal mu-desynchronization
+supports both action-production and action-representa-
+tion, we tested a more complex relation between central-
+parietal mu and the behavioral action measures. This
+model served as direct test of our hypothesis that mu-
+desynchronization may moderate the relation between
+motor skill and action-representation, in support of a
+more complex conceptualization of mu-rhythm as an
+integrated network supporting multiple interconnected
+neural
+(e.g. action-production and action-
+representation) (e.g. Pineda, 2005; Thorpe et al., 2016).
+For this moderation analysis, we conducted a hierar-
+chical
+the
+dependent variable. Age, executive functioning, and
+verbal
+intelligence were entered first as covariates to
+control for domain-general developments, motor skill
+was entered next as the predictor of interest, and then the
+moderator of central-parietal mu-desynchronization was
+entered as a dichotomous variable with high mu-
+desynchronization (top half of median split) coded as 0
+and low mu coded as 1. All of these variables combined
+accounted for 21.2% of the variance in action-represen-
+tation, and no entry was associated with any significant
+change in the model (all DR2 < .11, ps > .11).
+
+regression with action-representation as
+
+systems
+
+Critically, when the interaction term between motor
+skill and mu-desynchronization was entered in the final
+block,
+it significantly predicted action-representation
+(b = .383, SE = .108, p = .002; CI95% [.157, .610]). The
+interaction term alone accounted for an additional
+31.4% of the variance in action-representation (greater
+than all other variables combined) and yielded a signif-
+icant change in the model (F(1, 19) = 12.58, p = .002).
+These results demonstrate a moderating effect of central-
+parietal mu, in line with our hypothesis. For this final
+model that examined children at high levels of mu-
+desynchronization, advances in motor skill significantly
+predicted advances in action-representation (b =  .413,
+SE = .101, p < .001; CI95% [ .201,  .624]). In contrast,
+in a parallel regression examining children at low central-
+
+1 Mu-desynchronization in central-parietal,
+frontal, and occipital
+regions also showed no relations with age, EF, or verbal intelligence
+(all rs < .20, ps > .16).
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 9 of 16
+
+Figure 4 Moderation effect of central-parietal mu-
+desynchronization (8–10 Hz) on relation between behavioral
+developments in action-representation ability and motor skill.
+There is a signiﬁcant positive relation between action-
+representation and motor skill performance for children with
+high central-parietal mu-desynchronization during object-
+directed grasp (solid line) but not for children with low central-
+parietal mu desynchronization (dashed line).
+
+parietal mu (bottom half of median split), motor
+skill was not associated with action-representation
+(b =  .029, SE = .049, p = .559; CI95% [.0733,  .132]).
+Figure 4 shows the overall moderating effect of central-
+parietal mu on the relation between action-representa-
+tion and motor skill. When moderation analyses were
+repeated with central-parietal mu-desynchronization as a
+continuous moderator, results revealed an identical
+pattern: The addition of the interaction term between
+motor
+skill and continuous mu-desynchronization
+yielded a significant
+(F(1,
+19) = 4.94, p = .039), and only children with mu-
+desynchronization that was at least one standard devi-
+ation greater than the mean showed a relation between
+and action-representation (b =  .257,
+motor
+SE = .090, p = .010; CI95% [ .444,  .069]); the relation
+between the two behavioral action constructs was
+diminished for children at mean mu-desynchronization
+(b =  .096, SE = .052, p = .082), and absent for chil-
+dren below the mean (b = .065, SE = .089, p = .472).
+EEG desynchronization in neither frontal nor occipital
+regions moderated relations between action-representa-
+tion and motor skill (all ps > .50).
+
+in the model
+
+change
+
+skill
+
+Relations among action measures and ToM
+
+Our second set of focal analyses examined relations
+among behavioral and neural measures of action, and
+ToM performance. We first targeted relations between
+ToM and the behavioral measures of motor skill and
+
+10 of 16 Lindsay C. Bowman et al.
+
+action-representation in order to take advantage of the
+larger sample size (N = 43) associated with behavioral
+measures alone. We conducted a hierarchical regression
+with ToM as the dependent variable, and age, EF, and
+verbal intelligence entered first as controls. Motor skill
+and action-representation were then entered separately
+as potential predictors of ToM, to directly test our
+hypothesis
+that action-production likely would not
+directly predict individual differences in ToM but that
+there may be an association between ToM performance
+and action-representation. Control variables accounted
+for a significant proportion of the variance in ToM
+(Table 2). In line with our predictions, the addition of
+motor skill did not significantly change the model, and
+did not predict ToM beyond the controls, whereas
+action-representation accounted for an additional 9.1%
+variance in ToM and yielded a significant change in the
+(F(1, 37) = 6.457, p = .015). Considering all
+model:
+variables together, action-representation was the only
+significant predictor of ToM. These results evince
+behavioral
+links between ToM-reasoning and action-
+representation: advances in ToM were associated with
+advances in action-representation, even beyond variance
+accounted for by age, and by EF, and verbal intelligence
+– two core predictors of preschoolers’ explicit ToM (e.g.
+Devine & Hughes, 2014; Milligan et al., 2007).
+
+Next, we conducted a more exploratory analysis to
+examine relations between ToM and mu-desynchroniza-
+tion. There were no direct relations between ToM and
+any of central-parietal, frontal, or occipital mu for either
+correlations (rs < .11, ps > .29) or regressions control-
+intelligence (bs < .076,
+ling for age, EF, and verbal
+ts < .38, ps > .71). However, guided by the above sets of
+results, we explored a more complex model, this time
+
+testing a moderated mediation model
+linking mu-
+desynchronization, motor skill, action-representation,
+and ToM.
+
+Specifically, given the association between motor skill
+and action-representation found in the previous moder-
+ation model, and the relation between action-representa-
+tion and ToM in the behavioral data above, we reasoned
+that it was possible that action-representation could be a
+mediator (or mechanism) through which developments
+in motor skill relate to developments in ToM. Given that
+central-parietal mu moderated the relation between
+motor skill and action-representation (i.e. the relation
+was only present in children with high central-parietal
+mu), we examined whether central-parietal mu also
+moderated this possible mediation (i.e. tested whether
+the mediation exists in children with high but not low
+central-parietal mu) (see Figure 5).
+
+To run this model, we used the PROCESS tool for
+SPSS (Hayes, 2013), which computes a bias-corrected
+bootstrap distribution (1000 iterations) for each direct
+and indirect effect estimate. Results replicated the initial
+moderation effect of central-parietal mu-desynchroniza-
+tion on the relation between motor skill and action-
+representation, and further showed that action-represen-
+tation predicted ToM at high levels of central-parietal
+mu (b = .321, SE = .145, p = .039; CI95% [.017, .625])
+but not at low mu (b = .008, SE = .152, p = .961; CI95%
+[ .312, .327]). As shown in Figure 5, results suggested a
+moderated mediation effect. Action-representation medi-
+ated the relation between motor skill and ToM at high
+levels of central-parietal mu-desynchronization (condi-
+for high mu: a*b =  .132,
+tional
+SE = .099; CI95% [ .033,  .442]; Sobel test =  .195,
+SE = .068, p = .05). But there was no mediation effect at
+
+indirect
+
+effect
+
+Table 2 Summary of Hierarchical Regression Analysis for Variables Predicting Theory of Mind
+
+Variable
+
+b (SE)
+
+CI95%
+
+.047 (.042)
+.239 (.091)
+.061 (049)
+
+.041 (.044)
+.222 (.099)
+.059 (.049)
+ .011 (.024)
+
+.063 (.042)
+.190 (.094)
+.037 (.047)
+.003 (.023)
+.291 (.086)
+
+[ .038, .131]
+[.055, .423]
+[ .037, .159]
+[ .047, .130]
+[.021, .423]
+[ .040, .159]
+[.038,  .060]
+[ .022, .146]
+[.000, .379]
+[ .058, .132]
+[.051,  .044]
+[.044, .394]
+
+Stage 1
+Age
+EF
+Verbal Intelligence
+
+Stage 2
+Age
+EF
+Verbal Intelligence
+Motor Skill
+
+Stage 3
+Age
+EF
+Verbal Intelligence
+Motor Skill
+Action-Representation
+
+Notes: N = 43, *p < .05.
+
+© 2016 John Wiley & Sons Ltd
+
+R
+
+.618
+
+.621
+
+R2
+
+.382
+
+.385
+
+DR2
+
+.382*
+
+.003
+
+.690
+
+.477
+
+.091*
+
+t
+
+1.119
+2.626*
+1.256
+
+.944
+2.236*
+1.209
+ .444
+
+1.487
+2.022
+.783
+.146
+2.541*
+
+Action mechanisms for social cognition 11 of 16
+
+(e.g. Muthukumaraswamy & Johnson, 2004). It is there-
+fore possible that the mu-rhythm represents a neural
+mechanism facilitating links between action and develop-
+ing ToM (e.g. see Marshall & Meltzoff, 2011, 2014). Our
+data help inform these hypotheses.
+
+Functions of mu-rhythm: new insights
+
+Central-parietal mu-desynchronization moderated rela-
+tions between behavioral motor skill and action-repre-
+sentation, demonstrating that mu-desynchronization is
+associated with action-production – as previously shown
+(e.g. Muthukumaraswamy & Johnson, 2004; Pfurtschel-
+ler et al., 1997) – and with action-representation – as
+many have hypothesized. However,
+the associations
+appear to be more complex than previously thought.
+
+To review, researchers have interpreted the similar
+EEG signal during action-perception as evidence of an
+internal representation of the action that critically is
+supported by the same neural system as that which
+supports action-production. In brief,
+it is commonly
+hypothesized that mu-desynchronization reflects activity
+in a single sensorimotor neural system that is activated
+during both action-production and action-representa-
+tion. Under this hypothesis, one might expect direct
+relations between mu-desynchronization and the ability
+to both produce and represent actions. In contrast, the
+present study did not reveal direct correlations with mu-
+desynchronization, but rather, as mu-desynchronization
+increased, the strength of relation between behavioral
+action-production and action-representation perfor-
+mance also increased, as indicated by the moderation
+model. This pattern suggests a slightly altered hypothesis
+for the function of mu-rhythm, at least as it operates in
+early childhood, in line with more complex conceptual-
+izations of mu-rhythm as reflective of an integrated
+network of multiple neural systems with specialized
+functions (Pineda, 2005; Thorpe et al., 2016).
+
+Indeed, our data suggest that individual differences in
+mu-desynchronization reflect the extent to which action-
+production and action-representation are integrated. At
+high mu-desynchronization (conceptualized here as
+reflecting stronger interconnections between network
+populations supporting action-production and action-
+representation), behavioral performance on action-repre-
+sentation and action-production was positively corre-
+lated. Conversely,
+low mu-desynchronization,
+performance on the two behavioral action constructs
+was unrelated (e.g. possibly due to a lack of integration
+in their underlying neural network).
+
+at
+
+This ‘integrated network’ conceptualization of mu-
+rhythm can also be used to explain existing phenomena
+now clearly uncovered in the infant mu-rhythm literature
+
+Figure 5 Moderated mediation model (N = 26) depicting
+action-representation mediating the relation between motor
+skill and ToM only when children exhibit high mu-
+desynchronization during grasp execution (bolded values).
+Figure shows unstandardized betas, with standard error in
+parentheses. *p ≤ .05.
+
+a*b =  .0002,
+
+low mu (conditional
+indirect effect for low central-
+parietal mu:
+CI95%
+[.013,  .069]; Sobel test =  .049, SE = .004, p = .96).
+In addition, the index of moderated mediation showed
+that the mediation effects at high and low central-
+(index = .132,
+parietal mu were
+SE = .098, CI95% [.036, .466]).
+
+SE = .022;
+
+indeed different
+
+Discussion
+
+We investigated relations among individual differences in
+the neural correlates of action-production (mu-desyn-
+chronization during execution of object-directed grasp-
+ing), and performance on behavioral measures of action-
+production (i.e. motor skill), action-representation, and
+explicit ToM. We found evidence for novel foundational
+links between individual differences in ToM and both
+behavioral and neural measures of action – beyond the
+influence of executive functioning and verbal
+intelli-
+gence. These findings shed new light on the potential
+origins and developmental mechanisms of higher social
+cognition.
+
+Several researchers posit that action-production and
+action-representation are important
+for mental-state
+understanding (e.g. Woodward, 2013; Meltzoff, 2002;
+Hunnius & Bekkering, 2014). Neuroscientific research has
+identified a neural system – indexed with the EEG
+mu-rhythm – that is associated with action-processing,
+and is hypothesized to reflect action-representation
+
+© 2016 John Wiley & Sons Ltd
+
+12 of 16 Lindsay C. Bowman et al.
+
+– namely, that infants who gain more action-production
+experience also show greater mu-desynchronization dur-
+ing action-perception (e.g. Cannon et al., 2016; Marshall
+et al., 2013; Saby, Marshall & Meltzoff, 2012; van Elk
+et al., 2008; Paulus et al., 2012). To illustrate, mu-
+rhythm may reflect integration of systems specialized
+for action-production and action-representation, but
+each system could be differentially activated across
+perception and production modalities. For instance,
+action-perception may most strongly activate the system
+for action-representation. Thus, when an infant activates
+their action-representation system during action-percep-
+tion, this system could be more or less integrated with a
+system supporting action-production. When that infant
+then gains experience in production of a specific motor
+act, this experience could serve to slightly enhance the
+integration between the infant’s own motor act and a
+stored representation of it. Critically, when the infant
+then perceives that motor act again, it would result in
+greater mu-desynchronization because the neural popu-
+lations underlying action-representation (activated most
+directly by action-perception) have more connections to
+the neural populations underlying action-production, to
+result in an overall greater neural response as reflected in
+higher mu-desynchronization.
+
+It is important to note that though this integrated
+network model for mu-rhythm fits with existing infant
+findings as outlined in the paragraph above, it does not
+preclude other possible conceptualizations of mu-rhythm
+development. Indeed, two differences exist between our
+study and the approaches most commonly taken in the
+infant mu literature, which point
+to other possible
+conceptualizations. First, we examined mu-desynchroni-
+zation in children 3 to 5 years old, whereas much existing
+research on associations between behavior and mu-
+rhythm examines infants less than 2 years old. It is
+therefore possible that mu-rhythm reflects different
+neural processes in infancy compared to early childhood.
+The infant mu-rhythm may reflect activity in a single
+sensorimotor neural system, but then, as production and
+representational abilities mature, there could be accom-
+panied neural reorganization and specialization into
+separate systems that then integrate through further
+reorganization and development. Second, we examined
+mu-desynchronization during action-production, whereas
+infant studies more commonly examine mu-desynchro-
+nization during action-perception. It is therefore also
+possible that the desynchronization in production and
+perception conditions reflects activity in different under-
+lying neural systems. To shed light on each of these
+possibilities,
+future research should look for direct
+relations between mu-desynchronization and behavioral
+measures of action-representation and action-production
+
+© 2016 John Wiley & Sons Ltd
+
+in infants and children prior to age 3 years, as well as
+track these relations longitudinally over infancy to early
+childhood. The present study lays a foundation for these
+future directions.
+
+Finally, the moderation model evident in our data
+provides only indirect support for the notion of mu-
+rhythm as an integrated network of neural systems. More
+direct support would come from network connectivity
+analyses of mu-desynchronization, which could represent
+an important replication of our analyses should mu-
+rhythm network interconnectivity predict the strength of
+correlation between behavioral measures of action-
+production and action-representation and/or should
+functional connections increase in strength as infants
+and children mature and advance in their action-
+production and representation abilities.
+
+Even in advance of future research, the conceptualiza-
+tion of mu-rhythm as an ‘integrated network’ (versus more
+common conceptualizations that emphasize specifically
+sensorimotor activity) has implications for theorizing
+about neural mechanisms supporting cognitive develop-
+ment. For example, an action-representation system,
+which may be separate from but networked to the motor
+system, could plausibly store representations of actions to
+then be evaluated at higher levels. Such a network would
+have clear implications for how developments in action
+experience (which may be supported by the motor system
+more directly) could shape a deeper understanding and
+evaluation of actions in terms of the cognitive constructs
+that motivate them, as we discuss next.
+
+Action-representation mechanisms for ToM
+development
+
+Our data demonstrate links between children’s develop-
+ing ToM and developments in the action domain, and
+thus they critically extend infant work that evinces ties
+between action and social understanding in early life
+(Woodward, 2013). Specifically, results suggest
+that
+action-representation is particularly important for expli-
+cit ToM development in early childhood: action-repre-
+sentation was the single best predictor of individual
+differences in 3- to 5-year-olds’ explicit ToM, even
+beyond verbal
+robust
+predictors). Results therefore provide the first more
+direct support for theories that posit a foundational role
+for action-processing in more complex mental-state
+understanding and ToM (e.g. Meltzoff, 2002, 2013).
+
+intelligence and EF (classic,
+
+We also found evidence that behavioral action-
+representation mediated relations between children’s
+motor skill and ToM development, but only for children
+exhibiting high central-parietal mu-desynchronization
+during grasp-execution. This moderated mediation
+
+model was not directly hypothesized, but rather was
+inspired by our findings that mu-desynchronization
+moderated relations between action-production (motor
+skill) and action-representation performance, and that
+action-representation strongly and directly predicted
+children’s ToM. Replication of these results is important
+given the somewhat post-hoc nature of this model, the
+novelty of our action-representation task, and the very
+limited sample size.
+
+Nonetheless, the moderated mediation model suggests
+that in addition to action-representation abilities, action-
+production abilities and the neural systems associated
+with action-processing may also be important for ToM
+development. Speculatively, the ability to hold an action
+in one’s mind, in the absence of direct perception or
+production (i.e. as a representation), is perhaps a critical
+step in facilitating the necessary computations to then
+reason about the motivating mental states behind that
+action (ToM). Indeed, several researchers have hypoth-
+esized that action-representations are derived from
+experience in action-production, and that together they
+facilitate developing understanding of the mental states
+motivating action (e.g. Hunnius & Bekkering, 2014;
+Woodward, 2013; Meltzoff, 2002, 2013).
+
+Intriguingly, the moderation aspect of our model
+further suggests that
+this mediation pathway from
+action-production to action-representation to ToM is
+only viable once a neural network supporting action-
+production and action-representation is sufficiently inte-
+grated (high mu-desynchronization). When there is no
+neural system in place to link action-production and
+action-representation, then advancements in these action
+domains do not serve to advance ToM.
+
+As noted above, an action-representation system that
+is separate from yet networked to the motor system is a
+plausible system for storing actions (in the absence of
+execution or perception) and thus subsequently facilitat-
+ing evaluation of those actions at higher levels. There-
+fore, this system may be particularly important for
+supporting evaluations of the mental states that motivate
+action, thereby helping facilitate the development of
+ToM. That is, speculatively, an action-representation
+system – when sufficiently integrated with action-
+production via a common neural network – may be
+helpful for identifying connections between one’s own
+executed motor actions and the mental states that
+motivate them. These connections may in turn be helpful
+for identifying and reasoning about the mental states
+motivating the actions of others. In line with this
+reasoning, Meltzoff (2002, 2007, 2013) has argued that
+the development of executing one’s own actions as
+motivated by one’s own mental states, and the ability to
+identify similarities between one’s own and others’
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 13 of 16
+
+actions, are two central components in jump-starting
+ToM. Longitudinal research that tracks associations
+between individual differences in mu-desynchronization,
+developing understanding of mental
+states, action-
+production, and action-representation from infancy to
+childhood will be critical
+in further illuminating the
+model and hypotheses outlined here.
+
+Additional considerations for future research
+
+Although our final moderated mediation model sug-
+gested a direction from action-production to action-
+representation to ToM (with models testing the same
+measures in other positions returning null results),
+longitudinal data are necessary to identify true direction
+and causality. Future research should also extend to
+younger as well as older age ranges: given dissociations
+between action and ToM systems in adults (Van Over-
+walle, 2009), it is possible that complex relations between
+mu-desynchronization, action-production, action-repre-
+sentation, and ToM might be particularly important
+(and/or evident) when children are newly assembling
+social-cognitive abilities, with diminished relations
+among variables later in development. An additional
+consideration for future research is the possibility that
+our action-representation task included a component of
+mental spatial rotation, and that developments in ToM
+may also be related to developments in some aspect of
+spatial cognition. Finally, although our data fit with
+theoretical models emphasizing action mechanisms for
+social-cognitive development,
+they do not preclude
+alternative theories (e.g. Theory Theory; Gopnik &
+Wellman, 1992, 2012). For example, developments in
+action-production and action-representation – in partic-
+ular once integrated in a mature network – may allow
+children to identify important contingencies between
+their own actions and mental states, which, in line with
+‘Theory Theory’, may then lead to the formation and
+revision of na€ıve theories
+state
+inferences and interpretation of others’ behavior. The
+findings from the present study therefore open important
+avenues for future research and conceptualizations of the
+origins and course of ToM development.
+
+that guide mental
+
+Acknowledgements
+
+We thank the research assistants who helped with data
+collection and analyses, and the parents and children
+who participated in the study. This
+research was
+supported by Eunice Kennedy Shriver National Institute
+of Child Health and Human Development Grant P01-
+HD064653, awarded to A. L. Woodward and N. A. Fox.
+
+14 of 16 Lindsay C. Bowman et al.
+
+References
+
+Ambrosini, E., Reddy, V., de Looper, A., Costantini, M.,
+Lopez, B. et al. (2013). Looking ahead: anticipatory gaze
+and motor ability in infancy. PLoS ONE, 8, e67916.
+doi:10.1371/journal.pone.0067916
+
+Bell, M.A., & Cuevas, K. (2012). Using EEG to study cognitive
+development: issues and practices. Journal of Cognition and
+Development, 13, 281–294.
+
+Blakemore, S., & Decety, J. (2001). From the perception of
+action to the understanding of intention. Nature Reviews
+Neuroscience, 2, 561–567. doi:10.1038/35086023
+
+Brune, C.W., & Woodward, A.L. (2007). Social cognition and
+social responsiveness in 10-month-old infants. Journal of
+Cognition and Development, 8, 133–158.
+
+Cannon, E.N., Simpson, E.A., Fox, N.A., Vanderwert, R.E.,
+Woodward, A.L. et al. (2016). Relations between infants’
+emerging reach-grasp competence and event-related desyn-
+chronization in EEG. Developmental Science, 19 (1), 50–62.
+Cannon, E.N., Woodward, A.L., Gredeb€ack, G., von Hofsten,
+C., & Turek, C. (2012). Action production influences 12-
+month-old infants’ attention to others’ actions. Developmen-
+tal Science, 15, 35–42. doi:10.1111/j.1467-7687.2011.01095.x
+Carlson, S.M., Davis, A., & Leach, J.G. (2005). Less is more:
+executive function and symbolic representation in preschool
+children. Psychological Science, 16, 609–616.
+
+Carlson, S.M., & Moses, L.J. (2001). Individual differences in
+inhibitory control and children’s Theory of Mind. Child
+Development, 72, 1032–1063.
+
+Cuevas, K., Cannon, E.N., Yoo, K., & Fox, N.A. (2014). The
+infant EEG mu rhythm: methodological considerations and
+best practices. Developmental Review, 34, 26–43.
+
+Cuevas, K., Raj, V., & Bell, M.A. (2012). A frequency band
+analysis of two-year-olds’ memory processes. International
+Journal of Psychophysiology, 83, 315–322. doi:10.1016/j.ijpsy-
+cho.2011.11.009
+
+Daum, M.M., Sommerville, J.A., & Prinz, W. (2009). How
+social experience is related to children’s intergroup attitudes.
+European Journal of Social Psychology, 39, 1196–1206.
+doi:10.1002/ejsp
+
+Decety, J., & Grezes, J. (2006). The power of simulation:
+imagining one’s own and other’s behavior. Brain Research,
+1079, 4–14. doi:10.1016/j.brainres.2005.12.115
+
+Devine, R.T., & Hughes, C. (2014). Relations between false
+belief understanding and executive function in early child-
+hood: a meta-analysis. Child Development, 85 (5), 1777–1794.
+doi:10.1111/cdev.12237
+
+Fox, N.A., Bakermans-Kranenburg, M.J., Yoo, K.H., Bow-
+man, L.C., Cannon, E.N. et al. (2016). Assessing human
+mirror activity with EEG mu rhythm: a meta-analysis.
+Psychological Bulletin, 142 (3), 291–313.
+
+Frith, C.D., & Frith, U. (1999). Interacting minds: a biological
+basis. Science, 286, 1692–1695. doi:10.1126/science.286.
+5445.1692
+
+Gallese, V., & Sinigaglia, C. (2011). What is so special about
+embodied simulation? Trends in Cognitive Sciences, 15, 512–
+519. doi:10.1016/j.tics.2011.09.003
+
+© 2016 John Wiley & Sons Ltd
+
+Gerson, S.A., Bekkering, H., & Hunnius, S. (2015). Short-term
+motor training, but not observational training, alters neu-
+rocognitive mechanisms of action processing in infancy.
+Journal of Cognitive Neuroscience, 27 (6), 1207–1214.
+
+Gerson, S.A., & Woodward, A.L. (2014). Learning from their
+own actions: the unique effect of producing actions on infants’
+action understanding. Child Development, 85, 264–277.
+
+Goldman, A.I. (1992). In defense of simulation theory. Mind &
+
+Language, 7, 104–119.
+
+Gordon, R.M. (1996). ‘Radical’ simulationism. In P. Car-
+ruthers & P.K. Smith (Eds.), Theories of theories of mind (pp.
+11–21). Cambridge: Cambridge University Press.
+
+Gopnik, A., & Wellman, H.M. (1992). Why the child’s Theory
+
+of Mind really is a theory. Mind & Language, 7, 145–171.
+
+Gopnik, A., & Wellman, H.M. (2012). Reconstructing con-
+structivism: causal models, Bayesian learning mechanisms,
+and the theory theory. Psychological Bulletin, 138 (6), 1085–
+1108. doi:10.1037/a0028044
+
+Hari, R., Salmelin, R., M€akel€a, J.P., Salenius, S., & Helle, M.
+(1997). Magnetoencephalographic cortical rhythms. Interna-
+tional Journal of Psychophysiology, 26, 51–62. doi:10.1016/
+S0167- 8760(97)00755-1
+
+Hyv€arinen, A. (1999). Fast and robust fixed-point algorithms
+for independent component analysis. IEEE Transactions on
+Neural Networks, 10, 626–634.
+
+Hayes, A.G. (2013). Introduction to mediation, moderation, and
+conditional process analysis: A regression-based approach.
+New York: The Guilford Press.
+
+Henderson, S.E., & Sugden, D.A. (1992). Movement assessment
+battery for children manual. London: The Psychological
+Corporation.
+
+Hunnius, S., & Bekkering, H. (2014). What are you doing? How
+active and observational experience shape infants’ action
+understanding. Philosophical Transactions of the Royal Soci-
+ety B: Biological Sciences, 369 (1644), 20130490. doi:10.1098/
+rstb.2013.0490
+
+Kanakogi, Y., & Itakura, S. (2011). Develomental correspon-
+dence between action prediction and motor ability in early
+infancy. Nature Communications, 2, 41. doi:10.1038/ncomm-
+s1342
+
+Kaufman, A., & Kaufman, N. (1990). Kaufman Brief Intelli-
+
+gence Test. Bloomington, MN: Pearson.
+
+Kuhlman, W. (1978). Functional topography of the human mu
+rhythm. Electroencephalography and Clinical Neurophysiol-
+ogy, 44, 83–93.
+
+Leocani, L., Toro, C., Manganotti, P., Zhuang, P., & Hallett,
+M. (1997). Event-related coherence and event-related desyn-
+chronization/ synchronization in the 10 Hz and 20 Hz EEG
+during self-paced move- ments. Electroencephalography and
+Clinical Neurophysiology, 104, 199–206. doi:10.1016/S0168-
+5597(96)96051-7
+
+Lepage, J.F., & Theoret, H. (2006). EEG evidence for the
+presence of an action observation–execution matching sys-
+tem in children. European Journal of Neuroscience, 23, 2505–
+2510.
+
+Manoel, E.J., & Connolly, K.J. (1998). The development of
+manual dexterity in young children. In K.J. Connolly
+
+(Ed.), The psychobiology of the hand (Clinics in develop-
+mental medicine, no. 147) (pp. 177–198). London: MacK-
+eith Press.
+
+Marshall, P.J., & Meltzoff, A.N. (2011). Neural mirroring
+systems: exploring the EEG mu rhythm in human infancy.
+Developmental Cognitive Neuroscience, 1, 110–123.
+
+Marshall, P.J., & Meltzoff, A.N. (2014). Neural mirroring
+mechanisms and imitation in human infants. Philosophi-
+cal Transactions of the Royal Society of London. Series
+B, Biological Sciences, 369, 20130620. doi:10.1098/rstb.
+2013.0620
+
+Marshall, P.J., Saby, J.N., & Meltzoff, A.N. (2013). Infant brain
+responses to object weight: exploring goal-directed actions
+Infancy, 18, 942–960. doi:10.1111/
+and self-experience.
+infa.12012
+
+Marshall, P.J., Young, T., & Meltzoff, A.N. (2011). Neural
+correlates of action observation and execution in 14-month-
+old infants: an event-related EEG desynchronization study.
+Developmental Science, 14, 474–480. doi:10.1111/j.1467-
+7687.2010.00991.x
+
+Meltzoff, A.N. (2002). Imitation as a mechanism of social
+cognition: origins of empathy, Theory of Mind, and the
+representation of action. In U. Goswami (Ed.), Blackwell
+handbook of childhood cognitive development (pp. 6–25).
+Oxford: Blackwell.
+
+Meltzoff, A.N. (2007). ‘Like me’: a foundation for social
+
+cognition. Developmental Science, 10, 126–134.
+
+Meltzoff, A.N. (2013). Origins of social cognition: bidirectional
+self–other mapping and the ‘like-me’ hypothesis. In M.
+Banaji & S. Gelman (Eds.), Navigating the social world: What
+infants, children, and other species can teach us (pp. 139–144).
+New York: Oxford University Press.
+
+Milligan, K., Astington, J.W., & Dack, L.A. (2007). Language
+and Theory of Mind: meta-analysis of the relation between
+language ability and false-belief understanding. Child
+Development, 78, 622–646. doi:10.1111/j.1467-8624.2007.
+01018.x
+
+Muthukumaraswamy, S.D., & Johnson, B.W. (2004). Changes
+in rolandic mu rhythm during observation of a precision grip.
+Psychophysiology, 41, 152–156.
+
+Paulus, M., Hunnius, S., van Elk, M., & Bekkering, H. (2012).
+How learning to shake a rattle affects 8-month-old infants’
+perception of the rattle’s sound: electrophysiological evi-
+dence for action-effect binding in infancy. Developmental
+Cognitive Neuroscience, 2, 90–96.
+
+Pfurtscheller, G., Neuper, C., Andrew, C., & Edlinger, G.
+(1997). Foot and hand area mu rhythms. International
+Journal of Psychophysiology, 26, 121–135.
+
+Pineda, J.A. (2005). The functional significance of mu rhythms:
+into ‘doing’. Brain
+
+translating ‘seeing’ and ‘hearing’
+Research Reviews, 50, 57–68.
+
+Saby, J.N., Marshall, P.J., & Meltzoff, A.N. (2012). Neural
+correlates of being imitated: an EEG study in preverbal
+infants. Social Neuroscience, 7, 650–661. doi:10.1080/
+17470919.2012.691429
+
+Saby, J.N., Meltzoff, A.N., & Marshall, P.J. (2013). Infants’
+somatotopic neural responses to seeing human actions: I’ve
+
+© 2016 John Wiley & Sons Ltd
+
+Action mechanisms for social cognition 15 of 16
+
+got you under my skin. PLoS ONE, 8, e77905. doi:10.1371/
+journal.pone.0077905
+
+Salmelin, R., & Hari, R. (1994a). Spatiotemporal characteris-
+tics of sensorimotor neuromagnetic rhythms related to
+thumb movement. Neuroscience, 60, 537–550. doi:10.1016/
+0306-4522(94)90263-1
+
+Salmelin, R., & Hari, R. (1994b). Characterization of sponta-
+neous MEG rhythms in healthy adults. Electroencephalogra-
+phy and Clinical Neurophysiology, 91, 237–248. doi:10.1016/
+0013- 4694(94)90187-2
+
+Scholl, B.J., & Leslie, A.M. (1999). Modularity, development
+
+and ‘Theory of Mind’. Mind & Language, 14, 131–153.
+
+Sommerville, J.A., Hildebrand, E.A., & Crane, C.C. (2008).
+Experience matters: the impact of doing versus watching on
+infants’ subsequent perception of tool-use events. Develop-
+mental Psychology, 44, 1249–1256. doi:10.1037/a0012296
+
+Sommerville, J.A., Woodward, A.L., & Needham, A. (2005).
+Action experience alters 3-month-old infants’ perception of
+others’ actions. Cognition, 96, B1–B11. doi:10.1016/j.cogni-
+tion.2004.07.004
+
+Southgate, V., Johnson, M.H., Osborne, T., & Csibra, G.
+(2009). Predictive motor activation during action observation
+in human infants. Biology Letters, 5, 769–772. doi:10.1098/
+rsbl.2009.0474
+
+Thorpe, S., Cannon, E., & Fox, N. (2016). Spectral and source
+structural development of mu and alpha rhythms from
+infancy through adulthood. Journal of Clinical Neurophysi-
+ology, 127 (1), 254–269. doi:10.1016/j.clinph.2015.03.004
+
+Toro, C., Deuschl, G., Thatcher, R., Sato, S., Kufta, C. et al.
+(1994). Event-related desynchronization and movement-
+related cortical potentials on the ECoG and EEG. Elec-
+troencephalography and Clinical Neurophysiology, 93, 380–
+389. doi:10.1016/0168- 5597(94)90126-0
+
+Upshaw, M.B., Bernier, R.A., & Sommerville, J.A. (2016).
+Infants’ grip strength predicts mu rhythm attenuation
+during observation of lifting actions with weighted blocks.
+Developmental Science, 19 (2), 195–207. doi:10.1111/desc.
+12308
+
+Van Elk, M., van Schie, H.T., Hunnius, S., Vesper, C., &
+Bekkering, H. (2008). You’ll never crawl alone: neurophys-
+iological evidence for experience-dependent motor resonance
+in infancy. NeuroImage, 43, 808–814.
+
+Van Overwalle, F. (2009). Social cognition and the brain: a
+meta-analysis. Human Brain Mapping, 30, 829–858. doi:10.
+1002/hbm.20547
+
+Virji-Babul, N., Rose, A., Moiseeva, N., & Makan, N. (2012).
+Neural correlates of action understanding in infants: influ-
+ence of motor experience. Brain and Behavior, 2, 237–242.
+doi:10.1002/brb3.50
+
+Warreyn, P., Ruysschaert, L., Wiesema, J.R., Handl, A.,
+Pattyn, G. et al. (2013). Infants’ mu suppression during the
+observation of real and mimicked goal-directed actions.
+Developmental Science, 16 (2), 173–185. doi:10.1111/desc.
+12014
+
+Wellman, H.M., Cross, D., & Watson, J. (2001). Meta-analysis
+of Theory of Mind development: the truth about false belief.
+Child Development, 72, 655–684.
+
+16 of 16 Lindsay C. Bowman et al.
+
+Wellman, H.M., & Liu, D. (2004). Scaling of Theory of Mind
+
+tasks. Child Development, 75, 523–541.
+
+Wimmer, H., & Perner, J.
+
+(1983). Beliefs about beliefs:
+representation and constraining function of wrong beliefs
+in young children’s understanding of deception. Cognition,
+13, 103–128.
+
+Woodward, A.L. (2013). Infant foundations of intentional
+understanding. In M.R. Banaji & S.A. Gelman (Eds.),
+Navigating the social world: A developmental perspective
+(pp. 75–80). Oxford: Oxford University Press.
+
+Woodward, A.L., & Gerson, S.A. (2014). Mirroring and the
+development of action understanding. Philosophical Trans-
+actions of the Royal Society of London. Series B, Biological
+Sciences, 369, 20130181. doi:10.1098/rstb.2013.0181
+
+Woodward, A.L., & Guajardo, J.J. (2002). Infants’ understand-
+ing of
+the point gesture as an object-directed action.
+Cognitive Development, 17, 1061–1084. doi:10.1016/S0885-
+2014(02)00074-6
+
+Yoo, K.H., Cannon, E.N., Thorpe, S.G., & Fox, N.A. (2015).
+Desynchronization in EEG during perception of means–end
+
+actions and relations with infants’ grasping skill. British
+Journal of Developmental Psychology, 34, 24–37.
+
+Zelazo, P.D. (2006). The dimensional change card sort (DCCS):
+a method of assessing executive function in children. Nature
+Protocols, 1, 297–301.
+
+Received: 4 September 2014
+Accepted: 24 March 2016
+
+Supporting Information
+
+Additional Supporting Information may be found online in the
+supporting information tab for this article:
+
+Figure S1 Histogram of children’s action-representation task
+performance scores (N=43) showing the frequency distribution
+of scores across the sample. Bars represent the number of
+children who achieved a given score. The distribution of scores
+reasonably approaches normal, as can be seen by reference to
+the simulated normal curve superimposed on the data.
+
+© 2016 John Wiley & Sons Ltd
+
+

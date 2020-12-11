@@ -1,0 +1,1045 @@
+J. Child Lang. 32 (2005), 673–686. f 2005 Cambridge University Press
+doi:10.1017/S0305000905006963 Printed in the United Kingdom
+
+N O T E
+
+Parent–child picture-book reading, mothers’ mental
+
+state language and children’s theory of mind*
+
+J U A N E. A D R I A N, R O S A A. C L E M E N T E,
+
+L I D O N V I L L A N U E V A
+
+Jaume I University, Castello´n, Spain
+
+A N D
+
+C A R O L I E N R I E F F E
+
+Leiden University, The Netherlands
+
+(Received 19 February 2004. Revised 19 November 2004)
+
+A B S T R A C T
+
+This study focuses on parent–child book reading and its connection to
+the development of a theory of mind. First, parents were asked to report
+about frequency of parent–child storybook reading at home. Second,
+mothers were asked to read four picture-books to thirty-four children
+between 4 ;0 and 5 ;0. Both frequency of parent–child storybook reading
+at home, and mother’s use of mental state terms in picture-books reading
+tasks were signiﬁcantly associated with success on false belief tasks, after
+partialling out a number of potential mediators such as age of children,
+verbal IQ, paternal education, and words used by mothers in joint
+picture-book reading. Among the diﬀerent mental state references
+(cognitive terms, desires, emotions and perceptions), it was found that
+the frequency and variety of cognitive terms, but also the frequency of
+emotional
+terms correlated positively with children’s false belief
+performance. Relationships between mental state language and theory
+of mind are discussed.
+
+[*] This research was supported by the ﬁnancial support of the Ministry of Science and
+Technology (Project BSO2003-07173). We wish to thank the mothers and children who
+participated in the study. Address for correspondence : Juan E. Adria´n Serrano,
+Developmental Psychology Department, Jaime I University, 12003 Castello´ n, Spain.
+e-mail : adrian@psi.uji.es
+
+673
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+I N T R O D U C T I O N
+
+In recent years, a number of studies that have examined how social
+experiences are related to children’s theory of mind development have
+included the study of parent–child relations. Since children develop an early
+understanding of other people in terms of their internal psychological states
+in preschool years, it is not surprising that some features of parent–child
+interactions in this period have been linked to children’s advances. These
+studies have focused mainly on conversational interactions, with respect to
+emotions (Dunn, Brown, Slomkowski, Tesla & Youngblade, 1991), desires
+(Bartsch & Wellman, 1995), internal states (Brown & Dunn, 1991), past
+events (Welch-Ross, 1997), mental states or feelings of others when their
+children had transgressed against those others (Ruﬀman, Perner & Parkin,
+1999) and mothers’ use of appropriate mental state comments referring to
+their infants’ minds (Meins, Fernyhough, Wainwright, Das Gupta, Fradley
+& Tuckey, 2002). Only a few studies concentrated on parent–child book
+reading and its relation to children’s theory of mind development, which will
+be the focus of this paper.
+
+Joint book reading sets a particular context for conversational interactions
+in which both conversation partners concentrate simultaneously and
+in-depth on the same topic. Bruner (1983) argued that it involves a certain
+level of inter-subjectivity between the conversation partners, so that objects,
+words, actions and behaviour that are included in the narrative can be linked
+and shared. Thus, a number of studies investigated book reading to deter-
+mine whether adults and children inﬂuence each others’ representational
+level, communicative mechanisms, verbalization, procedures, and so on (see
+Danis, Bernard & Leproux, 2000, for a review). Moreover, storybooks for
+young children frequently centre on the actions and interactions of a child-
+protagonist or personiﬁed animals, which may also contribute to children’s
+understanding of mind (Dyer, Shatz & Wellman, 2000). Dyer and colleagues
+analysed ninety children’s books (forty-ﬁve books were aimed at three- to
+four-year-olds and the other forty-ﬁve were for ﬁve- to six-years-olds) with
+respect to their references to mental states in three ways : words and
+expressions in the text, pictures, and ironic situations. The outcomes showed
+that children’s storybooks indeed are an important source of mental state
+information, for example through words and irony, even for preschool
+children as young as three. The authors suggested that future studies should
+examine more closely exactly how storybook narratives aﬀect children’s
+theory of mind development.
+
+However, only a few studies so far have examined this issue in the context
+of parent–child book reading. Ratner & Olver (1998) explored what role folk
+tales – including deception – played in enhancing children’s theory of mind
+development. Their results suggested that rereading a folk tale of deception
+(‘ The Brave Little Tailor ’) between three- and four-year-olds and their
+
+674
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+parents set a framework for social interactions, which supported children’s
+understanding of mental representations. Apparently, the fact that the stories
+contained deception elicited discussions between the children and their
+parents about the protagonists’ thoughts and feelings, and how these could be
+related to their intentions and actions. Moreover, these discussions changed
+over the course of successive readings as the children showed an increasing
+comprehension of the protagonists’ deceptions and decreasingly requested
+parental support.
+
+In contrast with text in storybooks, pictures typically fail to represent
+mental state concepts explicitly. Nevertheless, Sabbagh & Callanan (1998)
+found that parents and their ﬁve-year-olds children who were jointly reading
+illustrated wordless picture books, engaged in conversations that contained
+more frequent mental state references than comparable parent–child pairs in
+their everyday conversations. This also suggests that picture book reading
+can improve mental state talk. Ruﬀman, Slade & Crowe (2002) provided
+more support for this assumption. They analysed mental state talk during
+mother–child picture tasks and related this to children’s theory of mind
+understanding. Their ﬁndings showed a positive association between the
+frequency of the mothers’ mental state utterances and their child’s per-
+formance on theory of mind tasks. Moreover, the frequency of early mother
+mental state utterances appeared also to be related to later theory of mind
+understanding in their children.
+
+These ﬁndings strongly suggest that joint story book reading provides
+useful opportunities for children to have conversations which reﬂect on
+mental states, since book characters are regularly presented in terms of their
+goals, thoughts, and emotions that shape their actions and experiences (Dyer
+et al., 2000). The question is, however, which factors in joint picture book
+reading improve children’s theory of mind development. The present
+research addresses this issue and focuses on some unexplored aspects within
+joint book reading in order to compare the inﬂuence of various factors. First,
+there is support for the idea that the frequency of parent–child book reading
+at home could enhance children’s theory of mind development (Ratner &
+Olver, 1998). Therefore,
+the frequency of
+parent–child book reading at home would be positively related to children’s
+false belief understanding. Second, the frequency of mental state references
+during the joint book reading seems to be inﬂuential as well (Ruﬀman et al.,
+2002). Therefore, the second hypothesis stated that not only the frequency,
+but also the variety of maternal references to mental states during joint
+picture book reading would be positively related to children’s performance
+on a false belief task.
+
+it was hypothesized that
+
+A controversial issue in the literature is which mental states in parents’
+talk are more strongly related to their children’s false belief understanding.
+Some authors have argued that belief understanding in children depends
+
+675
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+mainly on their parents’ mental state references that are related to beliefs,
+such as think and know (Olson, 1988 ; Nelson, 1996), whereas the positive
+inﬂuence of other kinds of references, such as desires, emotions and per-
+ception is less clear. Support for this view is provided by Ruﬀman et al.’s
+study (2002). The authors measured children’s theory of mind under-
+standing at three points in time and found that the frequency of mothers’
+use of cognitive terms indeed correlated more often with children’s
+performance on theory of mind tasks than the frequency of mothers’ references
+to desires, whereas a signiﬁcant correlation with the mothers’ use of emotion
+terms did not appear. Le Sourn-Bissaoui & Deleau (2001) provided further
+evidence for this view in a longitudinal study in which a picture story was
+used. It appeared from their study that the frequency of maternal references
+to cognition but not emotions was positively related to children’s perfor-
+mances on belief attributions when children were 3 ;0 and also six months
+later.
+
+On the other hand, Slaughter & Gopnik (1996) have argued that children’s
+theory of mind consists of a set of interrelated concepts, whereby the meaning
+of the individual concepts is based on those connections. Consequently,
+learning about one concept would facilitate children’s understanding of other
+concepts in the same domain. Their study showed indeed that training
+children – who initially had failed false belief tests – on desires and percep-
+tions improved their belief understanding. Training on beliefs with a
+diﬀerent group had the same eﬀect, whereas a control group, which was
+trained on conservation, did not show a better belief understanding after the
+training. In daily life, however, children could be presented with diﬀerent
+sources of information about others’ mental states more or less simul-
+taneously, but the unique inﬂuence might vary.
+
+In sum, it appears that the inﬂuence of using cognitive terms on children’s
+false belief understanding is evident from all studies, but the inﬂuence of
+using desire, emotion or perception terms is less clear. Therefore, the third
+aim of this study was to look more closely into the contribution of beliefs,
+desires, perception, and emotion usage in maternal discourse to the
+prediction of children’s belief understanding. Based on previous ﬁndings, the
+third hypothesis stated that mothers’ references to cognitive terms during
+joint picture book reading would be strongly correlated with children’s false
+belief performance, but that the relation with mothers’ references to
+perceptions, desires or emotions would be less clear.
+
+Additionally, we controlled for variables that could mediate the relation-
+ship between the variables that are the focus of this study (frequency of
+picture book reading at home ; the mothers’ frequency of mental states
+utterances and children’s false belief understanding), such as children’s age
+and verbal IQ, their parents’ educational level and the total number of words
+used by mothers during picture book reading.
+
+676
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+M E T H O D
+
+Participants
+
+Thirty-four mother and child dyads participated in this study. The
+children, 19 boys and 15 girls, were between the ages of 4 ;0 and 5 ;11
+(M=4 ;10 S.D.=5.83 months). Mothers of
+the children responded to
+advertisements in schools. All participants came from working- and
+middle-class families.
+
+Materials and procedure
+
+Family data questionnaire. The mothers answered this questionnaire at the
+beginning of the experimental session. This way, data related to children’s
+age and school, paternal education, socio-economic level and parent–child
+picture book reading at home were collected.
+
+Verbal IQ. Children’s verbal IQ was measured by the verbal scale of
+Wechsler Preschool and Primary Scale of Intelligence (WPPSI ; Wechsler,
+1990).
+
+False Belief task. The ‘ unexpected transfer task ’ developed by Wimmer &
+Perner (1983) was used. Evaluation of the false belief task included the
+following steps : (1) Control question : ‘ Did the child who went out see the
+other one change the place of the ball ? ’ (2) Prediction question : ‘Where will
+the child look for the ball ﬁrst ? ’ (3) Explanation question : ‘Why ? ’ (4)
+Ignorance attribution question : ‘ Did the child really know where the ball
+was ? ’ Children’s language evaluation and false belief task preceded the book
+reading session.
+
+Picture book reading tasks. Mothers were instructed to read four stories to
+their children, as they would normally do at home. The ﬁrst story was a
+commercial version of ‘ Snow White ’ with the printed text removed. The
+other three were stories designed for the research, which had been previously
+tested out on a pilot group. They were made up of a maximum of 4–5
+drawings with a minimum supporting text : the title and short narrative notes
+(e.g. ‘ and then the boy _ ’, ‘ at the end _ ’). The titles were : (1) ‘ The story of
+the girl who broke a pencil case and blamed her classmate ’, (2) ‘ The story of
+the dangerous bottle left unsupervised in the kitchen ’ and (3), ‘ The boy who
+jumped the queue to be the ﬁrst into the cinema ’. All the stories had in
+common a presentation of events with obvious mentalist content : false
+beliefs, trickery, lies, etc. The CHILDES system (MacWhinney & Snow,
+1984) was used for the narrative transcription.
+
+Scoring
+
+Parental education. The educational level of both parents was coded
+on a 3-point scale as a measure of socio-economic status. The scoring
+
+677
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+was : 1=Certiﬁcate of Primary Education, 2=Certiﬁcate of Secondary
+Education, 3=University graduate.
+
+Picture book reading at home. An 8-point scale measure was used according
+to the average number of days per week that parents reported that they had
+read stories to their children during the last year.
+
+Verbal Mental Age (VMA). In order to compute children’s Verbal Mental
+
+Age (VMA), the scores on the WPPSI were divided by children’s age.
+
+False belief task. Children were asked 4 questions : a control question, a
+prediction question, an explanation question, and an ignorance attribution
+question. Thus they could receive a maximum score of 3 if they answered all
+the questions correctly.
+
+Picture book reading tasks. Mental terms used by mothers during picture-
+book reading were coded according to the criteria used by Bretherton &
+Beeghly (1982), including cognitive state terms (e.g. think, know, remember),
+emotional state terms (e.g. happy, sad, angry), desire state terms (e.g. want,
+hope, wish), and perceptual state terms (e.g. see, look, watch). Terms were
+counted in two ways, according to Dyer et al.’s (2000) criteria. First, all the
+instances of terms within a category were counted as TOKENS of those terms.
+Second, diﬀerent terms within a category were coded as TYPES of terms. For
+example, the three instances think, know and knew were coded as three tokens
+and two types. One coder used the transcriptions and audiotapes to code all
+utterances. In order to assess the reliability of the coding, a second person
+coded 30 % of the transcripts. Reliability for cognitive state was 89 %, for
+emotional state 84 %, for desire states 91 %, and for perceptual states 86 %.
+
+R E S U L T S
+
+Descriptive statistics
+
+A summary of the descriptive statistics is presented in Table 1. The results
+revealed that 29.4 % of the total sample passed all three evaluation questions
+(prediction, explanation, and ignorance attribution), 32.4 % passed the
+prediction and the explanation questions, 14.7 % passed only the prediction
+question, and 23.5 % passed none of the questions. For picture-book reading
+at home, 32.4 % of parents reported that they read stories every day to their
+children, 20.6 % reported that they did not read stories to their children at all,
+and 47 % reported that they read picture books between 1–6 days per week.
+Table 2 presents the mean number of tokens and types and the standard
+deviations per 100 words used by mothers in picture-books reading tasks.
+Results revealed very similar scores for the same categories between Dyer et
+al.’s results (2000) from ninety children’s books texts (half for three- to four-
+year-olds and half for ﬁve- to six-years-olds) and our data, based on mothers’
+spoken language in picture-book reading tasks with a very small amount of
+textual information and with four- to ﬁve-year-olds. A correlation matrix was
+
+678
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+T A B L E 1. Descriptive statistics of key measures
+
+Variable
+
+Age of children (months)
+Verbal IQ
+Maternal education
+Paternal education
+False belief scores
+Frequency of home-reading (days per week)
+Number of words by mothers
+Cognitive terms
+
+Tokens
+Types
+
+Emotional terms
+
+Tokens
+Types
+
+Desire terms
+
+Tokens
+Types
+
+Perceptual terms
+
+Tokens
+Types
+
+All categories
+
+Tokens
+Types
+
+M
+
+58.82
+55.18
+2.18
+1.79
+1.68
+3.91
+1292.88
+
+15.82
+9.91
+
+12.50
+8.32
+
+3.50
+2.03
+
+20.56
+7.59
+
+52.38
+27.88
+
+S .D .
+
+5.83
+5.98
+0.86
+0.82
+1.14
+2.80
+512.26
+
+9.98
+4.52
+
+7.16
+4.49
+
+2.68
+1.52
+
+8.79
+2.06
+
+21.72
+10.12
+
+Range
+
+48–71
+41–67
+
+1–3
+1–3
+0–3
+0–7
+
+505–2537
+
+2–46
+2–21
+
+2–27
+1–20
+
+0–10
+0–7
+
+6–43
+4–12
+
+20–106
+13–47
+
+T A B L E 2. Means of tokens and types (and standard deviations) of mental state
+
+terms used by mothers in picture books reading tasks per 100 words
+
+Kind of mental state term
+
+M (S .D .)
+
+Cognitive terms
+
+Tokens
+Types
+
+Emotional terms
+
+Tokens
+Types
+
+Desire terms
+
+Tokens
+Types
+
+Perceptual terms
+
+Tokens
+Types
+
+All categories
+
+Tokens
+Types
+
+1.18 (0.50)
+0.77 (0.24)
+
+0.95 (0.38)
+0.65 (0.27)
+
+0.27 (0.20)
+0.17 (0.14)
+
+1.70 (0.73)
+0.64 (0.22)
+
+4.12 (0.92)
+2.25 (0.56)
+
+computed for all variables analysed, which is presented in Table 3. It can be
+seen that the frequency of picture book reading at home and mothers’ mental
+state references (both tokens and types) correlated signiﬁcantly with
+children’s scores on the false belief task.
+
+679
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+T A B L E 3. Correlation matrix for children’s VMA, maternal education, paternal
+education, frequency of picture-book reading at home, number of words used by
+mothers in picture-book reading, mothers’ mental state terms (tokens and types),
+and false belief scores (N=34)
+
+Variable
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+1. VMA
+2. Maternal education
+3. Paternal education
+4. Frequency of home-reading
+5. Number of words by mothers
+6. Mothers’ mental state terms
+
+(tokens)
+
+7. Mothers’ mental state terms
+
+(types)
+
+8. False belief scores
+
+*p<0.05 ; ** p<0.01.
+
+—
+0.00 —
+
+x0.15 0.51** —
+
+0.07 —
+
+0.04 0.18
+0.15 0.47** 0.10 0.24 —
+0.11 0.49** 0.05 0.21
+
+0.85** —
+
+0.03 0.57** 0.22 0.09
+
+0.78** 0.89** —
+
+x0.22 0.27
+
+0.02 0.36* 0.18
+
+0.37*
+
+0.38* —
+
+T A B L E 4. Summary of regression statistics for frequency of picture-book reading
+
+at home and false belief scores (N=34)
+
+Variable
+
+B
+
+t
+
+p
+
+R2 y DR2
+
+pr
+
+Step 1 : VMA, maternal education, paternal education
+Step 2 : Frequency of home-reading
+
+0.37 2.32 0.028
+
+0.16
+0.13
+
+0.40
+
+Note : b=standardized regression coeﬃcient ; R2=proportion of variance explained by a
+variable ; DR2=additional variance explained by a variable ; pr=partial correlation.
+
+Hypothesis 1
+
+The data were submitted to a multiple regression analysis to determine
+whether frequency of previous parent–child picture book reading at home
+predicted present false belief understanding in children. Results showed that
+the frequency of parent–child picture book reading at home contributed to
+the prediction of children’s performance on the false belief task (see Table 4),
+after controlling for children’s VMA, maternal education and paternal
+education. The overall model showed signiﬁcance : F (4,28)=3.02, r=0.55,
+p=0.03.
+
+Hypothesis 2
+
+The data were submitted to a multiple regression analysis to determine
+whether the frequency (tokens) and variety (types) of maternal references
+to mental states contributed to the prediction of children’s false belief
+
+680
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+T A B L E 5. Summary of regression statistics for mothers’ mental state terms use
+
+and false belief scores (N=34)
+
+Variable
+
+Model 1
+
+Step 1 : VMA, maternal education, number
+
+of words by mothers, and frequency of
+home-reading
+
+Step 2 : Mother’s mental state terms (tokens)
+
+Model 2
+
+Step 1 : VMA, maternal education, number of
+
+words by mothers, and frequency of
+home-reading
+
+Step 2 : Mother’s mental state terms (types)
+
+B
+
+t
+
+p
+
+R2 y DR2
+
+pr
+
+0.70
+
+2.40
+
+0.023
+
+0.23
+
+0.13
+
+0.23
+
+0.41
+
+0.66
+
+2.45
+
+0.021
+
+0.13
+
+0.42
+
+Note : b=standardized regression coeﬃcient ; R2=proportion of variance explained by a
+variable ; DR2=additional variance explained by a variable ; pr=partial correlation.
+
+understanding. Despite the high correlations between tokens and types,
+separate analyses were conducted in order to examine possible diﬀerences.
+Results showed that both discourse measures were indeed predictors of false
+belief understanding, after controlling for children’s VMA, maternal
+education, number of words used by mothers in joint picture book reading,
+and frequency of picture-book reading at home (see Table 5). Both models
+showed signiﬁcance : Model 1 (tokens) : F (5,28)=3.26, r=0.60, p=0.01, and
+Model 2 (types) : F(5,28)=3.33, r=0.61, p=0.01.
+
+Hypothesis 3
+
+The data were submitted to a partial correlation analysis to examine
+relationships between diﬀerent mother’s mental state terms (tokens and
+types) with children’s false belief performance. For this purpose, children’s
+VMA, maternal education, number of words used by mothers in joint picture
+book reading, and frequency of picture-book reading at home were partialled
+out. Results showed that the frequency and variety of cognitive terms (tokens
+and types) and the frequency, but not the variety of emotional terms used by
+mothers (only tokens) correlated signiﬁcantly with children’s false belief
+performance, whereas tokens and types of desire references or perception
+terms were not signiﬁcant (see Table 6).
+
+D I S C U S S I O N
+
+The aim of this study was to identify variables within the context of
+parent–child picture book reading that are associated with preschool
+
+681
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+T A B L E 6. Partial correlation between cognitive, perceptive, desire and emotional
+terms (tokens and types) and false belief scores, partialling out VMA, maternal
+education, number of words by mothers and frequency of home-reading
+
+Kind of mental state term
+
+Cognitive terms
+
+Tokens
+Types
+
+Perceptive terms
+
+Tokens
+Types
+
+Desire terms
+
+Tokens
+Types
+
+Emotional terms
+
+Tokens
+Types
+
+FB
+
+0.37*
+0.40*
+
+0.06
+0.29
+
+0.10
+0.08
+
+0.38*
+0.26
+
+*p<0.05.
+
+children’s false belief understanding. First and as predicted, children who
+took part in parent–child picture book reading at home more often, scored
+higher on a false belief task after controlling for children’s verbal mental age
+(VMA), and their parents’ educational level. This is consistent with general
+assertions about the role of narratives in children’s growing understanding of
+the mind (e.g. Bruner, 1990 ; Carrithers, 1991 ; Feldman, 1992), and with
+previous ﬁndings on how parent–child interactions may relate to children’s
+theory of mind abilities (Brown & Dunn, 1991 ; Dunn et al., 1991 ; Bartsch &
+Wellman, 1995 ; Welch-Ross, 1997 ; Ruﬀman et al., 1999 ; Meins et al., 2002).
+Moreover, these outcomes extend other ﬁndings about the beneﬁts of
+interactive book reading on children’s cognitive and linguistic development
+(e.g. Bus & IJzendoorn, 1988 ; Deleau, Gandon & Taburet, 1993 ; Sigel,
+1993).
+
+Besides the frequency of picture book reading, the mothers’ use of mental
+state terms also appeared to be related to the development of children’s
+theory of mind. Our ﬁndings showed that the frequency and variety of mental
+states used by mothers were positively related to children’s false belief
+performance, after controlling for children’s verbal mental age, maternal
+education, the number of words used by mothers in joint picture book
+reading, and the frequency of picture-book reading at home. These results
+conﬁrm previous ﬁndings that the frequency of mothers’ mental state
+utterances (related to the additional input that children receive) is correlated
+with their children’s theory of mind abilities (Ruﬀman et al., 2002), but also
+indicate that the variety of mental state terms used by mothers (related to the
+degree of complexity of the input that children receive) is important in the
+process of expanding an understanding of mental processes.
+
+682
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+Previous studies (Le Sourn-Bissaoui & Deleau, 2001 ; Ruﬀman et al.,
+2002) suggested that mothers’ use of cognitive terms in similar tasks was
+related more strongly to children’s theory of mind performances than the
+mothers’ references to other mental states, such as desires or emotions. We
+tested this by examining partial correlations between each mental state term
+(tokens and types) and children’s false belief performance and found a
+signiﬁcant relation not only in both tokens and types of mother’s cognitive
+references, but also in tokens of emotional terms. In line with other studies on
+joint picture book reading, cognitive terms indeed showed the strongest
+relation with children’s false belief performances, but this relation was not
+exclusive. The fact that this study – unlike previous studies in this area –
+revealed a relationship between the frequency of mothers’ emotion terms
+might be due to the diﬀerent language, Spanish, that was used in this study,
+whereas all discussed previous studies were carried out in English. Some
+English emotion words also imply belief understanding. For example,
+surprised or afraid that are emotionally laden, but also refer to expectations,
+which are mental states. Possibly, the Spanish language contains even more
+of these kinds of emotion references ; future studies should look closer into
+this issue. Nevertheless, this ﬁnding suggests that it might be important in
+future studies to consider the kind of emotion words that are used by the
+mothers.
+
+Nevertheless,
+
+the strongest relationship appeared between mothers’
+cognitive references and children’s false belief performances. The link
+between cognitive states and understanding that other people’s behaviour is
+governed by their beliefs, as is the case in false belief tasks, is of course more
+obvious than the link between desires, perceptions and emotions with
+children’s false belief understanding. The fact that diﬀerent people can have
+diﬀerent desires and subsequent emotions is understood quite early in life
+(Wellman, 1990). However, many desires do not conﬂict with an observable
+reality, as do false beliefs. In order to perform well on a false belief task,
+children need to overcome the saliency of reality as they know it, and under-
+stand that people’s reﬂection on reality guides their behaviour, not reality
+itself. Both semantic and syntactic properties of cognitive verbs would be
+closely related to such insight, just as several studies claim that are focused on
+relationships between syntax of complementation and false belief under-
+standing (de Villiers, 1995 ; Tager-Flusberg, 1995 ; de Villiers & de Villiers,
+2000 ; de Villiers & Pyers, 2002). Complementary, opportunities to engage in
+richer discourse interactions involving cognitive verbs and people’s diﬀerent
+perspectives may enhance a better child understanding of false beliefs
+(Harris, 1996, 1999 ; Tomasello, 1999). Studies among clinical populations,
+for example deaf children with hearing parents, show that the absence of
+this kind of conversation causes serious delay in children’s theory of mind
+development (Peterson & Siegal, 2000 ; Meerum Terwogt & Rieﬀe, 2004).
+
+683
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+Moreover, from our data it appears that mothers’ references to cognitive
+states were more frequent than their references to emotions and desires
+during picture book reading (see also Le Sourn-Bissaoui & Deleau, 2001 ;
+Ruﬀman et al., 2002). Dyer et al. (2000) also noticed that the books for
+younger children refer to cognitive states more often than to desires. Yet,
+these data contrast with results from children’s natural conversations, in
+which the references to desires and emotions are more frequent than to
+beliefs or cognition (Bartsch & Wellman, 1995). This further emphasizes the
+idea that, at least in the story-book’ context, adults’ discourse focuses
+especially on what children have not yet mastered, thus providing valuable
+information to increase understanding the subjective character of cognitive
+states.
+
+However, we need to consider the fact that the correlational nature of our
+data does not allow us to establish the causal direction of such a relation. In
+other words, does the mother adapt her speech to her child’s theory of mind
+ability, does her talk facilitate the development of such ability, or can we
+consider both relations ? Although other studies (Le Sourn-Bissaoui &
+Deleau, 2001 ; Ruﬀman et al., 2002 ; Lohman & Tomasello, 2003) as well as
+the ﬁndings of this study favour of the inﬂuence of language input in theory
+of mind, our data precludes strong assertions in this direction. In conclusion,
+parent–child picture-book reading seems to involve several features and
+processes closely related with children’s theory of mind understanding. Book
+characters are presented frequently in terms of their goals, thoughts, and
+emotions that guide their actions, and thus, encourage readers to talk and
+think about them (Dyer et al., 2000). Especially when children are too young
+to read or interpret picture-based stories themselves, the role of a more
+expert reader appears important to convey mental state information to
+children.
+
+R E F E R E N C E S
+
+Bartsch, K. & Wellman, H. M. (1995). Children talk about the mind. New York : Oxford
+
+University Press.
+
+Bretherton, I. & Beeghley, M. (1982). Talking about internal states : the acquisition of an
+
+explicit theory of mind. Developmental Psychology 18, 906–21.
+
+Brown, J. R. & Dunn, J. (1991). ‘ You can cry, mum ’ : the social and developmental
+implications of talk about internal states. British Journal of Developmental Psychology 9,
+237–56.
+
+Bruner, J. S. (1983). Child’s talk : learning to use language. New York : Norton.
+Bruner, J. (1990). Acts of meaning. Cambridge, MA : Harvard University Press.
+Bus, A. G. & Van IJzendoorn, M. H. (1988). Mother–child interactions, attachment, and
+
+emergent literacy: a cross-sectional study. Child Development 59, 1262–72.
+
+Carrithers, M. (1991). Narrativity : mindreading and making societies. In A. Whiten (ed.),
+Natural theories of mind : evolution, development and simulation of everyday mindrea ding.
+Oxford : Basil Blackwell.
+
+684
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+P A R E N T – C H I L D P I C T U R E-B O O K R E A D I N G
+
+Danis, A., Bernard, J. M. & Leproux, C. (2000). Shared picture-book reading : a sequential
+analysis of adult–child verbal interactions. British Journal of Developmental Psychology 18,
+369–88.
+
+de Villiers, J. (1995). Steps in the mastery of sentence complements. Paper presented at the
+biennial meeting of the Society for Research in Child Development, Friday, March 31,
+1995. Indianapolis, IN.
+
+de Villiers, J. & Pyers, J. E. (2002). Complements to cognition : a longitudinal study of the
+and false-belief-understanding. Cognitive
+
+syntax
+
+relationship between complex
+Development 17, 1037–60.
+
+de Villiers, J. & de Villiers, P. (2000). Linguistic determinism and the understanding of false
+beliefs. In P. Mitchell & K. J. Riggs (eds), Children’s reasoning and the mind. Hove,
+England: Psychology Press.
+
+Deleau, M., Gandon, E. & Taburet, V. (1993). Semiotic mediation in guiding interactions
+with young children : the role of context and communication handicap on distanciation in
+adult discourse. European Journal of Psychology of Education 8, 473–86.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C. & Youngblade, L. (1991). Young children’s
+understanding of other people’s feelings and beliefs: individual diﬀerences and their
+antecedents. Child Development 62, 1352–66.
+
+Dyer, J. R., Shatz, M. & Wellman, H. M. (2000). Young children’s storybooks as a source of
+
+mental state information. Cognitive Development 15, 17–37.
+
+Feldman, C. F. (1992). The new theory of theory of mind. Human Development 35,
+
+107–17.
+
+Harris, P. (1996). Desires, beliefs, and language. In P. Carruthers & P. K. Smith (eds),
+
+Theories of theories of mind. Cambridge, MA: Cambridge University Press.
+
+Harris, P. (1999). Acquiring the art of conversation : children’s developing conception of their
+conversational partner. In M. Bennett (ed.), Developmental psychology : achievements and
+prospects. Philadelphia : Psychology Press.
+
+Le Sourn-Bissaoui, S. & Deleau, M. (2001). Discours maternel et compre´hension des e´tats
+
+mentaux e´motionnels et cognitifs a 3 ans. Enfance 53, 329–48.
+
+Lohmann, H. & Tomasello, M. (2003). The role of language in the development of false belief
+
+understanding : a training study. Child Development 74, 1130–44.
+
+MacWhinney, B. & Snow, C. (1984). CHILDES (Child Language Data Exchange System).
+
+Carnegie Mellon University (Pittsburgh).
+
+Meerum Terwogt, M. & Rieﬀe, C. (2004). Deaf children’s use of beliefs and desires in
+
+negotiation. Journal of Deaf Studies and Deaf Education 9, 27–38.
+
+Meins, M., Fernyhough, C., Wainwright, R., Das Gupta, M., Fradley, E. & Tuckey, M.
+(2002). Maternal mind-mindedness and attachment security as predictors of theory of mind
+understanding. Child Development 73, 1715–26.
+
+Nelson, K. (1996). Language in cognitive development : the emergence of the mediated mind. New
+
+York : Cambridge University Press.
+
+Olson, D. R. (1988). On the origins of beliefs and other intentional states in children. In J. W.
+Astington, P. L. Harris & D. R. Olson (eds), Developing theories of mind. New York :
+Cambridge University Press.
+
+Peterson, C. C. & Siegal, M. (2000). Insights into theory of mind from deafness and autism.
+
+Mind & Language 15, 123–45.
+
+Ratner, N. K. & Olver, R. (1998). Reading a tale of deception, learning a theory of mind ?
+
+Early Childhood Research Quarterly 13, 219–39.
+
+Ruﬀman, T., Perner, J. & Parkin, L. (1999). How parenting style aﬀects false belief
+
+understanding. Social Development 8, 395–412.
+
+Ruﬀman, T., Slade, L. & Crowe, E.
+
+(2002). The relation between children’s and
+mother’s mental state language and theory-of-mind understanding. Child Development 73,
+734–51.
+
+Sabbagh, M. A. & Callanan, M. A. (1998). Metarepresentation in action : 3-, 4, and 5-year-
+olds’ developing theories of mind in parent–child conversations. Developmental Psychology
+34, 491–502.
+
+685
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+A D R I A N E T A L.
+
+Sigel, I. E. (1993). The centrality of a distancing model for the development of representa-
+tional competence. In R. R. Cocking & K. A. Renninger (eds), The development and meaning
+of psychological distance. Hillsdale, NJ : Erlbaum.
+
+Slaughter, V. & Gopnik, A. (1996). Conceptual coherence in the child’s theory of mind :
+
+training children to understand belief. Child Development 67, 2967–88.
+
+Tager-Flusberg, H. (1995). ‘ Once upon a ribbit ’ : stories narrated by autistic children. British
+
+Journal of Developmental Psychology 13, 45–59.
+
+Tomasello, M. (1999). The cultural origins of human cognition. Cambridge, MA: Harvard
+
+University Press.
+
+Wechsler, D. (1990). Escala de inteligencia para preescolar y primaria (4 ed). Madrid: TEA.
+Welch-Ross, M. K. (1997). Mother–child participation in conversations about the past :
+
+relationships to preschoolers’ theory of mind. Developmental Psychology 33, 618–29.
+
+Wellman, H. M. (1990). The child’s theory of mind. Cambridge, MA : MIT Press.
+Wimmer, H. & Perner, J. (1983). Beliefs about beliefs: representations and constraining
+function of wrong beliefs in young children’s understanding of deception. Cognition 13,
+103–28.
+
+686
+
+Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
+the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
+
+

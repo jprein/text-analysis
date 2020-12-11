@@ -1,0 +1,5635 @@
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+Developmental Psychology
+2004, Vol. 40, No. 6, 1173–1187
+
+Copyright 2004 by the American Psychological Association
+0012-1649/04/$12.00 DOI: 10.1037/0012-1649.40.6.1173
+
+The Characteristics and Correlates of Fantasy in School-Age Children:
+
+Imaginary Companions, Impersonation, and Social Understanding
+
+Marjorie Taylor
+University of Oregon
+
+Stephanie M. Carlson
+University of Washington
+
+Bayta L. Maring, Lynn Gerow, and Carolyn M. Charley
+
+University of Oregon
+
+Past research with 152 preschoolers found that having an imaginary companion or impersonating an
+imaginary character was positively correlated with theory of mind performance. Three years later, 100
+children from this study were retested to assess the developmental course of play with imaginary
+companions and impersonation of imaginary characters and how these types of role play were related to
+emotion understanding, self-perception, and personality. The results showed that school-age children
+interact with imaginary companions and impersonate imaginary characters as much as preschoolers.
+Overall, 65% of children up to the age of 7 had imaginary companions at some point during their lives.
+School-age children who did not impersonate scored lower on emotion understanding. Theory of mind
+at age 4 predicted emotion understanding 3 years later.
+
+Despite a recent surge of interest in describing the phenomenon
+of imaginary companions (Ball, Lalonde, & Wright-Cassidy, 1999;
+Gleason, 2002; Gleason, Sebanc, & Hartup, 2000; D. G. Singer &
+Singer, 1990; Taylor, 1999; Taylor & Carlson, 1997), there are still
+many unanswered questions about it. In particular, the develop-
+mental course of this type of pretend play is not well understood.
+Some researchers have claimed that the incidence of imaginary
+companions peaks in preschool (Fraiberg, 1959; Manosevitz, Pren-
+tice, & Wilson, 1973; Piaget, 1962) along with other types of
+pretense, making the preschool period the “high season of imag-
+inative play” (D. G. Singer & Singer, 1990, p. 64). However, in
+one recent study, 28% of children 5 to 12 years of age had
+imaginary companions (Pearson et al., 2001). Other research sug-
+gests that even adolescents sometimes have imaginary companions
+(Hurlock & Burnstein, 1932; Seiffge-Krenke, 1993, 1997). In
+addition, research by Cohen and MacKeith (1991) indicates that
+some older children and adolescents create imaginary worlds for
+their pretend friends and other imagined creatures to inhabit.
+
+Very little is known about the imaginary companions that are
+created by older children or about
+the fate of the imaginary
+companions that emerge during the preschool period. It is possible
+that interactions with imaginary companions diminish as children
+enter school but then reemerge in a different form during adoles-
+
+Marjorie Taylor, Bayta L. Maring, Lynn Gerow, and Carolyn M. Char-
+ley, Department of Psychology, University of Oregon; Stephanie M. Carl-
+son, Department of Psychology, University of Washington.
+
+We are grateful to Lou Moses and Lou Goldberg for helpful suggestions
+
+and to Sihu Klest and Andrea Minton-Edison for help with coding.
+
+Correspondence concerning this article should be addressed to Marjorie
+Taylor, 1227 Department of Psychology, University of Oregon, Eugene,
+OR 97403-1227. E-mail: mtaylor@uoregon.edu
+
+1173
+
+cence. This hypothesis is consistent with research by Newson and
+Newson (1976), who found that most children no longer had
+imaginary companions by the time they were 6 or 7 years old.
+However, this research was based on parental report, which even
+for preschoolers can be inaccurate or incomplete (Taylor & Carl-
+son, 1997). Given the tendency of older children to act out fantasy
+less overtly than younger children, parents might underestimate the
+ages at which imaginary companions are abandoned or be unaware
+of newly created ones. Pearson et al. (2001) interviewed the
+children themselves and found evidence that older children had
+imaginary companions, but there was no information in that study
+about whether the imaginary companions were new or were the
+continuations of imaginary companions created in early childhood.
+The major goal of this study was to learn more about the
+developmental course of play with imaginary companions. The
+participants were 6- and 7-year-olds (N ⫽ 100) who had been
+interviewed about pretend play and fantasy 3 years earlier when
+they were 3 and 4 years old. Thirty-one of these children had
+described imaginary companions in the original study (Taylor &
+Carlson, 1997). Our goal was to discover (a) what had happened to
+those imaginary companions and (b) the extent to which new ones
+had been created. As in past research (Gleason et al., 2000; Taylor
+& Carlson, 1997), the category of imaginary companions included
+personified objects (i.e., special toys or other objects that children
+endow with a personality and interact with on a regular basis) as
+well as invisible friends. The research findings are mixed with
+respect to the prevalence of imaginary companions in older chil-
+dren, but we suspected that this type of play would be less common
+in the school-age sample and that the imaginary companions
+described 3 years earlier would be gone.
+
+In addition to questions about imaginary companions, we asked
+the children and parents about imaginary characters that the chil-
+dren impersonated (i.e., characters that were acted out rather than
+
+1174
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+treated as separate individuals). This type of role play is concep-
+tually related to having an imaginary companion because it in-
+volves imagining the characteristics and perspective of another
+individual (Harris, 2000). In past research, Taylor and Carlson
+(1997) found that the cognitive correlates of having an imaginary
+companion were also related to impersonating an imaginary char-
+acter. However, there are differences in these types of role play as
+well as similarities. In particular, Carlson and Taylor (in press)
+found an interesting sex difference: Preschool girls were more
+likely than boys to have an imaginary companion, whereas boys
+were more likely than girls to impersonate an imaginary character.
+By asking about both imaginary companions and impersonated
+characters, we were able to explore further developmental change
+and sex differences in these types of role play. We predicted that
+impersonated characters as well as imaginary companions would
+be less common in our school-age sample because, in general,
+pretend play is widely believed to decline after age 5 (for a review,
+see F. P. Hughes, 1999) and, in particular, imaginary companions
+have been strongly associated with the preschool period (Mano-
+sevitz et al., 1973; Newson & Newson, 1976).
+
+Another purpose of the study was to learn more about the
+correlates of having an imaginary companion and/or impersonat-
+ing an imaginary character. In the original study with preschoolers,
+Taylor and Carlson (1997) examined the relation between these
+types of role play and performance on theory of mind tasks.
+Theory of mind was assessed with a composite score that com-
+bined measures of false belief, appearance–reality, representa-
+tional change, and perspective taking (Flavell, Flavell, & Green,
+1983; Gopnik & Astington, 1988; Perner, Leekam, & Wimmer,
+1987; Taylor, 1988). Taylor and Carlson’s hypothesis was that
+engaging in role play develops children’s understanding that men-
+tal representations do not always constitute an accurate reflection
+of the external world. This insight is crucial for theory of mind
+tasks, and thus they predicted a positive correlation between role
+play and theory of mind. For 4-year-olds, they found the predicted
+relation between role play and theory of mind (independent of
+differences in sex and verbal intelligence). For 3-year-olds, this
+relation was not significant, possibly because of a floor effect in
+theory of mind performance (e.g., the mean false belief score was
+0.5 out of 3).
+
+In this study, we wanted to determine whether having an imag-
+inary companion and/or impersonating an imagined character at
+ages 3 and 4 were related to theory of mind performance at age 7;
+however, most theory of mind tasks (e.g., false belief, appearance–
+reality) are used to assess development between 3 and 5 years of
+age and are not appropriate for school-age children. Even the
+second-order false belief task, which is sometimes used as a
+measure of later-developing theory of mind skills, is typically
+mastered by age 6 (Baron-Cohen, 2000). To elicit individual
+differences in performance at age 7, we used a task developed by
+Gnepp and her colleagues (Gnepp & Chilamkurti, 1988; Gnepp &
+Gould, 1985) to assess children’s understanding of personality
+traits as internal mediators of emotional responses. Although this
+task involves questions about emotions and traits rather than
+beliefs and desires, it is considered to tap theory of mind under-
+standing. For example, in their review of the theory of mind
+literature, Wellman and Lagattuta (2000) listed awareness of per-
+sonality traits, as assessed in Gnepp’s task, as an important insight
+about mind and behavior that develops after age 6. The preschool
+
+child understands that people have desires, beliefs, and prefer-
+ences; the school-age child understands that “these mental at-
+tributes can be person-specific, enduring, and consistent across
+situations in the form of personality traits” (p. 29). In addition,
+Yuill (1992; Yuill & Pearson, 1998) has identified children’s
+understanding of the causal role of traits in generating desires and
+beliefs as an important milestone in theory of mind development.
+More specifically, Yuill and Pearson have conceptually linked
+Gnepp’s task with theory of mind development beyond the pre-
+school years.
+
+There is some evidence for a close association between false
+belief performance and concurrent emotion understanding during
+the preschool years (e.g., C. Hughes & Dunn, 1998); however, no
+previous research has investigated whether performance on stan-
+dard theory of mind tasks predicts the later-developing ability to
+make inferences about the emotional reactions of individuals on
+the basis of personality traits. Thus, our first prediction was that we
+would find evidence for this relation: We expected that children’s
+performance on theory of mind tasks at age 4 would be correlated
+with performance on the Gnepp (Gnepp & Chilamkurti, 1988;
+Gnepp & Gould, 1985) emotion prediction task. Second, we pre-
+dicted that individual variation on this task would be related to
+children’s history of role play in preschool and possibly to their
+current fantasy behavior. Such a result would extend previous
+work showing that emotion perspective taking in preschool chil-
+dren is related to the amount and complexity of their pretend play
+(Connolly & Doyle, 1984; Youngblade & Dunn, 1995).
+
+In addition to theory of mind and emotion perspective taking,
+we were interested in learning about other correlates of role play.
+First of all, do children who have a history of imaginary compan-
+ions and/or impersonated characters differ from their peers in other
+fantasy behaviors at age 7? To determine whether role play was
+related to children’s fantasy behavior at age 7, we gave children
+the Children’s Fantasy Inventory (CFI). To our knowledge, the
+CFI is the most comprehensive questionnaire designed to collect
+self-report information about the fantasy lives of school-age chil-
+dren (Rosenfeld, Huesmann, Eron, & Torney-Purta, 1982). Our
+hypothesis was that individual differences in preschool role play
+would reflect an interest in fantasy that has some stability over
+time and thus would be related to variation in children’s responses
+on this questionnaire.
+
+Most past research investigating the differences between chil-
+dren with and without imaginary companions has focused on
+personality characteristics or socioemotional well-being. Research
+that has used typically developing populations has presented a
+mostly positive picture of children with imaginary companions
+(for a review, see Taylor, 1999). For example, in comparison with
+children who do not have imaginary companions, children who
+create imaginary companions are more sociable and less shy
+(Mauro, 1991), are more creative (Schaefer, 1969), participate in
+more family activities (Manosevitz et al., 1973), and show more
+positive affect in their play with other children (D. G. Singer &
+Singer, 1990). In addition, Seiffge-Krenke (1993, 1997) found that
+socially competent and creative adolescents with good coping
+skills were particularly likely to refer to imaginary companions in
+their diaries. However,
+there has been a
+tendency to associate imaginary companions with loneliness,
+trauma, and/or emotional distress (Benson & Pryor, 1973; Nagera,
+1969). Recently, it has been noted that both imaginary companions
+
+in clinical research,
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+1175
+
+and impersonated characters (referred to as “elaborated play iden-
+tities”) are common in children with dissociative disorders, and
+care must be taken to distinguish the normal phenomena from the
+pathological (Putnam, 1997; Silberg, 1998). There are also some
+normative studies that have yielded negative or mixed findings
+concerning the extent to which imaginary companions are associ-
+ated with positive characteristics (Harter & Chao, 1992; Pearson et
+al., 2001).
+
+Our goal in this study was to conduct a broad investigation of
+the personality and temperament characteristics that might be
+associated with role-play behavior. We collected information
+about the children’s personalities from their parents, who were
+given the California Child Q-Set (CCQS). According to Caspi et
+al. (1992), this instrument captures and reflects “the wide variation
+in children’s personalities, their characteristic ways of approaching
+and responding to the social world, their distinctive styles of
+coping with uncertainty and ambiguity, their strengths and weak-
+nesses, resources and vulnerabilities, and competencies and inad-
+equacies” (p. 512). We used the CCQS to assess the five factor
+model as applied to child personality (John, Caspi, Robins, Mof-
+fitt, & Stouthamer-Loeber, 1994) and also two constructs related to
+temperament: ego resilience, defined as the tendency to respond
+flexibly rather than rigidly to changing situational demands, par-
+ticularly stressful situations, and ego control, defined as the ten-
+dency to contain versus express emotional and motivational im-
+pulses (Block & Block, 1980). We were particularly interested in
+ego control because of its conceptual relation to inhibitory control,
+which is associated with individual differences in both theory of
+mind and fantasy (Carlson & Moses, 2001; Carlson, Gum, Davis
+& Molloy, 2003). This part of the study was largely exploratory,
+but we predicted that role play would be associated with positive
+rather than negative characteristics (e.g., ego control).
+
+In addition to the parent-report measure of personality, we
+collected information from the children about their perceptions of
+their own competence. For this purpose we used the Pictorial Scale
+of Perceived Competence and Social Acceptance (PSPCSA), a
+standardized procedure for measuring children’s sense of compe-
+tence in four domains (cognitive competence, physical compe-
+tence, peer acceptance, and maternal acceptance; Harter & Pike,
+1984). In past research with this measure, higher self-ratings of
+peer acceptance were correlated with high levels of fantasy in the
+social free play of children ages 4 to 8 (Flannery & Watson, 1993).
+This finding is consistent with research by J. L. Singer and Singer
+(1981) showing that high-fantasy children were particularly likely
+to get along well with others. However, Harter and Chao (1992)
+did not find significant differences in perceived competence for
+preschool children with and without imaginary companions. Given
+the older age of the children in our sample and our more inclusive
+categorization of play, we predicted that children who engaged in
+role play would score higher on the PSPCSA.
+
+In summary, our goals in this research were to provide new
+information about the developmental course of having imaginary
+companions and engaging in impersonation, to determine whether
+the differences in social understanding related to role play found in
+preschool children would still be present at age 7, and to explore
+other possible correlates in middle childhood of having an imag-
+inary companion and/or impersonating an imagined character.
+
+Method
+
+Participants
+
+The children in this study all participated in research (Taylor & Carlson,
+1997) on imaginary companions conducted when they were preschoolers
+(mean age ⫽ 4 years 0 months; range ⫽ 3 years 4 months to 4 years 8
+months). We attempted to make contact with all 152 families who partic-
+ipated in that study by sending them a letter describing the present study,
+followed by a phone call asking if they were interested in participating in
+this research. Eight families had moved out of state, 15 parents chose not
+to participate, and 29 parents could not be contacted. The final sample
+consisted of 100 children, 50 girls and 50 boys. The amount of time
+between the original (Time 1) and follow-up (Time 2) sessions ranged from
+19 to 46 months (M ⫽ 32.3, SD ⫽ 6.25; Mdn ⫽ 34). There were outliers
+in this distribution because some families contacted us immediately upon
+hearing about the follow-up research, whereas others were very difficult to
+locate. The children ranged in age from 5 years 4 months to 8 years 3
+months (mean age ⫽ 6 years 9 months, SD ⫽ 9.14 months) and included
+31 children who had imaginary companions at Time 1. The returning group
+of children was higher in verbal ability (as assessed at Time 1 using the
+Peabody Picture Vocabulary Task—Revised [PPVT–R]) than the group of
+children who did not return: returning, M ⫽ 108.44, SD ⫽ 12.41; nonre-
+turning, M ⫽ 103.77, SD ⫽ 12.35; t(149) ⫽ 2.20, p ⬍ .05. However, the
+returning group of children did not differ from the nonreturning children on
+any of the other measures taken at Time 1 (imaginary companions, imper-
+sonation, theory of mind).
+
+Procedure
+
+In the previous study conducted 3 years earlier, Taylor and Carlson
+(1997) collected information from the children to assess their verbal ability
+(PPVT–R), theory of mind (a series of 13 standard tasks assessing false
+belief, representational change, appearance–reality, and perspective tak-
+ing), and fantasy behavior (in particular, play with imaginary companions).
+The parents also provided information about the children’s fantasy behav-
+ior. In the present study, children were asked to provide information about
+imaginary companions (current and past). Then they were given the
+PSPCSA (Harter & Pike, 1984), a series of six emotion prediction and
+explanation tasks (Gnepp & Chilamkurti, 1988), and the CFI (Rosenfeld et
+al., 1982). It was not possible to include a language assessment at Time 2
+because of the length of the session; however, scores on the PPVT–R have
+been found to be relatively stable over time (Bracken & Murray, 1984;
+Scruggs, Mastropieri, & Argulewicz, 1983). In a separate room, the parents
+were asked about their children’s imaginary companions and were given
+the CCQS (Caspi et al., 1992). The sessions were videotaped and lasted
+approximately 1 hr. Each of the measures is described in turn below.
+
+Child Tasks
+
+Imaginary companion questionnaire.
+
+In the previous research when
+the children were preschoolers, the children and parents were interviewed
+twice, and their reports were compared. Information from all four inter-
+views (two with the child and two with the parent) was used to assess the
+child’s imaginary companion status. We believe this labor-intensive pro-
+cedure is optimal with preschoolers because they sometimes make up an
+imaginary companion on the spot when asked if they have one, they
+sometimes have their own language for referring to imaginary companions
+(e.g., “ghost sister”) and do not understand our term pretend friend, and
+they sometimes describe a real friend when asked about a pretend one.
+Also, sometimes parents describe a pretend friend when the child says he
+or she does not have one. In these cases, it is helpful to later ask the child
+directly about the pretend friend using the name given by the parent (e.g.,
+“Who is Baintor?”). By interviewing the children and their parents on two
+separate occasions, Taylor and Carlson (1997) were able to cross-check
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+1176
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+their answers at Visit 1 with those at Visit 2 (scheduled about 1 week later)
+and to disambiguate inconsistencies by asking follow-up questions. Note
+that although parent report can help sort out misunderstandings, parent
+report by itself is often not an adequate source of information about
+children’s imaginary companions because parents often do not know much
+about their children’s imaginary companions, especially those of older
+children (Newson & Newson, 1976). For example, a mother in past
+research told Taylor (1999) that her son played with an invisible child
+named Nobby, but the son reported that he talked with (did not play with)
+an invisible 160-year-old businessman named Nobby.
+
+In the present school-age assessment, we reasoned that the children
+themselves would be better able to understand the interview questions and
+would more reliably report whether they currently had an imaginary
+companion than when they were 3 or 4 years old. Thus it did not seem
+necessary to interview the parents and children on two separate occasions.
+However, we retained Taylor and Carlson’s (1997) method of interviewing
+both parents and children. At the end of the procedure, the responses for
+parents and children were compared and, if necessary, the parent was asked
+additional questions for clarification while the child played with toys. For
+example, if the child described a stuffed animal as a pretend friend, the
+parent was asked more specifically about the child’s interactions with the
+stuffed animal.
+
+As in the previous research, we asked about imaginary companions in
+
+the following way:
+
+First I am going to ask you some questions about friends. Some
+friends are real like the kids who live on your street, the ones you play
+with. And some friends are pretend friends. Pretend friends are ones
+that are make-believe, that you pretend are real. Do you have a
+pretend friend?
+
+When children said no, they were asked if they had ever had a pretend
+friend. If they again said no but had reported having a pretend friend 3
+years earlier, we asked if they remembered the past pretend friend (e.g.,
+“Do you remember Baintor?”). If the child reported that he or she currently
+had or previously had a pretend friend, we asked a series of questions about
+the characteristics of the friend (e.g., age, gender) and their interaction with
+it (e.g., “What did you like most about Baintor?”). For past pretend friends,
+children also were asked when and why they stopped playing with the
+friend. Then we asked children about impersonation (if they ever pretended
+to be a person or an animal). (See the Appendix for the complete list of
+questions.)
+
+Pictorial Scale of Perceived Competence and Social Acceptance. The
+PSPCSA is a standardized procedure for assessing children’s sense of
+competence in four domains: cognitive competence, physical competence,
+peer acceptance, and maternal acceptance (Harter & Pike, 1984). Children
+were shown pictures of two children who were described in contrasting
+ways (e.g., “This girl is good at spelling; this girl is not good at spelling.”).
+Then children were asked which child was most like them. After they made
+their choice, they were asked if that child was “a little” or “a lot” like
+themselves. This procedure provides a 4-point scale indexing children’s
+self-judgments for 24 characteristics, six in each of the four content
+domains.
+
+Emotion prediction and explanation task. This task was developed by
+Gnepp and Chilamkurti (1988) to assess the extent to which children
+predict and explain another person’s emotional reactions in terms of
+personality traits. Fortunately, we were able to obtain the original drawings
+used in this task and thus were able to exactly replicate Gnepp and
+Chilamkurti’s procedure. The protagonists were depicted in a gender-
+neutral way, and each was given a name that matched the participant’s own
+gender (e.g., Jerry for a male participant, Jenny for a female participant).
+In each of these tasks, three drawings were designed to provide evidence
+that the protagonist had a particular personality trait (i.e., selfish, helpful,
+mean, clown, honest, and shy). For the fourth picture in each task, the
+character was depicted in a potentially emotion-evoking situation, and the
+
+child was asked if the character felt happy or sad and why he or she felt that
+way. In each case, the situation depicted in the fourth picture would be
+expected to elicit one type of response from most people but the opposite
+type of response from someone who had the protagonist’s personality trait.
+For example, for the clown task, the participant was shown pictures in
+which the character was (a) wearing a pair of toy antennae in front of three
+other children (“This is a story about a boy named Jerry. Jerry always
+makes his friends laugh.”), (b) making funny faces for his classmates
+(“During recess, he makes silly noises and weird faces.”), and (c) imitating
+the teacher in front of the other children when her back was turned (“When
+his teacher is not looking, Jerry copies her and everybody laughs.”). In the
+fourth picture, (d) all the other children were laughing and pointing at
+Jerry’s feet (“One day, Jerry walked into class and took off his boots. When
+the class saw that he was wearing one black shoe and one white shoe, they
+all started laughing.”) The test questions were “Do you think Jerry felt
+happy or sad when they laughed?” and “Why did he feel that way?” Most
+children might feel sad in this situation because they were being laughed at,
+but Jerry had been described as a class clown who liked to make people
+laugh, so he would be expected to feel happy. Descriptions of the pictures
+for each of the six personality characteristics are provided in Table 1.
+
+Children’s Fantasy Inventory. The CFI is a 45-item questionnaire
+developed by Rosenfeld et al. (1982) to assess the daydreaming and
+imaginative play of elementary school children (first to third grade). There
+are nine scales on this measure: Frequency (e.g., “Counting all the different
+kinds of pretend games—when you are alone how much do you play
+pretend games?”), Aggressive (e.g., “Do you sometimes have daydreams
+about hitting or hurting somebody that you don’t like?”), Fanciful (e.g.,
+“Do you like to play pretend games about how things were when you were
+much younger, before you started going to school?”), Absorption (e.g., “Do
+you keep right on playing or reading, even when it is noisy in the room?”),
+Scary (e.g., “Are your daydreams sometimes so scary that you try really
+hard not to think about them anymore?”), Vividness (e.g., “When you play
+pretend games, do you feel like you can really see the pretend people and
+places in the room with you?”), Intellectual (e.g., “Have you ever won-
+dered about things like how a bird can fly or how a fish can live in
+water?”), Active-Heroic (e.g., “When you are daydreaming do you think
+about being the winner in a game that you like to play?”), and Dysphoric
+(e.g., “Do you sometimes dream about someone in your family getting
+hurt?”). For all scales except Frequency, children responded to each
+question by saying “no”, “a little,” or “a lot” (scores ⫽ 0, 1, and 2,
+respectively). For the Frequency items, children responded by saying
+“never,” “many times a day/night,” or “every day/night.”
+
+Parent Tasks
+
+Imaginary companion questionnaire. Parents were asked a series of
+questions about their children’s imaginary companions. Imaginary com-
+panions were described in the following way:
+
+An imaginary companion is a very vivid imaginary character (person,
+animal) with which a child interacts during his or her play and daily
+activities. Sometimes the companion is entirely invisible; sometimes
+the companion takes the form of a stuffed animal or doll. An example
+of an imaginary companion based on a stuffed animal is Hobbes in the
+popular comic strip “Calvin and Hobbes.”
+
+Parents were asked if their child currently had or ever had an imaginary
+companion. If the parent said yes to either (or both) questions, we asked a
+series of questions about the characteristics of the imaginary companion
+and the child’s interactions with it. Parents were also asked about their
+child’s impersonation (e.g., “Has your child ever pretended to be an
+animal? If yes, please describe the animal that your child pretended to be.
+How often did your child pretend to be this animal? At what age and for
+what period of time?”).
+
+California Child Q-Set. The “common-language” version of the CCQS
+is an instrument developed for the assessment of children’s personalities on
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+1177
+
+Table 1
+Story Themes in the Emotion Understanding Task (Gnepp & Chilamkurti, 1988)
+
+Trait
+
+Helpful
+
+Manifested in three situations
+
+Final event
+
+Helps an old person
+walk down stairs
+
+Shows new kids around the
+
+Sets table for mother
+
+Mother asks child to help sister clean
+
+school
+
+her room
+
+Clown
+
+Makes friends happy
+
+At recess, makes silly noises
+
+Copies teacher behind her
+
+and weird faces
+
+back
+
+Class laughed at seeing child wearing
+one black shoe and one white shoe
+
+Honest
+
+Tells truth
+
+Returns extra change to ice
+
+Doesn’t cheat at games
+
+Finds wallet with money. Mother
+
+cream man
+
+suggests seeking owner
+
+Cruel
+
+Calls friends names
+
+Pulls dog’s tail and hides
+
+Breaks sister’s doll
+
+Sees classmate fall off bike
+
+.
+
+dog’s ball
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+Shy
+
+At parties, sits in corner
+
+and watches others
+
+When spoken to, looks down
+
+Doesn’t raise hand in
+
+and answers quietly
+
+class
+
+Friends ask child to be leader in
+
+game of follow-the-leader
+
+Selfish
+
+Doesn’t share popcorn
+
+Doesn’t share toys with
+
+Gets stickers from friends,
+
+Mother makes cookies and suggests
+
+at movies
+
+friends
+
+but doesn’t give
+
+child share them
+
+the basis of reports of nonprofessional observers such as parents. The
+CCQS consists of 100 statements describing a wide range of personality,
+cognitive, and social attributes (e.g., “He gets along well with others”; “He
+is bossy and likes to dominate other people.”). The parent’s task is to sort
+the items into nine categories ranging from “extremely uncharacteristic”
+(Category 1) of their child to “extremely characteristic” of their child
+(Category 9), with items that are neither characteristic nor uncharacteristic
+going into the middle category (Category 5). The parent began the task by
+reading the 100 items and dividing them into two piles, one for items that
+were descriptive of their child and the other for items that were not
+descriptive of their child. Then parents read the items from the descriptive
+pile to select the 11 items that were most characteristic of their child and
+put them in Category 9. The next 11 went into Category 8, and so on.
+(Category 5—neither characteristic nor uncharacteristic—was the only
+category to have 10 items.) This procedure was then repeated for the other
+pile, with the parent beginning by selecting the 11 items that were most
+uncharacteristic of their child.
+
+Results
+
+We first report the results for each of the school-age (Time 2)
+assessments (fantasy, emotion understanding, self-perception, and
+personality) and, for fantasy and emotion understanding, how
+these results relate to the corresponding assessments conducted 3
+years earlier (Time 1). Then we discuss the relations between
+fantasy, emotion understanding, self-perception, and personality.
+Note that
+there were no corresponding assessments for self-
+perception and personality in the Time 1 preschool assessment.
+Also there was no corresponding test of verbal ability at Time 2.
+
+Assessment of Fantasy
+
+School-Age Assessment
+
+The school-age fantasy assessment consisted of (a) imaginary
+companion scores, (b) impersonation scores, and (c) composite
+and subscale scores from the CFI.
+
+Imaginary companion scores. The imaginary companion
+score was based primarily on the reports of the children them-
+selves. The parent reports were used as supporting information that
+helped to disambiguate information collected from the children. In
+
+particular, parent report was helpful in determining whether a toy
+mentioned by the child should be categorized as an imaginary
+companion. Two coders assigned a score of 0 if (a) the child said
+that he or she did not have an imaginary companion, (b) the child
+said that he or she had an imaginary companion but did not provide
+any information about it (e.g., no name, no description), or (c) the
+child said that he or she had an imaginary companion that was
+based on a toy, but the description did not go beyond describing
+the physical characteristics of the toy and the parent report did not
+indicate that the child treated the toy as an imaginary companion.
+The coders assigned a score of 1 if the child said that he or she had
+an imaginary companion and provided a description of it. In the
+case of stuffed animals or dolls, the description (in either the
+child’s or the parent’s report) had to go beyond the physical
+appearance to include psychological details (e.g., “She is nice to
+me”). The agreement for the two coders was 91%; the disagree-
+ments were resolved by discussion.
+
+Forty-nine of 100 children (24 boys and 25 girls) received a
+score of 1, indicating that they were categorized as providing
+descriptions of imaginary companions (31 descriptions of current
+imaginary companions and 18 descriptions of past imaginary com-
+panions). Fifty-one (26 boys and 25 girls) received a score of 0,
+indicating that they did not provide descriptions of imaginary
+companions. The imaginary companion scores were not related to
+age, sex, or Time 1 verbal ability. Even at age 6 –7 years, a
+substantial number of children were currently playing with imag-
+inary companions. The percentage (31%) is similar to what Taylor
+and Carlson (1997) found at Time 1 when the children were 3– 4
+years old (28% of the 152 preschool children were categorized as
+playing with imaginary companions). Thus, having an imaginary
+companion is at least as common among 6- and 7-year-olds as it is
+among 3- and 4-year-olds. It is interesting that the sex difference
+at Time 1 (more girls than boys had imaginary companions) was
+not found at Time 2. Boys and girls were equally likely at Time 2
+to describe an imaginary companion. If we look only at the
+children who were currently playing with imaginary companions
+at Time 2 (n ⫽ 31), this group included 15 boys and 16 girls.
+
+1178
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+As in past research (Taylor & Carlson, 1997), child and parent
+reports were sometimes conflicting. Altogether, 64 parent– child
+pairs gave consistent reports: 43 parent– child pairs agreed that the
+child did not have an imaginary companion, and 21 pairs agreed
+the child did have an imaginary companion. Thirty-four parent–
+child pairs gave inconsistent reports: 27 children claimed to have
+an imaginary companion but their parents said they did not, and 7
+children said they did not have an imaginary companion but their
+parents said they did. (Note that parent– child consistency is re-
+ported for 98 participants because 2 parents did not complete the
+imaginary companion questionnaire.)
+
+Descriptions of the 49 primary imaginary companions (the one
+described first and most fully by each participant) were coded for
+gender, age, whether they were based on a toy or completely
+invisible, whether they were human or animal, and whether they
+were everyday or exotic entities. Of the 49 imaginary companions,
+33 (67%) were invisible (see Table 2 for examples), 13 (27%) were
+toys (stuffed animals or dolls), 2 (4%) were both toys and invisible
+(e.g., one child played with an imaginary companion named Ser-
+geant Savage that was based on a GI Joe doll but could also be
+invisible if the child did not happen to have the doll at hand), and
+1 was based on the child’s reflection in a mirror. Past research has
+also found that a few children have both invisible and toy versions
+of their imaginary companions (Taylor, 1999; also see Gleason et
+al., 2000).
+
+Twenty-eight (57%) of the imaginary companions were humans,
+and 20 (41%) were animals. One additional imaginary companion
+
+was a human who could transform herself into any animal the child
+wanted. We also coded whether the imaginary companion was an
+everyday person or animal (e.g., a little boy with blond hair and
+blue eyes) or had exotic characteristics (e.g., magical abilities such
+as being able to fly, unusual physical descriptions such as having
+blue skin, or other exotic features such as having a pet crocodile).
+(The exotic feature could be provided by either the child or the
+parent.) Thirty-two (65%) of the imaginary companions were
+coded as everyday types of animals or people, whereas 16 (33%)
+were coded as exotic. (One of the descriptions was not detailed
+enough to make this determination.) In Table 2, Rose, Zippy, Fake
+Rachel, Michael, and Shannon are examples of everyday imagi-
+nary companions. Simpy, Skateboard Guy, The Good Indian,
+Alicia, Robert, and Elephant were coded as exotic.
+
+The gender of 5 imaginary companions (10%) was unknown, 2
+(4%) were specified as having no gender, 24 (49%) were male, and
+18 (37%) were female. Of the 42 imaginary companions with a
+specified gender, 37 were the same gender as the child who
+described them (19 male–male pairs and 18 female–female pairs).
+Five girls had male imaginary companions, but none of the boys
+had a female imaginary companion. The imaginary companions
+ranged in age from 2 months to 100 years, with the majority being
+within 3 years of the child’s age. Ten imaginary companions
+(20%) were described as being the same age as the child, 16 (33%)
+were older, 15 (31%) were younger, and 8 (16%) had ages that
+were not known.
+
+Table 2
+Sample Descriptions of Children’s Imaginary Companions at Time 2
+
+Companion name
+
+Description
+
+Rose
+
+Zippy
+
+Simpy
+
+Fake Rachel
+
+Michael
+
+Skateboard Guy
+
+The Good Indian
+
+Invisible female squirrel, 9 years old, brown fur and hazel eyes, lives in a
+
+tree in the yard, sleeps in her imaginary house
+
+Invisible 11-year-old boy, has white skin and blond hair and blue eyes, is
+
+about a foot taller than the child, sleeps on the floor
+
+Invisible 8-year-old girl, 3 feet tall, blue skin and black eyes, wears funny
+
+clothes
+
+Invisible 8-year-old girl, short brown hair with freckles all over her face,
+
+lives under the child’s bed
+
+Invisible 9-year-old boy, taller than child, short brown hair, brown eyes,
+wears red shirt and jeans, lives in back left side of child’s head, sleeps
+in bed in child’s head
+
+Invisible 11-year-old boy who lives in child’s pocket, wears cool shirts
+
+and has a fancy skateboard, can do lots of tricks on his skateboard,
+likes to see how fast the child can run
+
+Invisible 5-year-old boy, black hair, brown pants, appeared when child
+
+(also known as Don Vont)
+
+spent a lot of time in woods, at beach, and reading
+
+Sergeant Savage
+
+Robert
+
+Shannon
+
+Alicia
+
+Elephant
+
+GI Joe doll who is sometimes an invisible person, 100 years old, Bandaid
+
+on forehead, wears boxer gloves, hair is white-brown, wears pilot
+jacket, child likes his shotgun, dislikes his face, lives at bases, sleeps in
+sleeping bag
+
+An invisible male panther, black fur with blue eyes, lives in the jungle,
+
+child met Robert in his dreams
+
+Invisible 6-year-old girl, long dark brown hair and blue eyes, wears
+
+clothes that have birds playing on the material, can be friendly or mean
+
+Invisible 8-year-old female dog, 2 in. tall, green fur and blue eyes, child
+
+likes Alicia’s good sense of humor but doesn’t like that no one else
+can see her, lives under child’s bed
+
+Invisible 5-year-old female elephant, 7 in. tall, gray color, black eyes,
+
+wears tank top and shorts, child likes that she plays with child, dislikes
+that sometimes she is mean
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+1179
+
+Impersonation scores. At Time 1, we found that almost all the
+children reported that they sometimes pretended to be an animal or
+a person. Although we expected impersonation to be less common
+in these older children, 95 of the 100 children stated that they
+played impersonation games, and their parents tended to corrobo-
+rate the information provided by the children. However, 5 children
+(3 boys and 2 girls) said they did not impersonate (but their parents
+said that they did), and 8 parents said their children (2 boys and 6
+girls) did not impersonate (but the children said that they did). In
+order to capture as much as possible the small amount of variabil-
+ity in responses to questions about impersonation, we assigned a
+score of 1 when both parent and child said yes to playing imper-
+sonation games (n ⫽ 82) and 0 when only one source said yes (n ⫽
+13). (There were no cases in which both the child and the parent
+said no regarding impersonation.) Five parents did not answer the
+impersonation questions, and thus the sample size for this analysis
+was 95. Impersonation scores were unrelated to children’s imagi-
+nary companion status, ␹2(1, N ⫽ 95) ⫽ 0.12, ns.
+
+CFI scores. Average ratings on the CFI scales are shown in
+Table 3. Children’s scores on the nine CFI scales were internally
+consistent (Cronbach’s ␣ ⫽ .88, average item–total correlation ⫽
+.65). Therefore, we computed a composite CFI score for each child
+for use in further analyses. The composite CFI scores were posi-
+tively correlated with age, r(100) ⫽ .22, p ⬍ .05, but were
+unrelated to sex or Time 1 verbal ability. There were no sex
+differences on the individual CFI subscales with one exception:
+Boys scored significantly higher on the Active-Heroic scale (M ⫽
+.90, SD ⫽ .43) than did girls (M ⫽ .68, SD ⫽ .47), t(98) ⫽ 2.45,
+p ⬍ .05.
+
+There was no significant difference in composite CFI scores
+between children who had an imaginary companion and those who
+did not, t(98) ⫽ ⫺1.62, ns. Children with an imaginary companion
+had significantly higher scores on the Fanciful subscale than did
+children without an imaginary companion, t(98) ⫽ ⫺2.76, p ⬍
+.01; however, this difference is partly due to method overlap
+because one of the items on the Fanciful subscale inquires about
+pretend friends. Children’s CFI composite scores did not differ
+according to whether children engaged in impersonation, t(93) ⫽
+⫺0.88, ns. Impersonation also was not related to any of the CFI
+subscale scores. For reasons we do not fully understand, the CFI
+not only failed to correlate with measures of fantasy, it also did not
+correlate with any of the other major measures in this study (e.g.,
+emotion understanding, self-perception, and personality). Perhaps
+the response format (i.e., answering “no,” “a little,” or “a lot” to a
+
+Table 3
+Descriptive Statistics for the Children’s Fantasy Inventory
+(N ⫽ 100)
+
+Variable
+
+Aggressive
+Dysphoric
+Scary
+Heroic
+Absorption
+Intellectual
+Vivid
+Fanciful
+Frequency
+
+M
+
+0.58
+0.63
+0.74
+0.79
+0.82
+0.83
+0.83
+0.84
+2.01
+
+SD
+
+0.44
+0.45
+0.51
+0.46
+0.39
+0.46
+0.51
+0.45
+0.74
+
+Range
+
+0–2
+0–2
+0–2
+0–2
+0–2
+0–2
+0–2
+0–2
+1–3
+
+series of 45 questions) was too repetitive for the children in this
+sample, who were on the young end of the population appropriate
+for this measure. Given the lack of correlations, the results with the
+CFI are not discussed further.
+
+Longitudinal Assessment of Fantasy
+
+Of the children in this study, 31 had described imaginary com-
+panions at Time 1, and 69 had not described imaginary compan-
+ions at Time 1. Table 4 shows the imaginary companion status for
+these children (N ⫽ 100) at Time 1 and Time 2. Although many of
+the children who played with imaginary companions in preschool
+continued this fantasy activity into elementary school, the specific
+imaginary companions described at the time of the preschool
+assessment were not necessarily the same ones described 3 years
+later. Of the 31 children who had an imaginary companion at Time
+1, only 3 were still playing with the same imaginary companion at
+Time 2 (2 of these long-lived imaginary companions were invis-
+ible, and 1 was a stuffed bear). In fact, only 12 of those 31 children
+(39%) even remembered the imaginary companions they had de-
+scribed 3 years earlier. This result is consistent with the finding of
+a smaller-scale longitudinal study in which many children did not
+recall imaginary companions they had described 7 months earlier
+(Taylor, Cartwright, & Carlson, 1993). The children’s imaginary
+companion status at Time 1 did not predict their imaginary com-
+panion status at Time 2. Thus, there was less stability in this type
+of role play than predicted. Overall, the results indicated that
+children create imaginary companions throughout the preschool
+years and beyond.
+
+To calculate the overall prevalence of imaginary companions in
+this population (N ⫽ 100), we combined the 49 children who
+described an imaginary companion (either past or present) at Time
+2 with the 16 children who had described an imaginary companion
+at Time 1 but not at Time 2. Thus, according to the criteria used in
+this research, the percentage of children up to the age of 7 who had
+imaginary companions at some point during their lives was 65%.
+The imaginary companions described as current by the children
+in this study included 20 invisible companions (67%) and 10
+companions based on toys (33%); 1 imaginary companion was
+sometimes invisible and sometimes based on a toy. At Time 1,
+when the children were preschoolers, the 42 imaginary compan-
+ions included 20 that were invisible (48%) and 22 that were based
+on toys (52%). Thus, the imaginary companions played with by
+older children were more likely to be invisible than were their
+preschool counterparts. At both ages, the imaginary companions
+were remarkably varied in their characteristics, including ordinary
+girls and boys along with a variety of interesting and unusual
+individuals. At Time 2, we collected our first examples of an
+invisible snowman, an invisible elephant, an invisible squirrel, and
+an imaginary companion with a pierced ear.
+
+One of the goals of this study was to investigate the reasons why
+children stop playing with their imaginary companions. Of the 31
+children in this study who had described an imaginary companion
+at Time 1, 28 had stopped playing with it at Time 2. In addition,
+13 children who did not have an imaginary companion at Time 1
+described imaginary companions that had been created after Time
+1 but abandoned before Time 2 (1 of these children also had a
+current imaginary companion). Thus, altogether, 41 children and
+their parents were asked about the fate of past imaginary compan-
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+1180
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+Table 4
+Imaginary Companion (IC) Status at Time 1 and Time 2
+
+Time 2 IC status
+
+Time 1 IC status
+
+No IC
+Has IC
+
+No IC
+
+35 (51%)
+16 (52%)
+
+Column total
+
+51
+
+Describes past IC
+
+Has current IC
+
+Row total
+
+12 (17%)
+6 (19%)a
+
+18
+
+22 (32%)
+9 (29%)b
+
+31
+
+69
+31
+
+100
+
+a Of these 6 children, 4 described the same imaginary companion that they described at Time 1.
+b Of these 9
+children, 3 described the same imaginary companion that they described at Time 1; they were still playing with
+the same imaginary companions.
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+ions. Of the 41 parents, 1 parent said that the imaginary companion
+was given up when the family moved to a new house, and 1 parent
+reported that the child gave up the imaginary companion when he
+was feeling more settled in a new home and had more real friends.
+The other 39 parents were not able to provide any information
+about the disappearance of the imaginary companions. Eight of the
+41 children provided explanations: 3 children said that the imag-
+inary companion went away (e.g., “She ran away and didn’t come
+back”), 1 child said that he outgrew the imaginary companion, 1
+child said the imaginary companion outgrew her (i.e., “He re-
+tired”), 1 child said he found more real friends, 1 child said he did
+not get into trouble anymore and so did not talk to the imaginary
+companion any more, 1 child said she stopped playing with an
+imaginary puppy when she got a real dog, and 1 child said that it
+got boring. The other 33 children either did not remember the
+imaginary companion or did not remember why they stopped
+playing with it.
+
+We had predicted some degree of stability in children’s fantasy
+behaviors over the 3-year period, but this prediction was not
+supported. Having an imaginary companion at Time 1 was not
+related to having one at Time 2. There were also no significant
+predictions from the other measures of fantasy at Time 1 (imper-
+sonation, pretend actions) to any of our Time 2 fantasy measures.
+However, it was interesting that the incidence of imaginary com-
+panions and impersonation in the sample as a whole continued to
+be substantial—and much higher than predicted—into the school-
+age years.
+
+Assessment of Emotion Understanding and Theory of
+
+Mind
+
+School-Age Assessment of Emotion Understanding
+
+The assessment of emotion understanding was based on chil-
+dren’s performance on Gnepp and Chilamkurti’s (1988) task in
+which children learned about the behaviors of six different char-
+acters and were required to predict and explain the emotional
+reaction of each character in a new situation. Following Gnepp and
+Chilamkurti, we computed the mean proportion of trait-consistent
+predictions and trait-relevant explanations for each participant.
+Mean scores on the emotion prediction and justification items for
+each trait are shown in Table 5. The prediction and justification
+scores (across items) were significantly correlated, r(98) ⫽ .85,
+p ⬍ .001. Therefore, we averaged these scores, creating an emo-
+tion understanding composite score for each child. Emotion un-
+
+derstanding was not related to age at Time 2 or to sex, but there
+was a trend suggesting a relation with verbal ability, r(97) ⫽ .18,
+p ⬍ .10.
+
+Longitudinal Assessment of Social Understanding
+
+As discussed earlier, we consider the theory of mind assessment
+conducted at Time 1 to be conceptually related to the Time 2
+assessment of emotion understanding because both require an
+understanding of behavior that takes personal characteristics (e.g.,
+an individual’s beliefs, desires, or preferences) into account. Over-
+all, there was a trend in the data suggesting a relation between
+composite theory of mind scores at Time 1 and children’s emotion
+understanding composite scores at Time 2, r(98) ⫽ .19, p ⬍ .10.
+However, the relation between theory of mind and emotion under-
+standing was more clearly revealed when we examined the relation
+separately for the two age subsets of children at Time 1 (children
+who were 3 years old and children who were 4 years old). Separate
+analyses were helpful because there was a floor effect among the
+3-year-olds on the theory of mind measures at Time 1. Given this
+measurement problem, it is not surprising that in this subset of
+children, there was not a significant relation between theory of
+mind and emotion understanding, r(33) ⫽ ⫺.20. However, a
+separate analysis of the subset of children who were age 4 at Time
+1 revealed a significant relation between early theory of mind and
+later emotion understanding, r(65) ⫽ .31, p ⫽ .01. This relation
+remained significant after we controlled for Time 1 verbal ability,
+r(61) ⫽ .27, p ⬍ .05. Representational change scores were most
+strongly related to later emotion understanding, r(65) ⫽ .37, p ⬍
+
+Table 5
+Means and Standard Deviations of Scores on the Emotion
+Understanding Task (N ⫽ 98)
+
+Prediction score
+(range ⫽ 0–1)
+
+Justification score
+
+(range ⫽ 0–1)
+
+M
+
+.65
+.88
+.80
+.54
+.66
+.35
+
+SD
+
+.48
+.33
+.41
+.50
+.48
+.48
+
+M
+
+.63
+.79
+.64
+.53
+.77
+.29
+
+SD
+
+.48
+.41
+.48
+.50
+.43
+.45
+
+Type of trait
+
+Clown
+Helpful
+Honest
+Mean
+Selfish
+Shy
+
+IMAGINARY COMPANIONS
+
+1181
+
+.01, and remained so after we controlled for Time 1 verbal ability,
+r(61) ⫽ .42, p ⬍ .01. (Bivariate correlations with appearance–
+reality, false belief, and perspective taking were .16, .08, and .21,
+respectively.)
+
+Assessment of Self-Perception (Time 2)
+
+The mean scores for children’s self-report of their perceived
+competence for the four domains were as follows: cognitive abil-
+ity, 3.31 (SD ⫽ 0.56); physical ability, 3.36 (SD ⫽ 0.47); peer
+relations, 2.90 (SD ⫽ 0.63); and relationship with the mother, 2.58
+(SD ⫽ 0.56). The four measures were intercorrelated (Cronbach’s
+␣ ⫽ .63, average item–total correlation ⫽ .41). We therefore
+computed aggregate self-perception scores for the analyses in
+addition to the scores for the four separate domains. Higher scores
+on the composite measure represented greater perceived self-
+competence overall. There were no sex differences on these self-
+perception measures, and they were not related to age or Time 1
+verbal ability.
+
+Assessment of Personality (Time 2)
+
+The personality assessment was based on parent responses on
+the CCQS. According to the final sort, the child receives a score
+from 1 to 9 for each of the 100 items. For instance, if a parent put
+the item “He gets along well with others” in Category 8, the child
+received a score of 8 for that item. In this way, the sorted items are
+essentially converted into scores that resemble 9-point Likert-scale
+ratings, except that there is a uniform, intra-individual distribution
+of ratings across items. The result is a set of 100 ratings (one for
+each item) for each child. The CCQS can be used in several
+different ways to measure dimensions of personality and/or tem-
+perament. In this study, we used these data to compute scores that
+indexed the “Little Five” factors of personality and the tempera-
+ment constructs of ego resilience and ego control.
+
+The “Little Five” Personality Factors
+
+John et al. (1994) used the rational scale construction method to
+develop five subscales from the CCQS corresponding to the di-
+
+mensions described in the five factor model of adult personality.
+Three independent judges rated each item on the CCQS according
+to how closely it described each of the five factors of adult
+personality. These ratings yielded 78 items that fit within the
+appropriate categories (Agreeableness, Conscientiousness, Extra-
+version, Neuroticism, and Openness). Based on data from 350
+Q-sorts performed by mothers about their young adolescent sons,
+these groups of items were further refined on the basis of reliability
+indices (Cronbach’s alpha). The remaining five subscales (called
+the Little Five) include a total of 48 items. Table 6 gives adjective
+descriptions of the Big Five factors of personality (based on the
+adult literature) and examples of items included in the Little Five
+subscales.
+
+Scores for all of the items corresponding to each of the five
+dimensions were averaged for each participant to create subscale
+scores on the CCQS according to the Little Five index (John et al.,
+1994). Internal consistency (Cronbach’s alpha) in this data set was
+high: for Extraversion, ␣ ⫽ .75; Agreeableness, ␣ ⫽ .76; Consci-
+entiousness, ␣ ⫽ .71; Neuroticism, ␣ ⫽ .67; and Openness, ␣ ⫽
+.60. Parents’ ratings of their children’s personality according to the
+Little Five index are shown Table 6. The distributions may be
+skewed because of social desirability (higher scores on Agreeable-
+ness and lower scores on Neuroticism). Time 1 verbal ability was
+significantly correlated with Neuroticism and with (lower) Agree-
+ableness, rs(98) ⫽ .20 and ⫺.21, respectively, ps ⬍ .05. There
+were no relations between personality and age or sex.
+
+Ego Resilience and Ego Control
+
+Following Block and Block (1980), we devised ego resilience
+and ego control scores by correlating each child’s Q-sort with the
+scores of a hypothetical prototype child who typifies high ego
+resilience or ego undercontrol (i.e., poor ego control). Scores for
+these measures could range from –1.0 to 1.0, with higher numbers
+representing closer resemblance to the prototypes of these two
+constructs. The means for ego resilience and ego undercontrol
+were .51 (SD ⫽ .19; range ⫽ ⫺.18 to .78) and .06 (SD ⫽ .18,
+range ⫽ ⫺.33 to .63), respectively. Ego resilience and ego under-
+control were negatively correlated with each other, r(100) ⫽ ⫺.27,
+
+Table 6
+Descriptions of the Five Factors of Personality, Sample Items from the “Little Five” Subscales, and Mean Scores
+
+Big Five factor
+
+Extraversion
+
+Big Five factor
+
+adjective description
+
+Little Five subscale
+
+item examples
+
+Active, assertive, energetic
+Enthusiastic, outgoing, talkative
+
+“He is energetic and full of life.”
+“He is a talkative child . . .”
+
+Agreeableness
+
+Affectionate, forgiving, generous, kind, trusting
+
+“He is a warm person . . .”
+“He is stubborn.” (R)
+
+Score
+
+M
+
+6.13
+
+SD
+
+1.25
+
+Range
+
+2.33–8.22
+
+6.49
+
+1.05
+
+3.00–8.38
+
+Conscientiousness
+
+Efficient, organized, planful
+Reliable, responsible, thorough
+
+“He is neat and orderly . . .”
+“He can be trusted; he’s reliable . . .”
+
+5.94
+
+1.10
+
+2.78–8.11
+
+Neuroticism
+
+Openness
+
+Anxious, self-pitying, tense
+Touchy, unstable, worrying
+
+Artistic, curious, imaginative
+Insightful, original
+
+Note.
+
+(R) indicates a reversed item.
+
+“He is nervous and fearful.”
+“His feelings get hurt easily . . .”
+
+“He is curious and exploring . . .”
+“He likes to dream up fantasies . . .”
+
+3.52
+
+0.89
+
+2.10–6.20
+
+6.35
+
+1.08
+
+4.00–8.57
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+1182
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+p ⬍ .01. There were no significant relations with age, sex, or
+verbal ability.
+
+Relations Between the Four Types of Assessments
+
+Relation Between Fantasy and Emotion Understanding/
+Theory of Mind
+
+At age 4, there was a significant relation between role-play
+measures and theory of mind, and thus we predicted that role-play
+measures at Time 2 would be related to emotion understanding.
+This prediction was supported only for impersonation. Specifi-
+cally, the group of children who received scores of 0 on imper-
+sonation because they or their parents reported no impersonation
+(n ⫽ 13) scored significantly lower on the emotion understanding
+composite (M ⫽ .42, SD ⫽ .25) than did the children who received
+impersonation scores of 1 (M ⫽ .65, SD ⫽ .22), t(91) ⫽ ⫺3.33,
+p ⬍ .01. (Note that this test is based on the 93 out of 100 children
+for whom there were both impersonation and emotion understand-
+ing scores.) This result cannot be explained by verbal ability
+because the two groups did not differ significantly on Time 1
+PPVT–R scores: no impersonation, M ⫽ 107.85, SD ⫽ 12.05;
+impersonation, M ⫽ 108.53, SD ⫽ 12.53.
+
+Next we examined longitudinal predictions between fantasy,
+theory of mind, and emotion understanding. Neither imaginary
+companion status nor impersonation at Time 1 significantly pre-
+dicted emotion understanding scores at Time 2 (either in the total
+sample or in the age-group subsets). However, there was a trend
+for children who did not impersonate at Time 2 to have had lower
+theory of mind scores at Time 1: no impersonation, M ⫽ 5.71,
+SD ⫽ 3.55; impersonation, M ⫽ 8.33, SD ⫽ 3.44; t(63) ⫽ ⫺1.90,
+p ⫽ .06. This difference was significant for representational
+change: no impersonation, M ⫽ 0.57, SD ⫽ 1.13; impersonation,
+M ⫽ 1.93, SD ⫽ 1.23; t(63) ⫽ 2.79, p ⬍ .01. Theory of mind
+performance at Time 1 was not related to Time 2 imaginary
+companion status.
+
+Relation Between Fantasy and Self-Perception
+
+Given Singer and Singer’s (1981) finding that high-fantasy
+children were particularly likely to get along well with others, we
+predicted that children who engaged in role play might score
+higher than other children in their perceived social competence.
+However, the self-perception scales were not related to the role-
+play measures. In addition, the role-play measures at Time 1 were
+unrelated to children’s self-perceptions at Time 2. This result
+replicates and extends Harter and Chao’s (1992) finding that
+preschool children with and without imaginary companions do not
+differ in their perceived competence.
+
+Relation Between Fantasy and Personality
+
+The findings of past research have yielded mixed results con-
+cerning how fantasy behavior is related to personality character-
+istics. For example, some research has suggested that children with
+imaginary companions are less shy than other children (Mauro,
+1991), whereas other research has reported no difference in shy-
+ness (Manosevitz et al., 1973). In her review of the literature on
+imaginary companions, Taylor (1999) concluded that there tend to
+be few differences in personality variables between children with
+
+and without imaginary companions. However, no previous re-
+search has included a complete assessment both of role-play be-
+havior and the five factor model of personality.
+
+Here we examined (a) the concurrent relations between person-
+ality dimensions assessed by the CCQS (Extraversion, Agreeable-
+ness, Conscientiousness, Neuroticism, Openness, ego resilience,
+and ego undercontrol) and fantasy behavior and (b) the longitudi-
+nal relations between early engagement in fantasy and later scores
+on the CCQS. There were no significant relations between the
+CCQS and the concurrent measures of fantasy behavior (CFI,
+imaginary companion, and impersonation scores).
+
+Next we examined whether earlier engagement in fantasy was
+related to the CCQS personality dimensions. In the 4-year-old
+subset (Time 1), having a high impersonation score predicted
+Openness scores on the personality measure: r(64) ⫽ .35, p ⬍ .01;
+with Time 1 verbal ability controlled, r(60) ⫽ .33, p ⫽ .01. In the
+3-year-old subset (Time 1), high impersonation predicted parent
+ratings of children’s self-control (i.e., lower ego undercontrol):
+r(35) ⫽ ⫺.39, p ⬍ .05; with Time 1 verbal ability controlled, r(32)
+⫽⫺.40, p ⬍ .05. Although these results do not provide much
+support for the view that role play is associated with positive
+personality characteristics, there is no evidence that role play is
+associated with negative characteristics. Overall, high-fantasy chil-
+dren are more like other children than they are different from them.
+
+Relation Between Emotion Understanding/Theory of Mind
+and Ego-Control/Ego-Resilience
+
+In several studies with preschool children, theory of mind has
+been closely related to children’s inhibitory control (e.g., Carlson
+& Moses, 2001). Inhibitory control is conceptually related to the
+ego-control/ego-resilience constructs that are part of the CCQS
+assessment. Thus, we predicted (a) a concurrent relation between
+emotion understanding (our theory-of-mind-related measure for
+Time 2) and ego-control/ego-resilience and (b) a longitudinal
+relation between theory of mind (Time 1) and ego-control/ego-
+resilience. There was little support for these predictions, apart from
+a trend for theory of mind performance in preschool to predict ego
+control (i.e., lower ego undercontrol scores), r(99) ⫽ ⫺.17, p ⬍
+.10; with verbal ability controlled, r(95) ⫽ ⫺.18, p ⬍ .10.
+
+Discussion
+
+This research contributes new information about the develop-
+mental course of
+imaginary companions and impersonation,
+middle-childhood links between role play and social understand-
+ing, and the personality correlates of fantasy behavior.
+
+Imaginary Companions
+
+First and foremost, our study provides new insight into the
+phenomenon of
+imaginary companions and challenges some
+widely held assumptions. On the basis of past research with
+preschool children, we estimated that about 28% of children create
+imaginary companions, that girls create them more often than
+boys, and that about half are invisible and the rest are based on
+toys. It is also often claimed that the peak age for play with
+imaginary companions is about 4 years and that most imaginary
+companions are given up by age 6 when children start school. The
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+1183
+
+results of this study challenge these generalizations about imagi-
+nary companions on all counts.
+
+In our sample of 6- and 7-year-old children, 65% were catego-
+rized as having or having had an imaginary companion. Thirty-one
+percent of these children were currently playing with imaginary
+companions. Clearly this is a very common type of pretend play
+that is not abandoned as early as previously supposed. The exact
+estimate for the incidence of imaginary companions depends on
+the methods and criteria used to identify them. Some of the choices
+we made in this study could be controversial. For example, we
+excluded cases in which the parents reported that their children had
+imaginary companions if the children denied this report. We in-
+cluded cases in which the imaginary companions were based on
+stuffed animals or toys, as well as imaginary companions that were
+invisible. Although we and others (e.g., Gleason et al., 2000) have
+argued that stuffed animals sometimes function as legitimate imag-
+inary companions, the decision about whether a toy counts as an
+imaginary companion is not always straightforward, and some
+researchers have been reluctant to include stuffed animals. If we
+limit our definition of imaginary companions to just the invisible
+ones, the estimate for prevalence up to the age of 7 years is 37%.
+Most studies of children’s imaginary companions have found
+that girls are more likely to have imaginary companions than are
+boys (Carlson & Taylor, in press; Hurlock & Burnstein, 1932;
+Mauro, 1991; but see D. G. Singer & Singer, 1990). According to
+Carlson and Taylor (in press), this sex difference might be due to
+the types rather than the amount of role play that boys and girls
+prefer. Carlson and Taylor found that boys were as likely to invent
+imaginary characters as girls were; however, many of the imagi-
+nary characters created by preschool boys were impersonated
+rather than treated as imaginary companions. Ames and Learned
+(1946) also found that many boys engaged in impersonation, and
+these authors suggested that boys prefer this type of play to
+imaginary companions. In any case, the results of this study
+indicate that the sex difference in the incidence of imaginary
+companions for preschool children is no longer evident by age 7.
+Although preschool boys often impersonate the characters they
+create rather than treat them as another person, by 7 years of age,
+boys are as likely as girls to report a history of having had an
+imaginary companion.
+
+What accounts for this developmental change in the kind of role
+play boys enjoy? We suspect part of this change is related to the
+functions served by imaginary companions at different ages. Pre-
+school boys’ preference for impersonating created characters
+makes sense when one considers an interesting sex difference
+found in the types of roles boys and girls adopt in their play. Boys
+are more likely than girls to adopt fantastic or active roles (e.g.,
+monsters, spacemen), whereas girls are more likely to adopt roles
+to engage in pretend play about
+relationships (Fein, 1981;
+McLoyd, Warren, & Thomas, 1984). Thus, the sociodramatic play
+of boys is less dependent on having other characters in the scene,
+and girls’ fantasy roles might be more conducive to the creation of
+imaginary companions. Perhaps these preferences change by age 7
+or boys become better able to incorporate relationships into fan-
+tastic superhero pretense. However, the current data do not allow
+for more than post hoc speculation about developmental change in
+the functions of imaginary companions.
+
+One of the goals of this research was to determine what happens
+to imaginary companions—why children stop playing with them.
+
+This goal reflected our assumption that most of the children in the
+present study would have given up play with imaginary compan-
+ions by age 7. We were wrong. Altogether, 31 of the imaginary
+companions described at Time 2 were current ones rather than
+ones that the children had at an earlier time. Thus an even higher
+percentage of children were playing with imaginary companions at
+the school-age assessment (31%) than had been found at the
+preschool assessment (28%). This result was surprising given that
+several major developmental theories have downplayed the role of
+fantasy play in school-age children. It is possible that imaginary
+companions continue to be a major vehicle of fantasy throughout
+childhood. Adults (e.g., parents, researchers) are less aware of the
+imaginary companions because more of them are invisible and
+older children are less overt in their play with them (Newson &
+Newson, 1976). In fact, in this sample, 27% of the children
+described an imaginary companion that their parents did not know
+existed. One 7-year-old explicitly requested that we not tell her
+mother about the imaginary companion she had described to us.
+In addition to the current imaginary companions of the school-
+age children, a substantial number of imaginary companions had
+come and gone by age 7, and thus we were able to ask about the
+reasons they had been abandoned. However, for the most part,
+neither the children nor the parents could provide any explana-
+tions. Imaginary companions appear to be given up in much the
+same way as other activities or toys. Children simply lose interest
+and turn to other types of activities. In some cases, children replace
+the old imaginary companion with a new one who has a different
+set of characteristics.
+
+Another goal of this research was to learn more about the later
+correlates of this type of play in early childhood. Here we inves-
+tigated the possibility that having an imaginary companion in the
+past or present might be related to emotion understanding, a
+variety of personality variables, and/or perceived competence at
+age 7. However, there were very few differences between the
+children who did and did not have an imaginary companion on any
+of these variables.
+
+Why did so few variables correlate with having a history of
+imaginary companions at age 7? One problem is that the category
+“having an imaginary companion” is very broad. The children who
+were grouped together in this study as “having an imaginary
+companion” were a very diverse group, including, for example, a
+girl who had invented an imaginary version of her favorite friend
+at preschool and then regularly played with her “fake” friend for 3
+years, a girl who at age 6 shared her thoughts and feelings with an
+invisible green dog, and a boy who at age 3 invented a tiny white
+boy who could not be seen because he lived in lights. Our descrip-
+tive data suggest that children’s imaginary companions do not fall
+into neat categories with respect to their physical characteristics,
+personality, function, or anything else. Even identifying the gender
+of an imaginary companion is not straightforward. In addition to
+males and females, there are imaginary companions that specifi-
+cally do not have a gender, ones whose gender is unknown, and
+ones that can switch genders. The diversity of this type of play
+presents challenges to researchers who would like to find out how
+having an imaginary companion is related to social understanding,
+theory of mind, personality, or other variables of interest.
+
+A more fine-grained analysis of imaginary companions will be
+required to learn more about their effects on cognitive and social
+development. Gleason (2002) has taken a step in this direction by
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+1184
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+social
+
+examining the kinds of relationships children have with imaginary
+friends compared with real friends. Here we collected data relevant
+to the dimension of conventional or ordinary versus exotic or
+fantastic because there is evidence that in social role play, fantastic
+themes (roles the child would seldom or never enact in real life)
+are related to greater
+interaction and more meta-
+communications (McLoyd et al., 1984). Similarly, content differ-
+ences in pretense have also been shown to be related to children’s
+understanding of pretending as a mental as well as a physical
+activity. In a variety of tasks, preschool children show more
+awareness of pretending as involving the mind when the task
+involves fantasy characters. For example, 4-year-old children are
+likely to report that pretending to be the Lion King (a fantasy
+character) involves the mind more than does pretending to be a dog
+(an ordinary character; Lillard & Sobel, 1999; Sobel & Lillard,
+2001). Flannery and Watson (1993) combined the exotic– ordinary
+dimension with frequency in their categorization of children as
+high, average, or low in fantasy as observed in free play with other
+children. These studies focused on preschool children and different
+types of pretending rather than on interacting with an imaginary
+companion, but the results suggested that the ordinary– exotic
+dimension of imaginary companions was worth investigation.
+However, in this study with school-age children, there were only a
+few findings related to the exotic– ordinary ratings of imaginary
+companions. High impersonation at Time 1 predicted exotic imag-
+inary companions at Time 2, and having an exotic imaginary
+companion was associated with higher scores on the Fanciful and
+Frequency scales of the CFI and higher self-perception scores.
+
+In addition to variation in the content and theme, the context in
+which role play occurs is also important to investigate. Although
+we have learned that imaginary companions are sometimes shared
+with other friends and family members, children who interact with
+imaginary companions are typically engaging in solitary play. The
+predominantly private nature of imaginary companions, especially
+for older children, contrasts with impersonation, which we suspect
+lends itself to social situations. In the social play of preschoolers,
+many episodes of pretense are initiated by children taking on a role
+or assigning a role to another child. For example, Lloyd and
+Goodwin (1995) found that claiming a role for oneself (e.g., “And
+I’m a robber and I’m going to steal all the things”) accounted for
+58.5% of the pretend utterances in the play sessions for a group of
+children between the ages of 4 years 2 months and 4 years 6
+months. Impersonation can be enjoyed as a solitary activity, and
+imaginary companions can be shared with other children, but
+perhaps the stronger connection with social activity accounts for
+some of our findings related to impersonation. However, this
+speculation rests on observational studies of preschool children.
+Less is known about the patterns of social and private pretense in
+older children, partly because it has been widely claimed that
+pretend play declines after about 5 years of age (e.g., F. P. Hughes,
+1999).
+
+Impersonation
+
+The results of our research indicate that impersonation needs
+more careful study. Here our primary focus was on imaginary
+companions, but the results related to impersonation, even given
+our crude measurement, were interesting. At first glance, simply
+asking children and parents about impersonation did not seem very
+
+informative because most answered “yes.” We did not anticipate
+that so many children would continue to endorse the impersonation
+items at age 7, so we did not ask many questions about
+it.
+However, it is possible that impersonation is not restricted to early
+childhood.
+
+Interpretation of the Time 2 impersonation results is speculative
+because of the small number of children who were categorized as
+not being high in impersonation. However, it was intriguing that
+these children were different on a number of measures. The rela-
+tion between Time 2 impersonation and emotion understanding
+suggests that not impersonating characters might have implications
+for children’s ability to understand the emotional dispositions of
+others. As Bretherton (1989) has convincingly argued, pretense
+provides opportunities to help children regulate emotions. Perhaps
+trying on a variety of perspectives in the realm of fantasy might
+facilitate real-world perspective-taking abilities as well. However,
+it is also possible that children who are not adept at taking the
+emotional perspective of another person are also not inclined to
+impersonate in their play. This interpretation is consistent with the
+finding that the children who did not perform well on theory of
+mind tasks in preschool were more likely to be in the small group
+of children who were in the low-impersonation category at the
+school-age assessment. It would be interesting to explore these
+possibilities in future research with a more sensitive measure of
+impersonation.
+
+Most research on imaginary companions and on impersonation
+has been conducted separately. In our own research, impersonation
+has been secondary to our primary interest in imaginary compan-
+ions. However, Harris (2000) has recently argued for a strong
+conceptual relation between imaginary companions and imperson-
+ation, and we believe that in future research, impersonation should
+be given equal emphasis with imaginary companions. However, it
+will be a challenge to develop a measurement instrument that
+makes the important distinctions between the type of role play that
+almost all children enjoy from time to time and the types of
+intensive impersonation activity in which some children take on an
+elaborated role on a regular basis. For example, we know of one
+child who developed an identity he called Super Lightning Bolt
+Aidan. This identity started to make regular appearances after
+Aidan became frightened by a thunder and lightning storm. When
+he assumed this identity, he wore a cape and a mask and he talked
+and behaved with assurance and power. We suspect that this is the
+sort of impersonation (i.e., an elaborated and idiosyncratic identity
+assumed regularly, as contrasted with varied roles that are assumed
+from time to time in social games of pretense with other children)
+that is most closely linked with having an imaginary companion.
+
+Theory of Mind and Emotion Understanding
+
+Although understanding of belief and understanding of emotion
+are both important for successful social interaction, the relation
+between these domains is not well understood. Some studies have
+found that false belief scores are correlated with empathy (Asting-
+ton & Jenkins, 1995) and that preschool children understand the
+relation between beliefs and emotional reactions (Harris, Johnson,
+Hutton, Andrews & Cooke, 1989; Wellman & Banerjee, 1991). C.
+Hughes and Dunn (1998) found that understanding of false belief
+and understanding of emotion were related to each other between
+47 and 60 months of age. In a study with preadolescents, Bosacki
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+1185
+
+and Astington (1999) included questions about emotional reactions
+as part of their composite theory of mind measure. However,
+Dunn, Brown, Slomkowski, Tesla, and Youngblade (1991) did not
+find a relation between their emotion understanding and false
+belief tasks at 40 months. They attributed this partly to the children
+being too young to provide a range of scores on false belief.
+Cutting and Dunn (1999) also failed to find a relation between
+emotion understanding and false belief understanding in 4-year-
+old children. They interpreted their findings as suggesting that
+emotion understanding and false belief are perhaps more distinct
+domains of social cognition than has previously been supposed.
+However, in this study, children’s theory of mind at age 4 was
+related to their understanding of emotions 3 years later at ages 6 –7.
+What accounts for the differences between our results and those
+reported by Cutting and Dunn (1999)? One possibility is that
+differences in the way theory of mind was measured in the two
+studies are at least partly responsible. We included 13 theory of
+mind tasks that included three representational change tasks. The
+composite scores were significantly correlated with emotion un-
+derstanding, but of the individual task types, only representational
+change was significantly correlated with emotion understanding
+when Time 1 verbal ability was controlled. It is interesting that the
+representational change component of Cutting and Dunn’s false
+belief composite had to be excluded from their analysis because of
+irregularity in the methodology. A question raised by these results
+is the extent to which there might be something unique about
+reflecting on mental-state changes in the self that contributes to
+emotion understanding. Perhaps further speculation about
+this
+issue should await replication of the finding.
+
+Conclusions
+
+One of the lessons to be learned from this research is that
+fantasy is alive and well in the lives of school-age children. In fact,
+play with imaginary companions was at least as prevalent in our
+school-age sample as in preschool children. We were able to
+collect interesting descriptions of these imaginary companions
+created by older children and discover new information about
+them. For example, the majority of imaginary companions played
+with by older children are invisible, whereas in younger children at
+least half are based on props such as special toys. In addition, the
+sex difference in incidence that is well established in preschool
+children is no longer present by age 7. As many boys as girls have
+a history of role play involving imaginary companions. The imag-
+inary companions that were no longer played with by age 7 appear
+to have been given up gradually with little fanfare. The descrip-
+tions of the imaginary companions were diverse and often highly
+imaginative, but we suspect that interviews focused more specif-
+ically on how imaginary companions function in the children’s
+lives would be useful for investigating the developmental corre-
+lates of this type of role play for school-age children.
+
+Impersonation needs to be investigated more thoroughly in
+future research. Although we did not collect much information
+about it, there were nevertheless some interesting results. In par-
+ticular, our finding of a relation between low impersonation at age
+7 and lower scores both on emotion understanding at age 7 and
+theory of mind at age 4 deserves further study. In addition, our
+findings of relations between theory of mind at age 4 and emotion
+understanding and ego control at age 7 are contributions to the
+
+literature on the development of social understanding. Exactly how
+the role-play activities of older children contribute to and are
+affected by their social cognitive development awaits future study,
+but the appreciation gained in this research for the fantasy lives of
+school-age children is an important step.
+
+References
+
+Ames, L. B., & Learned, J. (1946). Imaginary companions and related
+
+phenomena. Journal of Genetic Psychology, 69, 147–167.
+
+Astington, J. W., & Jenkins, J. M. (1995). Theory of mind development
+
+and social understanding. Cognition & Emotion, 9, 151–165.
+
+Ball, L. V., Lalonde, C. E., & Wright-Cassidy, K. (1999). Imaginary
+companions as vehicles for a dialogue between self and self: Adult
+reflections on the experiences of having an imaginary companion. Poster
+presented at the 29th Annual Congress of the Jean Piaget Society,
+Mexico City, Mexico.
+
+Baron-Cohen, S. (2000). Theory of mind and autism: A fifteen year review.
+In S. Baron-Cohen, H. Tager-Flusberg, & D. Cohen (Eds.), Understand-
+ing other minds: Perspectives from developmental cognitive neuro-
+science (pp. 3–20). Oxford, England: Oxford University Press.
+
+Benson, R. M., & Pryor, D. B. (1973). When friends fall out: Develop-
+mental interference with the function of some imaginary companions.
+Journal of the American Psychoanalytic Association, 21, 457– 468.
+
+Block, J. H., & Block, J. (1980). The role of ego-control and ego-resiliency
+in the organization of behavior. In W. A. Collins (Ed.), Minnesota
+Symposium on Child Development (Vol. 13, pp. 39 –101). Hillsdale, NJ:
+Erlbaum.
+
+Bosacki, S., & Astington, J. W. (1999). Theory of mind in preadolescence:
+Relations between social understanding and social competence. Social
+Development, 8, 237–255.
+
+Bracken, B. A., & Murray, A. M. (1984). Stability and predictive validity
+of the PPVT-R over an eleven month interval. Educational and Psycho-
+logical Research, 4, 41– 44.
+
+Bretherton, I. (1989). Pretense: The form and function of make believe
+
+play. Developmental Review, 9, 383– 401.
+
+Carlson, S. M., Gum, J., Davis, A. C., & Molloy, A. (2003, June).
+Predictors of imaginary companions in early childhood. Poster pre-
+sented at the annual meeting of the Jean Piaget Society, Chicago.
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differences in inhibitory
+control and children’s theory of mind. Child Development, 72, 1032–
+1053.
+
+Carlson, S. M., & Taylor, M. (in press). Imaginary companions and
+impersonated characters: Sex differences in children’s fantasy play.
+Merrill-Palmer Quarterly.
+
+Caspi, A., Block, J., Block, J. H., Klopp, B., Lynam, D., Moffitt, T. E., &
+Stouthamer-Loeber, M. (1992). A “common-language” version of the
+California Child Q-Set for personality assessment. Psychological As-
+sessment, 4, 512–523.
+
+Cohen, D., & MacKeith, S. A. (1991). The development of imagination:
+
+The private worlds of childhood. London: Routledge.
+
+Connolly, J. A., & Doyle, A. (1984). Relation of social fantasy play to social
+
+competence in preschoolers. Developmental Psychology, 20, 797–806.
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding,
+language, and family background: Individual differences and interrela-
+tions. Child Development, 70, 853– 865.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Youngblade, L. (1991).
+Young children’s understanding of other people’s feelings and beliefs:
+Individual differences and their antecedents. Child Development, 62,
+1352–1366.
+
+Fein, G. G. (1981). Pretend play: An integrative review. Child Develop-
+
+ment, 52, 1095–1118.
+
+Flannery, K. A., & Watson, M. W. (1993). Are individual differences in
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+1186
+
+TAYLOR, CARLSON, MARING, GEROW, AND CHARLEY
+
+fantasy play related to peer acceptance levels? Journal of Genetic
+Psychology, 154, 407– 416.
+
+Flavell, J. H., Flavell, E. R., & Green, F. L. (1983). Development of the
+
+appearance–reality distinction. Cognitive Psychology, 15, 95–120.
+
+Fraiberg, S. H. (1959). The magic years. New York: Scribner.
+Gleason, T. (2002). Social provisions of real and imaginary relationships in
+
+early childhood. Developmental Psychology, 38, 979 –992.
+
+K., et al. (2001). Prevalence of imaginary companions in a normal child
+population. Child: Care, Health and Development, 27, 12–22.
+
+Perner, J., Leekam, S. R., & Wimmer, H. (1987). Three-year-olds’ diffi-
+culty understanding false belief: Representational limitation, lack of
+knowledge or pragmatic misunderstanding? British Journal of Develop-
+mental Psychology, 5, 125–137.
+
+Piaget, J. (1962). Play, dreams, and imitation. London: Routledge &
+
+Gleason, T. R., Sebanc, A. M., & Hartup, W. W. (2000). Imaginary compan-
+
+Kegan Paul.
+
+ions of preschool children. Developmental Psychology, 36, 419–428.
+
+Putnam, F. W. (1997). Dissociation in children and adolescents: A devel-
+
+Gnepp, J., & Chilamkurti, C. (1988). Children’s use of personality attri-
+butions to predict other people’s emotional and behavioral reactions.
+Child Development, 59, 743–754.
+
+Gnepp, J., & Gould, M. E. (1985). The development of personalized
+inferences: Understanding other people’s emotional reactions in light of
+their prior experiences. Child Development, 56, 1455–1464.
+
+Gopnik, A., & Astington, J. W. (1988). Children’s understanding of rep-
+resentational change and its relation to the understanding of false belief
+and the appearance–reality distinction. Child Development, 59, 26 –37.
+the imagination. London: Basil
+
+Harris, P. L. (2000). The work of
+
+Blackwell.
+
+Harris, P. L., Johnson, C., Hutton, D., Andrews, G., & Cooke, T. (1989).
+Young children’s theory of mind and emotion. Cognition & Emotion, 3,
+379 – 400.
+
+Harter, S., & Chao, C. (1992). The role of competence in children’s
+creation of imaginary friends. Merrill-Palmer Quarterly, 38, 350 –363.
+Harter, S., & Pike, R. (1984). The Pictorial Scale of Perceived Competence
+and Social Acceptance for Children. Child Development, 55, 1969 –
+1982.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longi-
+tudinal associations with mental-state talk between young friends. De-
+velopmental Psychology, 34, 1026 –1037.
+
+Hughes, F. P. (1999). Children, play and development (3rd ed.) Boston:
+
+Allyn & Bacon.
+
+Hurlock, E. B., & Burnstein, M. (1932). The imaginary playmate: A
+
+questionnaire study. Journal of Genetic Psychology, 41, 380 –391.
+
+John, O. P., Caspi, A., Robins, R. W., Moffitt, T. E., & Stouthamer-Loeber,
+M. (1994). The “Little Five”: Exploring the nomological network of the
+five-factor model of personality in adolescent boys. Child Development,
+65, 160 –178.
+
+Lillard, A. S., & Sobel, D. M. (1999). Lion Kings or puppies: The influence
+of fantasy on children’s understanding of pretense. Developmental Sci-
+ence, 2, 75– 80.
+
+Lloyd, B., & Goodwin, R. (1995). Let’s pretend: Casting the characters and
+setting the scene. British Journal of Developmental Psychology, 13,
+261–270.
+
+Manosevitz, M., Prentice, N. M., & Wilson, F. (1973). Individual and
+family correlates of imaginary companions in preschool children. De-
+velopmental Psychology, 8, 72–79.
+
+Mauro, J. (1991). The friend that only I can see: A longitudinal investiga-
+tion of children’s imaginary companions. Unpublished doctoral disser-
+tation, University of Oregon.
+
+McLoyd, V. C., Warren, D., & Thomas, E. A. C. (1984). Anticipatory and
+fantastic role enactment in preschool triads. Developmental Psychology,
+20, 807– 814.
+
+Nagera, H. (1969). The imaginary companion: Its significance for ego
+development and conflict resolution. The Psychoanalytic Study of the
+Child, 24, 89 –99.
+
+Newson, J., & Newson, E. (1976). Seven years old in an urban environ-
+
+ment. London: Allen & Unwin.
+
+Pearson, D., Rouse, H., Doswell, S., Ainsworth. C., Dawson, O., Simms,
+
+opmental perspective. New York: Guilford Press.
+
+Rosenfeld, E., Huesmann, L. R., Eron, L. D., & Torney-Purta, J. V. (1982).
+Measuring patterns of fantasy behavior in children. Journal of Person-
+ality and Social Behavior, 42, 347–366.
+
+Schaefer, C. E. (1969). Imaginary companions and creative adolescents.
+
+Developmental Psychology, 1, 747–749.
+
+Scruggs, T. E., Mastropieri, M. A., & Argulewicz, E. N. (1983). Stability
+of performance on the PPVT-R for three ethnic groups attending a
+bilingual kindergarten. Psychology in the Schools, 20, 433– 435.
+
+Seiffge-Krenke, I. (1993). Close friendship and imaginary companions in
+
+adolescence. New Directions for Child Development, 60, 73– 87.
+
+Seiffge-Krenke, I. (1997). Imaginary companions in adolescence: Sign of
+a deficient or positive development? Journal of Adolescence, 20, 137–
+154.
+
+Silberg, J. (Ed.) (1998). The dissociative child. Lutherville, MD: Sidran
+
+Press.
+
+Singer, D. G., & Singer, J. L. (1990). The house of make-believe: Chil-
+dren’s play and developing imagination. Cambridge, MA: Harvard
+University Press.
+
+Singer, J. L., & Singer, D. G. (1981). Television, imagination, and aggres-
+
+sion: A study of preschoolers. Hillsdale, NJ: Erlbaum.
+
+Sobel, D. M., & Lillard, A. S. (2001). The impact of fantasy and action on
+young children’s understanding of pretense. British Journal of Devel-
+opmental Psychology, 19, 85–98.
+
+Taylor, M. (1988). Conceptual perspective taking: Children’s ability to
+distinguish what they know from what they see. Child Development, 59,
+703–718.
+
+Taylor, M. (1999). Imaginary companions and the children who create
+
+them. New York: Oxford University Press.
+
+Taylor, M., & Carlson, S. M. (1997). The relation between individual
+differences in fantasy and theory of mind. Child Development, 68,
+436 – 455.
+
+Taylor, M., Cartwright, B. S., & Carlson, S. M. (1993). A developmental
+investigation of children’s imaginary companions. Developmental Psy-
+chology, 29, 276 –285.
+
+Wellman, H. M., & Banerjee, M. (1991). Mind and emotion: Children’s
+understanding of the emotional consequences of beliefs and desires.
+British Journal of Developmental Psychology, 9, 191–214.
+
+Wellman, H. M. & Lagattuta, K. H. (2000). Developing understandings of
+mind. In S. Baron-Cohen, H. Tager-Flusberg, & D. J. Cohen (Eds.),
+Understanding other minds: Perspectives from developmental cognitive
+neuroscience (pp. 21– 49). NewYork: Oxford University Press.
+
+Youngblade, L. M., & Dunn, J. (1995). Individual differences in young
+children’s pretend play with mother and sibling: Links to relationships
+and understanding of other people’s feelings and beliefs. Child Devel-
+opment, 66, 1472–1492.
+
+Yuill, N. (1992). Children’s conception of personality traits. Human De-
+
+velopment, 35, 265–279.
+
+Yuill, N., & Pearson, A. (1998). The development of bases for trait
+attributions: Children’s understanding of traits as causal mechanisms
+based on desire. Developmental Psychology, 34, 574 –586.
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+IMAGINARY COMPANIONS
+
+Appendix
+
+1187
+
+Questions Children Were Asked About Imaginary Companions and Impersonation
+
+Do you have a pretend friend?
+Have you ever had a pretend friend?
+[If child said no but had a pretend friend at age 4] Do you remember
+
+_______?
+
+What was [is] your friend’s name?
+Was [Is] your friend a toy like a stuffed animal or a doll, or was [is]
+
+it completely pretend?
+
+Is it a boy or a girl? Is it a person, an animal, or something else?
+How old is your friend?
+How big is your friend?
+What does your friend look like?
+What color is his or her hair?
+What color are his or her eyes?
+What kind of clothes does he or she wear?
+How did you meet your friend?
+What do you like most about your friend?
+
+What do you not like about your friend?
+Where does your friend live?
+Where does your friend sleep?
+[For previous pretend friends] What happened to ________?
+When did you stop playing with ________?
+Why did you stop playing with _________?
+Would you please draw a picture of _______?
+Do you ever pretend to be an animal?
+What animal do you pretend to be?
+Do you ever pretend to be a different person?
+What person do you pretend to be?
+
+Received April 7, 2003
+Revision received June 8, 2004
+
+Accepted June 22, 2004 䡲
+
+.
+
+ 
+
+ 
+ 
+.
+s
+r
+e
+h
+s
+i
+l
+b
+u
+p
+d
+e
+i
+l
+l
+a
+ 
+s
+t
+i
+ 
+f
+o
+ 
+e
+n
+o
+
+ 
+
+y
+l
+d
+a
+o
+r
+b
+d
+e
+t
+a
+n
+i
+m
+e
+s
+s
+i
+d
+ 
+e
+b
+o
+t
+ 
+t
+o
+n
+
+ 
+
+ 
+
+ 
+r
+o
+n
+o
+i
+t
+a
+i
+c
+o
+s
+s
+A
+
+ 
+l
+a
+c
+i
+g
+o
+l
+o
+h
+c
+y
+s
+P
+n
+a
+c
+i
+r
+e
+m
+A
+ 
+e
+h
+t
+ 
+
+ 
+
+ 
+
+y
+b
+d
+e
+t
+h
+g
+i
+r
+y
+p
+o
+c
+ 
+s
+i
+ 
+t
+n
+e
+m
+u
+c
+o
+d
+ 
+s
+i
+h
+T
+
+ 
+s
+i
+ 
+d
+n
+a
+ 
+r
+e
+s
+u
+ 
+l
+a
+u
+d
+i
+v
+i
+d
+n
+i
+ 
+e
+h
+t
+ 
+f
+o
+ 
+e
+s
+u
+ 
+l
+a
+n
+o
+s
+r
+e
+p
+ 
+e
+h
+t
+ 
+r
+o
+f
+ 
+y
+l
+e
+l
+o
+s
+ 
+d
+e
+d
+n
+e
+t
+n
+i
+ 
+s
+i
+ 
+e
+l
+c
+i
+t
+r
+a
+ 
+s
+i
+h
+T
+
+

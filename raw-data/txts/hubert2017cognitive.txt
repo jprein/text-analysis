@@ -1,0 +1,2732 @@
+PsyCh Journal 6 (2017): 57–75
+DOI: 10.1002/pchj.160
+
+Cognitive self-regulation and social functioning among French
+children: A longitudinal study from kindergarten to ﬁrst grade
+
+Blandine Hubert, Philippe Guimard, and Agnès Florin
+
+Faculty of Psychology, University of Nantes, Nantes Cedex 3, France
+
+Abstract: This study adds to the body of research examining the links between two components of cognitive self-regulation (inhibitory
+control and verbal working memory) and social functioning (social integration, social problem solving, and prosocial skills) and focuses
+on children’s sex as a moderator of the association between cognitive self-regulation and social functioning. The participants (N = 131)
+were French schoolchildren followed from kindergarten (Mage = 68.36 months, SD = 3.33 months) through Grade 1. Using hierarchical
+regression analyses, three major ﬁndings were revealed: (1) inhibitory control was a better predictor than verbal working memory of pro-
+social skills assessed by peers using the sociometric technique as well as by teachers using questionnaires, after controlling for sex,
+mother’s education, and verbal and non-verbal IQ; (2) the prosocial skills assessed by teachers in kindergarten contributed more to
+explaining the prosocial skills and peer acceptance assessed in Grade 1 than cognitive self-regulation; and (3) sex did not moderate the
+relationship between cognitive self-regulation and social functioning. These results suggest that developing strong cognitive self-regula-
+tion, especially inhibitory control and prosocial skills,
+in young children schooled in France could be beneﬁcial for their social
+development.
+
+Keywords: cognitive self-regulation; prosocial skills; peer integration; social problem solving
+Correspondence: Dr. Blandine Hubert, Faculté de Psychology, University of Nantes, Chemin de la Censive et du Tertre, BP 81227,
+44312 Nantes Cedex 3, France. Email: blandine.hubert44@gmail.com
+
+Received 30 September 2016. Accepted 5 January 2017.
+
+Social development includes behavioral problems (externa-
+lized and internalized behaviors), prosocial behavior, and
+peer
+relationships (Sanson, Hemphill, & Smart, 2004).
+When children begin school, social development is particu-
+larly salient. At school, the child evolves within a group of
+peers and learns to live in a community. Because people
+need to belong to a group (Baumeister & Leary, 1995), the
+majority of children want
+to belong to this community
+(i.e., to be accepted by their peers). However, peer relation-
+ships
+hierarchical
+(Gallagher & Sylvester, 2009). In fact, all children are not
+equally accepted by their peers. A large number of factors
+are associated with peer acceptance, including emotional
+and cognitive self-regulation. Children with poor self-
+regulation skills are less accepted by their peers than those
+with better self-regulation skills. This is a major concern
+because the children less appreciated by their peers are
+more often found in situations of social withdrawal,
+
+competitive,
+
+and
+
+are
+
+complex,
+
+rejected and victimized by their peers
+(Arseneault,
+Bowes, & Shakoor, 2010; Asher, Paquette MacEvoy, &
+McDonald, 2008; Ladd & Proﬁlet, 1996; Ostrov, 2010). In
+contrast,
+the most popular children are less anxious at
+school, more engaged in the classroom, and manage transi-
+tions successfully, such as the one from kindergarten to
+Grade 1 (Brendgen, Vitaro, Bukowski, Doyle, & Markie-
+wicz, 2001). The meta-analysis of Jiang and Cillessen
+(2005) revealed that the acceptance or rejection of children
+is quite stable. The stable nature of social integration is
+especially worrying for rejected children and could be due
+to the acquisition of a social reputation (e.g., an aggressive
+child, or an uncooperative child), with the child integrating
+their status and adopting a behavioral pattern corresponding
+to this reputation.
+
+This longitudinal study aimed to investigate the relation-
+ships between two components of cognitive self-regulation
+(inhibitory control and verbal working memory), social
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+58
+
+Self-regulation and social functioning
+
+integration (acceptance and rejection), social problem sol-
+ving, and prosocial skills from kindergarten to ﬁrst grade
+and to explore whether patterns of association between
+these dimensions differ for boys and girls.
+
+Associations between social problem solving,
+
+prosocial skills, and social integration
+
+regularly
+
+referred
+
+to
+
+as
+
+of
+
+social
+
+limit social
+
+different
+
+aspects
+
+“prosocial
+
+The concept of social validity is commonly accepted as dis-
+tinguishing
+development
+(McClelland & Scalzo, 2006; Yeates et al., 2007). This is a
+heuristic model in which the speciﬁc behaviors manifested
+by children act on their interactions and in a long-term per-
+spective on their social integration. The behaviors judged
+positive by the environment enhance social
+integration
+while negative behaviors tend to slow it down. Behaviors
+judged positive to initiate and maintain positive interactions
+skills”
+are
+(e.g. cooperation, help, and sharing). In contrast, aggressive
+behavior and social withdrawal
+integration
+(Elliott & Gresham, 1987; Gresham, 2001). Rubin,
+Bukowski, and Parker (2006) and Yeates et al. (2007) com-
+plexiﬁed this conceptualization by adding an extra level,
+“social
+information processing.” Their framework distin-
+guishes three levels:
+information processing;
+(2) social interactions; and (3) social adjustment. The ﬁrst
+level mobilizes cognitive and emotional self-regulation, rel-
+evant knowledge of the theory of mind, and the ability to
+resolve social problems (i.e., the ability to perceive con-
+ﬂicts and generate prosocial actions to solve them; Crick &
+Dodge, 1994). Self-regulation, theory of mind, and social
+problem solving are interrelated. The process of social
+problem solving depends primarily on cognitive, affective,
+and language skills. When children have to solve a social
+problem, they must engage in an encoding process, during
+which various types of information will be placed into
+working memory. Then, once the children have analyzed
+the problem,
+irrelevant behavioral
+responses in order to activate those adapted to acting in a
+socially acceptable way (Crick & Dodge, 1994; Lemerise &
+Arsenio, 2000).
+
+they have to inhibit
+
+(1) social
+
+The second level (social interactions) is determined by
+the actions (prosocial or antisocial behaviors) exhibited by
+the children. This reﬂects the degree to which children
+adapt to their behaviors according to the social context.
+Finally, the third level (social adjustment) represents the
+
+quality of the relationships with others and is similar to the
+idea of social integration. Indeed, Yeates et al. (2007) indi-
+cated that social adjustment can be assessed via classroom
+peer acceptance nominations. Each level is inﬂuenced by
+the intrinsic characteristics of the children (e.g., their sex,
+age, and IQ) and by the social environment in which they
+grow up (e.g., their mother’s education). In this study, the
+three levels were integrated. Thus, we examined whether
+two components of cognitive self-regulation (ﬁrst
+level)
+contributed to explaining prosocial skills (second level) and
+peer acceptance and rejection (third level) after controlling
+for social problem solving (ﬁrst level).
+
+Peer acceptance is deﬁned as an index of appreciation of
+the relationships between peers and an indicator of their
+social integration (Asher et al., 2008). Although observa-
+tion and questionnaires are considered relevant methods for
+the study of social skills (Merrell, 2001), especially for
+peer relationships (Pepler & Craig, 1998), sociometric tech-
+niques are often used to establish the degree of acceptance
+and rejection by peers. This method consists of interview-
+ing peers about their afﬁliations with peers on the basis of
+an emotional judgment. Generally, researchers ask the chil-
+dren to report the classmates they most like to play with at
+recreation time (i.e., positive nominations) and those they
+least like to play with (i.e., negative nominations; Coie,
+Dodge, & Coppotelli, 1982). The score of positive nomina-
+tions shows the degree of acceptance while negative nomi-
+nations reveal
+the degree of rejection. Acceptance and
+rejection are considered to be two different indices repre-
+senting two aspects of social integration because they are
+moderately correlated to each other
+(Bukowski &
+Hoza, 1989).
+
+As reﬂected by the framework of Rubin et al. (2006) and
+Yeates et al. (2007), a large body of studies has shown that
+children prefer to interact with peers manifesting socially
+acceptable behavior (Bear, Manning, & Izard, 2003). In
+other words, to be accepted by their peers, children must
+demonstrate prosocial skills, good communication skills,
+social problem solving, and self-regulation skills (Rose-
+Krasnor & Denham, 2009; Rubin et al., 2006; Yeates et al.,
+2007). Reviews provide evidence that prosocial skills
+appear at an early age,
+life
+(Eisenberg, Fabes, & Spinrad, 2006; Paulus & Moore,
+2012). The children who are less accepted by their peers
+are often more aggressive and less cooperative than the
+more accepted children (Brendgen et al., 2001; Mostow,
+Izard, Fine, & Trentacosta, 2002; Stenseng, Belsky,
+
+in the second year of
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+59
+
+Skalicka, & Wichstrøm, 2014). Thus, prosocial skills, com-
+munication, and self-regulation skills promote positive
+social interaction, which in turn acts on the social integra-
+tion of children.
+
+Cognitive self-regulation: Deﬁnition and
+
+conceptualization
+
+and
+
+emotional
+
+it
+
+components
+
+researchers agree that
+
+Self-regulation is generally considered a multidimensional
+construct (Blair, 2002; McClelland, Cameron Ponitz, Mes-
+sersmith, & Tominey, 2010). The lack of consensus and the
+semantic blur inherent in the self-regulation concept make
+it sometimes difﬁcult to conceptualize (Allan, Hume, Allan,
+Farrington, & Lonigan, 2014; Zhou, Chen, & Main, 2012).
+Nevertheless,
+self-regulation is
+apprehended in the light of a speciﬁc application and in the
+cognitive
+involves
+(Kochanska, Coy, & Murray, 2001). In the framework of
+Blair and collaborators (Blair & Ursache, 2011; Ursache,
+Blair, & Raver, 2012), self-regulation is represented by two
+interrelated levels: (1) the executive functions play a top-
+down role; and (2) in the bottom-up direction, the executive
+functions depend on emotional control. In this perspective,
+executive functions and emotional control are seen as dis-
+tinct but strongly interrelated, and their development
+is
+closely linked to and inﬂuenced by experience. Generally
+speaking, executive functions represent the “cognitive abil-
+ities that are important for organizing information, for pla-
+nning and problem solving, and for orchestrating thought
+and action in goal-directed behavior” (Blair & Ursache,
+2011, p. 300). Three executive components have been par-
+ticularly investigated: inhibitory control, working memory,
+and ﬂexibility (Garon, Bryson, & Smith, 2008). Inhibitory
+control
+is the ability to retain deliberately an automatic
+response in order to activate a less predominant response.
+Working memory allows one to retain spatial or verbal
+information in one’s short memory and, at the same time,
+to eliminate irrelevant information and make some changes
+to this information. Flexibility represents the ability to
+switch between different tasks and, more generally, between
+mental operations (Diamond, 2013; Willoughby, Blair,
+Wirth, & Greenberg, 2012). Emotional control refers to a
+person’s ability to modulate their emotions (i.e., to control
+their emotional reactivity) in response to their surrounding
+environmental demands. In the literature,
+to distinguish
+these two levels, researchers use emotional self-regulation
+
+(also referred to as “hot” self-regulation) and cognitive self-
+regulation (also referred to as “cold” self-regulation) for
+executive
+(Denham, Warren-Khot, Bassett,
+Wyatt, & Perna, 2012; Kim, Nordling, Yoon, Boldt, &
+Kochanska, 2013).
+
+functions
+
+While the links between emotional self-regulation and
+social functioning have been well studied, there are fewer
+studies on the links between cognitive self-regulation and
+social functioning. In addition, although emotional regula-
+tion is more often involved than cognitive regulation in
+social development (Di Norcia, Pecora, Bombi, Baumgart-
+ner, & Laghi, 2015), some studies suggest links between
+cognitive self-regulation and a distinct aspect of social
+development.
+
+Cognitive self-regulation, prosocial skills, and
+
+social integration
+
+inhibitory control
+
+Aggression toward peers, a high activity level, and poor
+regulation of impulses are considered to be typical externa-
+lizing problems in childhood and to reﬂect antisocial beha-
+viors (Campbell, 1990). Nigg, Quamma, Greenberg, and
+Kusche (1999) showed that
+in Grade
+1 contributed to explaining externalizing behaviors assessed
+in Grade 3, after controlling for sex, verbal ﬂuency, intelli-
+gence, reading, and visuospatial skills. After controlling for
+the reports of externalizing behaviors provided by teachers,
+the child’s sex, and verbal and non-verbal
+intelligence,
+Riggs, Blair, and Greenberg (2003) found that inhibitory
+control and ﬂexibility contributed to explaining 5% and
+6%, respectively, of the variance changes in teacher judg-
+ments on externalizing behaviors between the ﬁrst and sec-
+ond grade. Other studies showed similar
+relationships
+between cognitive self-regulation and the level of aggres-
+siveness in children and those who were “hard to manage”
+(C. Hughes, Dunn, & White, 1998). C. Hughes, White,
+Sharpen, and Dunn (2000) found that 4-year-old children
+judged “hard to manage” (i.e. disruptive and hyperactive)
+by their parents and teachers demonstrated lower perfor-
+mance in executive skills (working memory, planning, ﬂex-
+ibility, and inhibitory control) than their counterparts with
+typical development. This performance difference was most
+pronounced for inhibitory control. In addition, performance
+in theory of mind tasks was not related to antisocial behav-
+ior and empathy, which suggests, according to these
+authors, that the difﬁculties in social skills of these young
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+60
+
+Self-regulation and social functioning
+
+children were mainly due to self-regulatory deﬁcits. Olson,
+Lopez-Duran, Lunkenheimer, Chang, and Sameroff (2011)
+obtained very similar results with children aged 3 years.
+Using observations and evaluations by teachers,
+they
+showed that children with high levels of aggressive behav-
+ior when interacting with their peers obtained lower scores
+of cognitive and emotional regulations as well as theory of
+mind than their peers without these aggressive behaviors.
+In another study, aggressive children demonstrated a lower
+inhibition performance than children with typical develop-
+ment,
+attention problems
+(Raaijmakers et al., 2008). Aronen, Vuontela, Steenari,
+Salmi, and Carlson (2005) showed that working memory
+was associated with disruptive behaviors (e.g., difﬁculties
+in concentrating and sitting still) assessed by the teachers
+among children aged 6–8 years. This link was most pro-
+nounced with the verbal working memory task than with
+the spatial working memory task (see also Alloway, Gather-
+cole, Kirkwood, & Elliott, 2009, for similar ﬁndings).
+
+controlling for
+
+even after
+
+Similarly, associations between self-regulation skills and
+prosocial behavior have been highlighted. In the study by
+Dennis, Brotman, Huang, and Gouley (2007), both cogni-
+tive and emotional regulations were associated with proso-
+cial behavior indicated by parents. Razza and Blair (2009)
+showed that for children aged 3–6.5 years, the results in an
+inhibitory control task were moderately positively and sig-
+niﬁcantly correlated with scores of social skills (social
+cooperation, social interaction, and independence) assessed
+by the teachers. In contrast, the scores obtained in a ﬂexi-
+bility task were not linked to social skills. In the same vein,
+Rhoades, Greenberg, and Domitrovich (2009) showed that
+inhibitory control contributed to explaining the social skills
+assessed by the teachers after vocabulary control.
+
+Few studies have examined the relationships between
+self-regulation and peer integration.
+In the research of
+C. Hughes and Ensor (2011) and Masten et al. (2012), cog-
+nitive self-regulation (inhibitory control, working memory,
+and planning) was associated with peer
+relationships
+assessed by the teachers. More recently, Acar, Rudasill,
+Molfese, Torquati, and Prokasky (2015) found that self-
+regulation (inhibitory control and attentional
+focusing)
+assessed by the mothers when the children were 3 years
+old was negatively and signiﬁcantly associated with conﬂict
+in peer relationships (observations at 4 years). It is even
+more unusual to ﬁnd studies investigating the link between
+self-regulation and peer acceptance assessed by the peers
+themselves in young children. Olson and Lifgren (1998)
+
+examined both concurrent and longitudinal associations
+between self-regulation and peer acceptance among pre-
+schoolers. Their ﬁndings showed a negative and signiﬁcant
+correlation between negative nominations and emotional
+regulation at Time 1. The more that children had high emo-
+tional self-regulation skills, the less they were negatively
+nominated by their peers. Negative nominations obtained at
+Time 1 were negatively and signiﬁcantly associated with
+emotional regulation and inhibitory control measured at
+Time 2. Smith (2001) also found a signiﬁcant positive cor-
+relation between emotional regulation and the average score
+of positive and negative nominations. Very recently,
+Holmes, Kim-Spoon, and Deater-Deckard (2016) showed
+that the composite score of cognitive self-regulation (atten-
+tion focusing, inhibitory control, attention problems, and
+short memory) assessed at 4 years of age was negatively
+associated with the composite score of peer problems (peer
+rejection and peer victimization) at 6 years and, in turn, the
+peer problems contributed to explaining the cognitive self-
+regulation performance at 9–10 years.
+
+Taken together, these results indicate that the three main
+components (working memory, shifting, and inhibitory con-
+trol) of cognitive self-regulation are associated with various
+aspects of social functioning. Although inhibitory control
+appears to be more strongly associated with social func-
+tioning than working memory and shifting (Dennis et al.,
+2007; C. Hughes et al., 1998; Nigg et al., 1999), both
+working memory and inhibitory control seem to be associ-
+ated with disruptive behaviors (Alloway et al., 2009; Aro-
+nen et al., 2005) and peer relationships (Holmes et al.,
+2016; Masten et al., 2012). Thus, in this study, we have
+retained two components of cognitive self-regulation,
+namely inhibitory control and working memory. Few inhib-
+itory control and working memory measures are available
+in French for children aged 5–6 years (Hubert, Guimard,
+Florin, & Tracy, 2015). Therefore, we selected two mea-
+sures validated in French that can be regarded as reliable
+measures of cognitive self-regulation: the Backward Digit
+Span and the Head–Toes–Knees–Shoulders (HTKS) task.
+
+The Backward Digit Span is a subtest from the Wechsler
+Intelligence Scale for Children (WISC-IV; 4th ed.; Wechs-
+ler, 2005) that assesses verbal working memory. In the
+HTKS task (Ponitz, McClelland, Matthews, & Morrison,
+2009), the child is faced with several conﬂicting instruc-
+tions (i.e., doing the opposite of what they are asked to do)
+and must give a motor response. Although we recognize
+that this task evaluates more than just inhibitory control,
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+61
+
+the authors themselves consider it the main cognitive abil-
+ity tapped by the task (Cameron Ponitz et al., 2008;
+McClelland et al., 2007) and it is currently accepted as a
+behavioral assessment of inhibitory control (e.g., Bindman,
+Hindman, Bowles, & Morrison, 2013; Burrage et al., 2008;
+Cameron et al., 2012; Caughy, Mills, Owen, & Hurst,
+2013; Fuhs & McNeil, 2013; Lan, Legare, Ponitz, Li, &
+Morrison, 2011). This decision is based on the fact that this
+task is built on the principle of a tapping task. It is a com-
+plex inhibition task also tapping working memory
+(Carlson, 2003; Jones, Rothbart, & Posner, 2003) and prob-
+ably some degree of attentional control, like many tasks
+assessing executive function (Garon et al., 2008). Both
+tasks require cold cognitive processes and do not call upon
+any particular emotional or motivational aspects.
+
+Sex as a potential moderator of the
+
+relationship between cognitive self-regulation
+
+and social functioning
+
+Sex differences in peer relationships are seen at an early
+age (i.e., 2 years old; Rose & Smith, 2009). Girls are gen-
+erally judged to be more prosocial by their teachers, par-
+ents, and peers and are more accepted by their peers
+(Cillessen, 2009; Hay, Castle, Davies, Demetriou, & Stim-
+son, 1999; Rose & Smith, 2009). In contrast, the literature
+on the effect of sex on cognitive self-regulation remains
+unclear but, when differences are found, girls typically
+outperform boys (Gestsdottir et al., 2014; Hubert et al.,
+2015). Several studies have shown that girls and boys
+have similar performances in different
+tasks of working
+memory and inhibitory control among preschool children
+(Caughy et al., 2013; Gathercole, Pickering, Ambridge, &
+Wearing, 2004) and older children (Diamantopoulou,
+Rydell, Thorell, & Bohlin, 2007). However, some studies
+have indicated that girls outperform boys in inhibitory
+control
+tasks at preschool age (Berlin & Bohlin, 2002;
+von Suchodoletz & Gunzenhauser, 2013). Few studies
+have examined the potential sex differences in the cogni-
+tive self-regulation–social functioning relationship but Dia-
+found that girls with low
+mantopoulou et al.
+cognitive self-regulation abilities
+(composite score of
+working memory, inhibitory control, and verbal ﬂuency)
+were less well accepted by their peers than boys with
+equivalent self-regulation skills. Two other studies found
+no differences in the pattern of association according to
+
+(2007)
+
+control
+
+and
+
+between
+
+inhibitory
+
+the child’s sex. Rhoades et al. (2009) indicated that the
+relationship
+social-
+for boys and girls
+emotional competence was similar
+while Holmes et al. (2016) showed that
+the association
+between cognitive self-regulation and peer problems was
+identical for girls and boys. As the ﬁndings remain uncer-
+tain about the potential effect of sex, we investigated the
+gender-moderated effect under consideration in the current
+study.
+
+Aims of the current study
+
+and
+
+peer
+
+The transitional period between kindergarten and Grade
+1 is characterized by a strong developmental evolution in
+cognitive and social terms. To date, research has shown, on
+one hand, links between social problem solving, prosocial
+skills, and social
+integration. More precisely, prosocial
+skills and social problem solving promote social integra-
+tion. On the other hand, research has also shown equal rela-
+tionships between cognitive self-regulation and disruptive
+behaviors as well as associations between cognitive self-
+regulation and prosocial behavior and between cognitive
+self-regulation
+relationships. Relationships
+between inhibitory control and peer acceptance and
+between self-regulation and peer problems have also been
+highlighted. However, few studies have investigated the
+association between cognitive self-regulation and social
+functioning using peer nominations. Moreover, prosocial
+skills and social integration are essentially assessed by tea-
+chers, but peers and teachers may have different points of
+view. Thus, researchers agree that studies should include
+multiple measurements from a variety of sources (Rhoades
+et al., 2009). In the present research, we opted for a multi-
+method study using the sociometric technique for an
+assessment by peers and asking teachers to ﬁll in a ques-
+tionnaire.1 In addition, some researchers argue that
+the
+sociometric method is the best one to investigate peer rela-
+tionships (Crick, Casas, & Mosher, 1997; Perren & Alsa-
+ker, 2006). Its undeniable advantages are a large number of
+informants and information that is not only transmitted by
+the teacher (Pepler & Craig, 1998). Clearly, multiple infor-
+mants are always more reliable than a single informant. In
+agreement with Hymel, Vaillancourt, McDougall, and
+Renshaw (2002, p. 265), we believe that “sociometric mea-
+sures offer a unique window into how individuals are
+received within their social world.”
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+62
+
+Self-regulation and social functioning
+
+In addition, a large body of evidence indicates that girls
+and boys differ in their social functioning and some studies
+show that girls and boys differ in their inhibitory control
+skills. However, the results remain unclear as to whether
+this association between cognitive self-regulation and social
+functioning is similar for boys and girls, so the current
+study investigated the potential moderator of the child’s
+sex. Thus, the objective was to understand better the com-
+plex nature of the relationships between two components of
+cognitive self-regulation, peer integration (peer acceptance
+and rejection), and prosocial skills.
+
+Three research questions were investigated:
+
+1. What is the contribution of two components of cognitive
+self-regulation assessed at Time 1 to explaining proso-
+cial skills and social problem solving equally assessed
+at Time 1, controlling for variables that are associated
+with social functioning (maternal education, children’s
+sex, age, and verbal and non-verbal IQ)? Based on pre-
+vious research, we hypothesized that inhibitory control
+would be more strongly associated with prosocial skills
+and social problem solving than working memory.
+
+skills and social
+
+2. What is the contribution of the two components of cogni-
+tive self-regulation assessed at Time 1 to explaining proso-
+cial
+integration assessed at Time
+2, controlling for variables that are associated with social
+functioning (maternal education, children’s sex, age, and
+verbal and non-verbal IQ), social problem solving, and
+prosocial skills assessed at Time 1? On one hand, we
+hypothesized that social functioning evaluated in kinder-
+garten would be strongly associated with that evaluated at
+Grade 1. In the same way, we believed that inhibitory con-
+trol would be more strongly associated with prosocial
+skills and social integration than working memory but less
+than the antecedent social functioning. On the other hand,
+we hypothesized that components of cognitive self-
+regulation would be more strongly associated with proso-
+cial skills than social integration. This hypothesis is based
+on the ﬁndings that prosocial skills and social integration
+are relatively stable over time and, in the theoretical frame-
+work of Yeates et al. (2007), prosocial skills act more
+directly than cognitive abilities on social integration.
+
+3. Does children’s sex moderate the association between cog-
+nitive self-regulation and social functioning? Considering
+the
+research
+(Diamantopoulou et al., 2007; Holmes et al., 2016;
+Rhoades et al., 2009), we did not propose any prior
+hypothesis.
+
+contradictory
+
+previous
+
+results
+
+of
+
+Method
+
+Participants
+The study was based on complete data collected from
+131 children (49% girls and 51% boys) followed from kin-
+dergarten (Time 1) through Grade 1 of elementary school
+(Time 2). Children were recruited from public primary
+schools located in Nantes, a city in the west of France, and
+the surrounding region. The children came from 16 classes
+in kindergarten and 12 classes in Grade 1, from six differ-
+ent public schools. In kindergarten, the average age was
+68.36 months (SD = 3.33 months; range = 62–74 months).
+A background questionnaire completed by the parents indi-
+cated that for mothers, 38% had no secondary school
+diploma at all. It further revealed that 17% had the equiva-
+lent to a secondary school diploma, another 17% had an
+undergraduate university degree, and 28% of mothers had a
+graduate degree.
+
+Procedure2
+Parental written consent and the child’s oral consent were
+obtained for each child participating in the study. Children
+were assessed between February and mid-March in the kin-
+dergarten year and between April and May in Grade 1. In
+kindergarten, cognitive self-regulation skills were assessed
+with the Backward Digit Span and the HTKS task. In addi-
+tion, the teachers completed a questionnaire about social
+problem solving and prosocial skills. In Grade 1, sociomet-
+ric interviews were conducted to assess prosocial skills and
+social integration (peer acceptance and rejection). In kin-
+dergarten, all the testing was done individually, with identi-
+cal conditions for each child. One evaluator took one child
+at a time into a separate room at school to minimize dis-
+tractions. Children completed these tasks in a 25-min ses-
+sion, which included cognitive self-regulation tasks, as well
+as verbal and non-verbal IQ measures. The sociometric
+interviews were conducted in Grade 1 and were carried out
+in a collective way. When the standard sociometric method
+is used (i.e., when children are asked to name three peers
+for each question), 70% participation is required for the
+results to be interpretable (Cillessen, 2009). The Grade
+1 children came from 12 different classes, ﬁve of which
+were double-grade-level classes. Of these ﬁve classes, one
+class included kindergarteners and children from Grade
+1, while the other four classes had children from Grades
+1 and 2. Finally, there were seven classes with only Grade
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+63
+
+1 students. Thus, for the needs of the sociometric inter-
+views, data were also collected from the participants’ class-
+mates. Seventy-nine children enrolled in kindergarten
+(n = 19), Grade 1 (n = 35) and Grade 2 (n = 25) also parti-
+cipated. The results of these 79 children were not consid-
+ered in the subsequent statistical analysis. For 10 classes,
+percentages greater than 70% participation (between 71%
+and 100%) were obtained while for two classes, slightly
+lower percentages, namely 65% and 68%, were obtained.
+Children absent on the day of the collective interview were
+interviewed individually afterwards to maximize the inter-
+pretation of the results. The children were reassured regard-
+ing the anonymity and the conﬁdentiality of their answers.
+In the same way as many researchers, we limited the chil-
+dren’s answers to three nominations and we authorized
+cross-nominations between boys and girls (e.g., a boy could
+circle the photo of a girl; Bossaert, Doumen, Buyse, &
+Verschueren, 2011; Fink, Begeer, Hunt, & de Rosnay,
+2014). Finally, the nominations were transformed into per-
+centages of possible nominations in the class, and then
+scores were standardized by class and sex.
+
+Measures used at Time 1
+Inhibitory control
+To assess children’s inhibitory control in kindergarten, we
+used a behavioral task: the HTKS (Ponitz et al., 2009). This
+task requires children to provide a motor response to a ver-
+bal command. In Part 1, two conﬂicting instructions are
+presented to the child: Touch your toes, and touch your
+head. When the examiner says, “Touch your toes,” the
+child must touch his or her head and vice versa. In Part
+2, new conﬂicting instructions are added to the ﬁrst two
+instructions: Touch your shoulders and touch your knees.
+The scoring system is the same for each of the two parts:
+two points for a correct response, one point for a self-
+correct (child corrects his or her response unprompted),
+and a score of 0 for an incorrect response. The maximum
+possible score for
+the 20 items in kindergarten was
+40 points. Higher scores indicate higher levels of self-
+regulation skills (Cronbach’s α = .92).
+
+Working memory
+The Backward Digit Span, a subtest from the WISC-IV
+(Wechsler, 2005), was used to assess verbal working mem-
+ory. The child must repeat orally backward a series of digits
+given by the experimenter at a rate of one digit per second.
+
+Sequences range from 2 to 8 digits. The child receives one
+point for each correct answer. The sum of correct answers
+provides a maximum total score of 16 points. The higher
+the children’s score, the greater are their verbal working
+memory abilities (Cronbach’s α = .76).
+
+Social skills assessed by teachers
+We used two subscales of the Child Behavior Rating Scale
+(Bronson, Goodson, Layzer, & Love, 1990; Matthews,
+Ponitz, & Morrison, 2009): Interpersonal Skills (including
+prosocial skills; seven items) and Social Problem Solving
+(four items). Because the Interpersonal Skills subscale eval-
+uates a construct very similar to that of prosocial skills, we
+called this subscale Prosocial Skills in this study. Sample
+items of Prosocial Skills included “Cooperative with play-
+mates when participating in a group play activity; willing
+to give and take in the group, to listen to or help others”
+and “Takes turns in a game situation with toys, materials,
+and other things without being told to do so.” For the sub-
+scale about social problem solving, sample items included
+“Resolves potential social conﬂicts with peers without
+requiring help from the teacher or other adult” and “Can
+deal with normal criticism or teasing by other children;
+does not easily cry, withdraw, pout, hit, or have a tantrum
+in response.” The two subscales were completed by kinder-
+garten teachers. Ratings were made by circling the response
+number that best indicates how frequently the child exhibits
+the behavior described in a particular item on a 5-point
+scale ranging from 1 (the child never exhibits the behavior
+described by the item) to 5 (the child always exhibits the
+behavior described by the item). The higher the children’s
+score, the greater are their social skills (Cronbach’s α = .84
+for Prosocial Skills and .66 for Social Problem Solving).
+
+Verbal IQ and non-verbal IQ
+Verbal IQ was assessed in kindergarten with Peabody’s
+Vocabulary Scale (Dunn, Thériault-Whalen, & Dunn,
+1993), the French-language adaptation of the Peabody Pic-
+ture Vocabulary Test (revised by Dunn & Dunn, 1981). It
+is recognized as combining the best psychometric measure-
+ment for a French vocabulary test (Bouchard, Fitzpatrick, &
+Olds, 2009). In order to create a composite score, we pre-
+sented Items 30 (nest) to 67 (trunk) to the children. The
+total score was out of 37 (Cronbach’s α = .76).
+
+Non-verbal
+
+Raven’s
+
+IQ was assessed in kindergarten using
+in
+
+(1998) Colored Progressive Matrices
+
+test
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+64
+
+Self-regulation and social functioning
+
+notebook form. This test is a classic task that evaluates a
+child’s non-verbal perceptive reasoning. Children must
+solve three series of non-verbal problems of increasing
+complexity. For each of the 36 items proposed (12 per
+series), the child was instructed to choose the one item that
+provided the solution to the problem from six proposals.
+The total possible score was 36 (Cronbach’s α = .80).
+
+Measures used at Time 2
+Social integration
+We identiﬁed social integration through two characteristics:
+peer acceptance and rejection. We were inspired by the ques-
+tions of Boivin and Bégin (1986) to establish a questionnaire
+of six items: three for peer acceptance and three for peer rejec-
+tion. In their study conducted with children aged 5–6 years,
+the temporal reliability of the responses was satisfactory. The
+children had to circle three images of their classmates for each
+item by means of a booklet with the photographs and names
+of their classmates. To ensure that the children recognized all
+their classmates in the photos, the experimenters ﬁrst named
+them all individually out loud. Children were instructed to cir-
+cle the photos of three of their classmates in the booklet for
+each question. They were allowed to choose fewer but no
+more than three photos and they could not circle themselves.
+They were asked to circle successively three classmates they
+most like to play with at recreation time (positive nomina-
+tions), three classmates they least like to play with at recrea-
+tion time (negative nominations), those they would most (and
+then least) like to invite home for their birthday party, and
+ﬁnally those to whom they would most (and then least) like to
+sit next to in class. To obtain consistent answers, the children
+circled on the same page for each dimension (play with,
+invite, sit next to) the three peers for positive nominations
+with a blue-colored pen and the three peers for negative nomi-
+nations with the color of their choice. Two scores were calcu-
+lated for each child: an acceptance score and a rejection score.
+The acceptance score is the sum of the nominations for the
+three items of positive nominations (r = .62–.75, p < .001)
+and the rejection score is the sum of the nominations for the
+three items of negative nominations (r = .68–.75, p < .001).
+Cronbach’s α’s for these two scores were good (.87 for accept-
+ance and .88 for rejection).
+
+Prosocial skills
+A questionnaire on social reputation (Lapointe, Noêl, &
+Strayer, 1993) was used, which evaluates how children
+
+perceive their peers on ﬁve social dimensions: Mood, Lead-
+ership, Aggression, Cooperation, and Popularity. Popularity
+was not used in the analysis because it echoes acceptance
+(r = .64, p < .001) and rejection (r = –.72, p < .001). The
+Leadership dimension was not retained either because it
+represents a fairly subtle phenomenon for 6–7-year-old
+children to spot. Two questions were asked for each dimen-
+sion, one on the positive valence (i.e., good mood, non-
+aggressive, cooperative) and the other on the negative
+valence (i.e., bad mood, aggressive, uncooperative). In this
+questionnaire, children were allowed to nominate them-
+selves. The principle was the same as for the questionnaire
+of peer acceptance and rejection: Children had a booklet
+with the photographs and names of their classmates and
+had to use a different colored pen for the positive and nega-
+tive valences. Each child obtained two scores per dimen-
+sion, one on the positive valence and one on the negative
+valence. Like Lapointe et al. (1993), we subtracted the neg-
+ative valence from the positive valence score to obtain three
+indices: positive mood, cooperative, and non-aggressive
+(r = .49–.65, p < .001). Then, these three indicators were
+summarized in a prosocial behavior composite score
+(Cronbach’s α = .81).
+
+Analytical strategy
+Analyses were carried out using SPSS 20. There were
+no missing data. Descriptive analyses are provided in
+Table 1; they do not indicate deviations from normality
+for all the variables of the study. Then, bivariate corre-
+lation and hierarchical regression analyses were used to
+test models predicting social functioning. Each aspect
+of social functioning was analyzed in a separate model.
+In order to test sex moderator effects, interaction terms
+(Sex × Inhibitory Control and Sex × Verbal Working
+Memory) were derived by computing standardized z-
+scores to center
+the data and then multiplying the
+z-scores for the two variables (Aiken & West, 1991).
+
+Results
+
+Correlations between all the variables of the
+study
+The inhibitory control scores obtained during kindergarten
+were moderately correlated to prosocial skills (r = .28,
+p < .01, see Table 2) and social problem solving (r = .45,
+p < .001)
+assessed by kindergarten teachers. Verbal
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+65
+
+Table 1
+Descriptive Statistics for all the Variables of the Study
+
+Outcomes
+
+Inhibitory control, kindergarten
+Verbal working memory, kindergarten
+Non-verbal IQ, kindergarten
+Verbal IQ, kindergarten
+Prosocial skills, kindergarten
+Social problem solving, kindergarten
+Prosocial skills, Grade 1
+Acceptance, Grade 1
+Rejection, Grade 1
+
+Mean
+
+25.37
+3.28
+18.43
+27.93
+3.94
+3.49
+0.13
+0.12
+0.001
+
+SD
+
+10.57
+1.88
+4.72
+3.90
+0.68
+0.62
+2.40
+0.90
+0.96
+
+Range
+
+Skewness
+
+Kurtosis
+
+0–40
+0–8
+5–32
+15–35
+2.14–5
+2.25–5
+–5.19 to 5.74
+–1.31 to 2.48
+–2.16 to 2.67
+
+–0.80
+–0.40
+0.07
+–0.75
+–0.47
+0.01
+–0.24
+0.51
+1.06
+
+–0.18
+–0.40
+0.34
+0.49
+–0.64
+–0.53
+–0.33
+–0.49
+0.55
+
+working memory scores were also correlated to prosocial
+skills and social problem solving but less strongly (r = .22,
+p < .05 and r = .35, p < .001, respectively).
+
+skills
+
+The inhibitory control scores obtained during kindergarten
+were correlated positively to prosocial
+(r = .35,
+p < .001) and peer acceptance (r = .29, p < .01) assessed by
+peers in Grade 1. A negative correlation was observed
+between inhibitory control scores and rejection by peers
+(r = –.23, p < .01). In contrast, the correlations were more
+mixed between verbal working memory and social function-
+ing assessed by peers. In fact, the verbal working memory
+scores assessed in kindergarten were only associated with pro-
+social skills assessed by peers in Grade 1 (r = .17, p < .05).
+
+The prosocial skills assessed by teachers were moder-
+ately associated with prosocial skills (r = .30, p < .001),
+peer acceptance (r = .60, p < .001), and peer rejection
+(r = –.49, p < .001) assessed by peers in Grade 1. In the
+same way, social problem solving was also linked to proso-
+cial skills (r = .31, p < .001), peer acceptance (r = .31,
+p < .001), and peer rejection (r = –.25, p < .001).
+
+Only the prosocial skills and social problem solving
+assessed by teachers were linked to sex (r = .26, p < .01
+
+and r = .25, p < .01, respectively). Social problem solving
+was
+level
+(r = .22, p < .05).
+
+associated with
+
+the mother’s
+
+education
+
+A series of hierarchical regression analyses of cognitive
+self-regulation variables (i.e., inhibitory control and verbal
+working memory) were regressed on child social function-
+ing (i.e., prosocial skills assessed by teachers, social
+problem solving assessed by teachers, and prosocial skills,
+peer acceptance, and rejection assessed by peers). The
+results are presented in Tables 3 and 4. Analyses were
+completed in different blocks. For concurrent analyses,
+children’s sex, IQ, and mother’s education were entered ﬁrst
+to serve as control variables when they were signiﬁcantly
+correlated with the social
+functioning outcome. Main
+effects for cognitive self-regulation were centered in the
+second block and two-way interaction terms were centered
+in the third block. For longitudinal analyses, children’s sex,
+IQ, and mother’s education were also entered ﬁrst to serve
+as control variables. Prosocial skills and social problem
+solving were entered in the second block to control the
+antecedent of the social functioning effect. Finally, main
+effects for cognitive self-regulation were centered in the
+
+Table 2
+Correlations Between the Different Variables
+
+2
+
+1
+– 0.22*
+
+_
+
+1-Age
+2-Sex
+3-Mother’s education
+4-Inhibitory control T1
+5-Verbal working memory T1
+6-Non-verbal IQ T1
+7-Verbal IQ T1
+8-Prosocial skills T1
+9-Social problem solving T1
+10-Prosocial skills T2
+11-Acceptance T2
+12-Rejection T2
+
+3
+
+4
+
+5
+
+0.05 0.15
+–0.03 0.16
+_
+
+0.10
+0.12
+0.17* 0.10
+_
+
+0.42***
+_
+
+7
+
+0.15
+0.12
+0.23*
+
+6
+0.18*
+–0.09
+0.16
+0.32*** 0.37***
+0.30**
+0.24**
+0.29**
+_
+_
+
+8
+
+9
+
+10
+
+11
+
+12
+
+0.14
+
+0.05
+0.05
+0.02
+
+–0.00
+0.26** 0.25**
+0.22*
+0.05
+0.28** 0.45*** 0.35***
+0.22*
+0.06
+0.17
+_
+
+0.35*** 0.17*
+0.40*** 0.18*
+0.36*** 0.14
+0.52*** 0.30***
+0.31***
+_
+_
+
+0.07
+–0.00
+0.13
+0.29**
+0.12
+0.28**
+0.16
+0.60***
+0.31***
+0.59***
+_
+
+0.01
+–0.10
+–0.00
+–0.23**
+–0.05
+–0.09
+–0.03
+–0.49***
+–0.25***
+–0.62***
+–0.36***
+_
+
+Note. T1 = Time 1 (kindergarten); T2 = Time 2 (Grade 1).
+*p < .05. **p < .01. ***p < .001.
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+66
+
+Self-regulation and social functioning
+
+Table 3
+Hierarchical Regression Analyses
+Assessed in Kindergarten
+
+for Predicting Social Functioning
+
+Table 4
+Hierarchical Regression Analyses
+Assessed in Grade 1
+
+for Predicting Social Functioning
+
+Prosocial skills
+β
+
+t
+
+.26
+
+3.05**
+
+.07
+
+.20
+.11
+.14
+
+–.02
+.08
+.14
+
+2.19*
+1.25
+
+–0.20
+0.91
+
+Social
+
+problem
+solving
+t
+
+β
+
+3.51**
+1.55
+2.43*
+4.41***
+
+1.50
+1.37
+
+0.19
+0.32
+
+.27
+.12
+.19
+.35
+.30
+
+.14
+.10
+.37
+
+.02
+.03
+.37
+
+Variable
+Block 1
+Sex
+Mother’s education
+Verbal IQ
+Non-verbal IQ
+Total R2
+Block 2
+Inhibitory control
+Verbal working memory
+Total R2
+Block 3
+Inhibitory Control × Sex
+Verbal Working Memory × Sex
+Total R2
+*p < .05. **p < .01. ***p < .001.
+
+third block and two-way interaction terms were centered in
+the fourth block. Working memory was not signiﬁcantly
+linked with any variables of social integration, so was not
+integrated in the last two models. Children’s age was not
+signiﬁcantly correlated with any of the social functioning
+outcomes, so was not presented in hierarchical regression
+analyses as a control variable.
+
+Concurrent relationships between inhibitory
+control, verbal working memory, and social
+problem solving and prosocial skills assessed
+by teachers
+Prosocial skills
+Children’s sex (β = .26, p < .01) and inhibitory control
+(β = .20, p < .05) were signiﬁcantly and positively associ-
+ated with prosocial skills. The effect of sex indicated that
+teachers judged girls more favorably than boys on this
+social dimension. Scores on the verbal working memory
+task were not signiﬁcantly associated with prosocial skills
+(β = .11, p = .21).
+In accordance with our hypothesis,
+inhibitory control contributed more to explaining prosocial
+skills than verbal working memory.
+
+Social problem solving
+Verbal IQ was the strongest predictor of social problem
+solving (β = .35, p < .001), followed by children’s sex
+(β = .27, p < .01), and mother’s education level (β = .19,
+p < .05). The effect of sex also showed that teachers judged
+
+Prosocial
+
+skills
+t
+
+β
+
+Peer
+
+acceptance Peer rejection
+β
+
+β
+
+t
+
+t
+
+.18 2.06*
+.03
+
+.28 3.37**
+.08
+
+.60 7.09*** .23 2.41* –.48 –5.32***
+–.07 –0.73
+.39
+
+–.03 –0.03
+.24
+
+.10 0.96
+.18
+
+.21 2.53*
+–.04 –0.47
+.40
+
+.14 1.50
+
+–.10 –1.17
+
+.18
+
+.25
+
+–.10 –1.36
+–.14 1.77
+
+.02 0.19
+.03 0.32
+
+.13 1.56
+–.15 –1.77
+
+Variable
+Block 1
+Non-verbal IQ
+Total R2
+Block 2
+Prosocial skills
+Social problem solving
+Total R2
+Block 3
+Inhibitory control
+Verbal working memory
+Total R2
+Block 4
+Inhibitory Control × Sex
+Verbal Working
+
+Memory × Sex
+
+Total R2
+*p < .05. **p < .01. ***p < .001.
+
+.40
+
+.18
+
+.28
+
+girls more able than boys to resolve social problems. None
+of the cognitive self-regulation main effects (inhibitory con-
+trol and verbal working memory scores) signiﬁcantly pre-
+dicted social problem solving (β = .14, p = .17 and
+β = .10, p = .22, respectively).
+
+In contrast to our hypothesis, none of the components of
+associated with social
+
+self-regulation was
+
+cognitive
+problem solving.
+
+Longitudinal relationship between inhibitory
+control, verbal working memory, and prosocial
+skills and social integration assessed by peers
+1 year later
+Prosocial skills
+Prosocial skills measured in kindergarten (Time 1) pre-
+dicted prosocial skills in Grade 1 (Time 2, β = .60,
+p < .001), as did inhibitory control assessed in kindergarten
+(β = .21, p < .05) and non-verbal IQ (β = .18, p < .05).
+Scores on the verbal working memory task assessed in kin-
+dergarten were not signiﬁcantly associated with prosocial
+skills measured 1 year later (β = –.04, p = .64). In accord-
+ance with our hypothesis, prosocial skills assessed in kin-
+dergarten contributed more to explaining prosocial skills
+measured 1 year later than inhibitory control.
+
+Peer acceptance
+Non-verbal IQ was the strongest predictor of peer accept-
+ance (β = .28, p < .01)
+skills
+
+followed by prosocial
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+67
+
+assessed in kindergarten (β = .23, p < .05). Scores on the
+inhibitory task assessed in kindergarten were not signiﬁ-
+cantly associated with peer acceptance measured 1 year
+later (β = .14, p = .14).
+
+Peer rejection
+Only the prosocial skills assessed by teachers in kindergarten
+were associated with peer rejection measured in Grade 1 by
+peers (β = –.48, p < .001). Thus, the children considered by
+their teachers as having high interpersonal skills in kindergar-
+ten were less rejected by their peers in Grade 1 unlike those
+judged less favorably by their teachers. In the same way as
+peer acceptance, scores on the inhibitory task assessed in kin-
+dergarten were not signiﬁcantly associated with peer rejection
+measured 1 year later (β = –.10, p = .25).
+
+In contrast to our hypothesis, none of the components of
+cognitive self-regulation was associated with peer accept-
+ance assessed 1 year later.
+
+Sex as a potential moderator of the relationship
+between cognitive self-regulation and social
+functioning
+None of the interactions terms (Sex × Inhibitory Control
+and Sex × Verbal Working Memory) was signiﬁcant
+in
+any of the ﬁve models. These ﬁndings suggest that the rela-
+tionships between inhibitory control and social functioning
+and between working memory and social functioning are
+similar for girls and boys.
+
+Discussion
+
+The current study aimed to examine the relationships
+between two components of cognitive self-regulation and
+social functioning and to test a potential sex moderator
+effect among 131 French children between kindergarten
+and ﬁrst grade.
+
+Concurrent relationships between inhibitory
+control, working memory, and social problem
+solving and prosocial skills
+The ﬁndings of this study indicated that inhibitory control
+was more strongly associated with social functioning than
+verbal working memory. Indeed, inhibitory control contrib-
+uted to explaining both prosocial skills assessed by teachers
+and by peers. These results suggest that the inhibition of a
+predominant response in favor of the requested action as
+
+the more salient
+
+assessed in the HTKS task is more explanatory of prosocial
+skills than levels of verbal and non-verbal intelligence and
+mother’s education. Several studies have shown that inhibi-
+tory control, including motor inhibitory control as in the
+HTKS task, is associated with social skills assessed by tea-
+chers (Dennis et al., 2007; Masten et al., 2012; Rhoades
+et al., 2009) and more so than working memory and ﬂexi-
+bility (Nigg et al., 1999; Razza & Blair, 2009; Riggs et al.,
+2003). Another explanation for
+link
+between inhibitory control and social functioning is related
+to the fact that inhibitory control is involved in both cogni-
+tive and emotional regulation, which is not the case for
+working memory (Eisenberg, Hofer, & Vaughan, 2007;
+Zhou et al., 2012). Emotion self-regulation is strongly
+linked to social functioning (Denham, Bassett, Sirotkin,
+Brown, & Morris, 2015; Di Norcia et al., 2015). However,
+the working memory task also taps inhibitory control.
+Indeed,
+restrain their automatism to
+repeat forward, in order to activate the requested answer: to
+repeat the digits backward. It is most likely that the vari-
+ance attributable to non-executive processes inﬂuenced the
+relationship between the two components of cognitive self-
+regulation and prosocial skills. The most relevant distinc-
+tion is the motor skill for HTKS versus the verbal skill for
+the Backward Digit Span.
+In the study by Rhoades
+et al. (2009), the Pencil Tap task (behavioral inhibitory
+control) was more strongly associated with prosocial skills
+assessed by teachers than the Day/Night task (verbal inhibi-
+tory control). Thus, motor action is probably more helpful
+in acting prosocially (e.g., being non-aggressive, waiting
+one’s turn). We can also suggest that the HTKS task is
+probably more ecologically similar to the social context
+than the Backward Digit Span. The HTKS task requires
+simultaneous gross motor actions, and social and cognitive
+demands (McClelland et al., 2014).
+
+the children must
+
+These ﬁndings show the multidimensional nature of the
+self-regulation construct. The various components of self-
+regulation can have differential effects on the developmen-
+tal aspects of children (Kim et al., 2013).
+
+In contrast, inhibitory control and working memory were
+not associated with social problem solving. This ﬁnding
+goes against the results from previous research. Crick and
+Dodge (1994) indicated that children who are quicker at
+regulating their behaviors will be able to understand others
+and develop skills related to communication in conﬂictual
+situations. In return, they will be perceived as socially com-
+petent by their peers and their teachers. Eisenberg, Fabes,
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+68
+
+Self-regulation and social functioning
+
+Nyman, Bernzweig, and Pinuelas (1994) found that pre-
+schoolers engaging in more constructive methods of social
+conﬂict resolution were better liked by their peers. How-
+ever, in our study, although inhibitory control and working
+memory were associated with social problem solving, it did
+not help to explain it beyond sex and verbal and non-verbal
+IQ. It may be that our assessment of social problem solving
+was not relevant enough to encompass the complexity of
+this construct. According to Yeates, Schultz, and Selman
+(1991), four elements need to be taken into account: deﬁne
+the problem, generate alternative strategies, select and
+implement a speciﬁc strategy, and evaluate the strategy’s
+outcome. However, our assessment is much more compre-
+hensive and reﬂects the ability to solve social problems in
+general.
+
+teachers
+
+are
+
+relationships with their
+
+Longitudinal relationships between cognitive
+self-regulation and social functioning
+Prosocial skills assessed by teachers in kindergarten were
+the best predictor of prosocial skills and peer rejection
+assessed by peers 1 year later and were also associated with
+peer acceptance. Beyond the relatively stable development
+of social functioning, these ﬁndings may reﬂect the tea-
+cher’s inﬂuence on the student’s social reputation. Several
+studies have consistently shown that children who have
+conﬂictual
+less
+accepted by their peers and this disharmonious relationship
+between the student and teacher has an impact beyond the
+student’s aggressive behaviors (J. N. Hughes, Cavell, &
+Willson, 2001; White & Jones, 2000). In other terms, chil-
+dren conform to and adopt the judgments of their teachers
+with regard to their peers (Chang et al., 2007). The tea-
+cher’s inﬂuence on the social integration of the student has
+been called the phenomenon of “the invisible hand”
+(Farmer, McAuliffe Lines, & Hamm, 2011). Recent evi-
+dence suggests a reciprocal effect of this phenomenon. For
+example, De Laet et al. (2014) showed a reciprocal rela-
+tionship between peer relationships and teacher–child con-
+ﬂict in middle childhood. In line with this assumption, a
+growing body of research shows that low cognitive self-
+regulation abilities are associated with a high level of con-
+ﬂictual
+relationships (e.g., Berry, 2012;
+Rudasill & Rimm-Kaufman, 2009; Schmitt, Pentimonti, &
+Justice, 2012).
+
+teacher–student
+
+The fact that, on one hand, inhibitory control predicted
+prosocial skills and, on the other hand, prosocial skills were
+associated with peer acceptance and rejection leads us to
+
+integration. The model
+
+the following hypothesis: We can assume that inhibitory
+control acts on prosocial skills, which in turn act on peer
+acceptance and rejection. So, it is possible that prosocial
+skills mediate the relationship between inhibitory control
+and social integration. Children who are able to regulate
+their behaviors would develop more harmonious interac-
+tions with their peers and would therefore integrate more
+easily into their peer groups. This hypothesis is in accord-
+ance with the framework of Rubin et al. (2006) and Yeates
+in their three-level model, social
+et al. (2007). Indeed,
+problem solving affects the social skills that
+inﬂuence
+social
+is bi-directional, because
+social integration affects social skills that enhance social
+problem solving. Although the ﬁrst level in the model is
+called “social problem solving,” the authors agree that this
+involves cognitive self-regulation. However, to our knowl-
+edge, no empirical study has tested this mediating relation-
+ship between cognitive self-regulation, prosocial skills, and
+social
+integration. The results of Rotenberg, Michalik,
+Eisenberg, and Betts (2008) are a step in this direction.
+They found that
+trustworthiness (promise keeping and
+secret keeping), which is a characteristic that is positively
+related to friendship and peer
+acceptance, partially
+mediated the relationships between inhibitory control and
+adjustment in the classroom among 5-year-old children.
+
+In addition, according to a theoretical model proposed
+by Yeates et al. (2007), the link between inhibitory control
+and prosocial skills could be partly mediated by the mental
+understanding of others, especially the theory of mind.
+Higher cognitive self-regulation predicted higher theory of
+mind (Fahie & Symons, 2003; C. Hughes & Ensor, 2007a;
+Sabbagh, Xu, Carlson, Moses, & Lee, 2006). In the study
+of Carlson, Moses, and Breton (2002), inhibitory control
+predicted more false beliefs (tasks assessing the theory of
+mind) than working memory,
+intelligence, an emotional
+control task, and children’s age. Moreover, theory of mind
+is itself associated with a deﬁcit in social functioning, such
+as externalizing problem behaviors (C. Hughes & Ensor,
+2007b).
+
+Children’s sex as a potential moderator of the
+association between cognitive self-regulation
+and social functioning
+Our results failed to bring out a sex-moderator effect. This
+ﬁnding tends to conﬁrm those studies reporting a similar
+relationship between cognitive self-regulation and social
+functioning in boys and girls (Holmes et al., 2016; Rhoades
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+69
+
+et al., 2009). The current study shows that although girls
+were judged more favorably than boys on prosocial skills
+and social problem solving, the relationships between com-
+ponents of cognitive self-regulation and aspects of social
+functioning were similar across sexes. In addition, our pre-
+vious research indicated that inhibitory scores of girls and
+boys assessed with the HTKS task did not differ signiﬁ-
+cantly in nursery school or early elementary school
+(Gestsdottir et al., 2014; Hubert et al., 2015).
+
+seem to be able to consider all aspects of aggression
+(Rogosch & Newcomb, 1989). They rely on observable
+behavior that is easier to spot (i.e., externalizing behaviors,
+such as aggression, and the observations and judgments of
+teachers; White & Jones, 2000). Relational aggression is
+typically harder to spot than overt aggression; the behaviors
+are subtler. It would also be interesting to investigate
+whether prosocial skills mediate the relationship between
+inhibitory control and social integration.
+
+Limitations and perspectives
+This study adds to the literature on the relationship between
+two components of cognitive self-regulation and social
+functioning using a multi-method approach. This choice
+revealed the views of both peers and teachers about chil-
+dren’s social functioning. However, several limitations must
+be mentioned. First, the number of measures of cognitive
+self-regulation was limited to one task of inhibitory control
+and one task of working memory. Second, the present study
+was not able to take into account
+the shared variances
+either for components of cognitive self-regulation or for
+aspects of social functioning. This was not possible given
+the number of variables and the size of the sample. Finally,
+the current study used a correlational pattern and was not
+able to examine causality. More research is needed to
+understand further the causal relationships between compo-
+nents of cognitive self-regulation and social functioning
+using randomized trials. It would be beneﬁcial if future
+studies could investigate the reciprocal process with at least
+three measurement
+there have been
+many ﬁndings in this vein. On one hand, there is a recipro-
+cal relationship between peer relationships and social skills
+(Hay, Payne, & Chadwick, 2004). On the other hand, par-
+enting plays a crucial role in the development of self-
+regulation (Roskam, Stievenart, Meunier, & Noël, 2014).
+
+time-points. Indeed,
+
+It would also be useful if future studies could distinguish
+relational and overt aggression because the former is more
+characteristic of girls (Crick & Grotpeter, 1995; Crick
+et al., 2006). Crick and Grotpeter (1995) distinguished rela-
+tional aggression (spreading a nasty rumor about a peer),
+also called social aggression (Galen & Underwood, 1997)
+or indirect aggression (Card, Stucky, Sawalani, & Little,
+2008; Vaillancourt, Brendgen, Boivin, & Tremblay, 2003)
+from overt aggression (kicking, verbal insults, etc.). How-
+ever, there is a signiﬁcant overlap between these two types
+of aggression at the preschool age (Crick et al., 1997). Fur-
+thermore, young children in early elementary school do not
+
+self-regulation,
+
+especially inhibitory control
+
+Conclusion
+The current study revealed three major ﬁndings. First,
+inhibitory control was associated concurrently and longi-
+tudinally with prosocial skills assessed by peers using the
+sociometric technique as well as by teachers. Second, the
+prosocial skills assessed by teachers in kindergarten con-
+tributed more to explaining prosocial skills than compo-
+nents of cognitive self-regulation. Finally, sex did not
+moderate the relationships between components of cogni-
+tive
+and
+social functioning. Taken together, these results indicate
+the need to enhance motor inhibitory control and proso-
+cial skills at an early age to help children to develop har-
+monious peer relationships and, more generally, for their
+well-being (Mofﬁtt et al., 2011; Nangle & Erdley, 2001).
+This is a major concern because rejected children are
+considered to be particularly at
+risk of victimization
+(Hodges, Malone, & Perry, 1997; Hodges & Perry, 1999;
+Ladd & Troop-Gordon, 2003; Pellegrini, Bartini, &
+Brooks, 1999). Moreover, peer rejection and victimization
+are associated with a lack of motivation, decline in aca-
+demic achievement, and school avoidance (Graham, Bell-
+more, & Mize, 2006; Kochenderfer & Ladd, 1996;
+Nishina, Juvonen, & Witkow, 2005).
+
+North American researchers have developed a number of
+programs to promote social and emotional skills (see
+Blair & Diamond, 2008). Among these,
+the Promoting
+Alternative Thinking Strategies Program (Domitrovich &
+Greenberg, 2000) is intended for children aged 3–6 years.
+It consists of 30 sessions of lessons and activities designed
+to educate children about literacy and emotion knowledge
+and help them to develop positive relationships with their
+peers. In addition, the program seeks to promote the devel-
+opment of a positive self-concept and self-regulation skills.
+Domitrovich, Cortes, and Greenberg (2007) have shown
+that children who have completed this program have a
+greater understanding of their emotions.
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+70
+
+Self-regulation and social functioning
+
+Disclosure of conﬂict of interest
+
+The authors declare that there are no conﬂicts of interest.
+
+Notes
+
+1All aspects of social functioning have not been measured
+in the same way at Time 1 and Time 2. We were unable to
+led sociometric interview at Time 1. In kindergarten, chil-
+dren came from 16 different classes, of which 12 were mix
+grade level classes. Of these 12, one class included pre-
+schoolers, pre-kindergarteners and kindergarteners, one
+class included preschoolers and kindergarteners, while the
+other 10 classes included pre-kindergarteners and kinder-
+garteners. Finally, there were 4 classes with only kindergar-
+teners. Seventy percent participation is required for the
+results to interpretable, so we need to have all the responses
+of the classmates. It would have been difﬁcult with pre-
+school children to conduct sociometric interviews.
+2Because academic institutions in France do not always
+have ethics committees for psychological research, no for-
+mal ethical review of the procedure was conducted. The
+authors did, however, present their research to their peers
+for comments on their project, the normal practice at the
+Faculty of Psychology, University of Nantes.
+
+References
+
+Acar,
+
+I. H., Rudasill, K. M., Molfese, V., Torquati, J., &
+Prokasky, A. (2015). Temperament and preschool children’s
+peer
+interactions. Early Education and Development, 26,
+479–495. doi:10.1080/10409289.2015.1000718
+
+Aiken, L. S., & West, S. G. (1991). Multiple regression: Testing
+
+and interpreting interactions. Newberry Park, CA: Sage.
+
+Allan, N. P., Hume, L. E., Allan, D. M., Farrington, A. L., &
+Lonigan, C. J. (2014). Relations between inhibitory control and
+the development of academic skills in preschool and kindergar-
+ten: A meta-analysis. Developmental Psychology,
+50,
+2368–2379. doi:10.1037/a0037493
+
+Alloway, T. P., Gathercole, S. E., Kirkwood, H., & Elliott, J.
+(2009). The cognitive and behavioral characteristics of children
+with low working memory. Child Development, 80, 606–621.
+doi:10.1111/j.1467-8624.2009.01282.x
+
+Aronen, E. T., Vuontela, V., Steenari, M.-R., Salmi, J., &
+Carlson, S. (2005). Working memory, psychiatric symptoms,
+and academic performance at school. Neurobiology of Learning
+and Memory, 83, 33–42. doi:10.1016/j.nlm.2004.06.010
+
+Arseneault, L., Bowes, L., & Shakoor, S. (2010). Bullying vic-
+timization in youths and mental health problems: ‘Much ado
+717–729.
+about
+doi:10.1017/S0033291709991383
+
+nothing’? Psychological Medicine,
+
+40,
+
+Asher, S. R., Paquette MacEvoy, J., & McDonald, K. L. (2008).
+Children’s peer relations, social competence, and school adjust-
+ment: A social
+In
+M. L. Maehr, S. Karabenick, & T. Urdan (Eds.), Advances in
+motivation and achievement: Vol. 15. Social psychological
+perspectives (pp. 357–390). Bingley: Emerald.
+
+tasks and social goals perspective.
+
+Baumeister, R. F., & Leary, M. R. (1995). The need to belong:
+Desire for interpersonal attachments as a fundamental human
+motivation. Psychological Bulletin, 117, 497–529. doi:10.1037
+/0033-2909.117.3.497
+
+Bear, G. G., Manning, M. A., & Izard, C. E. (2003). Responsible
+behavior: The importance of social cognition and emotion.
+School Psychology Quarterly, 18, 140–157. doi:10.1521
+/scpq.18.2.140.21857
+
+Berlin, L., & Bohlin, G. (2002). Response inhibition, hyperactiv-
+ity, and conduct problems among preschool children. Journal
+of Clinical Child and Adolescent Psychology, 31, 242–251.
+doi:10.1207/153744202753604511
+
+Berry, D. (2012). Inhibitory control and teacher–child con-
+ﬂict: Reciprocal associations across the elementary-school
+years. Journal of Psychology, 33, 66–76. doi:10.1016
+/j.appdev.2011.10.002
+
+Bindman, S. W., Hindman, A. H., Bowles, R. P., &
+Morrison, F. J. (2013). The contributions of parental manage-
+language to executive function in preschool children.
+ment
+529–539.
+Early Childhood
+doi:10.1016/J.ecresq.2013.03.003
+
+Research Quarterly,
+
+28,
+
+Blair, C. (2002). School readiness: Integrating cognition and emo-
+tion in a neurobiological conceptualization of children’s func-
+tioning at school entry. American Psychologist, 57, 111–127.
+doi:10.1037/0003-066X.57.2.111
+
+Blair, C., & Diamond, A. (2008). Biological processes in preven-
+tion and intervention: The promotion of self-regulation as a
+means of preventing school failure. Development and Psycho-
+pathology, 20, 899–911. doi:10.1017/S0954579408000436
+
+functions
+
+Blair, C., & Ursache, A. (2011). A bidirectional model of execu-
+In K. D. Vohs &
+self-regulation:
+theory, and applications (2nd ed., pp. 300–320).
+
+tive
+R. F. Baumeister
+Research,
+New York, NY: Guilford Press.
+
+(Eds.), Handbook of
+
+and self-regulation.
+
+Boivin, M., & Bégin, G. (1986). Temporal reliability and validity
+of three sociometric status assessments with young children.
+Canadian Journal of Behavioural Science/Revue canadienne
+des sciences du comportement, 18, 167–172. doi:10.1037
+/h0079977
+
+Bossaert, G., Doumen, S., Buyse, E., & Verschueren, K. (2011).
+Predicting children’s academic achievement after the transition
+to ﬁrst grade: A two-year longitudinal study. Journal of Applied
+doi:10.1016
+Developmental
+/j.appdev.2010.12.002
+
+Psychology,
+
+32,
+
+47–57.
+
+Bouchard, M.-E. G., Fitzpatrick, E. M., & Olds, J. (2009). Ana-
+lyse psychométrique d’outils d’évaluation utilisés auprès d’en-
+fants francophones [Psychometric analysis of evaluation tools
+used with French-speaking children]. Canadian Journal of
+Speech-Language Pathology and Audiology/Revue canadienne
+d’orthophonie et d’audiologie, 33, 129–139.
+
+Brendgen, M., Vitaro, F., Bukowski, W. M., Doyle, A. B., &
+Markiewicz, D. (2001). Developmental proﬁles of peer social
+preference over the course of elementary school: Associations
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+71
+
+with trajectories of externalizing and internalizing behavior.
+doi:10.1037
+Developmental
+/0012-1649.37.3.308
+
+Psychology,
+
+308–320.
+
+37,
+
+Bronson, M. B., Goodson, B. D., Layzer, J. I., & Love, J. M.
+(1990). Child Behavior Rating Scale. Cambridge, MA: Abt
+Associates.
+
+Bukowski, W. M., & Hoza, B. (1989). Popularity and friendship:
+Issues in theory, measurement, and outcome. In T. J. Berndt &
+G. W. Ladd (Eds.), Peer relationships in child development
+(pp. 15–45). Oxford, UK: Wiley & Sons.
+
+Burrage, M. S., Ponitz, C. C., McCready, E. A., Shah, P.,
+Sims, B. C., Jewkes, A. M., & Morrison, F. J. (2008). Age-
+and schooling-related effects on executive functions in young
+children: A natural experiment. Child Neuropsychology, 14,
+510–524. doi:10.1080/09297040701756917
+
+Cameron, C. E., Brock, L. L., Murrah, W. M., Bell, L. H.,
+Worzalla, S. L., Grissmer, D., & Morrison, F. J. (2012). Fine
+motor skills and executive function both contribute to kinder-
+garten achievement. Child Development, 83, 1229–1244.
+doi:10.1111/j.1467-8624.2012.01768.x
+
+Cameron Ponitz, C. E., McClelland, M. M., Jewkes, A. M.,
+Connor, C. M., Farris, C. L., & Morrison, F. J. (2008). Touch
+your toes! Developing a direct measure of behavioral regulation
+in early childhood. Early Childhood Research Quarterly, 23,
+141–158. doi:10.1016/j.ecresq.2007.01.004
+
+Campbell, S. B. (1990). Behavior problems in preschool children:
+Clinical and developmental issues. New York, NY: Guilford
+Press.
+
+Card, N. A., Stucky, B. D., Sawalani, G. M., & Little, T. D. (2008).
+Direct and indirect aggression during childhood and adolescence:
+A meta-analytic review of gender differences, intercorrelations,
+and relations
+to maladjustment. Child Development, 79,
+1185–1229. doi:10.1111/j.1467-8624.2008.01184.x
+
+Carlson, S. M. (2003). Executive function in context: Develop-
+ment, measurement, theory, and experience. Monographs of the
+Society for Research in Child Development, 68, 138–151.
+doi:10.1111/j.1540-5834.2003.06803012.x
+
+Carlson, S. M., Moses, L. J., & Breton, C. (2002). How speciﬁc
+is the relation between executive function and theory of mind?
+Contributions of inhibitory control and working memory. Infant
+and Child Development, 11, 73–92. doi:10.1002/icd.298
+
+Caughy, M. O., Mills, B., Owen, M. T., & Hurst, J. R. (2013).
+Emergent self-regulation skills among very young ethnic
+minority children: A conﬁrmatory factor model. Journal of
+Experimental Child Psychology, 116, 839–855. doi:10.1016
+/j.jecp.2013.07.017
+
+Chang, L., Liu, H., Fung, K. Y., Wang, Y., Wen, Z., Li, H., &
+Farver, J. M. (2007). The mediating and moderating effects of
+teacher preference on the relations between students’ social
+behaviors and peer acceptance. Merrill-Palmer Quarterly, 53,
+603–630. doi:10.1353/mpq.2008.0006
+
+Cillessen, A. H. N. (2009). Sociometric methods. In K. H. Rubin,
+W. M. Bukowski, & B. Laursen (Eds.), Handbook of peer
+interactions, relationships, and groups (pp. 82–99). New York,
+NY: Guilford Press.
+
+Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimen-
+sions and types of social status: A cross-age perspective.
+Developmental Psychology,
+doi:10.1037
+/0012-1649.18.4.557
+
+557–570.
+
+18,
+
+Crick, N. R., Casas, J. F., & Mosher, M. (1997). Relational and
+overt aggression in preschool. Developmental Psychology, 33,
+579–587. doi:10.1037/0012-1649.33.4.579
+
+Crick, N. R., & Dodge, K. A. (1994). A review and reformulation
+information-processing mechanisms in children’s
+adjustment. Psychological Bulletin, 115, 74–101.
+
+of social
+social
+doi:10.1037/0033-2909.115.1.74
+
+Crick, N. R., & Grotpeter, J. K. (1995). Relational aggression,
+gender, and social-psychological adjustment. Child Develop-
+ment, 66, 710–722. doi:10.1111/j.1467-8624.1995.tb00900.x
+
+Crick, N. R., Ostrov, J. M., Burr, J. E., Cullerton-Sen, C., Jansen-
+Yeh, E., & Ralston, P. (2006). A longitudinal study of rela-
+tional and physical aggression in preschool. Journal of Applied
+doi:10.1016
+Developmental
+/j.appdev.2006.02.006
+
+Psychology,
+
+254–268.
+
+27,
+
+De Laet, S., Doumen, S., Vervoort, E., Colpin, H., Van
+Leeuwen, K., Goossens, L., & Verschueren, K. (2014). Trans-
+actional links between teacher–child relationship quality and
+perceived versus sociometric popularity: A three-wave longitu-
+dinal study. Child Development, 85, 1647–1662. doi:10.1111
+/cdev.12216
+
+Denham, S. A., Bassett, H. H., Sirotkin, Y. S., Brown, C., &
+Morris, C. S. (2015). “No-o-o-o Peeking”: Preschoolers’ execu-
+tive control, social competence, and classroom adjustment.
+Journal of Research in Childhood Education, 29, 212–225.
+doi:10.1080/02568543.2015.1008659
+
+Denham, S. A., Warren-Khot, H. K., Bassett, H. H., Wyatt, T., &
+Perna, A. (2012). Factor structure of self-regulation in pre-
+schoolers: Testing models of a ﬁeld-based assessment for pre-
+dicting early school readiness. Journal of Experimental Child
+Psychology, 111, 386–404. doi:10.1016/J.jecp.2011.10.002
+
+Dennis, T. A., Brotman, L. M., Huang, K.-Y., & Gouley, K. K.
+(2007). Effortful control, social competence, and adjustment
+problems in children at risk for psychopathology. Journal of
+Clinical Child and Adolescent Psychology, 36, 442–454.
+doi:10.1080/15374410701448513
+
+Diamantopoulou, S., Rydell, A.-M., Thorell, L. B., &
+Bohlin, G. (2007). Impact of executive functioning and
+symptoms of attention deﬁcit hyperactivity disorder on
+children’s peer relations and school performance. Devel-
+opmental Neuropsychology, 32, 521–542. doi:10.1080/
+87565640701360981
+
+Diamond, A. (2013). Executive functions. Annual Review of Psy-
+chology, 64, 135–168. doi:10.1146/annurev-psych-113011-143750
+Di Norcia, A., Pecora, G., Bombi, A. S., Baumgartner, E., &
+Laghi, F. (2015). Hot and cool inhibitory control in Italian tod-
+dlers: Associations with social competence and behavioral pro-
+blems. Journal of Child and Family Studies, 24, 909–914.
+doi:10.1007/s10826-014-9901-z
+
+Domitrovich, C. E., Cortes, R. C., & Greenberg, M. T. (2007).
+Improving young children’s social and emotional competence:
+A randomized trial of the preschool “PATHS” curriculum.
+Journal of Primary Prevention, 28, 67–91. doi:10.1007
+/s10935-007-0081-0
+
+Domitrovich, C. E., & Greenberg, M. T. (2000). The study of
+implementation: Current ﬁndings from effective programs that
+prevent mental disorders in school-aged children. Journal of
+Educational and Psychological Consultation, 11, 193–221.
+doi:10.1207/S1532768XJEPC1102_04
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+72
+
+Self-regulation and social functioning
+
+Dunn, M., & Dunn, L. M. (1981). Peabody Picture Vocabulary
+Test-Revised: PPVT-R. Circle Pines, MN: American Guidance
+Service.
+
+Dunn, M., Thériault-Whalen, C. M., & Dunn, L. M. (1993).
+Echelle de vocabulaire en images Peabody: Adaptation fran-
+çaise du Peabody Picture Vocabulary Test [Scale of vocabulary
+in Peabody pictures: French adaptation of Peabody Picture
+Vocabulary Test]. Toronto, Canada: Psycan.
+
+Eisenberg, N., Fabes, R. A., Nyman, M., Bernzweig, J., &
+Pinuelas, A. (1994). The relations of emotionality and regula-
+tion to children’s anger-related reactions. Child Development,
+65, 109–128. doi:10.1111/j.1467-8624.1994.tb00738.x
+
+Eisenberg, N., Fabes, R. A., & Spinrad, T. L. (2006). Prosocial
+development. In W. Damon, R. M. Lerner, & N. Eisenberg
+(Eds.), Handbook of child psychology: Vol. 3. Social, emo-
+tional, and personality development (6th ed., pp. 646–718).
+New York, NY: John Wiley.
+
+Eisenberg, N., Hofer, C., & Vaughan, J. (2007). Effortful control
+and its socioemotional consequences. In J. J. Gross (Ed.),
+Handbook of emotion regulation (pp. 287–306). New York,
+NY: Guilford Press.
+
+Elliott, S. N., & Gresham, F. M. (1987). Children’s social skills:
+Assessment and classiﬁcation practices. Journal of Counseling
+and Development,
+doi:10.1002/j.1556-6676
+.1987.tb00808.x
+
+96–99.
+
+66,
+
+Fahie, C. M., & Symons, D. K. (2003). Executive functioning and
+theory of mind in children clinically referred for attention and
+behavior problems. Journal of Applied Developmental Psychol-
+ogy, 24, 51–73. doi:10.1016/S0193-3973(03)00024-8
+
+Farmer, T. W., McAuliffe Lines, M., & Hamm, J. V. (2011).
+Revealing the invisible hand: The role of teachers in children’s
+peer experiences. Journal of Applied Developmental Psychol-
+ogy, 32, 247–256. doi:10.1016/j.appdev.2011.04.006
+
+Fink, E., Begeer, S., Hunt, C., & de Rosnay, M. (2014). False-
+belief understanding and social preference over the ﬁrst 2 years
+of school: A longitudinal study. Child Development, 85,
+2389–2403. doi:10.1111/cdev.12302
+
+Fuhs, M. W., & McNeil, N. M. (2013). ANS acuity and mathe-
+matics ability in preschoolers from low-income homes: Contri-
+butions of
+inhibitory control. Developmental Science, 16,
+136–148. doi:10.1111/desc.12013
+
+Galen, B. R., & Underwood, M. K. (1997). A developmental
+investigation of social aggression among children. Develop-
+mental Psychology, 33, 589–600. doi:10.1037/0012-1649
+.33.4.589
+
+Gallagher, C. K., & Sylvester, P. R. (2009). Supporting peer rela-
+tionships in early education. In O. A. Barbarin & B. H. Wasik
+(Eds.), Handbook of child development and early education:
+Research to practice (pp. 223–246). New York, NY: Guilford
+Press.
+
+Garon, N., Bryson, S. E., & Smith, I. M. (2008). Executive func-
+tion in preschoolers: A review using an integrative framework.
+doi:10.1037
+Psychological
+/0033-2909.134.1.31
+
+Bulletin,
+
+31–60.
+
+134,
+
+Gathercole, S. E., Pickering, S. J., Ambridge, B., & Wearing, H.
+(2004). The structure of working memory from 4 to 15 years
+of age. Developmental Psychology, 40, 177–190. doi:10.1037
+/0012-1649.40.2.177
+
+Gestsdottir, S., von Suchodoletz, A., Wanless, S. B., Hubert, B.,
+Guimard, P., Birgisdottir, F., … McClelland, M. (2014). Early
+
+behavioral self-regulation, academic achievement, and gender:
+Longitudinal ﬁndings from France, Germany, and Iceland.
+Applied Developmental Science, 18, 90–109. doi:10.1080
+/10888691.2014.894870
+
+Graham, S., Bellmore, A. D., & Mize, J. (2006). Peer victimiza-
+tion, aggression, and their co-occurrence in middle school:
+Pathways to adjustment problems. Journal of Abnormal Child
+Psychology, 34, 349–364. doi:10.1007/s10802-006-9030-2
+
+Gresham, F. M. (2001). Assessment of social skills in children
+and adolescents. In J. J. W. Andrews, D. H. Saklofske, &
+H. L. Janzen (Eds.), Handbook of psychoeducational assess-
+ment: Ability,
+children
+(pp. 325–355). San Diego, CA: Academic Press. doi:10.1016
+/B978-012058570-0/50013-6
+
+achievement,
+
+behavior
+
+and
+
+in
+
+Hay, D. F., Castle,
+
+J., Davies, L., Demetriou, H., &
+Stimson, C. A. (1999). Prosocial action in very early childhood.
+Journal of Child Psychology and Psychiatry, 40, 905–916.
+doi:10.1111/1469-7610.00508
+
+Hay, D. F., Payne, A., & Chadwick, A. (2004). Peer relations in
+childhood. Journal of Child Psychology and Psychiatry, 45,
+84–108. doi:10.1046/j.0021-9630.2003.00308.x
+
+Hodges, E. V. E., Malone, M. J., & Perry, D. G. (1997). Individ-
+ual risk and social risk as interacting determinants of victimiza-
+tion in the peer group. Developmental Psychology, 33,
+1032–1039. doi:10.1037/0012-1649.33.6.1032
+
+Hodges, E. V. E., & Perry, D. G. (1999). Personal and interper-
+sonal antecedents and consequences of victimization by peers.
+Journal of Personality and Social Psychology, 76, 677–685.
+doi:10.1037/0022-3514.76.4.677
+
+Holmes, C. J., Kim-Spoon, J., & Deater-Deckard, K. (2016).
+Linking executive function and peer problems from early child-
+hood through middle adolescence. Journal of Abnormal Child
+Psychology, 44, 31–42. doi:10.1007/s10802-015-0044-5
+
+Hubert, B., Guimard, P., Florin, A., & Tracy, A. (2015). Indirect
+and direct relationships between self-regulation and academic
+achievement during the nursery/elementary school transition of
+French students. Early Education and Development, 26,
+685–707. doi:10.1080/10409289.2015.1037624
+
+Hughes, C., Dunn, J., & White, A. (1998). Trick or treat?: Uneven
+understanding of mind and emotion and executive dysfunction
+in “hard-to-manage” preschoolers. Journal of Child Psychology
+and Psychiatry, 39, 981–994. doi:10.1111/1469-7610.00401
+
+Hughes, C., & Ensor, R. (2007a). Executive function and theory
+of mind: Predictive relations from ages 2 to 4. Developmental
+Psychology, 43, 1447–1459. doi:10.1037/0012-1649.43.6.1447
+Hughes, C., & Ensor, R. (2007b). Positive and protective: Effects
+of early theory of mind on problem behaviors in at-risk pre-
+schoolers. Journal of Child Psychology and Psychiatry, 48,
+1025–1032. doi:10.1111/j.1469-7610.2007.01806.x
+
+(2011).
+
+Hughes, C., & Ensor, R.
+
+Individual differences in
+growth in executive function across the transition to school
+predict externalizing and internalizing behaviors and self-
+perceived academic success at 6 years of age. Journal of
+Experimental Child Psychology, 108, 663–676. doi:10.1016
+/j.jecp.2010.06.005
+
+Hughes, C., White, A., Sharpen, J., & Dunn, J. (2000). Antisocial,
+angry, and unsympathetic: “Hard-to-manage” preschoolers’
+peer problems and possible cognitive inﬂuences. Journal of
+Child Psychology and Psychiatry, 41, 169–179. doi:10.1111
+/1469-7610.00558
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+73
+
+Hughes, J. N., Cavell, T. A., & Willson, V. (2001). Further sup-
+port for the developmental signiﬁcance of the quality of the
+teacher–student relationship. Journal of School Psychology, 39,
+289–302. doi:10.1016/S0022-4405(01)00074-7
+
+acceptance
+
+and rejection in childhood.
+
+Hymel, S., Vaillancourt, T., McDougall, P., & Renshaw, P. D.
+(2002). Peer
+In
+P. K. Smith & G. H. Hart (Eds.), Blackwell handbook of child-
+hood social development (pp. 265–284). Oxford, UK: Blackwell.
+Jiang, X. L., & Cillessen, A. H. (2005). Stability of continuous
+measures of sociometric status: A meta-analysis. Developmen-
+tal Review, 25, 1–25. doi:10.1016/j.dr.2004.08.008
+
+Kim, S., Nordling,
+
+Jones, L. B., Rothbart, M. K., & Posner, M. I. (2003). Develop-
+ment of executive attention in preschool children. Developmen-
+tal Science, 6, 498–504. doi:10.1111/1467-7687.00307
+J. E., Boldt, L.
+
+J., &
+Kochanska, G. (2013). Effortful control in “hot” and “cool”
+tasks differentially predicts children’s behavior problems and
+academic performance. Journal of Abnormal Child Psychology,
+41, 43–56. doi:10.1007/s10802-012-9661-4
+
+J. K., Yoon,
+
+Kochanska, G., Coy, K. C., & Murray, K. T. (2001). The develop-
+ment of self-regulation in the ﬁrst four years of life. Child
+Development, 72, 109–111. doi:10.1111/1467-8624.00336
+
+Kochenderfer, B. J., & Ladd, G. W. (1996). Peer victimization:
+Cause or consequence of school maladjustment? Child Devel-
+opment,
+doi:10.1111/j.1467-8624.1996
+.tb01797.x
+
+1305–1317.
+
+67,
+
+Ladd, G. W., & Proﬁlet, S. M. (1996). The Child Behavior Scale:
+A teacher-report measure of young children’s aggressive, with-
+drawn, and prosocial behaviors. Developmental Psychology, 32,
+1008–1024. doi:10.1037/0012-1649.32.6.1008
+
+Ladd, G. W., & Troop-Gordon, W. (2003). The role of chronic
+peer difﬁculties in the development of children’s psychological
+adjustment problems. Child Development, 74, 1344–1367.
+doi:10.1111/1467-8624.00611
+
+Lan, X., Legare, C. H., Ponitz, C. C., Li, S., & Morrison, F. J.
+(2011). Investigating the links between the subcomponents of
+executive function and academic achievement: A cross-cultural
+analysis of Chinese and American preschoolers. Journal of
+Experimental Child Psychology, 108, 677–692. doi:10.1016
+/j.jecp.2010.11.001
+
+Lapointe, P., Noêl, J.-M., & Strayer, F. F. (1993). La réputation
+sociale de l’enfant en milieu scolaire. Canadian Journal of
+Behavioural Science/Revue canadienne des sciences du com-
+portement, 25, 522–540. doi:10.1037/h0078880
+
+Lemerise, E. A., & Arsenio, W. F. (2000). An integrated model
+of emotion processes and cognition in social information pro-
+cessing. Child Development, 71, 107–118. doi:10.1111
+/1467-8624.00124
+
+Masten, A. S., Herbers, J. E., Desjardins, C. D., Cutuli, J. J.,
+McCormick, C. M., Sapienza, J. K., … Zelazo, P. D. (2012).
+Executive function skills and school success in young children
+experiencing
+41,
+375–384. doi:10.3102/0013189X12459883
+
+homelessness. Educational Researcher,
+
+Matthews, J. S., Ponitz, C. C., & Morrison, F. J. (2009). Early
+gender differences in self-regulation and academic achieve-
+ment. Journal of Educational Psychology, 101, 689–704.
+doi:10.1037/a0014240
+
+McClelland, M. M., Cameron, C. E., Connor, C. M., Farris, C. L.,
+Jewkes, A. M., & Morrison, F. J. (2007). Links between
+
+behavioral regulation and preschoolers’ literacy, vocabulary,
+and math skills. Developmental Psychology, 43, 947–959.
+doi:10.1037/0012-1649.43.4.947
+
+McClelland, M. M., Cameron, C. E., Duncan, R., Bowles, R. P.,
+Acock, A. C., Miao, A., & Pratt, M. E. (2014). Predictors of
+early growth in academic achievement: The head-toes-knees-
+shoulders task. Frontiers in Psychology, 5, 599. doi:10.3389
+/fpsyg.2014.00599
+
+McClelland, M. M., Cameron Ponitz, C., Messersmith, E. E., &
+Tominey, S. (2010). Self-regulation: The integration of cogni-
+tion and emotion. In R. M. Lerner & W. F. Overton (Eds.),
+Handbook of life-span human development: Vol. 1. Cognition,
+biology, and methods (pp. 509–553). Hoboken, NJ: Wiley
+and Sons.
+
+(pp.
+
+McClelland, M. M., & Scalzo, S. (2006). Social skills deﬁcits. In
+M. Hersen (Ed.), Clinician’s handbook of child behavioral
+313–335). San Diego, CA: Elsevier.
+assessment
+doi:10.1016/B978-012343014-4/50014-9
+
+Merrell, K. W. (2001). Assessment of children’s social skills:
+Recent developments, best practices, and new directions.
+Exceptionality, 9, 3–18. doi:10.1080/09362835.2001.9666988
+
+Mofﬁtt, T. E., Arseneault, L., Belsky, D., Dickson, N.,
+Hancox, R. J., Harrington, H., … Caspi, A. (2011). A gradient
+of childhood self-control predicts health, wealth, and public
+safety. Proceedings of the National Academy of Sciences of the
+United States of America, 108, 2693–2698. doi:10.1073
+/pnas.1010076108
+
+Mostow, A. J., Izard, C. E., Fine, S., & Trentacosta, C. J. (2002).
+Modeling emotional, cognitive, and behavioral predictors of
+1775–1787.
+peer
+doi:10.1111/1467-8624.00505
+
+acceptance. Child Development,
+
+Nangle, D. W., & Erdley, C. A. (2001). Editor’s notes. New Direc-
+for Child and Adolescent Development, 91, 1–4.
+
+73,
+
+tions
+doi:10.1002/cd.2
+
+Nigg, J. T., Quamma, J. P., Greenberg, M. T., & Kusche, C. A.
+(1999). A two-year longitudinal study of neuropsychological
+and cognitive performance in relation to behavioral problems
+and competencies in elementary school children. Journal of
+Abnormal Child Psychology,
+doi:10.1023
+/A:1022614407893
+
+51–63.
+
+27,
+
+Nishina, A., Juvonen, J., & Witkow, M. R. (2005). Sticks and
+stones may break my bones, but names will make me feel sick:
+The psychosocial, somatic, and scholastic consequences of peer
+harassment. Journal of Clinical Child and Adolescent Psychol-
+ogy, 34, 37–48. doi:10.1207/s15374424jccp3401_4
+
+Olson, S. L., & Lifgren, K. (1998). Concurrent and longitudi-
+nal correlates of preschool peer sociometrics: Comparing
+rating scale and nomination measures. Journal of Applied
+doi:10.1016
+Developmental
+/0193-3973(88)90009-3
+
+Psychology,
+
+409–420.
+
+9,
+
+Olson, S. L., Lopez-Duran, N., Lunkenheimer, E. S.,
+Chang, H., & Sameroff, A. J. (2011). Individual differences in
+the development of early peer aggression: Integrating contribu-
+tions of self-regulation, theory of mind, and parenting. Devel-
+opment and Psychopathology, 23, 253–266. doi:10.1017
+/S0954579410000775
+
+Ostrov, J. M. (2010). Prospective associations between peer vic-
+timization and aggression. Child Development, 81, 1670–1677.
+doi:10.1111/j.1467-8624.2010.01501.x
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+74
+
+Self-regulation and social functioning
+
+Paulus, M., & Moore, C. (2012). Producing and understanding
+prosocial actions in early childhood. Advances in Child Devel-
+doi:10.1016
+opment
+/B978-0-12-394388-0.00008-3
+
+271–305.
+
+Behavior,
+
+and
+
+42,
+
+Pellegrini, A. D., Bartini, M., & Brooks, F. (1999). School bul-
+lies, victims, and aggressive victims: Factors relating to group
+afﬁliation and victimization in early adolescence. Journal of
+doi:10.1037
+Educational
+/0022-0663.91.2.216
+
+Psychology,
+
+216–224.
+
+Pepler, D. J., & Craig, W. M. (1998). Assessing children’s peer
+relationships. Child Psychology and Psychiatry Review, 3,
+176–182.
+
+91,
+
+Perren, S., & Alsaker, F. D. (2006). Social behavior and peer rela-
+tionships of victims, bully-victims, and bullies in kindergarten.
+Journal of Child Psychology and Psychiatry, 47, 45–57.
+doi:10.1111/j.1469-7610.2005.01445.x
+
+Ponitz, C. C., McClelland, M. M., Matthews,
+
+J. S., &
+Morrison, F. J. (2009). A structured observation of behavioral
+self-regulation and its contribution to kindergarten outcomes.
+doi:10.1037
+Developmental
+/a0015365
+
+Psychology,
+
+605–619.
+
+45,
+
+trustworthiness, inhibitory control, and preschool adjustment.
+288–298.
+Early Childhood
+doi:10.1016/j.ecresq.2007.04.003
+
+Research Quarterly,
+
+23,
+
+Rubin, K. H., Bukowski, W., & Parker, J. (2006). Peer interactions,
+relationships, and groups. In W. Damon, R. M. Lerner, &
+N. Eisenberg (Eds.), Handbook of child psychology: Vol. 3.
+(6th ed.,
+Social, emotional, and personality development
+pp. 571–645). New York, NY: John Wiley.
+
+Rudasill, K. M., & Rimm-Kaufman, S. E. (2009). Teacher–child
+relationship quality: The roles of child temperament and
+teacher–child interactions. Early Childhood Research Quar-
+terly, 24, 107–120. doi:10.1016/j.ecresq.2008.12.003
+
+Sabbagh, M. A., Xu, F., Carlson, S. M., Moses, L. J., & Lee, K.
+(2006). The development of executive functioning and theory
+of mind: A comparison of Chinese and U.S. preschoolers.
+Psychological Science, 17, 74–81. doi:10.1111/j.1467-9280.
+2005.01667.x
+
+Sanson, A., Hemphill, S. A., & Smart, D. (2004). Connections
+between temperament and social development: A review.
+doi:10.1046
+Social
+/j.1467-9507.2004.00261.x
+
+Development,
+
+142–170.
+
+13,
+
+Raaijmakers, M. A.
+
+J., Smidts, D. P., Sergeant,
+
+J. A.,
+Maassen, G. H., Posthumus, J. A., van Engeland, H., &
+Matthys, W. (2008). Executive functions in preschool children
+with aggressive behavior: Impairments in inhibitory control.
+Journal of Abnormal Child Psychology, 36, 1097–1107.
+doi:10.1007/s10802-008-9235-7
+
+Raven, J. C. (1998). PM 47 [Color Progressive Matrices]. Paris,
+
+France: Edition du Centre de Psychologie Appliquée.
+
+Razza, R. A., & Blair, C. (2009). Associations among false-belief
+understanding, executive function, and social competence: A
+longitudinal analysis. Journal of Applied Developmental Psy-
+chology, 30, 332–343. doi:10.1016/j.appdev.2008.12.020
+
+Rhoades, B. L., Greenberg, M. T., & Domitrovich, C. E. (2009).
+The contribution of inhibitory control to preschoolers’ social–
+emotional competence. Journal of Applied Developmental Psy-
+chology, 30, 310–320. doi:10.1016/j.appdev.2008.12.012
+
+Riggs, N. R., Blair, C. B., & Greenberg, M. T. (2003). Concurrent
+and 2-year longitudinal relations between executive function
+and the behavior of 1st and 2nd grade children. Child Neuro-
+psychology, 9, 267–276. doi:10.1076/chin.9.4.267.23513
+
+Rogosch, F. A., & Newcomb, A. F. (1989). Children’s perceptions
+of peer reputations and their social reputations among peers.
+Child Development, 60, 597–610. doi:10.2307/1130726
+
+Rose, A. J., & Smith, R. L. (2009). Sex differences in peer rela-
+tionships. In K. H. Rubin, W. M. Bukowski, & B. Laursen
+(Eds.), Handbook of peer interactions, relationships, and
+groups (pp. 379–393). New York, NY: Guilford Press.
+
+Rose-Krasnor, L., & Denham, S. (2009). Socio-emotional compe-
+tence in early childhood. In K. H. Rubin, W. Bukowski, &
+B. Laursen (Eds.), Handbook of peer interactions, relation-
+ships, and groups (pp. 162–179). New York, NY: Guilford
+Press.
+
+Roskam, I., Stievenart, M., Meunier, J.-C., & Noël, M.-P. (2014).
+The development of children’s inhibition: Does parenting mat-
+ter? Journal of Experimental Psychology, 122, 166–182.
+doi:10.1016/j.jecp.2014.01.003
+
+Rotenberg, K. J., Michalik, N., Eisenberg, N., & Betts, L. R.
+(2008). The relations among young children’s peer-reported
+
+Schmitt, M. B., Pentimonti, J. M., & Justice, L. M. (2012).
+Teacher–child relationships, behavior regulation, and language
+gain among at-risk preschoolers. Journal of School Psychology,
+50, 681–699. doi:10.1016/j.jsp.2012.04.003
+
+Smith, M. (2001). Social and emotional competencies: Contribu-
+tions to young African-American children’s peer acceptance.
+Early Education and Development, 12, 49–72. doi:10.1207
+/s15566935eed1201_4
+
+Stenseng, F., Belsky, J., Skalicka, V., & Wichstrøm, L. (2014).
+Preschool social exclusion, aggression, and cooperation: A lon-
+gitudinal evaluation of
+the need-to-belong and the social-
+reconnection hypotheses. Personality and Social Psychology
+Bulletin, 40, 1637–1647. doi:10.1177/0146167214554591
+
+Ursache, A., Blair, C., & Raver, C. C. (2012). The promotion of
+self-regulation as a means of enhancing school readiness and
+early achievement in children at risk for school failure. Child
+doi:10.1111
+Development
+/j.1750-8606.2011.00209.x
+
+Perspectives,
+
+122–128.
+
+6,
+
+Vaillancourt, T., Brendgen, M., Boivin, M., & Tremblay, R. E.
+(2003). A longitudinal conﬁrmatory factor analysis of indirect
+and physical aggression: Evidence of two factors over time?
+doi:10.1046
+Child
+/j.1467-8624.2003.00628.x
+
+1628–1638.
+
+Development,
+
+74,
+
+von Suchodoletz, A., & Gunzenhauser, C. (2013). Behavior regu-
+lation and early math and vocabulary knowledge in German
+preschool children. Early Education and Development, 24,
+310–331. doi:10.1080/10409289.2012.693428
+
+Wechsler, D. (2005). Echelle d’intelligence de Wechsler pour
+enfants: WISC-IV [Wechsler Intelligence Scale for Children]
+(4th ed.). Paris, France: ECPA, les Editions du Centre de Psy-
+chologie Appliquée.
+
+White, K. J., & Jones, K. (2000). Effects of teacher feedback on
+the reputations and peer perceptions of children with behavior
+problems. Journal of Experimental Child Psychology, 76,
+302–326. doi:10.1006/jecp.1999.2552
+
+Willoughby, M. T., Blair, C. B., Wirth, R. J., & Greenberg, M.
+(2012). The measurement of executive function at age 5: Psy-
+chometric properties and relationship to academic achievement.
+Psychological Assessment, 24, 226–239. doi:10.1037/a0025361
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+PsyCh Journal
+
+75
+
+Yeates, K. O., Bigler, E. D., Dennis, M., Gerhardt, C. A.,
+Rubin, K. H., Stancin, T., … Vannatta, K. (2007). Social out-
+comes in childhood brain disorder: A heuristic integration of
+social neuroscience and developmental psychology. Psychological
+Bulletin, 133, 535–556. doi:10.1037/0033-2909.133.3.535
+
+Yeates, K. O., Schultz, L. H., & Selman, R. L. (1991). The devel-
+opment of interpersonal negotiation strategies in thought and
+
+action: A social-cognitive link to behavioral adjustment and
+social status. Merrill-Palmer Quarterly, 37, 369–405.
+
+Zhou, Q., Chen, S. H., & Main, A. (2012). Commonalities and
+differences in the research on children’s effortful control and
+executive function: A call for an integrated model of self-regu-
+112–121.
+lation. Child Development Perspectives,
+doi:10.1111/j.1750-8606.2011.00176.x
+
+6,
+
+© 2017 The Institute of Psychology, Chinese Academy of Sciences and John Wiley & Sons Australia, Ltd
+
+

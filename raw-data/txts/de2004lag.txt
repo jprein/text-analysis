@@ -1,0 +1,1607 @@
+197
+
+British Journal of Developmental Psychology (2004), 22, 197–218
+2004 The British Psychological Society
+
+www.bps.org.uk
+
+A lag between understanding false belief and
+emotion attribution in young children:
+Relationships with linguistic ability and mothers’
+mental-state language
+
+Marc de Rosnay1*, Francisco Pons1, Paul L. Harris1 and
+Julian M. B. Morrell2
+1 Department of Experimental Psychology, University of Oxford, UK
+2 University Section of Child & Adolescent Psychiatry, Park Hospital for Children,
+
+University of Oxford, UK
+
+This study examines the contribution of children’s linguistic ability and mothers’ use of
+mental-state language to young children’s understanding of
+false belief and their
+subsequent ability to make belief-based emotion attributions. In Experiment 1, children
+(N = 51) were given three belief-based emotion-attribution tasks. A standard task in
+which the protagonist was a story character and the emotional outcomes were
+imagined, and two videos in which the story protagonist was a real
+infant and the
+emotional outcomes were observable (high and low expressed emotion conditions).
+Children’s verbal ability (semantic competence) was also measured. In Experiment 2,
+children (N = 75) were given two belief-based emotion tasks: the standard story task
+and the high expressed emotion video. In addition, children’s verbal ability (syntactic
+competence) and mothers’ use of mental-state attributes when describing their
+children were also measured. The results showed that:
+(1) the lag between
+understanding false belief and emotion attribution was a stable feature of children’s
+reasoning across the three tests; and (2) children who were more linguistically
+advanced and whose mothers’ described them in more mentalistic terms were more
+likely to understand the association between false belief and emotion. The findings
+underline the continuing importance of verbal ability and linguistic input for children’s
+developing theory-of-mind understanding, even after they display an understanding of
+false belief.
+
+Betw e en three
+and se ven years of age, c hildren undergo a transitio n in their
+understan ding of emo tion. Where as younge r children (3- to 4-year-olds) can make
+
+* Correspondence should be addressed to Dr Marc de Rosnay, Centre for Family Research, Faculty of Social and Political
+Sciences, Free School Lane, Cambridge CB2 3RF, UK (e-mail: md364@cam.ac.uk).
+
+198 Marc de Rosnay et al.
+
+accurate emo tion attributions based o n de sires, the y consiste ntly fail to inco rporate
+re le vant beliefs in their attributio ns. Consequently, w he n a protagonist’s emo tional
+re action depe nds on the re lationship betw een his or her de sire and a falsely he ld belief,
+these yo unger children w ill make an incorre ct e motio n attribution. By contrast, older
+children (6- to 7-ye ar-o lds) are able to app reciate the ro le o f be lief w he n making
+emotio n attributions (Harris, Jo hnson, Hutto n, Andrew s, & Coo ke, 1989). Arguably,
+yo unger c hildren’s erro rs are merely a direc t re sult o f the ir failure to understand beliefs
+pe r se (Perner, 1991). How ever, the plausible assumption that the c orre ct appraisal o f
+belief auto matically and immediate ly e ntails an appro priate emo tion attributio n is no t
+necessarily co rre c t. Inde ed, the re are various indications that children acquire an
+understanding o f belief before the y use that understanding to make appro priate
+emotio n attributio ns (Bartsc h & Wellman, 1995; Bradmetz & Schneider, 1999; Hadw in
+& Pe rner, 1991). The
+ability
+(Ex perime nts 1 and 2) and mo thers’ mental-state language (Ex pe riment 2) influence
+children’s ability to make links betw een be lief and e motio n.
+
+study e x amine s
+
+the w ays
+
+curre nt
+
+that
+
+linguistic
+
+Children’s cap acity to make belief-based e motio n attributio ns w as first syste matic ally
+docume nte d by Harris e t a l. (1989). The y demo nstrate d that as children move fro m
+three to six ye ars o f age, they are incre asingly able to make emo tion attributio ns on the
+basis o f belief and, in doing so, jointly c onsider the ro le of beliefs and desires in making
+such e motion attributio ns. In the ir paradigm (Ex periment 2), Mickey the Monke y, a
+mischievous toy charac ter, playe d tricks o n other animals. During the protagonist’s
+absence, Mickey sec retly replaced the de sirable c ontents of a foo d or drink container
+w ith an undesirable substitute (or vice ve rsa). Upo n the protago nist’s return, children
+w e re asked to predic t his or her e motio n (a) o n first seeing the c ontainer but before
+o pening it and (b) after disc ove ring the actual c ontents.
+
+For the crucial ex pe rimental questio n, namely how the pro tagonist w ould feel upon
+seeing the container but before ope ning it, Harris e t a l. (1989) found that the majority
+o f 4-year-olds failed to apprec iate the pro tagonist’s likely emo tion. Six-year-olds, by
+co ntrast, typically made app ropriate e motion attributio ns. Further, 6-year-o lds w e re
+o verw helmingly able to give a suitable justification for the e motio n attributio n: They
+ex p lained that the emotional outc ome for the protago nist w ould de pend on his o r her
+false be lief abo ut the co nte nts of the c ontainer. Ho w eve r, in this e x periment, it w as no t
+po ssible to ascertain w hether a c hild might ac know le dge the pro tagonist’s false belief
+about the obje ctive contents o f the container but still mistakenly c onclude that the
+protagonist’s initial emotio n upo n se eing the co ntainer w ould be dete rmined by its
+o bjec tive co ntents rather than its ap pare nt co nte nts. In short, the findings re porte d by
+Harris e t a l. (1989) le ft op en the possibility that c hildren’s e motio n attributio ns might
+lag behind their belief attributio ns.
+
+Since Harris e t a l. (1989) p ublished their findings, direct ex perime ntal e vidence that
+children’s be lief-based emotio n attributio ns do inde ed lag behind their understan ding o f
+belief has be come available. In a se ries o f four e x periments, Hadw in and Perner (1991)
+co nsiste ntly demonstrated that children co uld app reciate a story character’s mistaken
+belief before the y made use of this kno w ledge to make attributions of surprise. In
+Ex pe riment 2, for ex ample, 5-year-o lds w ere no mo re likely to make co rre ct belief-base d
+judgments of a pro tagonist’s surprise than inco rre c t judgments. Of these same 5-year-
+o lds, how eve r, all but one c orre ctly judged the pro tago nist’s false belief. Only by six
+years o f age did a significant majority o f children make co rre c t belief-based attributions
+o f surp rise. In e x periment 4, a similar lag eme rged for the attribution of hap piness.
+
+These findings have recently be en replicated and ex tended by Bradmetz and
+
+A lag between understanding false belief and emotion attribution
+
+199
+
+Schneider (1999) in a series of five e xp eriments w ith children fro m four to seven years
+of age. The patte rn of results w as remarkably similar ac ross all five ex pe riments and
+ac ross e motio ns
+(fear and happine ss). Forty-eight perc ent (122/254) o f children
+ap prec iate d the false be lief held by the pro tagonist but still made the inco rre ct emo tion
+attributio n. No children made a co rre c t emo tion attribution but failed the false-belief
+te st.
+
+In the first tw o ex perime nts addre ssing children’s understan ding of be lief-based fear,
+Bradme tz and Schneider (1999) asked the be lief question (ex perime nt 2: ‘No w , doe s
+the goat think the mother w ill come in or doe s he think the w olf w ill come in?’) before
+the emo tio n attributio n, in much the same manner as Hadw in and Perner (1991). By
+co ntrast, in ex perime nts 3 and 4—addre ssing children’s understanding o f be lief-based
+happine ss—Bradmetz and Schneider (1999) varie d the pro cedure in thre e significant
+w ays. First,
+they asked the child to predict the
+pro tagonist’s actio n (i.e., ‘When Max i is in front of the doo r, w he re w ill he loo k for his
+choco late ?’). Seco nd, they counterbalanced the order of the false -belief que stio n (actio n
+predictio n) and the e motio n-attribution questio n. Finally, in ex pe riment 4, emotio n
+attributio ns o f children passing the actio n predictio n w ere c hallenged w ith a co unte r-
+argume nt irre spe ctive of w he the r children said ‘happy’ o r ‘sad’.
+
+in place of a be lief questio n,
+
+Despite the se pro cedural variations, the p atte rn of re sults remained stable ; children’s
+belief-base d attributions o f emo tion still lagged behind their succ ess o n the false-belief
+question (ex perime nts 1 and 2) and the actio n predictio n (e x periments 3–5). Further,
+the o verall patte rn of re sults w as not affected by the order o f questio n, and c hildren
+w ho se e motio n attributio ns lagged be hind their succ ess o n the action pre dictio n w ere
+no t se nsitive to counter-argume nt. Thus, Bradme tz and Schneider (1999) doc ument a
+robust lag betw een understanding be lief and e motio n attributio n.
+
+the
+
+linguistic
+
+ro le o f c hildren’s
+
+Given the e x iste nce o f this lag, w e might ask how c hildren come to integrate their
+know le dge o f beliefs w ith their understan ding o f e motio n. Rec ently, in the theo ry-of-
+mind lite rature ,
+ability has assumed inc reasing
+importance. There is c onverging e vidence that at least so me aspect o f children’s
+verbal ability predic ts succ ess o n theory-of-mind tasks. Bradmetz (1998), for ex ample,
+de monstrate d that c hildren’s understan ding o f standard false-belief tasks
+is more
+stro ngly linked w ith the ir gene ral cognitive abilities—me asured on the Wechsler
+Pre scho ol and Primary Sc ale o f Intelligence (WPPSI; Wec hsle r, 1967)—than their age.
+Ho w ever, closer inspe ctio n of the WPPSI subtests re vealed that succe ss o n the false-
+belief tasks grouped sp ecifically w ith the verbal subte sts.
+
+In a meta-analysis of data co llected o ver a five-year perio d, Happe´
+
+(1995) repo rte d
+that higher verbal mental age —me asure d by children’s re cep tive voc abulary o n the
+British Picture Voc abulary Scale (BPVS; Dunn, Dunn, Whetto n, & Pintille, 1982)—
+predicte d suc cess o n tw o standard false -belief tests for both autistic c hildren (n = 70)
+and a co ntro l gro up o f no rmal young children (n = 70). This e ffect w as indepe nde nt o f
+chrono logical age. Furthermo re, Jenkins and Astington (1996)
+found that gene ral
+language ability—measured by c hildren’s syntac tic and se mantic ability in both the
+rec eptive and e x pressive domains using the Test o f Early Language De velopment
+(TELD; Hre sko, Reid, & Hammill, 1981)—and ve rbal me mory p redicted performance o n
+four standard false-belief tests inde pendent of age. In bo th these studies, a linguistic
+threshold e merged, below w hich no c hildren p assed the false -belief te sts, but this alone
+did no t ex plain the relationship betw een linguistic ability and false-belief understanding
+in either study.
+
+The ex istence of a lag betw een unde rstanding belief and belief-base d e motio n
+
+200 Marc de Rosnay et al.
+
+established relationship be tw ee n childre n’s
+attributio n in co njunction w ith the
+linguistic ability and false-belief unde rstanding raises the po ssibility that individual
+differences in linguistic ability might also be re late d to the more de manding te sts o f
+belief-based emotion. Although this question has no t been addressed dire ctly in the
+literature, Cutting and Dunn (1999) have pro vided stro ng evidence that language ability
+is indep endently related to bo th false-belief understan ding and emo tional p ersp ective-
+taking. In a large study (N = 128) o f children’s social co gnition, Cutting and Dunn
+(1999) found that language ability measured using the BPVS and the Bus Story Te st
+(Renfre w , 1991) w as stro ngly co rre lated w ith a co mpo site measure o f seven standard
+false -belief te sts and an affec tive pe rspe ctive -taking task (De nham, 1986). In this latte r
+task, children had to judge ho w a puppe t w o uld feel in 16 situations p rovoking
+happiness, sadne ss, anger, and fear. The c ombine d language measure w as a significant
+indepe nde nt p redic tor o f both false-belief unde rstanding—onc e the variance assoc iate d
+w ith age, family background, and emotio n understan ding had been acc ounted for—and
+emotio nal pe rspe ctive -taking—o nce the variance associate d w ith age,
+family bac k-
+gro und, and false belief had been ac counted for.
+
+In the first e x periment, the refore , w e e x amine w hether individual differences in
+children’s verbal mental age c ontributes to their capacity to make links be tw e en false-
+belief understanding and co rre c t belief-based emo tio n attributio n. To c larify the
+re latio nship betw ee n linguistic ability and be lief-based e motio n attribution, w e se t up
+tw o co mpeting hypo the se s. Our first hypothesis w as that any ap pare nt relationship
+betw ee n verbal mental age and belief-base d emo tion attributio n w ould be ex plained by
+the unde rlying relationship betw een ve rbal mental age and false -belief understanding.
+That is, linguistic ability w ould not c ontribute to children’s unde rstanding of be lief-
+based emotion but w ould o nly c ontribute to understan ding of the false belief. The
+seco nd and c omp eting hypothesis state d that c hildren passing mo re o f the belief-base d
+emotio n attributio ns w ould have a higher verbal mental age w hen comp are d w ith tho se
+o nly p assing the false-belief questio ns. That is, linguistic ability w o uld co ntribute to
+bo th false -belief unde rstan ding and indep endently to belief-based emo tion attribution.
+Ho w ever, before evaluating these hypo these s, it w as app ropriate to co nfirm that the
+lag betw een false-be lief understanding and be lief-base d emo tion attribution c ould be
+re plicate d unde r various conditions. Thus, thre e different tasks w ere used to assess
+children’s understanding o f belief-based e motio n. The first task, the Do g–Rabbit Te st,
+w as a sto ry acted o ut w ith to y animals and pro ps, and w as closely base d on the
+paradigm devised by Harris e t a l. (1989) and employe d by Hadw in and Pe rne r (1991).
+The seco nd and third tasks, tw o versions of the Mo the r–Infant Separation Test (de
+Rosnay & Harris, 2002), w e re videos in w hic h the protagonist w as a real infant w ho se
+emotio nal reactio ns w e re directly observable. The MIST sto ry centre d o n the infant’s
+ex p ectatio n that his or he r mother—w ho had rece ntly left the ro om—w as re turning.
+How e ver, in p lace of the mother, a stran ger appeared. These tw o video s varied only in
+the e motio nal re spo nse s of the infant. In the low ex pressed emo tion ve rsion (LEE) o f
+the MIST, the infant w as c omparatively relax ed; she did not display any clear signs o f
+distre ss. In the high e x pressed emotion versio n (HEE), the infant w as very distressed at
+the departure of his mother and at the app earanc e o f the stranger.
+
+Traditional asse ssments o f c hildren’s understanding o f belief-based e motio n, such as
+the Do g–Rabbit Test, do not give c hildren any direct informatio n about the emo tional
+re spo nse s o f the p rotagonist; these must be imagined by the child. By co ntrast, in an
+ec ologically valid setting, children can some times observe the p rotagonist’s emo tional
+re spo nse dire ctly. Therefore, in designing the MIST, w e included a c omp arative ly
+
+A lag between understanding false belief and emotion attribution
+
+201
+
+ne utral or ambiguo us emotional re spo nse from the protago nist—intended to mirro r
+traditional assessments o f belief-base d e motio n in w hich the re are no emo tional
+displays (i.e., the LEE). We also included an emotionally unambiguous re spo nse to
+reflect alternative circ umstanc es in w hich there is a clear emo tional response by the
+pro tagonist (i.e., the HEE).
+
+For all three tasks, c hildren w ere first asked to say how the p rotagonist fe lt and to
+justify their respo nse. Having made an emo tion attribution (predictio n and justifica-
+tion), they w e re then asked e x plicitly abo ut the pro tago nist’s (false) belief. By asking
+the false-be lief que stio n afte r the emo tion attribution, children’s emotio n pre dictio ns
+and their spo ntane ous justifications co uld be conside red before their atte ntion w as
+draw n to the pro tago nist’s be lief by ex p licit questio ning. In acc ordance w ith p revious
+findings, w e predic ted that,
+
+(1) Childre n making c orre ct e mo tio n pre dic tio ns w o uld be mo re
+
+likely to
+spontaneo usly justify tho se p redic tions in terms of the pro tagonist’s false be lief
+o r
+restricted kno w ledge. By co ntrast, children making inco rre c t emotio n
+p redictions w o uld be more likely to refer to the objective reality or give so me
+o ther unsuitable justificatio n. This w ould re present a partial rep licatio n of Harris
+e t a l. (1989).
+
+(2) Among children making inco rre c t emo tion attributions, some w o uld still make
+an ac curate appraisal of the pro tagonist’s false be lief. The re verse patte rn,
+c hildren making a co rre ct e motio n attributio n but an inc orre ct appraisal o f the
+p rotagonist’s false belief, w as c onside red unlikely, although logically po ssible.
+This w ould re present a replication of the lag demonstrated by Bradmetz and
+Sc hne ider (1999) and Hadw in and Pe rner (1991).
+
+Follow ing on the se pre dictio ns, w e aimed to te st the tw o co mpeting hypo the ses
+articulated above co ncerning the co ntributio n of verbal ability to children’s capacity to
+make links betw een belief and emotion. Namely, (i) verbal ability is linked o nly to the
+underlying unde rstanding false belief, and (ii) verbal ability is linke d to both false-belief
+understan ding and c orre ct be lief-based emo tio nal attribution.
+
+EXPERIMENT 1
+
+Method
+Participants
+Partic ipants w ere 51 c hildren (25 boys; 26 girls) be tw e en 3 years 7 months and 6 years
+4 mo nths (M = 60.90 mo nths; SD = 7.8 months) w ith English as their first language. All
+the children came from nurse rie s and primary scho ols in Ox ford w hich draw c hildren
+from a mixture o f middle, low e r-middle , and w o rking-c lass families.
+
+Procedure
+Children w ere individually teste d at tw o sessions spaced o ne w e ek ap art. At Session 1,
+children w e re first given the Do g–Rabbit Te st, a simplified ve rsion o f ex perime nt 2
+from Harris e t a l. (1989). The Dog–Rabbit Test w as given first bec ause the pilot study
+reveale d that children p artic ularly enjoyed it. This allow ed the princ ipal researche r to
+
+202 Marc de Rosnay et al.
+
+build a good rappo rt w ith the c hildren and fac ilitate d the rest of the te sting. In the Do g–
+Rabbit Test, Gro mit the Do g p lays a trick on Roge r the Rabbit w hile he is out on a w alk.
+Gro mit secre tly replaces Roger’s
+favo urite food, name ly Smartie s w ith peanuts.
+Children w ere told emphatic ally that Smarties w ere Roger’s favourite foo d. To be sure
+that children understo od the sto ry details, tw o memo ry questions w ere asked, assessing
+w hether c hildren reme mbered (1) Roger’s favo urite foo d and (2) the true co ntent of the
+bo x.
+
+Follow ing Harris e t a l. (1989), the e motio n predictio n questio n w as aske d after the
+co ntro l questions (‘Ho w does Roge r fe el w hen he first loo ks at the box o n the table,
+before he e ats so me food fro m it? (Pause.) Do es he fe el hap py or sad?’). Give n that
+Roge r mistakenly thinks that the box co ntains Smarties, the c orre ct answ er to this
+question is ‘happy’. All children w e re also aske d to justify the ir predictions (‘Yes, and
+w hy doe s Roger fe el happ y/sad?’). Follow ing their justifications, c hildren w ho did not
+ex p licitly refe r to Roger’s false belief w ere given a seco nd o ppo rtunity to demo nstrate
+that the y appreciated it. Thus, c hildren w ere asked, ‘What does Roger think is in the
+bo x?’
+
+Also at Session 1, after the Dog–Rabbit Test, children w atc he d (on video ) o ne version
+o f the Mother–Infant Se paratio n Test (MIST; de Rosnay & Harris, 2002). At Session 2,
+children w atched the o ther ve rsion of the MIST. Pre sentation order w as syste matically
+co unterbalanced across children. The MIST video s depict a re al mo ther and her infant
+in the w aiting room of a doc tor’s (or dentist’s) surgery. The mother goes thro ugh the
+doo r to see the doctor (o r dentist), and the infant is left w aiting in the w aiting ro om.
+Having been left alone , the infant hears a kno ck at the doo r and has re ason to believe it
+is his (or her) returning mother (fa lse b e lie f), but the ope ning doo r actually reveals a
+stranger. At the e nd of the video—onc e the stranger has appeared—c hildren w ere
+asked how the infant fe lt w hen he or she heard the kno ck at the door but be fore the
+doo r opened. To be sure that children understo od the sto ry details, tw o me mory
+questions w ere aske d, assessing w hether children: (1) remembere d w here the mother
+had gone and (2) unde rsto od that it w as actually a stran ge r behind the door (and not the
+mo the r).
+
+The tw o ve rsions o f the MIST w ere selec ted to depic t different and realistic infant
+re actions to the departure of the mo the r toge the r w ith the infants’ p ositive ex pe ctatio n
+that the mother is returning. In the low ex presse d emo tio n version (LEE), the infant w as
+co mparatively relax ed w hen the mother left. Her reactio ns inc luded babbling, playing,
+and ex p loratio n. How e ver, upo n hearing the kno ck at the doo r, she sto ppe d w hat she
+w as do ing and atte nded to the door. Whe n the
+infant
+acknow ledged he r entry but continue d to play and show ed no audible signs of
+distre ss. In the high e x pressed emo tion version (HEE), the infant w as audibly and visibly
+upset at the mo the r’s departure . His reac tions include d fussing, crying, and moving
+tow ards the door from w hich his mother departe d. How e ver, upo n he aring the knoc k
+at the doo r, his c rying and fussing ce ase d, and he again move d closer to the op ening
+doo r. Only onc e the stran ge r appe are d in the place o f the ex p ected mother and
+atte mpte d to pick him up did he be gin to cry again.
+
+stranger came
+
+in,
+
+the
+
+The tw o video s of the MIST w e re reco rded so as to fac ilitate overall comprehe nsio n
+o f the sto ry. Thus, the frame sho w ed the infant, the w aiting roo m, the door, and the
+stranger’s entrance in full. For this re ason, the infants’ face s w ere too small for facial
+ex p ressions to be pro perly disc erned. Furthermo re, upon hearing the knoc k at the
+doo r, both infants w ere o rie nte d to w ards the door, and their faces w ere o nly partially
+visible in pro file. Neverthe le ss, the infants’ mo veme nts, voc alizations, and o ve rall moo d
+
+A lag between understanding false belief and emotion attribution
+
+203
+
+w ere readily o bservable. The video s also include d rec orded narrative s giving the sto ry
+de tails. Finally, as children w atc he d, each video w as pause d for impo rtant sto ry eve nts
+(e.g. the departure of the mo the r and the kno ck at the door), and the e x perime nter
+reite rate d the ove rall situatio n so that the c hild fully understo o d the unfolding sto ry.
+The e motio n pre dictio n question for the LEE and the HEE w as as follow s; ‘Whe n
+Sally (To m) is alone , she (he) he ars so meo ne knocking at the doo r. Ho w does Sally
+(To m) feel be fore she (he) see s w ho it is? (Pause .) Does she (he) fee l happ y or sad?’ As
+for the Do g–Rabbit test, children w ere also asked to justify the ir e motio n predictions
+(‘Yes, and w hy does she (he ) feel happy/sad’). Unless c hildren referre d ex plicitly to the
+pro tagonist’s belief in the ir justificatio n, the y w ere also asked the follow -up false-belief
+question, ‘Who does Sally (Tom) think is behind the doo r?’ The full sto ry narrative can
+be found in de Rosnay and Harris (2002).
+
+Also at Session 2, afte r the se cond ve rsion o f the MIST, children w e re given the long
+
+version of the BPVS (Dunn e t a l., 1982).
+
+Results
+The results are re porte d in thre e parts. First, w e p rese nt the relationship betw een
+children’s emotio n p redictions and the ir justificatio ns. Seco nd, w e c ompare children’s
+emo tion attributio ns w ith the ir false-be lief unde rstanding. Finally, w e conside r the
+asso ciation betw ee n ve rbal mental age, emotion attribution, and false-belief under-
+standing, and w e evaluate w hether verbal mental age is re late d to the lag be tw e en false-
+belief understanding and belief-based emo tion attribution.
+
+lapse s
+
+Children’s emotion predictions and justifications
+All children passed the contro l questions for the Dog–Rabbit te st and bo th versions o f
+the MIST, although some times de tails had to be repe ate d be cause o f
+in
+co nce ntratio n o r interruption. Children mo st c ommo nly made a co rre ct emotio n
+predictio n (‘happy’) for the LEE (31/51), follow ed by the HEE (19/51) and the Dog–
+Rabbit Te st (17/51). Of the children making corre ct emo tion pre dictio ns, ap prox i-
+mately three -quarte rs justified their pre dictio n app ropriate ly for the Do g–Rabbit Test
+(13/17), the LEE (23/31), and the HEE (14/19). Appro priate justificatio ns w ere those in
+w hic h children re ferre d to the pro tagonist’s false belief e x plicitly (e.g., ‘because he
+thinks there are Smarties in the re’, ‘co s he [To m] thinks it is his mummy’), the apparent
+or ex pe cte d outc ome (e.g., ‘co s it might be his [Tom’s] mummy’), or the protagonist’s
+restricted know le dge (e .g., ‘he [Ro ge r] doesn’t know he [Gro mit] to ok ’e m’). The
+remaining children w ho made corre ct emo tion predictio ns foc used on some o the r
+aspec t o f the situatio n and the reby failed to make any reference to the pro tagonist’s
+false be lief, mistaken e x pectation, o r restricted kno w ledge .
+
+In ge ne ral, c hildre n failing the
+
+e mo tio n pre dic tio n que stio n de sc ribe d the
+pro tagonist as sad. A small numbe r of children gave so me other desc riptio n o f the
+pro tagonist’s emo tion for both the HEE (e.g., ‘ho rrible’, ‘crying’) and the LEE (e.g.,
+‘o kay’). Only one o f the children failing the e motio n pre dictio n questio n pro vided a
+justificatio n in terms of the p rotagonist’s false belief. The remaining children justified
+their predictio ns in terms o f the o bjective situation o r o utco me (e.g., ‘peanuts are inside
+the box ’, ‘bec ause his [To m’s] mummy le ft him’) and a small number of children did no t
+pro vide a justificatio n.
+
+204 Marc de Rosnay et al.
+
+Follow ing Harris e t a l. (1989), justifications w ere c lassified as corre ct o r inco rre c t/
+uninformative , depending o n w he the r or not c hildren made an ap prop riate refere nce to
+the protago nist’s false be lief, mistake n ex pec tation, or restric te d know ledge. Emotio n
+justificatio ns w e re transcribe d and sco red by the principal re searcher and a seco nd,
+indepe nde nt, rate r w ho w as blind to the emo tion pre dictio n. The inter-rater agre ement
+w as 100%for all three tasks. Table 1 pre sents children c lassified by the to tal number o f
+co rre c t predictions and justific ations they made.
+
+Table 1. Contingency between correct emotion predictions and justifications for the Dog–Rabbit test,
+the HEE and the LEE (N = 51)
+
+Correct predictions
+
+None
+
+None
+1
+2
+3
+
+18
+4
+3
+1
+
+Correct justifications
+
+1
+
+–
+8
+2
+–
+
+2
+
+–
+–
+3
+2
+
+3
+
+–
+–
+–
+10
+
+This
+
+table sho w s
+
+that children predominantly gave equal numbers o f corre ct
+emotio n predic tions and justifications; the re w as a stro ng po sitive relationship betw ee n
+-b = .77; p < .001). A small number of children made
+these tw o resp onses (Ke ndall
+mo re co rre ct p redic tions than justificatio ns. These results c onc ord w ith tho se o f Harris
+e t a l. (1989).
+
+Emotion attribution and false-belief understanding
+Re call that c hildren w ho failed to make an e x plicit re ference to the protagonist’s false
+belief in the ir justification w ere asked abo ut that be lief in a follow -up questio n. Children
+w ho did make ex plicit reference to the protago nist’s false belief w e re tre ated as passing
+the false-belief que stio n. Ne verthele ss, the y w e re also asked a co nfirmatory questio n,
+w hich the y alw ays answ e red c orre c tly (e.g. ‘So he thinks there are Smarties in the box
+does he?’). Table 2 presents children’s resp onses to the e motio n predictio n questio n,
+the emo tion p rediction que stio n + justific atio n, and the false-belief que stio n for the
+Dog–Rabbit Te st, the LEE and HEE. For all three tasks, a relatively large number of
+children made an incorre ct emo tion predictio n but w ent o n to pass the false-be lief
+question, w here as only a very small number of children made a corre ct emotion
+pre diction and w ent o n to fail the false -belief que stio n. Mc Ne mar Te sts co nfirme d
+significance of this asymme trical patte rn for the Dog–Rabbit Te st (p < .001) and the
+HEE (p < .001). The re lationship w as marginally significant for the LEE (p = .065). No
+children made a co rre ct emotio n p rediction + justific atio n and failed the false-belief
+question.
+
+Table 2 also show s that a small number of c hildren made a co rre ct emotion
+pre dictio n (‘happy’) but failed the false-belief test for e ac h task. None of these children
+had pre viously offered a satisfactory emo tion justificatio n. By co ntrast, the great
+majority of children making a co rre c t emo tion predic tion and passing the false-belief
+question also gave a suitable e motio n justificatio n.
+
+A lag between understanding false belief and emotion attribution
+
+205
+
+Table 2. Children’s responses on the emotion prediction, emotion prediction + justification (in
+parentheses), and false-belief questions for the three belief-based emotion attribution tasks (Dog–
+Rabbit test, LEE and HEE; N = 51)
+
+Emotion prediction
+
+False belief
+
+Dog–Rabbit
+
+LEE
+
+HEE
+
+(correct prediction and justification)
+
+Sad/other (Fail)
+
+Happy (Pass)
+
+Fail
+Pass
+Fail
+Pass
+
+17 (18)
+17 (20)
+1 (–)
+16 (13)
+
+11 (13)
+9 (15)
+2 (–)
+29 (23)
+
+13 (15)
+19 (22)
+2 (–)
+17 (14)
+
+To be co nfident that c hildren pro perly unde rsto od the assoc iatio n be tw ee n be lief
+and be lief-base d e motio n, w e o nly co nsidered tho se c hildren making a corre ct emo tio n
+predictio n and justific atio n to have passed the e motio n attribution. Ex amination o f
+performance on all three tasks re veale d that c hildren performe d co nsistently o n such
+emo tion attributio ns (Cronbach
+= .86). De spite such co nsistency, ho w eve r, children mo re o ften made a co rre c t
+emo tion attribution for the LEE than the HEE; this result w as unex pe cte d.
+
+= .81) and o n the false-belief questions (Cro nbac h
+
+To assess the significance of this p atte rn, w e co mpared the prop ortio n of c hildren
+passing the emo tion attribution for the LEE and the HEE using a test of tw o bino mial
+pro portions. The advantage on the LEE w as marginally significant (z = 1.89; p = .059).
+By co ntrast, there w as no difference in the prop ortio n o f children passing the false-
+belief question for the LEE and the HEE (z =
+.48; n s ). By implication, the visible
+absenc e of any negative emo tion in the LEE made it easier to identify the pro tagonist’s
+emo tion but not her false be lief. Table 2 also sho w s that children’s performanc e on the
+Do g–Rabbit Test and the HEE w as very similar. Ho w ever, the se tasks co uld no t be
+co mpare d directly as they w ere no t c ounterbalanced.
+
+In sum, a lag betw een understanding be lief and emotion attributio n w as e vident for
+all three tasks, and children performe d w ith a high de gree o f c onsiste ncy acro ss tasks.
+For this re ason, w e co mbined the thre e tasks to create co ntinuous me asures (0–3) for
+false-be lief understanding (FB) and e motio n attributio n (EA).
+
+Verbal mental age, belief-based emotion attribution, and false-belief understanding
+Table 3 gives the Pearso n pro duc t moment c orre latio ns be tw e en false belief (FB), belief-
+based emo tion attributio n (EA), sex , age , and verbal me ntal age. The me an ve rbal
+mental age score on the BPVS w as 57 months (SD = 12.5), and the distributio n w as
+ap prox imate ly no rmal. (The mean standardized sco re w as 96.9; SD = 10.45.) Gender
+w as included in the corre lation analysis bec ause the re is some e vidence that girls
+pe rfo rm be tte r o n e motion understanding tasks, altho ugh this e vidence
+is not
+co nsistent (e.g. Dunn e t a l., 1991b; Hughes & Dunn, 1998). From Table 3, it is clear
+that verbal mental age is significantly associated w ith both FB and EA. How eve r, given
+the po sitive corre lation of these fac tors w ith age , it w as important to establish w hether
+these relationships remained w hen the effec ts of age w ere co ntro lled for. In the low e r
+half of Table 3, it can be seen that a stro ng positive asso ciation betw ee n verbal me ntal
+age and both FB and EA remained, e ven w he n the effect o f age w as acco unte d for.
+Ho w ever, the re lationship betw een age and both FB and EA did no t remain w hen the
+
+206 Marc de Rosnay et al.
+
+Table 3. Pearson correlation coefficients for false belief (FB), belief-based emotion attribution (EA),
+sex, age, and verbal mental age, and partial correlations controlling for age and verbal mental age
+(N = 51)
+
+3. Sex
+
+4. Age
+
+5. VMA
+
+Variable
+
+1. False belief (FB)
+2. Emotion attribution (EA)
+3. Sex
+4. Age
+5. Verbal mental age (VMA)
+
+1. FB
+
+–
+
+2. EA
+
+.59**
+
+–
+
+.12
+.05
+–
+
+<Partial correlation coefficients controlling for age>
+
+1. False belief (FB)
+2. Emotion attribution (EA)
+3. Sex
+
+–
+
+.53**
+
+–
+
+.18
+.00
+–
+
+1. False belief (FB)
+2. Emotion attribution (EA)
+3. Sex
+
+<Partial correlation coefficients controlling for verbal mental age>
+.03
+.03
+.19
+
+.11
+.11
+–
+
+–
+
+.24
+–
+
+.35*
+.36*
+.14
+–
+
+–
+–
+–
+
+.68**
+.68**
+.05
+.50**
+–
+
+.62**
+.62**
+.14
+
+–
+–
+–
+
+*p < .05; ** p < .01.
+
+effect of ve rbal mental age had been ac co unted for. The re w ere no effects for gender,
+w hich w as drop ped fro m furthe r analysis.
+
+To assess the co ntributio n of verbal mental age to FB and EA, a cumulative logit
+mo de l for o rdinal re spo nses w as used (Agresti, 1996; Bender & Bender, 2000). The final
+mo de l produces a single, ho mogeneo us, odds ratio o ver all cut-off po ints summarizing
+the e ffect o f an ex planatory variable(s) (X) on the response variable (Y). This pro cedure
+assumes that a resp onse variable w ith k + 1 o rde red categories pro duce s k c ontinuous
+and parallel linear models. For the o verall mode l to be ade quate , therefore , the ‘equal
+slopes assumptio n’ must first be met. This assumption w as me t (the Pro portional Odds
+Assumptio n w as not violate d) for all three analyse s. The LOGISTIC proce dure in SAS
+using a forw ard selec tion c riterio n w as used to evaluate the e ffect o f the ex planatory
+variable s o n FB and EA.
+
+In the first model, the c ontribution of age and ve rbal mental age to FB w as asse sse d.
+Only ve rbal mental age had a significant impac t o n FB. For e very 3-month increme nt in
+ve rbal mental age, children w ere 1.7 times mo re likely to p ass an additional FB que stio n
+(95% CI 1.6–1.9; p < .001). In the sec ond regre ssio n mo de l, the c ontribution of age and
+ve rbal mental age to EA w as assessed. Again, o nly verbal mental age had a significant
+impact on EA. For eve ry 3-month incre ment in ve rbal me ntal age , children w ere 1.6
+time s mo re likely to pass an additional emo tio n attributio n (95% CI 1.5–1.7, p < .001).
+Neve rtheless, the possibility remained that the apparent relationship betw ee n ve rbal
+me ntal age and EA (regression 2) w as due to the underlying relationship be tw e en verbal
+me ntal age and FB (regression 1). Thus, to be sure that ve rbal mental age made a truly
+indepe nde nt co ntributio n to EA, a third regression w as carried o ut in w hich the
+association betw een FB and EA w as acc ounted for before the effec ts o f age and verbal
+me ntal age to EA w ere c onside red. In this final regression, FB w as again stro ngly re late d
+to EA. For each additional false-belief question answ e red co rre c tly, children w ere 5.2
+time s mo re likely to pass an additional emo tio n attributio n (95% CI 1.7–33.0; p < .05).
+Again, age w as dro pped from the model, but ve rbal me ntal age still had a significant
+
+A lag between understanding false belief and emotion attribution
+
+207
+
+impact o n EA o ver and above the contribution of FB. For every 3-mo nth inc rement in
+verbal mental age , children w e re 1.4 times more likely to pass an additional emo tion
+attributio n (95% CI 1.3–1.5, p < .01). Thus, verbal mental age w as stro ngly re late d to
+both FB and EA.
+
+Discussion
+Ex perime nt 1 first e x amine d children’s belief-based emotion attributions and the lag
+betw een suc cessful emotion attribution and unde rstanding false belief. It w as found
+that children w ho make a c orre ct emo tion predictio n are ove rw he lmingly able to justify
+their pre dictio n c orre ctly o n the basis of the pro tagonist’s false belief, re stric ted
+know le dge, or e xp ectatio n. This
+(1989).
+Ex perime nt 1 also reve aled that a large pro portion of c hildren co rre c tly judged the
+pro tagonist’s false belief but failed the emo tion prediction for all three tasks. The
+reverse patte rn, c hildren passing the emo tion prediction but failing the false-belief
+question, w as rare . This difference w as significant for a traditional co gnitive emo tion
+task invo lving a sto ry ac ted out w ith to y animals and pro ps (Harris e t a l., 1989) and for
+videos in w hic h the pro tagonist w as a real infant, and the emo tional outcome s w ere
+dire ctly obse rvable . Therefore , w e replicate d the lag first de monstrate d by Hadw in and
+Perner (1991) unde r various c onditions.
+
+finding replicates
+
+that o f Harris
+
+e t a l.
+
+The re w as, ho w e ve r, a disc re p ancy be tw e e n c hildre n’s
+
+suc c e ssful e mo tio n
+attributio n o n the LEE and the HEE. A plausible e x planatio n for this disc repanc y is
+that the visible abse nce of any negative emotio n in the LEE facilitated the co rre c t
+attributio n of a po sitive e motio n (i.e., happ iness at the mo ther’s e x pected re turn).
+Ne ve rthe less,
+re sults o f Ex pe rime nt 1 suggeste d that c hildre n p e rfo rme d
+co nsistently o n the Do g–Rabbit Test and the HEE (se e Table 2), desp ite the fact that
+there w ere no visible o r audible emo tio nal cues in the forme r. Therefore , in Ex pe riment
+2 w e co mpare the Dog–Rabbit Test and the HEE dire ctly using a co unterbalance d
+de sign.
+
+the
+
+Ex aminatio n o f individual differenc es in ve rbal me ntal age (BPVS) co nfirmed that a
+higher verbal mental age w as asso ciated w ith c orre ct answ ers on the false-belief
+questions. This po sitive relationship w as inde pendent of age. This re sult replicates
+those of Happe´ (1995) and Jenkins and Astington (1996), and reinforce s the impo rtance
+of language ability for children’s false -belief understanding. It w as also found that
+children w ith a higher verbal mental age passe d more belief-based emo tion attributio ns
+(regression 2). Mo reo ver, the relationship betw ee n verbal mental age and false be lief
+did not fully ex plain this latter association (regression 3). Thus, as w ith Cutting and
+Dunn (1999), w e found that verbal mental age makes a significant contribution to
+children’s emotion understanding. In sum, the lag betw een understanding false be lief
+and belief-based e motion attributio n is asso ciated w ith individual differences in verbal
+ability, eve n among c hildren w ho de monstrate a firm unde rstan ding o f false belief
+
+EXPERIMENT 2
+In Ex pe riment 2, w e further e x amine d ho w individual differenc es in linguistic ability
+and, additionally, linguistic inp ut contribute to c hildren’s ability to make links betw een
+belief and emo tio n. Although the BPVS has reliably bee n show n to pre dict false-belief
+
+208 Marc de Rosnay et al.
+
+To addre ss
+
+syntac tic
+
+false-be lief unde rstanding o f
+
+it o nly assesses c hildren’s
+understanding (Cutting & Dunn, 1999; Happe´ , 1995),
+re ceptive vo cabulary, and it is not immediate ly cle ar how this particular asp ect of
+language is asso ciated w ith false -belief unde rstanding and emo tion attribution. For this
+re ason, vario us researc he rs have stre ssed the nee d for mo re directed hypothese s abo ut
+the relationship be tw ee n language ability and false-be lief understanding (se e,
+for
+ex ample, de Villiers, 2000; Jenkins & Astington, 1996)
+this que stio n, Astingto n and Jenkins
+
+(1999) ex amined the relative
+c o ntributio n to c hildre n’s
+and se mantic
+co mpe tence in both the e x pressive and re cep tive domains (using the TELD). As
+defined, syntactic c ompe tence reflec ted children’s understanding o f ho w the various
+parts o f the sentenc e relate to one ano the r. Semantic compete nce c onc erne d children’s
+understanding o f w ord meaning. Children w e re teste d for their the ory-o f-mind abilities
+(using tw o standard false-be lief tasks and an appe aranc e–re ality task) and language
+abilities at appro x imately 3.5-mo nth intervals. The mean age at Time 1 w as 40.1 mo nths
+and 47.1 at Time 3. Astingto n and Je nkins (1999) found that language at an e arlier time
+predicted later theory-o f-mind abilities, but the reve rse patte rn did not hold. Further
+analysis confirmed that de spite the stro ng co rre lation be tw e en syntac tic and se mantic
+c o mp ete nc e , only c hildre n’s
+inde pe nde nt
+co ntribution to theory-o f-mind abilities. There w as no differenc e for the re ceptive
+and ex pressive domains.
+
+a significant
+
+syntac tic
+
+abilities made
+
+The impo rtance o f syntactic comp ete nce has also be en demo nstrate d for children’s
+emotio n understanding. Using the Test for the Recep tion of Grammar (TROG; Bishop,
+1989)—w hic h tests c hildren’s understanding of 20 syntactic c ontrasts in the re ceptive
+domain—Po ns, Law son, Harris, and de Rosnay (2003)
+found that language ability
+indepe nde ntly ex plained 27% of the varianc e in children’s emo tion understan ding
+betw ee n the age s of four and 11 years. Emo tion unde rstanding w as assessed using a
+picture bo ok test, the Test o f Emo tion Co mpre hensio n (TEC; Po ns e t a l., 2003), w hic h
+me asures nine separate components of e motio n. Together w ith age, language ability
+ex p lained 72%of the overall variance in emotio n understanding. Thus, in Ex perime nt 2,
+w e asked w he the r children’s syntac tic abilities p redicted false belief and e motio n
+understanding.
+
+In addition to c hildren’s linguistic abilities, other authors have po inted to the
+impo rtance of early linguistic input both in the family c ontex t (Dunn, Bro w n, &
+Be ardsall, 1991a; Dunn e t a l., 1991b) and fro m the mo the r spe cifically (Meins &
+Fernyhough, 1998; Me ins, Fe rnyho ugh, Russe ll, & Clark-Carte r, 1998) for c hildren’s
+early so cial co gnitions and theo ry-of-mind abilities. Dunn e t a l. (1991b) obse rved
+children in the ho me w ith both their mo the rs and siblings at 33 months. Include d in the
+initial measures w as the percentage o f fee ling state and c ausal talk from a sample o f
+normal co nversatio n. Co rre lational analyses sho w ed that mo ther-to -c hild feeling-state
+talk w as
+false -belief
+understanding. These results suggest that the linguistic input from the mother may
+be an important source of informatio n for children’s developing soc ial c ognitions (as
+me asured by false -belief ex planations and affective pe rspe ctive-taking).
+
+relate d to children’s e mo tio n unde rstanding and to the ir
+
+Me ins
+
+(1998) also e mphasizes
+
+the importanc e of mate rnal disc ourse (and the
+attitudes underpinning it) for bo th the developme nt of the mo the r–c hild attac hme nt
+re latio nship (Ainsw orth, Blehar, Wate rs, & Wall, 1978) and later theory-o f-mind abilities
+in the child. Her c onc ept of m in d -m in d e d n e s s reflects a manne r o f c ommunic atio n
+betw ee n mother and child that fosters both psycho logical unde rstanding in the child
+and secure attachme nt. She de fine s mind-mindedness as ‘[t]he prop ensity to tre at o ne’s
+
+A lag between understanding false belief and emotion attribution
+
+209
+
+infant as an individual w ith a mind, rathe r than merely a cre ature w ith ne eds w hic h
+must be fulfilled’ (Meins e t a l., 1998, p. 240). To measure mind-mindedne ss, Me ins e t a l.
+(1998) asked mothers to desc ribe their child; this measure w as no t co ntinge nt o n the
+co nve rsational interactio ns be tw e en the mo the r and child. Maternal descriptio ns w ere
+then score d for the use o f mental, be havioural, and physical attributes. Mothers o f
+se curely attac hed infants, at approx imate ly one year, w ere mo re likely to de scribe their
+children in mentalistic terms at three years of age. In addition, Me ins et al. (1998) found
+that mo thers’ use of mental-state attribute s (in conjunc tion w ith the child’s attac hme nt
+and mate rnal sensitivity) predicted children’s false-be lief understanding at four ye ars of
+age, and be lief-based emo tion attribution at five years of age. Children’s ve rbal ability (as
+measure d by the BPVS) w as also acco unted for in the o verall path analyses.
+
+Take n to ge the r, the results of Dunn e t a l. (1991b) and Meins e t a l. (1998) suggest
+that maternal refere nce s to me ntal state s are an impo rtant source o f informatio n for
+children’s deve loping unde rstanding o f false be lief and belief-based emo tion. There fore,
+w e w e re inte reste d to test w he the r mate rnal refe renc es to mental state s relate to
+children’s attributio n o f belief-based e motio n, even amo ng c hildren w ho display an
+understan ding o f false belief.
+
+Given the re sults o f Ex perime nt 1, Bradme tz and Schneider (1999), and Hadw in and
+Perner (1991), w e focuse d o n children appro x imate ly five ye ars of age. We anticipate d
+that the majority o f children at this age w o uld pass the false-belief que stio ns but that a
+substantial propo rtio n w o uld fail to make appro priate belief-based attributions.
+
+Method
+Participants
+Partic ipants w ere 75 children (fro m an initial c oho rt of 100) re cruited fro m a single
+large ge neral practice in the Ox fordshire are a serving families across a range o f socio-
+eco no mic backgrounds. The initial samp le w as se lecte d as part of a longitudinal study
+on infant slee p pro ble ms (full details o f the sample can be found in Morre ll, 1999).
+There w ere 39 bo ys and 36 girls betw ee n 4 years 6 mo nths and 6 ye ars (M = 59.80
+months; SD = 4.3 months). All children had English as the ir first language .
+
+Procedure
+
+Child measures
+Children w ere individually teste d in one sessio n at their ho me. Children w e re given tw o
+belief-base d emotion attribution tasks; the Dog–Rabbit Test (Harris e t a l., 1989) and the
+HEE version of the MIST as de scribe d for Ex perime nt 1.1 The p rese ntation order o f
+these tw o tests w as co unterbalance d. The LEE w as omitted be cause of time co nstraints
+and the de sired co ntrast betw een the Do g–Rabbit Test and the HEE.
+
+Children’s language ability w as assesse d using the Test for the Rece ption of Grammar
+(TROG; Bisho p, 1989). The TROG w as designed to test the understan ding o f 20 type s o f
+grammatic al
+teste d using four
+multiple-c ho ice questions (one block). For each que stio n, the child w as read a sentenc e
+and aske d to choo se from o ne of four image s repre senting that se nte nce . In order that
+
+(syntactic ) c ontrast in English. Eac h contrast w as
+
+1 There were some minor modifications made to the MIST to facilitate overall comprehension of the story and ease of
+administration. The details can be found in de Rosnay (2003).
+
+210 Marc de Rosnay et al.
+
+(syntac tic) understanding w as no t c o nfounded by the ir
+c hildre n’s grammatic al
+vo cabulary, o nly a ve ry small range of nouns, ve rbs, and prepo sitions w ere used
+througho ut the test, and children’s know ledge of a cro ss-section of the se vocabulary
+ite ms w as first tested.
+
+Maternal measures
+Follow ing Meins e t a l. (1998), mo the rs w e re aske d for an o pen-ended descriptio n o f
+their child. They w e re aske d, ‘Can yo u describe [child’s name] for me?’ They w ere
+given no guidance on ho w to respond, and if they asked for c larificatio n, they w ere
+told, ‘You c an talk abo ut anything.’ A single struc tured p rompt w as used to encourage
+mo the rs to say mo re, o nce it see med they w ere co ming to the end of their initial
+desc ription. Each mo ther w as asked, ‘Can you say mo re?’, irresp ective of her initial
+desc ription. Only mo the rs’ re spo nses be fore the pro mpt are repo rte d he re. Maternal
+narrative s w ere divided into comments by the primary re searcher and then score d by
+for me ntal, be havioural and p hysical attribute s, and general
+tw o rate rs (one blind)
+co mments. The inter-rate r reliability w as high (Cohe n
+= .91). Mental co mments
+inc luded any genuine re ferenc e to the c hild’s mental life relating to w ill, mind,
+imaginatio n, interest, inte llect, and me ta-cognition. See Me ins e t a l. (1998) for de tails.
+
+Results
+The results are repo rte d in three parts. First, w e present the relationship betw ee n
+children’s emotion predictio ns and justific atio ns. Sec ond, w e comp are children’s
+emotio n attributions and their false-belief unde rstanding. Third, w e c onsider how
+syntactic understanding (TROG) and mothers’ use of mental attributes are associated
+w ith children’s false -belief unde rstanding, emo tion attributio n, and the lag betw ee n the
+tw o.
+
+Children’s emotion attributions
+Mo re c hildren made a co rre c t emotio n pre dictio n for the Dog–Rabbit Test (50/75) than
+the HEE (37/75). Children failing the emo tion pre dictio n predominantly de scribed the
+protagonist as sad. Seven c hildren gave so me other descriptio n o f the p rotagonist’s
+emotio n for the HEE (e .g., ‘scared’, ‘just alright’).
+
+Of
+
+the
+
+re maining c hildre n failed to de mo nstra te
+
+children making c orre ct emo tion predictio ns, o ve r 75% provided an
+appro priate justific ation for bo th the Dog–Rabbit Test (42/45) and the HEE (28/37).
+The
+the
+protagonist’s mistaken appraisal. Three children making inc orre ct emo tion p redictions
+re ferre d to the pro tagonist’s belief (e.g., ‘c os his mummy, he tho ught that w asn’t his
+mummy’) and o ne re ferre d to his know le dge (‘because he doesn’t kno w ’). One child
+desc ribing To m as frightene d also re fe rre d to his know ledge (‘ ’c os he doesn’t kno w
+w ho it is’). The remaining children justified their pre dictio ns in terms o f the objective
+situatio n o r outc ome as in Ex periment 1.
+
+an e x p licit ap pre ciation o f
+
+As
+
+in Ex p e rime nt 1,
+
+justificatio ns w e re
+
+inc o rre c t/
+uninformative , depending o n w he the r children made an appro priate re ference to the
+protagonist’s false belief, mistaken ex pec tatio n, o r restricted know le dge. Emotio n
+justificatio ns w e re transcribe d and sco red by the principal re searcher and a seco nd,
+indepe nde nt, rate r w ho w as blind to the emo tion pre dictio n. The inter-rater agre ement
+
+c lassified as c o rre c t o r
+
+A lag between understanding false belief and emotion attribution
+
+211
+
+w as 100% for the Dog–Rabbit Te st and 97.3% for the HEE. In both case s, inco nsistency
+betw een rate rs on the HEE w as attributable to justific atio ns that re ferre d to belief but
+w ere ambiguous w ith respe ct to children’s apprec iation o f the pro tago nist’s mistaken
+belief. Differences betw een the rate rs w ere reso lved by confe renc ing; it w as agre ed that
+to the pro tagonist’s m ista k e n
+the
+ex pe ctation, de spite mentio ning be liefs.
+
+in questio n did no t
+
+tw o justifications
+
+refer
+
+to the
+
+re sp onse s
+
+e motion pre dictio n,
+
+Emotion attribution and false-belief understanding
+Table 4 p resents childre n’s
+e mo tio n
+predictio n + justific atio n, and the false -belief question for the Do g–Rabbit Test and
+the HEE. While a re lative ly large number o f c hildren failed the emo tion prediction
+question but w ent on to answ er the false-belief questio n c orre ctly, fe w er c hildren
+passe d the emo tion pre dictio n and w ent on to answ er
+the false-belief que stio n
+inco rre c tly. A Mc Ne mar Test confirme d significance of this asymmetric al patte rn for the
+HEE (p = .005). While the tre nd w as
+the
+asymmetrical patte rn did no t deviate significantly fro m c hance (p = .210). How eve r,
+w he n c hildren making a co rre c t e motio n p rediction + justification w e re e x amine d, this
+asymmetrical patte rn de viated fro m chance e x pectation for both the HEE (p < .001) and
+the Do g–Rabbit Test (p < .001).
+
+the Do g–Rabbit Test,
+
+the
+
+the
+
+same for
+
+Table 4. Children’s responses on the emotion prediction, emotion prediction + justification (in
+parentheses), and false-belief questions for the two belief-based emotion attribution tasks (Dog–Rabbit
+test and HEE; N = 75)
+
+Emotion prediction
+
+(correct prediction and justification)
+
+False belief
+
+Dog–Rabbit
+
+HEE
+
+Sad/other (Fail)
+
+Happy (Pass)
+
+Fail
+Pass
+Fail
+Pass
+
+14 (19)
+11 (14)
+5 (–)
+45 (42)
+
+15 (22)
+23 (25)
+7 (–)
+30 (28)
+
+Table 4 also show s
+
+that a small numbe r of children made a corre ct e motio n
+predictio n (‘hap py’) but failed the false-be lief test. Ho w ever, none o f the se children had
+previously o ffered a satisfacto ry emo tion justification. By contrast, c hildren describing
+the pro tago nist as happy and p assing the false-belief question had predominantly given
+a suitable e motio n justification.
+
+As in Ex pe riment 1, o nly c hildren making a corre ct pre dictio n and justification w ere
+co nsidered to have passed the e motio n attribution. More c hildren made a co rre c t
+emo tion attributio n for the Dog–Rabbit Te st than the HEE. To asse ss the significance o f
+this patte rn, w e comp are d the pro portion of children passing the emo tion attribution
+for the Do g–Rabbit Te st and the HEE using a te st o f tw o bino mial pro portions. A
+significantly higher p ropo rtion of children p assed the emotion attribution for the Dog–
+Rabbit Test (z = 2.33; p = .02). By contrast, the pro portion o f c hildren passing the false-
+belief question on the Dog–Rabbit Test w as no t higher than the HEE (z = .55; n s ).
+Furthe rmore , the inter-test reliability for false be lief w as high (Cronbach
+= .82). Thus,
+
+212 Marc de Rosnay et al.
+
+w hen the Do g–Rabbit Test and the HEE w ere c ompared direc tly, children made a
+co rre c t e motio n attributio n o n the HEE less o ften.
+
+In sum, a lag betw ee n unde rstanding belief and emo tion attribution w as evident for
+bo th tasks, and children pe rfo rme d w ith reaso nable c onsiste ntly be tw e en tasks. The re
+w as more variatio n in children’s e motio n attributions (Cronbach
+= .37), but this w as
+ex p ected given the foc al age range addressed in this ex p eriment. As in Ex pe riment 1,
+w e co mbined pe rfo rmance o n bo th tasks to yield an overall sco re (from 0 to 2) for false-
+belief understan ding (FB) and emo tion attribution (EA).
+
+Individual differences in belief-based emotion attribution and false-belief
+understanding
+Follow ing the advic e of Bisho p, TROG raw sco res w ere used for the subse quent
+analyses. The distribution of sc ores w as normal w ith a mean sc ore of 10.6 (SD = 3.12).
+No children had difficulty w ith the vo cabulary items. For the maternal inte rview ,
+mo the rs re spo nde d in a very similar manner to Meins e t a l. (1998); the mean number of
+attributes w as 6.7 (SD = 3.41). This comp are s closely w ith Me ins e t a l. (1998), w ho
+re porte d 7.1 attributes on average. Follow ing Meins e t a l. (1998), w e c alculated the
+pro po rtion of mothers’ attributes that w e re mental to c ontro l for variation in maternal
+ve rbosity. Only mo the rs’ use of mental attributes is reporte d he re. For further details,
+see de Rosnay (2003).
+
+Table 5 gives the Pearso n product moment c orre latio n be tw e en FB, EA, sex , age ,
+ve rbal mental age (TROG) and the prop ortio n o f mental attributes used by mo the rs
+(MM). Table 5 show s that bo th TROG and MM w ere p ositively co rre lated w ith both FB
+and EA. How eve r, the re w as no inte r-co rre latio n betw een TROG and MM, suggesting
+that these fac tors may be inde pendently related to FB and EA. Surprisingly, age w as no t
+associated w ith FB or EA, altho ugh this may reflec t the mo re narro w age range o f the
+sample w hen co mpared w ith Ex periment 1. Age w as, ho w ever, corre lated w ith TROG.
+Again, w e found no relationship betw een gende r and either FB o r EA. Thus, ge nde r w as
+dropp ed fro m further analyses.
+
+To asse ss the c ontribution o f TROG and MM to FB and EA, o rdinal logistic re gression
+using a forw ard selec tion pro cedure w as used. Age w as include d in all regression
+analyses bec ause of the co rre lation be tw e en age and TROG. This assump tion o f equal
+
+Table 5. Pearson correlation coefficients for false belief (FB), belief-based emotion attribution (EA),
+sex, age, children’s syntactic understanding (TROG) and mothers’ use of mental attributes (MM) for
+their child (N = 75)
+
+Variable
+
+1. False belief (FB)
+2. Emotion attribution (EA)
+3. Sex
+4. Age
+5. TROG
+6. MM
+
+**p < .01.
+
+1. FB
+
+–
+
+2. EA
+
+.72**
+
+–
+
+3. Sex
+
+4. Age
+
+5. TROG
+
+6. MM
+
+.06
+.02
+–
+
+.14
+.01
+.11
+–
+
+.50**
+.43**
+.13
+.30**
+
+–
+
+.35**
+.43**
+.04
+.14
+.13
+–
+
+A lag between understanding false belief and emotion attribution
+
+213
+
+slo pes w as me t (the Prop ortio nal Odds Assumption w as not violated)
+analyse s.
+
+for all thre e
+
+In the first regression mo del, the co ntributio n of age, TROG, and MM to FB w as
+asse sse d. Both TROG and MM had a significant impac t o n FB, and age w as dro pped
+from the final model. After the influence o f MM had been acco unte d for, every unit
+impro veme nt on the TROG meant that c hildren w e re 1.6 times mo re likely to pass an
+additional FB question (95%CI 1.3–2.0, p < .001). Afte r the influenc e o f TROG had bee n
+ac counted for, a 10% increase in MM me ant that children w e re 1.6 time s more likely to
+pass an additional FB questio n (95% CI 1.6–1.7, p < .001).
+
+In the seco nd regression mo de l, the c ontribution of age , TROG, and MM to EA w as
+asse sse d. Bo th TROG and MM had a significant impact on EA, and age w as dro pped
+from the final model. After the influence o f MM had been acco unte d for, every unit
+impro veme nt on the TROG meant that c hildren w e re 1.3 times mo re likely to pass an
+additional e motio n attribution (95% CI 1.1–1.6, p < .001). After the influenc e of TROG
+had be en acc ounted for, a 10%increase in MM meant that children w ere 1.5 times mo re
+likely to pass an additional emo tion attribution (95% CI 1.5–1.6, p < .001).
+
+To be sure that TROG and MM made a truly indepe nde nt contribution to EA, a third
+regression w as carried o ut in w hich the asso ciation be tw e en FB and EA w as ac counted
+for before the effec ts o f age, TROG, and MM to EA w ere co nsidere d. In this final
+regression, FB w as stro ngly related to EA. For each additional false-belief que stio n
+answ e red co rre c tly, children w ere 17.9 times more likely to pass an additional emo tion
+attributio n (95% CI 6.2–75.5; p < .001). Both age and TROG w e re dro pped fro m the
+final model. How e ver, MM still had a significant impac t o n EA, even w he n the
+co ntributio n o f FB to EA had already bee n taken into acco unt. For every 10% increment
+in MM, children w ere 1.4 times mo re likely to pass an additional e motio n attribution
+(95% CI 1.3–1.4, p < .05).
+
+Altho ugh the o verall prop o rtio n o f me ntal-state
+
+attributes w as use d in this
+ex pe riment, other authors have po inte d o ut that the total amount o f me ntal-state talk
+might be a mo re informative measure; mothers w ho spe ak mo re about the mind—in
+absolute te rms—co uld pro vide their c hildren w ith additional re levant linguistic inp ut
+(Ruffman, Slade , & Cro w e , 2002). Thus, w e c onducte d a sec ond set o f identical analyse s
+w ith children’s raw sco res for MM rather than prop ortio nal sc ore s. The ove rall p atte rn
+of findings w as virtually identical.
+
+Discussion
+Ex perime nt 2 co nfirmed the lag betw ee n false-be lief understanding and belief-based
+emo tion attribution. There w ere more children passing the false-belief questio n and
+failing the e motio n attributio n than the reverse patte rn (see Table 4). Also, c hildren
+made a c orre ct emo tion pre dictio n for the HEE less ofte n than in the Do g–Rabbit Test.
+This latte r finding supports the conclusion of Ex perime nt 1; the visible absence of any
+ne gative
+to identify the
+pro tagonist’s emotion but not his false be lief.
+
+in the Do g–Rabbit Test) made
+
+emotion (i.e.
+
+it easie r
+
+Ex periment 2 foc used on the relationship betw ee n c hildren’s
+
+syntac tic under-
+standing (TROG), mothers’ mental-state language (MM), and children’s ability to
+understan d the link betw ee n belief and e motio n. In suppo rt o f p revious re search, it w as
+found that syntac tic unde rstanding w as co rre lated w ith bo th false-be lief understanding
+(Astingto n & Jenkins, 1999) and e motio n attribution (Po ns e t a l., 2003). Also, it w as
+
+214 Marc de Rosnay et al.
+
+language
+
+re lated to bo th false -be lief
+found that mo the rs’ use o f me ntal-state
+understanding and emo tion attribution, eve n though this measure did no t directly
+tap mother—child disc ourse. These results re plicate tho se o f Meins e t a l. (1998). In
+addition, mothers’ mental-state language made a significant c ontribution to children’s
+belief-based emo tio n attributio ns, even w hen understanding of false belief had been
+acco unte d for. Thus, o ur
+input makes a greater
+co ntribution to children’s c apacity to see the link betw een belief and e motio n than
+does children’s syntactic understanding (TROG). The se findings are discussed in more
+detail be low .
+
+suggest that mate rnal
+
+findings
+
+GENERAL DISCUSSION
+The curre nt ex perime nts and those o f Bradmetz and Schneider (1999), Hadw in and
+Perner (1991), Harris e t a l. (1989), and Ruffman and Ke enan (1996) reve al a co nsiste nt
+lag be tw e en children’s understanding of false be lief and the co rre c t attributio n o f be lief-
+based emo tion. Our results also sho w that linguistic ability in the semantic (BPVS) and
+syntactic (TROG) domain, and linguistic input (mo thers’ use of me ntal-state language
+w hen describing their children) c orre late w ith children’s understanding o f false belief
+and belief-based e motio n. Be low , w e disc uss the implications o f these findings w ith
+re sp e c t
+lag be tw e e n
+understanding be lief and e motio n attribution.
+
+to c hildre n’s de ve lop ing the o ry-of-mind abilities and the
+
+If w e focus first on verbal ability, our results fit square ly w ithin a gro w ing body of
+re search that demo nstrate s the impo rtance o f children’s verbal ability for theo ry-of-
+mind understanding. Verbal ability has be en sho w n to contribute to both false-be lief
+understanding (Astington & Jenkins, 1999; Bradme tz, 1998; de Villiers, 2000; Happe´ ,
+1995; Jenkins & Astington, 1996) and c hildren’s e motio n unde rstanding (Cutting &
+Dunn, 1999; Po ns e t a l., 2003). Admittedly, our results do not clarify w hich aspect of
+language is o f greate r importance because w e did not direc tly co mpare semantic
+(Ex perime nt 1) and syntac tic (Ex periment 2) ability. No r do o ur re sults allow us to infer
+the dire ction of causation betw een verbal ability and the ory-o f-mind understanding.
+How e ver, rece nt longitudinal re search offers good supp ort for the c onc lusion that
+language
+re ve rse
+(Astingto n & Jenkins, 1999; Ruffman e t a l., 2002).
+
+the o ry-o f-mind unde rstanding rathe r
+
+ability p re dic ts
+
+than the
+
+input ge nuinely p romo tes
+
+We also demonstrated that the propo rtion of mental attributes use d by mo the rs
+w hen de scribing the ir children makes a significant indepe nde nt co ntributio n to
+children’s theo ry-of-mind understanding. Again, this relationship doe s not allow us to
+infer the dire ction of c ausatio n. As noted by Dunn e t a l. (1991b), suc h a re lationship
+co uld c ome abo ut bec ause mate rnal
+the child’s so cial
+co gnition. Alte rnative ly, child c harac teristics—such as earlier theory-o f-mind ability—
+may elicit a particular type o f mate rnal input. Accumulating e vidence make s the latte r
+interpre tation inc reasingly implausible . First, Ruffman e t a l.
+(2002) have re cently
+show n that mo the rs’ use o f me ntal state utte rance s pre dicts later theo ry-of-mind
+abilities, but the reve rse re lationship doe s no t hold. Furthermo re , the relationship
+betw ee n mate rnal mental-state language and children’s later theo ry-of-mind under-
+standing remained, e ven w hen e arlier
+the ory-o f-mind, earlier child me ntal-state
+utte rance s, earlier child language, maternal education (SES), and age w e re co ntro lled
+for. These findings stro ngly suggest that mate rnal mental-state language has a causal
+effect o n children’s theo ry-of-mind understan ding.
+
+A lag between understanding false belief and emotion attribution
+
+215
+
+The pre sent study adds further suppo rt to this conclusion. Ruffman e t a l. (2002)
+asse sse d maternal mental-state language w hen the mother w as in co nversatio n w ith he r
+child. Arguably, characteristic s o f the c hild that w e re no t assessed by the investigato rs
+(e.g., an inte rest in peo ple and relationships) affecte d the mo ther’s c onversatio nal style
+as w ell as the c hild’s late r theo ry-of-mind performanc e. In the prese nt study, ho w eve r,
+ve ry similar
+re sults w e re o btaine d w h e n mate rnal disc o urs e w as me asure d,
+inde pendent of the child’s mode o f c onversatio n. Specifically, mo the rs’ references to
+mental state s w ere assesse d w he n they described their c hildren and no t w hen they
+w ere in conversation w ith them. More gene rally, these findings suggest that the
+differential te nde ncy to refer to mental states is a stable charac teristic of the mo the r that
+can be e licited in different co ntex ts.
+
+Individual differences in linguistic ability and input also sp eak dire ctly to the lag
+be tw e e n unde rstanding false be lief and e mo tio n attributio n. Re gre ssion 3 in
+Ex perime nt 1 sho w ed that inc reased verbal mental age (BPVS) improved children’s
+pro bability o f p assing mo re belief-base d emo tion attributio ns, even after the ir succ ess
+on the false-belief que stio ns had been ac co unted for. Similarly, regre ssio n 3 in
+Ex perime nt 2 show ed that a higher percentage of mate rnal mental-state attributes w hen
+de scribing their children improved c hildren’s probability of p assing mo re e motio n
+attributio ns, e ven after the ir succ ess on the false-be lief questions had been ac counted
+for. Thus, the findings show that linguistic ability and maternal linguistic input are
+important for emo tion understan ding, even after any underlying relationship w ith false-
+belief understanding has bee n acc ounted for. The se findings are unique in that they
+de monstrate the sustained importance o f verbal ability and mate rnal input for children’s
+theory-o f-mind understanding. Typically, theo ry-of-mind researc h has foc used on false-
+belief understanding (Astingto n, 2001; Wellman, Cro ss, & Watso n, 2001). Our results
+indicate that even w hen that important milesto ne has been reache d, ve rbal ability and
+maternal input co ntinue to p lay a role in helping c hildren to reach a later milesto ne ,
+namely an unde rstanding o f belief-based emotion.
+
+Therefore , to e x plain the lag betw een understan ding be lief and e motio n attributio n,
+it is impo rtant to give co nsideration to the contribution of linguistic ability and input. It
+co uld be argue d that the lag is sc arc ely surprising because it simply takes time for
+children to make use of their new -found understan ding of belief w hen anticipating a
+pro tagonist’s re actions. How e ver, this ex planation is to o general. When children are
+aske d to pre dict ho w a protagonist w ill act given that he or she holds a false be lief,
+ex isting data show that 4- and 5-year-olds are quite ac curate in making suc h actio n
+predictio ns (Bradmetz & Sc hne ider, 1999; We llman e t a l., 2001). Ho w ever, as w e have
+se en, c hildren of this age w ill o ften make mistakes in predicting ho w a protago nist w ill
+fe el. An adequate ex planation o f the lag be tw e en understan ding false be lief and
+emo tion attributio n should ex plain w hy 4- and 5-ye ar-o lds typ ic ally understand that
+false beliefs guide actio n but at the same time ofte n fail to unde rstand that false beliefs
+can gene rate emotio n.
+
+An alternative argument is that many emo tional reactio ns, especially overt reactio ns
+of joy, ange r, or fe ar, are typically the immediate result o f an obje ctive c hange in a
+person’s ex ternal c ircumstances. Only occ asionally do emotional reactions ste m fro m a
+misre presentation of tho se circumstance s. By co ntrast, c urre nt actio ns are rare ly the
+immediate re sult of suc h obje ctive c hange. Inste ad, they are typically the result of a
+person’s ongoing plans and ex p ectatio ns. Such future -oriented ex pe ctatio ns can be
+ac curate, but they may often turn o ut to be false. On this argument, yo ung children are
+slo w to make belief-base d attributio ns o f emo tion bec ause they are rare ly called for,
+
+216 Marc de Rosnay et al.
+
+unlike be lief-based attributio ns of actio n. Instead, an analysis o f the obje ctive situatio n
+fac ing the pro tagonist is typically sufficie nt to ex plain his or he r emotional reactions.
+This analysis is co nsistent w ith the reality-base d justifications that younge r c hildren
+o ffered. Ruffman and Kee nan (1996) have similarly argued that children find it harder to
+associate be lief w ith surprise than ac tion be cause children’s early c onc ept o f surp rise is
+ro oted in desirable events, w he reas eve n 2- and 3-year-olds understand that actio ns are
+re late d to thinking (hypothetic al be liefs) as w ell as desire s. Thus, w hen children co me
+to understand false be lief, this insight ex tends naturally to the ir concep t o f actio n. By
+co ntrast, children must form a ne w co nce pt o f surp rise that inco rpo rate s belief.
+
+Ho w might linguistic input and linguistic ability c ontribute to children’s under-
+standing of
+surprise and belief-based e motio n more generally? In line w ith the
+interpre tations offered abo ve, children’s e x perience of o the r pe ople’s points-o f-vie w
+(i.e., be liefs, thoughts, emo tio ns, etc.) thro ugh co nve rsational and soc ial ex change s
+should facilitate the ir ability to make be lief-based e motio n attributio ns. Arguably,
+mo the rs w ho mo re often de scribe their c hildren in mentalistic terms pro vide pre cisely
+this kind o f informatio n and, hence, promo te the ir c hildren’s belief-base d e motio n
+attributio ns. Similarly, c hildren w ho are more linguistic ally able may bette r unde rstand
+and incorporate such informatio n.
+
+the
+
+that oc curs
+
+ex c hange of view po ints
+
+The e x ac t me chanism by w hich linguistic ability and mate rnal linguistic input affect
+theo ry-of-mind understanding is too bro ad a topic for the curre nt pape r. The orists have
+variously e mphasized the impo rtance of me ntal-state refere nces pe r se (e.g. Ruffman e t
+a l., 2002), syntac tic co mpete nce , e spe cially the maste ry of c omple me nt structure s (de
+Villiers, 2000), o r
+in w e ll-coo rdinate d
+co nversation (Harris, 1996, in p ress; Nelso n, 1996). Here, w e simply stre ss that verbal
+ability and maternal inp ut are likely to be compleme ntary, rathe r than comp eting,
+fac tors promoting the de velopment of children’s theo ry-of-mind abilities (Astingto n,
+2001). In Ex perime nt 2, w e found that bo th syntactic compete nce and ve rbal input
+made a significant indepe nde nt contribution to children’s suc cess o n the false-be lief
+tasks and e motio n understanding. Similarly, Ruffman e t a l. (2002) have sho w n that
+semantic co mpetenc e and mate rnal me ntal-state language make inde pendent co ntribu-
+tio ns to c hildren’s theo ry-of-mind understan ding.
+
+In c onc lusion, o ur results c onfirm the ex istence o f a robust lag betw ee n false-be lief
+unde rstanding and the understan ding o f be lief-base d emo tio n. They sho w that
+individual differences in verbal ability and mate rnal input are impo rtant in helping
+children to o vercome this lag.
+
+Acknowledgements
+We w ould like to thank the Rho des Trust and the Oxfordshire Health Se rvic es Researc h
+Co mmittee and asso ciated Charitable Funds for financial support o f this research. We w ould also
+like to thank the mothers and children w ho participated in this researc h and gave so gene rously
+of their time . Finally, w e w o uld like to ac know ledge the c ontributions of the three anonymous
+review e rs for their constructive and thoughtful criticism.
+
+References
+Agre sti, A. (1996). An in tro d u c tio n to c a te g o ric a l d a ta a n a ly sis . New Yo rk: Wiley.
+
+A lag between understanding false belief and emotion attribution
+
+217
+
+Ainsw orth, M. D. S., Blehar, M. C., Waters, E., & Wall, S. (1978). Pa tte rn s o f a ttac h m e n t: A
+
+p sy c h o lo gic a l stu d y o f th e Stra n g e Situ a tio n . Hillsdale, NJ: Erlbaum.
+
+Astington, J. W. (2001). The future of theory-of-mind re se arch: Understanding motivational states,
+
+the role of language, and real-w orld consequence s. Ch ild De v e lo p m e n t, 72(3), 685–687.
+
+Astington, J. W., & Jenkins, J. M. (1999). A longitudinal study of the relation betw e en language
+
+and theo ry-of-mind developme nt. De v e lo p m e n ta l Ps yc h o lo g y , 35(5), 1311–1320.
+
+Bartsch, K., & Wellman, H. M. (1995). Ch ildre n ’s
+
+ta lk a b o u t th e m in d . New Yo rk: Ox ford
+
+University Press.
+
+Bender, R., & Benner, A.
+
+(2000) Calc ulating ordinal regression models in SAS and S-Plus.
+
+Bio m e tric a l Jo u rn a l, 42(6), 677–699.
+
+Bishop, D. V. M. (1989). Te st fo r th e re c e p tio n o f g ra m m a r (TRO G) (2nd ed.). Ox ford: University
+
+of Oxford.
+
+Bradmetz, J. (1998). Acquisition of a the ory o f mind and intellectual developme nt in the c hild
+
+aged 3 to 5. Ca h ie rs d e Ps y c h o lo g ie Co g n itiv e , 17(1), 95–113.
+
+Bradmetz, J., & Schneider, R. (1999). Is Little Re d Riding Hoo d afraid o f her grandmothe r?
+o f De v e lo p m e n ta l
+
+Cognitive vs. e mo tional respo nse to a false be lief. Br itish Jo u rn a l
+Ps y c h o lo g y , 17, 501–514.
+
+Cutting, A. L., & Dunn, J. (1999). Theory-of-mind, e motion unde rstanding, Language, and family
+
+background: Individual differences and interrelations. Ch ild De v e lo p m e n t, 70(4), 853–865.
+
+De nham, S. A.
+
+(1986). So cial co gnition, prosoc ial be havio r, and emotion in preschoolers:
+
+Contex tual validation. Ch ild De v e lo p m e n t, 57, 194–201.
+
+de Ro snay, M. (2003). Ch ildre n ’s u n d e rsta n d in g o f e m o tio n : Th e
+
+ro le s o f a ttac h m e n t a n d
+
+m a te rn a l d isc o u rse . Unpublished Docto ral Thesis, University of Oxford.
+
+de Rosnay, M., & Harris, P. L. (2002). Individual differe nces in children’s understanding of
+emotion: The roles of attachment and language. Atta c h m e n t & Hu m a n De v e lo p m e n t, 4(1),
+39–54.
+
+de Villiers, J. (2000). Language and the ory-of-mind: What are the developmental relationships? In
+S. Baron-Cohen, H. Tager-Flusberg, & D. J. Cohen (Eds.), Un d e rsta n d in g o th e r m in d s:
+Pe rs p e c tiv e s fro m d e v e lo p m e n ta l c o g n itive n e u ro s c ie n c e . Ox ford: Ox ford University Press.
+Dunn, J., Bro w n, J., & Be ardsall, L. (1991a). Family talk abo ut fe eling states and children’s later
+
+understanding of others’ emotions. De v e lo p m e n ta l Ps y c h o lo g y, 27, 448–455.
+
+Dunn, J., Brow n, J. R., Slomkow ski, C., Tesla, C., & Youngblade, L. (1991b). Young children’s
+Individual differe nce s and their
+
+feelings and be liefs:
+
+understanding of o ther pe ople’s
+ante cede nts. Ch ild De v e lo p m e n t, 62, 1352–1366.
+
+Dunn, L. M., Dunn, L. M., Whetton, C., & Pintille, D. (1982). Th e British Pic tu re Vo c a b u la ry
+Sc a le . Ad a p te d fro m th e Pe a b o d y Pic tu re Vo c a b u la ry Te st—Re v ise d Ed itio n . Windso r, UK:
+NFER-NELSON.
+
+Hadw in, J., & Pe rner, J. (1991). Please d and surprised: Children’s c ognitive the ory of e mo tion.
+
+Br itish Jo u rn a l o f De v e lo p m e n ta l Ps y c h o lo g y , 9(2), 215–234.
+
+Happe´ , F. (1995). The role of age and verbal ability in the the ory-of-mind task performance of
+
+subjec ts w ith autism. Ch ild De v e lo p m e n t, 66, 843–855.
+
+Harris, P. L. (in press). Conversation, pretenc e and theory of mind. In J. W. Astington & J. Baird
+
+(Eds.), Wh y la n gu a ge m a tte rs fo r th e o ry o f m in d . Ox ford, UK: Ox fo rd University Press.
+
+Harris, P. L. (1996). Desires, beliefs, and language . In P. Carruthers & P. K. Smith (Eds.), Th e o rie s
+
+o f th e o rie s o f m in d . Cambridge: Cambridge University Press.
+
+Harris, P. L., Johnson, C. N., Hutton, D., Andrew s, G., & Co oke, T. (1989). Yo ung children’s
+
+theory-of-mind and emotion. Co g n itio n a n d Em o tio n , 3(4), 379–400.
+
+Hresko , W. P., Reid, D. K., & Hammill, D. D. (1981). Th e Te st o f Ea rly La n g u a g e De v e lo p m e n t
+
+(TELD). Austin, TX: Pro -Ed.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longitudinal associations w ith
+
+me ntal state talk betw een friends. De v e lo p m e n ta l Ps y c h o lo gy , 34, 1026–1037.
+
+Jenkins, J. M., & Astington, J. W. (1996). Cognitive factors and family structure associated w ith
+
+theory-of-mind deve lo pment in young children. De v e lo p m e n ta l Ps yc h o lo g y , 32(1), 70–78.
+
+218 Marc de Rosnay et al.
+
+Meins, E. (1998). The effects o f sec urity of attachment and maternal attribution of meaning o n
+
+children’s linguistic ac quisitional style. In fa n t Be h a v io r & De v e lo p m e n t, 21(2), 237–252.
+
+Meins, E., & Fernyho ugh, C. (1998). Linguistic acquisio nal style and mentalising development:
+
+The ro le of maternal mind-minde dness. Co g n itive De v e lo p m e n t, 14, 363–380.
+
+Meins, E., Fernyhough, C., Russell, J., & Clark-Carter, D. (1998). Se curity of attachment as a
+pre dictor of symbolic and mentalising abilities: A lo ngitudinal study. So c ia l De v e lo p m e n t,
+7(1), 1–24.
+
+Morrell, J. M. B. (1999). The role of mate rnal co gnitions in infant sle ep problems as asse ssed by a
+new instrument, the Maternal Cognitions about Infant Sleep Questionnaire. Jo u rn a l o f Ch ild
+Ps y c h o lo gy a n d Ps y c h ia try a n d Allie d Disc ip lin e s , 40(2), 247–258.
+
+Nelson, K (1996). La n gu a ge in c o g n itiv e d e v e lo p m e n t. New York: Cambridge University Press.
+Perner, J. (1991). Un d e rs ta n d in g th e re p re se n ta tio n a l m in d . Cambridge, MA: MIT Pre ss.
+Pons, F., Law son, J., Harris, P. L., & de Ro snay, M. (2003). Individual differences in children’s
+emotion understanding: Effects of age and language. Sc a n d in a v ia n Jo u rn a l o f Ps yc h o lo g y , 44,
+347–353.
+
+Renfrew , C. E. (1991). Th e Bu s Sto ry : A te st o f n a rra tiv e sp e e c h . Ox ford, UK: Winslo w Press.
+Ruffman, T., & Keenan, T. R. (1996). The belief-based emotion o f surprise: The case for a lag in
+
+understanding relative to false belief. De v e lo p m e n ta l Ps y c h o lo gy , 32(1), 40–49.
+
+Ruffman, T., Slade, L., & Crow e , E. (2002). The relation betw e en childre n’s and mother’s mental
+
+state language and the ory-o f-mind understanding. Ch ild De v e lo p m e n t, 73(3), 734–751.
+
+Wec hsler, D. (1967). Ma n u a l fo r th e We c h sle r p re sc h o o l a n d p rim a ry sc a le o f in te llige n c e . New
+
+York: Psychological Corpo ration.
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theo ry-of-mind development: The
+
+truth about false belief. Ch ild De v e lo p m e n t, 72(3), 655–684.
+
+Received 19 September 2001; revised version received 16 May 2003
+
+

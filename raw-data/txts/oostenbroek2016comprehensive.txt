@@ -1,0 +1,594 @@
+Report
+
+Comprehensive Longitudinal Study Challenges the
+Existence of Neonatal Imitation in Humans
+
+Highlights
+d Human infants were shown 11 gestures at 1, 3, 6, and 9 weeks
+
+of age
+
+d Infant production of these gestures was independent of what
+
+was modeled
+
+Authors
+
+Janine Oostenbroek, Thomas
+Suddendorf, Mark Nielsen, ...,
+Jacqueline Davis, Sally Clark, Virginia
+Slaughter
+
+d Purported imitation effects were replicated but vanished in
+
+light of extra controls
+
+Correspondence
+vps@psy.uq.edu.au
+
+d The ﬁndings demand a reconceptualization of the roots of
+
+human social cognition
+
+In Brief
+Oostenbroek et al. carried out the largest-
+ever longitudinal study of neonatal
+imitation in humans. Newborns were
+shown a variety of gestures at four time
+points and found to be just as likely to
+produce matching and non-matching
+actions in response. The results
+challenge claims that imitation is an
+innate human capacity evident at birth.
+
+Oostenbroek et al., 2016, Current Biology 26, 1334–1338
+May 23, 2016 ª 2016 Elsevier Ltd.
+http://dx.doi.org/10.1016/j.cub.2016.03.047
+
+Current Biology
+
+Report
+
+Comprehensive Longitudinal Study Challenges
+the Existence of Neonatal Imitation in Humans
+
+Janine Oostenbroek,1,2 Thomas Suddendorf,2 Mark Nielsen,2,3 Jonathan Redshaw,2 Siobhan Kennedy-Costantini,2
+Jacqueline Davis,4 Sally Clark,2 and Virginia Slaughter2,*
+1Department of Psychology, University of York, York YO10 5DD, UK
+2Early Cognitive Development Centre, School of Psychology, University of Queensland, Brisbane, QLD 4072, Australia
+3Faculty of Humanities, University of Johannesburg, Auckland Park 2006, South Africa
+4Department of Psychology, University of Cambridge, Cambridge CB2 3EB, UK
+*Correspondence: vps@psy.uq.edu.au
+http://dx.doi.org/10.1016/j.cub.2016.03.047
+
+SUMMARY
+
+Human children copy others’ actions with high ﬁdel-
+ity, supporting early cultural learning and assisting in
+the development and maintenance of behavioral tra-
+ditions [1]. Imitation has long been assumed to occur
+from birth [2–4], with inﬂuential theories (e.g., [5–7])
+placing an innate imitation module at the foundation
+of social cognition (potentially underpinned by a
+mirror neuron system [8, 9]). Yet, the very phenome-
+non of neonatal imitation has remained controversial.
+Empirical support is mixed and interpretations are
+varied [10–16], potentially because previous investi-
+gations have relied heavily on cross-sectional de-
+signs with relatively small samples and with limited
+controls [17, 18]. Here, we report surprising results
+from the most comprehensive longitudinal study of
+neonatal
+imitation to date. We presented infants
+(n = 106) with nine social and two non-social models
+and scored their responses at 1, 3, 6, and 9 weeks of
+age. Longitudinal analyses indicated that the infants
+did not imitate any of the models, as they were just as
+likely to produce the gestures in response to control
+models as they were to matching models. Previous
+positive ﬁndings were replicated in limited cross-
+sections of the data, but the overall analyses con-
+ﬁrmed these ﬁndings to be mere artifacts of
+restricted comparison conditions. Our results under-
+mine the idea of an innate imitation module and sug-
+gest that earlier studies reporting neonatal imitation
+were methodologically limited.
+
+RESULTS
+
+With approval by the University of Queensland’s Behavioural and
+Social Sciences Ethical Review Committee, our study was de-
+signed to chart the prevalence, time course, and social-cognitive
+correlates of neonatal
+imitation using a large sample and a
+comprehensive longitudinal design. Infants (n = 106) were pre-
+sented with 11 models for 60 s each when the infants were 1,
+3, 6, and 9 weeks of age. These models (see Figure 1) included
+
+four facial gestures (tongue protrusion, mouth opening, happy
+face, and sad face), two non-social objects simulating the facial
+gestures (a spoon protruding through a tube and a box opening),
+two hand gestures (index ﬁnger protrusion and grasping), and
+three vocal gestures (‘‘mmm,’’ ‘‘eee,’’ and ‘‘click’’ sounds). We
+scored the number of times the infants displayed each of the
+nine facial, hand, and vocal gestures when viewing the models
+(see Table S1 for coding guidelines and inter-rater reliabilities).
+Unlike in other studies of neonatal imitation, this allowed us to
+compare the frequency of infants’ behavior that matched the
+model with the frequencies of that same behavior in response
+to ten different control models. Imitation would be evident if
+matching responses (e.g., infant makes tongue protrusions while
+viewing a tongue protrusion model) were more frequent than
+non-matching responses (e.g., infant makes tongue protrusions
+while viewing a happy face model). We excluded from analyses
+all infants who were sleeping or crying during a testing session,
+resulting in a ﬁnal sample of 64 infants for the longitudinal tests
+and a range of 77–90 infants for the cross-sectional tests (see
+Supplemental Experimental Procedures for further details).
+
+For each gesture we ran a series of generalized linear mixed
+model (GLMM) analyses. The dependent variable for each series
+of GLMMs was the number of responses produced by the infants
+averaged over four 15-s trial periods for each gesture modeled.
+The ﬁxed predictors of infant behavior included (1) the gesture
+modeled by the experimenter (i.e., the matching gesture or one
+of the ten control gestures), (2) the age of the infant at the time
+of testing, and (3) the interaction of the previous two predictors
+(to account for any change in imitation over time). These full
+GLMMs were tested against simpler nested GLMMs: gesture
+and age only without the interaction term, gesture only, age
+only, and a null model containing no ﬁxed effects (see Supple-
+mental Experimental Procedures for more details and justiﬁca-
+tion of these statistical analyses and also for details of the model
+selection process for each gesture).
+
+Contrary to expectations, the longitudinal analyses failed to
+uncover any evidence for imitation of any of the nine social
+gestures (see Figure 2). Speciﬁcally, for three gestures (mouth
+opening, sad face, and eee sound), there were no differences be-
+tween the frequencies of the gestures in response to the match-
+ing models versus the control models and no changes in the fre-
+quencies of the gestures over time. For three other gestures
+(index ﬁnger protrusion, grasping, and click sound), the infants’
+likelihood of producing the gestures changed linearly over
+
+1334 Current Biology 26, 1334–1338, May 23, 2016 ª 2016 Elsevier Ltd.
+
+Figure 1. Gestures Modelled to Infants
+(A–H) Gestures modeled to infants in imitation testing: tongue protrusion (A), mouth opening (B), happy facial expression (C), sad facial expression (D), index ﬁnger
+protrusion (E), grasping (F), tube protrusion (G), and box opening (H). Not represented are the three vocal gestures: mmm, eee, and click sounds. See Table S1 for
+coding guidelines and inter-rater reliabilities.
+
+time, but the type of model was not an informative predictor of
+their behavior. For the ﬁnal three gestures (tongue protrusion,
+happy face, and mmm sound), both time and model (but not their
+interaction) were predictors. However, although the infants pro-
+duced these gestures signiﬁcantly more often when the model
+demonstrated them than when she demonstrated some control
+gestures, there were no signiﬁcant differences when compared
+to other control gestures (see Table 1). These null results were
+evident even before applying Bonferroni corrections to control
+for familywise error rate (comprehensive longitudinal results
+are reproduced in Tables S2 and S3).
+
+Since tongue protrusion has produced the most consistent ev-
+idence for neonatal imitation in the literature [14, 19], we present
+a separate detailed summary of this gesture across conditions in
+Figure 3. At each time point, only about half of the infants
+(46.7%–64.2%) produced any tongue protrusions in response
+to the tongue protrusion model (see Figure S4), and there was
+no sign of intra-individual consistency of such responses (i.e.,
+response frequency correlations across the four time periods
+ranged from  .08 to 0.28). More of the control comparisons for
+tongue protrusion were signiﬁcant than for any other gesture
+(see Table 1). Yet, across time points, the frequency of infant
+tongue protrusion responses to the tongue protrusion model
+did not signiﬁcantly differ from the frequencies of such re-
+sponses to the mouth opening, happy face, and sad face
+models. Thus, there is no evidence infants were imitating the
+speciﬁc model. One may speculate about whether active faces
+in general may trigger a tongue protrusion response, but this
+begs the question of why infants did not respond in a similar
+manner to the vocal gestures.
+
+The overall longitudinal results contradict previous reports of
+neonatal imitation. Nonetheless, our data do indeed replicate
+key cross-sectional ﬁndings, while conﬁrming these results
+to be artifacts of
+restricted comparison conditions. When
+we used the most common cross-sectional procedure of
+comparing infants’
+tongue protrusions in response to the
+tongue protrusion model with their tongue protrusions to the
+single control model of mouth opening [2], for example, we
+found that infants were signiﬁcantly more likely to produce
+matching responses than non-matching responses at 1 week,
+t(73) = 2.25, p = 0.028 (n = 74), and 9 weeks of age, t(88) =
+3.24, p = 0.002 (n = 89). This need not mean that the infants
+imitated the tongue protrusion model at these ages, however,
+as the effect does not hold across all control comparisons.
+When we used the happy face as the control model,
+for
+instance, there were no signiﬁcant cross-sectional effects at
+any age, all t < 1.62, p > .11. More broadly, across nine ges-
+tures and four time points (36 total cross-sections of data),
+there were 14 occasions on which the infants produced the
+gesture matching the model signiﬁcantly more often than to
+at least one control model. On no occasion, however, did the
+infants produce the gesture matching the model signiﬁcantly
+more often than to all control models, even without applying
+Bonferroni corrections (see Table S4). Since there is no widely
+accepted a priori reason to choose one control model over
+another, even our cross-sectional results do not provide any
+evidence for a true imitation effect. Yet, if we had obtained or
+analyzed a less comprehensive dataset (as has been done in
+previous studies), then we may have been impelled to conclude
+otherwise.
+
+Current Biology 26, 1334–1338, May 23, 2016 1335
+
+Figure 2. Red Lines Indicate Mean Response Frequencies to Matching Models with Control Models Indicated in Black
+Mean frequencies of responses per 15-s trial period to matching models (red lines) and control models (black lines) for nine different infant gestures over the ﬁrst
+9 weeks of life. Note that the y-axes are not scaled consistently, as some gestures were produced at much lower frequencies than others. See Figure 3 and
+Figures S1–S3 for more detailed graphs that distinguish between control models. See Tables S2 and S4 for results of the longitudinal and cross-sectional an-
+alyses for each gesture.
+
+DISCUSSION
+
+Given the methodological strengths of the current study com-
+pared to previous studies [18], our results suggest that the
+many prominent theories built upon the assumption of neonatal
+imitation (e.g., [5–7]) are not empirically supported and should
+be modiﬁed or abandoned altogether. To continue defending
+the phenomenon in light of our ﬁndings would require the non-
+parsimonious and empirically intractable assumption that infants
+produce the same amounts of certain gestures (e.g., tongue pro-
+trusions, happy faces, and mmm sounds) to matching and non-
+matching models for different reasons (imitative and non-imita-
+tive). Previous studies reporting imitative effects appear to have
+been limited by inadequate controls and analyses, and/or the
+
+1336 Current Biology 26, 1334–1338, May 23, 2016
+
+presence of outliers in small cross-sectional samples of infants.
+A few studies reporting null results like ours can be found in the
+literature [17], but many more may have been ﬁled away due to
+publication bias [20, 21].
+
+If neonates do not imitate, as our results suggest, then the
+age of ﬁrst emergence for the phenomenon may actually be
+closer to 6 to 8 months of age [22]—around the time that Pia-
+get [23] classically proposed. Such a developmental trajec-
+tory would challenge the idea of a specialized, nativist module
+for imitation [2, 5] and would instead favor the view of imita-
+tion as an emergent product of both native and environmental
+inﬂuences [14, 19, 24, 25]. One key driver of the nativist ac-
+count was the discovery of mirror neurons in the macaque
+monkey [26], but it remains unclear whether these neurons
+
+Table 1. Summary of Pairwise Comparisons between Matching and Control Models for Infants’ Tongue Protrusion, Happy Face, and
+mmm Sound Responses, Collapsed across Longitudinal Time Points
+
+Gesture Produced
+by Infants
+
+Tongue protrusion
+
+Matching Model > Control Model*
+
+Matching Model = Control Model
+
+Matching Model < Control Model*
+
+tube protrusion, box opening, ﬁnger
+protrusion, grasping, mmm sound, eee
+sound, click sound
+
+mouth opening, happy face, sad face
+
+Happy face
+
+tube protrusion, box opening, ﬁnger
+protrusion, grasping
+
+tongue protrusion, mouth opening, sad
+face, eee sound, click sound
+
+mmm sound
+
+mmm sound
+
+box opening
+
+tongue protrusion, mouth opening, tube
+protrusion, happy face, sad face, ﬁnger
+protrusion, grasping, eee sound, click
+sound
+
+*p < 0.05 (prior to Bonferroni correction). For more details, see Table S3.
+
+are an innate adaptation for imitation and action understand-
+ing [8, 9] or a by-product of associative learning [27, 28]. Our
+results provide evidence against the innate view, and they
+also bring into question ﬁndings suggesting that macaques
+and other non-human primates engage in neonatal
+imitation
+[29, 30].
+
+In summary, our comprehensive longitudinal study, contrary to
+expectations [18], has failed to uncover any evidence for imita-
+tion in human neonates. Instead, the results challenge the exis-
+tence of this long-debated phenomenon and prompt revision
+of a number of inﬂuential theories placing it at the foundation
+of social cognition.
+
+EXPERIMENTAL PROCEDURES
+
+Subjects
+Participants included 106 healthy infants (51 girls, 55 boys). The infants were
+tested at four longitudinal time points when aged approximately 1, 3, 6, and
+9 weeks (mean [M] = 1 week, 4 days, SD = 2.49 days; M = 3 weeks, 4 days,
+SD = 3.06 days; M = 6 weeks, 2 days, SD = 2.96 days; M = 9 weeks, 3 days,
+SD = 4.42 days). All parents/guardians gave informed consent for their children
+to participate, as approved by the human ethics committee of the University of
+Queensland.
+
+Materials and Methods
+At each time point, infants were presented with 11 modeled actions (in one of
+ﬁve orders), including four facial gestures (tongue protrusion, mouth opening,
+
+d
+o
+i
+r
+e
+p
+
+l
+
+a
+i
+r
+t
+
+d
+n
+o
+c
+e
+s
+
+5
+1
+
+r
+e
+p
+
+s
+P
+T
+
+f
+
+o
+
+y
+c
+n
+e
+u
+q
+e
+r
+f
+
+n
+a
+e
+M
+
+0.9
+
+0.8
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0
+
+1
+
+3
+
+6
+
+9
+
+Age (weeks)
+
+Figure 3. Red Line Indicates Mean Frequency of Tongue Protrusions to the Matching Model
+Mean frequency of tongue protrusions (TPs) per 15-s trial period to the matched tongue protrusion model and the ten control models. See also Figure S4 and
+Tables S2 and S3.
+
+Current Biology 26, 1334–1338, May 23, 2016 1337
+
+happy face, and sad face), two non-social objects simulating the facial ges-
+tures (a spoon protruding through a tube and a box opening), two hand ges-
+tures (index ﬁnger protrusion and grasping), and three vocal gestures (mmm,
+eee, and click sounds). Following previous work [2], the experimenter ﬁrst
+modeled the relevant action for 15 s (ﬁve times at 3-s intervals) before
+engaging in a passive position for 15 s. This process was then repeated
+such that the infants saw 30 total seconds of active modeling during each
+1-min trial. All sessions were videotaped and infants’ responses were coded
+by two scorers, one blind to the aims of the study (see Table S1 for coding
+guidelines). These coders scored the total number of each of the nine social
+gestures produced by the infants toward each of the 11 models, with these
+gesture frequencies then averaged over each 15-s trial period in which the in-
+fants were in a suitable arousal state for testing. Approximately 20% of the
+videos were coded by both scorers, with good levels of inter-rater reliability
+for all nine gestures (see Table S1). Comprehensive methodological details
+can be found in the Supplemental Experimental Procedures.
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes Supplemental Experimental Procedures,
+four ﬁgures, and four tables and can be found with this article online at
+http://dx.doi.org/10.1016/j.cub.2016.03.047.
+
+AUTHOR CONTRIBUTIONS
+
+J.O., T.S., M.N., and V.S. designed the study. J.O. and S.K.-C. tested the in-
+fants. J.O., S.K.-C., and S.C. contributed to behavioral coding. J.R. and J.D.
+analyzed the data. J.O., T.S., M.N., J.R., and V.S. wrote the manuscript.
+
+ACKNOWLEDGMENTS
+
+This research was supported by the Australian Research Council (reference:
+DP0985969). We sincerely thank the parents and infants who participated.
+
+Received: March 3, 2016
+Revised: March 21, 2016
+Accepted: March 21, 2016
+Published: May 5, 2016
+
+REFERENCES
+
+1. Legare, C.H., and Nielsen, M. (2015). Imitation and innovation: the dual en-
+
+gines of cultural learning. Trends Cogn. Sci. 19, 688–699.
+
+2. Meltzoff, A.N., and Moore, M.K. (1977). Imitation of facial and manual ges-
+
+tures by human neonates. Science 198, 75–78.
+
+3. Meltzoff, A.N., and Moore, M.K. (1983). Newborn infants imitate adult
+
+facial gestures. Child Dev. 54, 702–709.
+
+4. Field, T.M., Woodson, R., Greenberg, R., and Cohen, D.
+
+(1982).
+Discrimination and imitation of facial expression by neonates. Science
+218, 179–181.
+
+5. Meltzoff, A.N., and Decety, J. (2003). What imitation tells us about social
+cognition: a rapprochement between developmental psychology and
+cognitive neuroscience. Philos. Trans. R. Soc. Lond. B Biol. Sci. 358,
+491–500.
+
+6. Trevarthen, C., and Aitken, K.J. (2001). Infant intersubjectivity: research,
+
+theory, and clinical applications. J. Child Psychol. Psychiatry 42, 3–48.
+
+7. Nadel, J., and Butterworth, G., eds. (1999). Imitation in Infancy (Cambridge:
+
+Cambridge University Press).
+
+8. Lepage, J.F., and The´ oret, H. (2007). The mirror neuron system: grasping
+
+others’ actions from birth? Dev. Sci. 10, 513–523.
+
+9. Simpson, E.A., Murray, L., Paukner, A., and Ferrari, P.F. (2014). The mirror
+neuron system as revealed through neonatal
+imitation: presence from
+birth, predictive power and evidence of plasticity. Philos. Trans. R. Soc.
+Lond. B Biol. Sci. 369, 20130289.
+
+10. Jones, S.S. (1996). Imitation or exploration? Young infants’ matching of
+
+adults’ oral gestures. Child Dev. 67, 1952–1969.
+
+11. Jones, S.S. (2006). Exploration or imitation? The effect of music on
+4-week-old infants’ tongue protrusions. Infant Behav. Dev. 29, 126–130.
+
+12. Anisfeld, M. (1996). Only tongue protrusion modeling is matched by neo-
+
+nates. Dev. Rev. 16, 149–161.
+
+13. Anisfeld, M. (1991). Neonatal imitation. Dev. Rev. 11, 60–97.
+
+14. Ray, E., and Heyes, C. (2011). Imitation in infancy: the wealth of the stim-
+
+ulus. Dev. Sci. 14, 92–105.
+
+15. Bjorklund, D.F. (1987). A note on neonatal imitation. Dev. Rev. 7, 86–92.
+
+16. Legerstee, M. (1991). The role of person and object in eliciting early imita-
+
+tion. J. Exp. Child Psychol. 51, 423–433.
+
+17. Oostenbroek, J., Slaughter, V., Nielsen, M., and Suddendorf, T. (2013).
+imitation? A review. J. Reprod.
+
+Why the confusion around neonatal
+Infant Psychol. 31, 328–341.
+
+18. Suddendorf, T., Oostenbroek, J., Nielsen, M., and Slaughter, V. (2013). Is
+newborn imitation developmentally homologous to later social-cognitive
+skills? Dev. Psychobiol. 55, 52–58.
+
+19. Jones, S.S. (2009). The development of imitation in infancy. Philos. Trans.
+
+R. Soc. Lond. B Biol. Sci. 364, 2325–2335.
+
+20. Rosenthal, R. (1979). The ﬁle drawer problem and tolerance for null results.
+
+Psychol. Bull. 86, 638–641.
+
+21. Open Science Collaboration (2015). PSYCHOLOGY. Estimating the repro-
+
+ducibility of psychological science. Science 349, aac4716.
+
+22. Barr, R., Dowden, A., and Hayne, H. (1996). Developmental changes in de-
+ferred imitation by 6-to 24-month-old infants. Infant Behav. Dev. 19,
+159–170.
+
+23. Piaget, J. (1962). Play, Dreams, and Imitation in Childhood (New York: WW
+
+Norton & Co).
+
+24. Heyes, C. (2012). What’s social about social learning? J. Comp. Psychol.
+
+126, 193–202.
+
+25. Heyes, C. (2016). Homo imitans? Seven reasons why imitation couldn’t
+possibly be associative. Philos. Trans. R. Soc. Lond. B Biol. Sci. 371,
+20150069.
+
+26. Rizzolatti, G., Fadiga, L., Gallese, V., and Fogassi, L. (1996). Premotor cor-
+tex and the recognition of motor actions. Brain Res. Cogn. Brain Res. 3,
+131–141.
+
+27. Cook, R., Bird, G., Catmur, C., Press, C., and Heyes, C. (2014). Mirror neu-
+
+rons: from origin to function. Behav. Brain Sci. 37, 177–192.
+
+28. Heyes, C.
+
+(2010). Where do mirror neurons come from? Neurosci.
+
+Biobehav. Rev. 34, 575–583.
+
+29. Ferrari, P.F., Visalberghi, E., Paukner, A., Fogassi, L., Ruggiero, A., and
+Suomi, S.J. (2006). Neonatal imitation in rhesus macaques. PLoS Biol. 4,
+e302.
+
+30. Myowa-Yamakoshi, M., Tomonaga, M., Tanaka, M., and Matsuzawa, T.
+(2004). Imitation in neonatal chimpanzees (Pan troglodytes). Dev. Sci. 7,
+437–442.
+
+1338 Current Biology 26, 1334–1338, May 23, 2016
+
+

@@ -1,0 +1,1371 @@
+1
+
+British Journal of Developmental Psychology (2015), 33, 1–17
+© 2014 The British Psychological Society
+
+www.wileyonlinelibrary.com
+
+Friendlessness and theory of mind: A prospective
+longitudinal study
+
+Elian Fink1,2, Sander Begeer1,3, Candida C. Peterson4*, Virginia
+Slaughter4 and Marc de Rosnay1
+1University of Sydney, New South Wales, Australia
+2University College London, UK
+3VU University, Amsterdam, The Netherlands
+4University of Queensland, Brisbane, Queensland, Australia
+
+Chronic friendlessness in childhood predicts adverse mental health outcomes through-
+out life, yet its earliest roots are poorly understood. In theory, developing a theory of
+mind (ToM) should help children gain mutual friends and one preschool study (Peterson &
+Siegal, 2002. Br J Dev Psychol, 20, 205) suggested a cross-sectional connection. We
+therefore used a 2-year prospective longitudinal design to explore ToM as a predictor of
+mutual friendship in 114 children from age 5 to 7 years after controlling potential
+confounds including language ability and group popularity. Conﬁrming friendship’s
+distinctiveness from group sociometric status, numerous group-rejected children (53%)
+had a mutual friend whereas 23% of those highest in group status did not. Five-year-olds
+with a mutual friend signiﬁcantly outperformed their friendless peers on a comprehensive
+ToM battery (basic and advanced false belief). Longitudinally, chronically friendless
+7-year-olds (no friends at either testing time) stood out for their exceptionally poor Time
+1 ToM understanding even after controlling for group popularity, age, and language skill.
+Extending previous evidence of ToM’s predictive links with later social and cognitive
+outcomes, these results for mutual friendship suggest possible interventions to help
+reduce the lifelong mental health costs of chronic friendlessness.
+
+‘Without friends no one would choose to live, though he had all the other goods’ wrote
+Aristotle (384–322 BC; 2007). Indeed, numerous studies link the problem of being
+‘friendless’ or ‘chumless’ with a host of adverse mental health outcomes including low
+self-worth, social anxiety, depression, loneliness, and suicidal or paranoid ideation (e.g.,
+Bagwell, Newcomb, & Bukowski, 1998; Pedersen, Vitaro, Barker, & Borge, 2007).
+Furthermore, the negative impact of friendlessness on emotional and psychological
+well-being applies both during childhood (e.g., Parker & Asher, 1993) and throughout
+adolescence (Ladd & Troop-Gordon, 2003; Pedersen et al., 2007). Even in adulthood,
+childhood friendlessness has signiﬁcant adverse long-term repercussions for mental
+health (Bagwell et al., 1998). Ladd and Troop-Gordon (2003) found that chronic
+friendlessness (developing between kindergarten and third grade) longitudinally
+predicted pre-adolescent loneliness and psychological disorder even after controlling
+statistically for other predictors like rejection by the peer group. Nangle, Erdley, Newman,
+
+*Correspondence should be addressed to Candida C. Peterson, School of Psychology, University of Queensland, Brisbane, Qld,
+Australia 4072 (email: candi@psy.uq.edu.au).
+
+DOI:10.1111/bjdp.12060
+
+2
+
+Elian Fink et al.
+
+Mason, and Carpenter (2003) found that children’s feelings of loneliness and depression
+were a direct function of not having a reciprocated friendship whereas group popularity
+was only indirectly inﬂuential. In a 12-year longitudinal study, Bagwell et al. (1998) found
+that even after controlling for contemporaneous mental health predictors (e.g., job
+success), a young adult’s having had no mutual friends in childhood uniquely predicted
+adult psychopathology (especially depression). The same was not true for sociometric
+group popularity.
+
+Conversely, children who are lucky enough to have at least one mutual friend are
+buffered against adverse effects of such negative situations in the wider peer group as
+social isolation or peer rejection (e.g., Newcomb, Bagwell, Bukowski, & Hartup, 1998).
+Again, this is true not only childhood but in adolescence and not only cross-sectionally
+(e.g., Parker, Saxon, Asher, & Kovacs, 1999) but also longitudinally (Laursen, Bukowski,
+Aunola, & Nurmi, 2007). Overall, friendship seems to protect children to a certain degree
+against debilitating cycle of social isolation and personal maladjustment (Laursen et al.,
+2007).
+
+Consequently, it is crucial, not only for developmental theory but also from an applied
+clinical perspective, to discover what the early roots of mutual friendship are and to ﬁnd
+out what can cause, perpetuate or protect against chronic friendlessness. These are aims
+of this study.
+
+Friendship is distinguished from other kinds of positive situations with peers by its
+reciprocated, mutual character. By deﬁnition, friendship is a dyadic bond. Each friend
+needs to single the other out for special regard, and this entails mutual liking not just social
+convenience or one-way admiration. Furthermore, substantial evidence shows that
+sociometric popularity in the peer group differs from mutual friendship. Many children
+who are disliked or ignored by the group in general have at least one best friend and are
+satisﬁed with this friendship situation (Parker & Asher, 1993). Conversely, some children
+who are group ‘popularity stars’ (earning more sociometric preference votes than most of
+their peers) have no mutual friends at all and feel lonely and dissatisﬁed (Parker & Asher,
+1993; Renshaw & Asher, 1983).
+
+Investigation into how young children forge and maintain their ﬁrst mutual friendships
+is crucial not only for theories of how of close relationships develop (e.g., Noller, Feeney,
+& Peterson, 2001) but also because, in contrast to a large research literature on group
+popularity (see Rubin, Bukowski, & Parker, 2006; for a review), there has been very little
+study of reciprocated friendship, especially in children under age 8. Even cross-sectional
+studies are few (but see Peterson & Siegal, 2002), and no known past studies have
+explored the earliest roots of chronic friendlessness longitudinally, despite evidence from
+older groups showing the adverse long-term impact of later friendship failure on
+adolescent and adult mental health (e.g., Bagwell et al., 1998).
+
+Therefore, owing to the central and unique signiﬁcance of mutual friendship for
+lifelong psychological adjustment, we began where reciprocated friendships themselves
+often begin, namely in the ﬁrst year of a child’s full-day compulsory schooling at age 5. Our
+goal was to examine aspects of children’s social understanding (Dunn, 1995; Harris, 2006)
+and other control variables as possible predictors and correlates of reciprocated
+friendship both cross-sectionally in initial friendship formation (Hughes & Dunn, 2002)
+and longitudinally as factors in friendship stability versus friendlessness. Owing to its
+applied as well as theoretical signiﬁcance, we were particularly interested in the
+development of chronic long-term friendlessness.
+
+We chose social understanding of theory of mind (ToM) as a likely predictor of
+reciprocated friendship for both theoretical and empirical reasons. ToM is the child’s
+
+Friendlessness and ToM 3
+
+awareness that people’s behaviour is shaped by their inner thoughts and feelings even
+when these are at odds with external reality (Wellman, 1990). Deemed one of the most
+signiﬁcant developmental milestones of early childhood (Flavell, 2004), it is traditionally
+assessed using standard inferential false belief (FB) tests requiring explicit predictions (via
+speech, pointing etc.) about the actions or thoughts of protagonists with FBs that the child
+being tested does not share. Assessed in this way, ToM understanding exhibits a major
+conceptual shift from consistent failure at 3 years to consistent success by age 5 or 6
+(Wellman, Cross, & Watson, 2001). Although recent studies of infant visual ﬁxation have
+claimed that infants as young as 10 months (Luo, 2011) or 15 months of age (Onishi &
+Baillargeon, 2005) already understand FBs, it is unclear how best to interpret this infant
+looking-time data (Low & Perner, 2012). Rather than an implicit ToM already being
+present in the ﬁrst year of life, an alternative view is that infants need only learn to perceive
+regularities in agents’ overt behaviour to succeed on the looking-time measure (Ruffman,
+Taumoepeau, & Perkins, 2012).
+
+Theoretically, Hughes, and Dunn (1998) proposed that cognitive ToM understanding
+should facilitate friendship formation. They found indirect evidence for this in a signiﬁcant
+correlation between ToM scores and young playmates’ use of mentalistic terms in
+informal conversation. Empirically, the strongest evidence for a speciﬁc link (albeit a
+cross-sectional one) between mutually reciprocated friendship and ToM emerged from
+the sole (to our knowledge) previous study (Peterson & Siegal, 2002) in which the two
+constructs were examined together. Peterson and Siegal (2002) tested 4-year-old
+preschoolers and found that even after taking account of general language ability and
+group sociometric status as popular or rejected, those preschoolers who had at least one
+mutual friend scored higher on ToM tests than their peers who had none.
+
+that
+
+Other prospective longitudinal studies suggest
+
+individual differences in
+5-year-olds’ ToM scores relate to a range of behavioural outcomes. For example, Renouf
+et al. (2010) found that ToM at age 5 predicted direct and indirect physical aggression at
+age 6, as assessed by the Preschool and Kindergarten Behavior Scale (PKBS: Merrell,
+1995). Also using the PKBS, Razza and Blair (2009) found a link between classroom social
+skills (e.g., ‘attempts new tasks before asking for help’) and 5-year-olds’ ToM, although
+language ability and executive functioning (EF) skills were additional predictors.
+McAlister and Peterson (2013) likewise found that ToM understanding at age 4–5 years
+longitudinally predicted EF skills at ages 5–6 and that this was true even after controlling
+for language and initial EF skill. Lecce, Caputi, and Pagnin (2014) found that ToM at age 5
+longitudinally predicted academic achievement at age 7 although the effect was mediated
+by sensitivity to teachers’ criticism. Similarly, Caputi, Lecce, Pagnin, and Banerjee (2012)
+found that an association between ToM at age 5 and sociometric group popularity at age 7
+was mediated by prosocial helpfulness as reported by teachers. As a ﬁnal example,
+Banerjee, Watling, and Caputi (2011) used a faux-pas recognition test, rather than FB, as
+the 5-year-old ToM index and found bidirectional and cyclic longitudinal associations with
+sociometric rejection by the peer group between ages 5 and 9, suggesting that adverse
+group relations may impair mastery of ToM just as poor ToM understanding may lead to
+increased group rejection.
+
+Thus, it is clear that, in broad terms, there are connections between 5-year-olds’ ToM
+scores and many other cognitive, academic, and social variables besides friendship. In
+theory, reciprocated friendship might also contribute to, and be assisted by, the
+development of explicit ToM. Children could gain insight into another person’s thoughts
+in unique ways by sharing the intimacy of a reciprocated friendship. At the same time, an
+already sound ToM understanding could assist the forging of mutual friendships in the ﬁrst
+
+4
+
+Elian Fink et al.
+
+place. Like other close relationships, friendship requires awareness of how friends’
+perspectives differ from one’s own (Noller et al., 2001). Therefore, in theory, having
+sound ToM skills upon entering the arena of initial friendship formation (e.g., with the
+transition to full-day peer contact in school) could prove to be an asset for attracting
+friends and understanding their thoughts and feelings well enough to keep the
+relationship going. Conversely, being less capable than average at appreciating others’
+perspectives could plausibly interfere with early friendship formation at age 5 and/or with
+the challenges inherent in sustaining it over time.
+
+Yet no previous study has examined ToM longitudinally as predictor of mutual
+friendship. Indeed, even cross-sectionally, only one previous study (Peterson & Siegal,
+2002) has examined their interconnection (see above). Thus, our main goal was to
+examine ToM as a prospective longitudinal predictor of reciprocated friendship versus
+friendlessness in the early years of primary school. Drawing upon theory in the absence of
+previous longitudinal evidence to go on, we predicted that early mastery ToM
+understanding would position children well for forging friendships in the ﬁrst place
+and for maintaining these over time. Thus, ToM at age 5 should prospectively predict
+consistently reciprocated friendship status at age 7. We also anticipated cross-sectional
+links at age 5, building on Peterson and Siegal’s (2002) similar ﬁndings for 4-year-olds.
+
+In addition to ToM, we assessed ﬁve additional possible predictors at age 5 to see
+whether they might relate to children’s mutual friendship status at age 5 and/or age 7,
+namely: (a) emotion understanding, (b) spontaneous helpfulness/prosocial behaviour, (c)
+ability to delay gratiﬁcation (d) verbal ability and (e) sociometric popularity status within
+the peer group as a whole. The rationale for inclusion of these variables was twofold. First
+from a control perspective, it was of interest to see whether any links we might observe
+between early ToM and later friendship reciprocity would be direct ones versus the
+product of joint connections with other variables as in the case of Lecce et al.’s (2014) and
+Caputi et al.’s (2012) prospective longitudinal studies. In addition, we were interested in
+these variables as possible friendship correlates in their own right. Although there has
+been little or no previous study of most of them in relation to young children’s mutual
+friendship (even cross-sectionally), several past studies suggest possible links to ToM, as
+described in more detail below. Hence, it was important for the sake of our predictions
+and interpretations to be able to control them statistically. Furthermore, despite lack of
+any direct past empirical evidence, there were theoretical grounds in each case for a
+possible association with mutual friendship formation versus friendlessness, as we now
+outline.
+
+Emotion understanding (EU) involves detection of, and insight into, affective states
+such as anger, joy or sadness (Harris et al., 1989). Initial past evidence from a similar age
+group (Dunn, 1995) showed EU scores to be unrelated to ToM scores on FB tests,
+suggesting the value of examining both separately as complementary indices of early
+social cognition. Unlike ToM, Dunn (1995) also found in the same study that EU scores at
+40 months prospectively predicted attitudes to school at age 6. Children with advanced
+EU skills for affective perspective taking were more positive about the overall school
+experience (including the classroom peer group) at the end of ﬁrst grade. By contrast,
+Hughes and Dunn (1998) did ﬁnd a signiﬁcant overall correlation between EU and ToM in
+preschoolers although there were numerous inconsistencies among patterns for
+individual tasks within and across domains. No known study has examined EU in relation
+to reciprocated mutual friendship in this age group. Nevertheless, in theory, it seems
+plausible that children who readily understand others’ positive and negative emotions
+should be well placed to resolve disputes, offer support, and generally forge early
+
+Friendlessness and ToM 5
+
+friendships that are amenable to mutual reciprocation. Thus, despite less past evidence
+than in the case of ToM, we tentatively hypothesized that friendless children would score
+lower than others in EU.
+
+inclusion of
+
+We also naturalistically observed and coded spontaneous helpfulness to peers in a
+free play session given at age 5. Our
+this variable was largely
+exploratory for our chosen age group although McGuire and Weisz (1982) had found
+more spontaneously helpfulness to peers during school recess by 12-year-olds who
+had a mutual friend than by friendless youths. False belief understanding of ToM has
+also been shown to correlate with prosocial behaviour in some past research (e.g.,
+Caputi et al., 2012). Yet other studies have tested for a link and reported null
+ﬁndings (e.g., Travis, Sigman, & Ruskin, 2001). Thus, we made no speciﬁc
+predictions but treated this variable as exploratory. On a similarly exploratory basis,
+we included delay of gratiﬁcation (DG), or ‘willpower’ (Mischel et al., 2010). While
+no known study has linked this variable directly with mutual friendship, there is an
+impressive body of longitudinal evidence from Mischel, Shoda, and Peake (1988) and
+Mischel et al. (2010) linking it, as measured at age 4, to academic achievement,
+career success, and mental health during adolescence and adulthood. Furthermore,
+children who are able to postpone consumption of reward for the sake of later gain
+might,
+in theory, apply the same strategies in dyadic relationships to beneﬁt
+reciprocal friendship.
+
+Language ability is a well-known ToM correlate (see Milligan, Astington, & Dack, 2007;
+for a relevant meta-analysis) and therefore was an important variable to include as a
+control. We wanted to make sure that any links we might observe between ToM and
+friendship were not accidental by-products of individual differences in language skill,
+even though Peterson and Siegal (2002) had previously demonstrated language-indepen-
+dent links between ToM and mutual friendship in 4-year-olds. Similarly, we included
+sociometric group popularity as an important control variable, given its known links with
+both ToM understanding (e.g., Banerjee, Watling, & Caputi, 2011) and mutual friendship
+(Parker & Asher, 1993). Based on Peterson and Siegal, we predicted that links between
+ToM at age 5 and mutual friendship at age 5 and age 7 would emerge independently of
+group sociometric status, just as in the case of language.
+
+Method
+
+Participants
+One hundred and fourteen children (58 boys) were recruited from the kindergarten
+classes of three inner suburban schools in Sydney, Australia’s largest city. We chose the
+kindergarten year as our longitudinal starting point as the ﬁrst year of compulsory
+schooling in this community and hence the point at which many children gain their ﬁrst
+exposure to full-day contact with a classroom peer group. In fact, even though short-term
+friendships develop earlier, especially in those with some preschool experience (Hughes
+& Dunn, 1998), there is surge in stable mutual friendship with school entry. Ladd and
+Troop-Gordon (2003) found that chronic friendlessness likewise ﬁrst emerges between
+kindergarten and third grade.
+
+The children in our sample all had English as a native language, though representing a
+mixture of ethnic backgrounds common to the area. None were seriously economically
+disadvantaged. Reciprocated (mutual) friendships were assessed both initially (age 5) and
+again 24 months later in a prospective longitudinal design. Mean age at Time 1 was
+
+6
+
+Elian Fink et al.
+
+5.61 years (range: 4.5–6.42, SD = 0.42) and at Time 2 was 7.73 years (range: 6.67–8.50,
+SD = 0.38). Both tests took place in Term 3 when familiarity with classmates was well
+established. Eighteen children were unavailable at Time 2 owing to mobility. Thus, the
+Time 2 sample comprised 96 children (an 85% retention rate) and included 49 boys. For
+ethical reasons, we required active written parental informed consent for every child
+together with the child’s own verbal assent. Our resultant response rate (68% of available
+families consented) was high relative to other published sociometric research using
+similarly ethically stringent recruitment methods (Hollmann & McNamara, 1999).
+
+Measures
+
+Verbal ability
+The Test of Early Language Development (TELD-3: Hresko, Reid, & Hammill, 1999) was
+individually administered to assess children’s verbal ability. Comprehensively measuring
+lexical and syntactic skills both expressively and receptively, this norm-referenced test
+has been widely used in ToM research (Milligan et al., 2007) and has excellent
+psychometric properties and convergent validity with other published language tests. We
+used raw (unstandardized) scores in statistical analyses to permit independent analysis of
+chronological age effects.
+
+ToM/False belief
+Our six item FB battery included four ﬁrst-order and two advanced FB tests. The ﬁrst-order
+set had two unexpected contents tasks based on Perner, Leekam, and Wimmer (1987) and
+two changed location tasks similar to Baron-Cohen, Leslie, and Frith’s (1985). For the two
+advanced FB measures, we drew on Hughes et al.’s (2000) reasoning that a more
+sophisticated grasp of ToM is required when a task demands that one mental state (e.g.,
+emotion) be inferred on the basis of another mental state (e.g., FB) than in the case of
+ﬁrst-order FB where only a single mental state inference is required. Thus, like Hughes
+et al. (2000), we chose emotion FB tests as our advanced ToM measures, a choice
+supported by past empirical evidence (e.g., Harris, Johnson, Hutton, Andrews, & Cooke,
+1989; Hughes et al., 2000) that emotion FB is not consistently passed until the age of
+6 years or later. The speciﬁc emotion FB tasks we used were very similar to those of
+Hughes et al. (2000).
+
+All six tasks we chose have been widely used and validated (Milligan et al., 2007;
+Wellman et al., 2001) and are shown to have good reliability and internal consistency
+(e.g., Hughes et al., 2000). Tasks were narrated as story-book vignettes accompanied by
+coloured drawings. Each had at least one test question about the protagonist’s FB,
+belief-based action, or false-belief-based emotion plus one control question that also had to
+be correct for a pass. A total FB score summed these six items and had sound internal
+consistency: Cronbach’s a = .78.
+
+Emotion understanding
+Based on Pons, Harris, and de Rosnay (2004), three age-appropriate components of
+emotion understanding (EU) were chosen from the Test of Emotion Comprehension
+(TEC)
+to assess EU. All components involved short vignettes about pictured
+protagonists with test questions requiring choice from four pictured facial expres-
+
+Friendlessness and ToM 7
+
+sions. All components assessed positive and negative emotions equally. The
+dimensions of emotion that were measured were (a) emotions based on diverse
+desires, (b) emotions deriving from ignorance versus knowledge of reality, and (c) the
+understanding hidden of emotion. There were two diverse desire tasks and four tasks
+each for dimensions (b) and (c). All components assessed equal number of positive
+and negative emotion scenarios.
+
+We also incorporated two false-belief-based emotion tasks described above into the EU
+total so that this initial 12-task total could (and did) yield scores from 0 to 12. Initial analysis
+showed that one story of dimension (b) was uncorrelated with all other tasks, and it was
+thus omitted from further analyses. Children thus received a possible EU score between 0
+and 11. Cronbach’s test revealed acceptable internal consistency (a = .60), notwith-
+standing the wide range of diverse constructs assessed.
+
+Prosocial behaviour
+Children’s prosocial behaviour was assessed during a free play session with two other
+peers. The trio was ﬁlmed unobtrusively, with no adults in the room, for seven minutes
+playing with a large toy zoo. Using Ensor and Hughes’ (2010) methods, ﬁve prosocial acts
+were coded: Sharing, helping, comforting, praising, and attempting to alleviate peer
+distress. Each could arise spontaneously or in response to a request. Inter-rater reliability
+was good across all ﬁve categories: Cohen’s j = .73. Prosocial total scores (range: 0–8)
+reﬂected overall helpfulness to peers during free play.
+
+Delay of gratiﬁcation
+Children’s ability to delay gratiﬁcation (DG) was assessed via eight sticker-choice trials
+interspersed between FB and EU tests, using the procedure of Thompson, Barresi, and
+Moore (1997). At the beginning of the session, children learned they would be collecting
+stickers but could choose, ‘one sticker now or two for later’. Two envelopes were
+prepared with the child’s name. The now envelope was handed to the child while the
+experimenter kept their for later envelope out of sight. An array of stickers was shown at
+each choice point. Children opting for immediate reward retained the sticker in their now
+envelope. Those opting for delay received nothing in hand until the end of that day’s
+session. Children’s choices were highly consistent across the eight trials: Cronbach’s
+a = .90. A proportional DG score ranging from 0 to 1.00 was computed by dividing the
+child’s total stickers by the maximum possible (16). A few children not completing all
+trials received pro-rated scores based on the trials they had completed. Only two children
+in this sample consistently opted for immediate reward. All others chose to delay on
+between 50% and 100% of trials.
+
+Sociometric peer preference
+Group popularity was assessed using the sociometric interview technique developed by
+Coie, Dodge, and Coppotelli (1982). This widely used test comprehensively assesses
+children’s group popularity standing in their peer environment. Over 50% of each
+classroom participated, thus meeting requirements for accurate sociometric assessment
+(Schultz et al., 2004). Each child, interviewed individually with photographs, was asked
+to nominate three children in their class that ‘you like to play with the most’, and three
+children, ‘you do not like to play with’. Cross-gender nominations were permitted. To
+
+8
+
+Elian Fink et al.
+
+account for the differing numbers of children in each classroom, ‘like most’ and ‘like least’
+totals were standardized. The child’s standardized ‘like most’ total minus his/her
+standardized ‘like least’ total yielded a sociometric peer preference score via the standard
+method (Coie et al., 1982). Popular, average, and rejected categorical classiﬁcations were
+derived likewise (Coie et al., 1982). Preference scores ranged from  3.59 to + 3.52 in
+this sample, with a SD of 1.61.
+
+Mutual (reciprocated) friendship
+In a separate individual interview, children were asked to nominate their top three ‘best
+friends’ in the class. Cross-gender nominations were permitted. Friendship tiers were
+classiﬁed from 1 to 3 as follows:
+
+Tier 1: Child and reciprocating friend choose each other as ﬁrst ‘best’ friend (n = 28).
+Tier 2: At least one of the child’s three best friends reciprocates by including child in
+their top three ‘bests’ (n = 53).
+Tier 3: No reciprocated friend nomination for any of the top three friends (n = 33).
+
+To assess comparability of the Tier 1 and 2 methods,
+independent-samples t-tests
+compared children deﬁned as ‘friended’ via the Tier 1 method with those so deﬁned via
+Tier 2 on all focal Time 1 variables. No signiﬁcant differences emerged for any – That is age,
+FB, EU, DG, prosocial behaviour, or Time 1 peer preference: All ts < 1.90, all ps = ns.
+Thus, like Parker and Asher (1993), we used Tier 2 as our operational deﬁnition of
+reciprocated mutual friendship on the grounds that this less restricted index has sound
+empirical as well as ecological validity for an age group where multiple close friendships
+are normative.
+
+Change in friendship reciprocity from Time 1 to Time 2
+Children’s friendship reciprocity was assessed at 7 years of age to determine changes in
+friendship reciprocity over time. Combining Time 1 and Time 2 data yielded the following
+four friendship reciprocity categories:
+
+friend’.
+
++/+: Reciprocal friend at both Time 1 and Time 2 (n = 46); ‘stable mutual friend’.
+ /+: No reciprocal friend at Time 1 but a reciprocal friend at Time 2 (n = 20); ‘gains
++/ : Reciprocal friend at Time 1 but no reciprocal friend at Time 2 (n = 21); ‘loses
+ / : No reciprocal friend at either Time 1 and Time 2 (n = 9); ‘chronic friendless’.
+
+friend’.
+
+Procedure
+Both in kindergarten when children were age 5 (Time 1), and again 24 months later in
+second grade (Time 2), children were interviewed individually in a quiet room at school
+using the best friend nomination protocol described above. In addition, at Time 1 only, in
+two separate sessions no more than a week apart, children took the sociometric measure
+of group popularity plus the tests of verbal ability, ToM, EU, and gratiﬁcation delay
+described above. Task and trial orders were varied. Children were randomly assigned to
+one of two task orders. In the ﬁnal Time 1 session, prosocial behaviour was observed
+during group free play.
+
+Friendlessness and ToM 9
+
+Results
+
+Descriptive statistics and preliminary analyses
+Table 1 shows means and SDs for all Time 1 predictor variables and their intercorrela-
+tions. Girls displayed more prosocial acts (M = 2.76) than boys (M = 2.03), t(111) = 2.16,
+p = .033, but gender was unrelated to any other Table 1 variable. Nor was it associated
+with friended/friendless status at age 5, v2(1) <1, N = 114, p > .35. Thus, we combined
+the genders to enhance power in the main statistical analyses. Age correlated only with
+language and EU while DG was not related to any Time 1 variable.
+
+Predicting mutual friendship versus friendlessness at Time 1
+Table 2 shows children’s scores on Time 1 variables as a function of whether or not they
+currently had a mutual friendship. Independent-samples t-tests showed that friendless
+5-year-olds had signiﬁcantly lower verbal ability, lower ToM scores, less frequent DG,
+lower group sociometric preference, and fewer spontaneous prosocial behaviours than
+reciprocally friended children. However, there was no signiﬁcant difference in EU.
+Comparing group sociometric status with reciprocal friendship at Time 1, our results
+supported previous evidence from older children in showing the relative independence of
+these two aspects of children’s peer relations even at age 5. For example, of the 35
+sociometrically ‘popular’ children we tested, 8 (23%) had no mutual friendship. Even
+more strikingly, 53% (16/30) of children who scored as ‘rejected’ by the peer group had at
+least one mutual friend. Clearly friendship is different from group popularity in early
+childhood, just as other research has shown it to be during middle childhood and
+pre-adolescence (e.g., Parker & Asher, 1993).
+
+Table 1. Descriptives and bivariate correlations for Time 1 predictor variables
+
+1
+(Sex)
+
+2
+(Age)
+
+3
+(VA)
+
+4
+(ToM)
+
+5
+(DG)
+
+6
+(EU)
+
+7
+(SP)
+
+8
+(PB) Mean (SD)
+
+.15
+.14
+
+–
+
+.10
+
+.52**  .04
+ .08
+
+–
+
+.08
+–
+
+.15
+.25**
+–
+
+1. Sex
+2. Age
+3. Verbal ability
+
+(VA)
+
+4. False belief
+
+(ToM)
+
+5. Delay of
+
+gratiﬁcation (DG)
+
+6. Emotion
+
+understanding (EU)
+
+7. Sociometric
+
+(group) preference
+(SP)
+
+8. Prosocial behaviour
+
+(PB)
+
+Note. ToM, theory of mind.
+*p < .05; **p < .01.
+
+.03  .07
+
+.16
+.03
+.17
+
+–
+
+.20*
+.10
+.21* 60.22 (5.29)
+
+5.66 (.41)
+
+.35**
+.45**
+
+.50**
+
+.35**
+
+.15
+
+4.18 (1.88)
+
+–
+
+ .04
+
+ .03
+
+.11
+
+0.77 (.19)
+
+–
+
+.18
+
+.06
+
+6.06 (2.25)
+
+–
+
+.19*
+
+0.05 (1.61)
+
+–
+
+2.38 (1.86)
+
+10
+
+Elian Fink et al.
+
+Table 2. Means (and SDs) by friendship category at Time 1
+
+Friendship reciprocity at 5 years
+
+Has mutual friend (n = 81) Friendless (n = 33)
+
+Group difference t
+
+61.1 (5.2)
+4.6 (1.7)
+
+0.80 (0.16)
+
+6.2 (2.2)
+
+0.30 (1.53)
+
+2.7 (2.0)
+
+58.8 (4.9)
+3.4 (2.1)
+
+0.68 (0.24)
+
+5.7 (2.2)
+
+ 0.66 (1.83)
+
+1.6 (1.2)
+
+2.17*
+3.18**
+2.93**
+1.15
+2.86**
+2.91**
+
+Verbal ability
+False belief (ToM)
+Delay of gratiﬁcation
+Emotion understanding
+Sociometric (group) preference
+Prosocial behaviour
+
+Note. ToM, theory of mind.
+*p < .05; **p < .01.
+
+Independent contributions of these signiﬁcant bivariate correlates of age 5 friendship
+reciprocity were investigated using binary logistic regression (see Table 3). ‘Mutually
+friended’ was the reference category, and Time 1 friendlessness was the outcome variable.
+Owing to high correlations between verbal ability, ToM, and EU, an initial model was run
+including only these variables. This model was signiﬁcant, v2
+3(N = 112) = 11.10, p < .05,
+Nagelkerke pseudo-R2 = .13, but only ToM made a signiﬁcant independent contribution.
+As such, ToM was included in the ﬁnal model along with gratiﬁcation delay, prosocial
+behaviour, and peer preference. The overall model was signiﬁcant, v2
+4(N = 111) = 28.13,
+p < .001, Nagelkerke pseudo-R2 = .32 (see Table 3). Compared to those with mutual
+friends, 5-year-olds without a reciprocal friendship scored signiﬁcantly lower in ToM
+scores and gratiﬁcation delay. Expressed in SD increments, for every SD increase in DG,
+likelihood of having a reciprocal friend rose 2.10 times. With each SD gain in ToM, the
+likelihood of Time 1 mutual friendship rose 1.80 times.
+
+Prospective longitudinal predictors of friendship situation at age 7
+Table 4 shows means and SDs for children grouped according to combined friendship
+patterns from age 5 to 7 years. Nine (9.4% of Time 2 children) remained chronically
+friendless, with no mutual friendship either at the start or the end of the 2-year longitudinal
+period. Another 46 had mutual friendships at both points. The remaining 41 changed
+status, 19 moving from friendless to mutually friended and 22 moving the opposite way.
+One-way ANOVAs followed by Tukey’s post-hoc tests (p < .05) compared these four
+groups. Signiﬁcant group differences emerged for ToM understanding, F(3, 91) = 7.50,
+
+Table 3. Summary of Time 1 binary logistic regressions predicting Time 1 status as reciprocally friended
+versus friendless
+
+Variable
+
+Delay of gratiﬁcation
+False belief (ToM)
+Sociometric (group) preference
+Prosocial behaviour
+
+Note. ToM, theory of mind.
+*p < .05; **p < .01.
+
+B
+
+.75
+.59
+.24
+.60
+
+SE
+
+.25
+.24
+.15
+.32
+
+Wald
+
+8.92**
+5.75*
+2.55
+3.52
+
+Table 4. Means and SDs for Time 1 (5 years) predictor variables by longitudinal friendship status at Time
+2 (7 years)
+
+Friendlessness and ToM 11
+
+Predictor
+
+T1 Age (months)
+
+T1 Verbal ability (raw score)
+
+T1 False belief total (/6)
+
+T1 Emotion comprehension
+
+T1 Delay of gratiﬁcation
+
+T1 Prosocial behaviour
+
+T1 Sociometric group preference scores
+
+Friendship status
+
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+Chronically friendless
+Loses friendship
+Gains friendship
+Stable mutual friend
+
+n
+
+9
+21
+20
+46
+9
+21
+20
+45
+9
+21
+20
+45
+9
+21
+20
+44
+9
+21
+20
+44
+9
+20
+20
+46
+9
+21
+20
+46
+
+Mean
+
+67.78
+69.43
+66.70
+68.09
+58.11
+60.90
+59.50
+60.96
+1.67
+4.76
+3.95
+4.60
+4.78
+6.57
+5.95
+6.20
+0.74
+0.79
+0.67
+0.81
+1.11
+2.40
+2.00
+2.89
+
+ 2.12
+ 0.37
+
+0.08
+0.72
+
+SD
+
+4.09
+4.74
+5.85
+4.74
+3.95
+5.29
+5.16
+5.43
+2.12
+1.48
+1.67
+1.68
+2.28
+1.99
+2.24
+2.29
+0.16
+0.17
+0.27
+0.15
+0.93
+1.70
+1.26
+2.15
+1.35
+1.74
+1.45
+1.29
+
+p < .001, sociometric preference score, F(3, 91) = 10.18, p < .001, and frequency of
+prosocial acts, F(3, 91) = 3.32, p < .05. In the case of ToM and sociometric preference,
+pairwise Tukey’s test comparisons showed that the chronically friendless 7-year-olds
+scored below all other groups who did not differ signiﬁcantly from one another. For
+prosocial acts, the only difference was between the chronically friendless and those with
+mutual friends at both times. Verbal ability (p > .60) and EU (p > .30) showed no
+signiﬁcant group differences, whereas DG, although marginally signiﬁcant by ANOVA
+(p < .05), yielded no statistically signiﬁcant pairwise contrasts via the more conservative
+Tukey’s test (p = .067).
+
+To see whether the link between low ToM understanding and chronic friendlessness
+was independent of sociometric popularity with the group as a whole, an ANCOVA was
+run with friendship status as the grouping variable, FB scores as the outcome variable, and
+sociometric peer preference as the covariate. The result was statistically signiﬁcant, F(3,
+90) = 5.35, p = .002. Thus, even after due allowance was made for popularity versus
+rejection by the peer group as a whole, children who remained chronically friendless at
+age 7 stood out for their signiﬁcantly poorer performance on FB tests of ToM 2 years
+earlier at age 5.
+
+12
+
+Elian Fink et al.
+
+Table 5. Summary of multinomial logistic regressions predicting longitudinal friendship status at Time 2
+(Stable mutual friendship at both ages (+/+) is reference category.)
+
+Age 7 status
+
+Loses friend (+/ )
+
+Delay of gratiﬁcation
+False belief (ToM)
+Group preference
+Prosocial behaviour
+
+Chronically friendless ( / )
+
+Delay of gratiﬁcation
+False belief (ToM)
+Group preference
+Prosocial behaviour
+
+Gains friend ( /+)
+
+Delay of gratiﬁcation
+False belief (ToM)
+Group preference
+Prosocial behaviour
+
+B
+
+SE B
+
+Wald
+
+OR
+
+95% CI
+
+.01
+.49
+
+ .58
+ .16
+ 1.30
+ 1.98
+ 1.47
+ 1.04
+ .85
+ .44
+ .28
+ .33
+
+.36
+.37
+.21
+.30
+
+.65
+.85
+.50
+.99
+
+.33
+.33
+.22
+.34
+
+0.00
+1.81
+7.59**
+0.30
+
+4.03*
+5.45*
+8.53**
+1.10
+
+6.47*
+1.78
+1.60
+0.92
+
+1.01
+1.64
+0.56
+0.85
+
+0.27
+0.14
+0.23
+0.35
+
+0.43
+0.65
+0.76
+0.72
+
+[0.50, 2.04]
+[0.80, 3.36]
+[0.37, 0.85]
+[0.48, 1.52]
+
+[0.08, 0.97]
+[0.03, 0.73]
+[0.09, 0.62]
+[0.05, 2.48]
+
+[0.22, 0.82]
+[0.34, 1.23]
+[0.50, 1.15]
+[0.37, 1.40]
+
+Note. OR, odds ratio; CI, conﬁdence interval; ToM, theory of minds.
+*p < .05; **p < .01.
+
+Finally, we used multinomial logistic regression to further investigate simultaneous
+predictors of patterns of change in friendship reciprocity over the 2 years. The reference
+group was stable mutuality (mutually friended at Times 1 and 2: [+/+]). Due to the high
+correlation between verbal ability, ToM, and EU, an initial control model was run
+including only these variables. The resulting model was signiﬁcant, v2
+9(N = 94) = 22.73,
+p < .01, Nagelkerke pseudo-R2 = .23. However, the only signiﬁcant predictor in this
+model was ToM. As such, only ToM was included in the ﬁnal model. The latter examined
+the simultaneous impact of gratiﬁcation delay, ToM, prosocial behaviour, and sociometric
+preference on friendship reciprocity patterns from 5 to 7 years. This model was
+signiﬁcant, v2
+12(N = 93) = 57.50, p < .001, Nagelkerke pseudo-R2 = .50. As Table 5
+shows, relative to the consistently friended group (+/+), children who remained without
+friendships at either time ( / ) were signiﬁcantly lower in FB, sociometric group
+reciprocally friended status (+/ ) was linked only with lower sociometric group
+(+/ ) were signiﬁcantly lower in DG at Time 1 than those who retained mutual friendship
+longitudinally. Expressed in terms of SD increments on Time 1 measures, for a single SD
+increment in FB understanding, children were 3.7 times less likely to be classiﬁed  / 
+compared to +/+ children. For each SD increment in sociometric group preference,
+children were 2.7 times less likely to be classiﬁed +/ , and 7.3 times less likely to be
+classiﬁed  /  relative to +/+ children. For each SD increase in DG, their odds of being +/+
+rather than  /  or  /+ were 3.7 or 2.3 times greater, respectively.
+
+preference, and gratiﬁcation delay 2 years earlier at age 5. Losing one’s previous
+
+preference. Finally, children who had gained mutual friendship between age 5 and age 7
+
+Discussion
+As we had predicted on the basis both of theory and of limited data from one previous
+cross-sectional study of 4-year-olds (Peterson & Siegal, 2002), ToM understanding at age 5
+
+Friendlessness and ToM 13
+
+emerged as a strongly signiﬁcant predictor of children’s having or not having a mutually
+reciprocated friendship both contemporaneously during initial friendship formation in
+kindergarten and also longitudinally from age 5 to age 7. Furthermore, the prospective link
+between ToM understanding at age 5 and having a mutual friend at age 7 remained
+signiﬁcant even after controlling statistically for other related variables such as verbal
+ability, EU, age, prosocial behaviour, and group sociometric status with peers. Children
+who remained chronically friendless from age 5 through age 7 already stood out from the
+three other longitudinal friendship categories at age 5 for their dramatically poorer ToM
+understanding on ﬁrst-order and advanced FB tests.
+
+While these ﬁndings for mutual friendship are novel, they add to a growing body of
+evidence showing prospective longitudinal links between 5-year-olds’ cognitive under-
+standing of ToM and other aspects of their social, emotional, and cognitive functioning in
+school several years later. These include academic achievement (Lecce et al., 2014),
+sensitivity to teachers’ criticism (Lecce, Caputi, & Hughes, 2011), aggressiveness to peers
+(Renouf et al., 2010), classroom comportment skills (Razza & Blair, 2009), and popularity
+status in the peer group (Banerjee et al., 2011). Our ﬁndings added importantly to this
+picture by showing that an unusually slow start in the development of ToM understanding
+at age 5 is also a powerful predictor of chronic friendlessness from age 5 through age 7. In
+general, these longitudinal data conﬁrm that individual differences in how quickly
+children master an understanding of others’ minds have demonstrable long-term
+signiﬁcance not only for friendship but also for many other aspects of their social and
+academic development well beyond preschool (Hughes & Leekam, 2004).
+
+In addition to highlighting both the early and the later signiﬁcance of ToM
+understanding for friendship, our contrasting results for other variables warrant
+comment. At age 5, besides higher ToM, children with reciprocated friendships also
+scored higher in verbal ability, prosocial behaviour, and gratiﬁcation delay. However, in
+the prospective longitudinal data, only ToM stood out as a clearly signiﬁcant predictor of
+chronic friendlessness. The 7-year-olds who never managed to forge a reciprocated
+friendship throughout the study’s 2 years had been just as linguistically adept at age 5, just
+as prosocially helpful to peers, just as skilled on EU tests, and not signiﬁcantly less capable
+of delaying gratiﬁcation than their peers. Only their signiﬁcantly lower ToM understand-
+ing predicted their future status as chronically friendless.
+
+What could explain the special signiﬁcance of ToM as a prospective longitudinal
+predictor of mutual friendship versus friendlessness? Or, to put it another way, why did
+other variables we examined not emerge as clearly as ToM did in either the
+contemporaneous or the longitudinal friendship correlations? The pattern for DG was
+especially puzzling. At Time 1, children who would later gain a mutual friendship
+longitudinally scored lower in DG than the chronically friendless (see Table 4). Also,
+despite statistical signiﬁcance via logistic regression,
+the DG contrast between
+friendship status groups was uniformly non-signiﬁcant via more conservative Tukey’s
+tests. One explanation for these inconsistent results could be our multitrial DG scoring
+method (see Mischel et al., 1988, for a comparison of this with other commonly used
+methods of testing for DG, such as forced choice). Averaging over multiple trials may
+have contributed to the fact that a full 98% of our sample delayed gratiﬁcation on at
+least 50% of their opportunities. For whatever reason, the fact that virtually all the
+children in this sample opted to delay on at least some trials may well explain the
+absence of clear associations for this variable as we measured it. Further research on
+friendship and gratiﬁcation delay using other measurement techniques is clearly
+warranted.
+
+14
+
+Elian Fink et al.
+
+Measurement issues could also help explain the absence of a clear longitudinal
+connection between prosocial behaviour and mutual friendship (and, for that matter, the
+lack of a signiﬁcant contemporaneous correlation at age 5 between prosocial behaviour
+and ToM). We measured prosocial behaviour directly via naturalistic observation of peers’
+play, whereas most previous studies reporting signiﬁcant links with ToM have used a
+proxy prosocial measure (parents’ or teachers’ scale ratings). Indeed, the one known
+previous study that, like ours, used direct observational measurement likewise found no
+signiﬁcant correlations with ToM in either an ASD group or non-ASD control children
+(Travis et al., 2001). While potentially more sensitive to actual helping behaviour, direct
+observation suffers from the difﬁculty of being only a limited sampling at one point in time
+in one setting whereas teachers and parents have a wider range of exposure to prosocial
+acts in many contexts.
+
+Our ﬁnding that EU bore no signiﬁcant relationship to mutual friendship at either Time
+1 or Time 2 was unexpected. However, it is consistent with previous ﬁndings (a) that ToM
+and EU are separate, non-overlapping dimensions of social cognition (Cutting & Dunn,
+1999; Dunn, 1995) and (b) that preschool ToM predicts different school-aged outcomes
+from those predicted by EU (Dunn, 1995). Our ﬁndings add to this picture by
+demonstrating that an understanding of other minds is more central than emotion
+awareness to the forging and maintaining of mutual friendships. Of course, such a
+conclusion must remain tentative pending replication across different age groups and
+using a wider range of ToM and EU tasks than we did. Indeed, all of our ﬁndings warrant
+replication given the inevitable limitations of any single study of the complex patterns of
+associations that exist over time between children’s social thinking and their social
+behaviour in both the intimate context of reciprocal friendship and the larger arena of
+social popularity status in the peer group. It now remains to future studies to examine
+early mutual friendship status as a predictor of later social–cognitive outcomes, given the
+likely bidirectionality of links between the two. Conceivably, these may be complicated,
+as in Banerjee et al.’s (2011) group popularity study, by cyclic alternation. They found
+ToM as a predictor of group rejection at one age was followed by the reverse at a later age.
+Nevertheless, pending such further study, our discovery of a longitudinal link between
+ToM understanding and chronic friendlessness remains an important one for both theory
+and for clinical practice. In theory, the link is, indeed, plausibly bidirectional. Via trust,
+insight, intimate conversation, and the mutual afﬁrmation that experiencing a reciprocal
+friendship is apt to build (e.g., Dunn, Cutting, & Fisher, 2002), children might gain greater
+ToM-based understanding of their friends’ minds. This could then generalize to
+heightened ToM-based understanding of people at large. At the same time, children
+who enter formal schooling with an already well-developed grasp of FB and other ToM
+concepts might use this conceptual knowledge to forge and maintain mutual friendships
+among their classroom peers. Early ToM understanding might likewise be important for
+sustaining friendship through the conﬂicts and upheavals of the important social
+transition from family to peer focus between ages 5 and 7 (Hughes & Dunn, 2002).
+
+Clinically, assuming it is replicated, the link we discovered between low ToM
+understanding at age 5 with chronic friendlessness 2 years later at age 7 could prove
+useful both diagnostically and therapeutically. As past research shows (e.g., Bagwell et al.,
+1998), children who are chronically friendless in middle and later childhood are at
+heightened risk of adverse emotional, academic, and psychiatric outcomes not only
+during childhood but through the remainder of life. The earliest roots of chronic
+friendlessness appear from our data to include poor ToM understanding of FB. Given that
+FB tests are quick and easy to administer and highly reliable (Peterson, Wellman, & Liu,
+
+Friendlessness and ToM 15
+
+2005; Wellman et al., 2001), they might prove a useful addition to the assessment
+repertoires of therapists and school counsellors concerned with early intervention to
+prevent chronic friendlessness, although of course not constituting an adequate
+substitute for a comprehensive diagnostic work-up. At the same time, an impressive
+body of ToM training research (e.g., Lohmann & Tomasello, 2003) shows that typically
+developing preschoolers’ understanding of minds can be enhanced by brief, targeted
+interventions. This could provide a supplementary tool, along with playgroups and
+social-skill-building exercises (e.g., Rubin et al., 2006), for early intervention on behalf of
+friendless young children during the early years of school when mutual friendships, if built
+and maintained, become ‘ key predictors of later enjoyment and adjustment to school’
+(Dunn et al., 2002, p. 621).
+
+Acknowledgements
+This research was supported by a grant to Marc de Rosnay under Australian Research
+Council’s Discovery Projects scheme (project number DP0881855).
+
+References
+Bagwell, C. L., Newcomb, A. F., & Bukowski, W. M. (1998). Preadolescent friendship and peer
+
+rejection as predictors of adult adjustment. Child Development, 69, 140–153.
+
+Banerjee, R., Watling, D., & Caputi, M. (2011). Peer relations and the understanding of faux pas:
+Longitudinal evidence for bidirectional associations. Child Development, 82, 1887–1905.
+doi:10.1111/j.1467-8624.2011.01669.x
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a “theory of mind”?
+
+Cognition, 21(1), 37–46.
+
+Caputi, M., Lecce, S., Pagnin, A., & Banerjee, R. (2012). Longitudinal effects of theory of mind on later
+peer relations: The role of prosocial behavior. Developmental Psychology, 48(1), 257–270. doi:
+abs/10.1080/17405629.2013.821944
+
+Coie, J. D., Dodge, K. A., & Coppotelli, H. (1982). Dimensions and types of social status: A cross- age
+
+perspective. Developmental Psychology, 18, 557–570.
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, language, and family
+
+background: Individual differences and interrelations. Child Development, 70, 853–865.
+
+Dunn, J. (1995). Children as psychologists: The later correlates of individual differences in
+
+understanding of emotions and other minds. Cognition & Emotion, 9, 187–201.
+
+Dunn, J., Cutting, A., & Fisher, N. (2002). Old friends, new friends. Child Development, 73, 621–
+
+635. doi:10.1111/1467-8624.00427
+
+Ensor, R., & Hughes, C. (2010). With a little help from my friends. Infant and Child Development,
+
+19, 127–141. doi:10.1002/icd.643
+
+Flavell, J. H. (2004). Theory-of-mind development: Retrospect and prospect. Merrill-Palmer
+
+Quarterly, 50, 274–290. doi:10.1353/mpq.2004.0018
+
+Harris, P. L. (2006). Social Cognition. In D. Kuhn & R. Siegler (Eds.), Handbook of child psychology
+
+(6th ed., Vol. 2, pp. 811–858). Hoboken, NJ: John Wiley.
+
+Harris, P. L., Johnson, C. N., Hutton, D., Andrews, G., & Cooke, T. (1989). Young children’s theory of
+
+mind and emotion. Cognition and Emotion, 3, 379–400.
+
+Hollmann, C., & McNamara, J. (1999). Considerations in the use of active versus passive parental
+
+consent procedures. Journal of Psychology, 133, 141–156.
+
+Hresko, W. P., Reid, D. K., & Hammill, D. D. (1999). Test of early language development (3rd ed.).
+
+Austin, TX: Pro-Ed.
+
+16
+
+Elian Fink et al.
+
+Hughes, C., Adlam, A., Happe, F., Jackson, J., Taylor, A., & Caspi, A. (2000). Good test-retest
+reliability for standard and advanced false-belief tasks across a wide range of abilities. Journal of
+Child Psychology and Psychiatry, 41, 483–490. doi:10.1111/1469-7610.00633
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longitudinal associations with
+
+mental-state talk between young friends. Developmental Psychology, 34, 1026.
+
+Hughes, C., & Dunn, J. (2002). ‘When I say a naughty word’. A longitudinal study of young children’s
+accounts of anger and sadness in themselves and close others. British Journal of Developmental
+Psychology, 20, 515–535. doi:10.1348/026151002760390837
+
+Hughes, C., & Leekam, S. R. (2004). What are the links between theory of mind and social relations?
+Review, reﬂection and new directions for studies of typical and atypical development. Social
+Development, 13, 590–619. doi:10.1111/j.1467-9507.2004.00285.x
+
+Ladd, G. W., & Troop-Gordon, W. (2003). The role of chronic peer difﬁculties in the development of
+children’s psychological adjustment problems. Child Development, 74, 1344–1367. doi:10.
+1111/1467-8624.00611
+
+Laursen, B., Bukowski, W. M., Aunola, K., & Nurmi, J. E. (2007). Friendship moderates prospective
+isolation and adjustment problems in young children. Child
+
+associations between social
+Development, 78, 1395–1404. doi:10.1111/j.1467-8624.2007.01072.x
+
+Lecce, S., Caputi, M., & Hughes, C. (2011). Does sensitivity to criticism mediate the relationship
+between theory of mind and academic achievement? Journal of Experimental Child
+Psychology, 110, 313–331. doi:10.1016/j.jecp.2011.04.011
+
+Lecce, S., Caputi, M., & Pagnin, A. (2014). Long-term effect of theory of mind on school achievement:
+The role of sensitivity to criticism. European Journal of Developmental Psychology, 11, 305–
+318. doi:abs/10.1080/17405629.2013.821944
+
+Lohmann, H., & Tomasello, M. (2003). The role of language in the development of false belief
+understanding: A training study. Child Development, 74, 1130–1144. doi:10.1111/1467-8624.
+00597
+
+Low, J., & Perner, J. (2012). Implicit and explicit theory of mind: State of the art. British Journal of
+
+Developmental Psychology, 30(1), 1–13. doi:10.1111/j.2044-835X.2011.02074.x
+
+Luo, Y. (2011). Do 10-month-old infants understand others’ false beliefs? Cognition, 121, 289–298.
+
+doi:10.1016/j.cognition.2011.07.011
+
+McAlister, A. R., & Peterson, C. C. (2013). Siblings, theory of mind, and executive functioning in
+children aged 3–6 years: New longitudinal evidence. Child development, 84, 1442–1458.
+doi:10.1111/cdev.12043
+
+McGuire, K. D., & Weisz, J. R. (1982). Social cognition and behavior correlates of preadolescent
+
+chumship. Child Development, 53, 1478–1484. doi:10.1111/cdev.12043
+
+Merrell, K. W. (1995). An investigation of the relationship between social skills and internalizing
+problems in early childhood: Contrast validity of the preschool and kindergarten behavior scales.
+Journal of Psychoeducational Assessment, 13, 230–240.
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-analysis of the
+relation between language ability and false-belief understanding. Child Development, 78, 622–
+646. doi:j.1467-8624.2007.01018.x
+
+Mischel, W., Ayduk, O., Berman, M. G., Casey, B. J., Gotlib, I. H., Jonides, J., & Shoda, Y. (2010).
+‘Willpower’ over the life span: Decomposing self-regulation. Social Cognitive and Affective
+Neuroscience, 6, 252–256. doi:10.1093/scan/nsq081
+
+Mischel, W., Shoda, Y., & Peake, P. K. (1988). The nature of adolescent competencies predicted by
+preschool delay of gratiﬁcation. Journal of Personality and Social Psychology, 54, 687–696.
+Nangle, D. W., Erdley, C. A., Newman, J. E., Mason, C. A., & Carpenter, E. M. (2003). Popularity,
+friendship quantity, and friendship quality. Journal of Clinical Child and Adolescent
+Psychology, 32, 546–555. doi:10.1207/S15374424JCCP3204_7
+
+Newcomb, A., Bagwell, C., Bukowski, W., & Hartup, W. (1998). The company they keep. New York,
+
+NY: Cambridge University Press.
+
+Noller, P., Feeney, J., & Peterson, C. (2001). Personal relationships across the lifespan. New York,
+
+NY: Psychology Press.
+
+Friendlessness and ToM 17
+
+Onishi, K. H., & Baillargeon, R. (2005). Do 15-month-old infants understand false beliefs? Science,
+
+308, 255–258. doi:10.1126/science.1107621
+
+Parker, J. G., & Asher, S. R. (1993). Friendship and friendship quality in middle childhood.
+
+Developmental Psychology, 29, 611–621.
+
+Parker, J. G., Saxon, J. L., Asher, S. R., & Kovacs, D. M. (1999). 10-Dimensions of Children’s
+Friendship Adjustment: Implications for Understanding Loneliness. Loneliness in childhood
+and adolescence, 201–222.
+
+Pedersen, S., Vitaro, F., Barker, E. D., & Borge, A. I. (2007). The timing of middle-childhood peer
+rejection and friendship: Linking early behavior to early-adolescent adjustment. Child
+Development, 78, 1037–1051. doi:10.1111/j.1467-8624.2007.01051.x
+
+Perner, J., Leekam, S. R., & Wimmer, H. (1987). Three-year-olds’ difﬁculty with false belief. British
+
+Journal of Developmental Psychology, 5, 125–137.
+
+Peterson, C. C., & Siegal, M. (2002). Mindreading and moral awareness in popular and rejected
+preschoolers. British Journal of Developmental Psychology, 20, 205–224. doi:10.1348/
+026151002166415
+
+Peterson, C. C., Wellman, H. M., & Liu, D. (2005). Steps in theory-of-mind development for children
+with deafness or autism. Child Development, 76, 502–517. doi:10.1111/j.1467- 8624.2011.
+01728.x
+
+Pons, F., Harris, P. L., & de Rosnay, M. (2004). Emotion comprehension between 3 and 11 years:
+Developmental periods and hierarchical organization. European Journal of Developmental
+Psychology, 1(2), 127–152. doi:10.1080/17405620344000022
+
+Razza, R. A., & Blair, C. (2009). Associations among false-belief understanding, executive function,
+and social competence: A longitudinal analysis. Journal of Applied Developmental Psychology,
+30, 332–343. doi:10.1016/j.appdev.2008.12.020
+
+Renouf, A., Brendgen, M., Seguin, J. R., Vitaro, F., Boivin, M., Dionne, G., . . . Perusse, D. (2010).
+Interactive links between theory of mind, peer victimization, and reactive and proactive
+Journal of Abnormal Child Psychology, 38, 1109–1123. doi:10.1007/
+aggression.
+s10802-010-9432-z
+
+Renshaw, P., & Asher, S. (1983). Children’s goals and strategies for social interaction. Merrill-Palmer
+
+Quarterly, 29, 353–374.
+
+Rubin, K. H., Bukowski, W. M., & Parker, J. G. (2006). Peer interactions, relationships, and groups.
+
+Hoboken, NJ: Wiley.
+
+Ruffman, T., Taumoepeau, M., & Perkins, C. (2012). Statistical learning as a basis for social
+understanding in children. British Journal of Developmental Psychology, 30(1), 87–104.
+doi:10.1111/j.2044-835X.2011.02045.x
+
+Schultz, D., Izard, C. E., & Bear, G. (2004). Children’s emotion processing. Development and
+
+Psychopathology, 16, 371–387. doi:10.1017/S0954579404044566
+
+Thompson, C., Barresi, J., & Moore, C. (1997). The development of future-oriented prudence and
+
+altruism in preschoolers. Cognitive Development, 12, 199–212.
+
+Travis, L., Sigman, M., & Ruskin, E. (2001). Links between social understanding and social behavior
+in verbally able children with autism. Journal of Autism and Developmental Disorders, 31(2),
+119–130.
+
+Wellman, H. (1990). The child’s theory of mind. Cambridge, MA: MIT Press.
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The
+
+truth about false belief. Child Development, 72, 655–684. doi:10.1111/1467-8624.00304
+
+Received 20 March 2014; revised version received 24 July 2014
+
+

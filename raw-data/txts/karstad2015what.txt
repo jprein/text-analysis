@@ -1,0 +1,1212 @@
+340
+
+British Journal of Developmental Psychology (2015), 33, 340–354
+© 2015 The British Psychological Society
+
+www.wileyonlinelibrary.com
+
+What enhances the development of emotion
+understanding in young children? A longitudinal
+study of interpersonal predictors
+Silja B. Karstad1,2*, Lars Wichstrøm1,2,3, Trude Reinfjell1, Jay Belsky4
+and Turid S. Berg-Nielsen5
+1Department of Psychology, Norwegian University of Science and Technology,
+Trondheim, Norway
+2Child and Adolescent Psychiatric Clinic, St. Olavs Hospital HF, Trondheim, Norway
+3Social Science, Trondheim, Norway
+4Department of Human Ecology, University of California, Davis, California, USA
+5Faculty of Medicine, Norwegian University of Science and Technology, Trondheim,
+Norway
+
+We studied potential determinants of
+the development of children’s emotion
+understanding (EU) from age 4 to 6 in a Norwegian community sample (N = 974) using
+the Test of Emotion Comprehension. Interpersonal predictors included the accuracy of
+parental mentalization, parental emotional availability, and teacher-reported child social
+skills. Intrapersonal child factors were child gender and verbal skills. Overall, children’s EU
+increased signiﬁcantly over time. After adjusting for child gender, age-4 EU, and parental
+socio-economic status, greater child verbal and social skills and greater parental
+mentalization each uniquely predicted growth in EU. Results are discussed in terms of
+theory and research on children’s EU and parents’ emotion socialization.
+
+Emotion understanding (EU), which refers to one’s ability to know the feelings of others
+and oneself, is essential for competent social functioning and psychological well-being
+(de Rosnay, Harris, & Pons, 2008). Models describing the development of EU
+(Halberstadt, Denham, & Dunsmore, 2001; Pons, Harris, & de Rosnay, 2004; Saarni,
+1999) highlight several components of EU, from labelling and identifying emotion-
+eliciting situations to understanding more complex sentiments such as ambivalence and
+moral emotions. Past research documents links between EU and a variety of positive
+developmental outcomes, including secure attachment (Fonagy & Target, 1997; Raikes
+& Thompson, 2008; de Rosnay & Harris, 2002), social competence (Denham, 2006;
+Dunn & Cutting, 1999), and language skills (Pons, Lawson, Harris, & de Rosnay, 2003).
+Preschool children who are better at identifying emotions in others also have fewer
+behaviour problems (Hughes, Dunn, & White, 1998). Delayed development of and
+limitations in EU are associated, in contrast, with mental disorders (for review, see
+Southam-Gerow & Kendall, 2002).
+
+*Correspondence should be addressed to Silja B. Karstad, Department of Psychology, Norwegian University of Science and
+Technology, N-7491 Trondheim, Norway (email: Silja.Berg@svt.ntnu.no).
+
+DOI:10.1111/bjdp.12095
+
+Predictors of emotion understanding
+
+341
+
+Although children’s EU, on average, advances considerably from age 2 years to middle
+childhood (Hughes & Dunn, 1998; Nelson et al., 2012; Ontai & Thompson, 2002),
+substantial individual differences in EU exist among children (Harris, 2000; Pons & Harris,
+2005). Why do some children excel in EU at an early age whereas others exhibit more
+limited development? This is the primary question addressed in this report.
+
+Intervention research makes clear that direct training of preschoolers (Domitrovich,
+Cortes, & Greenberg, 2007; Gavazzi & Ornaghi, 2011) and school-age children (Ornaghi,
+Brockmeier, & Grazzani, 2014; Tenenbaum, Alﬁeri, Brooks, & Dunne, 2008) enhances
+children’s EU. Such speciﬁc and targeted EU training is not the primary means by which
+EU development is facilitated in most children. As noted by Denham (1998), interpersonal
+and intrapersonal factors are the primary drivers of EU development in the lives of most
+children, so it is these that are the foci of this enquiry.
+
+Interpersonal predictors
+Regarding interpersonal factors, emotion socialization starts in the family in the early
+preschool years and is later supplemented by preschool teachers and peers. Children’s
+interactions and relationships with other people, including their peers, are thought to be
+the primary means through which children learn about and practise their EU skills.
+Therefore, in the present enquiry, we focus on interpersonal factors, speciﬁcally parents’
+mentalizing ability (in ‘reading’ their child’s mind), their non-hostile, sensitive parenting,
+and children’s social skills. We regard the latter as an interpersonal factor because the
+social skills’ measure use herein – the Social Skills Rating System (SSRS; Gresham & Elliot,
+1990) – mostly taps children’s behaviour directed towards peers. We acknowledge that
+the targeted interpersonal predictors are not extensive and, most notably, exclude
+important aspects of emotion socialization, perhaps most especially parents’ explicit
+discussion of emotion with their children (Aznar & Tenenbaum, 2013; Dunn, Brown, &
+Beardsall, 1991; Farrant, Maybery, & Fletcher, 2013).
+
+Parental emotional availability
+Parents’ emotional resources are likely to inﬂuence their children’s EU and its
+development. The emotion socialization literature highlights the inﬂuence of parents’
+ability to accept and help children experience both negative and positive emotions on
+children’s emotional development. Having parents who name and value all types of
+emotions and who create an emotional climate in which a child’s emotions are addressed
+in a sensitive and non-hostile way is hypothesized to help the child learn about his or her
+own and other people’s emotions (e.g., Eisenberg, Cumberland, & Spinrad, 1998).
+Empirically, the importance of the emotional quality of the parent–child interaction for
+the development of EU has received some support in cross-sectional research (Denham &
+Grout, 1993; Denham, Mitchell-Copeland, Strandberg, Auerbach, & Blair, 1997) and
+longitudinal studies (Denham, Zoller, & Couchoud, 1994). For example, Denham and
+Kochanoff (2002) reported that children’s EU at ages 3 and 4 was predicted by mothers’
+positive observed emotions, attentiveness to their children’s emotions, and willingness to
+help their children address their emotions. Unfortunately, it is not clear from such work
+whether the association reﬂects parent or child effects (or some other source of
+inﬂuence). Thus, we extend previous enquiry using repeated-measurements of EU to test
+the proposition that greater parental emotional availability measured at age 4 predicts
+increased EU from age 4 to 6.
+
+342
+
+Silja B. Karstad et al.
+
+Accuracy of parental mentalization
+Parents’ ability to value and understand their children’s emotions and thoughts inﬂuences
+the children’s socio-emotional development (Sharp & Fonagy, 2008). Concepts such as
+mind-mindedness (Meins et al., 2003), reﬂective function (Fonagy & Target, 1997),
+meta-emotion philosophy (Gottman, Katz, & Hooven, 1996), insightfulness (Oppen-
+heim & Koren-Karie, 2013), and the accuracy of parental mentalization (Sharp, Fonagy,
+& Goodyer, 2006) all refer to an individual’s ability to value and understand another
+person’s emotions and thoughts. Fonagy and Target (1997) argue that children’s
+mentalization abilities develop within emotionally charged relationships, while contend-
+ing that the effect of parental mentalization is mediated via parental behaviour (e.g.,
+parental emotion talk, social interactions during play).
+
+Cross-sectional evidence indicates that mothers who describe their 4- to 6-year-old
+children in more mentalistic terms have children with more advanced EU (de Rosnay,
+Pons, Harris, & Morrell, 2004). Due to problems inherent in interpreting such cross-
+sectional associations, here we rely on a longitudinal design that affords testing the
+prediction that the greater a parent’s ability to take his or her child’s perspective, the more
+the child’s EU will increase over time. Evidence consistent with this hypothesis would
+extend ﬁndings from a small sample study (n = 33) by Meins, Fernyhough, Russell, and
+Clark-Carter (1998) showing that greater use of mentalizing language by mothers of 3-year-
+olds predicted greater child EU 2 years later. Instead of relying on a mentalizing measure
+based on mothers’ verbal description and analysis of videotaped interactions with their
+children, we developed a measure of the accuracy of parental mentalization, following
+Sharp et al. (2006), that involves a direct comparison of the child’s actual performance on
+a test of EU with the parent’s estimate of child performance on a test of EU.
+
+Child social skills
+Banerjee, Watling, and Caputi (2011) observed that a speciﬁc component of EU, namely
+false belief understanding, emerges between 3 and 5 years of age, the development of
+which coincides with a dramatic increase in peer interaction. Indeed, having more
+friends and being well liked by peers and teachers, capabilities that are inﬂuenced by and
+inﬂuence social skills are positively related to EU (Denham, 1986; Denham, McKinley,
+Couchoud, & Holt, 1990; Denham et al., 2003). Indeed, some contend that advanced EU
+predicts advanced social skills (Denham et al., 2003; Garner & Estep, 2001). Of course,
+the reverse process of inﬂuence also seems possible, such that more and higher quality
+peer interactions enable children to practise and further develop their emotional and
+social skills (Banerjee et al., 2011). Consistent with this claim, Maguire and Dunn (1997)
+found that children (N = 41) displaying high complexity of social play at 69 months
+evinced greater understanding of mixed emotions at 7 months later. Similarly,
+Dunsmore and Karn (2004) measured peer relationships and EU on two occasions
+across a 6-month period, from age 5.5 to 6 years (N = 45), observing that popular
+children and children with more stable friendships manifested greater growth in EU than
+other children. Once again, the modest sample sizes raise questions about the
+replicability and generalizability of the ﬁndings, as does the study’s failure to evaluate
+other interpersonal factors known to be related to EU simultaneously. Nevertheless,
+consistent with the ﬁndings summarized above, we hypothesize that child social skills at
+4 years of age will predict increased child EU from 4 to 6 years, even after controlling for
+other intra- and interpersonal variables.
+
+Predictors of emotion understanding
+
+343
+
+Intrapersonal and demographic factors
+Intrapersonal factors included in this report, along with family demographic factors, will
+serve as covariates in the multivariate analyses to be reported – so that the unique effects of
+the interpersonal factors already mentioned can be estimated. The covariates have been
+selected based on prior work showing them to be related to either EU or the interpersonal
+predictors of EU considered in this enquiry. They include children’s gender (Root &
+Denham, 2010) and verbal skills (Cutting & Dunn, 1999; Pons et al., 2003; de Rosnay &
+Harris, 2002; de Rosnay et al., 2004), as well as parental socio-economic status (SES;
+Cutting & Dunn, 1999; Dunn & Brown, 1994).
+
+The present study
+
+1. The present study is the largest population study to investigate EU development over
+time. In this study, we included interpersonal predictors while controlling for
+intrapersonal covariates, and we used the same instrument at both time points. Based
+on prior research, our initial hypotheses were as follows:
+
+2. Parental emotional availability and the accuracy of parents’ mentalization measured
+when their child was 4 years predict an increase in children’s EU measured at age 6.
+In addition, more mature social skills in children measured at age 4 also predict an
+increase in children’s EU measured at age 6.
+
+Method
+
+Participants and procedure
+A letter of invitation was sent to all parents of two birth cohorts of children in a city in mid-
+Norway (approximately 200,000 inhabitants). To increase the variability in EU (and other
+measured constructs) in an age-restricted sample, we oversampled for children with
+social, emotional, and behavioural problems, using the Strengths and Difﬁculties
+Questionnaire (SDQ; Goodman, 1997) as a screening instrument in sample selection
+and recruitment. The SDQ is an efﬁcient screening for mental-health problems in
+preschoolers (Sveen, Berg-Nielsen, Lydersen, & Wichstrøm, 2013), which are known to
+correlate with EU (Southam-Gerow & Kendall, 2002). Details about the procedure and
+recruitment have been presented elsewhere (Wichstrøm et al., 2012); thus, only a brief
+outline is provided here.
+
+The parents brought the completed SDQ to the community health check-up
+appointment that is routinely scheduled for all Norwegian 4-year-olds. Of the parents
+who were eligible for the study, 97.2% showed up for their appointments at one of the
+city’s well-child clinics. Parents who were not sufﬁciently proﬁcient in Norwegian to
+complete the SDQ screen were excluded from the study. A nurse at the clinic informed the
+parents about the study using procedures and measures approved by the Regional
+Committee for Medical and Health Research Ethics and then obtained written consent
+from the parents to participate in the study. A small percentage of the families (5.2%) were
+not asked to participate because of an error on the part of the clinic staff.
+
+The SDQ is a 31-item measure that has been demonstrated to have an excellent
+screening ability for psychiatric symptoms among preschoolers (Sveen et al., 2013). SDQ
+scores on the symptom scale (20 items) were divided into four strata: 0–4, 5–8, 9–11, and
+12–40. With a random number generator, deﬁned proportions of parents in each stratum
+(.37, .48, .70, and .89, respectively) were drawn for participation in further studies. The
+
+344
+
+Silja B. Karstad et al.
+
+sample was adjusted for stratiﬁcation in all analyses. The dropout rate after consenting at
+the well-child clinic did not differ across the four SDQ strata (v2 = 5.70, df = 3, NS) or
+gender (v2 = 0.23, df = 1, NS).
+
+Because of child fatigue and missing data from the parents, the analysis sample for this
+study consisted of 926 parent–child dyads in the ﬁrst assessment (T1), with 464 boys and
+462 girls who completed the TEC. The mean age of the children at T1 was 4.4 years (range
+3.85–5.36, SD = 0.18). Nearly every caretaker attending the clinic with their child
+(M = 35.1 years, SD = 5.0) was the child’s biological parent (99.5%), was married or had
+lived with their partner for more than 6 months (87.6%), and was a woman (84.4%). Both
+mothers (95.8%) and fathers (94.2%) were of primarily Norwegian ancestry. After the
+sample was adjusted for stratiﬁcation, the sample was compared to register information
+from Statistics Norway on the parents of all 4-year-olds in the mid-Norway city in 2007 and
+2008. The sample contained a higher proportion of divorced parents (7.6%) compared
+with the population as a whole (2.1%), whereas the level of parental education was
+virtually identical across the sample and population. Consequently, the sample is
+considered a representative community sample.
+
+In total, 756 children reassessed after 2.4 years (T2), when each child had started ﬁrst
+grade (M = 6.7 years, range = 6.0–7.7, SD = 0.16), had usable TEC scores. Among these
+children, 48 did not provide usable TEC scores when they were 4 years old. Thus, 974
+children had usable TEC measures at either 4 or 6 years and formed the analysis sample.
+None of the study variables proved signiﬁcant in predicting attrition.
+
+Children were tested at the clinic without their parents present, and parents granted
+consent to mail a questionnaire to the childcare provider who knew the child best in the
+day care centre they were attending. While the child watched a movie in the same room as
+their parent while wearing headphones, the parent was asked to estimate their children’s
+EU. Parent–child interaction was then videotaped for 30 min across ﬁve tasks (Eyberg,
+McDiarmid, Duke, & Boggs, 2005): Free play (10 min), child-guided play (5), parent-
+guided play (5), clean-up (max: 5), and child-waiting (i.e., not interacting with the parent)
+while the parent answered a questionnaire (5).
+
+Measures
+
+Emotion understanding
+Emotion understanding was assessed using a Norwegian translation (by the ﬁrst author,
+with proofreading by bilingual scholars) of the TEC (Pons & Harris, 2000) at T1 and T2.
+The TEC is designed for children aged 3–11 years and is composed of nine components.
+The nine components are described in Table 1, divided into three developmental periods
+suggested by Pons et al. (2004). The TEC has been widely used in research around the
+world and has been translated to 18 languages (Albanese et al., 2006; Pons & Harris, 2005;
+Tenenbaum, Visscher, Pons, & Harris, 2004).
+
+A short story accompanied by cartoon scenarios was read aloud to the child while the
+‘faces’ of the cartoon characters were presented without any feature or expression (i.e., a
+blank circle). At the story’s end, the child was asked to indicate the emotional response of
+the story’s protagonist by pointing to one of the four cartoon faces expressing different
+emotions presented for this purpose, two displaying negative emotions (sad, scared; sad,
+angry; or scared, angry) and two non-negative emotions (happy, just alright). Practice
+questions are administered before test questions to conﬁrm children’s comprehension of
+the procedure. The TEC has separate versions for girls and boys, and administration lasted
+for approximately 15–20 min.
+
+Table 1. Nine components of emotion understanding by age and skills
+
+Predictors of emotion understanding
+
+345
+
+Period
+
+External
+period
+
+Mentalistic
+
+period
+
+Component
+
+Recognition
+(3–4 years old)
+External cause
+(3–4 years old)
+Desire (3–5 years old)
+
+Skill
+
+Recognize and name the basic emotions
+
+Understand how external causes affect emotions in others
+
+Understand the effect of desires in the emotional
+
+Reminder (3–6 years old) Understand the effect of past information on emotions
+Belief (4–6 years old)
+
+Understand the effect of beliefs (true or false) on the
+
+reactions of others
+
+Hiding (4–6 years old)
+
+emotional reactions of others
+
+Understand the differences between the outwardly
+
+expressed emotion and the actual, inwardly
+experienced emotion
+
+Reﬂective
+
+Regulation (8 years old)
+
+Understand the effectiveness of using cognitive strategies to
+
+period
+
+Morality (8 years old)
+
+Mixed emotion
+
+(8 years old)
+
+maintain control of emotions
+
+Understand that emotions are linked to morally
+
+reprehensible actions and to praiseworthy actions
+Understand that a person may experience multiple
+
+emotions in response to a single situation
+
+The components increase in difﬁculty and yield a sum score (range: 0–9), with a score
+of 0 or 1 at each component level. Recognition (component 1) and External cause
+(component 2) are assessed with ﬁve test items, and at least four of the ﬁve items must be
+answered to obtain score of 1. Desire (component 3) is assessed with four test items (4/4
+must be answered correctly to obtain score of 1), whereas Belief (component 4),
+Reminder (component 5), Regulation (component 6), Hiding (component 7), and Mixed
+(component 8) consist of one test item each. Morality (component 9) is assessed with two
+items, and both must be answered to obtain score of 1. For a more detailed description of
+the TEC, see Pons et al. (2004).
+
+The theta test was used to assess the reliability; it accounts for the categorical ordering
+of the data (Zumbo, Gadermann, & Zeisser, 2007) and overcomes some limits of
+Cronbach’s alpha (Gadermann, Guhn, & Zumbo, 2008). The theta for the TEC was .82 at
+T1 and .91 at T2.
+
+Interpersonal predictors
+
+Parental emotional availability
+This predictor was assessed with the EA Scales, 3rd ed. (Biringen, Robinson, & Emde,
+1998). Parent and child interactions were videotaped at T1. The EA scales are used to rate
+four parental dimensions (sensitivity, structuring, non-intrusiveness, and non-hostility)
+and two child dimensions (responsiveness to and involvement with the parent). All
+dimensions are assessed in the context of the dyadic interaction, instead of being speciﬁc
+to the behaviour of an individual child or parent; however, we used the sum total of the
+four parent ratings, as the four parent ratings yielded an internally consistent score in our
+sample (a = .74). All raters were trained and certiﬁed as reliable by Z. Biringen, who
+developed the EA. The inter-rater reliability between multiple blinded coders on a random
+10% sample of the videotapes for the total parent scale was ICC = .71.
+
+346
+
+Silja B. Karstad et al.
+
+The accuracy of parental mentalization
+This parental accuracy measure regarding children’s EU was assessed at T1 using a method
+described by Sharp et al. (2006). Therefore, we ﬁrst tested the child alone, and the parent
+was then instructed to provide responses to the TEC as if they were their child. The
+accuracy of parental mentalization reﬂects the item-by-item correspondence between the
+parent’s estimate and the child’s actual response to each question on the TEC (range:
+0–21). Because the accuracy of parental mentalization measure captures the agreement
+between parents and children without considering the actual correctness of the child’s
+response, we chose to use all the items instead of the total score (0–9) because the total
+scores include scoring rules that depend on the correctness of the answer. This approach
+avoided the possibility of a parent generating an estimation score that exactly matched
+that of the child (e.g., 3/9) but incorrectly estimating all of the child’s individual responses.
+Because parental accuracy is a difference score on the item level whereas the child’s TEC
+score represents the level across items, the two measures are conceptually independent.
+
+Child social skills
+This predictor was assessed by the total score of the 30-item Social Skills Rating System-
+teacher report (SSRS-T) (Gresham & Elliot, 1990) at T1 (a = .93). The SSRS-T was
+completed at T1 by the preschool teacher who was best acquainted with the child.
+
+Intrapersonal and demographic factors
+
+Verbal skills
+The Norwegian version of the Peabody Picture Vocabulary Test (PPVT-III) (L. M. Dunn &
+Dunn, 1997) was used to measure the children’s receptive language ability at T1. The
+examiner presented a word that described one of four pictures on a page and asked the
+child to point to or say the number of the picture corresponding to the word. The test
+consisted of four practice items and 204 test items arranged in order of difﬁculty (a = .98).
+
+Parental SES
+In addition to the child’s gender, parental SES was included as a covariate. Parental
+occupational status was used as a proxy for SES. The parent who completed the parent
+version of the TEC was interviewed about her/his occupation. Parental occupational data
+were coded according to the International Classiﬁcations of Occupations (International
+Labour Ofﬁce, 1990), yielding the following categories: Unskilled workers, farmers/
+ﬁshermen, skilled workers,
+lower professionals, higher professionals, and leaders.
+Because parental mentalization and parent–child interactions might covary with each
+individual’s SES, we used the informant parent’s SES rather than both parents’ SES.
+
+Results
+Descriptive analyses are presented ﬁrst, followed by the primary prediction analysis of
+development of EU from 4 to 6 years. Because we oversampled for mental-health
+problems, analyses were performed with weights inversely proportional to the drawing
+probability (i.e., the results for children with high scores on the SDQ were weighted
+down, and the results for children with low scores on the SDQ were weighted up).
+
+Predictors of emotion understanding
+
+347
+
+Moreover, a robust maximum-likelihood estimator was used, which yields robust standard
+errors. Participants were included if they had usable scores on EU at T1 or T2 (n = 974).
+Missing data were handled according to a full information maximum-likelihood procedure
+using Mplus 7.2 (Muthen & Muthen, 1998–2013). These corrections were performed for
+all analyses, thereby enabling us to generalize the ﬁndings to the larger population from
+which the study sample was drawn.
+
+Descriptive analyses
+Two sets of analyses involving the mean EU and correlations are presented. Table 2 lists
+the descriptive statistics for all the study variables. At 4 years, the mean EU score was MEU
+4 years = 3.36, SD = 1.54. This score almost doubled by T2, MEU 6 years = 5.92, SD = 1.43.
+To examine the development of EU over time, a growth modelling approach was used. To
+accommodate growth with only two measurement points, the error terms of EU were set
+to zero. Growth was parameterized as yearly change. Mgrowth was 1.28, p < .001. Because
+such a change could partly result from altered importance of TEC items as the child grows,
+measurement invariance was evaluated. The factor loadings of the individual TEC
+components were examined by the model test procedure in Mplus. None of the factor
+loadings differed at age 4 and 6 years (i.e., all p-values > .10). Figure 1 depicts the
+percentage of children who correctly completed the EU components at T1 and T2. As the
+ﬁgure shows, the distribution was not truncated at either end of the continuum; therefore,
+the measurement did not suffer from any major ﬂoor and ceiling effects. The overall TEC
+score improved for most children (84.9%) from T1 to T2, whereas the score did not
+change for 8.8% of children and declined for 6.3% of children.
+
+Table 3 presents the correlations among all the study variables, showing that EU scores
+at T1 and T2 were modestly positively correlated. Additionally, greater verbal skills and
+parental mentalization (measured at T1) were related to better EU, with associations larger
+
+Table 2. Descriptive statistics of the study variables from T1
+
+Predictors and covariates
+
+Interpersonal predictors
+
+Accuracy of parental mentalization
+Emotional availability
+Social skills
+
+Intrapersonal and demographic factors
+
+Verbal skills
+
+Parent’s socio-economic status
+
+Unskilled workers
+Farmers/ﬁshermen
+Skilled workers
+Lower professionals
+Higher professionals
+Leaders
+
+Note. EU = emotion understanding.
+
+M (SD)
+
+12.11 (2.4)
+
+105.41 (15.14)
+57.35 (10.37)
+
+92.54 (23.27)
+
+%
+
+3.1
+0.6
+25.2
+39.9
+25.6
+5.6
+
+348
+
+Silja B. Karstad et al.
+
+30.00
+
+25.00
+
+20.00
+
+15.00
+
+10.00
+
+5.00
+
+0.00
+
+t
+c
+e
+r
+r
+o
+c
+ 
+e
+g
+a
+t
+n
+t
+e
+c
+r
+e
+P
+
+0
+
+1
+
+2
+
+TEC at T1
+TEC at T2
+
+7
+
+8
+
+9
+
+3
+
+6
+Number of correct components 
+
+4
+
+5
+
+Figure 1. Histogram showing number of correct components comparing the child sum scores from
+TEC at T1 and TEC at T2.
+
+Table 3. Correlations between variables
+
+Parental
+accuracy of
+mentalization (1)
+
+Emotional
+
+Social
+
+availability (2)
+
+skills (3)
+
+Verbal
+skills (4)
+
+SES
+(5)
+
+Gender
+
+EU
+
+EU
+
+(% girls) (6)
+
+(T1) (7)
+
+(T2) (8)
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+.14*
+
+.08*
+.15***
+
+.52***
+.15***
+.15***
+
+.09*
+.19***
+.11**
+.15***
+
+.07
+.03
+.20***
+.00
+
+ .04
+
+.81***
+.14**
+.04
+.40***
+.07
+.01
+
+.20***
+.06
+.20***
+.18***
+.10*
+.04
+.16***
+
+Note. EU = emotion understanding; SES = socio-economic status.
+*p < .05, **p < .01, ***p < .001.
+
+at T1 than at T2; greater parental emotional availability was associated with higher EU at
+T1; and better social skills (measured at T1) were related to better EU at T2.
+
+Prediction of growth in EU from T1 to T2
+To test predictors of growth in EU, the growth parameters of growth and intercept (EU at
+T1) were regressed on parental mentalization and emotional availability, child social and
+verbal skills as well as gender and parental SES. These predictors were allowed to
+correlate. To adjust for potential regression towards the mean effects (e.g., some children
+could obtain high scores simply by chance by pointing to the correct answers), the slope
+
+Predictors of emotion understanding
+
+349
+
+was regressed on the intercept. Parental mentalization, parental emotional availability,
+and child social skills were measured as latent variables. Because parental mentalization
+items were dichotomous (right or wrong), they were treated as categorical variables.
+However, this approach resulted in a frequency table for the latent class indicator model
+that was too large for Mplus to handle, so the chi-square could not be computed. Thus,
+common model ﬁt indices (e.g., v2, RMSEA, CFI, and TLI) could not be computed.
+Analysing the model without parental mentalization could provide an indication of model
+the full model, and this proved satisfactory: v2(38) = 111.04, p < .001,
+ﬁt of
+RMSEA = .044, CFI = .972, TLI = .954, SRMR = .024.
+
+Results are presented in Table 4. Greater parental accuracy of mentalization (T1) was
+associated with larger EU intercept at T1. More importantly, greater parental accuracy
+predicted a larger increase in EU over time (i.e., slope), as did better verbal and social skills.
+As expected when regression towards the mean is at play and as often found in research
+applying growth curves, the intercept strongly predicted reduced growth. Efforts to
+determine whether effects of parental mentalization were moderated by levels of verbal
+skills, social skills, and parental emotional availability revealed no signiﬁcant interaction
+effects.
+
+Discussion
+To extend prior research on children’s EU, we investigated interpersonal predictors and
+intrapersonal covariates of development in EU from 4 to 6 years in a large community
+sample of Norwegian children. Results showed that more verbally and socially skilled
+4-year-olds whose parents demonstrated better mentalization displayed the greatest EU
+growth. Taken together, our ﬁndings and those of other studies indicate that there are
+substantial individual differences not only in the level of EU but also in the pace at which
+EU develops during the latter part of the preschool years. Hence, children who lag in EU in
+
+Table 4. Predictors and covariates regressed on the intercept and slope of EU from age 4 to 6
+
+Intercept (4 years)
+
+Slope (change from 4 to 6 years)
+
+B
+
+SE B
+
+b
+
+95% CI
+
+p-value
+
+B
+
+SE B
+
+b
+
+95% CI
+
+p-value
+
+.00
+
+.05  0.01 to 0.12
+.09  .03  0.09 to 0.03
+.05  .01  0.07 to 0.05
+
+ .52
+
+.04  .82  0.93 to 0.71
+
+<.001
+
+.12
+.27
+
+.83
+
+.00
+.02
+
+.00
+.06
+
+.05
+
+.03
+
+.07
+
+0.02 to 0.13
+
+.01  0.05 to 0.07
+.05  0.01 to 0.11
+
+.01
+.75
+
+.07
+
+Intercept
+Intrapersonal and demographic factors
+
+Verbal skills
+Gender
+
+(% girls)
+
+SES
+
+.00
+
+ .10
+ .01
+
+Interpersonal predictors
+.98
+
+Parental
+
+.29
+
+.76
+
+0.68 to 0.85
+
+<.001
+
+.13
+
+.07
+
+.16
+
+0.03 to 0.30
+
+.02
+
+accuracy of
+mentalization
+
+Emotional
+
+availability
+Social skills
+R2
+
+.02
+
+ .03
+
+.02
+
+.03  0.05 to 0.11
+.02  .05  0.12 to 0.01
+
+.58
+
+.42
+
+.00
+
+.01
+
+.00  0.07 to 0.07
+
+.12
+<.001
+
+.03
+
+.01
+
+.10
+.51
+
+0.04 to 0.17
+
+.97
+
+<.05
+<.001
+
+Note. EU = emotion understanding; SES = socio-economic status; B = unstandardized regression
+coefﬁcient; b = standardized regression coefﬁcient.
+
+350
+
+Silja B. Karstad et al.
+
+the mid-preschool period might show rapid increases during the next few years, whereas
+others display only modest improvements.
+
+Our ﬁndings support Banerjee et al.’s (2011) claim that a lack of social skills may
+impair children’s ability to develop EU. Most research on the predictors of social-cognitive
+development has focused on the ﬁrst 5 years of life, a period during which parents may be
+more important socialization agents than peers. In the present study, we followed
+children across the transition from preschool to school, a time when friends become
+important socialization agents and children develop the ability to mentalize not only their
+own emotions but also other’s emotional reactions. Our results show that children’s social
+skills are a predictor of growth in EU.
+
+Among the parent-related predictors examined in this study, only parental mentaliza-
+tion (not the more behavioural aspect of parental emotional availability) uniquely
+predicted an increase in EU from age 4 to 6. Hence, the present data suggest that in
+fostering children’s understanding of emotions, parents’ ability to mentalize is more
+important than parental structuring and sensitivity, at least as measured using the
+Emotional Availability Scales. If the parent knows the child’s level of EU, it may be easier to
+match emotion language and emotion regulation strategies to the child’s developmental
+needs. The parent can behave in a way that ﬁts the child’s zone of proximal development
+to help the child foster better EU.
+
+Or it may be a measurement effect. Parent–child interaction was rated after seeing 30-
+min videotaped interaction. Many parents may show socially desirable parental behaviour
+within that time span, but behave otherwise while not being observed. Whereas the way
+mentalization was measured, socially desirable responding (a parent indicating that their
+child understands more than it actually does) does not result in a good score, but reveals
+the discrepancy between parental belief or wish and child actual performance. Future
+work should seek to test these interpretations of our ﬁndings.
+
+Our results are consistent with prior cross-sectional ﬁndings that document positive
+associations between parental mentalization and children’s EU (Karstad, Kvello,
+Wichstrøm, & Berg-Nielsen, 2014; Meins et al., 1998; de Rosnay et al., 2004) and
+longitudinal results pertaining to the child’s theory of mind by Meins et al. (2002). Our
+mentalization measure directly compares the parental estimate to the child’s actual level
+of EU, and it is less time-consuming to score and interpret the results than other
+mentalization measures. Future work should examine the covariation of these different
+mentalization measures.
+
+At the level of individual differences, the stability of EU was modest, with EU at age 4
+predicting 2 years later to roughly the same extent as the other age-4 predictors. Starting
+at age 4 (i.e., when EU is beginning to emerge), one might suspect that modest continuity
+of EU might result from a ﬂoor effect at age 4 when the TEC tasks are too difﬁcult for most
+4-year-olds. However, Figure 1 indicates that most children were successful on some EU
+components, with children’s scores at this time varying considerably. Therefore, in
+combination with high reliability of the TEC, the present ﬁndings indicate that there is
+only modest stability in EU during this developmental period, at least in the population
+studied. Whether this is also true in other populations is a question for future research.
+Although the present research has several strengths, such as prospective multivariate
+analyses of data from a large and representative community study and the inclusion of a
+parental mentalization measure, the results should be interpreted in the light of several
+limitations. First, although our operationalization of parental mentalization follows a well-
+established tradition (Ha, Sharp, & Goodyer, 2011; Sharp et al., 2006), this speciﬁc
+measure has not been validated beyond the ﬁndings of this study. Furthermore, parental
+
+Predictors of emotion understanding
+
+351
+
+emotional availability was assessed in a laboratory setting, which might have compro-
+mised the ecological validity of the study. Additionally, our reliance mainly on mothers
+calls attention to the need to study fathers and, thereby, comparatively evaluate both
+maternal and paternal effects – as well as their interacting inﬂuence.
+
+While the effects detected were modest in magnitude, they are nevertheless
+informative with potential translational implications. Most importantly, it should be clear
+that EU is still developing by the time children start school. As well, it appears that parents’
+understanding of their child’s EU capabilities contributes to its continued growth. This
+suggests that efforts to facilitate such understanding may contribute to its development, a
+goal which could be addressed in many ways, no doubt. For example, preschool teachers
+could be encouraged to inform parents about their children’s EU in addition to the
+intervention programmes already proven useful in research (Domitrovich et al., 2007;
+Gavazzi & Ornaghi, 2011). If there is a large discrepancy between parent’s knowledge of
+their child’s EU, mentalization-based interventions could be introduced with a special
+focus on parents’ ability to read their children’s EU.
+
+Acknowledgements
+
+This study was supported by grant # 170449/V50 and 175309/V50 from The Research Council
+of Norway. This study was also supported by ‘The National Program for Integrated Clinical
+Specialist and PhD-training for Psychologists’ in Norway. This programme reﬂects joint
+cooperation between the universities of Bergen, Oslo and Tromsø, the Norwegian University
+of Science and Technology (Trondheim), the Regional Health Authorities, and the Norwegian
+Psychological Association. The programme is funded jointly by the Ministry of Education and
+Research and the Ministry of Health and Care Services. We would like to thank all the parents
+and children who participated in the study.
+
+References
+Albanese, O., Gavazzi, I. G., Molina, P., Antoniotti, C., Arati, L., Farina, E., & Pons, F. (2006).
+Children’s emotion understanding: Preliminary data from the Italian validation project of Test of
+Emotion Comprehension (TEC). In F. Pons, M. F. Daniel, L. Lafortune, P. A. Doudin & O.
+Albanese (Eds.), Toward emotional competences (pp. 39–53). Aalborg, Denmark: Aalborg
+University Press.
+
+Aznar, A., & Tenenbaum, H. R. (2013). Spanish parents’ emotion talk and their children’s
+
+understanding of emotion. Frontiers in Psychology, 4, 1–11. doi:10.3389/fpsyg.2013.00670
+
+Banerjee, R., Watling, D., & Caputi, M. (2011). Peer relations and the understanding of faux pas:
+Longitudinal evidence for bidirectional associations. Child Development, 82, 1887–1905.
+doi:10.1111/j.1467-8624.2011.01669.x
+
+Biringen, Z., Robinson, J. L., & Emde, R. N. (1998). The emotional availability scale (3rd ed.). Fort
+Collins, CO: Department of Human Development and Family Studies, Colorado State University.
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, language, and family
+background: Individual differences and interrelations. Child Development, 70, 853–865.
+doi:10.1111/1467-8624.00061
+
+de Rosnay, M., & Harris, P. L. (2002). Individual differences in children’s understanding of emotion:
+The roles of attachment and language. Attachment & Human Development, 4(1), 39–54.
+doi:10.1080/14616730210123139
+
+de Rosnay, M., Harris, P. L., & Pons, F. (2008). Emotional understanding and developmental
+psychopathology in young children. In C. Sharp, P. Fonagy & I. Goodyer (Eds.), Social cognition
+and developmental psychopathology (pp. 343–385). Oxford, UK: Oxford University Press.
+
+352
+
+Silja B. Karstad et al.
+
+de Rosnay, M., Pons, F., Harris, P. L., & Morrell, J. M. B. (2004). A lag between understanding false
+belief and emotion attribution in young children: Relationships with linguistic ability and
+mothers’ mental-state language. British Journal of Developmental Psychology, 22, 197–218.
+doi:10.1348/026151004323044573
+
+Denham, S. A. (1986). Social cognition, pro-social behavior, and emotion in preschoolers:
+
+Contextual validation. Child Development, 57(1), 194–201. doi:10.2307/1130651
+
+Denham, S. A. (1998). Emotional development in young children. New York, NY: The Guilford Press.
+Denham, S. A. (2006). Social-emotional competence as support for school readiness: What is it and
+how do we assess it? Early Education and Development, 17(1), 57–89. doi:10.1207/
+s15566935eed1701_4
+
+Denham, S. A., Blair, K. A., DeMulder, E., Levitas, J., Sawyer, K., Auerbach-Major, S., & Queenan, P.
+(2003). Preschool emotional competence: Pathway to social competence? Child Development,
+74(1), 238–256. doi:10.1111/1467-8624.00533
+
+Denham, S. A., & Grout, L. (1993). Socialization of emotion: Pathway to preschoolers’ emotional and
+social competence. Journal of Nonverbal Behavior, 17, 205–227. doi:10.1007/BF00986120
+Denham, S. A., & Kochanoff, A. (2002). Parental contributions to preschoolers’ understanding of
+
+emotion. Marriage & Family Review, 34, 311–343. doi:10.1300/J002v34n03_06
+
+Denham, S. A., McKinley, M., Couchoud, E. A., & Holt, R. (1990). Emotional and behavioral
+predictors of preschool peer ratings. Child Development, 61, 1145–1152. doi:10.1111/j.1467-
+8624.1990.tb02848.x
+
+Denham, S. A., Mitchell-Copeland, J., Strandberg, K., Auerbach, S., & Blair, K. (1997). Parental
+contributions to preschoolers’ emotional competence: Direct and indirect effects. Motivation
+and Emotion, 21(1), 65–86. doi:10.1023/A:1024426431247
+
+Denham, S. A., Zoller, D., & Couchoud, E. A. (1994). Socialization of preschoolers’ emotion
+
+understanding. Developmental Psychology, 30, 928–936. doi:10.1037/0012-1649.30.6.928
+
+Domitrovich, C. E., Cortes, R. C., & Greenberg, M. T. (2007). Improving young children’s social and
+emotional competence: A randomized trial of the preschool “PATHS” curriculum. The Journal
+of Primary Prevention, 28, 67–91. doi:10.1007/s10935-007-0081-0
+
+Dunn, J., & Brown, J. (1994). Affect expression in the family, children’s understanding of emotions,
+
+and their interactions with others. Merrill-Palmer Quarterly, 40(1), 120–137.
+
+Dunn, J., Brown, J., & Beardsall, L. (1991). Family talk about feeling states and children’s later
+understanding of others’ emotions. Developmental Psychology, 27, 448–455. doi:10.1037/
+0012-1649.27.3.448
+
+Dunn, J., & Cutting, A. L. (1999). Understanding others, and individual differences in friendship
+interactions in young children. Social Development, 8, 201–219. doi:10.1111/1467-9507.00091
+Dunn, L. M., & Dunn, L. M. (1997). Peabody picture vocabulary test (3rd ed.). Circle Pines, MN:
+
+American Guidance Service.
+
+Dunsmore, J. C., & Karn, M. A. (2004). The inﬂuence of peer relationships and maternal socialization
+on kindergartners’ developing emotion knowledge. Early Education and Development, 15(1),
+39–56. doi:10.1207/s15566935eed1501_3
+
+Eisenberg, N., Cumberland, A., & Spinrad, T. L. (1998). Parental socialization of emotion.
+
+Psychological Inquiry, 9, 241–273. doi:10.1207/s15327965pli0904_1
+
+Eyberg, S. M., McDiarmid, N. M., Duke, M., & Boggs, S. R. (2005). Manual for the dyadic parent-
+
+child interaction coding system (3rd ed.). University of Florida.
+
+Farrant, B. M., Maybery, M. T., & Fletcher, J. (2013). Maternal attachment status, mother-child
+emotion talk, emotion understanding, and child conduct problems. Child Development
+Research, 2013, 1–9. doi:10.1155/2013/680428
+
+Fonagy, P., & Target, M. (1997). Attachment and reﬂective function: Their role in self-organization.
+
+Development and Psychopathology, 9, 679–700.
+
+Gadermann, A., Guhn, M., & Zumbo, B. D. (2008). An empirical comparison of Cronbach’s
+alpha with ordinal reliability coefﬁcients alpha and theta. International Journal of Psychology,
+43, 55.
+
+Predictors of emotion understanding
+
+353
+
+Garner, P. W., & Estep, K. M. (2001). Emotional competence, emotion socialization, and young
+children’s peer-related social competence. Early Education and Development, 12(1), 29–48.
+doi:10.1207/s15566935eed1201_3
+
+Gavazzi, I. G., & Ornaghi, V. (2011). Emotional state talk and emotion understanding: A training
+study with preschool children. Journal of Child Language, 38, 1124–1139. doi:10.1017/
+s0305000910000772
+
+Goodman, R. (1997). The Strengths and Difﬁculties Questionnaire: A research note. Journal of Child
+
+Psychology and Psychiatry, 38, 581–586. doi:10.1111/j.1469-7610.1997.tb01545.x
+
+Gottman, J. M., Katz, L. F., & Hooven, C. (1996). Parental meta-emotion philosophy and the
+life of families: Theoretical models and preliminary data. Journal of Family
+
+emotional
+Psychology, 10, 243–268. doi:10.1037/0893-3200.10.3.243
+
+Gresham, F. M., & Elliot, S. N. (1990). Social skills rating system manual. Circle Pines, MN:
+
+American Guidance Service.
+
+Ha, C., Sharp, C., & Goodyer, I. (2011). The role of child and parental mentalizing for the
+development of conduct problems over time. European Child & Adolescent Psychiatry, 20,
+291–300. doi:10.1007/s00787-011-0174-4
+
+Halberstadt, A. G., Denham, S. A., & Dunsmore, J. C. (2001). Affective social competence. Social
+
+Development, 10(1), 79–119. doi:10.1111/1467-9507.00150
+
+Harris, P. (2000). Understanding emotions. In M. Lewis & J. Haviland-Jones (Eds.), Handbook of
+
+emotions (2nd ed., pp. 281–292). New York, NY: The Guilford Press.
+
+Hughes, C., & Dunn, J. (1998). Understanding mind and emotion: Longitudinal associations with
+mental-state talk between young friends. Developmental Psychology, 34, 1026–1037.
+doi:10.1037/0012-1649.34.5.1026
+
+Hughes, C., Dunn, J., & White, A. (1998). Trick or treat?: Uneven understanding of mind and emotion
+and executive dysfunction in “hard-to-manage” preschoolers. Journal of Child Psychology and
+Psychiatry and Allied Disciplines, 39, 981–994.
+
+International Labour Ofﬁce (1990). International standard classiﬁcation of occupations: ISCO-88.
+
+Geneva, Switzerland: Author.
+
+Karstad, S. B., Kvello, Ø., Wichstrøm, L., & Berg-Nielsen, T. S. (2014). What do parents know about
+their children’s comprehension of emotions? Accuracy of parental estimates in a community
+sample of preschoolers. Child: Care, Health and Development, 40, 346–353. doi:10.1111/
+cch.12071
+
+Maguire, M. C., & Dunn, J. (1997). Friendships in early childhood, and social understanding.
+doi:10.1080/
+
+of Behavioral Development,
+
+Journal
+
+International
+016502597384613
+
+21,
+
+669–686.
+
+Meins, E., Fernyhough, C., Russell, J., & Clark-Carter, D. (1998). Security of attachment as a predictor
+of symbolic and mentalising abilities: A longitudinal study. Social Development, 7(1), 1–24.
+doi:10.1111/1467-9507.00047
+
+Meins, E., Fernyhough, C., Wainwright, R., Clark-Carter, D., Das Gupta, M., Fradley, E., & Tuckey, M.
+(2003). Pathways to understanding mind: Construct validity and predictive validity of maternal
+mind-mindedness. Child Development, 74, 1194–1211. doi:10.1111/1467-8624.00601
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta, M., Fradley, E., & Tuckey, M. (2002). Maternal
+mind-mindedness and attachment security as predictors of theory of mind understanding. Child
+Development, 73, 1715–1726. doi:10.1111/1467-8624.00501
+
+Muthen, L. K., & Muthen, B. O. (1998–2013). Mplus user’s guide (7th ed.). Los Angeles, CA: Author.
+Nelson, J. A., O’Brien, M., Calkins, S. D., Leerkes, E. M., Marcovitch, S., & Blankson, A. N. (2012).
+Infant and Child
+
+Maternal expressive style and children’s emotional development.
+Development, 21, 267–286. doi:10.1002/icd.748
+
+Ontai, L. L., & Thompson, R. A. (2002). Patterns of attachment and maternal discourse effects on
+children’s emotion understanding from 3 to 5 years of age. Social Development, 11, 433–450.
+doi:10.1111/1467-9507.00209
+
+354
+
+Silja B. Karstad et al.
+
+Oppenheim, D., & Koren-Karie, N. (2013). The insightfulness assessment: Measuring the internal
+processes underlying maternal sensitivity. Attachment & Human Development, 15, 545–561.
+doi:10.1080/14616734.2013.820901
+
+Ornaghi, V., Brockmeier, J., & Grazzani, I. (2014). Enhancing social cognition by training children in
+emotion understanding: A primary school study. Journal of Experimental Child Psychology,
+119, 26–39. doi:10.1016/j.jecp.2013.10.005
+
+Pons, F., & Harris, P. (2000). Test of emotion comprehension: TEC. Oxford, UK: Oxford University
+
+Press.
+
+Pons, F., & Harris, P. L. (2005). Longitudinal change and longitudinal stability of individual
+differences in children’s emotion understanding. Cognition & Emotion, 19, 1158–1174.
+doi:10.1080/02699930500282108
+
+Pons, F., Harris, P. L., & de Rosnay, M. (2004). Emotion comprehension between 3 and 11 years:
+Developmental periods and hierarchical organization. European Journal of Developmental
+Psychology, 1, 127–152. doi:10.1080/17405620344000022
+
+Pons, F., Lawson, J., Harris, P. L., & de Rosnay, M. (2003). Individual differences in children’s
+emotion understanding: Effects of age and language. Scandinavian Journal of Psychology, 44,
+347–353. doi:10.1111/1467-9450.00354
+
+Raikes, H. A., & Thompson, R. (2008). Conversations about emotion in high-risk dyads. Attachment
+
+& Human Development, 10, 359–377. doi:10.1080/14616730802461367
+
+Root, A. K., & Denham, S. A. (2010). The role of gender in the socialization of emotion: Key concepts
+and critical issues. In A. K. Root & S. A. Denham (Eds.), Focus on gender: Parent and child
+contributions to the socialization of emotional competence (Vol. 128, pp. 1–9). San Francisco,
+CA: Jossey-Bass.
+
+Saarni, C. (Ed.) (1999). The development of emotional competence. New York, NY: The Guildford
+
+Press.
+
+Sharp, C., & Fonagy, P. (2008). The parent’s capacity to treat the child as a psychological agent:
+Social
+
+for developmental psychopathology.
+
+Constructs, measures
+Development, 17, 737–754. doi:10.1111/j.1467-9507.2007.00457.x
+
+and implications
+
+Sharp, C., Fonagy, P., & Goodyer, I. M. (2006). Imagining your child’s mind: Psychosocial adjustment
+and mothers’ ability to predict their children’s attributional response styles. British Journal of
+Developmental Psychology, 24, 197–214. doi:10.1348/026151005X82569
+
+Southam-Gerow, M. A., & Kendall, P. C. (2002). Emotion regulation and understanding –
+implications for child psychopathology and therapy. Clinical Psychology Review, 22, 189–222.
+doi:10.1016/S0272-7358(01)00087-3
+
+Sveen, T. H., Berg-Nielsen, T. S., Lydersen, S., & Wichstrøm, L. (2013). Detecting psychiatric
+disorders in preschoolers: Screening with the Strengths and Difﬁculties Questionnaire. Journal
+of the American Academy of Child & Adolescent Psychiatry, 52, 728–736. doi:10.1016/
+j.jaac.2013.04.010
+
+Tenenbaum, H. R., Alﬁeri, L., Brooks, P. J., & Dunne, G. (2008). The effects of explanatory
+conversations on children’s emotion understanding. British Journal of Developmental
+Psychology, 26, 249–263. doi:10.1348/026151007X231057
+
+Tenenbaum, H. R., Visscher, P., Pons, F., & Harris, P. L. (2004). Emotional understanding in Quechua
+children from an agro-pastoralist village. International Journal of Behavioral Development,
+28, 471–478. doi:10.1080/01650250444000225
+
+Wichstrøm, L., Berg-Nielsen, T. S., Angold, A., Egger, H. L., Solheim, E., & Sveen, T. H. (2012).
+Prevalence of psychiatric disorders in preschoolers. Journal of Child Psychology and
+Psychiatry, 53, 695–705. doi:10.1111/j.1469-7610.2011.02514.x
+
+Zumbo, B. D., Gadermann, A. M., & Zeisser, C. (2007). Ordinal versions of coefﬁcients alpha and
+
+theta for Likert rating scales. Journal of Modern Applied Statistical Methods, 6(1), 21–29.
+
+Received 24 October 2014; revised version received 24 April 2015
+
+

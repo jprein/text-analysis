@@ -1,0 +1,2319 @@
+Theory of mind in emerging reading 
+comprehension: a longitudinal study of 
+early indirect and direct effects 
+Article 
+
+Accepted Version 
+
+Creative Commons: Attribution­Noncommercial­No Derivative Works 4.0 
+
+Atkinson, L., Slade, L., Powell, D. and Levy, J. P. (2017) 
+Theory of mind in emerging reading comprehension: a 
+longitudinal study of early indirect and direct effects. Journal 
+of Experimental Child Psychology, 164. pp. 225­238. ISSN 
+0022­0965 doi: https://doi.org/10.1016/j.jecp.2017.04.007 
+Available at http://centaur.reading.ac.uk/66668/ 
+
+It is advisable to refer to the publisher’s version if you intend to cite from the 
+work.  See Guidance on citing  .
+Published version at: http://authors.elsevier.com/sd/article/S0022096516301904 
+To link to this article DOI: http://dx.doi.org/10.1016/j.jecp.2017.04.007 
+
+Publisher: Elsevier 
+
+All outputs in CentAUR are protected by Intellectual Property Rights law, 
+including copyright law. Copyright and IPR is retained by the creators or other 
+copyright holders. Terms and conditions for use of this material are defined in 
+the End User Agreement  . 
+
+www.reading.ac.uk/centaur   
+
+CentAUR 
+
+Central Archive at the University of Reading 
+
+Reading’s research outputs online
+
+ 
+Theory of mind in emerging reading comprehension: a longitudinal study of early 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+indirect and direct effects  
+
+ 
+
+ 
+
+Lynette Atkinsona, Lance Sladeb, Daisy Powellc and Joseph P. Levya 
+
+ 
+
+a Department of Psychology, University of Roehampton, London, UK 
+
+b School of Psychology, Politics and Sociology, Canterbury Christ Church University, UK  
+
+c Institute of Education, University of Reading, UK 
+
+ 
+ 
+
+Correspondence should be addressed to Lynette Atkinson, Department of Psychology, University of 
+
+Roehampton, Whitelands College, Holybourne Avenue, London, SW15 4JD, UK.  
+
+Email: Lynette.Chesson@roehampton.ac.uk 
+
+ 
+Abstract 
+ 
+The relation between children’s theory of mind (ToM) and emerging reading comprehension was 
+
+investigated in a longitudinal study over 2.5 years. 80 children were tested for ToM, decoding, 
+
+language skills and executive function (EF) at Time 1 (mean age = 3:10 years). At Time 2 (mean age 
+
+= 6:03 years) children's word reading efficiency, language skills and reading comprehension were 
+
+measured. Mediation analysis showed that ToM at Time 1, when children were around four years old, 
+
+indirectly predicted Time 2 reading comprehension, when children were six years old, via language 
+
+ability, after controlling for age, non-verbal ability, decoding, EF and earlier language ability. 
+
+Importantly, ToM at four years old also directly predicted reading comprehension two and a half years 
+
+later at six years. This is the first longitudinal study to show a direct contribution of theory of mind to 
+
+reading comprehension in typical development. Findings are discussed in terms of the Simple View of 
+
+Reading (SVR); ToM not only supports reading comprehension indirectly by facilitating language, but 
+
+also directly contributes to it over and above the SVR. The potential role of metacognition is 
+
+considered when accounting for the direct contribution of early ToM to later reading comprehension. 
+
+ 
+
+Key words: Theory of Mind; Reading Comprehension; Simple View of Reading; Metacognition; 
+
+Longitudinal 
+
+ 
+
+Our sincere thanks to the children, parents and school staff for their participation and support in this 
+
+research. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             
+
+ 
+
+1 
+
+ 
+ 
+
+Theory of Mind and Reading Comprehension 
+
+ 
+
+ 
+
+Theory of mind in emerging reading comprehension: a longitudinal study of early 
+
+indirect and direct effects 
+
+ 
+ 
+The Simple View of Reading (SVR; Gough & Tunmer, 1986; Hoover & Gough, 1990) proposes that 
+
+reading comprehension is the product of two key dimensions: word reading (decoding) skills and 
+
+linguistic comprehension. Though empirical evidence has shown that decoding ability and linguistic 
+
+comprehension skills account for a large percentage of variance in reading comprehension (e.g., 
+
+Adlof, Catts, & Little, 2006; Johnston & Kirby, 2006; Kendeou, van den Broek, White & Lynch, 
+
+2009; Vellutino, Tunmer, Jaccard, & Chen, 2007), researchers have argued that the SVR may be too 
+
+simple (e.g., Conners, 2009; Johnston & Kirby, 2006; Pressley et al., 2009) and that an additional 
+
+component needs to be added to the model to account for variance unexplained by decoding and 
+
+linguistic comprehension (Kirby & Savage, 2008). Potential candidates for this have included speed of 
+
+processing, naming speed and executive function (EF) (e.g., Adlof et al., 2006; Johnson, Jenkins, & 
+
+Jewell, 2005; Johnston & Kirby, 2006; Joshi & Aaron, 2000) as well as higher-order comprehension 
+
+skills, such as inference making and comprehension monitoring (e.g., Cain, Oakhill, & Bryant, 2004; 
+
+Kim, 2015; Oakhill & Cain, 2012). However, whilst these studies have shown that these factors 
+
+contribute to reading comprehension performance it remains unclear whether their contribution is over 
+
+and above the two dimensions of the SVR. The aim of the present study was to consider the role of 
+
+theory of mind as a potential further factor facilitating emerging reading comprehension. 
+
+ 
+
+ 
+Children’s developing attentional control has also been considered as a potential third component of 
+
+the SVR. Conners (2009) reported that attentional control (the ability to inhibit irrelevant responses 
+
+and initiate alternative responses) accounts for variance in reading comprehension even after 
+
+controlling for decoding, language comprehension, processing speed and verbal short-term memory. 
+
+Conners (2009) argued that attentional control might contribute to reading comprehension through its 
+
+role in the higher-order comprehension process of detecting and repairing comprehension failures. 
+
+Importantly though, other researchers propose that this type of strategy, along with locating 
+
+information, finding main ideas, determining text structure and using visual cues are essentially 
+
+ 
+
+2 
+
+ 
+ 
+metacognitive processes (Kirby & Savage, 2008). Metacognitive processes require thinking about 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+aspects of one’s thinking, which may draw on EF abilities, but go beyond them. Specifically, Kirby 
+
+and Savage (2008) suggest that these strategies are especially relevant to reading comprehension, due 
+
+to the text remaining visible to the reader. They argue that the SVR does not address the role of these 
+
+metacognitive strategies in reading comprehension.  
+
+ 
+Metacognition relates to higher-order thinking, involving not only dynamic control over active 
+
+cognitive processes, but also reflective insight about these processes (Kuhn, 2000). One well-
+
+researched measure of metacognition in young children is their theory-of-mind ability (Courtin & 
+
+Melot, 2005; Flavell, Green, & Flavell, 2000). Theory of mind (ToM) broadly involves the ability to 
+
+impute mental states such as beliefs, desires and intentions to oneself and to others in order to explain 
+
+and predict behaviour (Premack & Woodruff, 1978; see Doherty, 2008 for overview). A crucial 
+
+milestone in this development occurs when children gain an understanding that someone can hold a 
+
+mistaken (false) belief about the world. This ability occurs around four years of age (Wellman, Cross, 
+
+& Watson, 2001) and is shown by children’s performance in explicit false belief tasks (Wimmer & 
+
+Perner, 1983). A standard false belief task typically involves a character (e.g., Sally) leaving an object 
+
+(e.g., a ball) in one location and, whilst away, another character (e.g., Anne) unexpectedly moving the 
+
+object to a new location. When Sally returns the child is asked a direct question “Where will Sally 
+
+look for her ball first?” A child that has a mature ToM will understand that Sally will go to the 
+
+location where she left the ball (because they understand this is where she thinks it is), rather than the 
+
+second location (where they know the ball actually is). Passing these tasks clearly shows that children 
+
+can now think (represent) how someone thinks about (represents) something and can therefore 
+
+understand different perspectives (Perner, 1991; Perner, Stummer, Sprung, & Doherty, 2002). This 
+
+ability is clearly metacognitive in nature as it involves being able to think about thinking (Flavell et 
+
+al., 2000). 
+
+ 
+
+Theory of mind and reading comprehension 
+
+By the time children begin to read at around five years old they will typically have acquired an 
+
+understanding that mental states and perspectives may differ from reality and thus are able to begin to 
+
+ 
+
+3 
+
+ 
+understand that stories may include intended meanings that may not represent the child’s own 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+perspective and knowledge (Lecce, Zocchi, Pagnin, Palladino, & Taumoepeau, 2010; Woolley, & 
+
+Cox, 2007). They are able to apply understanding and reasoning about the minds of others to begin to 
+
+interpret the thoughts and actions of story characters (Emery, 1996). In support of this, Pelletier and 
+
+Astington (2004) investigated the relation between the developing ToM abilities of four and five year 
+
+olds and their understanding of characters’ actions and consciousness in spoken story narratives. They 
+
+found that children’s ability to understand stories followed a similar developmental pathway as ToM. 
+
+More specifically, children with an advanced ToM (as shown by their performance on ToM tasks and 
+
+also their use of mental state terms such as “think” and “know”) were more likely to have a coherent 
+
+understanding of the story (over and above their general language ability). Pelletier and Astington 
+
+(2004) suggested that children’s ability to understand and coordinate action and consciousness within 
+
+a narrative is therefore clearly linked with their ToM.  
+
+ 
+
+To date, the two studies that have examined ToM and reading comprehension in typically developing 
+
+children have found no clear evidence of a direct link (Guajardo & Cartwright, 2016; Kim, 2015). 
+
+However there were indirect effects. In a cross-sectional study of 145 South Korean six-year-old 
+
+children, Kim (2015) showed that ToM, predominantly measured with first-order false belief tasks, 
+
+was indirectly linked to concurrent reading comprehension via listening comprehension. In other 
+
+words, children's developing ToM facilitated their language ability, which in turn contributed to their 
+
+reading comprehension. Likewise, Guajardo and Cartwright (2016) found that false belief 
+
+understanding uniquely predicted concurrent oral language comprehension in their sample of 31 
+
+children aged between three and five years. Longitudinally, Guajardo and Cartwright (2016) went on 
+
+to show that the children's early language comprehension predicted later reading comprehension at six 
+
+to nine years old, suggesting that early false belief understanding indirectly contributed to later reading 
+
+comprehension via language comprehension. These findings are consistent with previous evidence 
+
+that has shown that ToM predicts language development (Milligan, Astington, & Dack, 2007; Slade & 
+
+Ruffman, 2005). In this respect, children's developing social cognition affects their emerging reading 
+
+comprehension, but does so indirectly by facilitating the language skills needed to engage in reading 
+
+comprehension.  
+
+ 
+
+4 
+
+ 
+However, there is some evidence for a direct link between ToM and reading comprehension. In a 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+study of adolescents with autism spectrum disorders (ASD) Ricketts, Jones, Happé, and Charman 
+
+(2013) found that ToM ability, using broader, advanced measures of ToM, uniquely predicted reading 
+
+comprehension over and above word reading ability and oral language skills. This suggests a direct 
+
+contribution from ToM to reading comprehension in an atypical population with poor social 
+
+understanding (Ricketts et al. 2013). It is plausible that similar direct effects are also present in typical 
+
+development, but previous studies, which have included older children (Kim, 2015), or a very small 
+
+sample with a broad age range (Guajardo & Cartwright, 2016) have missed early, potentially crucial, 
+
+developmental effects (Lecce, Caputi & Hughes, 2011). The current longitudinal study aims to address 
+
+these issues by investigating the direct and indirect effects of the early ToM abilities of a large sample 
+
+of young children (mean age 3:10 months) on their later emerging reading comprehension at six years.  
+
+ 
+
+Theory of mind might directly facilitate later reading comprehension not only through promoting the 
+
+ability to think and reason about story characters and their actions, but also other abilities that impact 
+
+on general comprehension skills. Successful reading comprehension requires metacognitive processes 
+
+such as monitoring one’s own knowledge (self-monitoring) whilst reading, and responding to and 
+
+adjusting to (repairing) other information that may be non-social or non-fictional in nature (Kirby & 
+
+Savage, 2008; Oakhill & Cain, 2012). In other words, text may also represent and inform knowledge, 
+
+actions and understandings, not necessarily to do with story characters or oneself as a reader. 
+
+Importantly, ToM, as measured by false belief understanding, has also been linked to other aspects of 
+
+metacognition beyond social understanding, for example, it is linked to knowledge about memory and 
+
+what makes remembering easier or more difficult, i.e., meta-memory (Lecce, Bianco, Demicheli, & 
+
+Cavallini, 2014; Lockl & Schneider, 2007), to understanding that objects can have multiple names or 
+
+labels, i.e., metalinguistic ability (Perner et al., 2002) and also to children’s understanding about the 
+
+source of their knowledge (Bright-Paul, Jarrold, & Wright, 2008). It is unclear whether this link is due 
+
+to ToM being a socially specialized ability that leads to or facilitates these more general or non-social 
+
+metacognitive abilities (Lockl & Schneider, 2007; Ricketts et al., 2013) or whether ToM draws on the 
+
+same underlying ability as these other aspects of metacognition (Iao, Leekam, Perner, & McConachie, 
+
+2011; Perner, 1991). Either way, ToM might therefore be expected to be directly linked to reading 
+
+ 
+
+5 
+
+ 
+ 
+comprehension not only because of the social aspect of reading comprehension (i.e., understanding 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+story character intentions, actions and behaviours), but also because of its links to other aspects of 
+
+metacognition which may facilitate or contribute to the metacognitive requirements of reading 
+
+comprehension more generally.  
+
+ 
+
+To fully consider the degree to which ToM may predict reading comprehension, it was also essential 
+
+to control for shared abilities in language and executive function (EF). ToM draws heavily on 
+
+language skills (Slade & Ruffman, 2005; see Milligan, Astington, & Dack, 2007 for meta-analysis). 
+
+As such, examining the unique effects of ToM over and above the linguistic comprehension 
+
+dimension, controls for the potential shared variance between ToM and reading comprehension. 
+
+Children’s EF ability also increases rapidly between the ages of three and four years, and is strongly 
+
+linked to ToM development (Carlson & Moses, 2001; Shahaeian, Henry, Razmjoee, Teymoori, & 
+
+Wang, 2015; see Devine & Hughes, 2014 for meta-analysis). EF, particularly working memory, is also 
+
+important for reading comprehension, not only through its contribution to higher-order comprehension 
+
+skills (Cain et al., 2004; Sesma, Mahone, Levine, Eason, & Cutting, 2009), but also through its 
+
+contribution to emergent code-related skills (Blair & Razza, 2007; see Allan, Hume, Allan, Farrington, 
+
+& Lonigan, 2014 for meta-analysis). Given the importance for both ToM and reading comprehension, 
+
+EF was controlled for, in addition to age, non-verbal ability (NVA), decoding and language skills, in 
+
+the regression and mediation analyses. 
+
+ 
+
+The current study 
+
+The current longitudinal study followed a UK sample of 80 young children (mean age 3 years: 10 
+
+months) over two and half years to their emerging reading comprehension at six years old (mean age 6 
+
+years: 3 months). We aimed to investigate the contribution of children's theory of mind to their reading 
+
+comprehension and whether its contribution would be over and above the decoding and linguistic 
+
+components of the SVR. We did this in two analyses. Firstly, we looked at the extent that ToM, 
+
+measured as false belief understanding, at around four years (Time 1) predicted reading 
+
+comprehension at six years (Time 2), after controlling for Time 1 concurrent measures of age, non-
+
+verbal ability (NVA), executive function (EF), decoding, and language skills. Secondly, we examined 
+
+ 
+
+6 
+
+ 
+the direct and indirect effects of early ToM at four years (Time 1) on later reading comprehension at 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+six years (Time 2), controlling for the Time 2 concurrent SVR dimensions of decoding and linguistic 
+
+comprehension, as well as shared correlates of age, NVA, and EF at Time 1. We predicted that early 
+
+ToM would have both direct (over and above linguistic comprehension) and indirect effects on later 
+
+reading comprehension. 
+
+ 
+
+Participants 
+
+Method 
+
+The sample at Time 1 comprised of 80 preschool children (41 boys; mean age = 3:10 years, SD = 3.7 
+
+months, age range: 3:05 - 4:06 years) attending the preschool year of two mainstream primary schools 
+
+in South East England. The majority of the children came from well-educated families: 88% of parents 
+
+had completed a higher education award. All children spoke English as their first language. Children 
+
+attended school for five three-hour sessions per week. There was no formal literacy instruction given 
+
+during this educational year; however, children experienced games to promote phonological 
+
+awareness and were read to often. Formal literacy instruction was introduced the following year, when 
+
+the children began full time compulsory education (Reception). At Time 2, the end of Year 1, all 80 
+
+children (mean age = 6:03 years, SD = 3.8 months, age range: 5:09 - 6:09 years) were available for re-
+
+testing. Eighteen additional children, who were tested at Time 1, were excluded from the study, 
+
+because they had moved to alternative primary schools by Time 2. This resulted in an attrition rate of 
+
+18% from preschool to Year 1, which compares favourably to other similar longitudinal studies, which 
+
+have reported attrition rates of over 26% (e.g., Hood, Conlon & Andrews, 2008). Analysis of key 
+
+variables revealed that there were no significant differences between the performances of the children 
+
+who remained at the participating schools compared to those children who left during the study. 
+
+ 
+
+Materials & Measures 
+
+Nonverbal ability 
+
+Children’s non-verbal ability was assessed at Time 1 using the Block Design subtest of The Wechsler 
+
+Preschool and Primary Scale of Intelligence – III (WPPSI-III) (Wechsler, 2002). The task required 
+
+ 
+
+7 
+
+ 
+children to recreate a series of geometric patterns using 3-4 coloured blocks (10 items), followed by 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+designs using 2-4 two-toned blocks. Standard administration was followed.  Non-verbal ability (NVA) 
+
+therefore consisted of a scaled score with a mean of 10 and standard deviation of 3. Split-half 
+
+reliability for four year olds is reported as .87. 
+
+ 
+
+Decoding 
+
+At Time 1, children’s letter knowledge was measured using the Alphabet Knowledge subtest of the 
+
+Phonological Abilities Test (PAT; Muter, Hulme, & Snowling, 1997). Children were presented with 
+
+each letter of the alphabet printed individually on a card, and asked to give the name or sound of that 
+
+letter. Letter knowledge therefore consisted of the number of letters correctly identified out of 26.  
+
+ 
+At Time 2, the Test of Word Reading Efficiency (TOWRE; Torgesen, Wagner, & Rashotte, 1999) was 
+
+used to measure children’s word reading accuracy and fluency. The TOWRE is standardised for 
+
+children from the age of six years and consists of two subtests involving word and non-word stimuli to 
+
+provide measures of sight word reading efficiency and decoding efficiency, respectively. Data from 
+
+the subtests were converted to age-appropriate standard scores, which were then combined to provide 
+
+an overall reading efficiency standard score with a mean of 100 and standard deviation of 15. The 
+
+reliability coefficient for the total word reading efficiency score for six year olds is reported as .98. 
+
+ 
+
+Linguistic Comprehension 
+
+Vocabulary. At Time 1 and Time 2, children’s receptive vocabulary was assessed using the British 
+
+Picture Vocabulary Scale: 2nd Edition (BPVS II; Dunn, Dunn, Whetton, & Burley, 1997).  Raw 
+
+scores were used, therefore the maximum score was 84 at Time 1 (7 sets) and 120 at Time 2 (10 sets). 
+
+Cronbach's Alphas are reported as .96 for 3-4 year olds and .94 for six year olds. 
+
+ 
+Language skills. At Time 1, children’s receptive and expressive language ability was measured 
+
+through two subtests (linguistic concepts and recalling sentences in context) of the Clinical Evaluation 
+
+of Language Fundamentals – Preschool Second Edition (CELF-Preschool; Wiig, Secord, & Semel, 
+
+ 
+
+8 
+
+ 
+1992). Raw scores were used, therefore the maximum scores were 20 for linguistic concepts (reported 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+Cronbach's α = .85) and 52 for recalling sentences in context (Cronbach's α = 93). 
+
+ 
+At Time 2, children’s narrative comprehension ability was assessed, using the method outlined by 
+
+Paris and Paris (2003). Children were asked to tell the story from a wordless picture storybook 
+
+(“Robot-Bot-Bot” by Fernando Krahn). The book recounts a story about a family who buy a robot to 
+
+help with the household chores. One of the children subsequently breaks the robot, which results in the 
+
+robot behaving in an erratic manner causing several mishaps, until it is finally repaired by the father.  
+
+ 
+
+After the children had finished telling the story from the book, it was removed and children were 
+
+asked to recall the story. Children’s recall was recorded, transcribed and scored for content (six 
+
+aspects of the narrative: characters, setting, initiating event, problem, solution, and ending) and 
+
+awareness of story structure, giving a maximum score of 9. Following recall, the book was replaced in 
+
+front of the child and the researcher asked a set of ten comprehension questions, turning to 
+
+corresponding pages of the book before asking each question. Questions elicited explicit information 
+
+(characters, setting, initiating event, problem, outcome resolution) and implicit information (feelings, 
+
+causal inference, inference dialogue, prediction, overall theme). Children’s responses were transcribed 
+
+in full and marked using a scoring rubric that awarded 0 to 2 points for each question, giving a 
+
+maximum score of 20 points. Two independent coders scored 25% of children's responses for recall 
+
+and comprehension questions. Inter-rater agreement was very good for both recall (Cohen's Kappa 
+
+ranged between .80 and .99) and comprehension (Cohen's Kappa ranged between .76 and .97). An 
+
+overall narrative comprehension score was calculated by summing the recall and comprehension 
+
+scores to give a maximum total of 29. 
+
+ 
+
+Linguistic comprehension composite scores were calculated for language ability at each time point 
+
+with the aim of developing a richer measure of language comprehension, in line with the linguistic 
+
+dimension of the SVR, than is provided by vocabulary measures alone.  At T1, two subtests of the 
+
+CELF were summed to form a language skills score. Standard scores for CELF and T1 BPVS were 
+
+ 
+
+9 
+
+ 
+calculated and summed for an overall T1 linguistic composite score. At T2, standard scores were 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+calculated for the narrative comprehension and T2 BPVS and summed to form a composite score. 
+
+ 
+
+Executive function 
+
+At Time 1, children’s executive function (EF) was assessed using the Reverse Word Span task (Slade 
+
+& Ruffman, 2005) and a card-sorting task, adapted from Kloo and Perner’s (2003) Dimensional Card 
+
+Sorting task. The reverse word span task required children to reverse sets of words that were orally 
+
+presented by the researcher. The researcher explained that she would say two words, e.g., “horse – 
+
+sheep”, and the child would say them in a backwards order, e.g., “sheep – horse”. Following two 
+
+practice items, the test phase included three sets of two words and a further three sets of three words. 
+
+Scoring awarded one point for correctly reversing two words, two points for reversing three words and 
+
+a half point was given for reversing two words that were not adjacent. The maximum score was 9. The 
+
+card-sorting task required children to switch their response following a change of game rules.  
+
+Initially, children were asked to sort a set of 9 cards (3 x yellow horse, 3 x red fish and 3 x blue bird) 
+
+based on the colour of the illustrations. The test phase required children to sort an identical set of 
+
+cards, but with a shift from their colour-based response to an animal-based response. One point was 
+
+scored for each card correctly sorted in the ‘animal’ condition giving a maximum score of 9. Scores 
+
+for both tasks were standardized and summed to give an overall T1 EF composite score. 
+
+ 
+
+Theory of Mind 
+
+At Time 1, children were administered two first-order false belief tasks. One was an unexpected 
+
+contents task (Hogrefe, Wimmer, & Perner, 1986), where children were introduced to a toy character, 
+
+which then remained out of sight while the child was asked to guess the contents of a “Smarties” tube. 
+
+After the child had correctly guessed, they were shown that the tube, unexpectedly, contained 
+
+colouring pencils. The box was then closed and the child was asked again what was inside (control 
+
+question). The control question had to be answered correctly for credit to be given for the test 
+
+questions. The child was then asked the first test question, which required them to say what they had 
+
+thought was in the tube when they first saw it. The toy character was re-introduced and the child was 
+
+reminded that the character had not seen the contents of the tube. The second test question required the 
+
+ 
+
+10 
+
+ 
+child to say what the toy character would think was in the tube. Children were awarded one point for 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+each correct answer, and a further point for justifying their answer to the second test question, if they 
+
+had answered correctly, to give a maximum score of 3. Two independent coders scored 25% of 
+
+children's responses. Agreement between the coders was excellent (Cohen's Kappa = 1.00). Scores 
+
+were adjusted to reflect children's response to the control question and the adjusted scores were used 
+
+in the analyses. 
+
+ 
+
+The unexpected location task (Wimmer & Perner, 1983) required the child to watch a story, 
+
+demonstrated by the researcher with toy figures, where one character (Sally) played with a ball and 
+
+then placed it inside a blue box. Sally then left the scene and a second figure (Anne) came to play. 
+
+Anne found the ball, played with it and then placed it in the red box. Anne leaves the scene and Sally 
+
+returned wanting to play with ball again. On Sally’s return, the child was asked the test question, 
+
+which requires the child to state where Sally will look for the ball and two control questions to ensure 
+
+they had followed the story. Control questions had to be answered correctly for credit to be given for 
+
+the test question. One point was awarded for a correct answer (blue, where Sally thinks it is) and a 
+
+further point awarded for an appropriate justification, if the test question had been answered correctly, 
+
+to give a maximum score of 2. Two independent coders scored 25% of children's responses. 
+
+Agreement between the coders was excellent (Cohen's Kappa = .92). Scores were adjusted to account 
+
+for the control questions and adjusted scores were used. ToM was defined as performance on the two 
+
+tasks added together and therefore had a possible range of 0 to 5. 
+
+ 
+
+Reading comprehension 
+
+At Time 2, the York Assessment of Reading for Comprehension: Passage Reading (YARC; Snowling 
+
+et al., 2011) was used to assess children’s comprehension skills. The standardised test comprised of 
+
+graded passages, alternating between fiction and non-fiction, for reading aloud by children aged five 
+
+to 11 years. Children initially completed a single word reading task (Foster, 2007) to determine the 
+
+starting passage level for the YARC. Children were then required to read two sequential passages 
+
+from Form A (one fiction and one non-fiction). Following each passage, children were asked a set of 
+
+eight comprehension questions tapping literal and inferential comprehension skills. Time 2 Reading 
+
+ 
+
+11 
+
+ 
+ 
+Comprehension was therefore defined as the standard score, M = 100, SD = 15, on YARC passage 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+reading. Across the stories suitable for this age group, the median Cronbach's Alpha is reported as .64. 
+
+ 
+
+Procedure 
+
+At both time points children were tested individually in a quiet area immediately outside of their 
+
+classroom and administration of the test sessions was fully counterbalanced. Children were initially 
+
+tested (Time 1) during the spring term in their nursery year. In Year 1, children were tested at the end 
+
+of the summer term (Time 2). For both time points, testing sessions were part of a wider study 
+
+investigating an extensive range of cognitive measures linked to early literacy development and, 
+
+overall, children completed three to four 15 to 20 minute sessions at each time point.   
+
+ 
+
+Results 
+
+Descriptive statistics 
+
+Descriptive statistics for all variables are presented in Table 1. Distributions for variables were 
+
+acceptable, with the exception of letter knowledge at Time 1, which was positively skewed. Data were 
+
+log transformed to address the positive skew. The transformed variable was used in the analyses. 
+
+There were no significant sex differences on any of the main variables, therefore gender was not 
+
+considered in any further analyses. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+Theory of Mind and Reading Comprehension 
+
+ 
+Table 1: Means and standard deviations for ToM and cognitive variables at T1and T2 (N = 80) 
+
+ 
+
+Variable 
+
+T1 (Nursery – spring term) 
+Non verbal ability 
+   Block design  
+Decoding 
+   Letter knowledge 
+Linguistic comprehension 
+   Receptive vocabulary (BPVS) 
+   CELF recall sentence  
+   CELF linguistic concepts  
+Executive function 
+   Reverse word span WM task  
+   Card sorting task 
+Theory of mind 
+   First order false belief tasks  
+ 
+T2 (Year 1 – end of year) 
+Decoding 
+   Reading efficiency (TOWRE)  
+Linguistic comprehension 
+   Receptive vocabulary (BPVS) 
+   Narrative comprehension  
+Reading comprehension 
+    YARC    
+
+Max 
+
+ 
+
+ 
+19 
+ 
+26 
+ 
+84 
+52 
+20 
+ 
+9 
+9 
+ 
+5 
+
+ 
+ 
+SS 
+ 
+120 
+29 
+ 
+SS 
+
+Mean (SD) 
+ 
+
+ 
+12.09 (3.05) 
+ 
+7.15 (7.44) 
+ 
+47.19 (10.27) 
+34.37 (9.89) 
+14.29 (4.00) 
+ 
+
+                  2.19 (2.53) 
+
+                  5.43 (3.59) 
+
+ 
+2.26 (1.90) 
+
+ 
+ 
+            123.56 (15.86) 
+ 
+74.71 (11.64) 
+18.01 (4.52) 
+ 
+108.03 (9.17) 
+
+Range 
+ 
+
+ 
+4-18 
+ 
+0-25 
+ 
+23-71 
+2-52 
+1-20 
+ 
+0-8 
+0-9 
+ 
+0-5 
+
+ 
+ 
+90-154 
+ 
+45-102 
+9-27 
+ 
+81-125 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Note: All raw scores unless otherwise noted; SS = standard scores; ToM = theory of mind; BPVS = British Picture 
+Vocabulary Scale; CELF = Clinical Evaluation of Language Fundamentals; WM = working memory; TOWRE = Test of 
+Word Reading Efficiency; YARC = York Assessment of Reading for Comprehension; T1 = Time 1; T2 = Time 2  
+ 
+
+ 
+
+Correlation analyses          
+
+Concurrent relations. Zero-order correlations are reported in Table 2. At Time 1, ToM significantly 
+
+correlated with linguistic ability, decoding, and EF. T1 EF was significantly correlated with linguistic 
+
+comprehension and decoding at T1. As expected from the SVR model, reading comprehension at T2 
+
+correlated with T2 linguistic comprehension and T2 decoding. 
+
+ 
+
+Longitudinal relations. In addition to concurrent relations, T2 reading comprehension was 
+
+significantly correlated with T1 linguistic comprehension and T1 decoding. T2 reading comprehension 
+
+was also significantly correlated with earlier T1 EF and T1 ToM. T1 ToM was strongly correlated 
+
+with T2 linguistic comprehension; however, its relation with T2 word reading efficiency (decoding) 
+
+was not significant.  
+
+ 
+
+ 
+
+ 
+
+13 
+
+Theory of Mind and Reading Comprehension 
+
+ 
+Table 2: Zero-order correlations between ToM and key composite measures at T1 and T2 (N = 80) 
+ 
+ 
+  1. Age+ 
+Nursery (T1) 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+- 
+ 
+-.02 
+
+2 
+ 
+ 
+- 
+
+.09 
+
+.48** 
+
+.32** 
+
+.21 
+
+ 
+-.13 
+
+.43** 
+
+-.09 
+
+.33** 
+
+.38** 
+
+.14 
+
+.29** 
+
+ 
+
+.38** 
+
+.33** 
+
+.36** 
+
+3 
+ 
+ 
+ 
+- 
+
+.44** 
+
+.38** 
+
+.36** 
+
+ 
+
+.52** 
+
+.34** 
+
+.50** 
+
+4 
+ 
+ 
+ 
+ 
+- 
+
+.39** 
+
+.62** 
+
+ 
+.18 
+
+.71** 
+
+.36** 
+
+5 
+ 
+ 
+ 
+ 
+ 
+- 
+
+.36** 
+
+ 
+.11 
+
+.42** 
+
+.22* 
+
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+.18 
+
+6 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+ 
+.18 
+
+.54** 
+
+.44** 
+
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+- 
+
+  2. NVA 
+
+  3. Decoding 
+
+  4. Linguistic comp 
+
+  5. EF 
+
+  6. ToM 
+
+End Year 1 (T2) 
+
+  7. Decoding 
+
+  8. Linguistic comp 
+
+  9. Reading comp 
+
+.54** 
+
+.43** 
+
+Notes: * p < .05; **p < .01; T1 = Time 1; T2 = Time 2; + Age concurrent to time of assessment: 3:10 at T1 and 6:03 at T2; 
+NVA = non-verbal ability; Linguistic. Comp = linguistic comprehension; EF = executive function; ToM = theory of mind; 
+Decoding = letter knowledge at T1; word reading efficiency (words and non-words) at T2.  Read comp = reading 
+comprehension 
+ 
+ 
+
+T1 ToM to T2 reading comprehension       
+
+To investigate the longitudinal relation between T1 ToM and T2 reading comprehension, a 
+
+hierarchical regression analysis was performed to determine if the addition of an early measure of 
+
+ToM improved the prediction of Year 1 (T2) reading comprehension beyond that accounted for by 
+
+differences in age, NVA, the dimensions of the SVR (decoding and linguistic comprehension) and EF. 
+
+To account for the effects of age, all variables (excluding NVA, reading comprehension and reading 
+
+efficiency where age had been accounted for in standard scores) were residualized for concurrent age, 
+
+thus becoming age-independent variables (Durand, Hulme, Larkin, & Snowling, 2005). Analysis was 
+
+performed using SPSS REGRESSION and SPSS EXPLORE for evaluation of assumptions. 
+
+ 
+
+In the regression, NVA, and T1 decoding, language comprehension and EF skills were entered at Step 
+
+1 and T1 ToM measure was entered at Step 2. Following each step in the analysis, residuals and 
+
+influence statistics were explored to check and address any violation of assumptions of normality. A 
+
+significant skew was found in the distribution of standardized residuals and further investigation was 
+
+conducted to identify one multivariate outlier. The regression was rerun with data from the remaining 
+
+participants (n = 79). 
+
+ 
+
+ 
+
+14 
+
+ 
+Results of the analysis are reported in Table 3. Step 1 produced a significant model, F(4, 74) = 9.32, p 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+= < .001 and an R2 value of .34. Examination of the coefficients showed that T1 decoding skill (letter 
+
+knowledge) uniquely predicted significant variance in reading comprehension at the end of Year 1 
+
+(T2). T1 NVA, linguistic comprehension and EF did not make a significant unique contribution to T2 
+
+reading comprehension. With the addition of T1 ToM at Step 2, an improved model was constructed, 
+
+F(5, 73) = 10.39, p < .001, accounting for a further 8% of variance in T2 reading comprehension.  
+
+ 
+
+Table 3: Hierarchical models: ToM at T1 predicting T2 reading comprehension controlling for SVR dimensions 
+(decoding and linguistic comprehension), NVA and EF 
+_______________________________________________________________________________________________________________  
+Variable  
+                                
+
+B (SE B)  
+
+∆R2 
+
+p 
+
+ß 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Time 1 predictors of Year 1 (T2) reading comprehension (N = 79) 
+ 
+ 
+ 
+ 
+
+0.56 (.32) 
+3.28 (.99) 
+1.43 (1.04) 
+0.16 (.92) 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+.19 
+.37 
+.16 
+.02 
+
+              .082 
+              .001* 
+              .172 
+              .863 
+
+              .062 
+              .001* 
+              .664  
+              .656 
+              .003* 
+
+      
+ 
+ 
+ 
+ 
+
+0.56 (.30) 
+3.14 (.94) 
+0.50 (1.15) 
+0.39 (.88) 
+3.32 (1.05)              
+
+ 
+ 
+ 
+ 
+
+.19 
+.35 
+.06 
+.04 
+.38  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+
+ 
+Step 1 
+      NVA 
+      T1 Decode 
+      T1 Linguistic comp 
+      T1 EF 
+Step 2 
+ 
+      NVA 
+      T1 Decode 
+      T1 Linguistic comp  
+      T1 EF 
+      T1 ToM (False belief)                         
+  
+ 
+ 
+
+.34* 
+ 
+ 
+ 
+ 
+.08* 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+           Total R2   = .42*; F(5, 73) = 10.39, p < .001 
+
+Notes: T1 = Time 1; T2 = Time 2; NVA = non-verbal ability; Decode = letter knowledge (T1) and word reading efficiency 
+(words and non-words) at T2; Linguistic comp = linguistic comprehension; EF = executive function EF; ToM = theory of 
+mind; reading comprehension and NVA use standard scores all other variables are age residualized  
+ 
+ 
+
+Is the link between early T1 ToM and later T2 reading comprehension direct or indirect? 
+
+A mediation analysis was conducted to investigate whether the relation between early ToM and later 
+
+reading comprehension was direct over and above the dimensions of the SVR or indirect via the 
+
+language dimension concurrent to the measure of reading comprehension. The analysis was performed 
+
+by Hayes's PROCESS in SPSS (Hayes, 2012) using 1000 bootstrap samples to compute bias corrected 
+
+and accelerated (BCa) confidence intervals (CI) around the indirect effect. Significant indirect effects 
+
+are indicated when the confidence interval does not include zero (Preacher & Hayes, 2008; see Field, 
+
+2013).  
+
+ 
+
+ 
+
+15 
+
+ 
+In the analysis, ToM was modeled as a predictor of T2 reading comprehension, mediated by T2 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+linguistic comprehension (Kim, 2015). T1 variables (NVA, EF, linguistic comprehension and 
+
+decoding ability) were controlled for. Results are shown in Figure 1. 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+b = .44, p = .015 
+
+Linguistic Comprehension 
+
+T2 
+
+b =1.85, p = .007 
+
+Theory of Mind 
+
+T1 
+
+Reading Comprehension 
+
+T2 
+
+ 
+Direct effect,  b= 2.51, p = .018 
+
+Indirect effect, b=.81, 95% CI (0.18, 2.00) 
+
+ 
+ 
+ 
+Figure  1:  Mediation  analysis  showing  both  a  direct  effect  of  Time  1  (T1)  ToM  on  Time  2  (T2)  reading 
+comprehension  and  an  indirect  effect  via  T2  linguistic  comprehension.  Age,  non  verbal  ability,  executive 
+function, language and decoding at T1 were controlled in the analysis. Unstandardized estimates presented with 
+significance based on absence of zero in bootstrapped confidence intervals; confidence interval for each indirect 
+effect is a BCa bootstrapped CI based on 1000 samples. 
+ 
+ 
+ 
+At T1 (Figure 1), there was a significant indirect effect of T1 ToM on later T2 reading comprehension 
+
+through T2 linguistic comprehension, b = .81, BCa CI (0.18, 2.00), as indicated by the 95% CI. There 
+
+was also a significant direct effect of T1 ToM on later T2 reading comprehension, b = 2.51, p = .018.  
+
+ 
+ 
+
+Discussion 
+
+ 
+The aim of the current study, spanning a two and a half year period, was to investigate the relation 
+
+between children’s early ToM ability at around four years old and their later emergent reading 
+
+comprehension at six years old, over and above the effects of the dimensions of the SVR (decoding 
+
+and linguistic comprehension). The influence of age, non-verbal ability (NVA) and executive function 
+
+(EF) skills, measured at around four years, was also controlled within the analyses. We were 
+
+specifically interested whether this effect was direct or indirect via linguistic comprehension 
+
+concurrent with later reading comprehension.  
+
+ 
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+Does ToM predict ability in reading comprehension? 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+ 
+
+Regression analyses showed that earlier ToM, at Time 1 (mean age 3:10) uniquely contributed to later 
+
+reading comprehension ability at six years, even after controlling for age, measures of NVA, EF and 
+
+the two dimensions of the SVR (decoding and linguistic comprehension). In sum, early ToM, 
+
+measured as false belief understanding uniquely predicted later reading comprehension. 
+
+ 
+ 
+Is the relation between ToM and reading comprehension direct or indirect via linguistic ability?  
+ 
+Results from the mediation analyses showed a significant indirect effect from ToM at Time 1, to Time 
+
+2 reading comprehension via Time 2 linguistic comprehension, suggesting that children's developing 
+
+ToM also facilitated the language skills that are crucial for successful reading comprehension. These 
+
+findings provide further evidence of the predictive relation between children's ToM ability and 
+
+language development (Hughes, Ensor, & Marks, 2010; Milligan et al., 2007; Slade & Ruffman, 
+
+2005). Additionally, they replicate a recent cross-sectional study with six-year-old children that 
+
+showed an indirect pathway from ToM to concurrent reading comprehension, via language 
+
+comprehension (Kim, 2015). Importantly, our novel findings extend this effect across a crucial early 
+
+developmental period. Children typically begin to pass false belief tasks between the ages of three and 
+
+five years old (Wellman et al., 2001). In other words, we showed that children's developing social 
+
+cognition across the early years affects their later emerging reading comprehension through the 
+
+facilitation of language skills. This explanation fits within the SVR account of reading comprehension 
+
+(Gough & Tunmer, 1986; Hoover & Gough, 1990), such that ToM contributes to the linguistic 
+
+dimension of the framework. 
+
+ 
+
+However, importantly, our mediation analysis also showed that a significant direct relation remained 
+
+between early ToM and later reading comprehension, over and above the linguistic comprehension 
+
+dimension of the SVR. This is the first longitudinal study to show a direct contribution of theory of 
+
+mind to reading comprehension. Preschool ToM at Time 1 predicted abilities specific to reading 
+
+comprehension that go beyond skills required to comprehend spoken language. This novel finding is 
+
+an important contribution to the understanding of the development of reading comprehension and 
+
+indicates that the direct effect of early ToM to later reading comprehension may be as a result of when 
+
+ 
+
+17 
+
+ 
+children gain a ToM.  At six years old, during this early stage of reading comprehension acquisition, 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+decoding ability is the strongest predictor of reading comprehension leaving less to be explained by 
+
+linguistic skills and, typically, the balance shifts with development, such that linguistic comprehension 
+
+becomes more fundamental once word reading is fluent and efficient (Adlof, Catts, & Lee, 2010; 
+
+Ouelette & Beers, 2010; Vellutino et al., 2007). It is plausible that previous studies (Guajardo & 
+
+Cartwright, 2016; Kim, 2015), investigating the influence of ToM of older children, or with small 
+
+samples with a broad age range, may have missed these early potentially crucial developmental 
+
+effects. Additionally, the non-standard and linguistically-demanding ToM tasks employed in previous 
+
+studies may have masked the effects of ToM or been biased to general language ability. Indeed, our 
+
+finding is consistent with previous research suggesting that early ToM directly relates to later 
+
+cognitive performance (Lecce et al., 2014; Lecce et al., 2011; Lockl & Schneider, 2007).  
+
+ 
+
+Why does early theory of mind directly predict later reading comprehension? 
+
+False belief understanding marks a crucial step in meta-cognitive development (e.g., Bartsch & Estes, 
+
+1996; Flavell et al, 2000). This may be because it is part of, or draws upon, domain general meta-
+
+cognitive abilities (Iao et al., 2011; Perner, 1991; Perner et al., 2002) or because it is a socially 
+
+specialized ability (e.g., He, Bolz & Baillargeon, 2011) that facilitates other aspects of meta-cognition 
+
+e.g., meta-memory (Lecce et al 2014; Lockl & Schneider, 2007) or source monitoring (Bright-Paul et 
+
+al, 2008). Nevertheless, we argue that it is the coming online of these abilities that is crucial and that 
+
+false belief understanding reflects a “watershed” in their availability. The early acquisition of theory of 
+
+mind allows children greater exposure to and opportunities to use metacognitive strategies that 
+
+facilitate later development of higher order comprehension skills (e.g., self monitoring and repair 
+
+strategies), which promote increased performance in reading comprehension (Oakhill & Cain, 2012; 
+
+Perfetti, Landi, & Oakhill, 2005). In other words, gaining false belief understanding early provides 
+
+children with longer exposure to and, therefore, more opportunities and experience in using 
+
+metacognitive skills relevant for reading comprehension, i.e., comprehension monitoring (Kirby & 
+
+Savage, 2008) and meta-linguistic understanding (Yuill, 2009). Consistent with this, Lockl and 
+
+Schneider (2007) concluded from their study that those children acquiring an early ToM performed 
+
+ 
+
+18 
+
+ 
+better in the later meta-memory tasks, suggesting that gaining a ToM might be a crucial step in 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+metacognitive development. 
+
+ 
+ToM and the SVR account of reading comprehension 
+
+Overall, our findings show a robust effect where ToM is indirectly linked to reading comprehension 
+
+via linguistic comprehension, such that the effects of ToM are accounted for within the SVR 
+
+framework via one of its key dimensions. Children's social cognition facilitates linguistic 
+
+comprehension, which may play an important role in reading. Importantly though, early ToM also 
+
+directly contributed to reading comprehension over and above the dimensions of the SVR. As we have 
+
+argued, this is likely to be because it marks a watershed in metacognitive abilities relevant to reading 
+
+comprehension. These metacognitive abilities will clearly be relevant to making sense of stories, 
+
+thoughts and actions, specifically including socially relevant abilities such as thinking about 
+
+characters' thoughts and feelings and linking those to actions within stories. Crucially, however, it will 
+
+also be relevant to other broader metacognitive abilities relevant to reading, such as meta-memory 
+
+(Lecce et al., 2014) and comprehension monitoring (Kirby & Savage, 2008).  
+
+ 
+
+As a result of their study, Ricketts et al. (2013) suggest that the SVR framework should be extended to 
+
+include mental state understanding when accounting for reading comprehension in an Autistic 
+
+Spectrum Disorder population. These claims for ToM, indicating a role for meta-cognition, are 
+
+consistent with the theory that higher-order comprehension processes, such as inference making, are 
+
+used to integrate information from the text with the reader's general knowledge to the create a mental 
+
+model of the text or situation model (Kintsch & Rawson, 2005; Perfetti & Stafura, 2014). The results 
+
+from the current study support the view that ToM is a significant predictor of reading comprehension 
+
+in typically developing children, and therefore should be included in the SVR model. An account of 
+
+metacognition is essential to provide a full explanation of reading comprehension (Kirby & Savage, 
+
+2008) and the SVR may need to be expanded to account for metacognitive skills, particularly for the 
+
+acquisition and early development of reading comprehension. 
+
+ 
+Limitations 
+
+ 
+
+19 
+
+ 
+One of the main strengths of the current longitudinal study was initially assessing pre-readers before 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+the beginning of formal literacy instruction. However, research with very young children brings 
+
+inherent problems with regard to finding reliable measures. To limit demands on the children, 
+
+assessment sessions were restricted in number and length; therefore, some variables were measured at 
+
+a single time. However, during these early years, children’s development may be uneven and episodic 
+
+and highly influenced by their environment, therefore it may have been more reliable to measure 
+
+children’s abilities within each construct through a variety of assessments over different days.  
+
+Overall, however, our sample performed highly in the standardized assessment tasks and were from 
+
+families who reported above-average educational levels. As such, this may potentially limit the degree 
+
+to which our results are extended to the population in general. 
+
+ 
+The current study did not include additional measures of metacognition. Future research in this field 
+
+should address this issue with the assessment of other aspects of metacognitive ability (for example, 
+
+measures of source monitoring; Bright-Paul et al., 2008) at each time point. Additionally, six years is a 
+
+relatively young age to assess reading comprehension. Decoding ability is the strongest predictor of 
+
+reading comprehension through this early stage, but as word reading becomes more fluent and 
+
+efficient, linguistic comprehension develops greater significance. Follow up assessments are vital to 
+
+investigate how metacognitive ability relates to reading comprehension as the balance shifts between 
+
+decoding and linguistic abilities.  
+
+ 
+
+Conclusion and Implications 
+
+In conclusion, this longitudinal study provides robust evidence that theory of mind through the early 
+
+years promoted later linguistic comprehension, which in turn contributed to reading comprehension. 
+
+Importantly, we also show a novel finding that ToM directly contributed to performance of reading 
+
+comprehension, over and above age, NVA, decoding and linguistic comprehension and EF, in a 
+
+typically developing population. This is the first longitudinal study to show that gaining early ToM 
+
+(measured by false belief understanding) predicts better reading comprehension ability, two and a half 
+
+years later. The current study supports previous research that has argued that early ToM leads to better 
+
+performance in later academic achievement (Lecce et al., 2011) and cognitive development (Lecce et 
+
+ 
+
+20 
+
+ 
+ 
+al., 2014; Lockl & Schneider, 2007). Specifically, we show that early ability predicts later reading 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+comprehension performance. Children may benefit from early ToM because it allows earlier and 
+
+greater experience of applying metacognitive strategies, which become crucial for later reading 
+
+comprehension. 
+
+ 
+These findings have important applied implications. Robust relations between linguistic ability and EF 
+
+for both ToM (Milligan et al., 2007; Devine & Hughes, 2014) and reading comprehension (Cain et al., 
+
+2004; Kendeou et al., 2009; Paris & Paris, 2003; Sesma et al., 2009) have been well established. As a 
+
+result, instruction and training in these skills are being increasingly promoted through the early years 
+
+of education (e.g., Diamond, Barnett, Thomas, & Munro, 2007). The predictive link between ToM and 
+
+reading comprehension, over and above the effects of language and EF, suggests that ToM is a crucial 
+
+component in the development of reading comprehension. Likewise, parent and child discussion 
+
+during shared reading may be an important context to learn about ToM and reading comprehension 
+
+more generally (Symons, 2004; Symons, Peterson, Slaughter, Roche, & Doyle, 2005). Therefore, 
+
+instruction and training in the skills and knowledge that underlie false belief understanding (e.g., 
+
+Lecce et al., 2014) would be beneficial as an additional approach in promoting emerging reading 
+
+comprehension.  
+
+ 
+
+References 
+
+Adlof, S. M., Catts, H. W., & Lee, J. (2010). Kindergarten predictors of second versus eighth grade 
+
+reading comprehension impairments. Journal of Learning Disabilities, 43(4), 332-345.  
+
+Adlof, S.M., Catts, H.W., & Little, T. D. (2006). Should the simple view of reading include a fluency 
+
+component? Reading and Writing: An Interdisciplinary Journal, 19, 933-958. 
+
+doi:10.1007/s11145-006-9024-z 
+
+  Allan N.P., Hume L.E., Allan D. M., Farrington A. L., & Lonigan, C. J. (2014). Relations Between 
+
+Inhibitory Control and the Development of Academic Skills in Preschool and Kindergarten: A 
+
+Meta-Analysis. Developmental Psychology, 50(10), 2368 –2379. doi:10.1037/a0037493. 
+
+ 
+
+21 
+
+ 
+ 
+Bartsch, K., & Estes, D. (1996). Individual differences in children's developing theory of mind and 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+implications for metacognition. Learning and Individual Differences, 8(4), 281-304. 
+
+doi:10.1016/S1041-6080(96)90020-5 
+
+Blair, C., & Razza, R. P. (2007). Relating effortful control, executive function, and false belief 
+
+understanding to emerging math and literacy ability in kindergarten. Child Development, 78(2), 
+
+647-663. doi:10.1111/j.1467-8624.2007.01019.x 
+
+Bright-Paul, A., Jarrold, C., & Wright, D. B. (2008). Theory-of-mind development influences 
+
+suggestibility and source monitoring. Developmental Psychology, 44(4), 1055-1068. 
+
+doi:10.1037/0012-1649.44.4.1055  
+
+Cain, K., Oakhill, J., & Bryant, P. (2004). Children's Reading Comprehension Ability: Concurrent 
+
+Prediction by Working Memory, Verbal Ability, and Component Skills. Journal of Educational 
+
+Psychology, 96(1), 31-42. doi:10.1037/0022-0663.96.1.31 
+
+Carlson, S. M., & Moses, L. J. (2001). Individual differences in inhibitory control and children's 
+
+theory of mind. Child Development, 72(4), 1032-1053. doi:10.1111/1467-8624.00333 
+
+Conners, F. A. (2009). Attentional control and the Simple View of reading. Reading and Writing, 
+
+22(5), 591-613. doi:10.1007/s11145-008-9126-x 
+
+Courtin, C., & Melot, A.M. (2005), Metacognitive development of deaf children: lessons from the 
+
+appearance–reality and false belief tasks. Developmental Science, 8, 16–25. 
+
+doi: 10.1111/j.1467-7687.2005.00389.x 
+
+Devine, R. T., & Hughes, C. (2014). Relations between false belief understanding and executive 
+
+function in early childhood: A meta‐ analysis. Child Development, 85(5), 1777-1794. doi: 
+
+10.1111/cdev.12237 
+
+Diamond, A., Barnett, W. S., Thomas, J., & Munro, S. (2007). Preschool program improves cognitive 
+
+control. Science, 318(5855), 1387-1388. doi:10.1126/science.1151148 
+
+Doherty, M. J. (2008). Theory of mind: How children understand others' thoughts and feelings. New 
+
+York, NY, US: Psychology Press. 
+
+Dunn, L. M., Dunn, L. M., Whetton, C., & Burley, J. (1997). British Picture Vocabulary Scale 2nd 
+
+Edition. London: NFER-Nelson. 
+
+ 
+
+22 
+
+ 
+Durand, M., Hulme, C., Larkin, R., & Snowling, M. (2005). The cognitive foundations of reading and 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+arithmetic skills in 7- to 10-year-olds. Journal of Experimental Child Psychology, 91(2), 113-
+
+136. doi:10.1016/j.jecp.2005.01.003 
+
+Emery, D. W. (1996). Helping readers comprehend stories from the characters’ perspective. Reading 
+
+Teacher, 49, 534-541.  
+
+Field, A. (2013). Discovering Statistics using IBM SPSS Statistics 4th Edition. London, United 
+
+Kingdom: Sage Publications Inc. 
+
+Flavell, J. H., Green, F. L., & Flavell, E. R. (2000). Development of children's awareness of their own 
+
+thoughts. Journal of Cognition and Development, 1(1), 97-112. 
+
+doi:10.1207/S15327647JCD0101N_10 
+
+Foster, H. (2007). Single Word Reading Test 6-16. London, United Kingdom: GL Assessment. 
+
+Gough, P. B., & Tunmer, W. E. (1986). Decoding, reading, and reading disability. RASE: Remedial & 
+
+Special Education, 7(1), 6-10. doi:10.1177/074193258600700104 
+
+Guajardo, N. R. & Cartwright, K. B. (2016). The contribution of theory of mind, counterfactual 
+
+reasoning, and executive function to pre-reader language comprehension and later reading 
+
+awareness and comprehension in elementary school. Journal of Experimental Child Psychology, 
+
+144, 27-45. doi:10.1016/j.jecp.2015.11.004 
+
+  Hayes, A. F. (2012). PROCESS: A versatile computational tool for observed variable mediation, 
+
+moderation, and conditional process modeling [White paper]. Retrieved from 
+
+http://www.afhayes.com/ public/process2012.pdf 
+
+He, Z., Bolz, M., & Baillargeon, R. (2011). False-belief understanding in 2.5-year olds: Evidence from 
+
+violation-of-expectation change-of-location and unexpected contents tasks. Developmental 
+
+Science, 14(2), 292-305. doi:10.1111/j.1467-7687.2010.00980.x 
+
+Hogrefe, G., Wimmer, H., & Perner, J. (1986). Ignorance versus false belief: A developmental lag in 
+
+attribution of epistemic states. Child Development, 57(3), 567-582. doi:10.2307/1130337 
+
+  Hood, M., Conlon, E., & Andrews, G. (2008). Preschool home literacy practices and children's literacy 
+
+development: A longitudinal analysis. Journal of Educational Psychology, 100(2), 252-271. doi: 
+
+10.1037/0022-0663.100.2.252  
+
+ 
+
+23 
+
+ 
+Hoover, W. A., & Gough, P. B. (1990). The simple view of reading. Reading and Writing, 2(2), 127-
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+160. doi:10.1007/BF00401799 
+
+Hughes, C., Ensor, R., & Marks, A. (2010). Individual differences in false belief understanding are 
+
+stable from 3 to 6 years of age and predict children’s mental state talk with school friends. 
+
+Journal of Experimental Child Psychology, 108(1), 96-112. doi:10.1016/j.jecp.2010.07.012 
+
+Iao, L., Leekam, S., Perner, J., & McConachie, H. (2011). Further evidence for nonspecificity of 
+
+theory of mind in preschoolers: Training and transferability in the understanding of false beliefs 
+
+and false signs. Journal of Cognition and Development, 12(1), 56-79. 
+
+doi:10.1080/15248372.2011.539523  
+
+Johnson, E. S., Jenkins, J. R., & Jewell, M. (2005). Analyzing Components of Reading on 
+
+Performance Assessments: An Expanded Simple View. Reading Psychology, 26(3), 267-283. 
+
+doi:10.1080/02702710590962587 
+
+Johnston, T. C., & Kirby, J. R. (2006). The contribution of naming speed to the simple view of 
+
+reading. Reading and Writing, 19(4), 339-361. doi:10.1007/s11145-005-4644-2 
+
+Joshi, R. M., & Aaron, P. G. (2000). The component model of reading: Simple view of reading made a 
+
+little more complex. Reading Psychology, 21(2), 85-97. doi:10.1080/02702710050084428 
+
+Kendeou, P., van den Broek, P., White, M. J., & Lynch, J. S. (2009). Predicting reading 
+
+comprehension in early elementary school: The independent contributions of oral language and 
+
+decoding skills. Journal of Educational Psychology, 101(4), 765-778. doi:10.1037/a0015956 
+
+Kim, Y. (2015). Language and cognitive predictors of text comprehension: Evidence from 
+
+multivariate analysis. Child Development, 86, 128–144.  doi:10.1111/cdev.12293 
+
+Kintsch, W., & Rawson, K. A. (2005). Comprehension. In M. J. Snowling, & C. Hulme (Eds.), The 
+
+Science of Reading: A Handbook (pp. 209-226). Malden: Blackwell Publishing.  
+
+Kirby, J. R., & Savage, R. S. (2008). Can the simple view deal with the complexities of reading? 
+
+Literacy, 42(2), 75-82. doi:10.1111/j.1741-4369.2008.00487.x 
+
+Kloo, D., & Perner, J. (2003). Training transfer between card sorting and false belief understanding: 
+
+Helping children apply conflicting descriptions. Child Development, 74(6), 1823-1839. 
+
+doi:10.1046/j.1467-8624.2003.00640.x 
+
+  Krahn, F. (1979). Robot-Bot-Bot. New York, USA: Dutton Juvenile. 
+
+ 
+
+24 
+
+ 
+Kuhn, D. (2000). Theory of mind, metacognition, and reasoning: A life-span perspective. In P. 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+Mitchell, & K. J. Riggs (Eds.), Children’s reasoning and the mind (pp. 301-326). Hove 
+
+England: Psychology Press/Taylor & Francis (UK).  
+
+Lecce, S., Bianco, F., Demichell, P., & Cavallini, E. (2014). Training preschoolers on first-order false 
+
+belief understanding: transfer on advanced ToM skills and metamemory. Child Development, 
+
+85(6), 2404-2418. 
+
+Lecce, S., Caputi, M., & Hughes, C. (2011). Does sensitivity to criticism mediate the relationship 
+
+between theory of mind and academic achievement?. Journal of Experimental Child 
+
+Psychology, 110(3), 313-331. doi:10.1016/j.jecp.2011.04.011 
+
+Lecce, S., Zocchi, S., Pagnin, A., Palladino, P., & Taumoepeau, M. (2010). Reading minds: The 
+
+relation between children's mental state knowledge and their metaknowledge about reading. 
+
+Child Development, 81(6), 1876-1893. doi:10.1111/j.1467-8624.2010.01516.x 
+
+Lockl, K., & Schneider, W. (2007). Knowledge About the Mind: Links Between Theory of Mind and 
+
+Later Metamemory. Child Development, 78(1), 148-167. doi:10.1111/j.1467-
+
+8624.2007.00990.x 
+
+Milligan, K., Astington, J. W., & Dack, L. A. (2007). Language and theory of mind: Meta-analysis of 
+
+the relation between language ability and false-belief understanding. Child Development, 78(2), 
+
+622-646. doi:10.1111/j.1467-8624.2007.01018.x 
+
+  Muter, V., Hulme, C., & Snowling, M. J. (1997). Phonological Abilities Test. University of York, UK: 
+
+Harcourt Brace & Company Publishers. 
+
+Oakhill, J. V., & Cain, K. (2012). The precursors of reading ability in young readers: Evidence from a 
+
+four-year longitudinal study. Scientific Studies of Reading, 16(2), 91-121. 
+
+doi:10.1080/10888438.2010.529219 
+
+Ouellette, G., & Beers, A. (2010). A not-so-simple view of reading: How oral vocabulary and visual-
+
+word recognition complicate the story? Reading and Writing, 23(2), 189-208.  
+
+Paris, A. H., & Paris, S. G. (2003). Assessing narrative comprehension in young children. Reading 
+
+Research Quarterly, 38(1), 36-76. doi:10.1598/RRQ.38.1.3 
+
+ 
+
+25 
+
+ 
+Pelletier, J., & Astington, J. W. (2004). Action, consciousness and theory of mind: Children's ability to 
+
+ 
+
+ 
+
+Theory of Mind and Reading Comprehension 
+
+coordinate story characters' actions and thoughts. Early Education And Development, 15(1), 5-
+
+22. doi:10.1207/s15566935eed1501_1 
+
+Perfetti, C. A., Landi, N., & Oakhill, J. (2005). The acquisition of reading comprehension skill. In M. 
+
+J. Snowling, & C. Hulme (Eds.), The Science of Reading: A Handbook (pp. 227-247). Malden: 
+
+Blackwell Publishing.  
+
+Perfetti, C., & Stafura, J. (2014). Word knowledge in a theory of reading comprehension. Scientific 
+
+Studies of Reading, 18(1), 22-37.  
+
+Perner, J. (1991). Understanding the representational mind. Cambridge, MA, US: The MIT Press.  
+
+Perner, J., Stummer, S., Sprung, M., & Doherty, M. (2002). Theory of mind finds its Piagetian 
+
+perspective: Why alternative naming comes with understanding belief. Cognitive Development, 
+
+17(3-4), 1451-1472. doi:10.1016/S0885-2014(02)00127-2 
+
+Preacher, K. J., & Hayes, A. F. (2008). Asymptotic and resampling strategies for assessing and 
+
+comparing indirect effects in multiple mediator models. Behavior Research Methods, 40(3), 
+
+879-891. doi:10.3758/BRM.40.3.879 
+
+Premack, D., & Woodruff, G. (1978). Does the chimpanzee have a theory of mind?. Behavioral and 
+
+Brain Sciences, 1(4), 515-526. doi:10.1017/S0140525X00076512 
+
+Pressley, M., Duke, N. K., Gaskins, I. W., Fingeret, L., Halladay, J., Hilden, K., … Collins, S. (2009). 
+
+Working with struggling readers: Why we must get beyond the Simple View of Reading and 
+
+visions of how it might be done. In T. B. Gutkin & C. R. Reynolds (Eds.), The handbook of 
+
+school psychology (4th ed., pp. 522-546). Hoboken, NJ: Wiley.  
+
+Ricketts, J., Jones, C. G., Happé, F., & Charman, T. (2013). Reading comprehension in autism 
+
+spectrum disorders: The role of oral language and social functioning. Journal of Autism and 
+
+Developmental Disorders, 43(4), 807-816. doi:10.1007/s10803-012-1619-4 
+
+Sesma, H. W., Mahone, E. M., Levine, T., Eason, S. H., & Cutting, L. E. (2009). The contribution of 
+
+executive skills to reading comprehension. Child Neuropsychology, 15(3), 232-246. 
+
+doi:10.1080/09297040802220029 
+
+Shahaeian, A., Henry, J. D., Razmjoee, M., Teymoori, A., & Wang, C. (2015). Towards a better 
+
+understanding of the relationship between executive control and theory of mind: an intra-
+
+ 
+
+26 
+
+ 
+
+ 
+
+ 
+
+cultural comparison of three diverse samples. Developmental Science, 18, 671–685. 
+
+Theory of Mind and Reading Comprehension 
+
+doi: 10.1111/desc.12243 
+
+Slade, L., & Ruffman, T. (2005). How language does (and does not) relate to theory of mind: A 
+
+longitudinal study of syntax, semantics, working memory and false belief. British Journal of 
+
+Developmental Psychology, 23(1), 117-141. doi:10.1348/026151004X21332 
+
+Snowling, M. J., Stothard, S. E., Clarke, P., Bowyer-Crane, C., Harrington, A., Truelove, E., Nation, 
+
+K. & Hulme, C. (2011). York Assessment of Reading for Comprehension: Early Reading and 
+
+Passage Reading Primary Second Edition. London, United Kingdom: GL Assessment. 
+
+Symons, D. K. (2004). Mental state discourse, theory of mind, and the internalization of self-other 
+
+understanding. Developmental Review, 24(2), 159-188. doi:10.1016/j.dr.2004.03.001 
+
+Symons, D.K., Peterson, C. D., Slaughter, V., Roche, J., & Doyle, E. (2005). Theory of mind and 
+
+mental state discourse during book reading and story-telling tasks. British Journal of 
+
+Developmental Psychology, 23(1), 81-102. doi: 10.1348/026151004X21080 
+
+Torgeson, J. K., Wagner, R. K., & Rashotte, C. A. (1999). The Test of Word Reading Efficiency. 
+
+Austin, TX: Pro-Ed. 
+
+Vellutino, F. R., Tunmer, W. E., Jaccard, J. J., & Chen, R. (2007). Components of reading ability: 
+
+Multivariate evidence for a convergent skills model of reading development. Scientific Studies 
+
+of Reading, 11(1), 3-32. doi:10.1207/s1532799xssr1101_2 
+
+  Wechsler, D. (2002). Wechsler Preschool and Primary Scale of Intelligence —Third UK Edition. 
+
+London: Psychological Corporation. 
+
+  Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The 
+
+truth about false belief. Child Development, 72(3), 655-684. doi:10.1111/1467-8624.00304 
+
+  Wiig, E. H., Secord, W., & Semel, E. (1992). Clinical Evaluation of Language Fundamentals – 
+
+Preschool. New York, USA: The Psychological Corporation. 
+
+  Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of 
+
+wrong beliefs in young children's understanding of deception. Cognition, 13(1), 103-128. 
+
+  Woolley, J. D., & Cox, V. (2007), Development of beliefs about storybook reality. Developmental 
+
+Science, 10, 681–693. doi: 10.1111/j.1467-7687.2007.00612.x 
+
+ 
+
+27 
+
+ 
+
+ 
+
+ 
+
+  Yuill, N. (2009). The relation between ambiguity understanding and metalinguistic discussion of 
+
+Theory of Mind and Reading Comprehension 
+
+joking riddles in good and poor comprehenders: Potential for intervention and possible processes 
+
+of change. First language, 29(1), 65-79. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+28 
+
+

@@ -1,0 +1,3356 @@
+ 
+
+Cumulative Contextual Risk, Maternal Responsivity, and Social 
+
+Cognition at 18 Months 
+
+by 
+
+ 
+
+Mark Wade 
+
+A thesis submitted in conformity with the requirements 
+
+for the degree of Master of Arts in School and Clinical Child Psychology 
+
+Graduate Department of Applied Psychology and Human Development 
+
+University of Toronto 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+© Copyright by Mark Wade (2012) 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Cumulative Contextual Risk, Maternal Responsivity, and Social 
+
+Cognition at 18 Months 
+
+ 
+
+Mark Wade 
+
+Master of Arts 
+
+Applied Psychology and Human Development 
+
+University of Toronto 
+
+2012 
+
+Abstract 
+
+By 18 months children demonstrate a range of social-cognitive skills that reflect their emerging 
+
+capacity to understand and engage in intentional relations with others. Intention understanding is 
+
+a critical component of children’s social cognition at this age. Although individual differences in 
+
+social cognition have been linked to neurocognitive maturation, socio-cultural models of 
+
+development suggest that environmental influences operate in the development of intention 
+
+understanding, with distal factors operating through proximal processes. In the current study of 
+
+501 children and their mothers, we tested and found support for a model in which an 
+
+accumulation of distal environmental risks was associated with lower maternal responsivity, 
+
+which was in turn associated with lower social-cognitive competency at 18 months. In addition, 
+
+part of this effect operated through children’s concurrent language ability. Findings are discussed 
+
+with respect to the Vygotskian themes of internalization and semiotic mediation.  
+
+ii 
+ 
+
+ 
+
+Acknowledgments 
+
+ 
+
+First, I would like to thank my friends and family for their continued support throughout the 
+
+completion of my research activities. A special thanks to my mother and father for their endless 
+
+encouragement and longstanding emphasis on following my career aspirations with dedication 
+
+and enthusiasm. I would also like to thank my colleagues and peers, with whom many memories 
+
+and experiences were shared, and who made this pursuit truly enjoyable. A particular note of 
+
+appreciation goes to Heather Prime and Dillon Browne (triumvirate), who were not only 
+
+instrumental in the advancement of my educational and professional development, but who have 
+
+become lifelong friends and inspirational figures in my life. Additional thanks goes to Kate 
+
+Bryant, Zohrah Haqanee, Jessica Taylor, Joyce Mak, Aarti Kumar, Kristen Frampton, Jean-
+
+Christophe Meunier, and André Plamondon for their specialized expertise and social support 
+
+throughout the last two years. Finally, I would like to thank my supervisor, Jenny Jenkins, who 
+
+has made the single most important contribution to my growth as a researcher and professional in 
+
+the field of child development. Not only has she afforded me the skills to become a proficient 
+
+scientist, but she has taught me the value of dedicating oneself to an area of importance and 
+
+exhausting all avenues to effect positive change. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iii 
+ 
+
+ 
+
+Table of Contents 
+
+ 
+
+Acknowledgments.......................................................................................................................... iii 
+
+Table of Contents ........................................................................................................................... iv 
+
+List of Tables ................................................................................................................................. vi 
+
+List of Figures ............................................................................................................................... vii 
+
+1  Background .................................................................................................................................1 
+
+1.1  The Nature of Social Cognition ...........................................................................................1 
+
+1.2  Social Cognition in Infancy and Childhood.........................................................................1 
+
+1.3  Social-Cognitive Skills and Different Forms of Intention Understanding ..........................2 
+
+1.4  A Sociocultural Perspective on Social-Cognitive Development .........................................4 
+
+1.5  Distal and Proximal Social-Environmental Influences on Social-Cognitive 
+
+Development ........................................................................................................................6 
+
+1.6  Goals of the Present Study ...................................................................................................7 
+
+2  Methodology ...............................................................................................................................8 
+
+2.1  Participants ...........................................................................................................................8 
+
+2.2  Procedure .............................................................................................................................9 
+
+2.3  Measures ..............................................................................................................................9 
+
+2.3.1  Cumulative Risk Index ............................................................................................9 
+
+2.3.2  Maternal Responsivity ...........................................................................................12 
+
+2.3.3  Social Cognition.....................................................................................................12 
+
+2.3.4  Language ................................................................................................................15 
+
+2.4  Plan of Analysis .................................................................................................................16 
+
+3  Results .......................................................................................................................................17 
+
+3.1  Preliminary Analysis ..........................................................................................................17 
+
+3.2  Testing the Measurement Model for Social Cognition ......................................................17 
+
+3.3  Testing the Proposed Indirect Paths – The Structural Model ............................................20 
+
+iv 
+ 
+
+ 
+
+3.4  Secondary Analysis ............................................................................................................20 
+
+ 
+
+4  Discussion .................................................................................................................................22 
+
+4.1  Interpretation of the Results ...............................................................................................22 
+
+4.2  Limitations and Future Directions .....................................................................................26 
+
+References ......................................................................................................................................28 
+
+v 
+ 
+
+ 
+
+ 
+
+ List of Tables 
+
+ 
+
+Table 1. Correlations, mean scores, standard deviations, and number of participants for study 
+
+variables ........................................................................................................................................ 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+vi 
+ 
+
+ 
+
+ 
+
+List of Figures 
+
+ 
+
+Figure 1. Measurement model for the social cognition and maternal responsivity latent 
+
+constructs. ..................................................................................................................................... 19 
+
+Figure 2. Hypothesized model on the relations between distal cumulative risk, maternal 
+
+responsivity, child language, and social cognition at 18 months.. ................................................ 21 
+
+vii 
+ 
+
+ 
+
+1  Background 
+
+1 
+
+1.1  The Nature of Social Cognition  
+
+Social cognition is the ability to understand why people behave the way they do. This is 
+
+accomplished by gaining an awareness of the mental states of oneself and others, including 
+
+beliefs, desires, intentions, and emotions. The ability to interpret behaviour in terms of 
+
+psychological states is required for complex social interactions early in life. Indeed, development 
+
+of social-cognitive skills has consequences for children’s psychosocial well-being. For example, 
+
+preschool children with poor social cognition display heightened conflict and communication 
+
+problems with friends (Dunn & Cutting, 1999), lower levels of acceptance among peers 
+
+(Slaughter, Dennis, & Pritchard, 2002), less social competence (Astington, 2003), more 
+
+behaviour problems (Hughes & Ensor, 2006), and less sophisticated academic skills (Astington 
+
+& Pelletier, 2005). Deficits in social awareness have also been linked to pervasive developmental 
+
+disorders such as autism (e.g. Baron-Cohen, 1989; Baron-Cohen, 1997; Baron-Cohen, Leslie, & 
+
+Frith, 1985). Since social cognition is predictive of later adjustment, it is important to understand 
+
+the development of these early competencies. This process requires at least two pre-conditions: 
+
+(1) understanding the extent to which different aspects of early social cognition are related to one 
+
+another; and (2) identifying ecological variables that contribute to social-cognitive functioning. 
+
+The present thesis aimed to advance these two areas of research. 
+
+1.2  Social Cognition in Infancy and Childhood 
+
+Young children demonstrate their social awareness through various behaviours and social 
+
+interactions with others. For instance, by about 3 months infants are able to coordinate 
+
+vocalizations and facial expressions with other people (Reddy, 2008), and by about 9 months 
+
+they are capable of following and directing the attention of others (Carpenter, Nagell, & 
+
+Tomasello, 1998). They are also able to adopt emotional expressions towards objects based on 
+
+the emotional states of other people (Mumme, Fernald, & Herrera, 1996). These abilities 
+
+represent a progression in social understanding that continues to develop over the first few years 
+
+of life. However, these rudimentary abilities only require that infants coordinate or match their 
+
+experiences with others, and not necessarily that they distinguish between their own and others’ 
+
+mental or physical states. On the other hand, recent investigations have begun to document the 
+
+ 
+ 
+
+2 
+
+ 
+
+possibility that young infants are capable of attributing some mental states to others when age-
+
+appropriate response tasks are used (see Baillargeon, Scott, & He, 2010 for a review).  
+
+Regardless of the exact age at which infants begin to ascribe the full range of mental states to 
+
+other agents, it is clear that by about 18 months children recognize themselves and others as 
+
+similar yet distinct individuals who may possess different perspectives and orientations to events 
+
+and objects in the environment (Moore, 2007). It is around this time that children are able to 
+
+objectively recognize themselves in a mirror (Brownell, Zerwas, & Ramani, 2007; Nielsen & 
+
+Dissanayake, 2004), display empathic and prosocial behaviours (Warneken & Tomasello, 2006; 
+
+Zahn-Waxler & Radke-Yarrow, 1990), and engage in cooperative interactions with others 
+
+(Warneken, Chen, & Tomasello, 2006). One fundamental aspect of social cognition at this age is 
+
+the ability to understand that peoples’ actions are driven by purposeful intentions. According to 
+
+Moore (2007), intentional relations connect actors to objects in the world, and understanding 
+
+such relations allows children to appreciate that behaviour is goal-directed. Many studies have 
+
+now shown that by 12 to 18 months children are able to represent a variety of intentional 
+
+relations (Carpenter, Call, & Tomasello, 2005; Gergely, Nádasdy, Csibra, & Bíró, 1995; 
+
+Wellman, Phillips, Dunphy-Lelii, & LaLonde, 2004; Woodward, 1998). 
+
+Infants’ understanding of intentionality may lay the foundation for more mature social 
+
+understanding that is rooted in social experience. This developmental view of social cognition is 
+
+consistent with the notion that early intuitive awareness during infancy becomes more explicit 
+
+and reflective understanding in toddlerhood (San Juan & Astington, 2012; Thoermer, Sodian, 
+
+Vuori, Perst, & Kristen, 2012). However, even at 18 months infants’ ability to understand others 
+
+as unique psychological beings (and intentional agents) requires two complementary processes: 
+
+first, children must understand that others have subjective experiences of the world that may be 
+
+different from their own; and second, they realize that they themselves are an objective entity 
+
+(Barresi & Moore, 1996; Moore, 2007). These central elements of intention understanding are 
+
+captured in a range of social-cognitive behaviours that emerge in the second year of life. 
+
+1.3  Social-Cognitive Skills and Different Forms of Intention 
+
+Understanding 
+
+There are different types of intentional relations, and it is useful to describe them according to 
+
+the social-cognitive behaviours that children demonstrate at 18 months. According to Moore 
+
+ 
+ 
+
+ 
+
+3 
+
+(2007), some intentional relations are epistemic, which refers to cognitive or knowledge-based 
+
+forms of intention understanding. This kind of understanding supports infants’ ability to engage 
+
+in joint attention. Although infants can use their own gaze and gestures to direct the attention of 
+
+others beginning at about 9 months, their capacity to coordinate intentional relations with others 
+
+in order to engage in a shared social activity is not fully established until 15 to 18 months 
+
+(Tomasello & Carpenter, 2007; Tomasello, Carpenter, Call, Behne, & Moll, 2005) A second type 
+
+of intentional relations is affective or emotional. A significant benchmark in understanding the 
+
+independent emotional orientations of oneself and others at 18 months is empathic responding. 
+
+According to Zahn-Waxler and Radke-Yarrow (1990), empathy refers to an individual’s ability 
+
+to experience others’ affective and/or psychological states. Zahn-Waxler, Radke-Yarrow, 
+
+Wagner, and Chapman (1992) have provided evidence that children’s prosocial behaviour is 
+
+associated not only with empathic concern for the distress of others, but also with attempts to 
+
+label and understand another’s distress by making appropriate comments or asking insightful 
+
+questions. Finally, conative intentional relations relate to purposeful action, including desires and 
+
+acts of volition. An example includes cooperative behaviours, wherein individuals take on 
+
+different roles but work towards a shared goal. Brownell and Carriger (1990) tested children 
+
+aged 12, 18, 24, and 30 months on joint problem solving tasks in which one child operated a 
+
+spring-loaded handle that released toy animals to the other child, who needed to position 
+
+themselves appropriately to catch the animals. The tasks required spatial and temporal 
+
+coordination of actions, and could not be successfully completed by either child alone. Results 
+
+showed that no 12-month-olds evinced cooperative behaviours, whereas the greatest 
+
+improvements were apparent between 18 and 24 months. Warneken, Chen, and Tomasello 
+
+(2006) extended these findings by showing that 18-month-olds also attempt to re-engage an adult 
+
+confederate who has ceased cooperative behaviour in an effort to restore shared intentionality. 
+
+Thus, intention understanding supports children’s engagement in a range of social-cognitive 
+
+behaviours in the second year of life.   
+
+Also emergent around 18 months is the ability of children to represent themselves as objective 
+
+agents – individuals who are acting on the world, not simply experiencing first-person 
+
+perspectives (Nielsen & Dissanayake, 2004). Recognizing oneself as an objective entity means 
+
+that children conceive of themselves as the target of others’ intentional relations, evidenced by 
+
+the simultaneous emergence of the social emotions – embarrassment, guilt, shame, pride (Lewis, 
+
+ 
+ 
+
+ 
+
+4 
+
+Sullivan, Stanger, & Weiss, 1989). Experiencing these emotions requires the child to understand 
+
+that they can be judged by others, thus illustrating their awareness of the objective self.  
+
+In sum, social cognition at 18 months can be described in terms of children’s ability to 
+
+understand and engage in intentionality with others – a capacity that relies on an awareness of 
+
+the objectivity of oneself and the independent experiences of others. Joint attention, empathy, 
+
+cooperation, and self-recognition are skills that index these fundamental aspects of social 
+
+cognition at this stage of development. 
+
+1.4  A Sociocultural Perspective on Social-Cognitive 
+
+Development 
+
+Social cognition across childhood has been linked to numerous biopsychosocial factors. For 
+
+example, social cognition (including ‘theory of mind’) develops in several distinct stages which 
+
+can be mapped onto advancements in neurocognitive functioning, including the orbito-frontal 
+
+cortex (Stone, Baron-Cohen, & Knight, 1998), anterior cingulate cortex (Vogeley, et al., 2001), 
+
+temporal-parietal cortex, and the amygdala (Siegal & Varley, 2002). Various regions of the 
+
+prefrontal cortex have also been implicated in theory of mind development (Spreng, Mar, & 
+
+Kim, 2009). In addition to these maturational changes, behavioural genetics studies have shown 
+
+that a large portion of the variability in theory of mind performance at age 5 is attributable to 
+
+shared environmental factors (Hughes, et al., 2005). Some ‘hybrid’ models of social-cognitive 
+
+development hold that innate mechanisms may guide the development of early social-cognitive 
+
+competencies, whereas environmental influences may become more pertinent as children’s social 
+
+horizons are broadened throughout life (Meltzoff, Gopnik, & Repacholi, 1999). Despite these 
+
+findings, there is a surprising paucity of literature examining how social-environmental factors 
+
+contribute to children’s social cognition early in development (i.e. before the preschool period).  
+
+One of the central tenets of Vygotskian (1997) theory is that mental functioning represents an 
+
+internalization of interpersonal experience. A logical extension of this work is that children’s 
+
+understanding of others’ minds is rooted in social interaction (see Fernyhough, 2008). The 
+
+earliest and most important of these interactions are those that occur with caregivers. Bowlby 
+
+referred to the goal-corrected partnership in which a caregiver and their child are able to 
+
+represent and respond to the internal states of each person in the dyad. Two components of social 
+
+interaction seem critical for the development of social cognition. There is an affective component 
+
+ 
+ 
+
+ 
+
+5 
+
+to parenting, operationalized by concepts such as engagement, attunement, contingency, 
+
+reciprocity, and sensitivity. These elements of parenting have been found to predict different 
+
+aspects of social cognition in the preschool period (Ereky-Stevens, 2008; Hughes, Deater-
+
+Deckard, & Cutting, 1999; Meins, Fernyhough, Russell, & Clark-Carter, 1998; Symons & Clark, 
+
+2000). This might be seen as the ‘motivational’ aspect of the goal-corrected partnership: there is 
+
+reward for the child in social interaction. The other component can be referred to as cognitive 
+
+challenge, and refers to parental behaviours that supply children with the cognitive tools 
+
+(including discourse) that are required for representing their own and others’ internal states.  
+
+These include parental behaviours such as talk about the mind (Laranjo, Bernier, Meins, & 
+
+Carlson, 2010; Ruffman, Slade, Devitt, & Crowe, 2006; Taumoepeau & Ruffman, 2006), 
+
+reflection (Fonagy, Steele, Steele, Moran, & Higgitt, 1991), mind-mindedness (Meins, et al., 
+
+2002), and autonomy support (Bernier, Carlson, & Whipple, 2010). Thus, the affective 
+
+component of parenting gets children motivated to engage with others and provides opportunities 
+
+for cognitive challenge which, accordingly, affords children the alternative perspectives and 
+
+orientations that are needed to learn about others’ minds (Fernyhough, 2008). In this regard, it is 
+
+a combination of both affective and cognitively stimulating parenting behaviours that would be 
+
+needed to foster children’s early social cognition.   
+
+Language skills are believed to mediate or enhance the development of other cognitive 
+
+processes, such as the ability to represent and reason about others’ internal experiences 
+
+(Fernyhough, 2008). From this perspective, cultural influences on social understanding can be 
+
+conceived of as specific patterns of social interactions and culturally-derived semiotic systems 
+
+(e.g., language) that are essential to social-cognitive development. These views corroborate those 
+
+of Nelson (2005), who emphasized how emergent language faculties contribute to children’s 
+
+capacity to construct mental representations. However, other accounts of environmental 
+
+influences on social-cognitive development do not feature language as a central mediator of 
+
+social understanding, instead arguing that early forms of social cognition (i.e., intention 
+
+understanding) are paired with a unique motivation for interpersonal interactions which, in turn, 
+
+espouse more advanced representational thinking (Tomasello, et al., 2005). Taken together, 
+
+children’s acquisition of social-cognitive competencies likely involves a language-mediated 
+
+mechanism, but there may also be a pathway that is independent from language-based processing 
+
+(see Jenkins & Astington, 1996). 
+
+ 
+ 
+
+ 
+
+6 
+
+1.5  Distal and Proximal Social-Environmental Influences on 
+
+Social-Cognitive Development 
+
+A socio-cultural perspective on the development of social cognition implies more than simply 
+
+examining parental influences on children. Bronfenbrenner (1979) argued that development 
+
+occurs within embedded ‘layers’ of context. The proximal layer of influence involves the 
+
+relationships in which the child takes part and includes processes in parenting described above 
+
+(e.g., attunement). Such proximal influences are embedded within distal structures, such as the 
+
+economic and cultural communities that have a bearing on the way parents carry out parenting 
+
+tasks. Models that test the way in which distal factors are associated with children’s outcomes 
+
+through proximal processes have been referred to as indirect effect or mediation models 
+
+(MacKinnon, Fairchild, & Fritz, 2007). As they take account of multiple levels of influence 
+
+simultaneously, these models provide a more comprehensive account of the ways in which distal 
+
+and proximal aspects of the environment are associated with development.   
+
+Social disadvantage, broadly construed, is the distal factor most strongly associated with early 
+
+development. Distal risks that have been linked to aspects of social cognition include 
+
+socioeconomic disadvantage (Bradley & Corwyn, 2002), low parental education (Cutting & 
+
+Dunn, 1999), single- and step-family status (Amato, 2001), parental psychiatric health (Rohrer, 
+
+Cicchetti, Rogosch, Toth, & Maughan, 2011), and adversity in the parents’ background (Bailey, 
+
+DeOliveira, Wolfe, Evans, & Hartwick, 2012). However, single distal risks do not capture the 
+
+degree of risk exposure experienced by children. For example, Dong et al. (2004) investigated 
+
+the co-occurrence of 10 environmental risks, and found that these risks were significantly more 
+
+likely to occur together than to occur alone. Cumulative risk indices have been constructed to test 
+
+the idea that development is affected by the accumulation of environmental risk rather than the 
+
+occurrence of a single and specific risk. Indeed, cumulative risk measures have been found to 
+
+explain more variance in child outcomes than any single factor (Flouri & Kallis, 2007). It is also 
+
+notable that, across studies, cumulative risk indices combine different risks together, yet the 
+
+prediction from cumulative risk to child outcome remains similar (Rutter, 1979; Sameroff, 2000). 
+
+This suggests that it is the overall extent of disadvantage that has a bearing on children’s 
+
+development, rather than the specific effect of a single type of disadvantage.   
+
+As risks accumulate, parents’ ability to provide support, attention, and sensitivity to their 
+
+children is reduced (Ayoub, et al., 2009; Burchinal, Vernon-Feagans, Cox, & Investigators, 
+
+ 
+ 
+
+ 
+
+7 
+
+2008; Burchinal, Roberts, Zeisel, & Rowley, 2008). Higher levels of cumulative risk have been 
+
+found to be associated with lower levels of effortful control and social competence in the 
+
+preschool period (Lengua, Honorado, & Bush, 2007), as well as poorer cognitive outcomes at 24 
+
+months (Cabrera, Fagan, Wight, & Schadler, 2011). Furthermore, support has been found for the 
+
+pathway from cumulative risk to negative child outcomes through problematic parenting. It has 
+
+been shown that cumulative risk operates indirectly through mothers’ sensitivity and responsivity 
+
+to influence children’s socioemotional functioning (Cabrera, et al., 2011), their internalizing and 
+
+externalizing problems (Trentacosta, et al., 2008), and their social competence (Lengua, et al., 
+
+2007). Further, Burchinal, Vernon-Feagans et al. (2008) reported that cumulative risk was 
+
+associated with cognitive outcomes through mother’s sensitivity and warmth in children as 
+
+young as 15 months. 
+
+Although the above studies have documented the indirect effect of cumulative risk on children’s 
+
+general cognitive ability and social competence through parenting, no previous study has 
+
+examined such a pathway for children’s understanding of intentionality at 18 months. Links 
+
+between parenting and child behaviours that reflect intention understanding (e.g. joint attention, 
+
+empathy, and cooperation) have been investigated, although predictors of the general construct 
+
+have not been examined. These studies have led to the conclusion that parental responsivity – 
+
+including sensitivity, mutuality, and patient explanation – foster children’s joint attention 
+
+(Gaffan, Martins, Healy, & Murray, 2010), empathy (Kiang, Moreno, & Robinson, 2004), 
+
+cooperation (NICHD, 1999), and self-recognition (Keller, Kärtner, Borke, Yovsi, & Kleis, 2005). 
+
+1.6  Goals of the Present Study 
+
+We test a model in which cumulative environmental risk influences social cognition at 18 
+
+months through its effect on parenting. In developing a cumulative risk index, we selected 
+
+indicators known to be associated with parenting difficulties and more troubled child behaviour: 
+
+low maternal education, maternal depression, mothers’ history of physical and sexual abuse, 
+
+family structure (step- or lone-parents), and a lack of organization and safety in the home 
+
+environment. We hypothesized that cumulative risk would be indirectly related to social 
+
+cognition through responsive parenting. Consistent with Vygotskian theory, strong links have 
+
+also been shown between language and social cognition (Astington & Jenkins, 1999; Hale & 
+
+Tager-Flusberg, 2003). Social risk has been shown to influence children’s language indirectly 
+
+ 
+ 
+
+8 
+
+ 
+
+through maternal responsiveness (Raviv, Kessenich, & Morrison, 2004). Since maternal 
+
+responsiveness is related to language development, and since language skills are associated with 
+
+social cognition, a second hypothesis of the present study is that part of the effect of responsivity 
+
+on social cognition will operate through children’s concurrent language ability. The direct effect 
+
+from cumulative risk to social cognition was not hypothesized given that direct relationships 
+
+between social disadvantage and social cognition have been found to be inconsistent (see 
+
+Lucariello, Durand, & Yarnell, 2007). 
+
+2  Methodology 
+
+2.1  Participants 
+
+All women giving birth to infants in the cities of Toronto and Hamilton between February 2006 
+
+and February 2008 were considered for participation. Families were recruited through a program 
+
+called Healthy Babies Healthy Children, run by Toronto and Hamilton Public Health Units, 
+
+which contacts the parents of all newborn babies within several days of the newborn’s birth. 
+
+Inclusion criteria for participation in the Intensive sample of the Kids, Families and Places 
+
+(IKFP) study included an English-speaking mother, a newborn > 1500 grams, and two or more 
+
+children < 4 years old. Thirty-four percent of families approached agreed to take part. At Time 1 
+
+(T1; infants were 2 months old), 501 families took part in the intensive sample data collection. 
+
+These families were followed up at Time 2 (T2), at which point the youngest child in each family 
+
+was about 18-months-old. Since we were interested in social-cognitive outcomes at 18 months, 
+
+only the youngest child in each family was included in the present study, as including older 
+
+siblings would have changed this target age significantly. Thus, the final sample consisted of 501 
+
+children, one per family in the IKFP sample. The mean age of children at T2 was 1.60 years (SD 
+
+= 0.16). There were 254 boys and 247 girls.    
+
+We compared the IKFP sample with the general population of Toronto and Hamilton using 2006 
+
+Canada Census Data, limiting the census data to women between 20-50 years and having at least 
+
+one child. The comparison was based on five indicators: immigrant status, number of persons in 
+
+the household, family type, and mother-reported income and education. The IKFP sample was 
+
+similar to the general population in terms of number of persons in the household (M = 4.52, SD = 
+
+1.01 versus M = 4.13; SD = 1.22) and personal income ($30,000-39,999 versus census 
+
+population mean = $30,504.16, SD = $37,808.12); however, the IKFP sample had fewer non-
+
+ 
+ 
+
+ 
+
+intact families (lone-parent: 5% versus 16.8%; step-families: 4.3% vs. 10.3%), fewer immigrants 
+
+(47% versus 57.7%), and more educated mothers (53% had a Bachelor’s degree compared to 
+
+9 
+
+30.6% in the general population). 
+
+2.2  Procedure 
+
+Data collection at T1 included both questionnaire and observational measures. Trained 
+
+interviewers visited each family’s residence for approximately two hours. During the visit, 
+
+mothers completed several questionnaires that tapped into the items included in the cumulative 
+
+risk index. Interviewers also made observations of the home environment. At T2, families were 
+
+again visited for about two hours. During this time, mothers were observed interacting with their 
+
+children in two separate tasks – an unstructured play period involving no toys, and a semi-
+
+structured task involving toys. These interactions served as the basis for measuring mothers’ 
+
+responsivity. At T2 children also participated in a variety of behavioural tasks designed to 
+
+measure different aspects of social cognition, as described below. These included joint attention, 
+
+empathy, cooperation, and self-recognition. 
+
+2.3  Measures 
+
+2.3.1  Cumulative Risk Index 
+
+The cumulative risk index was based on five contextual risks, all assessed at T1 (except for 
+
+marital status; see below). These risks have been shown in previous studies to predict negative 
+
+outcomes in children, and have also been used as a cumulative risk index in other studies from 
+
+this project (Meunier, Jenkins, Boyle, & O’Connor, 2011). Following previous studies (Whipple, 
+
+Evans, Barry, & Maxwell, 2010), the dichotomous classification of risk exposure was 
+determined by a statistical cut-off (e.g., 25th percentile) for the continuous variables and on the 
+
+basis of existing categories for the categorical and dichotomous variables. Risk for each 
+
+individual variable was assigned a value of 1; no risk was assigned a value of 0. The variables 
+
+included in the cumulative risk index were as follows (see Introduction for evidence of the 
+
+impact of these social risks on parenting and child outcomes). 
+
+ 
+ 
+
+ 
+
+2.3.1.1  Mothers’ educational level 
+
+10 
+
+Mothers reported on the number of years of education they completed, including secondary and 
+
+postsecondary education. The mean educational level was 15.41 years (SD = 2.66, range 8-22). 
+
+The selected cut-off was 12.98. 
+
+2.3.1.2  Maternal Depression 
+
+Mothers’ depressive symptomatology (hereafter referred to as ‘maternal depression’) was 
+
+assessed using the Center for Epidemiological Studies Depression Scale (CES-D, Radloff, 1977). 
+
+This is a self-report scale designed to assess depression in nonclinical populations. Respondents 
+
+rate the frequency of 20 depressive symptoms over the past week using a 4-point scale. The scale 
+
+showed high internal consistency (α = 0.84) and substantial stability (r = 0.53, p < 0.001) 
+
+between T1 and T2. The established cut-off was 12.07. 
+
+2.3.1.3  Maternal history of physical and sexual abuse 
+
+Mothers’ reported on their history of physical and sexual abuse using the Childhood Experience 
+
+of Violence Questionnaire (CEVQ, Walsh, MacMillan, Trocme, Jamieson, & Boyle, 2008). The 
+
+CEVQ measures mothers’ childhood exposure to violence. Since the CEVQ was initially 
+
+developed for youth between 12- to 18-years-old, we adapted the items for adults. The measure 
+
+shows good reliability and validity (Walsh, et al., 2008).  Physical abuse items included ‘how 
+
+many times before the age of 16 did an adult caregiver: (1) slap you on the face, head or ears, or 
+
+hit you with a hard object, such as a belt, stick, or wooden spoon; (2) push, grab, shove or throw 
+
+something at you to hurt you; and (3) kick, bite, punch, choke, burn you, or physically attack you 
+
+in some way’. Response options were ‘never’, ‘1 or 2 times’, ‘3 to 5 times’, ‘6 to 10 times’ and 
+
+‘more than 10 times’. Sexual abuse was assessed by two questions: 'Before age 16, were you 
+
+ever sexually assaulted or raped?’ If yes: ‘How many times did this happen?’ Since scales were 
+
+highly skewed with most mothers reporting no experiences of abuse, we recoded the scales to be 
+
+dichotomous by following the natural cut point of the distribution.  A cut-off of 2 was utilized for 
+
+physical abuse (representing 12.6% of the sample) and a cut off of 1 was used for sexual abuse 
+
+(9.3%). A report of physical and/or sexual abuse during childhood (18.8% of mothers) was coded 
+
+as ‘1’. 
+
+ 
+ 
+
+ 
+
+2.3.1.4  Organization and safety 
+
+11 
+
+Interviewers rated the quality of the home environment using an adapted version of the Home 
+
+Observation for Measurement of Environment scale (HOME, Bradley & Caldwell, 1981). The 
+
+original HOME scale combines both observer ratings and maternal reports of the environment. 
+
+The present study required only an observational rating, and thus only items rated by the 
+
+independent observer were included. In total, 12 items were rated by observers on a 3- or 4-point 
+
+scale. Preliminary factor analysis revealed two factors with eigenvalues greater than 1 that 
+
+explained 44% of the variance. Of the 12 items used in the present study, ten loaded above 0.4, 
+
+with no higher cross-loadings on another factor. A first factor (including 4 items) represented 
+
+organization, cleanliness, and safety of the physical environment. The second factor (including 6 
+
+items) reflected the amount of playing and learning tools available to the children. Only the 
+
+organization and safety construct was used in the present study because this variable was 
+
+believed to represent a risk that would compromise mothers’ provision of responsive parenting. 
+
+That is, this variable parallels a measure of household ‘chaos’ that is known to be associated with 
+
+negative parenting behaviours (Coldwell, Pike, & Dunn, 2006; Dumas, et al., 2005). Internal 
+
+consistency for the organization and safety measure was good (α = 0.79). Inter-rater reliability 
+
+was assessed on 20% of the sample, and agreement across raters was high (r ranged from 0.90 to 
+
+0.94). Finally, the correlation between T1 and T2 measures showed relatively high stability (r = 
+
+0.44, p < 0.001). 
+
+2.3.1.5  Family Type 
+
+In the current study, information about family structure was taken from the second assessment 
+
+period since there was more change in this risk than in others (i.e., family type status changed for 
+
+16 families: 3 two-parent to step families; 8 two-parent to lone-parent families; 1 step to lone-
+
+parent family; 4 lone-parent to step families). Family structure was coded into two-parents (0), 
+
+lone-parent or step families (1), which represented 11.5% of families. 
+
+2.3.1.6  Final Risk Index 
+
+The cumulative risk index thus ranged from 0 to 5. From the total sample, 42.3% presented no 
+
+risk (0), 31.2% presented one risk (1), 16.1% presented two risks (2), 10.3% presented three or 
+
+more risks (3-5). 
+
+ 
+ 
+
+ 
+
+2.3.2  Maternal Responsivity 
+
+12 
+
+Observational data were gathered at T2 on parent-child interactions during tasks that elicited a 
+
+range of behaviours from both members of the dyad, including an unstructured free play task, a 
+
+structured cooperative teaching task, and a wordless picture book task. Each task lasted five 
+
+minutes. Three domains of responsivity were coded using the Parent-Child Interaction System of 
+
+global ratings (PARCHISY, Deater-Deckard, Pylas, & Petrill, 1997) and the Coding of 
+
+Attachment Related Parenting (CARP, Matias, 2006). The sensitivity code (CARP) measured the 
+
+degree to which the parent responded to the child’s verbal and non-verbal signals, supported the 
+
+child's autonomy, showed warmth, and demonstrated an ability to see things from the child’s 
+
+point of view. Mutuality (CARP) is a dyadic code and is compatible with the concept of the 
+
+“goal-corrected partnership” (Bowlby, 1982). Mutuality was indexed by reciprocity in 
+
+conversation (e.g., a conversation that “goes somewhere” and is a genuine dialogue), affect 
+
+sharing, joint engagement in task, and open body posture. Positive control (PARCHISY) 
+
+captures the parents’ positive means of getting the child to do something that she wanted him or 
+
+her to do through the use of praise, open ended questions, rewards, and explanations. Each of 
+
+these three domains – sensitivity, mutuality, and positive control – was rated on a 7-point scale, 
+
+with higher scores indicating higher levels of that behaviour. A total of 10% of the interactions 
+
+were double-coded for reliability purposes. Inter-rater reliability was high (α = .940). These three 
+
+measures were used to create a latent variable that we have termed ‘maternal responsivity’. 
+
+2.3.3 
+
+Social Cognition 
+
+Children’s social cognition was assessed at T2 (children were 18-months-old) by measuring 
+
+several social-cognitive skills that represented different forms of intention understanding (see 
+
+Introduction). These skills were as follows: 
+
+2.3.3.1 
+
+Joint Attention 
+
+This was measured in terms of children’s ability to follow the gaze of an adult interviewer 
+
+(Carpenter, Nagell, et al., 1998), using a gaze-following task from the Early Social 
+
+Communication Scale (ESCS; Mundy, et al., 2003). The child sat with his or her mother across 
+
+from the experimenter. Four colourful pictures had been placed to the side (2) and behind the 
+
+child (2). The tester first ensured she had the attention of the child by calling the child’s name, 
+
+tapping the table, or gently touching the child. She then proceeded to point to the four posters in 
+
+ 
+ 
+
+13 
+
+ 
+
+a systematic order: tester’s Left, Left-Behind, Right, Right-Behind. The point consisted of the 
+
+tester turning her entire torso, visually orienting to a poster and keeping her elbow in contact 
+
+with body. During the pointing trial, if the child did not immediately redirect his or her attention 
+
+to the poster, the tester proceeded to say the child’s name three times. If the child still did not 
+
+redirect his or her attention, the tester paused before redirecting attention to the child. This task 
+
+was administered twice throughout the home visit, separated by another activity, for a total of 8 
+
+possible ‘respond-to-joint-attention’ (RJA) observations for each child. A trained coder viewed 
+
+videotapes and coded children’s ability to redirect attention to the focal object along a 4-point 
+
+scale. If the child immediately redirected attention to the poster after the tester’s point, the child 
+
+received a score of 4. If the child redirected attention after the tester said his or her name, the 
+
+child received a score of 3. If the child delayed redirection of attention until after the tester’s 
+
+point was finished, but before the next trial commenced, the child received a score of 2. If the 
+
+child failed to redirect attention to a poster, he or she received the lowest score of 1. Inter-rater 
+
+reliability of 11% of the videotapes was α = 0.94. A task analysis revealed significant mean 
+
+differences between side point (M = 3.90, SD = 0.27) and behind point (M = 3.30, SD = 0.91) 
+
+trials (t(279) = 11.77, p < 0.01), suggesting that following side points is a simple task for most 
+
+18-month olds. Furthermore, only behind points correlated significantly with children’s 
+
+concurrent vocabulary (r = .22, p < 0.01), indicating more robust construct validity for the 
+
+behind-points in the current sample. Thus, for each child, only the 4 observations of the behind 
+
+trials were used as the measure of RJA. Videotapes from 115 of the 358 children who were 
+
+administered the behind-point trials could not be coded due to non-administration, child 
+
+noncompliance, lack of visibility (e.g., child went off camera), mother intrusion (e.g., directing 
+
+her child’s attention), or tester administration error (e.g., not following standardized protocol). 
+
+2.3.3.2  Empathy 
+
+This was measured as the child’s responsiveness to the feigned distress of an adult interviewer. 
+
+At standard points during the home interview, the interviewer pretended to hurt her knee and 
+
+finger, as well as to drop and ostensibly break her favourite toy (at start of testing child met 
+
+‘Mickey’, a monkey magnetic toy, whose head is later knocked off accidently). Two coders 
+
+watched all empathy events and rated children on six statements based on their reaction to the 
+
+interviewer’s distress. A thin-slice coding method was used (Ambady, Bernieri, & Richeson, 
+
+2000; Ambady & Rosenthal, 1992), which is a global or impressionistic rating of the child’s 
+
+ 
+ 
+
+ 
+
+14 
+
+behaviour. This method has been used successfully in rating child behaviour (Prime, Perlman, 
+
+Tackett, & Jenkins, 2011). Based on the thin-slice methodology, coders are encouraged to make 
+
+general judgements about children using all available information from the empathy events, and 
+
+their final ratings are averaged to decrease the impact of a single observer’s judgment (Ambady, 
+
+et al., 2000). We used an adaptation of an empathy scale developed by Kochanska and 
+
+colleagues (Kochanska, DeVet, Goldman, Murray, & Putnam, 1994) on which to base our 
+
+ratings. Five items were removed from the scale because they referred to elicitors for which our 
+
+raters had no information (reactions to movie characters or animals being hurt). Items rated 
+
+included ‘Will try to comfort or reassure another in distress’; ‘Likely to offer toys or candy to 
+
+crying playmate even without parental suggestion’; ‘Can tell at just one glance how others are 
+
+feeling’; ‘Likely to ask what’s wrong when seeing someone in distress’; ‘Will feel sorry for other 
+
+people who are hurt sick or unhappy’; and ‘Is not likely to become upset if a playmate cries’. The 
+
+internal consistency was 0.978 for coder 1 and 0.956 for coder 2. Although inter-rater agreement 
+
+in thin-slice methodology is not normally reported, agreement between coders was high (α = 
+
+.824). 
+
+2.3.3.3  Cooperation 
+
+Children’s cooperation skills were measured with two previously developed cooperation tasks: 
+
+trampoline and double tube (Warneken, et al., 2006). These tasks assess the extent to which 
+
+children will cooperate with the tester towards a goal, requiring the child to change his/her 
+
+behaviour to succeed. In the trampoline task, the child was invited by the tester to help her make 
+
+a bear dance on a hand-held trampoline, and thus the child was required to replicate the same 
+
+behaviour as the tester. Discrete 10-second intervals were coded on a 5-point scale, up to a 
+
+maximum of 80 seconds. The scale ranged from 1 (no success/engagement) to 5 (high 
+
+engagement), and the mean of intervals was taken. In the double tubes tasks, the child was 
+
+invited to help the experimenter complete a sequence of actions in which she rolled a ball down 
+
+one of two tubes and asked the child to catch it at the bottom. In contrast to the trampoline task, 
+
+the child is required to engage in different but complementary behaviour to the tester to achieve 
+
+the goal. After one practice, each catch invitation was coded on a 5-point scale, with a maximum 
+
+of 8 trials coded. The scale ranged from 1 (no attempt) to 5 (complete success). A mean of each 
+
+child’s scores on the double tubes catch trials was derived. After each of the trampoline and 
+
+double tubes tasks were completed, coders rated a global cooperation score, or the overall extent 
+
+ 
+ 
+
+15 
+
+ 
+
+to which the child was cooperative and engaged with the tester. The global cooperation score 
+
+was coded along a 4-point scale (quartiles), based on percentage of the task the child was 
+
+cooperative. Finally, after tasks were completed, coders also provided a global rating of lack of 
+
+cooperation from ‘none’ (0) to ‘3 or more times’ (3); the items were reverse coded. Ten percent 
+
+of videotapes were double coded by independent coders and the mean inter-rater reliability 
+
+across all cooperation tasks was α = 0.86 (ranging from 0.68 to 0.96). All of the items loaded 
+
+significantly onto the same factor, explaining 47% of the variance, with item loadings ranging 
+
+from 0.54 to 0.76. A composite cooperation variable was constructed by taking the mean of the 
+
+tasks’ standardized scores. Internal consistency of the five items making up the composite was α 
+
+= 0.71. 
+
+2.3.3.4  Self-Recognition 
+
+During the cooperation task, the interviewer surreptitiously marked the child with a large 
+
+coloured sticker at the front of their head on the hair (so that they could not feel it being placed). 
+
+The child was then placed in front of a mirror and allowed to look at themselves for 30 seconds.  
+
+This was a dichotomous code. If the child demonstrated any self-directed behaviour (either 
+
+reaching for the sticker or verbally acknowledging its presence, with or without prompting), the 
+
+child received a score of 1. If the child did not recognize the sticker at all, they received a score 
+
+of 0. Thus, this score was a conservative estimate of the child’s ability to recognize him/herself 
+
+in the mirror. 
+
+2.3.4 
+
+Language 
+
+The MacArthur-Bates Communicative Development Inventories (CDI) was used at T2 to 
+
+measure children’s language ability (Fenson, et al., 1994). The CDI is a mother-reported measure 
+
+of children’s expressive vocabulary. Mothers report on both English and the child’s heritage 
+
+language, and we took the maximum score. Studies of the CDI have shown that it is a valid and 
+
+reliable measure for typically-developing children (Dale, 1991; Dale, Bates, Reznick, & 
+
+Morisset, 1989), children with language delays (Heilmann, Weismer, Evans, & Hollar, 2005), 
+
+and children who are older than the age range on which the CDI was normed, but who have 
+
+language skills paralleling the children in the norming range (Thal, O'Hanlon, Clemmons, & 
+
+Fralin, 1999). 
+
+ 
+ 
+
+ 
+
+2.4  Plan of Analysis 
+
+16 
+
+First, descriptive statistics and bivariate relationships among the measures were examined. 
+
+Although the primary distal predictor was a cumulative risk index, these indices can mask the 
+
+effects of single variables within the index. As a result, we have included all individual variables 
+
+that comprised the cumulative risk index in the tables and correlation matrix. We also included 
+
+all variables that were used as indicators of the social cognition construct and maternal 
+
+responsivity construct, even though these were unobserved latent variables in the main analysis.  
+
+The analysis was carried out using Mplus, version 6.1 (Muthén & Muthén, 2010). First, the 
+
+measurement model for social cognition was tested. Second, structural equation modelling 
+
+(SEM) was carried out to examine the hypothesized indirect effects, even though the direct effect 
+
+of cumulative risk to social cognition was not expected to be significant. This process – 
+
+examining the indirect effect of the predictor through the hypothesized mediator even when the 
+
+predictor-outcome association is not present – is advisable when the theoretical model suggests 
+
+such a mechanism (MacKinnon, Lockwood, Hoffman, West, & Sheets, 2002). Indirect effects 
+
+were tested using the delta method (Sobel, 1982), which is the default in Mplus 6.1. The delta 
+
+method calculates the standard error of the product of two variables, which can then be used to 
+
+determine the significance of the indirect path. This method is widely used in applied statistics 
+
+for obtaining approximate standard errors and confidence intervals of parameters in SEM 
+
+(Raykov & Marcoulides, 2004). We report standardized direct and specific indirect effects for 
+
+the structural model.  
+
+Full information maximum likelihood estimation (FIML) was utilized for all analyses. This 
+
+method offers significant improvements over traditional approaches for handling missing data 
+
+(Acock, 2005). For structural equation modelling, FIML has been shown to be superior to 
+
+listwise deletion, pairwise deletion, and imputation in terms of convergence, parameter bias, and 
+
+model fit (Enders & Bandalos, 2001). For the current study, maximum likelihood estimation with 
+
+robust standard errors (MLR) was chosen because it produces maximum likelihood parameter 
+
+estimates with standard errors and a chi-square statistic that are robust to non-normality and non-
+
+independence of the observations when missing data are present (Muthén & Muthén, 2010). 
+
+ 
+ 
+
+ 
+
+3  Results 
+
+3.1  Preliminary Analysis 
+
+17 
+
+The means and standard deviations of the measures and the bivariate correlations between the 
+
+measures are reported in Table 1. As expected, the cumulative risk index was significantly 
+
+associated with all measures of maternal responsivity in the expected direction. Moreover, all 
+
+three aspects of maternal responsivity were related to cooperation, self-recognition, and 
+
+language. Only mutuality was significantly associated with children’s joint attention abilities, 
+
+whereas none of the parenting measures were associated with children’s empathy. All of the 
+
+social-cognitive skills were significantly related to one another in the expected direction with the 
+
+exception of empathy and self-recognition, which were not significantly associated with one 
+
+another. 
+
+3.2  Testing the Measurement Model for Social Cognition 
+
+Confirmatory factor analysis (CFA) was used to examine the factor structure for the social 
+
+cognition and maternal responsivity latent variables. Before conducting the factor analysis, each 
+
+of the continuous indicators of social cognition (joint attention, empathy, and cooperation) was 
+
+screened for normality and outliers. Neither cooperation nor empathy exceeded the cutoff values 
+
+of 2 for skewness or 7 for kurtosis (West, Finch, & Curran, 1995). However, our joint attention 
+
+variable was negatively skewed (i.e. many children demonstrated high joint attention skills). This 
+
+finding was not surprising given that joint attention skills emerge around 9 months, and thus 
+
+many children would be expected to show this ability by 18 months. However, given the large 
+
+sample size of the current study, there was still sufficient variability in this indicator to include it 
+
+within the latent construct. Regarding the concern of non-normally distributed variables, it has 
+
+been shown that maximum likelihood (ML) methods show little bias in estimates of factor 
+
+loadings in confirmatory factor analysis (Benson & Fleishman, 1994), as well as estimates of 
+
+structural coefficients and indirect effect estimates in structural equation models (West, et al., 
+
+1995). Maximum likelihood estimation with robust standard errors (MLR) provides ML 
+2 test statistic that are robust to 
+
+parameter estimates with standard errors and an adjusted χ
+
+deviations from normality (Brown, 2006). These findings support our use of MLR for the CFA 
+
+and structural model without requiring variable transformation.
+
+ 
+ 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
+
+11. 
+
+12. 
+
+13. 
+
+14. 
+
+15. 
+
+18 
+
+N 
+
+ 
+
+500 
+
+397 
+
+397 
+
+493 
+
+388 
+
+395 
+
+397 
+
+ 
+
+372 
+
+372 
+
+372 
+
+ 
+
+317 
+
+322 
+
+364 
+
+325 
+
+366 
+
+M 
+
+ 
+
+SD 
+
+ 
+
+15.27 
+
+2.68 
+
+- 
+
+- 
+
+9.45 
+
+0.22 
+
+2.52 
+
+0.99 
+
+ 
+
+4.03 
+
+3.47 
+
+3.04 
+
+ 
+
+3.65 
+
+3.53 
+
+-0.59 
+
+0.40 
+
+0 
+
+- 
+
+- 
+
+7.29 
+
+0.48 
+
+0.59 
+
+1.12 
+
+ 
+
+0.92 
+
+0.90 
+
+0.90 
+
+ 
+
+0.50 
+
+1.10 
+
+0.63 
+
+0.49 
+
+0.99 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+.03 
+
+-.02 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.19** 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.23** 
+
+.32** 
+
+.16** 
+
+.17** 
+
+.19** 
+
+- 
+
+.13* 
+
+.11 
+
+.21** 
+
+.07 
+
+.23** 
+
+- 
+
+.19** 
+
+.15** 
+
+.14* 
+
+.16** 
+
+.20** 
+
+.18** 
+
+- 
+
+ 
+ 
+
+ 
+
+Measures 
+
+Distal Maternal Risk 
+
+1. Education Level 
+
+2. Step Family 
+
+3. Lone Parent 
+
+1. 
+
+ 
+
+- 
+
+-.21** 
+
+-.24** 
+
+ 
+
+ 
+
+- 
+
+- 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4. Maternal Depression 
+
+-.25** 
+
+.02 
+
+.16** 
+
+5. Maternal History of Abuse 
+
+-.13* 
+
+.19** 
+
+.18** 
+
+.18** 
+
+- 
+
+6. Organization/ Safety 
+
+.22** 
+
+-.09 
+
+-.15** 
+
+-.14** 
+
+-.22** 
+
+- 
+
+7. Cumulative Risk Index 
+
+-.53** 
+
+.35** 
+
+.42** 
+
+.52** 
+
+.57** 
+
+-.54** 
+
+Maternal Responsivity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8. Sensitivity 
+
+9. Mutuality 
+
+.25** 
+
+-.09 
+
+-.17** 
+
+-.13* 
+
+.21** 
+
+-.11* 
+
+-.18** 
+
+-.14** 
+
+ 
+
+-.07 
+
+-.04 
+
+.13* 
+
+-.22** 
+
+- 
+
+.15** 
+
+-.22** 
+
+.70** 
+
+- 
+
+10. Positive Control 
+
+.22** 
+
+-.07 
+
+-.16** 
+
+-.15** 
+
+-.12* 
+
+.18** 
+
+-.24** 
+
+.63** 
+
+.60** 
+
+Child Social Cognition 
+
+11. Joint Attention 
+
+12. Empathy 
+
+13. Cooperation 
+
+14. Self-Recognition 
+
+15. Language 
+
+ 
+
+-.09 
+
+.03 
+
+.06 
+
+.10 
+
+.02 
+
+ 
+
+-.00 
+
+.02 
+
+-.02 
+
+-.09 
+
+-.07 
+
+ 
+
+-.09 
+
+.04 
+
+-.05 
+
+.02 
+
+.06 
+
+ 
+
+-.03 
+
+.06 
+
+-.07 
+
+-.01 
+
+.04 
+
+ 
+
+.00 
+
+.05 
+
+-.03 
+
+.02 
+
+.05 
+
+ 
+
+-.04 
+
+.10 
+
+.10 
+
+.09 
+
+.08 
+
+ 
+
+-.02 
+
+-.04 
+
+-.09 
+
+-.08 
+
+-.00 
+
+ 
+
+.05 
+
+.02 
+
+ 
+
+.14* 
+
+.10 
+
+.11* 
+
+.11* 
+
+* p < .05. ** p < .01. 
+Table 1.  Correlations, mean scores, standard deviations, and number of participants for study variables 
+
+ 
+
+ 
+ 
+
+ 
+
+19 
+
+The social cognition latent factor was indicated by joint attention, empathy, cooperation, and 
+
+self-recognition; and the maternal responsivity factor was indicated by sensitivity, mutuality, and 
+
+positive control. As recommended by Cole and Maxwell (2003), these two latent factors were 
+
+allowed to correlate with one another in the measurement model. The measurement model fit the 
+
+data well: comparative fit index (CFI) = 0.97, Tucker-Lewis index (TLI) = 0.95, standardized 
+
+root-mean-square residual (SRMR) = 0.042, and root-mean-square-error of approximation 
+
+(RMSEA) = 0.058. The 90% confidence interval for RMSEA was [0.030, 0.086], and PCLOSE 
+
+(i.e. the probability that RMSEA ≤ 0.05) was 0.29. Hu and Bentler (1999) have recommended 
+
+goodness of fit cut-off values of 0.95 for CFI and TLI, 0.08 for SRMR, and 0.06 for RMSEA. 
+
+All of the abovementioned fit indices for the measurement model were either equal to or better 
+
+than these recommended cut-offs. Furthermore, all of the model-estimated loadings onto each 
+
+latent were positive and significant at the p < 0.001 level. For the social cognition latent, the 
+
+standardized regression coefficients for each of these loadings were 0.35 for joint attention, 0.28 
+
+for empathy, 0.64 for cooperation, and 0.40 for self-recognition. For the maternal responsivity 
+
+latent, the loadings were 0.85 for sensitivity, 0.83 for mutuality, and 0.73 for positive control (see 
+
+Figure 1). Thus, the test of the measurement model showed that the manifest variables related to 
+
+one another in the way we had hypothesized. 
+
+Figure 1. Measurement model for the social cognition and maternal responsivity latent constructs. For social 
+
+cognition, each of the indicators is a skill that indexes the ability to understand the independent experiences of 
+
+others, or the objectivity of oneself. Joint attention, empathy, and cooperation reflect different forms of intention 
+
+understanding. Each loading can be interpreted as a standardized regression coefficient. All loadings for each latent 
+
+were significant at the p < .001 level. 
+
+ 
+ 
+
+ 
+
+20 
+
+3.3  Testing the Proposed Indirect Paths – The Structural Model 
+
+The structural model was tested next. The hypothesized model fit the data well: CFI = 0.97, TLI 
+
+= 0.96, SRMR = 0.039, and RMSEA = 0.042. The 90% confidence interval for RMSEA was 
+
+[0.016, 0.065], and the PCLOSE value was 0.70. Since there was slight variability in children’s 
+
+age at T2, we also ran the model covarying age with social cognition. The model fit remained 
+
+acceptable for all indices.  
+
+Regarding the hypothesized indirect effects, the indirect effect of cumulative risk at T1 on social 
+
+cognition through maternal responsivity at T2 was significant (z = -3.07, p = 0.002). Thus, 
+
+cumulative risk is associated with lower maternal responsivity which is, in turn, related to lower 
+
+social-cognitive ability. Also, there was a significant indirect effect from cumulative risk to 
+
+maternal responsivity to social cognition that operated through children’s language at T2 (z = -
+
+2.32, p = 0.020). That is, cumulative risk was associated with lower responsivity, lower 
+
+responsivity was associated with less advanced language skills, and lower language was related 
+
+to poorer social cognition (see Figure 2). As hypothesized, there was no direct association 
+
+between cumulative risk at T1 and children’s social cognition at T2 (β = -0.059, p = 0.45). 
+
+Collectively, this means that the effect of cumulative risk on social cognition operated through 
+
+maternal responsivity, and that some of the effect of cumulative risk through maternal 
+
+responsivity operated via children’s language. 
+
+3.4  Secondary Analysis 
+
+As language and social cognition were measured concurrently in the present study, we examined 
+
+the possibility that the indirect effects reported above remained when language and social 
+
+cognition were reversed in the structural model – that is, contextual risk operated through social 
+
+cognition to affect child language. Fit indices were similar. Indeed, there was a significant 
+
+indirect effect of cumulative risk to maternal responsivity to language that operated through 
+
+social cognition (z = -2.56, p = 0.010). The indirect effect of cumulative risk to language through 
+
+responsivity (i.e. not going through social cognition) was not significant (z = -0.67, p = 0.505).
+
+ 
+ 
+
+21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 2. Hypothesized model on the relations between distal cumulative risk, maternal responsivity, child language, and social cognition at 18 months. Standardized 
+
+regression coefficients are presented atop each path line (standard errors are presented in brackets). Paths that are significant at the p < .001 are indicted by ***; all 
+
+other paths are not significant.
+
+ 
+ 
+
+ 
+
+4  Discussion 
+
+4.1 
+
+Interpretation of the Results 
+
+22 
+
+The current study was designed to investigate links between contextual adversity and children’s 
+
+early social cognition, which was operationalized as a set of commonly measured ‘skills’ that 
+
+reflect children’s understanding of intentionality at 18 months. First, it was shown that 
+
+cumulative social risk measured when children were newborns was indirectly associated with 
+
+their social cognition at 18 months through maternal responsivity. This is interesting considering 
+
+that some models of social-cognitive development have posited an innate, genetically-prescribed 
+
+mechanism that is responsible for children’s emergent understanding of others (Leslie, 1994). 
+
+However, these findings are consistent with the idea that interpersonal exchanges may scaffold 
+
+children’s understanding of mind – that is, social experience may shape children’s cognitions 
+
+(see Fernyhough, 2008). From this perspective, social cognition may actually be restructured by 
+
+the internalization of multiple perspectives that are derived from interactions with others 
+
+(Tomasello, et al., 2005).  
+
+Primary among those interactions early in life are the ones that occur with caregivers. The 
+
+current results suggest that when parents are responsive to their child’s needs, facilitate 
+
+engagement in activities, and provide explanations and questions during social exchanges, they 
+
+may actually be offering the alternative orientations toward reality which are important for the 
+
+internal reconstruction of cognition that promotes the representation of mental states. At the 
+
+same time, parents differ in their parenting behaviours based on an array of social circumstances. 
+
+Mothers who were abused as children (Banyard, 1997; Silvern, 1994), are single (Martinez Jr & 
+
+Forgatch, 2002), have low education (Brody & Flor, 1998), suffer from depression (Lovejoy, 
+
+Graczyk, O'Hare, & Neuman, 2000), and whose home environments are chaotic and 
+
+disorganized (Dumas, et al., 2005) are more likely to provide negative forms of care. Indeed, 
+
+many of these distal risks co-occur with one another. Bronfenbrenner’s ecological perspective of 
+
+development urges the use of process-oriented research that identifies relationships between 
+
+these distal ecological factors, proximal processes, and child outcomes (Bronfenbrenner & 
+
+Morris, 2006). In line with this view, the current study is the first to show that an accumulation 
+
+of social risks compromises mothers’ ability to provide sensitive and responsive care to her child 
+
+which, in turn, adversely affects social-cognitive skill development at 18 months. These results 
+
+ 
+ 
+
+ 
+
+23 
+
+are consistent with the notion that it is the extent of disadvantage, rather than exposure to 
+
+individual risks, that is detrimental to children’s outcomes (Dong, et al., 2004; Trentacosta, et al., 
+
+2008).  
+
+It is important to discuss the elements of parenting measured in the current study and speculate 
+
+on how those behaviours might foster children’s social cognition. The components of 
+
+responsivity in the current study were sensitivity, mutuality, and positive control. All of these 
+
+dimensions of parenting made contributions to the responsivity latent construct, and each was 
+
+associated with the cumulative risk index. Thus, it appears that distal social risk impacts multiple 
+
+dimensions of parenting behaviour, and these behaviours are in turn predictive of children’s 
+
+social cognition at 18 months. However, each component of parenting likely has differential yet 
+
+complementary effects on social-cognitive development. For instance, elements of sensitivity in 
+
+the present study included responsiveness to the child’s verbal/non-verbal signals and maternal 
+
+warmth. These behaviours may promote the child’s motivation to take part in social interactions 
+
+with others owing to the support and reinforcement that comes from such exchanges. Indeed, 
+
+higher levels of maternal warmth have been shown to predict lower child negativity and more 
+
+child engagement (Ispa, et al., 2004). When children are more engaged, other elements of 
+
+sensitivity such as child mindedness (an awareness of their child’s internal mental states), 
+
+facilitation, and autonomy-promotion can then provide the alternative perspectives that enhance 
+
+social cognition. For example, when a mother facilitates her child by offering an alternative 
+
+solution to a problem, or when she encourages her child to try different strategies, she is 
+
+providing ideas that the child may not have realized on their own. The same is true for positive 
+
+control, which consists of giving praise, explanation, and asking open-ended questions. For 
+
+instance, asking the child how they would like to begin a task suggests that there may be more 
+
+than one way to start – a situation that promotes consideration of more than one perspective. 
+
+Likewise, providing an explanation for a problem may expose the child to a level of reasoning 
+
+that they could not achieve on their own. It is the cognitive challenge and opportunity to 
+
+experience these different perspectives that facilitates children’s representational thinking and 
+
+social cognition early in life (Fernyhough, 2008).  
+
+The third dimension of responsivity measured in the current study was mutuality, a dyadic code 
+
+that indexes the quality of interaction and reciprocity between mother and child. Mutuality 
+
+included elements of parenting such as shared attention and affect, imitation, turn-taking, fluid 
+
+ 
+ 
+
+ 
+
+24 
+
+conversation, and coordinated body orientation. How does mutuality promote children’s social 
+
+cognition? It may be that mutual interactions enhance the internalization of interpersonal 
+
+experience. For example, Kochanska, Forman, Aksan, and Dunbar (2005) provide evidence for 
+
+the idea that a mutually responsive orientation between a mother and her child augments the 
+
+internalization of moral conduct and cognition, and this process is mediated by processes such as 
+
+the child’s enjoyment in the interaction. Together, these results suggest that different types of 
+
+parenting behaviours come as a package, each making important (though perhaps different) 
+
+contributions to children’s social-cognitive development. There may also be complex and inter-
+
+related pathways through which different dimensions of responsivity facilitate children’s social 
+
+cognition. For instance, it has been shown that elements of sensitivity such as warmth and 
+
+responsiveness predict higher dyadic mutuality in the second year (Ispa, et al., 2004).  Examining 
+
+the precise ways in which various parenting behaviours operate in the prediction of social 
+
+cognition is an area that deserves attention in future research.  
+
+Another finding of the present study is that the effect of adversity on social cognition operated 
+
+through children’s concomitant language ability. That is, cumulative risk influenced parenting, 
+
+which in turn was associated with social cognition at 18 months, both directly and indirectly 
+
+through children’s language skills. This result is consistent with the Vygotskian concept of 
+
+semiotic mediation, in which psychological tools such as language augment children’s ability to 
+
+represent and reason about the mental states of others (Nelson, 2005; Vygotsky, 1997). It is also 
+
+consistent with the proposal that social cognition depends on language acquisition and social 
+
+experience (Garfield, Peterson, & Perry, 2001), and the idea that internalization of dialogue 
+
+involves the accommodation of multiple perspectives that facilitate social understanding 
+
+(Fernyhough, 2008). Thus, children who have acquired the capacity for internalized dialogues 
+
+are able to understand a range of differing epistemic, affective, and conative perspectives. This 
+
+would manifest as improvements in the social-cognitive skills that rely on these forms of 
+
+intention understanding (i.e. joint attention, empathy, and cooperation). From Fernyhough’s 
+
+(2008) standpoint, this does not mean that children as young as 18 months are capable of 
+
+reflectively considering multiple perspectives involved in internal dialogue; but rather that 
+
+emergent language faculties allow for partially internalized dialogues that precede a full-fledged 
+
+understanding of mind. As language develops, the capacity to construct internal dialogues is 
+
+enhanced, thus leading to more sophisticated forms of social understanding.  
+
+ 
+ 
+
+ 
+
+25 
+
+To build on these ideas, the present study suggests that maternal responsivity may enhance the 
+
+language skills which allow children to internalize the various perspectives that derive from 
+
+those social interactions. Importantly, however, the effect of cumulative risk to social cognition 
+
+through maternal responsivity did not operate exclusively through children’s language. This 
+
+means that there is a unique component of maternal responsivity involving sensitivity, mutuality, 
+
+and positive control that is associated with social cognition. This component may simply entail 
+
+the opportunity to experience alternative perspectives and orientations, or it may involve some 
+
+other mechanism, such as improving attachment security or mother-child attunement (Meins, 
+
+2004). Future studies would benefit from conducting a more systematic examination of how 
+
+aspects of parenting facilitate social cognition. Nevertheless, the results presented herein suggest 
+
+that part of the influence of parenting on social cognition is its ability to foster early language 
+
+skills, which may in turn accelerate the internalization of social experience. 
+
+One issue that requires elaboration is the relationship between social cognition and child 
+
+language at 18 months. In the current study it was shown that there was an indirect path from 
+
+cumulative risk to maternal sensitivity to language, which was then related to social cognition. 
+
+These results are consistent with literature outlining the causal association between language and 
+
+theory of mind ability (see Astington & Baird, 2005). However, in the present study social 
+
+cognition and language were measured concurrently at 18 months, and therefore we cannot 
+
+discuss the casual influence of language on social cognition or vice versa. Indeed, it is possible 
+
+that the ability to engage in dialogue is itself dependent on some social-cognitive capacities. For 
+
+example, Morales and colleagues (2000) have shown that infants’ joint attentional abilities at 6 
+
+months are positively related to their expressive vocabulary at 18 months. This finding parallels 
+
+the proposition that the social-cognitive skills that underlie language development may 
+
+themselves rely on it (Tomasello, et al., 2005). As shown in our secondary analysis, reversing 
+
+language and social cognition in the structural model revealed that maternal responsivity also 
+
+affected language through social cognition. Thus, early-emerging forms of social cognition 
+
+appear to impact language development, and language provides the psychological tools required 
+
+for the internalization of social experience that advances social cognition. These results speak to 
+
+interdependent development of language and social cognition from infancy through the school-
+
+age years (Astington, 2006). 
+
+ 
+ 
+
+ 
+
+4.2  Limitations and Future Directions 
+
+26 
+
+One difficulty in interpreting the present result concerns inferences of causality. The optimal way 
+
+of addressing causal influences is by measuring all constructs over time and examining cross-
+
+lags. This was not possible in the present study since both maternal responsivity and social 
+
+cognition were necessarily measured at the same time point. Specifically, we chose to examine 
+
+social cognition and language at 18 months, which is the earliest stage at which these constructs 
+
+can be reasonably measured (see above and Baldwin & Moses, 1994). As a result, it is not 
+
+possible to measure the effect of contextual adversity on social cognition (and language) after 
+
+controlling for earlier levels of these abilities, as these abilities are not reliably observable prior 
+
+to this age. This left us with the necessary but not sufficient condition of measuring cumulative 
+
+risk at a time that preceded the emergence of maternal responsivity and the child’s social-
+
+cognitive skills.    
+
+Finally, we have proposed that social cognition at 18 months be described in terms of children’s 
+
+capacity for understanding intentionality, which promotes engagement in shared social activities. 
+
+However, we did not assess intention understanding using typical methods, such as imitation 
+
+tasks where infants mimic accidental or intentional actions (e.g. Meltzoff, 1995), or habituation 
+
+tasks that assess infant looking times (e.g. Csibra, Gergely, Biro, Koos, & Brockbank, 1999)). 
+
+Instead, we opted to measure a collection of social-cognitive skills that we believe reflect this 
+
+underlying ability. We believe this approach has two advantages. First, examining multiple child 
+
+behaviours simultaneously afforded us more power to measure various types of intention 
+
+understanding, as outlined by Moore (2007); and second, these skills represent real social 
+
+behaviours that have a bearing on children’s interpersonal relationships and psychosocial health. 
+
+Supporting this approach, there is evidence that each of the social-cognitive behaviours measured 
+
+in the current study shares an underlying neural architecture that includes the paracingulate and 
+
+orbitofrontal cotex (Kircher, et al., 2001; McCabe, Houser, Ryan, Smith, & Trouard, 2001; 
+
+Vollm, et al., 2006; Williams, Waiter, Perra, Perrett, & Whiten, 2005). Consistent with the view 
+
+that these social-cognitive skills represent an ability to understand and engage in intentional 
+
+relations with others, Walter et al. (2004) showed that this same neural system is involved in 
+
+understanding intentions during social interactions. Thus, we believe that the behaviours we 
+
+chose to represent intention understanding sufficiently indexed that ability in our sample of 18-
+
+month-old children.  
+
+ 
+ 
+
+ 
+
+27 
+
+One area of research that is generating considerable interest is whether there are continuities in 
+
+social cognition from infancy through childhood. For example, both action understanding at 6 
+
+months and putative intention understanding at 12 months have been linked to theory of mind 
+
+ability when children are 4-years-old (Aschersleben, Hofer, & Jovanovic, 2008; Wellman, 
+
+Lopez-Duran, LaBounty, & Hamilton, 2008). Perhaps unsurprisingly, the same neural system 
+
+involved in basic intention understanding (i.e. the paracingulate cortex) has also been linked to 
+
+theory of mind ability (Gallagher & Frith, 2003). These findings are consistent with the notion 
+
+that early forms of intention understanding may help shape the development of more advanced 
+
+forms of social cognition later in childhood (Carpenter, Akhtar, & Tomasello, 1998; Tomasello, 
+
+et al., 2005). Given the results of the present investigation, future studies would benefit from 
+
+examining the relationship between specific, observable social-cognitive skills and later theory 
+
+of mind abilities (e.g. Charman, et al., 2000). If, in fact, these intention-related skills are related 
+
+to further social-cognitive growth, then early efforts to promote skill development in these areas 
+
+may prove effective in mitigating the adverse effects of poor social cognition on child adjustment 
+
+(Hughes & Lecce, 2010). Indeed, one potential target for intervention and social policy may be 
+
+to support mothers who are less responsive to their infants in order to help them build the social 
+
+cognitive skills that are essential for children’s psychosocial health. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+28 
+
+References 
+
+Acock, A. C. (2005). Working with missing values. Journal of Marriage and Family, 67(4), 
+
+1012-1028. 
+
+Amato, P. R. (2001). Children of Divorce in the 1990s: An Update of the Amato and Keith 
+
+(1991) meta-analysis. Journal of Family Psychology, 15, 355-370. 
+
+Ambady, N., Bernieri, F. J., & Richeson, J. A. (2000). Toward a histology of social behavior: 
+
+Judgmental accuracy from thin slices of the behavioral stream. Advances in experimental 
+social psychology, 32, 201-271. 
+
+Ambady, N., & Rosenthal, R. (1992). Thin slices of expressive behavior as predictors of 
+interpersonal consequences: A meta-analysis. Psychological bulletin, 111(2), 256. 
+
+Aschersleben, G., Hofer, T., & Jovanovic, B. (2008). The link between infant attention to goal-
+directed action and later theory of mind abilities. Developmental Science, 11(6), 862-868. 
+
+Astington, J. W. (2003). False-Belief Understanding and Social Competence. Individual 
+
+differences in theory of mind: Implications for typical and atypical development, 14. 
+
+Astington, J. W. (2006). The developmental interdependence of theory of mind and language. 
+
+Roots of human sociality, 179-206. 
+
+Astington, J. W., & Baird, J. A. (2005). Why language matters for theory of mind: Oxford 
+
+University Press, USA. 
+
+Astington, J. W., & Jenkins, J. M. (1999). A longitudinal study of the relation between language 
+
+and theory of mind development. Developmental Psychology,, 35, 1311-1320. 
+
+Ayoub, C., O'Connor, E., Rappolt-Schlictmann, G., Vallotton, C., Raikes, H., & Chazan-Cohen, 
+
+R. (2009). Cognitive skill performance among young children living in poverty: Risk, 
+change, and the promotive effects of Early Head Start. Early Childhood Research 
+Quarterly, 24(3), 289-305. 
+
+Bailey, H. N., DeOliveira, C. A., Wolfe, V. V., Evans, E. M., & Hartwick, C. (2012). The impact 
+
+of childhood maltreatment history on parenting: A comparison of maltreatment types and 
+assessment methods. Child Abuse & Neglect. 
+
+Baillargeon, R., Scott, R. M., & He, Z. (2010). False-belief understanding in infants. Trends in 
+
+Cognitive Sciences, 14(3), 110-118. 
+
+Baldwin, D. A., & Moses, L. J. (1994). Early understanding of referential intent and attentional 
+
+focus: Evidence from language and emotion. Children's early understanding of mind: 
+Origins and development, 133-156. 
+
+Banyard, V. L. (1997). The impact of childhood sexual abuse and family functioning on four 
+
+dimensions of women's later parenting. Child Abuse & Neglect, 21(11), 1095-1107. 
+
+ 
+ 
+
+ 
+
+29 
+
+Baron-Cohen, S. (1989). The autistic child's theory of mind: A case of specific developmental 
+
+delay. Journal of Child Psychology and Psychiatry, 30(2), 285-297. 
+
+Baron-Cohen, S. (1997). How to build a baby that can read minds: Cognitive mechanisms in 
+
+mindreading. The maladapted mind, 207-239. 
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a theory of 
+
+mind? Cognition, 21, 37-46. 
+
+Barresi, J., & Moore, C. (1996). Intentional relations and social understanding. Behavioral and 
+
+brain sciences, 19(01), 107-122. 
+
+Benson, J., & Fleishman, J. A. (1994). The robustness of maximum likelihood and distribution-
+
+free estimators to non-normality in confirmatory factor analysis. Quality & quantity, 28(2), 
+117-136. 
+
+Bernier, A., Carlson, S. M., & Whipple, N. (2010). From External Regulation to Self-Regulation: 
+
+Early Parenting Precursors of Young Children's Executive Functioning. Child 
+Development, 81(1), 326-339. 
+
+Bowlby, J. (1982). Attachment and loss: Retrospect and prospect. American Journal of 
+
+Orthopsychiatry, 52(4), 664-678. 
+
+Bradley, R. H., & Caldwell, B. M. (1981). Home environment and infant social behaviour. Infant 
+
+Mental Health Journal, 2, 18-22. 
+
+Bradley, R. H., & Corwyn, R. F. (2002). Socioeconomic Status and Child Development. Annu. 
+
+Rev. Psychol., 235-309. 
+
+Brody, G. H., & Flor, D. L. (1998). Maternal resources, parenting practices, and child 
+
+competence in rural, single-parent African American families. Child Development, 69(3), 
+803-816. 
+
+Bronfenbrenner, U. (1979). The ecology of human development: Experiments by nature and 
+
+design: Harvard Univ Pr. 
+
+Bronfenbrenner, U., & Morris, P. A. (2006). The bioecological model of human development. 
+
+Handbook of child psychology. 
+
+Brown, T. A. (2006). Confirmatory factor analysis for applied research: The Guilford Press. 
+
+Brownell, C. A., & Carriger, M. S. (1990). Changes in Cooperation and Self-Other 
+
+Differentiation during the Second Year. Child Development, 61(4), 1164-1174. 
+
+Brownell, C. A., Zerwas, S., & Ramani, G. B. (2007). "So Big": The Development of Body Self-
+
+Awareness in Toddlers. Child Development, 78(5), 1426-1440. 
+
+Burchinal, M., Vernon-Feagans, L., Cox, M., & Investigators, K. F. L. P. (2008). Cumulative 
+
+social risk, parenting, and infant development in rural low-income communities. Parenting: 
+Science and Practice, 8(1), 41-69. 
+
+ 
+ 
+
+30 
+
+ 
+
+Burchinal, M. R., Roberts, J. E., Zeisel, S. A., & Rowley, S. J. (2008). Social risk and protective 
+
+factors for African American children's academic achievement and adjustment during the 
+transition to middle school. Developmental psychology, 44(1), 286. 
+
+Cabrera, N. J., Fagan, J., Wight, V., & Schadler, C. (2011). Influence of Mother, Father, and 
+
+Child Risk on Parenting and Children's Cognitive and Social Behaviors. Child 
+Development. 
+
+Carpenter, M., Akhtar, N., & Tomasello, M. (1998). Fourteen-through 18-month-old infants 
+
+differentially imitate intentional and accidental actions. Infant Behavior and Development, 
+21(2), 315-330. 
+
+Carpenter, M., Call, J., & Tomasello, M. (2005). Twelve- and 18-month olds copy actions in 
+
+terms of goals. Developmental Science, 8(1), F13-F20. 
+
+Carpenter, M., Nagell, K., & Tomasello, M. (1998). Social cognition, joint attention, and 
+
+communicative competence from 9 to 15 months of age. Monographs of the Society for 
+Research in Child Development., 63 (4). 
+
+Charman, T., Baron-Cohen, S., Swettenham, J., Baird, G., Cox, A., & Drew, A. (2000). Testing 
+
+joint attention, imitation, and play as infancy precursors to language and theory of mind. 
+Cognitive Development, 15(4), 481-498. 
+
+Coldwell, J., Pike, A., & Dunn, J. (2006). Household chaos-links with parenting and child 
+
+behaviour. Journal of Child Psychology and Psychiatry, 47(11), 1116-1122. 
+
+Cole, D. A., & Maxwell, S. E. (2003). Testing mediational models with longitudinal data: 
+
+questions and tips in the use of structural equation modeling. Journal of Abnormal 
+Psychology, 112(4), 558. 
+
+Csibra, G., Gergely, G., Biro, S., Koos, O., & Brockbank, M. (1999). Goal attribution without 
+
+agency cues: the perception of [] pure reason'in infancy. Cognition, 72(3), 237-267. 
+
+Cutting, A. L., & Dunn, J. (1999). Theory of mind, emotion understanding, language and family 
+
+background: Individual differences and interrelations. Child Development, 70, 853-865. 
+
+Dale, P. S. (1991). The validity of a parent report measure of vocabulary and syntax at 24 
+
+months. Journal of speech and hearing research, 34(3), 565. 
+
+Dale, P. S., Bates, E., Reznick, J. S., & Morisset, C. (1989). The validity of a parent report 
+
+instrument of child language at twenty months. Journal of child language, 16(2), 239-249. 
+
+Deater-Deckard, K., Pylas, M., & Petrill, S. (1997). The Parent-child interaction system 
+
+(PARCHISY). London: Institute of Psychiatry. 
+
+Dong, M., Anda, R. F., Felitti, V. J., Dube, S. R., Williamson, D. F., Thompson, T. J., et al. 
+
+(2004). The interrelatedness of multiple forms of childhood abuse, neglect, and household 
+dysfunction. Child Abuse & Neglect, 28(7), 771-784. 
+
+ 
+ 
+
+ 
+
+31 
+
+Dumas, J. E., Nissley, J., Nordstrom, A., Smith, E. P., Prinz, R. J., & Levine, D. W. (2005). 
+
+Home chaos: Sociodemographic, parenting, interactional, and child correlates. Journal of 
+Clinical Child and Adolescent Psychology, 34(1), 93-104. 
+
+Dunn, J., & Cutting, A. L. (1999). Understanding others, and individual differences in friendship 
+
+interactions in young children. Social Development, 8(2), 201-219. 
+
+Enders, C. K., & Bandalos, D. L. (2001). The relative performance of full information maximum 
+
+likelihood estimation for missing data in structural equation models. Structural Equation 
+Modeling, 8(3), 430-457. 
+
+Ereky-Stevens, K. (2008). Associations between mothers' sensitivity to their infants' internal 
+
+states and children's later understanding of mind and emotion. Infant and Child 
+Development, 17(5), 527-543. 
+
+Fenson, L., Dale, P. S., Reznick, J. S., Bates, E., Thal, D. J., Pethick, S. J., et al. (1994). 
+
+Variability in early communicative development. Monographs of the society for research in 
+child development. 
+
+Fernyhough, C. (2008). Getting Vygotskian about theory of mind: Mediation, dialogue, and the 
+
+development of social understanding. Developmental Review, 28(2), 225-262. 
+
+Flouri, E., & Kallis, C. (2007). Adverse life events and psychopathology and prosocial behavior 
+in late adolescence: testing the timing, specificity, accumulation, gradient, and moderation 
+of contextual risk. Journal American Academy Child and Adolescent Psychiatry, 46, 1651-
+1659. 
+
+Fonagy, P., Steele, M., Steele, H., Moran, G. S., & Higgitt, A. C. (1991). The capacity for 
+
+understanding mental states: The reflective self in parent and child and its significance for 
+security of attachment. Infant mental health journal, 12(3), 201-218. 
+
+Gaffan, E. A., Martins, C., Healy, S., & Murray, L. (2010). Early social experience and 
+
+individual differences in infants' joint attention. Social Development, 19(2), 369-393. 
+
+Gallagher, H. L., & Frith, C. D. (2003). Functional imaging of [] theory of mind'. Trends in 
+
+Cognitive Sciences, 7(2), 77-83. 
+
+Garfield, J. L., Peterson, C. C., & Perry, T. (2001). Social cognition, language acquisition and the 
+
+development of the theory of mind. Mind & Language, 16(5), 494-541. 
+
+Gergely, G., Nádasdy, Z., Csibra, G., & Bíró, S. (1995). Taking the intentional stance at 12 
+
+months of age. Cognition, 56(2), 165-193. 
+
+Hale, C. M., & Tager-Flusberg, H. (2003). The influence of language on theory of mind: A 
+
+training study. Developmental Science, 6(3), 346-359. 
+
+Heilmann, J., Weismer, S. E., Evans, J., & Hollar, C. (2005). Utility of the MacArthur--Bates 
+
+Communicative Development Inventory in Identifying Language Abilities of Late-Talking 
+
+ 
+ 
+
+32 
+
+ 
+
+and Typically Developing Toddlers. American Journal of Speech-Language Pathology, 
+14(1), 40. 
+
+Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance structure analysis: 
+
+Conventional criteria versus new alternatives. Structural Equation Modeling: A 
+Multidisciplinary Journal, 6(1), 1-55. 
+
+Hughes, C., Deater-Deckard, K., & Cutting, A. L. (1999). 'Speak roughly to your little boy'? Sex 
+Differences in the Relations Between Parenting and Preschoolers' Understanding of Mind. 
+Social Development, 8(2), 143-160. 
+
+Hughes, C., & Ensor, R. (2006). Behavioural problems in 2 year olds: links with individual 
+
+differences in theory of mind, executive function and harsh parenting. Journal of Child 
+Psychology and Psychiatry, 47(5), 488-497. 
+
+Hughes, C., Jaffee, S. R., Happe, F., Taylor, A., Caspi, A., & Moffitt, T. E. (2005). Origins of 
+
+individual differences in theory of mind: From nature to nurture? Child Development, 
+76(2), 356-370. 
+
+Hughes, C., & Lecce, S. (2010). Early Social Cognition. Encyclopedia on Early Childhood 
+
+Development, 1-6. 
+
+Ispa, J. M., Fine, M. A., Halgunseth, L. C., Harper, S., Robinson, J. A., Boyce, L., et al. (2004). 
+Maternal Intrusiveness, Maternal Warmth, and Motherâ€“Toddler Relationship Outcomes: 
+Variations Across Lowâ  € Income Ethnic and Acculturation Groups. Child Development, 
+75(6), 1613-1631. 
+
+Jenkins, J. M., & Astington, J. W. (1996). Cognitive factors and family structure associated with 
+
+theory of mind development in young children. Developmental Psychology, 32, 70-78. 
+
+Keller, H., Kärtner, J., Borke, J., Yovsi, R., & Kleis, A. (2005). Parenting styles and the 
+
+development of the categorical self: A longitudinal study on mirror self-recognition in 
+Cameroonian Nso and German families. International Journal of Behavioral Development, 
+29(6), 496-504. 
+
+Kiang, L., Moreno, A. J., & Robinson, J. A. L. (2004). Maternal preconceptions about parenting 
+
+predict child temperament, maternal sensitivity, and children's empathy. Developmental 
+psychology, 40(6), 1081. 
+
+Kircher, T. T. J., Senior, C., Phillips, M. L., Rabe-Hesketh, S., Benson, P. J., Bullmore, E. T., et 
+
+al. (2001). Recognizing one's own face. Cognition, 78(1), B1-B15. 
+
+Kochanska, G., DeVet, K., Goldman, M., Murray, K., & Putnam, S. P. (1994). Maternal reports 
+of conscience development and temperament in young children. Child Development, 65(3), 
+852-868. 
+
+Kochanska, G., Forman, D. R., Aksan, N., & Dunbar, S. B. (2005). Pathways to conscience: 
+
+Early motherâ€“child mutually responsive orientation and children's moral emotion, 
+conduct, and cognition. Journal of Child Psychology and Psychiatry, 46(1), 19-34. 
+
+ 
+ 
+
+ 
+
+33 
+
+Laranjo, J., Bernier, A., Meins, E., & Carlson, S. M. (2010). Early Manifestations of Children's 
+
+Theory of Mind: The Roles of Maternal Mind-Mindedness and Infant Security of 
+Attachment. Infancy, 15(3), 300-323. 
+
+Lengua, L. J., Honorado, E., & Bush, N. R. (2007). Contextual risk and parenting as predictors of 
+
+effortful control and social competence in preschool children. Journal of Applied 
+Developmental Psychology, 28(1), 40-55. 
+
+Leslie, A. M. (1994). Pretending and believing: Issues in the theory of ToMM. Cognition, 50(1-
+
+3), 211-238. 
+
+Lewis, M., Sullivan, M. W., Stanger, C., & Weiss, M. (1989). Self Development and self-
+
+conscious emotions. Child Development, 60, 146-156. 
+
+Lovejoy, M. C., Graczyk, P. A., O'Hare, E., & Neuman, G. (2000). Maternal depression and 
+parenting behavior* 1:: A meta-analytic review. Clinical psychology review, 20(5), 561-
+592. 
+
+Lucariello, J. M., Durand, T. M., & Yarnell, L. (2007). Social versus intrapersonal ToM: Social 
+
+ToM is a cognitive strength for low-and middle-SES children. Journal of Applied 
+Developmental Psychology, 28(4), 285-297. 
+
+MacKinnon, D. P., Fairchild, A. J., & Fritz, M. S. (2007). Mediation analysis. Annual review of 
+
+psychology, 58, 593. 
+
+MacKinnon, D. P., Lockwood, C. M., Hoffman, J. M., West, S. G., & Sheets, V. (2002). A 
+
+comparison of methods to test mediation and other intervening variable effects. 
+Psychological methods, 7(1), 83. 
+
+Martinez Jr, C. R., & Forgatch, M. S. (2002). Adjusting to change: Linking family structure 
+
+transitions with parenting and boys' adjustment. Journal of Family Psychology, 16(2), 107. 
+
+Matias, C., Scott, S., & O’Connor, T. G. (2006). Coding of Attachment-Related Parenting 
+
+(CARP). 
+
+McCabe, K., Houser, D., Ryan, L., Smith, V., & Trouard, T. (2001). A functional imaging study 
+of cooperation in two-person reciprocal exchange. Proceedings of the National Academy of 
+Sciences, 98(20), 11832. 
+
+Meins, E., Fernyhough, C., Russell, J., & Clark-Carter, D. (1998). Security of attachment as a 
+
+predictor of symbolic and mentalising abilities: A longitudinal study. Social Development, 
+7(1), 1-24. 
+
+Meins, E., Fernyhough, C., Wainwright, R., Das Gupta, M., Fradley, E., & Tuckey, M. (2002). 
+
+Maternal mind-mindedness and attachment security as predictors of theory of mind 
+understanding. Child Development, 73(6), 1715-1726. 
+
+Meltzoff, A. N. (1995). Understanding the intentions of others: Re-enactment of intended acts by 
+
+18-month-old children. Developmental psychology, 31(5), 838. 
+
+ 
+ 
+
+ 
+
+34 
+
+Meltzoff, A. N., Gopnik, A., & Repacholi, B. M. (1999). Toddlers' understanding of intentions, 
+
+desires and emotions: Explorations of the dark ages. 
+
+Meunier, J. C., Jenkins, J. M., Boyle, M. H., & O’Connor, T. G. (2011). Multilevel mediation: 
+Contextual risks, maternal differential treatment and children’s behaviour within families. 
+Revise and resubmit: Child Development. 
+
+Moore, C. (2007). Understanding self and others in the second year. Socioemotional development 
+
+in the toddler years: Transitions and transformations, 43-65. 
+
+Morales, M., Mundy, P., Delgado, C. E. F., Yale, M., Messinger, D., Neal, R., et al. (2000). 
+
+Responding to joint attention across the 6-through 24-month age period and early language 
+acquisition. Journal of Applied Developmental Psychology, 21(3), 283-298. 
+
+Mumme, D. L., Fernald, A., & Herrera, C. (1996). Infants' responses to facial and vocal 
+
+emotional signals in a social referencing paradigm. Child Development, 67(6), 3219-3237. 
+
+Mundy, P., Delgado, C., Block, J., Venezia, M., Hogan, A., & Seibert, J. (2003). Early Social 
+
+Communikation Scales (ESCS). Coral Gables, FL: University of Miami. 
+
+Muthén, B., & Muthén, L. (2010). Mplus (Version 6). Los Angeles, CA: Author. 
+
+Nelson, K. (2005). Language pathways into the community of minds. Why language matters for 
+
+theory of mind, 26-49. 
+
+NICHD (1999). Chronicity of Maternal Depressive Symptoms, Maternal Sensitivity, and Child 
+
+Functioning at 36 Months. Developmental  Psychology, 35(5), 1297-1310. 
+
+Nielsen, M., & Dissanayake, C. (2004). Pretend play, mirror self-recognition and imitation: A 
+
+longitudinal investigation through the second year. Infant Behavior and Development, 
+27(3), 342-365. 
+
+Prime, H., Perlman, M., Tackett, J., & Jenkins, J. M. (2011). The development and validation of 
+
+a thin-slice approach for coding scaffolding between siblings. In preparation. 
+
+Radloff, L. S. (1977). The CES-D scale: A self-report depression scale for research in the general 
+
+population. Applied Psychological Measurement, 1, 385-401. 
+
+Raviv, T., Kessenich, M., & Morrison, F. J. (2004). A mediational model of the association 
+
+between socioeconomic status and three-year-old language abilities: The role of parenting 
+factors. Early Childhood Research Quarterly, 19(4), 528-547. 
+
+Raykov, T., & Marcoulides, G. A. (2004). Using the delta method for approximate interval 
+
+estimation of parameter functions in SEM. Structural Equation Modeling, 11(4), 621-637. 
+
+Reddy, V. (2008). How infants know minds: Harvard Univ Pr. 
+
+Rohrer, L. M., Cicchetti, D., Rogosch, F. A., Toth, S. L., & Maughan, A. (2011). Effects of 
+
+maternal negativity and of early and recent recurrent depressive disorder on children's false 
+belief understanding. Developmental psychology, 47(1), 170. 
+
+ 
+ 
+
+ 
+
+35 
+
+Ruffman, T., Slade, L., Devitt, K., & Crowe, E. (2006). What mothers say and what they do: The 
+
+relation between parenting, theory of mind, language and conflict/cooperation. British 
+Journal of Developmental Psychology, 24(1), 105-124. 
+
+Rutter, M. (1979). Protective factors in children's responses to stress and disadvantage. In M. W. 
+
+Kent & J. E. Rolf (Eds.), Primary prevention in psychopathology, Vol. 3: Social 
+competence in children (pp. 49-74). Hanover, NH: University Press of New England. 
+
+Sameroff, A. (2000). Ecological perspectives on developmental risk. WAIMH handbook of infant 
+
+mental health, 4, 1-33. 
+
+San Juan, V., & Astington, J. W. (2012). Bridging the gap between implicit and explicit 
+
+understanding: How language development promotes the processing and representation of 
+false belief. British Journal of Developmental Psychology, 30(1), 105-122. 
+
+Siegal, M., & Varley, R. (2002). Neural systems involved in 'theory of mind'. Nature Reviews 
+
+Neuroscience, 3(6), 463-471. 
+
+Silvern, L. (1994). Parenting and family stress as mediators of the long-term effects of child 
+
+abuse. Child Abuse & Neglect, 18(5), 439-453. 
+
+Slaughter, V., Dennis, M. J., & Pritchard, M. (2002). Theory of mind and peer acceptance in 
+
+preschool children. British Journal of Developmental Psychology, 20(4), 545-564. 
+
+Sobel, M. E. (1982). Asymptotic confidence intervals for indirect effects in structural equation 
+
+models. Sociological methodology, 13(1982), 290-312. 
+
+Spreng, R. N., Mar, R. A., & Kim, A. S. N. (2009). The common neural basis of 
+
+autobiographical memory, prospection, navigation, theory of mind, and the default mode: a 
+quantitative meta-analysis. Journal of cognitive neuroscience, 21(3), 489-510. 
+
+Stone, V. E., Baron-Cohen, S., & Knight, R. T. (1998). Frontal lobe contributions to theory of 
+
+mind. Journal of cognitive neuroscience, 10(5), 640-656. 
+
+Symons, D. K., & Clark, S. E. (2000). A Longitudinal Study of Motherâ€  Child Relationships 
+
+and Theory of Mind in the Preschool Period. Social Development, 9(1), 3-23. 
+
+Taumoepeau, M., & Ruffman, T. (2006). Mother and infant talk about mental states relates to 
+
+desire language and emotion understanding. Child Development, 77(2), 465-481. 
+
+Thal, D. J., O'Hanlon, L., Clemmons, M., & Fralin, L. S. (1999). Validity of a parent report 
+
+measure of vocabulary and syntax for preschool children with language impairment. 
+Journal of Speech, Language, and Hearing Research, 42(2), 482. 
+
+Thoermer, C., Sodian, B., Vuori, M., Perst, H., & Kristen, S. (2012). Continuity from an implicit 
+to an explicit understanding of false belief from infancy to preschool age. British Journal of 
+Developmental Psychology, 30(1), 172-187. 
+
+Tomasello, M., & Carpenter, M. (2007). Shared intentionality. Developmental Science, 10(1), 
+
+121-125. 
+
+ 
+ 
+
+ 
+
+36 
+
+Tomasello, M., Carpenter, M., Call, J., Behne, T., & Moll, H. (2005). Understanding and sharing 
+
+intentions: The origins of cultural cognition. Behavioral and brain sciences, 28(5), 675-
+690. 
+
+Trentacosta, C. J., Hyde, L. W., Shaw, D. S., Dishion, T. J., Gardner, F., & Wilson, M. (2008). 
+
+The relations among cumulative risk, parenting, and behavior problems during early 
+childhood. Journal of Child Psychology and Psychiatry, 49(11), 1211-1219. 
+
+Vogeley, K., Bussfeld, P., Newen, A., Herrmann, S., Happe, F., Falkai, P., et al. (2001). Mind 
+reading: neural mechanisms of theory of mind and self-perspective. Neuroimage, 14(1), 
+170-181. 
+
+Vollm, B. A., Taylor, A. N. W., Richardson, P., Corcoran, R., Stirling, J., McKie, S., et al. 
+
+(2006). Neuronal correlates of theory of mind and empathy: a functional magnetic 
+resonance imaging study in a nonverbal task. Neuroimage, 29(1), 90-98. 
+
+Vygotsky, L. S. (1997). The Collected Works of LS Vygotsky: Problems of the Theory and 
+
+History of Psychology Including the Chapter on the Crisis in Psychology (Vol. 3): 
+Springer. 
+
+Walsh, C. A., MacMillan, H. L., Trocme, N., Jamieson, E., & Boyle, M. H. (2008). Measurement 
+of victimization in adolescence: Development and validation of the Childhood Experiences 
+of Violence Questionnaire. Child Abuse & Neglect, 32(11), 1037-1057. 
+
+Walter, H., Adenzato, M., Ciaramidaro, A., Enrici, I., Pia, L., & Bara, B. G. (2004). 
+
+Understanding intentions in social interaction: The role of the anterior paracingulate cortex. 
+Journal of cognitive neuroscience, 16(10), 1854-1863. 
+
+Warneken, F., Chen, F., & Tomasello, M. (2006). Cooperative activities in young children and 
+
+chimpanzees. Child Development, 77(3), 640-663. 
+
+Warneken, F., & Tomasello, M. (2006). Altruistic helping in human infants and young 
+
+chimpanzees. Science, 311(5765), 1301. 
+
+Wellman, H. M., Lopez-Duran, S., LaBounty, J., & Hamilton, B. (2008). Infant attention to 
+
+intentional action predicts preschool theory of mind. Developmental psychology, 44(2), 
+618. 
+
+Wellman, H. M., Phillips, A. T., Dunphy-Lelii, S., & LaLonde, N. (2004). Infant social attention 
+
+predicts preschool social cognition. Developmental Science, 7(3), 283-288. 
+
+West, S. G., Finch, J. F., & Curran, P. J. (1995). Structural equation models with nonnormal 
+
+variables: Problems and remedies. 
+
+Whipple, S. S., Evans, G. W., Barry, R. L., & Maxwell, L. E. (2010). An ecological perspective 
+
+on cumulative school and neighborhood risk factors related to achievement. Journal of 
+Applied Developmental Psychology, 31(6), 422-427. 
+
+ 
+ 
+
+ 
+
+37 
+
+Williams, J. H. G., Waiter, G. D., Perra, O., Perrett, D. I., & Whiten, A. (2005). An fMRI study 
+
+of joint attention experience. Neuroimage, 25(1), 133-140. 
+
+Woodward, A. L. (1998). Infants selectively encode the goal object of an actor's reach. 
+
+Cognition, 69(1), 1-34. 
+
+Zahn-Waxler, C., & Radke-Yarrow, M. (1990). The origins of empathic concern. Motivation and 
+
+Emotion, 14(2), 107-130. 
+
+Zahn-Waxler, C., Radke-Yarrow, M., Wagner, E., & Chapman, M. (1992). Development of 
+
+concern for others. Developmental psychology, 28(1), 126. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+

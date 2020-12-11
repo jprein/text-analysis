@@ -1,0 +1,2876 @@
+SOCIAL BEHAVIOR AND PERSONALITY, 2014, 42(4), 645-654
+© Society for Personality Research
+http://dx.doi.org/10.2224/sbp.2014.42.4.645
+
+DEVELOPMENT OF PRESCHOOLERS’ EMOTION AND FALSE 
+
+BELIEF UNDERSTANDING: A LONGITUDINAL STUDY
+
+YIFANG WANG
+
+Capital Normal University
+
+HONGYUN LIU 
+
+Beijing Normal University
+
+YANJIE SU 
+
+Peking University
+
+To  explore  the  developmental  trajectory  of  emotions  (happiness,  sadness,  anger,  and  fear) 
+and  false  belief  understanding  (an  unexpected-location  and  an  unexpected-contents  task), 
+we  measured  the  performance  of  3-  and  4-year-olds  4  times  at  approximately  half-yearly 
+intervals. The  results  indicated  that  the  children’s  ability  to  understand  emotions  and  false 
+beliefs increased significantly at each time point in the first year and a half, but no significant 
+increases were found in the last 6 months. The developmental trajectories of the understanding 
+of  emotions  and  false  beliefs  were  similar  during  the  2  years,  however,  the  developing 
+track  of  the  emotions  of  happiness,  sadness,  fear,  and  anger  were  different.  Understanding 
+of  happiness  developed  earlier  and  faster  than  understanding  of  sadness,  fear,  and  anger. 
+In  regard  to  understanding  false  beliefs,  the  children  performed  better  in  the  unexpected- 
+contents task than in the unexpected-location task. We found that a developmental relationship 
+existed between emotion and false belief understanding.
+
+Keywords: false belief understanding, emotion understanding, preschoolers.
+
+Yifang Wang, Department of Psychology, Capital Normal University; Hongyun Liu, Department of 
+Psychology, Beijing Normal University; Yanjie Su, Department of Psychology, Peking University.
+The authors wish to thank the teachers and children of Beijing Normal University Kindergarten. 
+This  research  was  supported  by  Projects  of  The  National  Natural  Science  Foundation  of  China 
+(31371058, 31100759).
+Correspondence concerning this article should be addressed to: Professor Hongyun Liu, Department 
+of  Psychology,  Beijing  Normal  University,  19  Xinjiekouwai  Street,  HaiDian  District,  Beijing 
+100875,  People’s Republic of China. Email: hyliu@bnu.edu.cn
+
+645
+
+646
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+Developing an understanding of false beliefs and emotions marks a paramount 
+step  in  young  children’s  acquisition  of  understanding  about  the  social  and 
+internal  world.  Emotions  are  the  consequences  of  situational  determinants 
+and  others’  intentional  states,  desires,  or  beliefs  (Denham,  1986;  Wellman  & 
+Banerjee, 1991). Understanding of false beliefs, which has often been identified 
+as the developmental milestone of theory of mind, means grasping a belief that 
+doesn’t  match  with  current  reality  (Wellman,  Cross,  &  Watson,  2001).  Lane, 
+Wellman,  Olson,  LaBounty,  and  Kerr  (2010)  suggested  that  false  belief  and 
+emotion understanding are different abilities. However, Hughes and Dunn (1998) 
+reported  that  the  performance  of  individuals  in  tasks  to  assess  their  emotion 
+understanding  correlated  with  their  performance  in  false  belief  tasks.  Despite 
+the theoretical debate, rapid changes have been documented in both false belief 
+and emotion understanding in children aged from 3 and 6 years, that is, the older 
+children have been found consistently to make more accurate responses than the 
+younger children in understanding emotions and when beliefs are false (Sui & 
+Su, 2003; Widen & Russell, 2008). 
+
+Some  researchers  have  found  that  3-year-olds  can  identify  basic  facial 
+expressions  accurately  (Székely  et  al.,  2011)  and  demonstrate  that  they 
+understand  that  certain  emotions  should  be  elicited  by  certain  situational  cues 
+(Denham,  1986).  The  cross-sectional  findings  of  Gao  and  Maurer  (2009) 
+indicated that happiness was the easiest emotion to understand and that fear was 
+the most difficult. 
+
+Two types of tasks frequently used to measure false belief understanding are 
+the unexpected-contents task (Gopnik & Astington, 1988) and the unexpected-
+location  task  (Wimmer  &  Perner,  1983).  In  the  unexpected-contents  task, 
+children are shown a container with outside markings that indicate what should 
+be  inside.  However,  the  container  has  something  unexpected  inside  when  it  is 
+opened. In the unexpected-location task, children are shown that something is put 
+in one location by a person and then moved to another location when the person 
+has gone. In these two tasks, the children should understand that the beliefs of 
+others, or of themselves, do not match with the current reality. Wellman, Cross, 
+and  Watson  (2001)  performed  a  meta-analysis  and  found  that  there  were  no 
+significant differences in how well children understood the unexpected-location 
+task and the unexpected-contents task, but the findings of Wang, Lin, and Zhang 
+(2003) suggested that the children found the unexpected-contents task easier than 
+the unexpected-location task.
+
+In  most  previous  studies,  researchers  have  used  a  cross-sectional  design  to 
+investigate the developmental trajectory of false belief understanding (using the 
+unexpected-location and unexpected-contents tasks) and emotion understanding 
+(happiness, sadness, anger, and fear), and the relationship between understanding 
+of emotions and false beliefs (Hughes & Dunn, 1998; Tager-Flusberg & Sullivan, 
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+647
+
+2000; Wang & Su, 2009; Widen & Russell, 2008). In only a few studies have 
+researchers provided longitudinal evidence (Dunn, 1995; McAlister & Peterson, 
+2007). Our first purpose was to explore the developmental trajectory of emotion 
+and  false  belief  understanding  through  measuring  the  performance  of  the 
+participants  four  times  at  approximately  half-yearly  intervals  over  a  two-year 
+period. Our second purpose was to examine the relative difficulty and consistency 
+among the understanding of the four emotions of happiness, sadness, fear, and 
+anger; between unexpected location and unexpected contents, representing two 
+kinds of false belief tasks; and between emotion and false belief understanding 
+at  the  four  time  points.  Our  third  purpose  was  to  explore  the  developmental 
+relationship between emotion and false belief understanding.
+
+Method
+
+Participants
+
+Participants were 121 preschool children including 67 3-year-olds (Mage = 41.52 
+months;  SD  =  3.68  months;  age  range  =  36-47  months;  34  boys  and  33  girls) 
+and 54 4-year-olds (Mage = 51.70 months; SD = 2.83 months; age range: 48-59 
+months; 25 boys and 29 girls). We recruited the children from the Beijing Normal 
+University Kindergarten in Beijing, China. All participants were children from 
+one-child  families  and  came  from  a  middle-class  socioeconomic  background. 
+The details of the participants at the four test times are set out in Table 1.
+
+Procedure
+
+All  the  children  first  participated  in  our  study  in  October,  2008.  We  tested 
+each  child  individually  in  a  quiet  room.  We  measured  the  performance  of 
+3-  and  4-year-olds  on  false  belief  and  emotion  understanding  four  times  at 
+approximately half-yearly intervals. We used pictures, except in the unexpected-
+contents  tasks,  to  show  the  children  two  false  belief  tasks  and  eight  emotion 
+understanding  tasks.  The  order  of  all  the  tasks  was  counterbalanced  by  Latin 
+square to avoid the effect of order. 
+
+Measures and Scoring
+
+False belief understanding. Unexpected-location task. We adapted this task 
+from Baron-Cohen, Leslie, and Frith (1985). In our version a boy called Ming 
+is playing with a ball. His mother asks him to come and have lunch. Ming hides 
+the ball behind a tree and departs. While he is gone, his mother moves the ball to 
+a box. The experimenter asked the children four questions about Ming’s return 
+(Cassidy, Fineberg, Brown, & Perkins, 2005): “Does Ming know where the ball 
+is now?,” “If you were Ming, would you know where the ball is now?,” “Where 
+will Ming look for the ball?,” and “If you were Ming, where would you look for 
+
+648
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+the ball?” Each child was also asked two memory questions: “Where did Ming 
+put the ball originally?” and “Where is the ball now?”  All the children we tested 
+answered all the memory questions correctly. 
+
+Unexpected-contents task. We adapted this task from Perner, Frith, Leslie, 
+and  Leekam  (1989).  The  experimenter  showed  the  children  a  familiar  candy 
+wrapper that actually contained a piece of chalk and asked what they thought was 
+inside. After the experimenter showed them that the wrapper contained a piece of 
+chalk, they were asked four test questions (Cassidy et al., 2005): “When you first 
+saw the candy, did you know what was really inside?,” “When someone else first 
+saw the candy wrapper, would s/he know what was really inside?,” “When you 
+first saw the candy, what did you think was really inside?,” and “When someone 
+else first saw the candy wrapper, what would s/he think was really inside?” One 
+memory question followed: “What is really in the candy wrapper now?” All of 
+the children answered the memory question in our test correctly. 
+
+ Each child completed an unexpected-contents task and an unexpected-location 
+task. The order of control and test questions in each story was counterbalanced 
+according to the Latin square format and then we randomly assigned each child 
+to a different order. A correct response to each test question was scored with 1 
+and an incorrect response with 0. The total false belief scores ranged from 0 to 8. 
+Emotion understanding. We adapted eight stories from Denham (1986), all 
+of which required an inference about one’s own and others’ feelings involving 
+happiness (three stories), sadness (three stories), fear (one story), and anger (one 
+story).  The  story  characters’  gender  was  matched  to  the  participants’  gender. 
+For example, the father of Xiao Qiang (Xiao Hong) bought a big cake for him/
+her. After  each  story,  the  experimenter  asked  the  child  two  test  questions  and 
+one memory question. Test questions were “How does Xiao Qiang (Xiao Hong) 
+feel?” and “If you were Xiao Qiang (Xiao Hong), how would you feel?” One 
+memory question followed: “What did the father of Xiao Qiang (Xiao Hong) buy 
+for him/her?” A correct response to each test question was scored with 1 and an 
+incorrect response with 0. The score range of happiness and sadness was from 0 
+to 6, and that of anger and fear from 0 to 2. The total score range was from 0 to 
+16. All of the children answered the memory questions correctly. 
+
+Results
+
+Emotion Understanding
+To compare scores for the four kinds of emotions, the scores of anger and fear 
+were transformed to a comparable scale that was used for happiness and sadness 
+by multiplying the scores of anger and fear by 3  (Gopnik & Astington, 1988). 
+
+We performed a repeated measures analysis of variance (ANOVA) with type 
+of  emotion  (happiness/sadness/anger/fear)  and  time  point  as  within-subject 
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+649
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+U
+n
+o
+i
+t
+o
+m
+E
+
+ 
+
+ 
+
+g
+n
+i
+d
+n
+a
+t
+s
+r
+e
+d
+n
+U
+
+ 
+f
+e
+i
+l
+e
+B
+ 
+e
+s
+l
+a
+F
+
+)
+5
+5
+
+.
+
+3
+(
+
+)
+3
+9
+
+.
+
+2
+(
+
+)
+0
+8
+
+.
+
+3
+(
+
+ 
+
+9
+7
+
+.
+
+8
+
+ 
+
+0
+7
+
+.
+
+2
+1
+
+ 
+
+1
+7
+
+.
+
+0
+1
+
+ 
+)
+4
+9
+
+.
+
+0
+(
+
+ 
+)
+0
+9
+
+.
+
+0
+(
+
+ 
+)
+3
+1
+
+.
+
+1
+(
+
+ 
+
+4
+9
+
+.
+
+0
+
+ 
+
+7
+3
+
+.
+
+1
+
+ 
+
+3
+1
+
+.
+
+1
+
+ 
+)
+7
+8
+
+.
+
+0
+(
+
+ 
+)
+0
+7
+
+.
+
+0
+(
+
+ 
+)
+7
+5
+
+.
+
+1
+(
+
+ 
+
+6
+9
+
+.
+
+0
+
+ 
+
+0
+5
+
+.
+
+1
+
+ 
+
+1
+2
+
+.
+
+1
+
+ 
+)
+2
+0
+
+.
+
+2
+(
+
+ 
+)
+1
+7
+
+.
+
+1
+(
+
+ 
+)
+3
+7
+
+.
+
+3
+(
+
+ 
+
+5
+2
+
+.
+
+2
+
+ 
+
+3
+1
+
+.
+
+4
+
+ 
+
+6
+9
+
+.
+
+2
+
+ 
+)
+1
+0
+
+.
+
+2
+(
+
+ 
+)
+1
+2
+
+.
+
+1
+(
+
+ 
+)
+2
+2
+
+.
+
+3
+(
+
+ 
+
+4
+6
+
+.
+
+4
+
+ 
+
+3
+6
+
+.
+
+5
+
+ 
+
+7
+1
+
+.
+
+5
+
+ 
+)
+7
+1
+
+.
+
+2
+(
+
+ 
+)
+2
+5
+
+.
+
+2
+(
+
+ 
+)
+8
+6
+
+.
+
+4
+(
+
+ 
+
+8
+7
+
+.
+
+2
+
+ 
+
+5
+4
+
+.
+
+4
+
+ 
+
+4
+6
+
+.
+
+3
+
+ 
+)
+1
+5
+
+.
+
+1
+(
+
+ 
+)
+1
+6
+
+.
+
+1
+(
+
+ 
+)
+3
+1
+
+.
+
+3
+(
+
+ 
+
+7
+6
+
+.
+
+1
+
+ 
+
+9
+5
+
+.
+
+2
+
+ 
+
+6
+1
+
+.
+
+2
+
+ 
+)
+9
+1
+
+.
+
+1
+(
+
+ 
+)
+3
+3
+
+.
+
+1
+(
+
+ 
+)
+2
+5
+
+.
+
+2
+(
+
+ 
+
+0
+1
+
+.
+
+1
+
+ 
+
+5
+8
+
+.
+
+1
+
+ 
+
+4
+4
+
+.
+
+1
+
+)
+4
+2
+
+.
+
+3
+(
+
+)
+2
+2
+
+.
+
+2
+(
+
+)
+9
+9
+
+.
+
+2
+(
+
+ 
+
+4
+9
+
+.
+
+1
+1
+
+ 
+
+6
+7
+
+.
+
+3
+1
+
+ 
+
+2
+7
+
+.
+
+2
+1
+
+ 
+)
+0
+9
+
+.
+
+0
+(
+
+ 
+)
+6
+6
+
+.
+
+0
+(
+
+ 
+)
+7
+5
+
+.
+
+1
+(
+
+ 
+
+5
+4
+
+.
+
+1
+
+ 
+
+2
+7
+
+.
+
+1
+
+ 
+
+7
+5
+
+.
+
+1
+
+ 
+)
+3
+8
+
+.
+
+0
+(
+
+ 
+)
+2
+6
+
+.
+
+0
+(
+
+ 
+)
+5
+4
+
+.
+
+1
+(
+
+ 
+
+0
+4
+
+.
+
+1
+
+ 
+
+5
+6
+
+.
+
+1
+
+ 
+
+2
+5
+
+.
+
+1
+
+ 
+)
+7
+9
+
+.
+
+1
+(
+
+ 
+)
+1
+7
+
+.
+
+1
+(
+
+ 
+)
+8
+6
+
+.
+
+3
+(
+
+ 
+
+8
+4
+
+.
+
+3
+
+ 
+
+6
+4
+
+.
+
+4
+
+ 
+
+1
+7
+
+.
+
+3
+
+ 
+)
+4
+1
+
+.
+
+1
+(
+
+ 
+)
+5
+3
+
+.
+
+0
+(
+
+ 
+)
+9
+4
+
+.
+
+1
+(
+
+ 
+
+8
+6
+
+.
+
+5
+
+ 
+
+1
+9
+
+.
+
+5
+
+ 
+
+8
+7
+
+.
+
+5
+
+ 
+)
+9
+2
+
+.
+
+2
+(
+
+ 
+)
+5
+9
+
+.
+
+1
+(
+
+ 
+)
+4
+2
+
+.
+
+4
+(
+
+ 
+
+3
+0
+
+.
+
+4
+
+ 
+
+8
+0
+
+.
+
+6
+
+ 
+
+6
+8
+
+.
+
+4
+
+ 
+)
+3
+6
+
+.
+
+1
+(
+
+ 
+)
+2
+1
+
+.
+
+1
+(
+
+ 
+)
+5
+7
+
+.
+
+2
+(
+
+ 
+
+5
+2
+
+.
+
+2
+
+ 
+
+0
+3
+
+.
+
+3
+
+ 
+
+9
+7
+
+.
+
+2
+
+ 
+)
+0
+2
+
+.
+
+1
+(
+
+ 
+)
+8
+2
+
+.
+
+1
+(
+
+ 
+)
+8
+4
+
+.
+
+2
+(
+
+ 
+
+8
+7
+
+.
+
+1
+
+ 
+
+8
+7
+
+.
+
+2
+
+ 
+
+2
+2
+
+.
+
+2
+
+)
+8
+8
+
+.
+
+1
+(
+
+)
+2
+2
+
+.
+
+2
+(
+
+)
+5
+0
+
+.
+
+2
+(
+
+ 
+
+3
+8
+
+.
+
+3
+1
+
+ 
+
+3
+1
+
+.
+
+4
+1
+
+ 
+
+7
+9
+
+.
+
+3
+1
+
+ 
+)
+3
+9
+
+.
+
+0
+(
+
+ 
+)
+0
+8
+
+.
+
+0
+(
+
+ 
+)
+1
+5
+
+.
+
+1
+(
+
+ 
+
+8
+3
+
+.
+
+1
+
+ 
+
+3
+6
+
+.
+
+1
+
+ 
+
+1
+5
+
+.
+
+1
+
+ 
+)
+8
+6
+
+.
+
+0
+(
+
+ 
+)
+8
+6
+
+.
+
+0
+(
+
+ 
+)
+6
+3
+
+.
+
+1
+(
+
+ 
+
+8
+6
+
+.
+
+1
+
+ 
+
+8
+7
+
+.
+
+1
+
+ 
+
+1
+7
+
+.
+
+1
+
+ 
+)
+1
+5
+
+.
+
+1
+(
+
+ 
+)
+1
+7
+
+.
+
+1
+(
+
+ 
+)
+2
+2
+
+.
+
+3
+(
+
+ 
+
+0
+8
+
+.
+
+4
+
+ 
+
+3
+8
+
+.
+
+4
+
+ 
+
+2
+8
+
+.
+
+4
+
+ 
+)
+8
+1
+
+.
+
+0
+(
+
+ 
+)
+4
+3
+
+.
+
+0
+(
+
+ 
+)
+3
+5
+
+.
+
+0
+(
+
+ 
+
+7
+9
+
+.
+
+5
+
+ 
+
+2
+9
+
+.
+
+5
+
+ 
+
+5
+9
+
+.
+
+5
+
+ 
+)
+6
+9
+
+.
+
+1
+(
+
+ 
+)
+4
+9
+
+.
+
+1
+(
+
+ 
+)
+0
+9
+
+.
+
+3
+(
+
+ 
+
+5
+4
+
+.
+
+6
+
+ 
+
+2
+4
+
+.
+
+6
+
+ 
+
+3
+4
+
+.
+
+6
+
+ 
+)
+7
+9
+
+.
+
+0
+(
+
+ 
+)
+6
+9
+
+.
+
+0
+(
+
+ 
+)
+3
+9
+
+.
+
+1
+(
+
+ 
+
+5
+5
+
+.
+
+3
+
+ 
+
+1
+4
+
+.
+
+3
+
+ 
+
+8
+4
+
+.
+
+3
+
+ 
+)
+6
+3
+
+.
+
+1
+(
+
+ 
+)
+9
+3
+
+.
+
+1
+(
+
+ 
+)
+6
+7
+
+.
+
+2
+(
+
+ 
+
+0
+9
+
+.
+
+2
+
+ 
+
+0
+0
+
+.
+
+3
+
+ 
+
+4
+9
+
+.
+
+2
+
+)
+0
+9
+
+.
+
+1
+(
+
+)
+4
+9
+
+.
+
+1
+(
+
+)
+2
+9
+
+.
+
+1
+(
+
+ 
+
+0
+0
+
+.
+
+4
+1
+
+ 
+
+7
+2
+
+.
+
+4
+1
+
+ 
+
+3
+1
+
+.
+
+4
+1
+
+ 
+)
+7
+7
+
+.
+
+0
+(
+
+ 
+)
+5
+7
+
+.
+
+0
+(
+
+ 
+)
+4
+6
+
+.
+
+1
+(
+
+ 
+
+3
+6
+
+.
+
+1
+
+ 
+
+5
+6
+
+.
+
+1
+
+ 
+
+4
+6
+
+.
+
+1
+
+ 
+)
+3
+5
+
+.
+
+0
+(
+
+ 
+)
+7
+4
+
+.
+
+0
+(
+
+ 
+)
+0
+0
+
+.
+
+1
+(
+
+ 
+
+0
+8
+
+.
+
+1
+
+ 
+
+0
+8
+
+.
+
+1
+
+ 
+
+0
+8
+
+.
+
+1
+
+ 
+)
+8
+5
+
+.
+
+1
+(
+
+ 
+)
+8
+4
+
+.
+
+1
+(
+
+ 
+)
+6
+0
+
+.
+
+3
+(
+
+ 
+
+9
+5
+
+.
+
+4
+
+ 
+
+2
+8
+
+.
+
+4
+
+ 
+
+9
+5
+
+.
+
+4
+
+ 
+)
+9
+1
+
+.
+
+0
+(
+
+ 
+)
+0
+0
+
+.
+
+0
+(
+
+ 
+)
+9
+1
+
+.
+
+0
+(
+
+ 
+
+6
+9
+
+.
+
+5
+
+ 
+
+0
+0
+
+.
+
+6
+
+ 
+
+8
+9
+
+.
+
+5
+
+ 
+)
+8
+8
+
+.
+
+1
+(
+
+ 
+)
+1
+6
+
+.
+
+1
+(
+
+ 
+)
+9
+4
+
+.
+
+3
+(
+
+ 
+
+5
+8
+
+.
+
+6
+
+ 
+
+3
+2
+
+.
+
+7
+
+ 
+
+0
+0
+
+.
+
+7
+
+ 
+)
+0
+9
+
+.
+
+0
+(
+
+ 
+)
+9
+5
+
+.
+
+0
+(
+
+ 
+)
+8
+4
+
+.
+
+1
+(
+
+ 
+
+4
+6
+
+.
+
+3
+
+ 
+
+8
+7
+
+.
+
+3
+
+ 
+
+1
+7
+
+.
+
+3
+
+ 
+)
+5
+1
+
+.
+
+1
+(
+
+ 
+)
+2
+1
+
+.
+
+1
+(
+
+ 
+)
+7
+2
+
+.
+
+2
+(
+
+ 
+
+7
+2
+
+.
+
+3
+
+ 
+
+5
+4
+
+.
+
+3
+
+ 
+
+5
+3
+
+.
+
+3
+
+ 
+
+7
+6
+
+ 
+
+4
+5
+
+ 
+
+1
+2
+1
+
+ 
+
+7
+6
+
+ 
+
+4
+5
+
+ 
+
+1
+2
+1
+
+ 
+
+0
+6
+
+ 
+
+1
+4
+
+ 
+
+1
+0
+1
+
+ 
+
+3
+5
+
+ 
+
+0
+4
+
+ 
+
+3
+9
+
+ 
+
+7
+4
+-
+6
+3
+
+ 
+
+9
+6
+-
+8
+4
+
+ 
+l
+a
+t
+o
+T
+
+ 
+
+3
+5
+-
+2
+4
+
+ 
+
+5
+6
+-
+4
+5
+
+ 
+l
+a
+t
+o
+T
+
+ 
+
+9
+5
+-
+8
+4
+
+ 
+
+1
+7
+-
+0
+6
+
+ 
+l
+a
+t
+o
+T
+
+ 
+
+6
+6
+-
+5
+5
+
+ 
+
+8
+7
+-
+7
+6
+
+ 
+l
+a
+t
+o
+T
+
+l
+a
+t
+o
+T
+
+)
+6
+1
+-
+0
+(
+
+ 
+r
+e
+g
+n
+A
+
+ 
+)
+2
+-
+0
+(
+
+ 
+r
+a
+e
+F
+
+ 
+)
+2
+-
+0
+(
+
+ 
+s
+s
+e
+n
+d
+a
+S
+
+ 
+)
+6
+-
+0
+(
+
+ 
+s
+s
+e
+n
+i
+p
+p
+a
+H
+
+ 
+)
+6
+-
+0
+(
+
+ 
+l
+a
+t
+o
+T
+
+ 
+)
+8
+-
+0
+(
+
+ 
+
+d
+e
+t
+c
+e
+p
+x
+e
+n
+U
+
+ 
+
+d
+e
+t
+c
+e
+p
+x
+e
+n
+U
+
+ 
+
+n
+
+ 
+e
+g
+n
+a
+r
+ 
+e
+g
+A
+
+ 
+s
+t
+n
+e
+t
+n
+o
+c
+
+)
+4
+-
+0
+(
+
+ 
+
+n
+o
+i
+t
+a
+c
+o
+l
+
+ 
+)
+4
+-
+0
+(
+
+ 
+
+ 
+
+ 
+)
+h
+t
+n
+o
+m
+
+(
+
+ 
+
+ 
+e
+m
+T
+
+i
+
+ 
+s
+t
+n
+i
+o
+p
+
+ 
+
+ 
+
+ 
+
+1
+
+ 
+
+ 
+
+ 
+
+2
+
+ 
+
+ 
+
+ 
+
+3
+
+ 
+
+ 
+
+ 
+
+4
+
+ 
+
+ 
+
+)
+
+D
+S
+(
+M
+
+ 
+.
+e
+t
+o
+N
+
+i
+
+g
+n
+d
+n
+a
+t
+s
+r
+e
+d
+n
+U
+
+ 
+f
+
+e
+
+i
+l
+
+l
+
+ 
+
+e
+B
+e
+s
+a
+F
+d
+n
+a
+
+ 
+
+ 
+
+n
+o
+
+i
+t
+
+o
+m
+E
+ 
+n
+o
+ 
+s
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+P
+ 
+s
+n
+e
+r
+d
+
+’
+
+l
+i
+
+h
+C
+
+ 
+r
+o
+
+f
+ 
+s
+c
+i
+t
+s
+i
+t
+a
+t
+S
+ 
+e
+v
+i
+t
+p
+i
+r
+c
+s
+e
+D
+
+ 
+.
+1
+ 
+e
+b
+a
+T
+
+l
+
+650
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+independent  variables.  The  main  effects  for  emotions,  F(3,  255)  =  39.30, 
+p < .01, 2 = 0.32, and time points, F(3, 255) = 47.19, p < .01, 2 = 0.36, and 
+the  interaction  between  them,  F(9,  765)  =  2.82,  p  <  .01,  2  =  0.03,  were  all 
+significant. Post hoc tests (Bonferroni) for type of emotion showed that happiness 
+scored significantly higher than sadness, fear, and anger, p < .01. Sadness scored 
+higher  than  fear,  p  <  .01.  Post  hoc  tests  (Bonferroni)  for  time  point  indicated 
+that the scores at times 2, 3, and 4 were higher than those at time 1, p < .05, the 
+scores at times 3 and 4 were higher than those at time 2, p < .05, and there was 
+no significant difference between times 3 and 4, p > .05.
+
+We calculated simple effects. Four ANOVA with time point as a within-subject 
+independent  variable  revealed  that  significant  differences  existed  among  the 
+four time points for happiness, F(3, 255) = 20.45, p < .01, 2 = 0.19, sadness, 
+F(3,  255)  =  27.30,  p  <  .01,  2  =  0.24,  fear,  F(3,  255)  =  16.63,  p  <  .01,  2  = 
+0.16, and anger, F(3, 255) = 9.82, p < .01, 2 = 0.10. Post hoc tests (Bonferroni) 
+revealed that for happiness and anger, the scores at times 2, 3, and 4 were higher 
+than those at time 1, p < .01. For sadness, the scores at times 3 and 4 were higher 
+than those at times 1 and 2, p < .01. For fear, the scores at times 3 and 4 were 
+higher than those at time 1, and the score at time 4 was higher than that at time 
+2, p < .01. No other significant differences were found, p > .05.
+
+When  we  calculated  four  ANOVA  with  each  of  the  types  of  emotion  as  a 
+within-subject independent variable, there were significant differences among the 
+four emotions at time 1, F(3, 360) = 21.34, p < .01, 2 = 0.15; time 2, F(3, 360) 
+= 22.64, p < .01, 2 = 0.16; time 3, F(3, 300) = 12.90, p < .01, 2 = 0.11; and 
+time 4, F(3, 279) = 13.17, p < .01, 2 = 0.12. Post hoc tests (Bonferroni) revealed 
+that at times 1, 2, 3, and 4, happiness scored higher than sadness, anger, and fear, 
+p < .05. At time 2, fear and anger scored higher than sadness, p < .05. At time 4, 
+fear scored higher than sadness, p < .05. No other significant differences were 
+found, p > .05.
+
+False Belief Understanding
+
+We  conducted  a  repeated  measure  ANOVA  with  type  of  false  belief  task 
+(unexpected  location/unexpected  contents)  and  time  point  as  within-subject 
+independent variables. It yielded significant main effects for type of false belief 
+task,  F(1,  85)  =  36.43,  p  <  .01, 2  =  0.30,  and  time  point,  F(3,  255)  =  64.70, 
+p < .01, 2 = 0.43, but no significant interaction between them, F(3, 255) = 2.39, 
+p  >  .05, 2  =  0.01.  Post  hoc  tests  (Bonferroni)  for  time  point  showed  that  the 
+scores at time 4 were higher than at times 1, 2, and 3, those at time 3 were higher 
+than times 1 and 2, and those at time 2 were higher than time 1, p < .01.
+
+Relationship Between Emotion and False Belief Understanding
+
+First,  in  a  rough  comparison  of  children’s  performance  on  false  belief  and 
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+651
+
+emotion  understanding,  we  used  the  quartile  because  of  various  score  ranges. 
+The mean scores for false belief understanding at time 1 were concentrated in 
+the area below 25% and at time 2 were between 25% and 50%; the mean scores 
+for emotion understanding at time 1 were in the range of 25% to 50% and at time 
+2  were  above  75%. These  data  implied  that  emotion  understanding  developed 
+earlier than false belief understanding.
+
+Second, to compare scores on the emotion and false belief tasks, the scores for 
+false belief understanding (score range: 0-8) were transformed to a comparable 
+scale to that used for emotion understanding (score range: 0-16) by multiplying 
+the scores of false belief by 2 (Gopnik & Astington, 1988). A repeated measure 
+ANOVA with type of task (emotion/false belief) and time point as within-subject 
+independent  variables  was  done.  The  main  effects  for  task,  F(1,  85)  =  47.05, 
+p < .01, 2 = 0.36, and time point, F(3, 255) = 102.44, p < .01, 2 = 0.55, and 
+the  interaction  between  them,  F(3,  255)  =  8.89,  p  <  .01,  2  =  0.10,  were  all 
+significant. Post hoc tests (Bonferroni) for time point indicated that the scores at 
+times 2, 3, and 4 were all higher than those at time 1, the scores at times 3 and 
+4 were both higher than those at time 2, p < .01, and no significant differences 
+existed between times 3 and 4, p > .05. Simple effects were calculated. Results of 
+four t tests revealed that the scores for emotion understanding were higher than 
+those for false belief understanding at time 1, t(120) = 8.05, p < .01, time 2, t(120) 
+= 7.25, p < .01, and time 3, t(100) = 2.92, p < .01, but there was no significant 
+difference at time 4, t(93) = 0.06, p > .05.
+
+Third,  emotion  understanding  correlated  significantly  with  false  belief 
+understanding at time 1, r = 0.43, p < .01, time 2, r = 0.42, p < .01, and time 3, 
+r = 0.33, p < .01, but there was no significant correlation between them at time 4, 
+r = 0.14, p >.05. With age control, emotion understanding correlated with false 
+belief understanding at time 1, Part. R = 0.31, p < .01, time 2, Part. R = 0.33, 
+p  <  .01,  and  time  3,  Part.  R  =  0.33,  p  <  .01,  but  there  was  no  significant 
+correlation between them at time 4, r = 0.14, p > .05.
+
+Discussion
+
+Throughout  a  two-year  period  of  tracking  children’s  emotion  and  false 
+belief  understanding,  their  abilities  improved  significantly  at  each  time  point 
+in  the  first  year  and  a  half,  but  no  significant  improvements  were  found  in 
+the  last  six  months. The  trajectories  of  the  children’s  emotion  and  false  belief 
+understanding were similar in our longitudinal study. However, the results of the 
+quartiles and repeated measure ANOVA consistently indicated that their emotion 
+understanding developed earlier than their false belief understanding, especially 
+at  time  points  1,  2,  and  3.  Tager-Flusberg  and  Sullivan  (2000)  suggested  that 
+theory  of  mind  could  be  classified  into  two  components:  a  social-perceptual 
+
+652
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+component and a social-cognitive component. The social-perceptual component 
+refers to understanding people’s emotions, and the social-cognitive component 
+refers  to  understanding  their  intentions,  desires,  and  thoughts.  Tager-Flusberg 
+and Sullivan found that the social-perceptual component developed earlier than 
+the  social-cognitive  component.  Our  findings  demonstrated  the  application  of 
+this  cognitive  model  of  theory  of  mind  in  a  longitudinal  setting.  In  addition, 
+Wellman and Liu (2004) developed a scale based on theory of mind consisting 
+of tasks that could help capture the developmental sequence across a range of 
+conceptions understanding. Their findings indicated that the performance of the 
+children whom they tested were similar for false belief tasks (for the unexpected-
+location  task  57%  gave  correct  answers  and  for  the  unexpected-contents  59% 
+gave correct answers) and for belief emotion tasks (52% correct response). Belief 
+emotion refers to children’s judgment of a person’s feelings according to a given 
+mistaken  belief.  The  emotion  understanding  tasks  in  our  study  were  based  on 
+understanding  emotions  triggered  by  situations  that  were  different  from  belief 
+emotion  understanding.  All  of  these  findings  suggest  that  there  are  different 
+developmental sequences across different emotion understanding tasks.
+
+When  we  controlled  for  age  in  our  study,  the  children’s  performances  on 
+emotion  and  false  belief  understanding  correlated  significantly  at  times  1,  2, 
+and 3. Developmental scientists have found that children develop the ability to 
+understand false beliefs and emotions at the age of 4 or 5 years (Borke, 1973; 
+Brown & Dunn, 1996; Wellman et al., 2001). Our results supported the existence 
+of a developmental relationship between emotion understanding and false belief 
+understanding.
+
+Our findings indicated that the children’s understanding of happiness developed 
+earlier and faster than their understanding of sadness, fear, and anger, though the 
+trajectory of each of the four types of emotions was different. Findings in many 
+cross-sectional studies have also demonstrated that children understand happiness 
+sooner than negative emotions (Gao & Maurer, 2009; Rieffe, Meerum Terwogt, 
+& Cowan, 2005). In a study about children’s ability to recognize emotion from 
+facial  expressions,  Székely  et  al.  (2011)  found  that  the  children  recognized 
+sadness more easily than they recognized fear. In our study, the scores for the 
+children correctly attributing the emotion of sadness were lower than those for 
+attributing the emotion of fear. Perhaps the content of the emotional situations 
+we  presented  to  them  were  critical  to  the  children’s  performances.  Having  an 
+injection  is  a  very  familiar  situation  for  preschoolers  as  there  is  a  government 
+program for all children in China  to be vaccinated that begins from birth and 
+continues until primary school. 
+
+Wellman et al. (2001) suggested that unexpected-location tasks did not differ 
+from  unexpected-content  tasks  in  that  the  children’s  rate  of  development  of 
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+653
+
+understanding of the false belief involved in these tasks did not differ. However, 
+our results indicated that at all four time points the children performed better on 
+the unexpected-contents task than on the unexpected-location task. We presented 
+the  unexpected-location  task  by  storytelling,  whereas  the  unexpected-contents 
+task was presented through a physical demonstration. We surmised that perhaps 
+the  physical  demonstration  was  easier  for  the  children  to  understand  than  the 
+story. In addition, the children were bystanders in the unexpected-location task, 
+whereas they were participants in the unexpected-content task. We believe that 
+the children’s active involvement stimulated greater interest and may have helped 
+them to more easily understand the situation than when they were bystanders.
+
+The  main  limitation  in  the  present  study  is  that  the  experimental  materials 
+were the same at all four times. Even though the experimenter did not give any 
+feedback, the practice effect might still have existed because the children became 
+very familiar with the measurements. Perhaps different measurements should be 
+used at different times in future studies.
+
+In  conclusion,  the  developmental  trajectories  of  the  children’s  emotion  and 
+false belief understanding were similar over the two-year period during which we 
+conducted our study. However, the developing track of the emotions of happiness, 
+sadness,  fear,  and  anger  were  different.  Of  the  emotions,  children  showed  the 
+greatest  understanding  of  happiness  and  they  showed  better  understanding 
+of  the  unexpected-contents  task  than  the  unexpected-location  task.  We  found 
+that  there  was  a  developmental  relationship  between  emotion  and  false  belief 
+understanding. Our findings suggested that for the 3- and 4-year-olds who took 
+part in our study, there was a significant increase in their ability to understand 
+both emotions and false beliefs over the first 18 months, but no improvements 
+thereafter. 
+
+References
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have a “theory of mind”? 
+
+Cognition, 21, 37-46. http://doi.org/c2nhzk
+
+Borke,  H.  (1973). The  development  of  empathy  in  Chinese  and American  children  between  three 
+and six years of age: A cross-cultural study. Developmental Psychology, 9, 102-108. http://doi.
+org/cmfpbm
+
+Brown, J. R., & Dunn, J. (1996). Continuities in emotion understanding from three to six years. Child 
+
+Development, 67, 789-802. http://doi.org/ft3gqr
+
+Cassidy, K. W., Fineberg, D. S., Brown, K., & Perkins, A. (2005). Theory of mind may be contagious, 
+
+but you don’t catch it from your twins. Child Development, 76, 97-106. http://doi.org/b9f8r8
+
+Denham, S. A. (1986). Social cognition, prosocial behavior, and emotion in preschoolers: Contextual 
+
+validation. Child Development, 57, 194-201. http://doi.org/cttfr6
+
+Dunn,  J.  (1995).  Children  as  psychologists:  The  later  correlates  of  individual  differences  in 
+understanding of emotions and other minds. Cognition and Emotion, 9, 187-201. http://doi.org/
+cvdtgc
+
+654
+
+EMOTION AND FALSE BELIEF UNDERSTANDING
+
+Gao,  X.,  &  Maurer,  D.  (2009).  Influence  of  intensity  on  children’s  sensitivity  to  happy,  sad,  and 
+fearful  facial  expressions.  Journal  of  Experimental  Child  Psychology,  102,  503-521.  http://
+doi.org/br2c2s
+
+Gopnik,  A.,  &  Astington,  J.  W.  (1988).  Children’s  understanding  of  representational  change  and 
+its  relation  to  the  understanding  of  false  belief  and  the  appearance-reality  distinction.  Child 
+Development, 59, 26-37. http://doi.org/d9gp6v
+
+Hughes,  C.,  &  Dunn,  J.  (1998).  Understanding  mind  and  emotion:  Longitudinal  associations  with 
+mental-state  talk  between  young  friends.  Developmental  Psychology,  34,  1026-1037.  http://
+doi.org/d2cq7r
+
+Lane, J. D., Wellman, H. M., Olson, S. L., LaBounty, J., & Kerr, D. C. R. (2010). Theory of mind 
+and  emotion  understanding  predict  moral  development  in  early  childhood.  British  Journal  of 
+Developmental Psychology, 28, 871-889. http://doi.org/fbsrcs
+
+McAlister, A.,  &  Peterson,  C.  (2007). A  longitudinal  study  of  child  siblings  and  theory  of  mind 
+
+development. Cognitive Development, 22, 258-270. http://doi.org/c79zs3
+
+Perner, J., Frith, U., Leslie, A. M., & Leekam, S. R. (1989). Exploration of the autistic child’s theory 
+of  mind:  Knowledge,  belief,  and  communication.  Child  Development,  60,  689-700.  http://
+doi.org/fr57r7
+
+Rieffe, C., Meerum Terwogt, M., & Cowan, R. (2005). Children’s understanding of mental states as 
+
+causes of emotions. Infant and Child Development, 14, 259-272. http://doi.org/cdtcfq
+
+Sui, X. S., & Su, Y. J. (2003). Verifying the cognitive model of theory of mind [In Chinese]. Acta 
+
+Psychologica Sinica, 35, 56-62.
+
+Székely, E., Tiemeier, H., Arends, L. R., Jaddoe, V. W. V., Hofman, A., Verhulst, F. C., & Herba, C. 
+M. (2011). Recognition of facial expressions of emotions by 3-year-olds. Emotion, 11, 425-435. 
+http://doi.org/dg484c
+
+Tager-Flusberg, H., & Sullivan, K. (2000). A componential view of theory of mind: Evidence from 
+
+Williams syndrome. Cognition, 76, 59-90. http://doi.org/d9zwmw
+
+Wang, Y.-F.,  &  Su, Y.-J.  (2009).  False  belief  understanding:  Children  catch  it  from  classmates  of 
+different  ages.  International  Journal  of  Behavioral  Development,  33,  331-336.  http://doi.org/
+cg8wcf
+
+Wang, Y.-W., Lin, C.-D., & Zhang, W.-X. (2003). The task analysis of appearance-reality distinction 
+
+representational change and false belief [In Chinese]. Psychological Science, 26, 390-392.
+
+Wellman,  H.  M.,  &  Banerjee,  M.  (1991).  Mind  and  emotion:  Children’s  understanding  of  the 
+emotional consequences of beliefs and desires. British Journal of Developmental Psychology, 9, 
+191-214. http://doi.org/d8s4n8 
+
+Wellman, H. M., Cross, D., & Watson, J. (2001). Meta-analysis of theory-of-mind development: The 
+
+truth about false belief. Child Development, 72, 655-684. http://doi.org/css9pc
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-of-mind tasks. Child Development, 75, 523-541. 
+
+http://doi.org/c6t3ch
+
+Widen,  S.  C.,  &  Russell,  J.  A.  (2008).  Children  acquire  emotion  categories  gradually.  Cognitive 
+
+Development, 23, 291-312. http://doi.org/dwtx96
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of 
+wrong  beliefs  in  young  children’s  understanding  of  deception.  Cognition,  13,  103-128.  http://
+doi.org/cbrpxb
+
+Copyright of Social Behavior & Personality: an international journal is the property of
+Society for Personality Research and its content may not be copied or emailed to multiple
+sites or posted to a listserv without the copyright holder's express written permission.
+However, users may print, download, or email articles for individual use.
+
+

@@ -1,0 +1,1606 @@
+Cognitive Development 17 (2002) 1037–1060
+
+Complements to cognition: a longitudinal study
+
+of the relationship between complex syntax
+
+and false-belief-understanding
+Jill G. de Villiers a,∗
+
+, Jennie E. Pyers b
+
+a Psychology Department, Clark Science Center, Smith College, Northampton, MA 01063, USA
+
+b University of California, Berkeley, CA, USA
+
+Received 1 March 2001; accepted 1 January 2002
+
+Abstract
+
+A longitudinal study traced the development of the understanding of false belief
+and various measures of spontaneous language production and comprehension over the
+course of one year. The subjects were 28 normally developing preschoolers who aver-
+aged 3–5 years when the study began. The children were given a battery of tasks to assess
+false-belief-understanding and language mastery during four testing periods, with the
+contents of the materials varying and counterbalanced. The results of regression analyses
+strongly suggest that the mastery of a speciﬁc aspect of syntax, namely tensed comple-
+ments, is a precursor and possible prerequisite of successful false-belief performance.
+© 2002 Elsevier Science Inc. All rights reserved.
+
+Keywords: False-belief-understanding; Complex syntax; Complements
+
+1. Introduction
+
+The usual direction of effect posited between the development of concepts and
+the language that encodes them is, quite naturally, that the concepts develop before
+the corresponding terms. In fact, Fodor (1975) has argued that it is conceptually
+incoherent for it to be otherwise. Nevertheless, some other possible relationships
+
+∗
+
+Corresponding author. Tel.: +1-413-585-3804; fax: +1-413-585-3786.
+E-mail address: jdevil@smith.edu (J.G. de Villiers).
+
+0885-2014/02/$ – see front matter © 2002 Elsevier Science Inc. All rights reserved.
+PII: S 0 8 8 5 - 2 0 1 4 ( 0 2 ) 0 0 0 7 3 - 4
+
+1038
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+have been imagined, including the scenario in which the child uses a term with-
+out fully knowing what it encodes, and hence is alerted to develop a concept or a
+conceptual distinction that was not salient previously (Bowerman, 1996; Gopnik
+& Meltzoff, 1993; Nelson, 1996). As in other conceptual domains, the under-
+standing of beliefs and states of mind is usually considered prerequisite for cor-
+rectly using the linguistic forms that express those concepts (e.g., Tager-Flusberg,
+1993). Thus children’s talk about mental states, using verbs such as “want”,
+“need”, “think”, “know”, and “remember” is taken as a sign that the concepts
+of the corresponding mental states have developed (Bartsch & Wellman, 1995;
+Bretherton & Beeghly, 1982; Shatz, Wellman, & Silber, 1983; Wellman, 1990).
+Between the ages of 3 and 4 years, children master sentence forms involving men-
+tal state verbs and their complements. The timing of this linguistic achievement
+roughly coincides with children’s successful performance on standard false-belief
+tasks. (Astington & Jenkins, 1995, 1999; Bartsch & Wellman, 1995; de Villiers,
+1995a; Tager-Flusberg, 1997).
+
+The representation of others’ states of mind is not only encoded in the use of
+corresponding mental verbs, but also in the special syntax of complementation
+that these verbs allow. With a mental state verb, it is possible to have a proposition
+embedded under that verb:
+
+(1) Sarah thought the earth was ﬂat
+
+and that embedded proposition encodes the contents of Sarah’s mind. Many mod-
+ern semanticists and philosophers of language say that the embedded proposition
+has a truth value that can only be evaluated with respect to the “possible world”
+represented by that mind: its truth is not evaluated with respect to this world, but
+with respect to Sarah’s mental world (Hintikka, 1962; Lewis, 1986; Montague,
+1974). Therefore, there is an intimate connection between the syntax and seman-
+tics of mental verbs and their arguments. A child who did not know that connection
+would be confused by a sentence such as (1), and in fact might evaluate the em-
+bedded proposition with respect to his own world and deny that the sentence as a
+whole was true, or fail to compute a meaning for it. Hence a child who is not able to
+represent the semantics of a sentence like (1) is not in a position to understand talk
+about false beliefs, or to talk about them in this form, with embedded propositions.
+Does an understanding of the semantics of mental verbs and their syntax arise as a
+function of mastering the concept of other minds, or might it arise within language
+itself, perhaps in a domain more transparent to meaning than mental states, such
+as with communication verbs? Consider some evidence from language acquisition
+itself.
+
+From several studies on the development of wh-questions, children at an early
+age (3–4 years) were shown to be able to interpret “long-distance” wh-questions
+of the sort:
+
+(2) When did he say he hurt himself?
+(3) How did Big Bird ask to call?
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1039
+
+That is, allowing an interpretation in which the wh-word originates in the lower
+clause, as in the echo question:
+
+(4) He said he hurt himself when?
+(5) Big Bird asked to call how?
+
+At the same time, children have been shown to respect the “barrier” introduced
+by a medial wh-complementizer, allowing only a “short distance” (ﬁrst clause)
+interpretation to sentences such as:
+
+(6) When did he say how he hurt himself?
+(7) How did Big Bird ask who to call?
+
+However, a very prevalent error that young children make on such questions is
+to answer the medial question, especially if it is an argument such as who or what
+(de Villiers, Roeper, & Vainikka, 1990).
+
+Despite success at abstract features of grammar, children of the same age make a
+characteristic mistake on long distance questions in which the lower clause involves
+a false proposition, for example:
+
+(8) What did the mother say she bought?
+
+where the mother lied, or made a mistake, and said that she bought apples when
+she really bought oranges. Children aged between 3 and 4 years old in several pilot
+studies answer “oranges” in this latter case, and this response suggests they fail
+to incorporate the complement under the scope of the top verb (for further details
+and possibilities, see de Villiers, 1999). In this kind of task two things need to be
+highlighted:
+
+(a) The verb in question was a verb of communication, not of mental state. It
+has been pointed out repeatedly that verbs of communication have many
+syntactic and semantic properties that overlap with those of mental state
+verbs (Fodor, 1980). In fact, children make the mistake on (8) whether the
+verb is one of communication or of mental state.
+
+(b) Even when the verb was one of belief, the task required no computation on
+the part of the child about the state of belief or mind of the character: that
+information was provided by the story. All the child had to do was represent
+and remember it via the linguistic form provided.
+
+The results of several such studies suggest that 3-year-old children have difﬁ-
+culty representing the meaning of such a sentence even when the verb in question
+is about communication, and even though the answer has just been provided in
+the story. Their grammars do not seem to allow the appropriate accommodation of
+the proposition from the possible world under the complement-taking verb. As a
+result, they appear to ﬁnd a reading in which the question is about reality, namely
+“what did the mother buy?”
+
+It is possible that the spurious answers of the “medial” question above also
+relate to a failure of appropriate analysis of the complement in English, though the
+
+1040
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+exact status of these answers is a matter for ongoing cross-linguistic research which
+examines comparable syntactic structures in other languages (Abdulkarim, 2000;
+McDaniel, 1989; McDaniel, Chiu, & Maxﬁeld, 1995; Thornton, 1991).
+
+Children who cannot represent a structure such as (8) in their grammars may
+nevertheless be capable of representing it in conceptual structure, i.e., in their
+“language of thought” (Fodor, 1975). However, it is worth considering further the
+possibility that mastering the linguistic representation, for example with verbs of
+communication, might precede mastery of the equivalent conceptual representation
+of false beliefs.
+
+Bartsch and Wellman (1995) published an exhaustive analysis of the sponta-
+neous speech of young children acquiring the vocabulary and structures for mental
+states of desire and belief. In their analysis they found evidence for the use of con-
+trastive statements involving false beliefs some months prior to the usual age of
+mastery on standard false-belief tasks. The context of such utterances, however, is
+always incompletely speciﬁed, and the possibility of closely borrowing from the
+input, or using routine forms, is one that must be guarded against. There is also
+the difﬁculty that events calling for discussion of false beliefs or statements might
+be relatively rare, masking the child’s true competence by lack of opportunity.
+Eliciting speech around such events may be a more successful technique, though
+the child can always exercise the option not to talk about some aspect of an event.
+Astington and Jenkins (1995, 1999) conducted a longitudinal study of the rela-
+tionship between language measures and false-belief-understanding in preschool-
+ers. With age partialled out, they found that general false-belief-understanding,
+summed across four standard tests of false-belief reasoning, was signiﬁcantly cor-
+related with measures of syntactic and semantic maturity on the Test of Early
+Language Development (TELD). Furthermore the children’s language perfor-
+mance predicted their later false-belief performance, but the reverse did not hold.
+These data lend credence to the notion that individual differences in age of mas-
+tery of false-belief tasks might be connected to the child’s level of linguistic
+sophistication, but the level of analysis here is too broad to be interpretable.
+Thus the possibility remains, for example, that children who are better at lan-
+guage might ﬁnd the false-belief stories easier to follow. Furthermore, the TELD
+has no particular subsection devoted to complementation, here regarded as the
+critical syntactic ingredient for the successful representation of other’s states of
+belief.
+
+The current study attempts to answer some of these questions and test a very
+speciﬁc hypothesis about the emergence of false-belief-understanding, namely,
+that it rests on the child’s mastery of the grammar (semantics and syntax) of
+complementation.
+
+For that reason we attempted a longitudinal study of the sort carried out by
+Astington and Jenkins (1995, 1999), only with multiple language assessments as
+well as tests of false-belief-understanding. We believed it was particularly impor-
+tant to separate out mastery of complementation from other aspects of grammatical
+growth, and to assess it in spontaneous speech, via elicitation techniques, and in
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1041
+
+the speciﬁc story/question technique described above that allowed us to detach it
+from the demands of “reading” the character’s mental state.
+
+2. Method
+
+2.1. Subjects
+
+The subjects were 28 children in local preschool and daycare centers, average
+age 3–5 years at the start of the study (range 3–1 to 3–10 years). There were 13
+boys and 15 girls, all normally ﬂuent in English for their age and native speakers
+of English. Two cohorts were run over successive years, with each cohort tested
+over the course of 1 year, with identical procedures and materials.
+
+2.2. Procedure
+
+The tasks used were a collection of false-belief tasks and language tasks. The
+tasks each had four variants with different content, divided into sets labeled A, B,
+C and D. Different orders of these sets were given to different children across the
+testing periods, resulting in roughly equal representation of each set of materials
+in each testing period. Each round of testing required two or three short sessions
+with each child in a separate room, and all sessions were videotaped for later
+checking against the on-site coding. The testing was carried out in four session
+blocks: October, January/February, May then again in October. We analyze here
+only the ﬁrst three sessions since by the October 2 all the children but one were
+passing false belief tasks.
+
+3. False-belief tasks
+
+3.1. Unexpected Contents (Perner, Leekam, & Wimmer, 1987)
+
+In this task, the child was presented with a familiar candy container, say a
+Smarties tube, which they then opened and found to be full of pencils. Then
+they were told that a classmate (say, Sarah) will be brought in, and are asked
+e.g., “What will Sarah think is in the box?” The child was also asked, “Before,
+when you were sitting over there, what did you think was in the box?” In this
+standard Unexpected Contents task, 3-year-old children are prone to say that
+Sarah will think there are pencils in the box, apparently failing to understand
+that the other person’s beliefs may be false. Furthermore, children are often un-
+able to report what they ﬁrst believed was in the candy box (Gopnik & Astington,
+1988).
+
+We used four different containers with Unexpected Contents, one in each round
+of testing, and asked both about the child’s own prior belief and their friend’s
+
+1042
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+likely belief, for a total of 2 points. The containers chosen to be most familiar
+were: a Band-Aids tin, a small raisins box, a small milk carton, and a Playdoh
+container.
+
+3.2. Unseen displacement (Wimmer & Perner, 1983)
+
+In this type of task, a child is told a story which is acted out in front of her, and
+in the story a character comes to hold a false belief about the whereabouts of an
+object. The child must then predict where the character will ﬁrst look (Siegal &
+Beattie, 1991) for that object.
+
+Story: This boy Bobby and his daddy bought a nice cake for after dinner. But
+Bobby wanted to go out to play so he put the cake away until after dinner. He put it
+in this cupboard for later. Then he went out to play. Then the daddy thought, “Oh,
+no, the frosting on the cake might melt!,” so he took the cake out of the cupboard
+and put it in the refrigerator so the frosting wouldn’t melt. Then he went out to get
+some tomatoes for dinner.
+
+Memory check questions: Where did Bobby put the cake? Where is it now?
+False-belief question: Now Bobby is tired of playing and he’s coming home.
+He remembers where he put the cake. When he comes in the kitchen, where will
+Bobby ﬁrst look for the cake?
+
+Explanation question: Why will he look there?
+The mistake made by a child who fails to take into account Bobby’s knowl-
+edge is to say he will look in the refrigerator, that is, where the cake really
+is. Children who take into account the difference between the character’s be-
+lief and their own say he will look in the cupboard. However, we also ask the
+question “why will he look there?” and ﬁnd, like in other reports, that chil-
+dren may correctly identify the place the character would look without giving
+appropriate explanations. Because chance is 50/50 for identifying the right lo-
+cation, the problem lies in interpreting this answer. Leslie (1994) argued that
+the best guarantee that the answer was not by chance was to use a SEE con-
+trol, in which the character sees the object moved, and thus has a true belief.
+We did not choose a SEE control, but rather considered whether the child gave
+a suitable explanation for the character looking in the wrong location. This ex-
+planation did not have to require mentalistic vocabulary. Thus, saying “because
+he put it there” counted as a perfectly adequate answer. An answer that did not
+count as adequate might be saying, “because the dad moved it”, since such an
+explanation fails to account for why the character chose to look in the wrong
+place, and seems more appropriate to the question, “why did he not ﬁnd it?”.
+We thus scored the “Prediction” measure both leniently and conservatively, with
+the latter counting not just the choice of where the character would look, but
+also the reasonable justiﬁcation for that choice. The child received two such
+stories on any round, for a total of 2 points for “Prediction” or for “Justiﬁed
+Prediction”.
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1043
+
+3.3. Explanation of Action (Bartsch & Wellman, 1989)
+
+The ﬁnal false-belief task used was an amalgam of the other two in which a
+puppet is deceived. The child is shown a puppet which is then put to sleep out of
+sight. While the puppet is away, the child is shown a familiar box, say of eggs,
+and the eggs are removed from the container and hidden in another neutral box.
+The puppet is then brought onto the scene and the child is told, “You know what
+he likes to do when he wakes up? He likes to eat eggs!” The puppet is then made
+to manipulate the (empty) egg box and the child is asked, “Why is he looking in
+there?” and “Why isn’t he looking in that (other) box?” Mental explanations are
+again not necessary for points on this task: saying, “because they were in there” is
+coded as a satisfactory explanation.
+
+The false-belief tasks each had a maximum score of 2, for a total of 6 each
+
+round. The “passing” criterion was set at 5 or 6 correct out of 6 possible.1
+
+4. Language tasks
+
+4.1. Memory for complements in described mistakes
+
+On each round, children received photographs or drawn pictures of brief stories
+in which a character was described as making a mistake, telling a lie, or having a
+false belief. The subject’s task was to report what the content of that mistake was.
+Previous work had shown that children have difﬁculty in answering such questions
+when the lower or embedded proposition is false (de Villiers, 1995a). This task
+does not require the child to “read” the character’s state of mind, but merely to
+represent it by holding the sentence in mind and then repeating the relevant piece
+back. There were 12 such events, six of which involved acts of thinking (verbs
+think and believe) and six involved acts of communication (verbs say and tell).
+These were further subdivided such that for half of the events of each type, the
+question asked for a report of the contents of the character’s belief/statement, for
+example:
+
+(9) He thought he found his ring, but (second picture) it was really a bottle
+
+cap. What did he think? (Pointing back at ﬁrst picture.)
+
+(10) She said she found a monster under her chair, but (second picture) it was
+really the neighbor’s dog. What did she say? (Pointing back at ﬁrst picture.)
+
+We scored this leniently, that is if a child answered “A monster!” we scored it
+correct; we did not require the child to say, “that she found a monster.” Even the
+minimal response reveals that children processed the complement structure in the
+story. A response such as “a dog!” did not get a point.
+
+1 Copies of all the additional stories are available from the authors on request.
+
+1044
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+For the other half, the question asked for a report on the object of the character’s
+believed or stated action, which required simply a noun rather than the whole
+propositional content:
+
+(11) This girl saw something funny at a tag sale and paid a dollar for it. She
+thought it was a toy bird but (second picture) it was really a funny hat. What
+did she think she bought? (Pointing back at ﬁrst picture.)
+
+A response such as “hat” counted for 0 point, a response indicating “bird”
+counted for 1 point. Memory for Complements had a total possible score of
+12; criterion for passing was set at 10 or more out of 12. We derived two fur-
+ther scores: Memory for Complements/mental verbs and Memory for Comple-
+ments/communication verbs, using 5/6 as the criterion for passing each.
+
+4.2. Spontaneous speech
+
+In each round we collected and transcribed the spontaneous speech of the chil-
+dren while they talked to us in the test sessions, played computer adventure games
+with us, played with various toys, and after watching amusing silent videos when
+they spontaneously offered their own experiences.
+
+the grammatical
+
+Spontaneous language was coded in several ways. We derived MLU scores, and
+also derived a total IPSYN score (Scarborough, 1990), an index of the range and
+complexity of
+forms used. Within the IPSYN scoring
+are several subtotals that we also derived for analysis, including the total Sen-
+tence Score (IPSYN SS), the total complex sentences (IPSYN complex), the total
+score for complements (IPSYN comps), and the total complex minus complements
+(IPSYN-w/o-comps). In this way we could separate the critical feature, namely
+sentential complements with mental/communication verbs, from other forms of
+complex sentence that play no role in our theoretical argument, such as relative
+clauses and if-then clauses.
+
+5. Medial answers to wh-questions
+
+Based on earlier work discussed above, we were also interested in studying
+further the tendency of children to treat the medial wh-word as a question instead
+of a complementizer in a question after a story such as:
+
+This little girl went shopping one afternoon but she was very late going home. She
+went a short way home over a fence but she ripped her dress on the wire. That night
+when she was in bed she told her mom, “Look I ripped my dress this afternoon !”
+
+When did the girl say what she ripped?
+
+We had speculated that the stage at which children answer the medial might
+represent a failure to appropriately subcategorize the complement under the verb.
+For that purpose we used four such questions following stories in each round, and
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1045
+
+coded whether the child gave a correct answer:
+
+(a) A short distance answer (when did she say it? — “that night”, or “when she
+
+was in bed”).
+
+or a wrong answer:
+
+(b) A long distance answer (when did (she say) she ripped the dress — “that
+
+afternoon”, “going home” or “when she was on the fence”).
+
+(c) A medial answer (what did she rip? — “her dress”).
+
+The child could get 4 points for answering each question with an answer such
+as (a). We also recorded the error types, which were overwhelmingly type (c) as
+in previous work.
+
+6. Results
+
+6.1. Coincident change over time
+
+Fig. 1 shows the growth in percentage correct of each type of test item across
+rounds. Given the variability in amount of spontaneous speech across rounds and
+the resultant lack of comparability, we do not consider the spontaneous speech in-
+dices on this graph. We separated the mental and communication verbs in the Mem-
+ory for Complements task but collapsed across tokens within each type as there
+were no signiﬁcant differences. Fig. 1 demonstrates that all these abilities change
+and grow within the same time frame, with the average performance on both types
+of Memory for Complements usually slightly higher than that on the false-belief
+tasks, but the order of inﬂuence is not clear from such a pattern. What is also
+
+Fig. 1. Percentage correct on each task at each round.
+
+1046
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+evident is that the correct answers to the questions with a medial wh-complementizer
+lag well behind the other language skills.
+
+A word is in order about the measure of “Prediction”, namely, a verbal or
+pointing answer to the question “where will X ﬁrst look for the Y?” in the unseen
+displacement task. The graphs show this task always taking the lead in terms of
+percentage correct. Leslie (1994) argued for a SEE control (where the character
+sees the object moved) as a way to check the validity of the prediction measure: we
+opted for a “Justiﬁed Prediction” measure instead. It is interesting to note that in
+the ﬁgures, “Justiﬁed Prediction” falls squarely in line with the other false-belief
+measures.
+
+The data, however, must be analyzed more precisely to determine order of
+effect in the relationship between complements and false beliefs. We contend that
+mastery of the false-belief tasks has as a prerequisite that the child be able to
+linguistically represent complements that are false. Children who fail false-belief
+tasks, on the other hand, are still in the process of developing the ability to represent
+complements. Fig. 2 shows the percentage of children who count as “passers” on
+the Memory for Complements task and the set of false-belief tasks, on each round.
+Again, there are always more “passers” on the syntax task than on false belief, at
+each round.
+
+6.2. Language measures
+
+Before turning to the prediction concerning language and Theory of Mind de-
+velopment, consider ﬁrst the inter-correlations among the language variables them-
+selves.
+
+There are several general language variables:
+
+(1) MLU.
+(2) The general IPSYN score (overall IPSYN).
+
+Fig. 2. Percentage of passers of task composites by round.
+
+J
+.
+G
+
+.
+
+d
+e
+V
+
+i
+l
+l
+i
+e
+r
+s
+,
+
+J
+.
+E
+
+.
+
+P
+y
+e
+r
+s
+/
+
+C
+o
+g
+n
+i
+t
+i
+v
+e
+D
+e
+v
+e
+l
+o
+p
+m
+e
+n
+t
+1
+7
+
+(
+2
+0
+0
+2
+)
+1
+0
+3
+7
+–
+1
+0
+6
+0
+
+1
+0
+4
+7
+
+1048
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+(3) The IPSYN sentence score (IPSYN SS).
+(4) The IPSYN complex sentence score (IPSYN complex).
+(5) The IPSYN sentence score minus complements (IPSYN SS no comps).Then
+
+there are four that speciﬁcally relate to complementation:
+
+(6) The IPSYN score for complements (IPSYN comps).
+(7) Memory for mental complements.
+(8) Memory for communication complements.
+(9) Wh-question: namely, correct short distance answers to wh-questions with
+
+a medial wh-word.
+
+Unfortunately the spontaneous output was sparse in Round 1, as the children
+were new to us and the testing, so we had insufﬁcient data on which to calculate
+reliable IPSYNs. Much richer language data emerged from Round 2. Table 1
+shows the correlations among the language variables at this round, mostly high as
+expected since all are indices of syntactic development.
+
+A factor analysis on selected language variables 1, 5, 6, 7, 8 and 9 was per-
+formed to conﬁrm that the measures tapping complementation had a commonality
+not shared with the remaining more general language measures. The factor analysis
+revealed the presence of two factors, the ﬁrst accounting for 49.3% of the variance,
+the second for 23.2%. After Varimax rotation, the loading of the various language
+measures on the two variables is revealed (see Table 2). Very clearly, the ﬁrst is com-
+plementation, since Memory for Complements/communication verbs and Memory
+for Complements/mental verbs are the highest factors, with IPSYN complements
+also signiﬁcant on that factor. The second factor is most likely general language
+skills, and MLU and IPSYN-w/o-complements load most heavily. Clearly this
+more general factor is also contributing to performance on the wh-questions and
+IPSYN complements, so while these tap complementation skill, they also reﬂect
+more general language development.
+
+6.3. Relations among the false-belief measures
+
+Table 3 presents the correlations among the false-belief measures on each of the
+three rounds. Note that the correlation between Prediction and Justiﬁed Prediction
+is a trivial one, since they are yoked together at least partially. But here also
+we see that Justiﬁed Prediction is a better correlate with the other tasks than is
+Prediction alone. However, the false-belief tasks are not highly intercorrelated,
+probably because the sample is relatively small and the measures themselves are
+only 0, 1, 2 on each measure.
+
+6.4. Relations among language measures and false-belief measures:
+product-moment correlations
+
+For this analysis we show in Table 4 the inter-correlations among perfor-
+mance on the language measures and performance on the three false-belief tasks:
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1049
+
+Table 2
+Factor analysis of selected language measures at Round 2
+
+Varimax rotation: rotated factor matrix
+
+Memory for Complements/communication verbs
+Memory for Complements/mental verbs
+IPSYN complements
+Wh-questions
+MLU
+IPSYN-w/o-complements
+
+Factor 1
+
+.93866
+.95054
+.65937
+.28128
+.14723
+−.03461
+
+Factor 2
+
+.09476
+.09019
+.51611
+.62118
+.75448
+.88917
+
+Unexpected Contents and Explanation of Action as well as the measures of Pre-
+diction and Justiﬁed Prediction. Round 2 is chosen because that was when there
+was the greatest variance on all tasks and the spontaneous language measures were
+all adequately sampled.
+
+The correlations in bold are signiﬁcant as shown. Although Table 1 revealed
+that the language measures also intercorrelate quite highly, it is clear also that the
+syntactic measures that tap complementation, Memory for Complements/mental
+and Memory for Complements/communication, as well as the IPSYN score on
+spontaneous complements (IPSYN comps) show a strong relationship to the var-
+ious indices of false-belief performance. The measure of answering the correct
+short distance wh-question did not show a strong relationship primarily because
+so few children passed this task in Round 2. As mentioned previously, avoiding the
+medial wh-question answer may require more than complementation. In contrast,
+the measures of syntax that do not measure complementation, MLU and the more
+
+Table 3
+Correlations among false-belief measures across rounds
+
+Prediction
+
+Justiﬁed Prediction
+
+Unexpected Contents
+
+Round 1
+
+Prediction
+Justiﬁed Prediction
+Unexpected Contents
+Explanation of Action
+
+Round 2
+
+Prediction
+Justiﬁed Prediction
+Unexpected Contents
+Explanation of Action
+
+Round 3
+
+Prediction
+Justiﬁed Prediction
+Unexpected Contents
+Explanation of Action
+
+.618 (P < .001)
+.260 (ns)
+.348 (P < .07)
+
+.418 (P < .01)
+.303 (ns)
+.398 (P < .05)
+
+.595 (P < .001)
+.218 (ns)
+.439 (P < .02)
+
+.239 (ns)
+.567 (P < .002)
+
+.347 (P < .07)
+
+.218 (ns)
+.623 (P < .001)
+
+.249 (ns)
+
+.230 (ns)
+.806 (P < .001)
+
+.033 (ns)
+
+1050
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+Table 4
+Correlations of language measures with false-belief measures: Round 2
+
+Memory for
+
+Complements/
+mental
+
+Memory for
+
+Complements/
+communication
+
+IPSYN comps
+Correct wh-questions
+IPSYN complex
+IPSYN SS
+IPSYN no comps
+IPSYN general
+MLU
+
+Prediction
+
+Justiﬁed
+Prediction
+
+Unexpected
+Contents
+
+Explanation
+of Action
+
+.419 (P < .03)
+
+.418 (P < .03)
+
+.548 (P < .003)
+
+.391 (P < .04)
+
+.366 (P < .06)
+
+.484 (P < .01)
+
+.420 (P < .03)
+
+.433 (P < .02)
+
+.232 (ns)
+.238 (ns)
+.101 (ns)
+.226 (ns)
+.190 (ns)
+.153 (ns)
+.182 (ns)
+
+.417 (P < .03)
+.260 (ns)
+.356 (ns)
+.457 (P < .02)
+.402 (P < .05)
+.237 (ns)
+.419 (P < .03)
+
+.394 (P < .04)
+.224 (ns)
+.349 (ns)
+.160 (ns)
+.059 (ns)
+.142 (ns)
+.326 (ns)
+
+.512 (P < .005)
+.096 (ns)
+.315 (ns)
+.321 (ns)
+.210 (ns)
+.143 (ns)
+.046 (ns)
+
+general IPSYN scores, show a weaker realtionship to false-belief performance.
+Out of the possible 12 correlations between clear complementation and false-belief
+performance, 10 are statistically signiﬁcant and positive. The wh-measure fails on
+all counts as a predictor. For the more general syntax measures that do not reﬂect
+complementation, only 3 out of 24 correlations with false-belief performance reach
+signiﬁcance.
+
+It is important to note that the least verbal false-belief measure, namely
+“Prediction” without justiﬁcation, is the most weakly correlated with the com-
+plementation measures. We will return to this point later in the discussion. In
+what follows, we take as our composite score of “passing” false belief, the scores
+on Justiﬁed Prediction, Unexpected Contents (self and other) and Explanation of
+Action.
+
+6.5. Direction of effect: pass/fail contingencies
+
+To test the direction of effect between language measures and false-belief mea-
+sures, we conducted two separate kinds of analyses, one a categorical pass/fail
+analysis and the other considering the measures as continuous variables. Consider
+ﬁrst the categorical analysis. We set as criteria for passing false belief a score of 5 or
+6 out of 6 on the composite across three task types. Essentially that decision makes
+a categorical gap between a score of 4 and a score of 5, and considers all lower
+scores equivalent. Likewise, on the Memory for Complements, we coded passing
+as 10, 11 or 12 correct out of a possible 12. All scores below 10 are considered
+“failing”. These are reasonably rigorous criteria by the binomial distribution.
+
+Then we asked: do children always pass Memory for Complements before
+false belief, but never vice versa? Table 5 shows the children who ﬁt the four
+possible patterns across the three rounds: simultaneous fail, simultaneous pass,
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1051
+
+Table 5
+Contingency tables of passing Memory for Complements (syntax) and false belief (FB) calculated
+across rounds
+
+Fail FB
+Pass FB
+
+Fail syntax
+
+1
+5
+
+Pass syntax
+
+13
+10
+
+pass false belief before Memory for Complements, pass Memory for Complements
+before false belief. The appropriate test here is not chi-square, which tests only
+contingency, but simply the likelihood of falling above or below the diagonal, i.e.,
+13 in one direction and 5 in the other. A sign test on the difference is signiﬁcant
+(P ≤ .05).
+
+Consider these data in the light of the other measures we had on the children’s
+language. For the Round 1 exceptions, one child “passed” false beliefs while only
+achieving a score of 2/12 on the Memory for Complements task. Neither did this
+child offer mental explanations in the false-belief tasks. However, he spontaneously
+used complements structures in his speech, showing he had the hypothesized pre-
+requisite structures. For instance, he said the following upon hearing music from
+the room below:
+
+“I think that’s my room making all that sound, ’cos we always make that music.”
+
+The second exceptional child achieved a score of just 8/12 on Memory for
+Complements, but produced in addition two fully formed mental explanations,
+complete with mental verb and complement, as justiﬁcations for his prediction in
+the Unseen Displacement task, as well as spontaneous evidence of complemen-
+tation on the IPSYN. Therefore, he had control of the necessary syntax. Inter-
+estingly, by Round 2 both of these children improved to 11/12 on Memory for
+Complements. The third child achieved only 2/12 on Memory for Complements
+but produced a spontaneous mental explanation with full syntactic complement in
+the false-belief task and two further spontaneous complements as measured by the
+IPSYN.
+
+There are two further exceptions in Round 3. One child passed false belief while
+failing Memory for Complements (7/12), though he gave one perfectly well-formed
+mental explanation using a complement structure for the prediction on the Unseen
+Displacement task. The second scored 1/12 on Memory for Complements, but pro-
+vided evidence from IPSYN scoring of spontaneous well-formed complements. So
+in every case, children who passed false beliefs gave us evidence that they had pro-
+ductive command of complementation. The most reliable evidence seems to come
+from the Memory for Complementation task, though it was not infallible in eliciting
+the correct forms. In only 5 cases out of 84 predictions (28 subjects×3 rounds), did
+we have to extend the evidence beyond that task to include spontaneous speech and
+explanation. We examine the Memory for Complements task as a unique predictor
+in the next analysis.
+
+1052
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+Of course, we realize the one-sidedness of this analysis, in that we had more
+data to draw upon to support our language analysis than we had informal means of
+assessing understanding theory of mind. That is, it could be argued that children
+who showed no linguistic evidence of complements and failed our various tasks of
+false belief, really understood other minds in everyday life. We must acknowledge
+that this possibility remains open to future testing, and we are actively pursuing
+more indirect ways to assess false-belief-understanding.
+
+6.6. Hierarchical regression: partialling out general language ability
+
+Which language measures predict a signiﬁcant percentage of variance in false
+belief? Children who have, say, larger vocabularies or longer sentences, may have
+advantages in following the cognitive demands of tasks. To avoid confounding
+our speciﬁc claim with that of general linguistic advantage, we use a hierar-
+chical regression to test which language measures contribute most strongly to
+false-belief-understanding, given that all of the linguistic tasks are highly inter-
+correlated. The theory predicts that the key to understanding false belief is mastery
+of complementation, not overall length of utterance or other kinds of linguistic com-
+plexity. We have contended that Memory for Complements is the most pertinent
+and reliable measure of this mastery.
+
+The factor analysis provided a way to divide the language variables. With the
+dependent measure as false belief at Round 2, we ﬁrst entered as a block the
+two general language measures for which there is no theoretical connection to
+false-belief reasoning: MLU and IPSYN-without-complements. Those two vari-
+ables accounted for an insigniﬁcant amount of variance (14.3%) as seen in Table 6.
+We then entered as the second block two of the variables that relate to complemen-
+tation: medial-wh answers, and IPSYN complements, and the variance accounted
+for is signiﬁcant (35.3% ) as is the change in R2 (R2 = 20.9%, P ≤ .04). When
+the theoretically most sensitive variable, Memory for Complements, is added, the
+variance accounted for jumps to 47%, again a signiﬁcant change (R2 = 11.7%,
+P ≤ .04). If we try reversing the order, entering Memory for Complements in
+block 2, the variance accounted for is highly signiﬁcant (R2 = 44%, P ≤ .0025)
+but entering the other two complement measures as block 3 adds no signiﬁcant
+variance.
+
+As a second, non-categorical approach to the question of direction of effect, we
+considered the measures as continuous variables and ran regression analyses pre-
+dicting future scores. Hierarchical multiple regressions were run with either false
+belief (0–6) at Round 3 as the dependent variable, or Memory for Complements
+syntax measure at Round 3 (0–12) as the dependent variable. So we contrast the
+results of predicting false belief at Round 3 on the basis of the language mea-
+sures at Round 2, with the results of the reverse scenario, predicting Memory for
+Complements at Round 3 on the basis of Round 2 false-belief measures. With the
+dependent measure as false belief at Round 3, we entered the Round 2 general
+language measures MLU and IPSYN-w/o-complements, with no signiﬁcant result
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1053
+
+Table 6
+Summary of hierarchical regression analysis for variables predicting false belief at Round 2
+
+B (S.E.)
+
+β
+
+Variable
+
+Step 1a
+
+MLU at Round 2
+IPSYN-w/o-complements
+
+Step 2b
+
+MLU at Round 2
+IPSYN-w/o-complements
+IPSYN complements
+Wh-question
+
+Step 3c
+
+B
+
+.422
+.092
+
+.223
+.010
+.900
+−.017
+
+.346
+.122
+
+.322
+.119
+.343
+.329
+
+.265
+.164
+
+.141
+.017
+.519
+−.010
+
+∗
+
+.089
+.143
+.238
+−.063
+.448
+
+∗
+
+.142
+.080
+.413
+−.107
+.237
+
+MLU at Round 2
+IPSYN-w/o-complements
+IPSYN complements
+Wh-question
+Memory for Complements
+a At Step 1, R2 = 14.4% (ns).
+b At Step 2, R2 = 35.3%, P = .03, R2 = 20.9%, F = 3.71, P ≤ .04.
+c At Step 3, R2 = 47%, P = .01; R2 = 11.7%, F = 4.84, P ≤ .04.
+∗
+Signiﬁcant at P < 0.05 level.
+
+.300
+.115
+.387
+.307
+.108
+
+(see Table 7). Adding the next two complement measures, neither the variance
+(20%) nor the change in variance (3%) is signiﬁcant. Adding Memory for Com-
+plements, however, creates a signiﬁcant change in the variance (R2 = 13%,
+P ≤ .048). Dividing Memory for Complements into its component verb types:
+communication and mental verbs (score 0–6 on each), a further regression reveals
+that if Memory for Complements/communication verbs is added as block 2, that
+creates a signiﬁcant R2 change over the general language measures (R2 = 13%,
+P ≤ .044), and then adding Memory for Complements/mental verbs at Step 3 adds
+nothing signiﬁcant to the equation (Table 8). If Memory for Complements/mental
+verbs is entered at block 2, no signiﬁcant results emerge.
+
+With the dependent measure set instead as Memory for Complements at Round
+3, the three component false-belief tasks — Unexpected Contents, Justiﬁed Pre-
+diction and Explanation of Action — at Round 2 were used as predictor variables.
+There is no signiﬁcant variance accounted for by the false-belief measures at Round
+2 on this measure of syntax at Round 3. As a further test, we used as the dependent
+measure the spontaneous IPSYN complements measure from Round 3, but once
+again found no signiﬁcant variance accounted for by the false-belief measures at
+Round 2. Taking the false-belief measures from Round 2 as a composite score
+(0–6) instead, this also results in no signiﬁcant prediction of complement mastery
+at Round 3.
+
+Taken together, this set of results reveal that the language measures pertaining to
+complementation, and speciﬁcally the Memory for Complements measure, predict
+
+1054
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+Table 7
+Summary of hierarchical regression analysis for variables predicting false belief at Round 3
+
+Variable
+
+Step 1a
+
+MLU at Round 2
+IPSYN-w/o-complements
+
+Step 2b
+
+MLU at Round 2
+IPSYN-w/o-complements
+IPSYN complements
+Wh-question
+
+Step 3c
+
+B
+
+.229
+.135
+
+.215
+.103
+−.042
+.289
+
+.144
+.164
+−.466
+.211
+.206
+
+MLU at Round 2
+IPSYN-w/o-complements
+IPSYN complements
+Wh-question
+Memory for Complements
+a At Step 1, R2 = 17.1%.
+b At Step 2, R2 = 20.5%.
+c At Step 3, R2 = 33.7%; R2 = 13.3%, F = 4.4, P ≤ .05.
+∗
+Signiﬁcant at P < 0.05 level.
+
+B (S.E.)
+
+β
+
+.278
+.098
+
+.291
+.108
+.311
+.298
+
+.274
+.105
+.354
+.280
+.098
+
+.176
+.293
+
+.165
+.224
+−.030
+.969
+
+.111
+.357
+−.329
+.152
+.477
+
+∗
+
+the children’s false-belief performance in the same round. But most importantly,
+the score on complements predicts the score on false belief in the next round,
+whereas false-belief performance does not predict language ability as measured in
+the next round. This is compatible with the view that mastering complements is
+
+Table 8
+Further hierarchical regression analysis for language variables predicting false belief at Round 3
+
+B
+
+B (S.E.)
+
+β
+
+Variable
+
+Step 1a
+
+MLU at Round 2
+IPSYN-w/o-complements
+
+Step 2b
+
+MLU at Round 2
+IPSYN-w/o-complements
+Memory for Complements/communication
+
+Step 3c
+
+.229
+.135
+
+.124
+.137
+.313
+
+.278
+.098
+
+.265
+.092
+.147
+
+.176
+.293
+
+.095
+.299
+.370
+
+∗
+
+.123
+.284
+.550
+−.211
+
+MLU at Round 2
+IPSYN-w/o-complements
+Memory for Complements/communication
+Memory for Complements/mental
+a At Step 1, R2 = 17.1%.
+b At Step 2, R2 = 30.3%, P ≤ .03, R2 = 13.2%, F = 4.53, P ≤ .04.
+c At Step 3, R2 = 31.3%, R2 = 1%, ns.
+∗
+Signiﬁcant at P < 0.05 level.
+
+.160
+.130
+.464
+−.174
+
+.275
+.094
+.296
+.295
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1055
+
+an important determinant of false-belief performance rather than vice versa. It is
+also signiﬁcant that it is mastery of complements with communication verbs that
+seems to be the core development, because the shared variance is not therefore
+simply attributable to the semantic content of lexical items such as “thinks” or
+“knows”.
+
+By choosing the composite measure of false belief as we did, there is a risk that
+we have built into our tasks the requirement of complex language. Here we have
+endeavored to show that
+
+(i) the justiﬁcations and explanations we require for passing false belief do NOT
+need linguistic complementation overtly, i.e., if a child says “because he put
+it there,” we count that as an adequate reason and
+
+(ii) the language measures that predict false-belief reasoning are not general lin-
+guistic sophistication but speciﬁc to command of complements, with com-
+plements using communication verbs being as adequate if not more so, than
+complements using mental verbs.
+
+The least linguistically demanding task is the unseen displacement task using
+“Prediction”, and in Round 2 the language measures did not correlate well with
+that measure. If “Prediction” is in fact leading the way in false-belief reasoning,
+i.e., children can predict before they can give a reason or explain, the possibility
+arises that they can do this without command of complementation. To check the
+possibility that Prediction is independent of the speciﬁc language requirement, we
+performed one further simple regression, to see if Prediction (without necessar-
+ily justiﬁcation) at Round 2 could be predicted by Memory for Complements at
+Round 1. We chose Rounds 1 and 2 for this lagged regression rather than Rounds
+2 and 3 because there is essentially no variance in Prediction by Round 3 (see
+Fig. 1). Both Memory for Complements/communication and Memory for Com-
+plements/mental at Round 1 are signiﬁcant predictors of Prediction in Round 2
+(R2 = 21.9%; P ≤ .05; see Table 9). However in this case we are not able
+to make a deﬁnitive case for directionality. Round 1 Prediction scores also pre-
+dict Round 2 Memory for Complements (R2 = 24.3%, F = 8.3, P ≤ .05; see
+Table 10).
+
+Table 9
+Summary of hierarchical regression analysis for Round 1 language variables predicting Prediction
+measure at Round 2
+
+Variable
+
+Round 1 measures
+
+Memory for Complements/communication
+Memory for Complements/mental
+a R2 = 21.9%, P ≤ .045.
+
+B
+
+B (S.E.)
+
+β
+
+.277
+−.209
+
+.105
+.098
+
+.717a
+−.575a
+
+1056
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+Table 10
+Summary of hierarchical regression analysis for Round 1 prediction measure predicting Memory for
+Complements at Round 2
+
+Variable
+
+Round 1 measure
+
+Prediction
+a R2 = 24.3, P ≤ .008.
+
+B
+
+2.08
+
+7. Discussion
+
+B (S.E.)
+
+.723
+
+β
+
+.493a
+
+Consider again the relationships predicted to hold between language of com-
+plementation and false-belief-understanding. We wish to argue that the child needs
+the full syntax of mental verbs plus sentential complements in order to represent
+in his own mind the belief states of other people, not simply to encode them for
+reporting about them in speech. The present data do not conclusively decide this
+question, but they are compatible with such a claim. Other work, for example with
+severely language-delayed deaf children, offers corroboration (de Villiers & de
+Villiers, 2000).
+
+But what would the child be able to talk about in such language forms if he
+didn’t yet have an understanding of false beliefs? One possibility we argued is
+that he could use exactly such structures for talking about communication events,
+since communication verbs can also take true or false tensed complements. The
+child could then bootstrap his way to a full mastery of mental verbs and comple-
+ments via communication verbs and their complements. This proposal was made in
+de Villiers (1995a, 1995b) where a full staged model of how complements might
+be acquired was outlined. In that model, the child who hears communication verbs
+and complements, for example:
+
+(12) She said she washed her hands
+
+can check their meaning against the occasional overt evidence available in the
+environment, speciﬁcally that the speaker in question said “I washed my hands” and
+didn’t wash them. This is important in learning the possibility that such structures
+permit false complements — a property unique to complements but not to adjunct
+clauses. In the case of mental verbs, there is no overt evidence of thinking, so
+making appropriate inferences about the meaning of a sentence such as:
+
+(13) She thought she washed her hands
+
+is bound to be more difﬁcult. We have no direct evidence in this study of earlier
+mastery of communication verbs, so this remains only a theoretical possibility. In
+the Memory for Complements task, half were communication verbs and half were
+mental verbs, but the task described both events in identical terms and there was
+no direct speech evidence to give advantage to the communication verbs, so it is
+not the ideal condition for such a test. Instead, the Memory for Complements task
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1057
+
+merely required the child to form the correct syntactic representation that would
+allow a computation of the appropriately embedded answer. No inferences of any
+sort concerning mental states were required, but the syntactic representation had
+to be available. The regression does suggest that at Round 2, the analysis that the
+subjects gave to the communication verbs was a better index of their mastery than
+that for the mental verbs, at least in so far as their performance on that set predicted
+how they did in the false-belief tasks later.
+
+Within contemporary linguistic theory, there are adherents to the view that all
+syntactic structures are available to children from the start, as part of Universal
+Grammar (Crain, 1991; Fodor, 1975; Hyams, 1986; Wexler, 1990). Hence mis-
+takes in interpreting complementation would be seen as performance or processing
+errors rather than stages of incomplete grammatical representation. This discus-
+sion would take us beyond the bounds of the current paper, and a commitment to
+either a representational or a linguistic processing deﬁcit is not strictly necessary
+for the present argument. The point here is that a child who fails to retain the
+appropriate syntactic representation for a complement construction will not have
+it available as a form of mediating representation for false-belief-understanding. If
+false-belief-understanding depends on such a representation, the child will then fail
+false-belief tasks. Our data above conﬁrm this prediction. Furthermore, we demon-
+strate that mastery of complement structures is the best predictor of false-belief
+performance, and the latter is not just a function of higher overall language ability
+such as MLU or skill at variety of syntactic forms other than complementation.
+
+But, if we argue that command of complementation is a prerequisite for suc-
+cess on false belief, why did the spontaneous speech measure of complements not
+contribute to the prediction of false belief in the regression? The primary reason is
+that complements were relatively rare in the spontaneous speech, thus the measure
+was confounded with opportunity in a way that the elicited measure (Memory
+for Complements out of 12 possible occasions) was not. With more effort at de-
+signing situations to elicit talk about either communication or mental states, the
+contribution of spontaneous speech could be more adequately assessed.
+
+However, it is important to notice that the effect here is likely to be bi-directional,
+namely, understanding mental states undoubtedly makes it more probable and
+easier for the child to encode events in terms of people’s beliefs, motives, intentions,
+emotions and so forth. Hence the spontaneous speech measure is just as likely to
+be affected by achieving false-belief success as it is to affect it. All spontaneous
+and elicited use of mental state terms is subject to choice, and does not necessarily
+tap what the child can do.
+
+It is also important to note that we are not claiming that all Theory of Mind un-
+derstanding depends on mastery of these sophisticated linguistic representations.
+Obviously, the young child has begun mastering aspects of Theory of Mind un-
+derstanding that are precursors to false belief: reading intentions from eye gaze
+and pointing (Baldwin, 1991, 1993; Baron-Cohen, 1991; Tomasello, 1995), un-
+derstanding other’s desires (Gopnik, 1993) and the separation of pretence from
+reality (Leslie, 1987). It is also possible that an implicit expectation of how
+
+1058
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+another individual will act based on their previous attentional focus could emerge
+prior to an explicit reasoning about action based on false beliefs (in children,
+Clements and Perner, 1994; in tamarin monkeys, Hauser, 1999). Without such pre-
+cursors, it is possible that the linguistic representations would be useless (though
+see Tager-Flusberg (2000) for a counter-argument). Instead, we wish to argue that
+mastery of the linguistic structures bridges the two strands of development, the
+grammatical developments that encode events, and the understanding of others’
+behavior and the construction of a theory about it. The structural achievement of
+complements in language provides a representation for encoding false beliefs: with
+this representation the child can build the explicit theory on which such reasoning
+depends.
+
+Having achieved an explicit representation of false beliefs and the contents of
+other minds, the use of that theory in reporting and explaining actions proliferates,
+adding a new dimension to the child’s understanding of stories and of ordinary
+human interactions. This understanding in turn results in an increase in the spon-
+taneous use of mental verbs and complements. Mastery of Complementation is
+thus a classic example of a “keystone” — it is the connecting stone between two
+arches that completes the design and supports the structures above.
+
+Acknowledgments
+
+The work carried out here was supported by NIH grant #R01 HD32442. We are
+grateful for all the help provided by Kimberley Broderick in running subjects, tran-
+scribing and analyzing data, to Peter de Villiers, Helen Tager–Flusberg and Tom
+Roeper for their intellectual support and arguments, and audiences and colleagues
+at the Boston University conference on language development, Universities of
+Pennsylvania, Massachusetts, Berkeley, and Toronto. Thanks are also due to two
+anonymous reviewers for excellent suggestions.
+
+References
+
+Abdulkarim, L. (2000). Complex wh-questions and universal grammars: New evidence from the
+acquisition of negative barriers. PhD dissertation, Communication Disorders, U. Mass, Amherst.
+Astington, J. W., & Jenkins, J. M. (1995). Language and theory of mind: A theoretical review and a
+longitudinal study. Paper presented at the Biennial Meeting of the Society for Research in Child
+Development.
+
+Astington, J. W., & Jenkins, J. M. (1999). A longitudinal study of the relation between language and
+
+theory-of-mind development. Developmental Psychology, 35, 1311–1320.
+
+Baldwin, D. (1991). Infants’ contribution to the achievement of joint reference. Child Development,
+
+62, 875–890.
+
+Baldwin, D. (1993). Infants’ ability to consult the speaker for clues to word reference. Journal of Child
+
+Language, 20, 395–418.
+
+Baron-Cohen, S. (1991). Precursors to a theory of mind: Understanding attention in others. In A. Whiten
+(Ed.), Natural theories of mind: Evolution, development and simulation of everyday mindreading.
+Oxford: Basil Blackwell.
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+1059
+
+Bartsch, K., & Wellman, H. M. (1989). Young children’s attribution of action to beliefs and desires.
+
+Child Development, 60, 946–964.
+
+Bartsch, K., & Wellman, H. M. (1995). Children talk about the mind. New York: Oxford University
+
+Press.
+
+Bowerman, M. (1996). Learning how to structure space for language: A cross-linguistic perspective.
+In P. Bloom, M. Peterson, L. Nadel, & M. Garrett (Eds.), Language and space. Cambridge, MA:
+MIT Press.
+
+Bretherton, I., & Beeghly, M. (1982). Talking about internal states: The acquisition of an explicit theory
+
+of mind. Developmental Psychology, 18, 906–921.
+
+Clements, W. A., & Perner, J. (1994). Implicit understanding of belief. Cognitive Development, 9,
+
+377–395.
+
+Crain, S. (1991). Language acquisition in the absence of experience. Behavioral and Brain Sciences,
+
+14, 597–612.
+
+de Villiers, J. G., Roeper, T., & Vainikka, A. (1990). The acquisition of long distance rules. In L. Frazier
+& J. G. de Villiers (Eds.), Language processing and acquisition. Dordrecht: Kluwer Academic
+Publishers.
+
+de Villiers, J. G. (1995a). Steps in the mastery of sentence complements. Paper presented at the biennial
+
+meeting of the Society for Research in Child Development, Indianapolis, IN.
+
+de Villiers, J. G. (1995b). Questioning minds and answering machines. In D. MacLaughlin & S.
+McEwen (Eds.), Proceedings of the Boston University Conference on Language Development.
+Somerville, MA: Cascadilla Press.
+
+de Villiers, J. G. (1999). On acquiring the structural representations for false complements. In B.
+Hollebrandse (Ed.), New perspectives on language acquisition. GLSA, Amherst, MA: University
+of Massachusetts Occasional Papers in Linguistics.
+
+de Villiers, J. G. & de Villiers, P. A. (2000). Linguistic determinism and false belief. In P. Mitchell &
+
+K. Riggs (Eds.), Children’s reasoning and the Mind. Hove, U.K.: Psychology Press.
+
+Fodor, J. A. (1975). The language of thought. New York: Crowell.
+Fodor, J. A. (1980). Propositional attitudes. In N. Block (Ed.), Readings in philosophy of psychology.
+
+Cambridge, MA: Harvard University Press.
+
+Gopnik, A. (1993). How we know our minds: The illusion of ﬁrst person knowledge of intentionality.
+
+Behavioral and Brain Sciences, 16, 1–14.
+
+Gopnik, A., & Meltzoff, A. (1993). Words and thoughts in infancy: The speciﬁcity hypothesis and the
+
+development of categorization and naming. Advances in Infancy Research, 8, 217–249.
+
+Gopnik, A., & Astington, J. (1988). Children’s understanding of representational change and its relation
+to the understanding of false belief and the appearance reality distinction. Child Development, 59,
+26–37.
+
+Hauser, M. (1999). Primate representataion and expectations: Mental tools for navigation in a social
+world. In P. D. Zelazo, J. W. Astington, & D. R. Olson (Eds.), Developing theories of intention.
+Mahwah, NJ: Lawrence Erlbaum Associates.
+
+Hintikka, J. (1962). Knowledge and belief. Ithaca, NY: Cornell University Press.
+Hyams, N. (1986). Language acquisition and the theory of parameters. Dordrecht: Reidel.
+Leslie, A. (1987). Pretense and representation: The origins of theory of mind. Psychological review,
+
+94, 412–426.
+
+Leslie, A. (1994). Pretending and believing: Issues in the theory of ToMM. Cognition, 50, 211–238.
+Lewis, D. (1986). On the plurality of worlds. Oxford: Basil Blackwell.
+McDaniel, D. (1989). Partial and multiple wh-movement. Natural Language and Linguistic Theory, 7,
+
+565–605.
+
+McDaniel, D., Chiu, B., & Maxﬁeld, T. (1995). Parameters for wh-movement types: Evidence from
+
+child English, natural language . Natural Language and Linguistic Theory, 13(4), 709–753.
+
+Montague, R. (1974). Formal philosophy. New Haven, CT: Yale University Press.
+Nelson, K. (1996). Language in cognitive development: Emergence of the mediated mind. New York:
+
+Cambridge University Press.
+
+1060
+
+J.G. de Villiers, J.E. Pyers / Cognitive Development 17 (2002) 1037–1060
+
+Perner, J., Leekam, S., & Wimmer, H. (1987). 3-year-olds’ difﬁculty with false belief: The case for a
+
+conceptual deﬁcit. British Journal of Developmental Psychology, 5, 125–137.
+
+Scarborough, H. (1990). Index of productive syntax. Applied Psycholinguistics, 11(1), 1–22.
+Shatz, M., Wellman, H., & Silber, S. (1983). The acquisition of mental verbs: A systematic investigation
+
+of the ﬁrst reference to mental state. Cognition, 14, 301–321.
+
+Siegal, M., & Beattie, D. (1991). Where to look ﬁrst for children’s knowledge of false belief. Cognition,
+
+38, 1–12.
+
+Tager-Flusberg, H. (1993). What language reveals about the understanding of minds in children with
+autism. In S. Baron-Cohen, H. Tager-Flusberg, & D. J. Cohen (Eds.), Understanding other minds:
+Perspectives from autism. Oxford: Oxford University Press.
+
+Tager-Flusberg, H. (1997). Language acquisition and theory of mind: Contributions from the study of
+autism. In L. B. Adamson & M. A. Ronski (Eds.), Research on communication and language
+disorders: Contributions to theories of language development. Baltimore, MD: Paul Brookes
+Publishing.
+
+Tager-Flusberg, H. (2000). Language and understanding minds: Connections in autism. In S.
+Baron-Cohen, H. Tager-Flusberg, & D. J. Cohen (Eds.), Understanding other minds: Perspectives
+from developmental cognitive neuroscience (2nd ed.). Oxford: Oxford University Press.
+
+Thornton, R. (1991). Adventures in long distance moving: The acquisition of complex wh-questions.
+
+PhD dissertation, Department of Linguistics, University of Connecticut.
+
+Tomasello, M. (1995). Pragmatic contexts for early verb learning. In M. Tomasello & W. E. Merriman
+
+(Eds.), Beyond names for things. Hillsdale, NJ: Erlbaum.
+
+Wellman, H. (1990). The child’s theory of mind. Cambridge: Bradford Books.
+Wexler, K. (1990). Innateness and maturation in language development. Developmental psychobiology,
+
+23(3), 645–660.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of
+
+wrong beliefs in young children’s understanding of deception. Cognition, 13, 103–128.
+
+

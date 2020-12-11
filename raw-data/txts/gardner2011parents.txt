@@ -1,0 +1,4506 @@
+Marquette University
+e-Publications@Marquette
+
+Master's Theses (2009 -)
+
+Dissertations, Theses, and Professional Projects
+
+Parents' Influence on Child Social Self-Efficacy and
+Social Cognition
+
+Denise Marie Gardner
+Marquette University
+
+Recommended Citation
+Gardner, Denise Marie, "Parents' Influence on Child Social Self-Efficacy and Social Cognition" (2011). Master's Theses (2009 -). Paper
+116.
+http://epublications.marquette.edu/theses_open/116
+
+ 
+
+PARENTS’ INFLUENCE ON CHILD SOCIAL SELF-EFFICACY AND SOCIAL 
+
+COGNITION 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+by  
+ 
+
+Denise M. Gardner, B.A. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A Thesis submitted to the Faculty of the Graduate School,  
+
+Marquette University,  
+
+in Partial Fulfillment of the Requirements for  
+
+the Degree Master of Science 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Milwaukee, Wisconsin 
+
+ 
+
+December 2011 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ABSTRACT 
+
+PARENTS’ INFLUENCE ON CHILD SOCIAL SELF-EFFICACY AND SOCIAL 
+
+ 
+
+COGNITION 
+
+ 
+ 
+
+Denise M. Gardner, B.A. 
+
+ 
+
+Marquette University, 2011 
+
+ 
+
+ 
+
+ 
+
+Self-representations, such as self-efficacy, are salient factors in child development.  Self-
+efficacy refers to the child’s estimation of his/her ability to successfully complete a given task.  
+Self-efficacy develops as children attempt various tasks and receive feedback about their 
+performance.  Social self-efficacy, one dimension of self-efficacy, refers to a child’s estimation of 
+his/her ability to form and maintain interpersonal relationships.  Previous research has 
+demonstrated a relationship between child self-efficacy and parent-child interaction variables.  
+Social cognition refers to the manner in which children interpret and analyze social behavior.  
+Social cognition develops through children’s interactions with important others and may be 
+related to social self-efficacy in that it allows children to create expectations about the reactions 
+of others and the outcomes of their own behavior.  The present study will examine the 
+development of social self-efficacy and social cognition in the context of the parent-child 
+relationship. 
+
+Children ages 8 to 10 and their parents participated in the present study. Parents and 
+
+children completed self-report measures assessing social self-efficacy, parenting style, and self-
+esteem.  Parent and child social cognition was measured using the Social Cognition and Object 
+Relations Scale-Revised (SCORS-R), which is a structured method of coding responses to the 
+Thematic Apperception Test (TAT).  Ratings were made for four social cognitive scales: 
+Complexity of Representations of People, Affective Quality of Relationships, Capacity for 
+Emotional Investment in Relationships, and Understanding of Social Causality. 
+
+There was a moderate, positive correlation between parent social self-efficacy and child 
+social self-efficacy.  These effects were maintained while controlling for the influence of parent 
+global self-esteem.  Additionally, there was a strong, positive correlation between parent and 
+child scores for Affective Quality of Relationships.  A hierarchical multiple regression model 
+containing child gender, age, and sociocognitive scores, and parent social self-efficacy scores 
+predicted a significant amount of the variance in child social self-efficacy scores. 
+
+The current study demonstrates a statistically significant relationship between parent 
+social self-efficacy and child social self-efficacy.  Significant differences between parent and 
+child sociocognitive scores suggest a developmental trajectory of sociocognitive skills.  The 
+results of the present study may contribute to a better understanding parental influence on child 
+social self-efficacy and social cognition.
+
+i 
+
+ 
+
+ 
+ 
+
+ 
+
+ACKNOWLEDGMENTS 
+
+ 
+ 
+
+Denise M. Gardner, B.A. 
+
+ 
+ 
+
+I would like to thank all those who have supported this research project and my greater 
+
+academic endeavors.  First, I would like to thank the participating families and the staff members 
+
+at the participating schools and parishes.   
+
+ 
+
+I would like to extend my appreciation to my committee members, Dr. Astrida Kaugars, 
+
+Dr. John Grych, and Dr. Stephen Franzoi, for their guidance and thoughtful feedback regarding 
+
+this study.  I would especially like to thank my thesis advisor, Dr. Kaugars, for her mentorship 
+
+and guidance throughout the course of this project.   
+
+ 
+
+I would like to thank several individuals who have supported me throughout this project 
+
+and my graduate school career.  I would like to thank my family, especially my parents and my 
+
+sister, who have supported and encouraged me through the ups and downs of my graduate school 
+
+career.  I would like to thank Ben, who has supported me from both near and far in my quest to 
+
+complete graduate school.  Finally, I would like thank my classmates, who have provided support 
+
+and companionship throughout all of my graduate school endeavors.     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE OF CONTENTS 
+
+ii 
+
+ 
+ACKNOWLEDGMENTS………………………………………………………………………...i 
+ 
+LIST OF TABLES……………………………………………………………………………. .....iv 
+ 
+CHAPTER 
+ 
+ 
+ 
+
+I. INTRODUCTION…………………………………………………………………........1 
+
+A.  The Development of the Self…………………………………………….......1 
+
+ 
+
+B.  Self-efficacy………………………………………………………………….3 
+
+C.  Outcomes of Self-efficacy in Adolescents…………………………………...5 
+
+D.  The Impact of Self-efficacy on Cognition and Behavior…………………….7 
+
+E.  The Impact of Self-efficacy on Child Psychopathology…………………......8 
+
+F.  The Impact of Self-efficacy on Peer Relationships………………………......9 
+
+G.  Parenting Factors and Adolescent Self-efficacy……………………………10 
+
+H.  Object Relations…………………………………………………………….13 
+
+I.  Social Cognition…………………………………………………………….14 
+
+J.  Social Cognition and Object Relations……………………………………..15 
+
+II. RESEARCH METHODS AND DESIGN……………………………………………18 
+
+A.  Participants………………………………………………………………….18 
+
+ 
+
+B.  Procedure……………………………………………………………………19 
+
+C.  Measures……………………………………………………………………20 
+
+III. RESULTS……………………………………………………………………………27 
+
+A.  Data Analytic Plan………………………………………………………….27 
+
+ 
+
+B.  Participant Descriptive Characteristics…………………………………......27 
+
+C.  Associations Among Demographic Characteristics 
+
+and Variables of Interest……………………………………………………30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+iii 
+
+D.  Associations Among Parenting Style and Child  
+
+Social Self-Efficacy…………………………………………………………32 
+
+E.  Associations Among Parent Self-Perception Measures 
+
+and Child Social Self-Efficacy……………………………………………...32 
+
+F.  Participant Gender and Ethnicity as Moderators of  
+
+Child Social Self-Efficacy……………………………………………..........33 
+
+ 
+
+G.  Associations Among Child Social Cognition 
+
+and Child Social Self-Efficacy……………………………………………...34 
+
+H.  Associations Among Parent Social Cognition   
+
+and Child Social Cognition…………………………………………………35 
+
+ 
+
+IV. DISCUSSION………………………………………………………………………..36 
+
+V. LIST OF REFERENCES……………………………………………………………..41 
+
+ 
+
+iv 
+
+ 
+
+I. 
+
+II. 
+
+III. 
+
+IV. 
+
+V. 
+
+LIST OF TABLES 
+
+ 
+ 
+
+Participating Schools and Parishes 
+
+Interrater Reliabilities for SCORS-R Parent Protocols 
+
+Interrater Reliabilities for SCORS-R Child Protocols 
+
+Parent Demographic Characteristics 
+
+Child Demographic Characteristics  
+
+VI.  Means, Standard Deviations, and Ranges of Parent and Child Measures 
+
+VII.  Associations Among Parenting Style, Parent Self-Perception, and Child Social Self-
+
+Efficacy 
+ 
+
+VIII.  Associations Among Child Social Cognition and Child Social Self-Efficacy 
+
+IX.  Associations Among Parent and Child Social Cognition Scores 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+INTRODUCTION 
+
+ 
+
+Self-representations, such as self-efficacy, are a salient factor in child development.  Self-
+
+efficacy refers to a child’s estimation of his/her ability to successfully perform a domain-specific 
+
+task (Bandura, 1977, 1997).  Self-efficacy develops experientially and is influenced by feedback 
+
+from important others (Bandura, 1997).   Social self-efficacy is a dimension of self-efficacy that 
+
+refers to a child’s estimation of his/her ability to form and maintain interpersonal relationships 
+
+(Hagedoorn & Molleman, 2006).  Social cognition is an additional interpersonal interaction 
+
+variable, which refers to the manner in which children analyze and interpret social behavior 
+
+(Forrester, 1992).  Similar to self-efficacy, social cognition develops experientially through 
+
+interactions with important others in early childhood (Forrester, 1992).  Both social self-efficacy 
+
+and social cognition are considered to be important components of social interactions and are 
+
+related to numerous interpersonal outcomes for children (Caprara et al., 1998; Caprara, 
+
+Barbaranelli, Pastorelli, & Cervone, 2004; Caprara, Regalia, & Bandura, 2002; Caprara & Steca, 
+
+2007; Downey & Walker, 1989; Hala, 1997; Underwood & Moore, 1982).  Previous research 
+
+examining social self-efficacy has focused on the outcomes in adolescent populations, yet little is 
+
+known about the development of social self-efficacy in younger child populations.  Thus, the 
+
+purpose of the present study is to examine the development of social self-efficacy in middle 
+
+childhood in the context of the parent-child relationship.  Additionally, the current study will 
+
+explore the relationship between child social self-efficacy and social cognition.  Finally, the 
+
+current study will examine the relationship between parent social cognition and child social 
+
+cognition to explore patterns and associated factors.   
+
+ 
+
+The Development of the Self 
+
+ 
+
+ 
+
+Developmental theorists postulate that the self is a product of cognitive construction 
+
+ 
+
+(Harter, 1999).  Cognitive representations of the self begin to develop at around 2 years of age 
+
+and are based on child observations, expectations, and social comparisons (Harter, 1999).  Self-
+
+representations develop from basic, concrete descriptions in early childhood to complex, 
+
+relational descriptions in late childhood (Harter, 1999; Damon & Hart, 1988; Rosenberg, 1979).  
+
+The following review will focus on self-representations in middle childhood as this population is 
+
+the focus of the current study.  Self-representations in middle childhood are based on the child’s 
+
+perceived competencies and become increasingly interpersonal in nature (Harter, 1999).  Self-
+
+representations in middle childhood become more negative in comparison to self-representations 
+
+of young children (Harter, 1999).  Harter (1999) theorized that three emerging cognitive skills are 
+
+related to the increase in negative self-representations: 1) the ability to use social comparison to 
+
+modify and construct self-representations, 2) the ability to differentiate between the real and the 
+
+ideal self, and 3) greater development of perspective-taking skills.  Specifically, children 
+
+demonstrate greater reliance on social comparisons with peers to evaluate themselves (Harter, 
+
+1999).   If children find themselves less competent than others, particularly in domains that are 
+
+important to the child, global self-representations may be negatively affected (Maccoby, 1980; 
+
+Moretti & Higgins, 1990; Ruble & Frey, 1991).  Similarly, if children find themselves deficient 
+
+according to their own expectations, self-esteem may decrease (Harter, 1999).  Greater 
+
+development of perspective-taking skills increases the child’s awareness of parent, teacher, and 
+
+peer expectations for his/her competence, making it easier to find deficiencies in one’s own 
+
+competence (Harter, 1999).  Interactions with socializing agents, particularly parents and peers, 
+
+influence the development of the self (Harter, 1999).  Interactions characterized by support, 
+
+approval, and acceptance lead to internalizations of the self as acceptable, competent, and lovable 
+
+(Harter, 1999).  Positive interactions may take the form of reflected appraisals, encouragement, 
+
+and support of mastery efforts (Harter, 1999).  Thus, self-representations in middle childhood are 
+
+increasingly interpersonally-focused and are greatly influenced by feedback from important 
+
+others. 
+
+ 
+
+The development of self-representations includes the development of self-efficacy, which 
+
+was previously defined as a self-evaluative construct related to a particular domain (Bandura, 
+
+1977, 1997).  A key component of self-efficacy is social self-efficacy, which was previously 
+
+defined as a dimension of self-efficacy related to the formation of interpersonal relationships 
+
+(Hagedoorn & Molleman, 2006).  Self-efficacy develops similarly to other self-representations 
+
+(i.e. through social comparisons and interactions with significant others) and is a particularly 
+
+salient dimension of the self, especially in later childhood and adolescence (Bandura, 1997).  
+
+Research examining self-efficacy has not focused specifically on the factors influencing the 
+
+development of social self-efficacy and the outcomes related to the construct.  The current study 
+
+proposes to expand upon previous research by examining the impact of parent characteristics on 
+
+the development of child self-efficacy and, more specifically, social self-efficacy.  In addition to 
+
+expansion upon previous research, the current study proposes to examine social cognition in 
+
+parents and their children, an additional factor hypothesized to be related to self-efficacy.  
+
+Previous research on the development of self-efficacy has focused on adolescents and their 
+
+parents; therefore, the following review of the literature will focus on this population.   
+
+ 
+
+Self-Efficacy 
+
+Self-efficacy, as described earlier, is a component of Bandura’s social-cognitive theory  
+
+(Bandura, 1977, 1997).  Self-efficacy, as compared to other self-evaluative constructs, is a 
+
+context- or domain-specific cognitive appraisal of capability, rather than an affective global 
+
+judgment of self-worth (Pintrich & Schunk, 2002; Zimmerman & Cleary, 2006).  According to 
+
+Bandura’s (1997) theory, self-efficacy is influenced by four factors: personal mastery 
+
+experiences, vicarious experiences, verbal persuasion, and physiological reactions.  Personal 
+
+mastery experiences refer to an individual’s previous successes or accomplishments with a given 
+
+task and are considered to have the strongest and most consistent influence on self-efficacy 
+
+(Schunk & Meece, 2006).  Vicarious experiences, a form of social comparison, occur when other 
+
+ 
+
+individuals model or perform a specific behavior.  Previous research indicates that modeling has 
+
+the strongest impact on self-efficacy when the model is similar to the individual and demonstrates 
+
+coping or adaptation when confronted with errors during task performance (Schunk, Hanson, & 
+
+Cox, 1987; Schunk & Meece, 2006).  Verbal persuasion in the form of encouraging feedback 
+
+from important others, such as parents, teachers, and peers, has been found to positively impact 
+
+self-efficacy if subsequent performance of the task is successful (Schunk & Meece, 2006).  
+
+Finally, physiological indicators of anxiety, such as increased heart rate, may detract from self-
+
+efficacy by signaling to the individual that he/she lacks the capability to perform a task 
+
+successfully (Schunk & Meece, 2006). 
+
+ 
+
+ The broad construct of self-efficacy is divided into a number of different dimensions.  
+
+The primary focus of the current study is the dimension of social self-efficacy.  While the 
+
+development of the broad construct of self-efficacy has been examined extensively, information 
+
+on the development of the specific dimension of social self-efficacy is limited.  Similarly, 
+
+research examining outcomes of social self-efficacy has been conducted, yet there is minimal 
+
+research examining influences on the development of social self-efficacy.  However, previous 
+
+research examining similar constructs, such as social competence and social problem-solving, has 
+
+been conducted.  Social competence refers to the generalization of social skills and knowledge in 
+
+social interactions, and social problem-solving refers to the negotiation of peer relationships 
+
+issues (McDowell & Parke, 2009).  These constructs refer to knowledge and ability in social 
+
+interactions, and thus, differ from social self-efficacy, which refers to self-evaluative beliefs.  
+
+Previous research has found that parenting behaviors are among the multiple influences impacting 
+
+the development of children’s social competence (McDowell & Parke, 2009).  In a study by 
+
+McDowell and Parke (2009), parent instruction directed toward social problem-solving was 
+
+related to positive peer outcomes, particularly among younger children (McDowell & Parke, 
+
+2009).  Additionally, the literature suggests that parent provision of social opportunities may 
+
+influence child social competence.  Specifically, children who participate in formal 
+
+ 
+
+extracurricular activities have better perspective-taking skills (McDowell & Parke, 2009).  As 
+
+noted earlier, perspective-taking skills are hypothesized to be related to self-representations 
+
+(Harter, 1999).  Parent instruction and provision of social opportunities may be likened to the 
+
+vicarious experience and verbal persuasion elements related to the development of self-efficacy.   
+
+In the same manner in which self-efficacy and social competence develop through vicarious 
+
+experiences and verbal persuasion, so may social self-efficacy develop through parent modeling 
+
+of social behaviors (in the form of direct instruction) and parent encouragement of social 
+
+interaction and involvement.  The current study will examine the associations between parent 
+
+modeling of social behaviors and the development of children’s social self-efficacy.  
+
+ 
+
+Outcomes of Self-Efficacy in Adolescents 
+
+ 
+
+The self-efficacy literature indicates that self-efficacy is a dynamic construct that changes 
+
+across the course of development (Baldwin & Hoffman, 2002; Davis-Kean et al., 2008).  Self-
+
+efficacy is a particularly salient factor in adolescence as a result of the challenges and new 
+
+experiences created by cognitive, physical, and social changes during this period (Schunk & 
+
+Meece, 2006).  Factors influencing self-efficacy may be related to age, gender, and culture.  
+
+Previous research on developmental changes in self-efficacy has demonstrated that self-efficacy 
+
+declines as children transition to junior high school (Wigfield et al., 1997; Wigfield, Eccles, Mac 
+
+Iver, Reuman, & Midgley, 1991).  Wigfield et al. (1997) found that the decline in children’s 
+
+academic, social, and athletic self-efficacy began in the 7th grade and rebounded about one year 
+
+later.  Research conducted by Davis-Kean et al. (2008) demonstrated that self-efficacy beliefs 
+
+become stronger predictors of behavior as children age, specifically in regards to academic 
+
+achievement and social relationships.   
+
+Previous research examining gender differences in self-efficacy has yielded mixed results 
+
+(Felson & Zielinski, 1989; Nielsen & Metha, 1994; Schunk & Lilly, 1984; Schunk & Meece, 
+
+ 
+
+2006).  Research conducted by Christie and Segrin (1998) indicated that self-efficacy is 
+
+influenced by perceived constraints faced in the successful completion of a task.  Gender has been 
+
+identified as one of the perceived constraints that may influence self-efficacy.  Additionally, 
+
+research conducted by Hackett & Betz (1981) hypothesized that sex-role stereotypes were 
+
+influential in the development of self-efficacy.  Specifically, sex-role stereotypes encourage boys 
+
+to be assertive, effective, and task-oriented, while girls are encouraged to be sensitive and 
+
+emotionally expressive.  Further, researchers have hypothesized that the factors contributing to 
+
+self-efficacy development have gender-specific influences (Christie & Segrin, 1998).  For 
+
+example, females may be exposed to fewer vicarious learning experiences of involving 
+
+nontraditional roles and tasks.  Specifically, females are provided with fewer role models, in the 
+
+media and in their personal lives, engaging in nontraditional occupational and education tasks.  
+
+Additionally, females may receive more verbal discouragement when engaging in male-
+
+stereotyped activities, such as careers in mathematics and science, which may contribute to lower 
+
+self-efficacy for those tasks (Christie & Segrin, 1998).   
+
+Previous research has examined the role of traditional masculine and feminine traits in the 
+
+perception of self-efficacy (Christie & Segrin, 1998).  Traditional masculine traits were identified 
+
+as independence and competitiveness, whereas traditional feminine traits were identified as 
+
+kindness and helpfulness.  Researchers found that the presence of traditional masculine traits, 
+
+regardless of participant biological sex, were predictive of perceived self-efficacy in both social 
+
+and non-social tasks (Christie & Segrin, 1998).  Participant biological sex was not related to 
+
+perceived self-efficacy in either task (Christie & Segrin, 1998).  Additionally, researchers have 
+
+postulated that gender differences in self-efficacy may be culturally-based.  Specifically, a study 
+
+conducted by Meece and Scantlebury (in press), as cited by Schunk & Meece (2006), found that 
+
+self-efficacy may be related to the manner in which women are portrayed as less capable than 
+
+men in specific cultures.  Thus, it appears that gender influences societal perceptions of an 
+
+individual’s capabilities, which may influence vicarious experiences and verbal feedback.  
+
+ 
+
+Additionally, it appears that traditional gender traits influence individual perceptions of self-
+
+efficacy, but the biological sex is not related to these perceptions.  Further research is necessary to 
+
+develop a more comprehensive understanding of the relationship between gender and self-
+
+efficacy. 
+
+Previous research has established relationships between self-efficacy and children’s 
+
+cognitive, affective, and behavioral experiences.  The following review will introduce specific 
+
+findings related to self-efficacy and child outcomes.   
+
+ 
+
+The Impact of Self-Efficacy on Cognition and Behavior 
+
+Previous research on adolescent self-efficacy demonstrates that self-efficacy impacts 
+
+cognitive, affective, and behavioral domains of adolescent functioning (Zimmerman & Cleary, 
+
+2006).  Cognition refers to mental processes and their role in thinking, feeling, and behaving 
+
+(Kellogg, 2003).  Self-efficacy is cognitively constructed and influences thoughts, expectations, 
+
+and behaviors.  Bandura (1997) and Schunk (1995) hypothesized that self-efficacy affects 
+
+individuals’ task choices, effort, and persistence in tasks.  Previous research has demonstrated a 
+
+relationship between self-efficacy, outcome expectations, and task pursuit (Schunk & Meece, 
+
+2006).  Findings indicate that individuals’ expectations about the outcome of specific behaviors 
+
+will lead them to pursue tasks with perceived positive outcomes and to avoid tasks with perceived 
+
+negative outcomes.  A study by Rodebaugh (2006) found that adult self-efficacy ratings for 
+
+public speaking were predictive of attempted and avoided social performance tasks, particularly 
+
+when the individuals were familiar with the task.  The same study found that self-efficacy ratings 
+
+were predictive of individuals’ persistence in a social performance task.  Previous research has 
+
+demonstrated a relationship between academic self-efficacy, motivation, and goal-setting, which 
+
+may impact academic achievement and future career plans (Caprara et al., 2004; Bandura, 2006; 
+
+Davis-Kean et al., 2008).  Several studies have more closely examined the relationship between 
+
+academic self-efficacy and academic achievement and have demonstrated that high academic 
+
+ 
+
+self-efficacy was predictive of higher academic achievement for male and female adolescents 
+
+(Caprara et al., 2004; Davis-Kean et al., 2008).  A similar relationship between self-efficacy and 
+
+individual career aspirations has been demonstrated (Bandura, 1997; Betz & Hackett, 1986; 
+
+Hackett, 1995; Lent, Brown, & Hackett, 1994).  
+
+ 
+
+The Impact of Self-Efficacy on Child Psychopathology 
+
+Estimates of the prevalence of adolescent depression indicate that between 8% and 18% of 
+
+adolescents display depressive symptomatology, and about 16% are diagnosed with a depressive 
+
+disorder (Jenkins, Goodness, & Burhmester, 2002).  Few etiological models relevant to social 
+
+self-efficacy have been developed to explain the onset and progression of adolescent depression.  
+
+One explanation is offered by a study conducted by Jenkins et al. (2002), which found a 
+
+relationship between particular aspects social self-efficacy (specifically intimate support and 
+
+conflict management) and depressive symptoms.  The intimate support aspect of social self-
+
+efficacy refers to the adolescent’s estimation of his/her ability to obtain companionship, 
+
+emotional support, and approval from friends; the conflict management aspect of social self-
+
+efficacy refers to the adolescent’s estimation of his/her ability to maintain a healthy balance of 
+
+conflict in interpersonal relationships (Jenkins et al., 2002).  The study found that lower perceived 
+
+social self-efficacy in intimate support and conflict management was related to depressive 
+
+symptoms in both male and female adolescents.   
+
+One explanation for the relationship between low self-efficacy and depression is the effect of 
+
+perceived control.  Previous research has demonstrated that individuals with low self-efficacy 
+
+typically have an external locus of control, and so they perceive events as personally 
+
+uncontrollable (Zimmerman & Cleary, 2006).  Silver, Mitchell, and Gist (1995) found that 
+
+individuals with low self-efficacy tend to attribute task failures to uncontrollable factors, which 
+
+may lead to feelings of depression and helplessness.  Another explanation for the relationship 
+
+between adolescent self-efficacy and depression is related to attributional style.  Seligman et al. 
+
+ 
+
+(1984) demonstrated a relationship between adolescent social self-efficacy and attributional style.   
+
+Specifically, adolescents who interpreted social information using an internal, global, and stable 
+
+attributional style, as compared to an external, specific, and variable attributional style,were more 
+
+likely to have higher depression scores and lower social self-efficacy. 
+
+ 
+
+The Impact of Self-Efficacy on Peer Relationships 
+
+Previous self-efficacy research has examined the relationship between self-efficacy and 
+
+prosocial behavior, defined by Caprara & Steca (2007) as “individuals’ tendency to undertake 
+
+voluntary actions aimed at benefitting others, such as sharing, donating, caring, comforting, and 
+
+helping” (p. 218).  Prosocial behavior contributes to the psychosocial adjustment of children and 
+
+adolescents and can be an important variable in improving social interactions (Caprara & Steca, 
+
+2007).  Prosocial behavior may be related to greater social approval and a decreased likelihood of 
+
+developing depression (Caprara & Steca, 2007).  Previous research has demonstrated that two 
+
+specific types of self-efficacy, affective regulation and interpersonal relationship management, 
+
+are positively related to prosocial behavior in males and females (Capara & Steca, 2007).  Not 
+
+only does self-efficacy contribute to prosocial behavior, but it may enhance individuals’ ability to 
+
+resist engaging in antisocial conduct, which may lead to poor peer relationships (Caprara et al., 
+
+1998; Capara et al., 2002; Caprara et al., 2004).  Higher self-efficacy for resisting peer pressure 
+
+decreases the likelihood of involvement in delinquent activities and substance abuse (Caprara et 
+
+al., 1998, 2002).  The study by Caprara and Steca (2007) found that individuals with higher social 
+
+self-efficacy demonstrated lower levels of problem behavior, particularly among females.  The 
+
+same study found that social self-efficacy was more predictive of these variables than were self-
+
+reported personality characteristics, as indicated by responses representing the five-factor model.        
+
+Given the importance of social self-efficacy beliefs and their potential impact on adolescent 
+
+academic, social, and peer functioning, it is critical to investigate the factors contributing to the 
+
+development of social self-efficacy and the variables that shape its changes across the lifespan.  
+
+ 
+
+Specifically, parent characteristics have been found to impact the development of social self-
+
+efficacy. 
+
+ 
+
+Parenting Factors and Adolescent Self-Efficacy 
+
+ 
+
+Child self-efficacy is influenced by different environments and significant relationships with 
+
+others, including parents, teachers, and peers (Felson & Zielinski, 1989; Nielsen & Metha, 1994; 
+
+Patrick, Hicks, & Ryan, 1997; Schunk & Meece, 2006).  Previous research has demonstrated a 
+
+relationship between family, particularly parenting factors, and child self-efficacy (Whitbeck, 
+
+1987; Schunk & Meece, 2006).  According to Schunk and Meece (2006), the family environment 
+
+created by parents may influence child self-efficacy in numerous ways.  Parents shape the family 
+
+environment by providing children with challenges and new experiences, positive role models, 
+
+and realistic goals and expectations.  Parent expectations and perceptions of children’s abilities 
+
+may influence and shape child self-efficacy (Schunk & Meece, 2006).  Parents communicate their 
+
+expectations for their children through verbal feedback and by the types of experiences they 
+
+encourage or discourage their child to participate in (Eccles et al., 1998).  Parent encouragement 
+
+of child involvement in new and challenging experiences may strengthen child efficacy by 
+
+providing the child with mastery experiences (Eccles et al., 1998).  Previous findings indicating a 
+
+relationship between parent verbal feedback and self-efficacy may apply specifically to social 
+
+self-efficacy.  It is hypothesized that parent verbal feedback and encouragement of social 
+
+interactions and peer relationships may affect the development of social self-efficacy, but these 
+
+relationships have not yet been examined empirically.   
+
+According to social learning theory, child self-efficacy can be influenced by modeling of 
+
+behaviors and attitudes by significant persons in their lives, also referred to as vicarious 
+
+experiences (Bandura, 1977).  According to Whitbeck (1987), child self-efficacy may be 
+
+positively related to parent self-efficacy due to the effects of modeling.  Research also indicates 
+
+ 
+
+that children are more likely to imitate a model that they view as nurturing than they are to imitate 
+
+a nonnuturing model (Whitbeck, 1987).  Moreover, parent-child interaction variables, specifically 
+
+support and autonomy-granting, were related to child self-efficacy in two ways (Whitbeck, 1987).  
+
+First, parental support and autonomy-granting communicated a sense of worth and competence to 
+
+the child, which served to enhance self-efficacy.  Second, positive parent-child interaction 
+
+variables enhanced the child’s perception of parenting efficacy, thereby augmenting the effects of 
+
+parent modeling. 
+
+Further information about parent-child interaction variables can be gained by examining 
+
+parenting style characteristics.  According to Baumrind’s (1971) theory, parent style can be 
+
+characterized by three variables: support, reciprocity, and control.  Parental supportiveness is 
+
+defined as parental behavior that “makes the child feel comfortable in the presence of the parent 
+
+and confirms in the child’s mind that he [sic] is basically approved of as a person” (Rollins & 
+
+Thomas, 1979; pp. 320).  Parental reciprocity is defined as a “dyadic synchrony in parent-child 
+
+interactions” (Wahler & Bellamy, 1997; p. 550).  Two types of parental control have been 
+
+identified in the literature: inductive control and coercive control (Whitbeck, 1987).  Inductive 
+
+control refers to the parents attempt to gain “voluntary compliance to parental desires by avoiding 
+
+direct conflict with the child” (Rollins & Thomas, 1979; p. 322).  Use of inductive control allows 
+
+the child to gain a sense of autonomy in decision-making and communicates a sense of parent 
+
+competence in the child (Whitbeck, 1987).  Coercive control refers to an attempt to gain child 
+
+compliance through the use of external force, and is associated with negative self-esteem in 
+
+children (Rollins and Thomas, 1979).  Research examining parenting style has demonstrated that 
+
+among the three parenting prototypes (i.e., authoritative, permissive, and authoritarian; Baumrind, 
+
+1971), authoritative parenting is most strongly related to positive developmental outcomes for 
+
+children (Ang, 2006).  According to previous research, authoritative parenting represents the best 
+
+combination of supportiveness, reciprocity, and control in the parent-child relationship (Ang, 
+
+2006).  A parent’s sense of competence in his/her child may lead to the parent to provide greater 
+
+ 
+
+verbal encouragement, thus, enhancing child social self-efficacy.  Previous research has 
+
+demonstrated relationships between authoritative parenting and positive self-perceptions, greater 
+
+self-reliance, and higher academic achievement in children (Ang, 2006).  Additionally, higher 
+
+parent support and lower parent coercive control were related to greater child social competence 
+
+(McDowell & Parke, 2009).  Authoritarian parenting and permissive parenting have been 
+
+associated with negative self-perceptions, higher incidences of substance abuse, and school 
+
+misconduct (Ang, 2006).  In conclusion, parent-child interactions characterized by support and 
+
+autonomy-granting provide children with the encouraging feedback necessary for the 
+
+development of self-efficacy.  Interactions lacking support and autonomy-granting may 
+
+communicate to the child that he/she is not a competent, worthwhile individual.   
+
+When examining the relationship between parenting style and child outcomes, it is important 
+
+to consider parent and child ethnicity.  Previous research has demonstrated that parenting styles 
+
+differ based on the practices that best correspond to the core beliefs of individual cultures (Ho, 
+
+Bluestein, & Jenkins, 2008).   For example, Asian cultures value respect for authority and 
+
+obedience; thus, parenting styles of Asian American parents are typically characterized by high 
+
+levels of control and demandingness (Ho et al., 2008).  Previous research has demonstrated that 
+
+both Asian American and African American parents are more likely to use an authoritarian 
+
+parenting style, whereas Caucasian parents are more likely to use an authoritative parenting style, 
+
+which is characterized by a balance between control and reciprocity (Ho et al., 2008).  Latino 
+
+parents are likely to use a parenting style that is characterized by high levels of control but also 
+
+high levels of warmth and support (Dixon, Graber, & Brooks-Gunn, 2008).  Previous findings 
+
+suggest that Asian American and African American children exposed to authoritarian parenting 
+
+have more positive outcomes than do Caucasian children exposed to authoritarian parenting 
+
+(Dixon et al., 2008).  Further, Asian American children are more likely to interpret high parental 
+
+control and demandingness as an indication of love, involvement, and support (Ho et al., 2008).  
+
+In conclusion, parents belonging to specific ethnic groups are more likely to use parenting 
+
+ 
+
+practices that match the values of their particular cultural group, and children belonging to 
+
+specific ethnic groups tend to respond more positively to particular types of parenting styles.  The 
+
+current study will examine the relationship between participant ethnicity, parenting style, and 
+
+social self-efficacy.  Object relations, an additional component of the parent-child relationship, 
+
+will also be examined in the current study.    
+
+Object Relations 
+
+ 
+
+Object relations theory, a component of psychoanalytic and psychodynamic theory, describes 
+
+an interpersonal process through which individuals develop the capacity to relate to others, who 
+
+are referred to as objects (Westen, 1991).  It is during the development of object relationships that 
+
+children learn to differentiate between the self and the object (Kernberg, 1976).  Theoretically, in 
+
+order to be considered an object, a particular person must have a significant psychological 
+
+relationship with the individual.  Object relations refers more specifically to attitudes and 
+
+behaviors of an individual toward a particular object (Compton, 1995).   
+
+Object relations theory suggests that children begin to develop object relationships through 
+
+interactions with primary caregivers in the first few weeks of life.  These relationships are 
+
+characterized by the child’s feelings and desires to maintain security and well-being and are 
+
+considered by theorists to be the first foundations in the development of a child’s personality 
+
+(Buckley, 1986).  Aspects of the child-caregiver relationship, such as caregiver behaviors, are 
+
+internalized by the child (Compton, 1995).  Based on continued interactions with the primary 
+
+caregiver, children’s perceptions and memories lead to further development and organization of 
+
+the representational world.  Theorists suggest that children experience two types of interactions, 
+
+pleasurable and unpleasant, and that children attempt to maintain relationships with pleasurable 
+
+objects and to minimize interactions with unpleasant objects.  Pleasurable object relationships 
+
+allow the child to create a more cohesive representational world and lead to greater relational 
+
+stability.  This is also referred to as object constancy (Buckley, 1986).  Children integrate 
+
+ 
+
+pleasurable and unpleasant object representations to achieve object constancy, which is 
+
+considered to be achieved by age 3 (Kernberg, 1976).  Children’s representations are thought to 
+
+become more complex with increased interactions with an object.  According to theorists, early 
+
+object relationships provide the child with information that contributes to psychological 
+
+development, including the development of internal regulatory mechanisms and the development 
+
+of the ego (Buckley, 1986).  Object relations theorists suggest that children’s fundamental object 
+
+relations develop before age 5 (Westen, 1991).  The construct of object relations is important to 
+
+understand because early interactions form the foundation of the parent-child relationship, which 
+
+is related to the development to self-efficacy.  Through the early interactions with the caregiver, 
+
+the child learns to develop expectations about him/herself and others, which form the basis of 
+
+future self-representations.  Previous research has linked the development of object relations to 
+
+the development of social cognition. 
+
+Social Cognition 
+
+ 
+
+Social cognition refers to the manner in which individuals interpret and analyze human 
+
+action.  Forrester (1992) defines social cognition as an “understanding of complex, purposeful 
+
+social behavior” (p. 2).  Numerous theories about the development of social cognition have been 
+
+generated.  Certain social cognition researchers believe that social knowledge develops similarly 
+
+to other cognitive knowledge and that social cognition is essential to effective social interaction in 
+
+children and adults.  Developmental research suggests that social cognition develops through 
+
+“theory of mind”.  Children develop a system of rules based on social experiences and employ the 
+
+system of rules to predict and explain the actions and thoughts of others.  The system of rules is 
+
+based on children’s beliefs and desires early in life.  Social cognition develops as children’s 
+
+desires are not met and when children learn that beliefs about the world can be false (Forrester, 
+
+1992).  Researchers believe that theory of mind develops around ages 4-5 when children begin to 
+
+learn that beliefs about the world may be false.   
+
+ 
+
+A second theory of social cognition suggests that social cognition is based on a child’s 
+
+attachment to primary caregivers, which may affect the child’s perceptions and attitudes in other 
+
+significant relationships (Humfress, O’Connor, Slaughter, Target, & Fonagy, 2002).  Several 
+
+parent factors may put children at risk for the development of poor social cognitive skills, 
+
+including child maltreatment and parent psychopathology.  Researchers posit that these parent 
+
+factors may deprive the child of a positive social role model, thus impeding the development of 
+
+good social cognitive skills (Humfress et al., 2002).  Previous research has also linked social 
+
+cognition to child behavior and adjustment (Downey & Walker, 1989; Hala, 1997; Underwood & 
+
+Moore, 1982).  Specifically, children with better social cognitive skills are more likely to engage 
+
+in prosocial behavior (i.e., any voluntary behavior intended to benefit another; Hala, 1997).  
+
+Children’s ability to perspective-take allows them to gain a better understanding of others’ 
+
+emotional states and reactions, which, in turn, fosters prosocial behavior and empathy 
+
+(Underwood & Moore, 1982).  Additionally, previous research suggests that poor social cognitive 
+
+skills are associated with aggression and rejection by peers (Downey & Walker, 1989).  
+
+  
+
+Social Cognition and Object Relations 
+
+ 
+
+Social cognition and object relations both develop through social learning processes in 
+
+which individuals’ interpersonal experiences, particularly with primary caregivers, shape the 
+
+processing of social information (Kelly, 2007).  Social cognition and object relations both rely on 
+
+systems or structures, whether it be a system of rules or an organizational structure, to acquire, 
+
+process, and organize information. Previous research on social cognition and object relations has 
+
+focused primarily on developmental differences in object representations and the relationship 
+
+between object relations and empathy in children (Niec & Russ, 2002; Westen, 1991).  Research 
+
+conducted by Westen (1991) suggests that developmental differences in object relations may be 
+
+viewed from a social cognition context.  Westen (1991) examined four primary object relations 
+
+factors in a population of 2nd and 5th grade children with the purpose of exploring developmental 
+
+ 
+
+differences.  The results of the study suggest that developmental differences are present in three 
+
+of the four primary factors, including complexity of representations, understanding of social 
+
+causality, and capacity for emotional investment in relationships.  The fourth factor, the affect in 
+
+relationships, remained stable throughout development.  The results of the study suggest that 
+
+children’s object relations tend to mature as they develop, with the exclusion of affect in 
+
+relationships, which appears to remain stable.  Niec and Russ (2002) found that greater maturity 
+
+in object representations was related to greater levels of child- and teacher-rated empathy.  
+
+Previous research examining object relations in the context of social cognition has demonstrated 
+
+the importance of the development of mature, stable object representations in the achievement of 
+
+positive outcomes for children (Westen, 1991).         
+
+Given that the development of high self-efficacy has been associated with prosocial behavior, 
+
+academic achievement, and effective peer relationships, and poor self-efficacy has been 
+
+associated with depression, behavior problems, and decreased social competence, it is critical to 
+
+understand the factors associated with the development of social self-efficacy.  Additionally, it is 
+
+essential that children develop a sense of social self-efficacy in preparation for the demands of 
+
+adolescence.  Moreover, a greater understanding of the development process may help achieve 
+
+positive child outcomes.  By understanding the relationship between parenting factors and child 
+
+social self-efficacy, it may be possible to target parenting factors in an attempt to improve child 
+
+social self-efficacy and to provide better outcomes for the child.  Additionally, an examination of 
+
+the relationship between parent and child social cognition may lead to a greater understanding of 
+
+the manner in which parents influence child social cognition.  
+
+ 
+
+The hypotheses that will be tested in the current study are as follows: 
+
+1.  Parent ratings of parenting style (i.e., authoritarian, permissive, and authoritative) will be 
+
+positively related to child ratings of social self-efficacy, such that parenting styles 
+
+characterized by higher levels of supportiveness, reciprocity, and inductive control (i.e., 
+
+authoritative and permissive) will be associated with higher child social self-efficacy. 
+
+ 
+
+2.  Parent ratings of parent social self-efficacy will be positively related to child ratings of 
+
+child social self-efficacy. 
+
+3.  A match between parent and child gender will moderate the relationship between parent 
+
+social self-efficacy and child social self-efficacy, such that same-gender dyads will 
+
+demonstrate stronger associations between parent social self-efficacy and child social 
+
+self-efficacy. 
+
+4.  Participant ethnicity will moderate the relationship between parent social self-efficacy 
+
+and child social self-efficacy. 
+
+5.  Child ratings of child social self-efficacy will be related to child social cognition, such 
+
+that higher ratings of social self-efficacy will be positively related to mature ratings of 
+
+four social cognitive factors (i.e., Complexity of Representations of People, Affective 
+
+Quality of Representations, Emotional Investment in Relationships, and Understanding of 
+
+Social Causality). 
+
+6.  Parent social cognitive skills will be associated with child social cognitive skills. 
+
+7.  Parent social self-efficacy will explain a significant amount of unique variance in 
+
+predicting child social self-efficacy after controlling for parenting style and child global 
+
+self-worth.  
+
+Additional exploratory analyses examined the associations among parent ratings of global 
+
+self-esteem and the variables of interest.  These relationships were examined by controlling for 
+
+parent and child global self-esteem in partial correlations.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Participants  
+
+RESEARCH DESIGN AND METHODS 
+
+Eligible participants in the current study included children, ages 8-10, and their parent or 
+
+primary caregiver.  Inclusion of children and their parents required that they be able to speak 
+
+English and that they be without any cognitive or developmental delays that may affect reading 
+
+comprehension.   
+
+Recruitment 
+
+Participants were recruited from Catholic elementary schools and parishes in the Milwaukee 
+
+area.  An effort was made by the researchers to recruit from schools with diverse student 
+
+populations from a variety of different neighborhoods.  Overall, 21 schools were contacted, and 
+
+10 schools and one parish participated in the current study.  There was variablity among the 
+
+participating schools in terms of their enrollment from parishes and/or families participating in 
+
+Milwaukee’s Parental Choice Program.  A list of participating schools and the number of students 
+
+from each school is included in Table 1.  Four recruitment methods were used in the present 
+
+study. Eligible families received a letter at school explaining the study and were asked to indicate 
+
+their interest in participation, to include contact information if interested, and to return that 
+
+information to the researcher.  Following each research visit, participating families were given a 
+
+postcard containing information about the study and were asked to distribute the postcard to 
+
+another family with a potential interest in participating.  Additionally, the principal investigator 
+
+contacted the director of the Christian Formation program at Church of the Gesu.  The director 
+
+distributed letters to eligible families enrolled in Child and Family Formation classes on Sunday 
+
+mornings and asked them to indicate their interest in participating following the classes.  Finally, 
+
+the principal investigator attended an open house at one of the participating schools, St. Catherine 
+
+School, and explained the study to eligible families.  Each of the participating schools was 
+
+ 
+
+offered a workshop, conducted by the principal investigator, in return for their participation in the 
+
+present study.  Fifty-one families participated in the present study.  
+
+ 
+
+Table 1  
+
+Participating Schools and Parishes 
+
+______________________________________________________________________________ 
+
+School/Parish 
+
+Catholic East 
+
+Christ King 
+
+ 
+
+ 
+
+ 
+
+Church of the Gesu 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Mother of Good Counsel 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Northwest Catholic (East and West Campus) 
+
+St. Margaret Mary 
+
+St. Mary 
+
+St. Matthias 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+n (%) 
+
+4 (7.8) 
+
+10 (19.6) 
+
+3 (5.9) 
+
+9 (17.6) 
+
+9 (17.6) 
+
+3 (5.9) 
+
+5 (9.8) 
+
+8 (15.7) 
+
+______________________________________________________________________________ 
+
+Procedure 
+ 
+
+Approval was obtained from the Institutional Review Board at Marquette University.  
+
+Informed consent and assent were obtained for all participants upon arrival at the research visit.  
+
+Participants were given the opportunity to ask questions during the consent procedures.  The 
+
+study materials included two separate sets of questionnaires; one set included all of the measures 
+
+for the child to complete, and the other set included all of the measures for the parent to complete.  
+
+Parents and children completed the study materials separately and alerted the researcher about 
+
+any questions or concerns they had during their participation in the study. 
+
+Parent-child dyads then participated separately in a task, which required them to respond to a 
+
+set of cards depicting pictures of social scenarios.  Parents and children were asked a series of 
+
+ 
+
+questions requiring them to explain what was occurring in the pictures and what the individuals in 
+
+the pictures were thinking and feeling. Parent and child responses to the pictures were audiotaped.  
+
+Parent and child responses to the pictures were scored using the Social Cognition and Object 
+
+Relations Scale-Revised (SCORS-R; Westen, 2002).  Upon completion of the study, participants 
+
+were given at $15 gift card to either Target or Pick ‘n Save. 
+
+ 
+
+Measures 
+
+Demographic Questionnaire (Parent report) 
+
+     Parents completed a demographic questionnaire with questions on basic demographic 
+
+information about the parent and the child: parent occupation, education, annual income, 
+
+ethnicity, and marital status and child age, gender, and grade in school. 
+
+Self-Perception Profile for Children (SPPC; Harter, 1985; Child report) 
+
+The Self-Perception Profile for Children is a 36-item self-report measure utilized with 
+
+children 8-15 years of age that assesses five domains of self-concept, including scholastic 
+
+competence, social competence, athletic competence, physical appearance, and behavioral 
+
+conduct; the SPPC also contains a measure of global self-worth (Harter, 1985).  Each item 
+
+includes pairs of statements that describe perspectives on particular aspects of self-evaluation 
+
+(e.g., “Some kids wish their body was different, but other kids like their body the way it is”).  
+
+Children were asked to indicate which statement best described them and then to rate how well 
+
+the statement described them on a 4-point Likert scale ranging from “sort of true” to “really true”.  
+
+The scores were then summed with higher scores indicating more positive self-perceptions.   
+
+Favorable levels of internal consistency have been reported with Cronbach’s α ranging from 
+
+.80 to .90 at the subscale level (Harter, 1990).  In the present study, Cronbach’s α were .74 on the 
+
+Athletic and Scholastic scales, .75 on the Global scale, .77 on the Social scale, .79 on the 
+
+Behavioral Conduct scale, and .81 on the Physical Appearance scale.  Test-retest reliability at the 
+
+subscale level has been estimated to range from .40 to .65 at one year to one month intervals 
+
+ 
+
+(Harter, 1990).  Scores on the SPPC have demonstrated good convergent validity with parent, 
+
+teacher, and peer ratings and have correlated negatively with symptoms of psychopathology 
+
+(Muris, Meesters, & Fijen, 2003).   
+
+Parental Authority Questionnaire-Revised (PAQ-R; Reitman, Rhode, Hupp, & Altobello, 2002; 
+
+Parent report) 
+
+The Parental Authority Questionnaire-Revised (Reitman et al., 2002) is a 30-item parent-
+
+report measure that assesses parenting style based on Baumrind’s (1971) model of three parenting 
+
+prototypes (i.e., authoritarian, authoritative, and permissive).  Parents completed the PAQ-R and 
+
+were required to use a 5-point Likert scale ranging from 1 (strongly disagree) to 5 (strongly 
+
+agree) to indicate how well each item described their parenting behavior (e.g. “Once family rules 
+
+have been made, I discuss the reasons for the rules with my children” or “I do not allow my 
+
+children to question the decisions that I make”).  Items on each of the subscales were summed 
+
+and total scores on each of the three subscales (i.e., authoritative, authoritarian, and permissive) 
+
+were examined for the participating parent.  Scores for each parenting style range from 10 to 50 
+
+with higher scores indicating higher levels of that particular parenting style. 
+
+According to Reitman et al. (2002), the PAQ-R subscales demonstrated moderate internal 
+
+consistency, with Cronbach’s α of .72 on the Authoritarian scale, .76 on the Permissive scale, and 
+
+.77 on the Authoritative scale.  In the current study, internal consistencies were α=.52 on the 
+
+Permissiveness scale, α=.55 on the Authoritarian scale, and α= .69 on the Authoritative scale.  
+
+One-month test-retest subscale reliability on the PAQ ranges from .54 to .88.  Previous research 
+
+has demonstrated good discriminant validity among the three subscales (Reitman et al., 2002).  
+
+Additionally, comparative analyses between responses on the PAQ-R and responses on a social 
+
+desirability measure indicated that responses on the PAQ-R did not appear to be adversely 
+
+affected by social desirability bias (Reitman et al., 2002). 
+
+Rosenberg Self-Esteem Scale (RSE; Rosenberg, 1979; Parent report) 
+
+     The Rosenberg Self-Esteem Scale is a 10-item self-report measure utilized with adults that 
+
+ 
+
+assesses global self-esteem.  Each item consists of a statement relating to global self-esteem (e.g. 
+
+“On the whole, I am satisfied with myself”).  Parents completed the RSE and were required to use 
+
+a 4-point Likert scale ranging from 1 (“strongly agree”) to 4 (“strongly disagree”) to indicate how 
+
+well each statement described them.  The final score is calculated by first reverse scoring half of 
+
+the items, according to author specifications, and then summing all of the items.  Previous 
+
+research has demonstrated an internal consistency coefficient of .92 and test-retest reliability over 
+
+a two-week period ranging from .85 to .88 (Rosenberg, 1979).  The Rosenberg Self-Esteem scale 
+
+has demonstrated significant correlations with other measures of self-esteem, such as the 
+
+Coopersmith Self-Esteem Inventory (Rosenberg, 1979).  The Cronbach’s alpha for the present 
+
+study is α = .80.   
+
+Scale of Perceived Social Self-Efficacy (PSSE; Smith & Betz, 2000; Parent report) 
+
+The Scale of Perceived Social Self-Efficacy is a 25-item measure utilized with adults to 
+
+assess perceived self-efficacy in a variety of social situations.  Each item lists a social activity 
+
+(e.g. “Make friends in a group where everyone else knows each other” or “Start a conversation 
+
+with someone you don’t know very well”).  Parents completed the PSSE and were required to use 
+
+a 5-point Likert scale ranging from 1 (no confidence) to 5 (complete confidence) to indicate their 
+
+level of self-efficacy for a particular task.  The final score is calculated by summing all of the 
+
+items.  Previous research has demonstrated an internal consistency coefficient of .94 and test-
+
+retest reliability over a three-week interval ranging from .68 to .86 (Smith & Betz, 2000).  In the 
+
+current study, the PSSE demonstrated acceptable reliability (Cronbach’s α= .95).  Smith and Betz 
+
+(2000) demonstrated that the PSSE is significantly correlated with other measures of social self-
+
+efficacy, such as the Social Confidence Scale of the Skills Confidence Inventory (r = .62 for 
+
+males; r = .53 for females).   
+
+  
+
+Social Cognition and Object Relations Scale-Revised (SCORS-R; Westen, 2002) 
+
+     The Social Cognition and Object Relations Scale-Revised is a structured method of coding 
+
+ 
+
+responses to the Thematic Apperception Test (TAT).    The original version of the SCORS was 
+
+developed by Westen and colleagues in 1995.  The SCORS was originally rated according to a Q-
+
+sort procedure and included four primary scales.  The original SCORS was revised to create the 
+
+SCORS-R, which can be used to examine five social cognitive scales including Complexity of 
+
+Representations of People, Affective Quality of Representations, Emotional Investment in 
+
+Relationships, Emotional Investment in Values and Moral Standards, and Understanding of 
+
+Social Causality (Westen, 2002).  The TAT consists of 31 picture cards; 14 of which depict social 
+
+and interpersonal situations.  The cards are specifically designed for particular age and gender 
+
+groups.  Individuals are asked to tell a story based on the situation depicted in each picture.  Per 
+
+recommendations offered by Westen (2002) and Hilsenroth, Stein, and Pinsker (2007), parents 
+
+and children in the current study were presented with six recommended TAT cards, and each 
+
+parent and child told six stories.  The current study utilized SCORS-R coding guidelines to 
+
+evaluate responses to the following TAT cards: 1, 3BM, 4, 7GF or 7BM, 10, and 13B.  Card 7 
+
+has two gender-based versions (GF for girls/females and BM for boys/males), and an appropriate 
+
+card was administered based on participant gender.  Parents and children were asked four specific 
+
+questions concerning what was happening in the picture, what led up to the situation, what the 
+
+people in the picture were thinking and feeling, and what the outcome of the situation would be. 
+
+Responses were recorded during the administration and later transcribed and scored. 
+
+According to the guidelines outlined by Hilsenroth et al. (2007), each response was coded 
+
+according to a 7-point Likert scale ranging from 1 (least mature) to 7 (most mature) for the four 
+
+primary scales of interest (i.e., Complexity of Representations of People, Affective Quality of 
+
+Representations, Capacity for Emotional Investment in Relationships, and Understanding of 
+
+Social Causality).  Participant scale scores were derived by computing a mean score for each 
+
+TAT card across all raters.  The mean scores were then collapsed across all cards to create a 
+
+single score for each of the four sociocognitive factors.  Specifically, four sociocognitive factor 
+
+scores were computed for both parent and child participants.   
+
+ 
+
+The principal investigator and two research assistants were trained using the training 
+
+methods outlined by Westen (2002) and Hilsenroth et al. (2007).  Raters were introduced to the 
+
+theoretical premise of the measure and the scoring criteria for each of sociocognitive factors.  
+
+Each week raters were given practice protocols to score independently.  Following independent 
+
+scoring, raters met weekly to discuss scoring differences and refine scoring criteria.  Raters 
+
+scored a total of 20 practice protocols before beginning to score responses from the current study.  
+
+For the practice protocols, all three raters were within 1 point of the ideal score for 90% of the 
+
+parent and child protocols.  Interrater reliability calculated using intraclass correlation coefficients 
+
+ranged from .21 to .89 for the practice protocol scoring.  Following the training sessions, six 
+
+additional reliability meetings were held to continue to improve upon scales that had low 
+
+interrater reliability.   
+
+ 
+
+For the current study, the scoring was divided among three raters: the principal 
+
+investigator (Rater 1), an undergraduate research assistant (Rater 2), and a graduate research 
+
+assistant (Rater 3).  Rater 1 scored all of the parent and child protocols.  Rater 2 scored 49% of 
+
+the parent protocols and 33% of the child protocols.  Rater 3 scored 17% of the parent protocols 
+
+and 10% of the child protocols.  A total of 17% of parent responses and 10% of child responses 
+
+were coded by all three raters, 49% of parent responses and 33% of child responses were coded 
+
+by two raters, and 100% were coded by at least one rater.  For the first six participants, an attempt 
+
+was made to blind the raters to the identity of the participant by assigning protocols based on 
+
+interaction with participants at the data collection (i.e., research assistant working with the parent 
+
+rated the child’s protocol).  However, this strategy was discontinued due to research assistant 
+
+unavailability.  Thus, the protocols were rated by the individuals who administered the tasks.      
+
+Previous research has demonstrated good psychometric properties of the SCORS when used 
+
+with child and adolescent populations.  Research conducted by Niec and Russ (2002) examining 
+
+child social cognition demonstrated an uncorrected reliability coefficient of the SCORS-Q 
+
+ranging from .80 to .98.  The same study found good convergent validity between SCORS-Q 
+
+ 
+
+scores and teacher ratings of empathy and helpfulness.  Research conducted by Tuber (1992) 
+
+demonstrated good convergent validity between the SCORS and other measures of object 
+
+relations, including the Mutuality of Autonomy Scale of the Rorschach.   
+
+For the current study, interrater reliability was calculated using percent agreement and 
+
+intraclass correlation coefficients.  An examination of percent agreement among Rater 1 and 
+
+Rater 2 found that 95-98% of parent protocols and 89-100% of child protocols were within a one-
+
+point agreement for the four scores.  Interrater reliability was examined for all three raters 
+
+together as well as for each pair of raters (i.e., Raters 1 and 2, Raters 2 and 3, and Raters 1 and 3).  
+
+Using intraclass correlation coefficients, interrater reliability ranged from .30 to .88 for parent 
+
+protocols and from .01 to .84 for child protocols.  There are several reasons why the interrater 
+
+reliability for the current study is unexpectedly low.  First, Rater 3 scored less than 20% of the 
+
+practice protocols, which may have influenced the reliability of rater pairs that included Rater 3.  
+
+Additionally, Rater 3 discontinued scoring early in the study, while Rater 1 and Rater 2 likely 
+
+became more comfortable with the scoring criteria as the study continued.  Second, observations 
+
+of individual scores indicated limited variability in scores, with most scores falling in the middle 
+
+of the distribution.  Therefore, scores falling outside of the middle of the distribution may have 
+
+influenced reliability.  Greater variability was observed in the parent scores, which may have 
+
+contributed to the higher interrater reliability in the parent sample.  Due to the fact that Rater 3 
+
+scored less than 20% of the data and demonstrated poor interrater reliability with Rater 1 and 
+
+Rater 2, the scoring data from Rater 3 was removed from the dataset prior to conducting the 
+
+analyses.  Results of the reliability analyses are summarized in Tables 2 and 3.       
+
+Table 2 
+ 
+Interrater Reliabilities for SCORS-R Parent Protocols___________________________________ 
+ 
+Parent Scores____________________________________n_________           ICC___________ _ 
+ 
+ 
+Complexity of Representations of People 
+ 
+ 
+
+All Coders 
+
+        .61  
+
+52 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+149 
+52 
+52 
+
+52 
+149 
+52 
+
+52 
+149 
+52 
+52 
+
+52 
+149 
+52 
+52 
+
+       .67 
+       .61 
+       .76 
+
+        .55  
+        .46 
+        .63 
+
+        .76 
+        .79  
+        .74  
+        .60 
+
+        .88 
+        .84  
+        .81 
+        .78 
+
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+ 
+ 
+ 
+ 
+Affective Tone of Relationships 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capacity for Emotional Investment 
+ 
+ 
+ 
+ 
+ 
+Understanding of Social Causality 
+ 
+ 
+ 
+______Raters 1 and 3____________________________52___________       .30______________  
+ 
+ 
+ 
+Table 3 
+ 
+Interrater Reliabilities for SCORS-R Child Protocols____________________________________ 
+ 
+Child Scores____________________________________n_________           ICC_____________ 
+ 
+ 
+Complexity of Representations of People 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Affective Tone of Relationships 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Capacity for Emotional Investment 
+ 
+ 
+ 
+ 
+ 
+Understanding of Social Causality 
+ 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+All Coders 
+Raters 1 and 2 
+Raters 2 and 3 
+Raters 1 and 3 
+
+      .01   
+      .52 
+      .51 
+      .51 
+
+      .84 
+      .44 
+      .77 
+      .78 
+
+      .51 
+      .44 
+      .57 
+      .08 
+
+ 
+30 
+101 
+30 
+30 
+
+30 
+101 
+30 
+30 
+
+30 
+101 
+30 
+30 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+All Coders 
+
+30 
+
+      .59 
+
+ 
+
+Raters 1 and 2    
+ 
+Raters 2 and 3 
+
+ 
+ 
+______Raters  1 and 3____________________________30___________     .20______________ 
+ 
+ 
+
+      .52   
+      .74 
+
+101 
+30 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+RESULTS 
+
+Data Analytic Plan 
+
+The distributions of scores were assessed for skewness and kurtosis.  Results of the 
+
+analyses indicated no concerns regarding the skewness and kurtosis of the variables of interest.  
+
+The proposed hypotheses were examined using Pearson product-moment correlations (i.e., 
+
+Hypotheses 1, 2, 5, and 7) and hierarchical multiple regressions (i.e., Hypotheses 3, 4, and 6).   
+
+Participant Descriptive Characteristics 
+
+ 
+
+Analyses were based on the full sample of 51 participants with the exception of the data 
+
+from the Parent Information Form, specifically household income (n = 49) and child’s ethnicity 
+
+(n = 49), and the Rosenberg Self-Esteem Scale (n = 50), which had missing data.  Due to the 
+
+somewhat sensitive nature of some of the items on the Parent Information Form, participants 
+
+were given the option of skipping selected items if they did not feel comfortable disclosing 
+
+certain information.  Missing items at the subscale level on the Perceived Scale of Social Self-
+
+Efficacy and the Parental Authority Questionnaire were replaced using mean substitution.   
+
+ 
+
+Descriptive statistics for parents’ demographic characteristics are displayed in Table 4.  
+
+As expected, the participating parents were primarily mothers (90.2%), but the sample also 
+
+included five fathers (9.8%).  There was a wide variability in the ages of parents with a range of 
+
+26 to 50 years.  The sample was predominantly Caucasian (86.3%) and well educated (i.e., 82.4% 
+
+had at least a 4-year college degree).   There was a wide variability in the household income with 
+
+30.6% of the sample earning less than $60,000 and 22.5% earning greater than $120,000. 
+
+ 
+
+Descriptive characteristics for children’s demographic characteristics are displayed in 
+
+Table 5.  The sample was 58.8% male with a mean age of 8.9 years.  The sample was 
+
+ 
+
+predominantly Caucasian (69.4%) with 20.4% identifying as bicultural/multicultural, 6.1% 
+
+identifying as Latino/Hispanic, and 4.1% identifying as African American.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.9 
+
+9.8 
+
+90.2 
+
+26-50 
+
+Range   
+
+M  (SD)  
+
+40.3 (5.5) 
+
+High School 
+
+Some College 
+
+Biological Father 
+
+Biological Mother 
+
+Bachelor’s Degree 
+
+Associate’s Degree 
+
+Table 4 
+ 
+Parent Demographic Characteristics 
+______________________________________________________________________________ 
+ 
+n (%)________ 
+ 
+Participating Primary Caregiver 
+ 
+ 
+ 
+ 
+ 
+Age (in years) 
+ 
+Highest Level of Education 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ethnicity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marital Status 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Bicultural/Multicultural  
+
+African American 
+
+Master’s Degree 
+
+Doctoral Degree 
+
+Separated  
+
+Caucasian 
+
+Married  
+
+Latino   
+
+54.9 
+
+21.6 
+
+86.3 
+
+76.5 
+
+13.7 
+
+5.9 
+
+5.9 
+
+5.9 
+
+5.9 
+
+2.0 
+
+5.9 
+
+3.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Divorced 
+ 
+Never Married   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$61,000-$90,000 
+
+$31,000-$60,000 
+
+Less than $30,000 
+
+$91,000-$120,000 
+
+$121,000-$150,000 
+
+ 
+Household Income 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+______Greater than $150,000 
+ 
+ 
+ 
+Table 5 
+ 
+Child Demographic Characteristics 
+ 
+ 
+ 
+Gender  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22.4 
+
+8.2 
+
+16.3 
+
+30.6 
+
+8.2 
+
+14.3 
+
+______ 
+
+ 
+ 
+M  (SD)  
+
+ 
+ 
+Range   
+
+ 
+______ 
+n (%)________ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8.9 (.98) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+6-11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+58.8 
+
+41.2 
+ 
+
+ 
+
+ 
+
+69.4 
+
+4.1 
+
+6.1 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Bicultural/Multicultural  
+ 
+ 
+________________________________________________________________________ 
+
+20.4 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Male 
+ 
+ 
+Female  
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+Age (in years) 
+ 
+Ethnicity 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Latino   
+
+Caucasian 
+
+African American 
+
+ 
+
+Associations Among Demographic Characteristics and Variables of Interest 
+
+ 
+
+The descriptive data for the measures used in the present study is displayed in Table 6.  
+
+Preliminary analyses examined the relationships among participant demographic characteristics 
+
+(i.e., age, gender, ethnicity, education, and income) and the variables of interest.  For the child 
+
+participants, there was a moderate, positive relationship between child age and child social self-
+
+efficacy, r = .28, p = .04, which indicates that older children had higher social self-efficacy.  A 
+
+one-way between groups analysis of variance was conducted to further explore the impact of age 
+
+on levels of social self-efficacy.  Participants were divided into three groups according to their 
+
+age (Group 1: 6-8 years old, n = 16; Group 2: 9 years old, n = 20; Group 3: 10-11 years old, n = 
+
+15).  There was a statistically significant difference in the social self-efficacy scores for the three 
+
+age groups, F (2, 48) = 3.36, p = .04.  Post hoc comparisons using the Tukey HSD test indicated 
+
+that the mean score for Group 1 (mean = 16.05, SD = 5.25) was significantly lower than Group 3 
+
+(mean = 19.87, SD = 4.03).  Group 2 (mean = 16.95, SD = 3.56) did not differ significantly from 
+
+either Group 1 or Group 3.  Next, an independent samples t-test was conducted to compare the 
+
+social self-efficacy scores for male and female children.  There was a trend toward a significant 
+
+difference in scores for males and females, t (49) = 1.89, p = .07, indicating that, on average, 
+
+males tended to have higher social self-efficacy scores (mean = 18.49, SD = 4.31) than females 
+
+(mean = 16.14, SD = 4.46).  Finally, an independent samples t-test was conducted to compare the 
+
+SCORS-R sociocognitive scores for male and female children.  Results indicated a significant 
+
+difference in scores for males and females on two of the sociocognitive factors, namely 
+
+Complexity of Representations of People, t (48) = -2.39, p = .02 (males, mean = 2.76, SD = 0.41; 
+
+females, mean = 3.00, SD = 0.27), and Understanding of Social Causality, t (48) = -2.20, p = .03 
+
+(males, mean = 2.66, SD = 0.46; females, mean = 2.92, SD = 0.31).  Females were rated as 
+
+having more developed descriptions of internal states and a more developed understanding of 
+
+cause and effect in interpersonal relationships than males.   
+
+ 
+
+ 
+
+Among the parents, there was a moderate, negative relationship between parent age and 
+
+authoritative parenting style.  Specifically, as parent age increased, parents were significantly less 
+
+likely to report using an authoritative parenting style, r = -.34, p = .02.  No other significant 
+
+relationships were found between parent demographic characteristics and the variables of interest. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.14 
+
+18.63 
+
+SD          
+
+Mean          
+
+Permissive Parenting 
+
+Authoritative Parenting   
+ 
+Authoritarian Parenting  
+
+ 
+________________________________________________________________________
+
+ 
+Table 6 
+ 
+Means, Standard Deviations, and Ranges of Parent and Child Measures 
+ 
+______________________________________________________________________________ 
+ 
+ 
+Parent Self-Report Questionnaires 
+ 
+ 
+Parental Authority Questionnaire (PAQ) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Perceived Social Self-Efficacy (PSSE) 
+ 
+Rosenberg Self-Esteem Scale (RSE) 
+ 
+Child Self-Report Questionnaires 
+ 
+Self-Perception Profile for Children (SPPC) 
+ 
+ 
+ 
+ 
+ 
+Social Cognition and Object Relations Scale – Revised (SCORS-R) 
+ 
+ 
+ 
+
+Complexity of Representations of People  
+
+Social Self-Perception Score 
+
+Global Self-Worth Score 
+
+91.68        
+
+16-39 
+
+11-25 
+
+24-45 
+
+19-29 
+
+27.07 
+
+37.27 
+
+16.88 
+
+14.97 
+
+17.48 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6-24 
+
+4.21 
+
+3.81 
+
+4.52 
+
+3.96 
+
+    
+
+3.35 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19.9 
+
+7-24 
+
+ 
+
+ 
+
+ 
+
+Range         
+
+ 
+
+47-125         
+
+ 
+ 
+ 
+
+Parent   
+ 
+Child 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Affective Tone of Relationships  
+
+Parent   
+ 
+Child 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.25 
+
+2.86 
+
+4.06 
+
+4.03 
+
+ 
+
+ 
+
+ 
+
+ 
+
+.41 
+
+.38 
+
+.42 
+
+.43 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.5-4.7 
+
+2.0-3.5 
+
+3.0-5.0 
+
+3.0-5.0 
+
+ 
+
+ 
+ 
+
+ 
+
+Capacity for Emotional Investment in Relationships 
+
+ 
+Parent   
+ 
+Child 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Understanding of Social Causality  
+
+Parent   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.23 
+
+3.02 
+
+3.19 
+
+ 
+
+ 
+
+ 
+
+.45 
+
+.34 
+
+.46 
+
+ 
+
+ 
+
+ 
+
+2.2-4.2 
+
+2.5-3.8 
+
+2.3-4.7 
+
+ 
+
+Child 
+
+ 
+
+ 
+ 
+ 
+______________________________________________________________________________ 
+ 
+
+1.5-3.3 
+
+2.77 
+
+.42 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Associations Among Parenting Style and Child Social Self-Efficacy 
+
+ 
+
+To examine the hypothesized associations among parenting style and child social self-
+
+efficacy, bivariate correlations were conducted, and the results are displayed in Table 7.  There 
+
+was no support for the proposed hypotheses regarding parenting style and child social self-
+
+efficacy.  Results revealed small effects, but the correlations were not statistically significant.   
+
+ 
+
+Associations Among Parent Self-Perception Measures and Child Social Self-Efficacy 
+
+ 
+
+As proposed in the second hypothesis, there was a significant, positive relationship 
+
+between parent social self-efficacy and child social self-efficacy, r = .32, p = .02.  To examine 
+
+whether social self-efficacy is distinct from self-esteem, a partial correlation was used to explore 
+
+the relationship between parent social self-efficacy and child social self-efficacy while controlling 
+
+for parent self-esteem.  There was a moderate, positive correlation between parent social self-
+
+efficacy and child social self-efficacy after controlling for parent self-esteem, r = .33, p = .02.  An 
+
+additional partial correlation was used to explore the relationship between parent social self-
+
+efficacy and child social self-efficacy while controlling for child global self-worth.  There was a 
+
+moderate, positive correlation between parent social self-efficacy and child social self-efficacy 
+
+after controlling for child global self-worth, r = .32, p = .03.  Parent self-esteem was not 
+
+ 
+
+statistically significantly related to parent social self-efficacy, r = .11, n.s., or child social self-
+
+efficacy, r = -.06, n.s.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Child Social Self-Efficacy_ 
+
+ 
+Table 7 
+ 
+Associations Among Parenting Style, Parent Self-Perception, and Child Social Self-Efficacy 
+______________________________________________________________________________ 
+ 
+Measures 
+ 
+1. PAQ Authoritative 
+ 
+2. PAQ Authoritarian 
+ 
+3. PAQ Permissive 
+ 
+4. Rosenberg Self-Esteem Scale  
+ 
+5. Scale of Perceived Social Self-Efficacy 
+________________________________________________________ 
+Note: PAQ = Parental Authority Questionnaire  
+n = 51 for all correlations 
+* p < .05 
+ 
+
+.32* 
+
+-.10 
+
+-.21 
+
+-.15 
+
+.12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Participant Gender and Ethnicity as Moderators of the Associations Between Parent and 
+
+Child Social Self-Efficacy 
+
+ 
+
+A hierarchical multiple regression was conducted to examine the third hypothesis, 
+
+regarding whether same-gender parent-child dyads moderated the relationship between parent 
+
+social self-efficacy and child social self-efficacy.  Parent-child dyads were coded as either same 
+
+gender (n = 18) or different gender (n = 33).  Based on previous results, parent social self-efficacy 
+
+was entered first in the model, followed by parent-child gender match.  The overall model was 
+
+significant, F (3, 47) = 3.46, p = .02, and explained 12.8% of the variance in child social self-
+
+efficacy prior to adding the interaction term.  Parent social self-efficacy accounted for 8.2% of the 
+
+variance in child social self-efficacy and the inclusion of parent-child gender match in the model 
+
+resulted in an additional 7.5% of the variance being explained.  The interaction term of same 
+
+gender dyads and parent social self-efficacy was tested, and it was determined that same versus 
+
+ 
+
+different parent-child dyads was not a significant moderator of the relationship between parent 
+
+social self-efficacy and child social self-efficacy.  An independent samples t-test was conducted 
+
+to compare the child social self-efficacy scores for same gender and different gender dyads.  
+
+There was a trend toward a significant difference in scores for same versus different gender 
+
+dyads, t = -1.98, p = .05, indicating that, on average, children in different gender dyads reported 
+
+higher social self-efficacy (mean = 18.41, SD = 4.15) than did children in same gender dyads 
+
+(mean = 15.89, SD = 4.73). 
+
+ 
+
+    Due to the fact that the sample was predominantly Caucasian and demonstrated low 
+
+representation from ethnic minority group members, the fourth hypothesis was not examined. 
+
+ 
+
+Associations Among Child Social Cognition and Child Social Self-Efficacy 
+
+ 
+
+Analyses examining the fifth hypothesis revealed a moderate, negative correlation 
+
+between child social self-efficacy and Capacity for Emotional Investment in Relationships, r = -
+
+.36, p = .01.  The remaining three sociocognitive variables, Complexity of Representations of 
+
+People, Affective Quality of Relationships, and Understanding of Social Causality, were not 
+
+related to child social self-efficacy (see Table 8). 
+
+Table 8 
+ 
+Associations Among Child Social Cognition and Child Social Self-Efficacy 
+______________________________________________________________________________ 
+ 
+Social Cognition Factors___________________________________Social Self-Efficacy_______ 
+Child 
+ 
+1. Complexity of Representations of People 
+ 
+ 
+2. Affective Tone of Relationships 
+ 
+3. Capacity for Emotional Investment in Relationships 
+ 
+4. Understanding of Social Causality 
+ 
+ 
+ 
+
+-.36* 
+
+-.28  
+
+-.19 
+
+-.01 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Parent 
+ 
+1. Complexity of Representations of People 
+ 
+2. Affective Tone of Relationships 
+ 
+3. Capacity for Emotional Investment in Relationships 
+ 
+4. Understanding of Social Causality 
+______________________________________________________________________________ 
+Note: n = 50 for all correlations 
+* p < .05 
+**p < .01 
+
+.45** 
+
+-.21 
+
+-.10 
+
+.12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Associations Among Parent Social Cognition and Child Social Cognition 
+
+ 
+
+There was a strong, positive correlation between parent and child scores on the Affective 
+
+Quality of Relationships factor, r = .45, p = .001 (see Table 8).  However, the other three parent 
+
+and child sociocognitive factor scores were not significantly related.  Paired samples t-tests 
+
+demonstrated statistically significant differences between parent and child scores on three of the 
+
+sociocognitive factors, specifically Complexity of Representations of People, t (49) = 4.42, p < 
+
+.001, Capacity for Emotional Investment in Relationships, t (49) = 3.27,  p = .002, and 
+
+Understanding of Social Causality, t (49) = 4.81, p <.001 (see Table 8). 
+
+The seventh hypothesis was not examined because parenting style and child global self-
+
+worth were not significantly related to child social self-efficacy.  However, in order to better 
+
+understand the factors that may impact development of child social self-efficacy, a hierarchical 
+
+multiple regression was used to assess how child age and child sociocognitive scores may 
+
+influence child social self-efficacy.  Based on previous findings, child age was entered in the first 
+
+step, followed by child sociocognitive scores (Capacity for Emotional Investment), and parent 
+
+social self-efficacy.  The overall model was significant, F (3, 46) = 6.02, p = .002, and explains 
+
+28.2%   of the variance in child social self-efficacy.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DISCUSSION 
+
+ 
+
+The current study examined the relationships between parent social self-efficacy, social 
+
+cognition, and parenting style and child social self-efficacy.  Specifically, it was hypothesized 
+
+that higher levels of social self-efficacy and more developed social cognition in parents would be 
+
+positively related to their children’s level of social self-efficacy and maturity of social cognition.  
+
+Overall, a variety of parent and child characteristics were associated with child self-reported 
+
+social self-efficacy. 
+
+ 
+
+Some interesting findings from the current study include the associations among 
+
+participant demographic variables and the variables of interest.  Specifically, older children were 
+
+more likely to have higher social self-efficacy; this finding is consistent with previous research 
+
+indicating that children’s self-efficacy typically increases with age into early adolescence 
+
+(Wigfield et al., 1991; 1997).  Previous research on the relationship between gender social self-
+
+efficacy development has yielded inconclusive results (Felson & Zielinski, 1989; Nielsen & 
+
+Metha, 1994; Schunk & Lilly, 1984; Schunk & Meece, 2006).  In the present study, female 
+
+children demonstrated greater maturity in interpreting the internal states of others and in 
+
+understanding cause and effect in interpersonal relationships.  Greater maturity in sociocognitive 
+
+skills may allow female children to more accurately interpret the emotions of others and better 
+
+understand how their own and others’ behavior is related to outcomes in social interactions.  
+
+These skills, which are likely socialized, may contribute to positive peer interactions and assist 
+
+female children in maintaining interpersonal relationships.  Additionally, a regression model 
+
+including child age, child gender, and child social cognition predicted 28.2% of the variance in 
+
+child social self-efficacy.  This finding highlights the importance of examining demographic 
+
+variables that may be related to the development of social self-efficacy. 
+
+ 
+
+Contrary to hypotheses, there was a lack of meaningful associations between parenting 
+
+style and child social self-efficacy.  In the current study, the Parental Authority Questionnaire 
+
+ 
+
+subscales demonstrated unexpectedly low internal consistency, which may have impacted the 
+
+ability of the measure to accurately assess the different parenting styles.  Upon further 
+
+examination of the data, it was observed that many parents had written exceptions and 
+
+stipulations on the questionnaire, which may indicate that parents were uncertain or not confident 
+
+in their responses.  This may have contributed to the low internal consistency observed in the 
+
+measure.  A measure of child-reported parenting style may have been useful to provide an 
+
+additional perspective of parenting style.  Finally, previous research has reported that the Parental 
+
+Authority Questionnaire demonstrates good psychometric properties in Caucasian populations, 
+
+but demonstrates less acceptable psychometric properties in minority populations (Reitman et al, 
+
+2002).  Thus, its use with a variety of populations should be investigated further. 
+
+ 
+
+Notably, there was a statistically significant association between parent social self-
+
+efficacy and child social self-efficacy, and the relationship remained intact even while controlling 
+
+for the influence of parent self-esteem and child global self-worth.  Additionally, parent self-
+
+esteem was not related to parent social self-efficacy or child social self-efficacy.  This finding is 
+
+particularly compelling because parents and children each reported on their own social self-
+
+efficacy.  Additionally, this finding provides support for the differentiation of self-esteem and 
+
+social self-efficacy as separate constructs and highlights the importance of assessing socially-
+
+specific self-perceptions in addition to perceptions of global self-worth. 
+
+ 
+
+Interestingly, children in different gender dyads reported higher social self-efficacy than 
+
+children in same gender dyads.  This finding is contrary to previous research, which has 
+
+demonstrated that children are more likely to imitate a model that they perceive as similar to 
+
+themselves (Schunk, Hanson, & Cox, 1987; Schunk & Meece, 2006).  However, previous 
+
+research has also demonstrated that children are more likely to imitate a model that they perceive 
+
+as nurturing, which is likely embodied in the parental figure (Whitbeck, 1987).  Since the 
+
+majority of parent participants in the present study were mothers (~ 90%), the study was limited 
+
+in the ability to truly examine the influence of same- versus different-gender dyads on child social 
+
+ 
+
+self-efficacy.  Contrary to hypotheses, none of the participant demographic factors moderated the 
+
+relationship between parent social self-efficacy and child social self-efficacy.  Since these 
+
+associations have not been examined in previous studies, the present study provides impetus for 
+
+additional investigation in future research. 
+
+ 
+
+There were few associations between children’s social cognition and social self-efficacy.  
+
+Three of the child sociocognitive factors were unrelated to child social self-efficacy, while the 
+
+other factor was moderately, negatively related to child social self-efficacy.  The unexpected 
+
+findings may be a result of the multi-method assessment of social self-efficacy and social 
+
+cognition.  Social self-efficacy was assessed using a face valid self-report questionnaire, which 
+
+may have resulted in inaccurate reporting and inflated responses.  Social cognition was assessed 
+
+using a performance-based measure, which may have made it more difficult to understand the 
+
+purpose of the measure and to modify responses.  Additionally, these findings highlight the fact 
+
+that perceptions of interpersonal efficacy may be largely different from the developmental 
+
+maturity of cognitions in interpersonal interactions.  For example, children may rate themselves 
+
+as being highly efficacious in social interactions, yet they do not have the sociocognitive skills to 
+
+accurately assess others’ perceptions of themselves and their behavior.  Future research should 
+
+examine additional factors, such as peer status, to better understand the relationship between 
+
+social self-efficacy and social cognition. 
+
+ 
+
+There was a strong, positive association between parent and child scores for only one of 
+
+the sociocognitive factors, namely the Affective Quality of Relationships factor.  Interestingly, 
+
+significant developmental differences were observed between parent scores and child scores for 
+
+the other three factors, suggesting a possible developmental trajectory in the maturation of social 
+
+cognition.  This finding is consistent with previous research conducted by Westen (1991), which 
+
+found developmental differences for each of the sociocognitive factors with the exception of 
+
+Affective Quality of Relationships.   
+
+ 
+
+ 
+
+There were several limitations to the current study.  One of the limitations of the study is 
+
+limited racial/ethnic diversity in the study sample.  While an effort was made to recruit 
+
+participants representing a variety of races and ethnicities, the sample was predominantly 
+
+Caucasian, particularly among parents.  This limitation highlights the importance of developing 
+
+and employing different recruitment strategies that may be more appropriate for individuals from 
+
+ethnic minority groups, such as using a face-to-face contact approach (Mendez-Luck, Trejo, 
+
+Miranda, Jimenez, Quiter, & Mangione, 2011).  Another limitation involves the scoring of the 
+
+TAT responses.  While an initial effort was made to ensure the blindness of the raters to the 
+
+participants’ other data, the limited availability of one of the raters required that the other trained 
+
+raters score each of the protocols.  However, this did not appear to be a significant problem due to 
+
+the fact that TAT responses were kept separate from other data.  Additionally, limited variability 
+
+in child scores on the TAT may have influenced reliability.  A final limitation of the current study 
+
+was the poor internal consistency of the PAQ subscales.  
+
+ 
+
+The present findings suggest several possibilities for future research.  Further research 
+
+studies could examine the relationships among child social self-efficacy, social cognition, and 
+
+peer group status.  An examination of the relationships among these three constructs would allow 
+
+for a better understanding of the manner in which self-perceptions and interpersonal 
+
+interpretations are related to functioning in peer situations.  Furthermore, future research should 
+
+use additional reporters (e.g. teachers) and methods of gathering information (e.g. behavioral 
+
+observation) to better understand these constructs.  Finally, future research should more closely 
+
+examine the role of age in children’s ability to accurately understand their own self-efficacy.  
+
+More specifically, future research should examine whether or not young children are able to 
+
+accurately assess their own social self-efficacy by using information from their social 
+
+interactions.   
+
+ 
+
+The findings of the current study present several important clinical implications.  The 
+
+positive relationship between parent social self-efficacy and child social self-efficacy suggests 
+
+ 
+
+that fostering parent social self-efficacy may result in increases in children’s social self-efficacy.  
+
+Programs could focus on the role of parent modeling as a significant influence in child 
+
+development of social self-efficacy.  Additionally, findings from the current study emphasize the 
+
+fact that the match between parent and child gender may not be as important as was previously 
+
+understood, and that both parents likely have an equal influence on their children’s social self-
+
+efficacy.  More specifically, the stereotypical gender traits associated with the task, such as 
+
+having insight into interpersonal relationship functioning, may have a greater influence than the 
+
+parent or child’s biological sex.  For example, social tasks more typically associated with 
+
+feminine traits may lead to higher ratings of social self-efficacy in children who identify more 
+
+strongly with femininity.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BIBLIOGRAPHY 
+
+ 
+ 
+
+Ang, R.P.  (2006).  Effects of parenting style on personal and social variables for Asian 
+
+adolescents.  American Journal of Orthopsychiatry, 76, 503-511. 
+
+ 
+Baldwin, S.A., & Hoffman, J.P.  (2002).  The dynamics of self-esteem: A growth-curve analysis. 
+
+Journal of Youth and Adolescence, 31, 101-113. 
+ 
+
+Bandura, A.  (1977).  Self-efficacy: Toward a unifying theory of behavior change.  Psychological 
+
+Review, 84,191-215. 
+ 
+
+Bandura, A.  (1997).  Self-efficacy: The exercise of control.  New York: W.H. Freeman and 
+
+Company. 
+ 
+
+Bandura, A.  (2006).  Adolescent development from an agentic perspective.  In F. Pajares & T. 
+
+Urdan (Eds.), Self-efficacy beliefs of adolescents (pp. 1-43).  Greenwich, CT: Information 
+Age. 
+
+ 
+Baumrind, D.  (1971).  Current patterns of parental authority.  Developmental Psychology 
+
+Monographs, 4,1-103. 
+ 
+
+Betz, N.E., & Hackett, G.  (1986).  Applications of self-efficacy theory to understanding career 
+
+choice behavior.  Journal of Social and Clinical Psychology, 4, 279-289. 
+
+ 
+Buckley, P.  (1986).  Essential papers on object relations.  New York: New York University 
+
+Press. 
+ 
+
+Caprara, G.V., Barbaranelli, C., Pastorelli, C., & Cervone, D.  (2004).  The contributions of self
+ 
+
+efficacy beliefs to psychosocial outcomes in adolescence: Predicting beyond global 
+disposition tendencies.  Personality and Individual Differences, 37, 751-763. 
+ 
+
+Caprara, G.V., Regalia, C., & Bandura, A.  (2002).  Longitudinal impact of perceived self 
+
+regulatory efficacy on violent conduct.  European Psychologist, 7, 63-69. 
+ 
+
+Caprara, G.V., Scabini, E., Barbaranelli, C., Pastorelli, C., Regalia, C., & Bandura, A.  (1998).  
+
+Impact of adolescents’ perceived self-regulatory efficacy on familial communication and 
+antisocial conduct.  European Psychologist, 3, 125-132. 
+ 
+
+Caprara, G.V., & Steca, P.  (2007).  Prosocial agency: The contribution of values and self 
+efficacy beliefs to prosocial behavior across ages.  Journal of Social and Clinical 
+Psychology, 26, 218-239. 
+
+ 
+Christie, V., & Segrin, C.  (1998).  The influence of self-efficacy and of gender on the 
+
+performance of social and nonsocial tasks.  Journal of Applied Communication  
+Research, 26, 374-389. 
+ 
+
+Compton, A.  (1995).  Objects and object relationships.  In B.E. Moore & B.D. Fine (Eds.), 
+
+Psychoanalysis:The major concepts.  New Haven: Yale University Press. 
+
+ 
+Damon, W., & Hart, D.  (1988).  Self-understanding in childhood and adolescence.  New York: 
+
+ 
+
+Cambridge University Press.   
+
+ 
+Davis-Kean, P.E., Huesmann, L.R., Jager, J., Collins, W.A., Bates, J.E., & Lansford, J.E.  
+
+(2008).  Changes in the relation of self-efficacy beliefs and behaviors across 
+development.  Child Development, 79, 1257-1269.   
+
+ 
+Dixon, S.V., Graber, J.A., & Brooks-Gunn, J.  (2008).  The role of respect for parental authority 
+ 
+ 
+ 
+Downey, G. & Walker, E.  (1989).  Social cognition and adjustment in children at risk for  
+
+and parenting practices in parent-child conflict among African American, Latino, and  
+European American families.  Journal of Family Psychology, 22, 1-10. 
+
+psychopathology.  Developmental Psychology, 25, 835-845. 
+
+ 
+Eccles, J.S., Wigfield, A., & Schiefele, U.  (1998).  Motivation to succeed.  In N. Eisenberg (Ed.),
+ 
+ 
+ 
+Felson, R.B., & Zielinski, M.A.  (1989).  Children’s self-esteem and parental support.  Journal of 
+
+Handbook of child psychology: Vol. 3. Social, emotional, and personality development
+(5th ed., pp. 1017-1095).  New York: Wiley. 
+
+Marriage and the Family, 51, 727-735.   
+ 
+
+Forrester, M.A.  (1992).  The development of young children’s social-cognitive skills.  East 
+
+Sussex: Lawrence Erlbaum Associates.   
+
+Journal of Vocational Behavior, 18, 326-339.   
+
+ 
+Hackett, G., & Betz, N.  (1981).  A self-efficacy approach to the career development of women.   
+ 
+ 
+Hackett, G.  (1995).  Self-efficacy in career choice and development.  In A. Bandura (Ed.), Self 
+efficacy in changing societies (pp. 232-258).  New York: Cambridge University Press. 
+ 
+
+Hagedoorn, M. & Molleman, E.  (2006).  Facial disfigurement in patients with head and neck 
+
+cancer: The role of social self-efficacy.   Health Psychology, 25, 643-647. 
+ 
+
+East Sussex: Psychology Press.   
+
+Hala, S.  (1997).  The development of social cognition: Studies in developmental psychology. 
+ 
+ 
+Harter, S.  (1985).  Manual for the Self-perception Profile for Children. Denver, CO: University 
+
+of Denver. 
+
+ 
+Harter, S.  (1990).  Developmental differences in the nature of self-representations: Implications 
+
+for understanding, assessment, and treatment of maladaptive behavior.  Cognitive
+Therapy and Research, 14, 113-142. 
+
+ 
+ 
+Harter, S.  (1999).  Self-processes and developmental psychology.  In D. Ciccheti & D.J. Cohen 
+
+(Eds.), Developmental Psychology: Vol. 1.  Theory and method (pp. 370-418). 
+
+ 
+Hilsenroth, M., Stein, M., & Pinsker, J.  (2007).  Social Cognition and Object Relations Scale: 
+
+Global Rating Method (SCORS-G; 3rd ed.).  Unpublished manuscript, The Derner 
+Institute of Advanced Psychological Studies, Adelphi University, Garden City, NY. 
+ 
+
+Ho, C., Bluestein, D.N., & Jenkins, J.M.  (2008).  Cultural differences in the relationship between 
+ 
+
+parenting and children’s behavior.  Developmental Psychology, 44, 507-522.   
+
+ 
+
+ 
+Humfress, H., O’Connor, T.G., Slaughter, J., Target, M., & Fonagy, P.  (2002).  General and 
+
+relationship-specific models of social cognition: Explaining the overlap and 
+discrepancies.  Journal of Child Psychology and Psychiatry, 43, 873-883.   
+
+ 
+Jenkins, S.R., Goodness, K., & Burhmester, D.  (2002).  Gender differences in early 
+
+adolescents’ relationships: Qualities, self-efficacy, and depression symptoms.  Journal of 
+Early Adolescence, 22, 277-308. 
+ 
+
+Kellogg, R.  (2003).  Cognitive psychology.  Thousand Oaks, CA: Sage Publications. 
+ 
+Kelly, F.D.  (2007).  The clinical application of the Social Cognition and Object Relations Scale 
+
+with children and adolescents.  In S.R. Smith & L. Handler (Eds.), The clinical 
+assessment of children and adolescents: A practitioner’s handbook (pp. 169-184).  
+Mahwah, NJ: Lawrence Erlbaum Associates.   
+
+ 
+Kernberg, O.  (1976).  Object relations theory and clinical psychoanalysis.  New York: Jason
+ 
+ 
+Lent, R.W., Brown, S.D., & Hackett, G.  (1994).  Toward a unifying social cognitive theory of 
+
+Aronson. 
+
+career and academic interest, choice, and performance.  Journal of Counseling 
+Psychology, 48, 474-483. 
+ 
+
+Maccoby, E.  (1980).  Social development.  New York: Wiley.   
+ 
+McDowell, D.J., & Parke, R.D.  (2009).  Parental correlates of children’s peer relations: An 
+
+empirical test of a tripartite model.  Developmental Psychology, 45,  224-235.  
+
+ 
+Mendez-Luck, C.A., Trejo, L., Miranda, J., Jimenez, E., Quiter, E.S., & Mangione, C.M.  (2011). 
+
+Recruitment strategies and costs associated with community-based research in a 
+Mexican-origin population.  The Gerontologist, 51, 94-105. 
+ 
+
+Messer, B., & Harter, S.  (1986).  Manual for the Adult Self-Perception Profile.  Denver, CO: 
+
+University of Denver. 
+ 
+
+Moretti, M. M., & Higgins, E.T.  (1990).  The development of self-esteem vulnerabilities: Social  
+ 
+and cognitive factors in developmental psychopathology.  In R.J. Sternberg & J. Kolligan 
+Jr.(Eds.), Competence considered (pp. 286-314).  New Haven, CT: Yale University Press.   
+
+ 
+Muris, P., Meesters, C., & Fijen, P.  (2003).  The Self-Perception Profile for Children: Further 
+
+evidence for its factor structure, reliability, and validity.  Personality and Individual 
+Differences, 35, 1791-1802. 
+
+ 
+Niec, L.N., & Russ, S.W.  (2002).  Children’s internal representations, empathy, and fantasy 
+play: A validity study of the SCORS-Q.  Psychological  Assessment, 14, 331-338.   
+
+ 
+Nielsen, D.M., & Metha, A.  (1994).  Parental behavior and adolescent self-esteem in clinical 
+
+and nonclinical samples.  Adolescence, 29, 525-542.   
+ 
+
+Patrick, H., Hicks, L., & Ryan, A.M.  (1997).  Relations of perceived social efficacy and social 
+
+goal pursuit to self-efficacy and academic work.  Journal of Early Adolescence, 17, 109- 
+
+ 
+
+128.  
+ 
+
+Pintrich, P.R., & Schunk, D.H.  (2002).  Motivation in education: Theory, research, and 
+
+applications (2nd ed.).  Upper Saddle, NJ: Prentice-Hall, Inc. 
+
+ 
+Reitman, D., Rhode, P.C., Hupp, S.D., & Altobello, C.  (2002).  Development and validation of 
+
+the Parental Authority Questionnaire-Revised.  Journal of Psychopathology and 
+Behavioral Assessment, 24, 119-127. 
+
+ 
+Rodebaugh, T.L.  (2006).  Self-efficacy and social behavior. Behaviour Research and Therapy, 
+
+44, 1831-1838. 
+ 
+
+Rollins, B.C., & Thomas, D.L.  (1979).  Parental support, power, and control techniques in the 
+
+socialization of children.  In W.R. Burr, R. Hill, F.I. Nye, & I.L. Reiss (Eds.), 
+Contemporary theories about the family (Vol. 1, pp. 317-364).  New York: Free Press. 
+ 
+
+Rosenberg, M.  (1979).  Conceiving the self.  New York: Basic Books.   
+ 
+Ruble, D.N., & Frey, K.S.  (1991).  Changing patterns of comparative behavior as skills are 
+
+acquired: A functional model of self-evaluation.  In J. Suls & T.A. Willis (Eds.)  Social 
+comparison: Contemporary theory and research (pp. 70-112).  Hillsdale, NJ: Lawrence  
+Earlbaum Associates. 
+
+ 
+Schunk, D.H.  (1995).  Self-efficacy and education and instruction.  In J.E. Maddux (Ed.), Self 
+
+efficacy, adaptation, and adjustment: Theory, research, and applications (pp. 281-303).  
+New York: Plenum. 
+ 
+
+Schunk, D.H., Hanson, A.R., & Cox, P.D.  (1987).  Peer-model attributes and children’s 
+
+achievement behaviors.  Journal of Educational Psychology, 81, 201-209. 
+
+ 
+Schunk, D.H., & Lilly, M.W. (1984).  Sex differences in self-efficacy and attributions: Influence 
+
+of performance feedback.  The Journal of Early Adolescence, 4, 203-213. 
+
+ 
+Schunk, D.H., & Meece, J.L.  (2006).  Self-efficacy development in adolescence.  In F. Pajares 
+
+& T. Urdan (Eds.), Self-efficacy beliefs of adolescents (pp. 71-96).  Greenwich, CT: 
+Information Age. 
+
+ 
+Seligman, M.E., Kaslow, N.J., Alloy, L.B., Peterson, N., Tanenbaum, R.L, & Abramson, L.Y.  
+
+(1984).  Attributional style and depressive symptoms among children.  Journal of 
+Abnormal Psychology, 93, 235-238. 
+
+ 
+Silver, W.S., Mitchell, T.R., & Gist, M.E. (1995).  Responses to successful and unsuccessful 
+
+performance: The moderating effect of self-efficacy on the relationship between 
+performance and attributions. Organizational Behavior, 62, 286-299. 
+ 
+
+in college students.  Journal of Career Assessment, 8, 232-302.   
+
+Smith, H., & Betz, N.E.  (2000).  Development and evaluation of a measure of social self-efficacy  
+ 
+ 
+Tuber, S.  (1992).  Empirical and clinical assessments of children’s object relations and object 
+ 
+
+representations.  Journal of Personality Assessment, 58, 179-197.  
+ 
+
+ 
+
+Underwood, B., & Moore, B.  (1982).  Perspective-taking and altruism.  Psychological Bulletin, 
+
+91, 143-173. 
+
+ 
+Wahler, R.G., & Bellamy, A.  (1997).  Generating reciprocity with conduct problem children and 
+
+their mothers: The effectiveness of compliance teaching and responsive parenting.  
+Journal of Social and Personal Relationships, 14, 549-564. 
+ 
+
+Westen, D.  (1991).  Social cognition and object relations.  Psychological Bulletin, 109, 429- 
+
+455. 
+
+ 
+Westen, D.  (2002).  Social Cognition and Object Relations Scale-Revised (SCORS-R). 
+
+Unpublished manuscript, The University of Michigan, Ann Arbor, MI.     
+
+ 
+Whitbeck, L.  (1987).  Modeling efficacy: The effect of perceived parental efficacy on the self 
+
+efficacy of early adolescents.  Journal of Early Adolescence, 7, 165-177. 
+
+ 
+Wigfield, A., Eccles, J.S., Mac Iver, D., Reuman, D.A., & Midgley, C.  (1991).  Transitions 
+
+during early adolescence: Changes in children’s domain-specific self-perceptions and 
+general self-esteem across the transition to junior high school.  Developmental 
+Psychology, 27, 552-565. 
+
+ 
+Wigfield, A., Eccles, J. S., Yoon, K. S., Harold, R. D., Arbreton, A. J. A., Freedman-Doan, C., &  
+Blumenfeld, P.C.  (1997).  Changes in children’s competence beliefs and subjective task 
+ 
+values across elementary school  years: A 3-year study.  Journal of Educational, 
+Psychology, 89,451-469. 
+
+ 
+Zimmerman, B.J., & Cleary, T.J.  (2006).  Adolescents’ development of personal agency: The 
+
+role of self-efficacy beliefs and self-regulatory skill.  In F. Pajares & T. Urdan (Eds.), Self 
+efficacy beliefs of adolescents (pp. 45-69).  Greenwich, CT: Information Age. 
+
+

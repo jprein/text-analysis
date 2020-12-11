@@ -1,0 +1,1690 @@
+Developmental  Psychology
+1999,  Vol.  35, No. 5,  1311-1320
+
+Copyright  1999 by  the  American  Psychological  Association,  Inc.
+0012-1649/99/$3.00
+
+A Longitudinal  Study  of  the Relation  Between  Language  and
+
+Theory-of-Mind  Development
+
+Janet  Wilde  Astington  and Jennifer  M.  Jenkins
+
+University  of  Toronto
+
+Fifty-nine  3-year-olds  were tested  3 times over a period of 7 months in order to assess the  contribution
+of  theory  of  mind  to language  development  and  of language  to theory-of-mind  development  (including
+the  independent  contributions  of  syntax  and  semantics).  Language  competence  was  assessed  with  a
+standardized  measure of reception  and production  of syntax and  semantics  (the Test of Early  Language
+Development). Theory of mind was assessed with false-belief  tasks and appearance-reality  tasks. Earlier
+language abilities predicted later theory-of-mind  test performance (controlling for earlier theory of mind),
+but  earlier  theory  of  mind  did  not  predict  later  language  test  performance  (controlling  for  earlier
+language). These  findings  are consistent  with  the  argument  that  language  is  fundamental  to  theory-of-
+mind  development.
+
+In this article we examine the relation between  theory-of-mind
+development and language. It is noteworthy that the term theory of
+mind  was  first  used  in  the  psychological  literature  in  an  article
+attributing  theory  of  mind  to nonlinguistic  creatures  (Premack  &
+Woodruff,  1978). Recently, however, there has been more  skepti-
+cism regarding primates' possession of a theory of mind (Povinelli,
+1999), to the point that some have expressed  the view that theory
+of  mind  is  impossible  without  language  (Segal,  1998;  Smith,
+1996). Even if there is evidence to support the argument that some
+nonhuman primates have some ability to attribute mental states to
+conspecifics  (Byrne  & Whiten,  1991), there  is general  agreement
+that it is a very limited ability. In introducing Premack and Wood-
+ruffs  term  to  the  developmental  literature,  Bretherton,  McNew,
+and  Beeghly-Smith  (1981)  argued  that  theory  of  mind  is  first
+evident in humans when language acquisition begins at the end of
+the  1st year, in  shared reference  and joint  attention behaviors,  for
+example. Certainly, the period from then until about 5 years of age
+is the time during  which children's  theory  of  mind  develops, and
+it  is  also  the  major  period  of  language  acquisition,  which  might
+lead us to look for some relation between the two (Gopnik,  1990).
+Theory of mind is a broad  term  (Astington,  1998) that  conveys
+the idea of  understanding  social interaction  by attributing  beliefs,
+desires,  intentions,  and  emotions  to people.  Our  focus  here  is  on
+relations between theory of mind and language competence toward
+the  end  of  the  preschool  period,  when  the  core  abilities  that  are
+taken  to  indicate  the  possession  of  a  representational  theory  of
+mind develop: that is, the ability to attribute false beliefs to the self
+
+Janet Wilde Astington and Jennifer M. Jenkins, Institute of Child Study,
+Ontario Institute for Studies in Education, University of Toronto, Toronto,
+Ontario,  Canada.
+
+We  thank  the  Natural  Sciences  and  Engineering  Research  Council  of
+
+Canada  for  support.
+
+Correspondence  concerning  this  article  should  be  addressed  to  Janet
+Wilde Astington, Institute  of Child  Study, Ontario Institute for  Studies in
+Education, University of Toronto, 45 Walmer Road, Toronto, Ontario M5R
+2X2,  Canada.  Electronic  mail  may  be  sent 
+to  jwastington@oise.
+utoronto.ca.
+
+1311
+
+and  others  and  the ability  to  distinguish  between  appearance  and
+reality  (Gopnik  & Astington,  1988; Wimmer  & Perner,  1983).
+
+We already know that there is a strong link between  false-belief
+understanding and language ability. Jenkins and Astington (1996),
+for  example,  found  high  correlations  between  3-  to  5-year-olds'
+scores on standard false-belief  tests and various standard measures
+of  general  language  ability,  r(66)  =  .61-.64,  such  as  the  Vocab-
+ulary  and  Sentence  Memory  subtests  of  the  Stanford  Binet  Intel-
+ligence  Scale  and  the  Test  of  Early  Language  Development
+(Hresko,  Reid,  &  Hammill,  1981).  Recently,  numerous  studies
+have  reported  correlations  between  theory-of-mind  task  perfor-
+mance  and  language  competence  as  measured  with  a  variety  of
+tasks  (e.g.,  Cutting  &  Dunn,  in  press;  Hughes  &  Dunn,  1997).
+Further,  it  is  well  established  that  children  with  autism,  who
+generally  fail  theory-of-mind  tasks, are delayed  in  their  language
+achievements and have patterns of linguistic performance  different
+from  those  of  nonautistic  children  (Tager-Flusberg,  1993). More-
+over,  level  of  verbal  ability  is  a  crucial  factor  for  those  children
+with  autism  who do pass false-belief  tasks  (Happe,  1995).
+
+Thus,  there  is  certainly  some  relation  between  language  and
+theory-of-mind  development.  However, 
+this  does  not  say
+much—or  rather,  it  says  it  at  too  broad  and  superficial  a  level.
+Precision is needed about the nature of the relation and the aspects
+of  language  that  are  involved.
+
+What  Is  the  Nature  of  the  Relation  Between  Language
+
+and  Theory-of-Mind  Development?
+
+The correlations between  theory-of-mind  task performance  and
+language ability can be explained in a number of ways. Logically,
+when  A  correlates  with  B,  there  are  three  possibilities:  (1)  A
+depends on B, (2) B depends on A,  and (3) both A and B depend on
+some third factor  C. We briefly  discuss each of these possibilities,
+focusing on the first one, which motivates the study we report here.
+
+Theory of Mind  Depends  on Language
+
+This explanation  has a weak version and a strong version. First,
+in the weak  version,  it is argued  that  linguistic  ability  is  required
+
+1312
+
+ASTINGTON AND JENKINS
+
+for  successful  performance  on  theory-of-mind  tasks.  Certainly,
+current  theory-of-mind  assessment  methods  rely  heavily  on  lan-
+guage. Frequently,  children  are told  a story or they have to  listen
+while the experimenter talks about some task materials; they  have
+to  comprehend  this  input,  process  the  experimenter's  questions
+about it, and make some response. Even though the response itself
+may  be nonverbal, in that the child  may point  to a location  when
+asked,  for  example,  "Where  will  [the  story  character]  look?"  a
+good  deal  of language processing  is required  in order  to respond.
+Thus,  it  is  argued  that  3-year-old  children  do  understand  false
+belief  but  that  because  of  the  linguistic  complexity  of  the  tasks,
+they  are unable to demonstrate  their understanding  in the  context
+of standard false-belief  tests (Chandler, Fritz, & Hala,  1989). This
+version of the hypothesis does not speak to the question of whether
+theory-of-mind  development  depends  on  language—just  to  the
+limitations of current methods of testing for it—and argues that if
+the  task  demands  less  linguistic  ability,  younger  children  will
+perform correctly. For example, children can act out a doll's search
+(when  the  doll  holds  a  false  belief)  better  than  they  can  make  a
+verbal prediction  of where the doll will look  (Freeman, Lewis, &
+Doherty,  1991).
+
+However,  simplifying  the  language  of  the  task  is  one  thing;
+omitting  language  altogether  is  something  else. Completely  non-
+verbal  tasks  are  no  easier  (Call  &  Tomasello,  1999)  and  may
+indeed  be  harder  (Plaut  & Karmiloff-Smith,  1993)  than  the  stan-
+dard tasks. These findings from nonverbal tasks support the strong
+version  of  the  first  hypothesis,  which  is  that  theory  of  mind
+depends  on  language  such  that  linguistic  development  supports
+theory-of-mind  development. From this point of view, it is not that
+linguistic immaturity  masks children's underlying competence but
+rather that theory-of-mind  development and language development
+are  themselves  fundamentally  related  and  interdependent.  Lan-
+guage  development  may  itself  provide  children  with  resources,
+such  as  syntactic  ability  or  semantic  understanding,  that  promote
+or allow  false-belief  understanding.
+
+At the present time there is no evidence that children understand
+belief  representation  before  they  have  the  linguistic  means  to
+express their understanding. Povinelli and deBlois (1992) gave 3-
+and 4-year-old children a nonverbal task that had been used to test
+chimpanzees'  understanding of the link between seeing and know-
+ing. In general,  3-year-olds  failed  the test and 4-year-olds  passed;
+moreover,  and importantly,  those who passed could  give a  verbal
+explanation  of  the  link  between  seeing  and  knowing,  and  those
+who failed  could  not.
+
+A causal  link from  language  to theory-of-mind  development  is
+also suggested  by  studies of  deaf  children  whose language devel-
+opment is delayed although their nonverbal intelligence and social
+adjustment  are  within  normal  levels.  When  these  children  are
+tested  on  standard  false-belief  tasks  adapted  to  their  mode  of
+communication, they frequently  fail the tasks although  responding
+correctly  to  control  questions  (Gale,  de  Villiers,  de  Villiers,  &
+Pyers,  1996; Peterson & Siegal,  1995). More strikingly, Gale et al.
+showed that such children also had difficulty  with nonverbal tasks,
+such as the one developed by Povinelli and deBlois (1992). More-
+over, the children's performance on this task was predicted by their
+level  of  language  development.  These  findings  support  the  idea
+that language development precedes and promotes  theory-of-mind
+development.
+
+Language  Depends  on  Theory of Mind
+
+The second hypothesis proposes that the relation operates in the
+other direction, from  theory of mind to language. This argument is
+consonant  with  Piaget's  (1954,  1980) view  that  thought  precedes
+language,  a  view  that  underlies  much  of  cognitive  development
+research. According  to this view, theory of mind is not  dependent
+on linguistic representation; rather, children first acquire a concep-
+tual understanding  of false  belief  and appearance-reality  and then
+language becomes elaborated  to reflect  this development. Such an
+argument  is  consistent  with  the  proposal  that  false-belief  under-
+standing  is  dependent  on  innate  modular  systems  (Baron-Cohen,
+1995;  Leslie  &  Roth,  1993).  It  is  also  consistent  with  Perner's
+(1991)  proposal  that  the  child  uses  mental  models  to  represent
+false  beliefs.  The  fact  that  an  adult  who  loses  the  capacity  for
+language does not lose the ability  to understand  false  belief  (Var-
+ley,  1998)  supports  the  argument  that  theory  of  mind  is  not
+dependent  on language. However,  it may  still be the case that the
+development  of  a theory  of mind  is facilitated  by  language.
+
+Theory of Mind  and Language  Both  Depend  on
+Some  Other Factor
+
+The third  hypothesis  is that language  and theory-of-mind  mea-
+sures  correlate  because  they  are  both  dependent  on  some  other
+factor; that is, some underlying factor brings about development in
+both theory  of mind and language. According  to some views, this
+factor  is  internal,  such  as  developments  in  working  memory  or
+executive  function,  which  allow  children  to  reason  using  more
+complex  embedded  rules  that  are  then  exploited  in  both  theory-
+of-mind  and language tasks (Zelazo & Jacques,  1996). According
+to  other  views,  this  factor  is  external  and  involves  the  child's
+increasingly  sophisticated  participation  in  social  and  cultural  ac-
+tivities  (Dunn,  1988; Nelson,  1996). A version  of this  hypothesis
+argues  that  theory  of  mind  and  language  development  are  inter-
+twined, each promoting  development  of the other via a bootstrap-
+ping mechanism  (Shatz,  1994).
+
+In summary, the possibilities are these: Theory of mind depends
+on  language;  or  language  depends  on  theory  of  mind;  or  both
+depend  on  a  third  factor.  Whatever  the  direction  of  the  relation,
+one must  also consider  what  aspects  of  language  are  involved.
+
+What  Aspects  of  Language  Are  Related  to
+
+Theory-of-Mind  Development?
+
+Pragmatic, semantic, and syntactic aspects of language develop
+together and are strongly related in normal development. Although
+it  is  likely  that  all  three  are  related  to  theory  of  mind,  it  is  also
+likely that each plays a different  role. Moreover, it may be  specific
+features  of  pragmatics,  semantics,  and  syntax  that  are the  impor-
+tant factors. We briefly  summarize the possibilities here, although
+in  the  study  reported  below  we  assess only  the general effects  of
+semantic  and  syntactic  development.
+
+Pragmatic  ability  underlies  the  ability  to use  and  interpret  lan-
+guage appropriately in social situations, which depends on keeping
+track  of  listeners'  and  speakers'  beliefs  and  intentions.  Thus,
+pragmatics  and  theory  of  mind  are  related  by  definition,  and
+indeed,  scores  on  a  test  of  pragmatic  ability  were  found  to  be
+related  to  false-belief  task  performance  in  a  sample  of  children
+
+LANGUAGE  AND THEORY  OF MIND
+
+1313
+
+with autism (Eisenmajer  & Prior,  1991). In addition, Frith, Happe,
+and  Siddons  (1994)  included  items  requiring  pragmatic  skill  in
+their measure of real-life social adaptation, which they found  to be
+associated  with  false-belief  task  performance  in  a  group  of  chil-
+dren  with autism, although  not in comparison  groups  of  normally
+developing  children  and  learning-disabled  children.  The  relation
+between  theory  of  mind  and  more  specific  features  of  pragmatic
+development,  such  as  the  appropriate  use  of  referential  devices,
+can  be  seen  in  an  examination  of  relations  between  narrative
+production  and  false-belief  understanding  (Charman  &  Shmueli-
+Goetz,  1998).
+
+Semantics is concerned  with word meaning. At a general level,
+semantic  ability facilitates  children's  participation  in verbal  social
+interaction,  which  some  would  argue  is  important  to  theory-of-
+mind development (Dunn,  1988; Nelson,  1996). More  specifically,
+Olson  (1988)  argued  that  theory-of-mind  development  is  depen-
+dent on the acquisition of particular terms, such as think, know, and
+remember, that  are used  to refer  to  mental  states.  Such  states  are
+unobservable,  although  their  effects  can  be  felt  in  the  self  and
+observed in others. These unobservable phenomena are brought to
+the child's attention when they are referred to with linguistic terms.
+The same linguistic terms are applied to the child's own states and
+to  those  of  other  people,  which  allows  children  to  map  their
+subjective feelings onto other people's experiences and develop an
+understanding  of these states. In support of this argument, Moore,
+Pure,  and  Furrow  (1990)  showed  that  there  is  a relation  between
+children's  comprehension  of  words  such  as  think  and  know  and
+their  performance  on  tests  of  false-belief  understanding.
+
+Syntactic  ability  is the ability  to combine words into sentences.
+At a general level, one could  argue that  syntactic  abilities  support
+reasoning  about  false  beliefs  by  facilitating  the  representation  of
+states  different  from  current  reality  (Plaut  &  Karmiloff-Smith,
+1993).  More  specifically,  mental-state  reports  require  complex
+constructions  consisting  of a main sentence with another  sentence
+embedded  in  it: for  example,  "John  thinks  the chocolate  is in  the
+cupboard." The embedded  sentence, "the  chocolate  is  in the cup-
+board,"  forms  a  subordinate  clause  that  acts  as  the  grammatical
+object  of  the  verb  "thinks"  in  the  main  sentence.  In  linguistics,
+such clauses are called object complements. Their importance here
+is  that  they  allow  the  report  of  false  beliefs;  that  is,  the  whole
+construction  may  be  true  even  though  the  embedded  sentence  is
+false. Thus, one can truthfully  say, "John thinks the chocolate is in
+the cupboard"  even  if  it  is  actually  in  the drawer  and  one  knows
+that. During  the preschool  years, children  achieve  mastery  of  the
+basic syntactic forms  of their language, which in English  includes
+mastery  of  these  object  complements.  De  Villiers  (1995)  argued
+that  it  is  acquisition  of  the  syntax  of  complementation  that  pro-
+vides  the  representational  format  needed  for  false-belief  under-
+standing.  Relations  do  exist  between  theory-of-mind  tasks  and
+syntactic  tasks  that  use  complement-taking  verbs,  but  from  the
+available  data  one  cannot  determine  the  direction  of  the  relation
+(Tager-Flusberg,  1997).
+
+In the study reported here we investigated  the relation  between
+language  and theory  of mind  over time. We had two goals: (a) to
+investigate  the  direction  of  the  relation  between  language  and
+theory  of mind  and (b) to investigate the separate contributions of
+semantic  and syntactic  abilities to this relation. We assessed  gen-
+eral  semantic  and  syntactic  development,  not  the  specific  under-
+standing of mental terms and object complements. Our view is that
+
+general language ability plays an important role in  theory-of-mind
+development.  We  expected  that  changes  in  children's  theory  of
+mind  would  be  predicted  by  their  linguistic  competence,  not  the
+reverse.  We  assessed  both  theory-of-mind  task  performance  and
+level of language development in a sample of middle-class  3-year-
+olds  at  three  points  in  time  over  a  period  of  7  months.  We
+hypothesized  that  language  test  scores  at  an  earlier  time  point
+would  predict changes  in theory-of-mind  test  scores between  that
+time  and  a later time point, whereas theory-of-mind  test scores at
+an  earlier  time  point  would  not  predict  changes  in  language  test
+scores  between  the  earlier  and  later  time  points.  We  also  deter-
+mined  whether  syntactic  or  semantic  competence  was  more  im-
+portant in the relation of language to theory-of-mind  development.
+
+Method
+
+Participants
+
+Three  cohorts  of  children  entering  the  nursery  class  of  a  university
+laboratory  school  were  tested  in  three  separate  years.  There  were  59
+children  altogether,  29 girls and  30 boys. Their mean  age at the first time
+of testing  was 3 years 4 months  (range  =  2 years 9 months to 3 years  10
+months).  They  were  all  from  middle-class  English-speaking  homes.  Four
+children  spoke another  language  at home in addition  to English, but  their
+English-language  competence  was  sufficient  for  them  to participate  com-
+fortably  in  the  testing.  Two  other  children,  1 who  did  not  speak  English
+and  1 who  was  shy, did  not participate  in the  testing.
+
+Materials
+
+Theory of mind.  Different  materials1 were used for the  theory-of-mind
+tasks  at  the  three  time  points.  There  were  three  familiar  boxes  with
+unexpected  contents:  a  crayon  box  containing  a  doll,  a  milk  carton  con-
+taining elastics, and a juice box containing ribbons. There were also three
+familiar  boxes with their usual contents, which  were switched  with some-
+thing  else  during  the  test:  a bandaid  box  and  pennies,  a kleenex  box  and
+book,  a raisin  box and  stickers. There  were  three objects  that  looked  like
+one thing but were really something else: a sponge that looked like a rock,
+a  pen  that  looked  like  a  toy  snake,  and  candies  that  looked  like  stones.
+Dolls  and  doll-size  equipment  (boxes,  baskets,  desk,  cupboard,  ball,  and
+candy) were used to act out the stories in the change-in-location  false-belief
+task.
+
+Language.  The  Test  of  Early  Language  Development  (Hresko  et  al.,
+1981)  was  used  to  assess  language  ability.  This  test  measures  general
+language ability by assessing syntactic and semantic skills, in both expres-
+sive and receptive forms, through responses to questions  and pictures  (see
+examples  in  the  Appendix).  The  test  manual  designates  each  individual
+item  as belonging  to  the  syntax  or  semantics  and  expressive  or  receptive
+categories. The number of items representing each construct varies because
+the  selection  of  test  items  from  a  large  pool  of  items  was  determined
+empirically based on item difficulty  and discriminating power. The test has
+been  standardized  on  children  between  3  and  7  years  of  age,  and  good
+test-retest  reliability  (a  =  .90)  and  internal  consistency  (a  =  .90)  have
+been  established.  It  has  been  found  to  be  highly  correlated  with  the
+Sentence Memory subtest of the Stanford Binet Intelligence Scale, r(66)  =
+.76 (Jenkins  & Astington,  1996).
+
+'It  was  not  possible  to  use  the  same  materials  at  subsequent  test  times
+because the children would no longer have entertained an initial false belief
+about  the  materials,  which  is  an  essential  feature  of  unexpected-contents
+false-belief  tasks and  appearance-reality  tasks.
+
+1314
+
+Procedure
+
+ASTINGTON  AND  JENKINS
+
+Scoring
+
+Children were tested near the beginning, middle, and end of their nursery
+
+school  year at approximately  3.5-month  intervals.
+
+Theory  of mind.  At each  time  of testing,  children  were  given  three
+
+tasks:
+
+1.  A standard  change-in-location  false-belief  task  acted  out with dolls:
+A doll leaves an object in one place, and while the doll is away, the object
+is moved to a new place. Then the doll returns and the child is asked where
+the doll will look for the object. Control questions were asked to ensure that
+the child remembered  where the doll had left  the object  and that the child
+knew  where it really  was later on. A different  story,  with  different  dolls,
+objects, and locations, was used at each  time  point.
+
+2.  A  standard  unexpected-contents  false-belief  task:  Children  were
+asked  what  was inside a familiar  box, and they  answered  with  the usual
+contents.  Then  the  box  was  opened  and  was  found  to  have  unusual
+contents.  After  these  unexpected  contents  were  replaced  in the box,  the
+children  were again asked what was inside the box. Then they were asked
+what  they  had thought  was inside it before  it was opened  and what  their
+friend,  who had not seen  inside the box, would  think  was  inside it before
+it was opened. A different  box and contents were used at each time point.
+3.  A standard  appearance-reality  task:  Children  were shown  an object
+that  looked  like  one thing  and was really  something  else  (e.g.,  a sponge
+painted to look like a rock). They  were asked what the object  looked like,
+what it really was, what their friend  would think it was when he or she first
+saw  it, and what  they  thought  it was when  they  first  saw it. A  different
+object  was used at each  time  point.
+
+If  any of the theory-of-mind  test questions  was not answered  spontane-
+ously,  the child  was given  a forced-choice  alternative.  The order  of the
+three  tasks  and the order  of questions  within  tasks  were  counterbalanced
+across children. At the end of the test session at each time point, children
+were  asked  what  was inside  another  box (that  did in fact  have  the usual
+contents). We included  this  item so that the children  would not think  that
+every box we showed  them had unusual  contents.
+
+Language.  At each time of testing, the children were given the Test of
+Early Language Development (Hresko et al., 1981). Its test battery consists
+of  38 items  ordered  by difficulty  level  (with  recommendations  for entry
+points based  on age). In this  study, at Time  1 all children  began  with the
+first  item  and continued  until  they  had failed  five  consecutive  items (the
+recommended  ceiling).  At Time  2 the test  began  from  the child's  first
+failure at Time  1 and continued until the point of five consecutive  failures.
+Similarly,  the Time  3  test  began  from  the  first  failure  at  Time  2 and
+continued  until  the point  of  five  consecutive  failures.  We followed  this
+procedure  to reduce  fatigue  and frustration.  If  we had gone  back  to the
+beginning at each time of testing, a child with a high score might have been
+fatigued  by the need to respond  to many  items. As it was, sometimes the
+first  failed  item was some way below the five consecutive  failures, and so
+the child repeated a fair  number of items passed at the previous test  point.
+Further,  if  we had continued  beyond  five  consecutive  failures,  children
+might  have  been  frustrated  by items  that  were too difficult  for them.
+
+false-belief 
+
+from 
+
+Theory of mind.  At each  test  time, the child  was asked six test ques-
+tions on the theory-of-mind  tasks; this yielded six points that were summed
+to give a total theory-of-mind  score (range =  0-6). Control questions had
+to be answered  correctly for credit to be given.  One point  came from the
+change-in-location 
+the
+unexpected-contents  false-belief  task, for answers  to the questions  about
+the  friend's  and the child's  own  false  belief. Three points came from the
+appearance-reality  task, two for answers  concerning  the friend's  and  the
+child's  own  false  belief  and one for distinguishing  appearance and reality
+(both  of these questions had to be answered  correctly  for this point to be
+counted).  The  internal  consistency  (a)  of  the  theory-of-mind  measure
+was 0.59 at Time  1, 0.59 at Time 2, and 0.80 at Time 3.
+
+task.  Two  points  came 
+
+Language.  The  child's  raw  score  on  the  Test  of  Early  Language
+Development  was used  as a measure  of general  language  competence at
+each  time point. This  score is the sum  total of all items passed,  including
+credit for those passed at an earlier time. All items at and above the ceiling
+were recorded as failures. In addition, subscores were computed  separately
+for the syntactic and semantic items; one item, designed to detect problems
+in  articulation,  was not included  in either  subscore. The internal  consis-
+tencies  (a) for syntax  and semantics, respectively,  were 0.67 and 0.86 at
+Time  1, 0.70 and 0.87 at Time 2, and 0.73 and 0.84 at Time 3.
+
+Results
+
+All  but  1  of  the  children  who  correctly  answered  the  test
+question  in  the  change-in-location  false-belief  task  correctly  an-
+swered  the  control  questions.  The  1 child,  who  failed  a  control
+question at Time 2, was scored as incorrect on the test question  for
+that time point. All children correctly remembered  the unexpected
+contents  of  the  box  before  they  were  asked  about  their  previous
+belief  and their friend's  false  belief  about its contents. At Time 2,
+1 child was not asked the questions for this item; she was given the
+group  mean  for  these  two  scores.  Table  1 shows  the  means  and
+standard  deviations  for  all  scores  at  each  time  point.  Language
+competence  increased  steadily  across  the  three  time  points.
+Theory-of-mind  performance  increased  between  Times  1  and  2
+and  then  leveled  off.
+
+Table 2 shows the Pearson product-moment  correlations  among
+age,  theory  of  mind,  and  language  at  and  across  the  three  time
+points.  As  anticipated,  theory  of  mind  and language  were  associ-
+ated  with  each  other  and  with  age  (Happe,  1995;  Jenkins  &
+Astington,  1996).  The  correlations  among  the  theory-of-mind
+scores  and  among  the  language  scores  show  the  stability  of  chil-
+dren's relative performance  over time. The correlations  of  theory-
+of-mind  scores  with  each  other  and  with  language,  although  not
+
+Table  1
+Mean  Scores  and  Standard  Deviations  at  Three  Time Points  (N  =  59)
+
+Time
+
+1
+
+Time
+
+2
+
+Time
+
+3
+
+Variable
+
+Age (in months)
+Theory of mind
+Language  test  total  score
+
+Syntax  subtotal
+Semantics  subtotal
+
+M
+
+40.1
+2.2
+12.0
+3.7
+7.4
+
+SD
+
+3.8
+1.6
+6.0
+1.9
+4.2
+
+M
+
+43.6
+3.5
+15.8
+4.7
+10.2
+
+SD
+
+3.8
+1.6
+6.3
+2.0
+4.6
+
+M
+
+47.1
+3.5
+21.1
+6.6
+13.5
+
+SD
+
+3.8
+2.1
+5.6
+1.9
+4.0
+
+Range  over
+three  time
+
+points
+
+33-53
+0-6
+2-29
+0-10
+1-20
+
+LANGUAGE  AND  THEORY  OF  MIND
+
+1315
+
+Table  2
+Pearson  Correlations of Age,  Theory of Mind, and Language  at and  Across
+Three Time Points  (N  =  59)
+
+Variable
+
+1. Age
+2. Theory  of  mind,  Time  1
+3. Theory  of  mind,  Time  2
+4. Theory  of  mind,  Time  3
+5. Language,  Time  1
+6. Language,  Time  2
+7. Language,  Time  3
+
+1
+
+—
+
+.36**
+.15
+.40**
+.36**
+.40**
+.30*
+
+"p<.05. 
+
+**/><  .01.  * * * / ; < . 0 0 1.
+
+—
+
+.52***
+43***
+.16
+.28*
+.15
+
+.65***
+.38**
+.47***
+.35**
+
+.50***
+.52***
+44***
+
+.84***
+.73***
+
+.82*** 
+
+—
+
+significant  at  every  time  point,  were  always  in  the  expected
+direction.
+
+Our  main concern  is  with  the relation  between  theory  of  mind
+and  language  over  time.  If  the  development  of  a  theory  of  mind
+boosts  linguistic  development,  we  would  expect  that  theory  of
+mind  at an  earlier  time point  would predict  language later.  If,  on
+the other hand, language plays an important role in  theory-of-mind
+development,  we  would  expect  the  reverse  pattern,  that  is,  lan-
+guage  at  an  earlier  time  point  would  predict  the  theory-of-mind
+scores  later  on.  To  assess  these  two  alternatives,  we  used  hierar-
+chical  regression  to  establish,  first,  the  unique  contribution  of
+theory  of  mind  to  language  development  and,  second, the  unique
+contribution  of  language  to theory-of-mind  development.
+
+Children's  performance  on  the  theory-of-mind  tasks  at  a  later
+time point will depend partly on their age and their earlier  perfor-
+mance on the theory-of-mind  tasks. Thus, variability in  children's
+scores that was due to these two factors  was accounted for first  in
+the analyses, and then the contribution of earlier language compe-
+tence was assessed. Similarly, language test performance  at a later
+time will be determined  partly by  age and by  earlier  performance
+on the language  test, and so again, variability  in children's  scores
+that  was  due  to  these  two  factors  was  accounted  for  first  in  the
+analyses,  and  then  the  contribution  of  the  earlier  theory-of-mind
+performance  was assessed. This strategy  allowed us to predict the
+contribution  of  language  to  change  in  theory-of-mind  test  scores
+and the contribution  of  theory  of mind  to change in language  test
+scores. In this way we could determine whether language played a
+role  in  theory-of-mind  development  and  whether  theory  of  mind
+played  a role  in  language  development.
+
+Predicting  Language  From  Theory of Mind
+
+The first  three  analyses  assessed  the contribution  of  theory-of-
+mind  scores  at one point  in time  to variability  in language  scores
+at a later time point, that is, from  Time  1 to Time 2, from  Time 2
+to Time  3, and from  Time  1 to Time 3. Table 3 shows the results
+of these analyses; the regression coefficients  shown are those at the
+final  step.  First,  for  predicting  language  at  Time  2,  after  Step  1
+with  age  and  language  at Time  1 in  the equation, R2  =  .71, F(2,
+56)  =  68.61, p  <  .001. After  the  addition  of  theory  of  mind  at
+Time  1, A/?2 =  .01, Finc(l,  55)  =  2.89, ns. That is, the addition of
+theory of mind did not reliably improve R2.  Second, for predicting
+language at Time 3, after  Step  1 with age and language at Time 2
+in the equation, R2  =  .67, F(2, 56)  =  57.18, p  <  .001. After  the
+
+addition  of  theory  of  mind  at  Time  2,  AR2  < 
+.01,  Finc(l,
+55)  =  0.28, ns. That  is, again, the addition  of theory  of  mind  did
+not reliably improve R2. Likewise, third, for predicting language at
+Time 3 from the Time  1 scores, after Step  1  with age and language
+at Time  1 in the equation, R2  =  .53, F(2, 56)  =  32.17, p  < .001.
+After  the addition of theory of mind at Time  1, A/?2 <  .01,  Finc(l,
+55)  =  0.07, ns. That is, once again, the addition of theory of mind
+did  not  reliably  improve  R2.  Thus,  there  is  no  indication  that
+theory-of-mind  task  performance  at  an  earlier  point  in  time pre-
+dicts language test performance  later on.
+
+Predicting  Theory of Mind  From  Language
+
+We performed  a similar set of analyses to assess the contribution
+of language scores at one point in time to variability in  theory-of-
+
+Table  3
+Summary  of Hierarchical  Regression Analyses  Predicting
+Language  From  Theory of Mind  (N  =  59)
+
+Variable
+
+B
+
+SEB
+
+13
+
+Time  1 to  Time
+
+T
+
+Step  1
+Age
+Language,  Time
+
+1
+
+Step  2
+
+Theory  of  mind,
+
+Time
+
+1 
+
+.12
+.83
+
+.50
+
+.13
+.08
+
+.29
+
+Time  2 to  Time
+
+3b
+
+Step  1
+Age
+Language,  Time
+
+Step  2
+
+2
+
+Theory  of  mind,
+
+Time
+
+2 
+
+-.06
+.77
+
+-.16
+
+Time  1 to  Time
+
+Step 1
+Age
+Language,  Time
+
+Step  2
+
+1
+
+Theory  of  mind,
+
+Time
+
+1 
+
+.05
+.67
+
+.09
+
+.12
+.08
+
+.30
+3b
+
+.15
+.09
+
+.34
+
+.07
+.79
+
+.13
+
+-.04
+.86
+
+-.05
+
+.03
+.71
+
+.03
+
+R1
+
+or  AS2
+
+.71***
+
+.01
+
+.67***
+
+.002
+
+.53***
+
+.0006
+
+a Dependent  variable  =  language,  Time  2.  ""Dependent  variable  =  lan-
+guage,  Time  3.
+* * * p<  .001.
+
+1316
+
+ASTINGTON AND JENKINS
+
+Table 4
+Summary  of Hierarchical  Regression Analyses  Predicting
+Theory of Mind  From  Language  (TV =  59)
+
+Variable
+
+B
+
+SEB
+
+P
+
+Time  1 to Time
+
+2a
+
+R2
+OTAR2
+
+Step 1
+Age
+Theory of mind,
+
+Step 2
+
+Time
+
+1 
+
+Language, Time
+
+1
+
+-.07
+.52
+
+.10
+
+Time 2 to Time
+
+Step 1
+Age
+Theory of mind,
+
+Step 2
+
+Time
+
+2 
+
+Language, Time
+
+2
+
+.14
+.68
+
+.06
+
+Time  1 to Time
+
+Step 1
+Age
+Theory of mind,
+
+Step 2
+
+Language, Time
+
+Time
+
+1 
+
+1
+
+.07
+.41
+
+.14
+
+.05
+.11
+
+.03
+3b
+
+.06
+.13
+
+.04
+3b
+
+.07
+.15
+
+.04
+
+-.17
+.52
+
+.27***
+
+.35
+
+.11**
+
+.25
+.53
+
+.17
+
+.14
+.32
+
+.39
+
+.51***
+
+.02
+
+.26***
+
+.13***
+
+aDependent variable  =  theory of mind, Time 2. 
+theory of mind, Time 3.
+**P<m. 
+
+***/>< .ooi.
+
+bDependent variable  =
+
+mind  scores  at a later  time point:  again,  from  Time  1 to Time 2,
+from Time 2 to Time 3, and from Time  1 to Time 3. Table 4 shows
+the results of these analyses; the regression coefficients  shown are
+those  at  the  final  step.  First,  for  predicting  theory  of  mind  at
+Time 2, after  Step  1 with age and theory of mind at Time  1 in the
+equation, R2  =  .27, F(2, 56) =  10.44, p  <  .001. After the addition
+of  language  at Time  1, AR2  =  .11, Finc(l,  55)  =  9.77, p  < .01.
+That is, the addition of language reliably improved R2. Second, for
+predicting  theory  of  mind  at  Time  3, after  Step  1 with  age and
+theory  of  mind  at  Time  2  in  the  equation,  R2  =  .51, F(2,
+56)  =  29.36, p  <  .001. After  the addition of language at Time 2,
+AR2  =  .02, Finc(l,  55) =  2.24, ns. Here, the addition of language
+did not reliably  improve R2. However, third, for predicting  theory
+of  mind  at Time 3 from  the Time  1 scores, after  Step  1 with age
+and  theory  of  mind  at  Time  1 in  the  equation,  R2  =  .26, F(2,
+56)  =  9.68, p  <  .001. After  the addition  of language  at Time  1,
+AR2  =  .13, Finc(l, 55) =  12.02, p  <  .001. That is, the addition of
+language reliably  improved R2. Thus, language at an earlier  point
+in  time predicted  theory  of mind later on, at least  from  Time  1  to
+Time 2 and from Time  1 to Time 3. As mentioned,  theory-of-mind
+task  performance  appeared  steady  between  Time 2 and Time 3.
+
+Testing the Relative Importance  of Syntax and Semantics
+
+A subject of lively debate in this area concerns what aspects of
+language might be important for theory-of-mind  development. To
+address this issue, we used the syntax and semantics subscores as
+separate variables in the regression models. In the analyses  shown
+in  Table 4, the total  language  score was added  at Step 2. To test
+whether  syntax,  semantics,  or both  make  independent  contribu-
+
+tions to the prediction of theory of mind, instead of adding the sum
+total score in one step we added the syntax subscore at Step 2 and
+the  semantics  subscore  at Step  3 in one model,  and we reversed
+this order in another model, adding semantics at Step 2 and syntax
+at  Step  3. Table  5  shows  the results  using  this  approach  for the
+prediction  from  Time  1 to  Time  2  (the  regression  coefficients
+given  are for  the  final  step  in  each  model).  Theory  of  mind  at
+Time 2 is the dependent  variable, and as before,  after  Step  1 with
+age and theory of mind at Time  1 in the equation, R2  =  .27, F(2,
+56)  =  10.44, p  <  .001. In the first model  (Model  a), the Time 1
+semantics score is added at Step 2: AR2  = .08, Finc(l, 55) = 7.05,
+p <  .05. Then the Time  1 syntax score is added at Step 3: AR2  =
+.10, Finc(l, 54) =  9.36, p <  .01. Thus syntax made an independent
+contribution  to  the prediction  of  theory  of  mind  after  semantics
+was  entered.  In the second  model  (Model  b), the Time  1 syntax
+score is added at Step 2: AR2 = .17, Finc(l, 55) =  16.84,p < .001.
+Then the Time  1 semantics  score is added  at Step 3: AR2  = .01,
+Finc(l,  54)  =  0.73, ns. Here,  semantics  made no additional con-
+tribution  to  the  prediction  of  theory  of  mind  after  syntax  was
+entered.
+
+A  similar  result  was  found  when  predicting  from  Time  1 to
+Time 3. After  Step  1 with age and theory of mind at Time  1 in the
+equation, R2  = .26, F(2, 56) =  9.68, p  <  .001. In the first model,
+after  semantics  at Time  1 is added  at Step  2, AR2  =  .11, Finc(l,
+55) =  9.38, p <  .01, and after  syntax at Time  1 is added at Step 3,
+AR2  =  .05, Finc(l, 54) =  4.87, p <  .05. In the second model,  after
+syntax  at  Time  1  is  added  at  Step  2,  AR2  =  .16,  Finc(l,
+55)  =  15.18, p  <  .001, and after  semantics  at Time  1 is added at
+Step 3, AR2  <  .001, Finc(l,  54) <  .001, ns. That is, again, syntax
+made  an independent  contribution  to the prediction  of  theory of
+mind  after  semantics  was entered,  but  semantics  made  no addi-
+tional  contribution  after  syntax  was entered.  Recall  that  language
+at Time 2 made no contribution to the prediction of Time 3 theory
+of mind after age and theory of mind at Time 2 were controlled for,
+
+Table 5
+Summary of Hierarchical Regression Analyses  Predicting
+Theory-of-Mind Scores at Time 2 From  Semantics
+and Syntax at Time  1 (N = 59)
+
+Variable
+
+B
+
+SEB
+
+P
+
+R2
+
+or A/?2
+
+Step 1
+Age
+Theory of mind, Time
+
+1 
+
+Step 2
+
+Step 3
+
+Semantics, Time 1
+
+Syntax, Time 1
+
+Step 2
+
+Step 3
+
+Syntax, Time 1
+
+Semantics, Time 1
+
+Both models
+
+-.08
+.53
+
+Model a
+
+-.06
+
+.49
+
+Model b
+
+.49
+
+-.06
+
+.05
+.11
+
+.07
+
+.16
+
+.16
+
+.07
+
+-.18
+.53
+
+27***
+
+-.16
+
+.08*
+
+.57
+
+.10**
+
+.57
+
+.17***
+
+-.16
+
+.01
+
+* p < . 0 5.  * * / > <. 01.
+
+***p  < .001.
+
+LANGUAGE  AND THEORY  OF MIND
+
+1317
+
+and  as expected,  the  same result  was found  when  the syntax  and
+semantics  scores  were entered  separately.
+
+It  is  important  to  note  that  although  the  syntax  and  semantics
+subscores  were highly  correlated,  as  one  would  expect—Time  1,
+K57)  =  .84; Time  2,  r(57)  =  .79; Time  3,  r(57)  =  .76—syntax
+still made an independent contribution  to the prediction of change
+in the theory-of-mind  scores, and this contribution  was not due to
+outliers or other unusual features  of the data. We should  also note
+that  it  was  only  the  syntax  subscore  that  acted  in  this  way.  We
+created  subscores  for  expressive  and  receptive  items  and  used
+them as separate variables in the regression  models just as we did
+for  syntax  and  semantics.  In  these  analyses  the  variable  entered
+first,  whether  expressive  or  receptive,  accounted  for  all  of  the
+variance due to language, and no further contribution was made by
+the  variable  entered  second.
+
+Psychometric  Issues
+
+The  results  of  this  study  show  that  language  competence  pre-
+dicts  theory-of-mind  development  but  that  the reverse  is  not  the
+case  (theory-of-mind  abilities  do  not predict  language  change). It
+is  important  to  consider  the  possibility  that  these  results  may  be
+explained, at least in part, by psychometric differences  between the
+language and theory-of-mind  measures. The range and variance of
+the  language  test  scores  are  greater  than  those  of  the  theory-of-
+mind test scores (see Table  1), and the language test scores have a
+higher  internal  consistency.  Indeed,  the  Test  of  Early  Language
+Development  is  a  standardized  measure  that  meets  the  standards
+for  educational  and psychological  tests established  by the  Ameri-
+can  Psychological  Association  (Hresko  et  al.,  1981,  p.  6).  In
+contrast,  although  theory-of-mind  researchers  may  refer  to  "stan-
+dard" false-belief  tests, there is no standardized measure  available
+at  the  present  time  (Mayes,  Klin,  Tercyak,  Cicchetti,  &  Cohen,
+1996). We used tasks  that  are commonly  reported  in the research
+literature  to  assess  the  development  of  theory  of  mind  in  the
+preschool years. At each time point the measure yields  satisfactory
+internal  consistency  (see  Scoring  in  the  Method  section),  and
+scores  on  the measure  are correlated  across  the three  time  points
+(p  <  .001, see Table 2),  although the correlations are not as high
+as for the language measures. One factor contributing to this lower
+level  of  test-retest  reliability  is  the  fact  that  although  we  used
+similar  materials  and  identical  question  structures,  we  could  not
+use exactly  the same materials across time points because the box
+with  unexpected  contents  and  the  appearance-reality  item  would
+not have provoked a false belief when viewed a second time. Note
+that R2  is higher after  the first  step in each of the three regressions
+predicting  language  from  theory  of  mind  than  it  is  in  the  corre-
+sponding  three  regressions  predicting  theory  of  mind  from  lan-
+guage (see Tables 3 and 4). That is, earlier language scores account
+for  more  of  the  variance  in  later  language  scores  than  earlier
+theory-of-mind  scores  account  for  in  later  theory-of-mind  scores.
+Thus,  there  is  a  smaller  proportion  of  the  variance  left  to  be
+accounted  for  on  the second  step when  predicting  language  from
+theory  of  mind  than  when  predicting  theory  of  mind  from  lan-
+guage. One might say that the playing field is tilted in favor  of the
+results  obtained.
+
+We  cannot,  post  hoc,  improve  the  reliability  of  the  theory-of-
+mind measure, but in  an attempt  to level the playing field  we can
+manipulate the language test scores to make them more compara-
+
+ble to the theory-of-mind  test  scores. For example, if  scores  from
+the  Test  of  Early  Language  Development  are  collapsed  to  quar-
+tiles,  the  range  and  variance  of  the  language  scores  are  reduced.
+Nonetheless,  the same result  is  found:  That  is, at  Step  2, Time  1
+language  predicts  13%  (p  <  .01)  of  the  variance  in  Time  2
+theory-of-mind  scores,  whereas  Time  1 theory  of  mind  predicts
+less than 1% (ns) of the variance in Time 2 language. Similarly, for
+Time  1 to Time 3, at Step 2, Time  1 language predicts  16% (p  <
+.001)  of  the  variance  in  Time  3  theory-of-mind  scores,  whereas
+Time  1 theory  of  mind predicts  less than  1% (ns)  of the  variance
+in Time  3 language. However,  in these analyses  it is still  the case
+that  R2  is  higher  after  the  first  step  in  the  regressions  predicting
+language  from  theory  of  mind  than  it  is  in  the  corresponding
+regressions predicting theory of mind from language. That is, there
+is still  a tilt to the playing  field.
+
+In  an  attempt  to  level  it  further,  we  can  create  language  test
+scores that are more comparable to the theory-of-mind  test  scores
+by  arbitrarily  selecting  six test items. Admittedly,  each of the test
+items  was  originally  selected  on  the  basis  of  its  discriminating
+power—that  is, the individual items correlate highly with the total
+score  of  the  test—but  nonetheless,  the  arbitrary  scores  are  more
+comparable  to  the  theory-of-mind  scores.  In  order  to  cover  the
+range of development  while excluding  items that all children  pass
+or fail  at all three  time points, we  selected  Item  3 and then  every
+sixth item up to Item 33; this selection  included  three  syntax  and
+three semantic items. The arbitrary scores so created have a range,
+variance,  and  internal  consistency  similar  to  those  of  the  theory-
+of-mind  scores  (Time  1, M  =  2.0,  SD  =  1.2,  a  =  .53; Time  2,
+M  =  2.8, SD  =  1.2,  a  =  .61;  Time  3, M  =  3.6, SD  =  1.1, a  =
+.48; cf.  Table  1  and Scoring in the Method section). If the analyses
+are rerun  using  these  scores, the same  result  is  found:  That  is, at
+Step 2, Time  1 language predicts  17% (p  <  .001)  of the variance
+in Time 2 theory-of-mind  scores, whereas Time  1 theory  of  mind
+predicts  only  2% (ns)  of  the  variance  in  Time  2 language.  Simi-
+larly,  for  Time  1 to Time  3, at Step  2, Time  1 language  predicts
+12%  (p  <  .01)  of  the variance  in Time  3 theory-of-mind  scores,
+whereas Time  1 theory  of  mind  predicts less than  1% (ns)  of  the
+variance  in  Time  3 language.  Moreover,  R2  after  the  first  step  is
+lower in the regressions  predicting  language from  theory  of  mind
+than in the original analyses (Time  1 to Time 2, R2  =  .51; Time 2
+to Time  3, R2  =  .50; Time  1 to Time  3, R2  =  .18; cf.  Table 3).
+We  conclude  that  although  the  results  reported  above  may  be
+partly  due to psychometric  differences  between  the language  and
+theory-of-mind  measures,  they  are consistent  with  our  claim  that
+language  competence  predicts  theory-of-mind  development.  Fur-
+ther, the weight  of  this prediction  is carried by  syntactic  abilities.
+
+Discussion
+
+It is no surprise to find a relation between language competence
+and  theory  of  mind.  What  is  new  in  this  article  is  the  evidence
+provided regarding the direction of the relation between them. We
+found  that changes in children's  theory of mind were predicted by
+their  language  competence  but  that  there  was  no  reciprocal  rela-
+tion; that  is, language  development  was  not predicted  by  theory-
+of-mind test scores. It is important to note that the  theory-of-mind
+tasks that we used are verbal tests requiring some linguistic ability
+on the part of the child. Thus, our findings  are consistent with the
+hypothesis that  linguistic  ability  is required for  successful  perfor-
+
+1318
+
+ASTINGTON  AND  JENKINS
+
+mance  on  theory-of-mind  tasks.  We  chose  to  use  these  tests  be-
+cause they are "standard" in the literature; that is, they are the tests
+that  over  the  past  15  years  have  provided  a  mass  of  data  on
+children's  theory-of-mind  development.  Because  they  are  verbal
+tests,  successful  performance  will  require  a  certain  level  of  lin-
+guistic  skill,  which  explains,  at  least  in  part,  the  finding  that
+theory-of-mind  and  language  measures  are  correlated  in  many
+studies. However,  we argue  for  the strong  version  of  the hypoth-
+esis  that  theory  of  mind  depends  on  language.  Although  not
+conclusive,  these  data  are  consistent  with  the  hypothesis  that
+linguistic  development  promotes  theory-of-mind  development.
+Further, our results suggest that it is syntax—that  is, the  structural
+features  of language—that is of particular importance. Why might
+this  be  so?  Why  is  syntax  instrumental  in  promoting  a  represen-
+tational  understanding  of  mind?
+
+The  core  abilities  that  are  taken  to  indicate  possession  of  a
+representational  theory  of mind  and that we assessed in this study
+are the ability to attribute false beliefs to the self and others and the
+ability  to distinguish  between  appearance  and reality. These  abil-
+ities are metarepresentational (Perner, 1991) in that they depend on
+the child's  understanding  that people represent  the world  in  mind
+and  act on the basis of their representation  even in  cases where it
+misrepresents the actual situation. This understanding is critical to
+successful  performance  on false-belief  tasks. In order to represent
+misrepresentation,  the child  has to distinguish between  the  world
+and the mind and recognize that there is a mismatch between what
+is  out  there  in  the  world  and  what  is  represented  in  someone's
+mind. In false-belief  tasks, the "world" is what the child sees in the
+visual array—for example, the dolls and toy objects in the change-
+in-location task. As the story unfolds, the child needs some way of
+keeping track  of  what is in the absent character's  mind  when  the
+object  is moved  from  the first  location  to the second. The  child's
+linguistic  ability  may  be  crucial  because  it  allows  the  child  to
+represent the character's representation  of the situation in the  face
+of  the  conflicting  situation  in  the  visual  display.  As  Plaut  and
+Karmiloff-Smith  (1993, p. 70)  said,
+
+We believe the developmental  results are best interpreted  in terms of
+increasing capability in using and generating symbolic representations
+that  are  sufficiently  well  elaborated  to  override  the  otherwise  com-
+pelling  interpretations  generated  by  direct  experience.  Furthermore,
+language  is  central  to  theory-of-mind  processes  precisely  because  it
+provides particularly  effective  "scaffolding"  for  symbolic  representa-
+
+In our view, it is the structural features of language that are crucial
+here because  although the same objects  are involved in the visual
+experience  and in the linguistic representation,  they  differ  in  their
+spatial  arrangements.  Syntactic  abilities  are  needed  to  represent
+these  arrangements.
+
+Our  findings  are  consistent  with  de  Villiers'  (1995)  argument
+that syntactic development—specifically,  the acquisition of  object
+complementation—promotes  false-belief  understanding  because
+the  syntax  of  complementation  provides  the  format  needed  to
+represent  false  beliefs.  The  critical point  is the fact  that  the  char-
+acter  takes  his  or  her  representation  as  the  actual  situation.  Rep-
+resentation  of  this  fact  necessitates  the  use  of  a  construction  in
+which  the  mistaken  representation  is  embedded  in  a  true  report:
+"John thinks that the chocolate is in the cupboard," which requires
+the use of an object complement. Our data, however, do not speak
+
+directly  to  this  issue,  because  the  syntactic  items  on  the  Test  of
+Early  Language  Development  do  not  include  any  instances  of
+object  complementation.
+
+We  agree  with  de  Villiers  (1995)  that  syntax  is important.  We
+also recognize that the syntax of object complementation is needed
+to report false beliefs. We are not convinced, however, that it is the
+acquisition  of  this  specific  syntactic  construction  that  produces
+false-belief  understanding in the child. Evidence against this view
+is provided  by  the numerous  examples  of  object  complements  in
+the productive  speech  of  young  3-year-olds  (Bartsch  & Wellman,
+1995).  One  might  argue  that  these  are  precocious  children  who
+might  also have passed  a  false-belief  task  had  one been  given  to
+them  (Perner,  1988).  Our  data  speak  against  this,  however.  We
+have parental diary  data and video recordings  of pretend play  for
+a  subsample  of  children  in  this  study  that  include  examples  of
+object complements produced by children in the same time period
+in which they  were failing  the theory-of-mind  tasks (Astington &
+Jenkins,  1995).  One  might  argue  that  object  complementation
+comes  in  first,  and  false-belief  understanding  follows.  However,
+the force  of the argument may be lost if  the time lag is too great.
+Moreover, further evidence against the precise link between object
+complementation  and  false-belief  understanding  is  provided  by
+Custer's  (1996) finding  that 3-year-olds can respond correctly in a
+picture  choice  task  when  the  test  scenario  includes  a  sentence of
+the form  [person]-[is  pretending]-[that  x]  (e.g., "He  is  pretending
+that his puppy  is outside")  but not when it includes  a sentence of
+the form  [person]-[thinks]-[that x] (e.g., "He thinks that his puppy
+is outside"). Both types of sentence include the same object  com-
+plement, yet children pass the task when "pretend" is used and fail
+when  "think"  is  used.  Something  more  than  the  acquisition  of
+object  complementation  is  required  to  explain  why  children  can
+respond  correctly  in  one case but  not in  the  other.
+
+We  must  acknowledge  that  our  data  can  be  interpreted  differ-
+ently.  An  alternative  interpretation  is  that  theory  of  mind  and
+language  both  depend  on  some  other  factor;  that  is,  some  under-
+lying factor  brings about development in both theory  of mind and
+language. We might suppose that this is some internal factor,  such
+as  working  memory  or  executive  function.  Let  us  suppose  that
+language  competence,  especially  syntactic  competence,  and
+theory-of-mind  task  performance  are  both  manifestations  of  the
+same underlying  structure. If the language test is a better measure
+of  this  structure  than the theory-of-mind  measure  is, then even if
+we  control  for  theory  of  mind  at  an  earlier  age,  there  is  still  a
+substantial  amount of  variance in the theory-of-mind  scores to be
+explained  at the later age. The earlier language measure does this
+because  it  is  a better  measure  of  the underlying  third  factor.  We
+cannot  rule out  this interpretation  of  these  data.
+
+Nonetheless,  whether  the relation  is  direct  or indirect,  the  data
+we report  make  it  clear  that  there  is a  relation  between  language
+and  theory  of  mind.  Does  this  add  anything  to  our  knowledge?
+More  than  20 years  ago, research  in  social cognition  showed  that
+performance  on  measures  of  language  competence,  such  as  the
+Peabody  Picture  Vocabulary  Test,  correlated  significantly  with
+measures  of  perspective  taking.  What  advance  does  the  current
+research  make?  First,  there  is  the  large  issue  of  differences  be-
+tween  perspective-taking  research  in  the  1960s  and  1970s  and
+current  theory-of-mind  research.  Perspective-taking  tasks  varied
+enormously: There were different  definitions  of perspective taking
+and widely  different  ways of measuring it (Chandler,  1977; Light,
+
+LANGUAGE  AND  THEORY OF MIND
+
+1319
+
+1987).  Theory-of-mind  researchers,  however,  use  "standard"  (if
+not  standardized)  false-belief  tests, defined  in terms of  metarepre-
+sentational  development.  More  important,  perspective-taking  re-
+search assumed that young children  were egocentric  and could not
+understand  another's  viewpoint,  whereas  theory-of-mind  research
+integrates children's understanding of their own and other people's
+mental  states.  That  is,  the  tasks  ask  children  to  predict  another's
+false  belief  and  to remember  their  own  in the same  situation,  and
+they show that children  come to understand both at the same time,
+which  supports  the  argument  that  children  develop  an  integrated
+theory  of  mind  (Gopnik  & Astington,  1988). Second, the  correla-
+tions reported  between  verbal  ability  and perspective  taking  were
+generally  in  the  range  from  .20  to  .40  and  were  not  significant
+when  age  was  controlled  (Shantz,  1983).  Correlations  between
+verbal  ability  and  false-belief  task  performance  are  considerably
+higher  (in  comparable  cross-sectional  studies)  and  remain  signif-
+icant  when  age  is  controlled.  Third,  and  most  important,  in  the
+present  study  we  address  the issue of  the direction  of  the  relation
+between  language  and  theory  of  mind.
+
+In summary, we argue that theory of mind depends on language.
+The  data  we  have  reported  here,  although  not  conclusive,  are
+consistent  with  this  claim.  In  our  view,  it is not just  that  children
+need language  skills to display  their theory  of mind in  false-belief
+tasks.  Language  plays  a  fundamental  role  in 
+theory-of-mind
+development.
+
+References
+
+Astington, J. W. (1998). Theory of mind, Humpty Dumpty, and the icebox.
+
+Human Development,  41, 30-39.
+
+Astington, J. W., & Jenkins, J. M. (1995, March). Language and theory of
+mind: A theoretical  review and a longitudinal  study. Paper presented at
+the Biennial Meeting of the Society for Research in Child  Development,
+Indianapolis, IN.
+
+Baron-Cohen, S. (1995). Mindblindness: An essay on autism and theory of
+
+mind. Cambridge,  MA: Bradford  Books/MIT Press.
+
+Bartsch, K., & Wellman, H. M. (1995). Children talk about the mind. New
+
+York:  Oxford  University  Press.
+
+Bretherton,  I.,  McNew,  S., &  Beeghly-Smith,  M.  (1981).  Early  person
+knowledge as expressed in gestural and verbal communication: When do
+infants  acquire  a  "theory  of  mind"?  In M. E. Lamb  & L. R.  Sherod
+(Eds.), Infant social  cognition  (pp. 333-373).  Hillsdale, NJ: Erlbaum.
+Byrne,  R.  W., & Whiten,  A.  (1991).  Computation  and mindreading  in
+primate  tactical  deception.  In  A.  Whiten  (Eds.),  Natural  theories of
+mind: Evolution,  development  and simulation of everyday mindreading
+(pp.  127-141). Oxford,  England:  Basil  Blackwell.
+
+Call,  J.,  &  Tomasello,  M.  (1999).  A  nonverbal  false  belief  task: The
+
+performance  of children  and great  apes.  Child Development,  70,  381—
+395.
+
+Chandler,  M. J.  (1977).  Social  cognition:  A selective  review  of  current
+research.  In W. F. Overton  & J. M. Gallagher  (Eds.),  Knowledge and
+development:  Vol. 1. Advances  in research  and theory  (pp. 93-147).
+New  York:  Plenum  Press.
+
+Chandler,  M. J., Fritz,  A. S., & Hala,  S. M. (1989).  Small  scale  deceit:
+Deception  as a marker of 2-, 3- and 4-year-olds'  early theories of mind.
+Child Development,  60, 1263-1277.
+
+Charman,  T.,  &  Shmueli-Goetz,  Y.  (1998).  The  relationship  between
+theory of mind, language ability and narrative discourse: An experimen-
+tal  study.  Cahiers  de  Psychologie  Cognitive  [Current  Psychology of
+Cognition],  17, 245-271.
+
+Custer, W. L. (1996). A comparison of young children's understanding of
+
+contradictory  representations  in  pretense,  memory,  and belief.  Child
+Development,  67, 678-688.
+
+Cutting, A. L., & Dunn, J. (in press). Theory of mind, emotion  understand-
+ing, language and family  background:  Individual  differences  and inter-
+relations.  Child  Development.
+
+de Villiers, J. G. (1995, March). Steps in the mastery  of sentence comple-
+ments.  Paper  presented  at  the  Biennial  Meeting  of  the  Society  for
+Research  in Child  Development,  Indianapolis, IN.
+
+Dunn, J. (1988). The beginnings of social understanding. Cambridge, MA:
+
+Harvard  University  Press.
+
+Eisenmajer,  R.,  &  Prior,  M.  (1991).  Cognitive  linguistic  correlates  of
+'theory of mind'  ability in autistic children. British Journal of Develop-
+mental Psychology,  9, 351-364.
+
+Freeman, N. H., Lewis, C, & Doherty, M. J. (1991). Preschoolers'  grasp
+of a desire for knowledge in false-belief  prediction: Practical intelligence
+and  verbal  report.  British  Journal  of  Developmental  Psychology,  9,
+139-157.
+
+Frith, U.,  Happe, F., & Siddons, F. (1994). Autism and theory of mind in
+
+everyday  life.  Social Development,  3, 108-123.
+
+Gale, E., de Villiers, P., de Villiers, J., & Pyers, J. (1996). Language and
+theory  of  mind  in oral  deaf  children.  In A. Stringfellow,  D. Cahana-
+Amitay, E. Hughes, & A. Zukowski  (Eds.), Proceedings  of the  Boston
+University Conference on Language Development (Vol. l,pp. 213-224).
+Somerville, MA: Cascadilla  Press.
+
+Gopnik,  A. (1990).  Developing  the idea  of intentionality:  Children's the-
+
+ories of mind.  Canadian Journal  of Philosophy, 20, 89-114.
+
+Gopnik,  A., & Astington,  J. W. (1988). Children's  understanding  of rep-
+resentational change and its relation to the understanding of false  belief
+and the appearance-reality  distinction.  Child Development,  59, 26-37.
+Happe, F. G. E. (1995). The role of age and verbal ability in the theory of
+mind task performance  of subjects  with autism. Child Development, 66,
+843-855.
+
+Hresko, W. P., Reid,  D. K., & Hammill, D. D. (1981). The  Test of Early
+
+Language  Development  (TELD).  Austin,  TX:  Pro-Ed.
+
+Hughes, C, & Dunn, J. (1997).  "Pretend  you didn't  know":  Young  chil-
+dren's  talk  about  mental  states  in  pretend  play.  Cognitive  Develop-
+ment,  12, 477-499.
+
+Jenkins, J. M., & Astington,  J. W. (1996).  Cognitive  factors  and family
+structure associated with theory of mind development in young children.
+Developmental  Psychology, 32, 70-78.
+
+Leslie,  A., & Roth,  D. (1993).  What  autism  teaches  us about  metarepre-
+sentation.  In S. Baron-Cohen,  H. Tager-Flusberg,  & D. Cohen  (Eds.),
+Understanding  other  minds:  Perspectives  from  autism  (pp. 83-111).
+Oxford,  England:  Oxford  University  Press.
+
+Light,  P. (1987).  Taking  roles.  In J.  Bruner  & H. Haste  (Eds.),  Making
+
+sense  (pp. 41-61).  London:  Methuen.
+
+Mayes,  L. C,  Klin,  A., Tercyak,  K. P., Cicchetti,  D. V., & Cohen, D.
+(1996).  Test-retest  reliability  for  false  belief  tasks.  Journal  of Child
+Psychology and Psychiatry, 37, 313-319.
+
+Moore, C, Pure, K., & Furrow, D. (1990). Children's understanding of the
+modal expressions of speaker certainty and uncertainty and its relation to
+the  development  of a representational  theory  of mind.  Child Develop-
+ment, 61, 722-730.
+
+Nelson, K. (1996). Language  in cognitive development. New  York: Cam-
+
+bridge  University  Press.
+
+Olson, D. R. (1988). On the origins of beliefs  and other  intentional  states
+in  children.  In J.  W. Astington,  P. L.  Harris,  & D. R. Olson  (Eds.),
+Developing  theories  of  mind  (pp. 414-426).  New York:  Cambridge
+University  Press.
+
+Perner, J. (1988). Higher  order beliefs  and intentions  in children's  under-
+standing of social interaction. In J. W. Astington, P. L. Harris, & D. R.
+Olson  (Eds.),  Developing  theories  of mind  (pp.  271-294).  New York:
+Cambridge  University  Press.
+
+1320
+
+ASTINGTON  AND JENKINS
+
+Perner,  J.  (1991).  Understanding  the representational  mind. Cambridge,
+
+MA: Bradford  Books/MIT  Press.
+
+(Eds.),  Manual  of  child  psychology:  Cognitive  development  (4th ed.,
+Vol. 3, P. H. Mussen,  General  Ed., pp. 495-555). New  York:  Wiley.
+
+Peterson, C. C, & Siegal, M. (1995). Deafness, conversation and theory of
+
+Shatz, M. (1994). A toddler's  life: Becoming a person.  New York:  Oxford
+
+mind. Journal  of Child Psychology  and Psychiatry,  36, 459-474.
+
+Piaget,  J. (1954).  Language  and thought  from  the genetic  point  of view.
+
+Acta  Psychologica,  10, 51-60.
+
+Piaget, J. (1980). The psychogenesis of knowledge and its epistemological
+significance. In M. Piatelli-Palmarini  (Ed.), Language and learning: The
+debate  between  Jean  Piaget  and Noam  Chomsky  (pp. 23-34). Cam-
+bridge, MA: Harvard  University  Press.
+
+Plaut, D. C, & Karmiloff-Smith,  A. (1993). Representational  development
+and  theory-of-mind  computations.  Behavioral  and Brain  Sciences, 16,
+70-71.
+
+Povinelli, D. (1999). Social understanding in chimpanzees: New  evidence
+from  a longitudinal approach. In P. D. Zelazo, J. W. Astington, & D. R.
+Olson  (Eds.),  Developing  theories  of  intention:  Social  understanding
+and self  control  (pp.  195-225). Mahwah,  NJ:  Erlbaum.
+
+Povinelli,  D. J., & deBlois,  S. (1992).  Young  children's  (Homo  sapiens)
+understanding  of knowledge formation  in themselves and others. Jour-
+nal of Comparative  Psychology,  106, 228-238.
+
+Premack, D., & Woodruff,  G. (1978). Does the chimpanzee have a theory
+
+of  mind? Behavioral  and Brain  Sciences,  1,  515—526.
+
+Segal,  G.  (1998).  Representing  representations.  In  P.  Carruthers  &  J.
+Boucher  (Eds.),  Language  and thought:  Interdisciplinary  themes (pp.
+146-161). Cambridge,  England:  Cambridge  University  Press.
+
+Shantz,  C. U. (1983).  Social  cognition.  In J.  H. Flavell  & E.  Markman
+
+University  Press.
+
+Smith,  P. K. (1996).  Language  and the evolution  of  mind-reading.  In P.
+Carruthers  &  P. K.  Smith  (Eds.),  Theories  of  theories  of  mind (pp.
+344-354). Cambridge,  England:  Cambridge  University  Press.
+
+Tager-Flusberg, H. (1993). What language reveals about the understanding
+of minds in children with autism. In S. Baron-Cohen, H. Tager-Flusberg,
+&  D.  Cohen  (Eds.),  Understanding  other  minds:  Perspectives  from
+autism  (pp.  138-157). Oxford,  England:  Oxford  University  Press.
+
+Tager-Flusberg,  H. (1997). Language  acquisition  and theory  of mind. In
+L. B. Adamson & M. A. Romski  (Eds.), Communication and language
+acquisition: Discoveries from  atypical development  (pp. 135—160). Bal-
+timore, MD: Paul Brookes.
+
+Varley, R. (1998). Aphasic language, aphasic thought: An investigation of
+propositional thinking in an a-propositional  aphasic. In P. Carruthers &
+J. Boucher (Eds.), Language  and thought: Interdisciplinary  themes (pp.
+128-145). Cambridge, England: Cambridge  University  Press.
+
+Wimmer, H., & Perner, J. (1983). Beliefs about beliefs: Representation and
+constraining  function  of wrong  beliefs  in young children's  understand-
+ing of deception.  Cognition, 13, 103-128.
+
+Zelazo, P. D., & Jacques,  S. (1996). Children's  rule  use:  Representation,
+reflection,  and cognitive  control.  In R.  Vasta  (Ed.),  Annals  of Child
+Development  (Vol.  12, pp. 119-176). London: Jessica  Kingsley.
+
+Sample  Items  From  the Test  of  Early  Language  Development  (Hresko  et al.,  1981)
+
+Appendix
+
+Item 3  (Syntax-Receptive)
+
+Child is shown a card with 2 pictures on it: (a) car bumping into back of
+truck,  (b) truck  bumping  into back of car.  Experimenter  says: "Show me
+"The car hit the truck.' "
+
+Child is shown a card with 2 pictures on it: (a) girl near chair, boy  further
+away, (b) boy near chair, girl further  away. Experimenter  says: "Show me
+'Mary  is closer  to the chair.'  "
+
+Child is shown a card with 2 pictures on it: (a) group of children running,
+(b) group of children standing. Experimenter says: "Show me "The children
+are not running.'  "
+
+Scoring: Child  has to get two correct  out of the three.
+
+Item  11  (Semantics-Expressive)
+
+Experimenter  shows  picture  to child  and says:  "Look  at this  picture.
+Listen while I tell you about it. This is a clown. He is doing handstands. He
+works in a circus. He is funny."  Experimenter  then  shows child a picture
+of a fireman  spraying  water from  a hose onto a fire  and asks child to tell
+her  about it. If child  says only  that it is a fireman,  he or she is prompted,
+"Can you tell me more?"
+
+Experimenter  shows child a picture of a woman with a shopping cart, in
+a  store, taking  bread off a shelf. Experimenter  asks child to tell her about
+it and prompts  if needed.
+
+Scoring: Child must mention both the person and the activity for each of
+
+the pictures.
+
+Item  14  (Semantics-Receptive)
+
+Child is shown a card with 7 pictures on it. Experimenter says: "Point to
+the picture of the word I say." After the child points, another word is given.
+
+The words are glasses,  shade, bug, and run.
+Scoring: All four  have to be correct.
+
+Item  21  (Syntax-Expressive)
+
+Child  is shown  a card  with  3 pictures  on it: (a) dog on chair,  (b)  dog
+behind  chair,  (c) dog under  chair.  Experimenter  points to each  picture in
+turn and says to child: "Look at this picture and tell me where the dog is."
+
+Scoring: Child has to get all three  correct.
+
+Note. 
+
+Items  described  above  are from  The Test  of  Early  Language
+Development  (TELD) by W. P. Hresko, D. K. Reid,  and D. D. Hammill,
+1981,  Austin, TX: Pro-Ed. Copyright  1981 by Pro-Ed,  Inc. Adapted  with
+permission.
+
+Received  September  28, 1998
+Revision  received  March  17,  1999
+
+Accepted  March  18, 1999  •
+
+

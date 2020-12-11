@@ -1,0 +1,3004 @@
+Br. J. soc.  clin. Psychol.  (1g75), 14, pp. 341-349 
+Printed in Great Britain 
+
+Altruism and Cognitive Development in Children 
+B Y  J. PHILIPPE  R U S H T O N  *  AND  JANET  W I E N E R  
+
+Department  of  Social Psychology, 
+
+London School of  Economics  and Political Science 
+
+The study examined the interrelationships  between  a number of  age-related  cognitive tasks 
+and three different behavioural measures of altruism  in 60 7- and  I I-year-olds.  The cogni- 
+tive tasks included  measures of  role-taking  ability,  egocentricity, cognitive complexity,  and 
+conservation. I t  was intended to assess (a) the notion of generalized cognitive developmental 
+levels,  (6)  the  generality  of  altruistic  behaviour,  and  (c) the  degree  to  which  cognitive- 
+developmcntal  level  predicted  altruistic  behaviour.  As  expected,  highly  significant  age 
+differences were found on all cognitive tasks. Eleven-year-olds  were also significantly more 
+altruistic  than  were  seven-year-olds.  Although  some  generality  emerged  across  altruistic 
+behaviours,  no such generalities emerged either between the cognitivc measures themselves 
+or between  the cognitive  measures  and altruism.  Some of  the implications of  the findings 
+are discussed. 
+Children’s generosity appears to increase reliably with age, at least over the period 
+of  middle  childhood  (i.e.  6-12)  (Elliott  & Vasta,  1970; Emler  & Rushton,  1974; 
+Handlon  & Gross,  1959; Midlarsky  & Bryan,  1967; Ugurel-Semin,  1952). This 
+age  period  is also  a time of  change  in such cognitive-developmental  processes as 
+moral judgement (Piaget,  1932) and role-taking (Flavell,  1968), both of which have 
+been  hypothesized  to  underlie  the age  changes  in  generosity (Bryan  & London, 
+1970; Rosenhan,  1969, 1972; Wright,  1971). Some recent  research has suggested 
+that this might indeed be the case. Thus Emler & Rushton (1974) found a relation- 
+ship between the child’s maturity of  moral judgement and the amount of  sharing 
+behaviour  evidenced.  Some support for  a replication  of  this finding was  demon- 
+strated  in  a  subsequent study  (Rushton,  1975). Rubin  & Schneider  (1973) also 
+found a relationship between moral judgement and measures of ‘ helping behaviour ’ 
+in young children. These latter authors also found a relationship bctwcen  a child’s 
+altruism and a measure of  ‘ decentration ’ - a measure conceptually similar to ‘ role- 
+taking ability’. Thus the idea of changes in cognitive development underlying the 
+age relationship with generosity has received support. On the other hand, Emler & 
+Rushton  (1974) failed  to  find  relationships  between  two  different  measures  of 
+role-taking  ability and generosity.  One of the purposes of the present research was 
+to explore further the role of  cognitive-developmental  variables in accounting for 
+the generosity of children. 
+
+Thc underlying  rationale for the investigations  cited was based on the view that 
+the  different  cognitivc  levels  of  development  that  a  child  passes  through  should 
+be  predictors  of  the  child’s  behaviour  on  relevant  tasks.  Or,  in  the  words  of 
+Kohlberg (1969), ‘A given  stage-response  on  a  task.. .represents an underlying 
+thought  organization. . .which  determines  responses  to  tasks  which  are  not 
+Now  at the Department of Psychology,  York University,  Toronto, Ontario M3J 1P3, 
+
+Canada. 
+
+341 
+
+23-2 
+
+J. PHILIPPE RUSHTON A N D  J A N E T  WIENER 
+
+342 
+manifestly  similar’  (pp.  352-353).  Such  a  viewpoint  often  finds  expression  in 
+the literature  on cognitive development.  For  example,  ‘ . . .a  child  of  eight who 
+possesses  the  grouping  structure  will,  by  implication  from  the  structure,  show 
+reversibility  of  thought, a relative lack of  egocentrism,  a capacity for synthesizing 
+rather than simply juxtaposing data, and a number of other characteristics (Flavell, 
+1963, p. 18) and ‘The transitions with which we shall be concerned, are interesting 
+in their  own right as a documentary  on development. More interesting still is the 
+picture of the underlying form of organization in thought that is revealed’ (Olver & 
+Hornsby,  1966, p. 69). 
+
+Thus  the  overall  assumption  is  that  children  who  differ  in  their  underlying 
+cognitive  structure (level) should  show  systematic,  corresponding  differences  in 
+their intellectual and social behaviours.  It still remains to be determined, however, 
+whether  there  are such generalized levels in cognitive  development. Most  studies 
+tend  to  explore  one  area  of  development  at  a  time  and  little  attempt is  made 
+empirically to demonstrate  the degree  of  interrelationships  between  areas of  cog- 
+nitive functioning. The present study was designed to do just this using a battery 
+of  established cognitive tasks. 
+
+A further area of  concern  involves the present  controversy  as to whether  social 
+behaviours  show  generality  across  situations,  or  are  situation  specific  (Mischel, 
+1968,  1973). A cognitive-developmental  approach to altruistic behaviour  assumes 
+that  there  are reasonable  generalities  across  situations.  If  this  were  not  the  case 
+there would be little reason  to look for such generalized  cognitive-developmental 
+precursors  of  generosity  as role-taking  ability and moral judgement.  The present 
+study  used  three  behavioural  measures  of  altruism  in  order  to  investigate  this 
+question further. 
+
+Thus the study reported  here aimed  (a) to explore further the role of  cognitive 
+developmental  variables  in  accounting  for  the generosity  of  children;  (b)  to test 
+the  notion  of  ‘generalized  levels’  in cognitive  development;  and  (c)  to  examine 
+generalities across altruistic behaviours. 
+
+Subjects 
+
+M E T H O D  
+
+Thirty 7-year-olds and thirty I I -year-olds, divided evenly between the sexes, participated 
+in the study. They were drawn, with equal numbers, from five predominantly lower middle- 
+class primary  schools in Hertfordshire.  The National Foundation for Educational Research 
+(NFER) Intelligence Test No.  3, both verbal and non-verbal forms, was administered,  and 
+showed the sample to be of  average ability (verbal  IQ: mean 7  = 99.9, S.D.  = 11.8; mean 
+1 1   = 106.6, S.D.  = 14.6; non-verbal  IQ: mean  7  = 104.3,  S.D.  = 15.7; mean  1 1   = 109.6, 
+S.D.  = 13.5). 
+
+Procedure 
+
+A battery of  ten measures - seven ‘cognitive’  and three ‘ behavioural’ - was taken  from 
+thc children,  all of  whom were tested individually.  The study was conducted  in two class- 
+rooms made available in each school, one for the cognitive measures and the other for the 
+behavioural.  Three experimenters  were used: a male and a female graduate student, and a 
+male  undergraduate. The subject  was  sent  to  the  experimental  room by the  teacher  and 
+was met by the female experimenter,  who established rapport. She told the child, ‘We are 
+designing  some  games  for children  and would  like  your  help.’  The cognitive  tasks  were 
+
+Altruism and  Cognitive Development 
+
+343 
+administered  first, their order being randomized.  This took about 40 min.,  following which 
+the subject was given  ‘a chance to win  a prize  for being  so good’.  The subject went with 
+the experimenter to the other room  where  he went through  the behavioural  tasks.  These 
+followed the same order each time and took  15 min. 
+
+Instruments 
+
+A. Cognitive tasks. 
+(I) Role-taking  task:  Board  game  (from Flavell,  1968, pp.  82-102).  The  subject  was 
+shown non-verbally  how  to play  a snake-and-ladders  type  of  game.  His task was  then  to 
+explain  in  his  own  words  the  rules of  the  game  first  to  the  second  experimenter sitting 
+opposite  him  ordinarily  and  then  to  the second  experimenter sitting opposite  him  blind- 
+folded.  H e  was  told  to modify  his  explanation  on the second  occasion to take  account  of 
+the fact  that  the experimenter could no longer see the board and counters.  The degree to 
+which  the  subject was  able  to  do this  was  employed  as  his  score  of  role-taking  ability. 
+Scores, which ranged  from o  to  20, were  based  on the difference  between  the amount of 
+worthwhile  information given on the first occasion from that given on the second. 
+( 2 )  Role-taking  task: Cylinders  (from Flavell,  1968, pp. 55-70). This task was  designed 
+to  assess  ‘perceptual’  role-taking  skill.  I t  measured  the  subject’s  ability  to  predict  the 
+appearance  of  a  stimulus  display  from  a  perspective  other  than  his  own.  Subjects were 
+shown a series of four stimulus displays and were asked to reconstruct  each one as it would 
+look  to  the  second  experimenter seated  at  different  vantage  points  v i s - h i s  the  display. 
+Scores could range from o to 36. 
+(3)  Conservation task  (from Bruner  et al., 1966). A standard liquid conservation  task was 
+given to the subject to discover if he could conserve liquid and, if so, to examine the reasons 
+he gave.  Four such tasks were given.  Since all children  could  conserve  scoring was based 
+on  the reasons given using  Bruner’s  (1966,  p.  235)  developmentally ordered justifications 
+for conservation : perceptual,  direct-action, and transformational. These are ordered accord- 
+ing to the degree to which they reflect immediate phenomenal or perceptual  features of the 
+situation.  Scores could range from 4 to 12. 
+
+(4)  Person perception  photo-grouping  task  (adapted from  Olver  €9 Hornsby,  1966). The 
+subject was  presented  with a display of  15 colour photographs of  different people  to sort. 
+The grouping strategies adopted were scored according to Olver & Hornsby’s (1966) adapt- 
+ation of Bruner’s (1966) developmental scheme. This was based on the degree to which they 
+reflect  the immediate  perceptual features  of  the stimuli: (i) perceptual, in which  items are 
+rendered equivalent on the basis of immediate phenomenal qualities ; (ii) functional, in which 
+items are rendered equivalent  on the basis  of  the function of  items;  and (iii) symbolic,  in 
+which items are rendered equivalent on the basis of non-sensory  ideas like relations between 
+quantities. 
+
+(5) Cognitive simplicity-cognitive complexity measure. On the basis of the person  perception 
+photo grouping task just cited, the number of pair groupings were counted.  Such a grouping 
+strategy  has  previously  been shown to decline with  age (Olver  & Hornsby,  1966) and has 
+been said to reflect the degree of  the child’s ‘cognitive complexity’. 
+
+(6)  Person  perception Kelly-Grid-type-construct  task  (devised by J. Wiener ). The subject 
+was asked to describe five significant other people in his life by grouping the five in groups 
+of  three.  For each group, the subject was asked  to think of  three ways in which  any two 
+people in the group were similar, but different from the third. These constructs were coded 
+on the basis  of  the same three  developmental  categories  used  for the  photo-sorting  task, 
+i.e.  perceptual,  functional  and  symbolic.  The subject’s  cognitive-developmental  score  on 
+this task was based  on thc number of  constructs falling into the symbolic category. 
+
+(7)  Egocentricity  score.  The constructs generated  by the above  measure were  scored for 
+signs  of  egocentricity.  This was  a  yes/no  categorization  based  on  whether  the  construct 
+was made with direct reference  to the subject.  The subject’s  egocentricity score consisted 
+of the absolute number of  egocentric statements out of  the 30 possible. 
+
+B. Behaviourul  tasks. 
+(8) Competitive  racing  game  (adapted from Rutherford  & Mussen,  1968). In ten  races, 
+the child  raced  a toy car against  the experimenter’s  car along  a  3 ft.  ‘track’ on the floor. 
+
+J. P H I L I P P E  RUSHTON A N D   JANET WIENER 
+
+344 
+This track was marked off  in inches.  The competition was  ‘to see who can get to the end 
+of  the track  first’.  The experimenter  moved  his  car at a constant,  moderatrly slow speed, 
+and  the  child  could  win  or lose  the  race  with  a  large  or small margin  of  victory.  In no 
+instance  did  the  subject  permit the  experimenter  to win.  The competitiveness  score was 
+the subject’s average margin of  victory for the ten races, expressed in inches. ‘Competitive- 
+ness’ scores ranged from  2 to 31 in. 
+
+(9)  Generosity to a charity  (Roseahan & White, 1967). The subject played on an electronic 
+bowling  game from which  he won  tokens later exchangeable for prizes on the basis  of  the 
+more  tokens  won,  the  better  the prize  given.  At  the  same time  the  subjcct  was given  an 
+opportunity to donate,  anonymously, some  of  his  winnings  to  ‘Bobby’, a small  boy  on  a 
+‘Save the  Children Fund’ poster.  The number of  tokens  donated  (out of  a  possible  16) 
+constituted thc generosity score on this measurc. 
+
+(10)  Generosity to a friend  (from Rutherford  & Mussen,  1968). The  subject  exchanged 
+however  many tokens  he  had left for ‘a prize’,  in this case, 24 swects. He was  then given 
+two paper bags. On one was written his name, and on the other the name of his best friend. 
+The subject was told he could put all the sweets in his own bag if he wished, it really didn’t 
+matter, but if he wished  to give any to his friend  he could  do so in the bag provided.  The 
+experimenter  then left the room.  As  the subject came to leave the room with  the two bags 
+of sweets, the cxperimenter  suggested  to him that he leave the bags on a nearby shelf until 
+the end of the day. The number of  sweets given to the friend, out of  the possible 24, consti- 
+tuted the generosity score. 
+
+R E S U L T S  
+
+A random sample of  25  per cent of the interviews were scored by a second coder. 
+Inter-coder  agreement  for  the  seven  cognitive-developmental  measures  ranged 
+from 87 to 99 pcr  cent. 
+
+Means  and  standard deviations  of  the various  tasks  were  computed separately 
+
+for the two age groups. These are presented  in Table  I .  
+
+Table  I .  Means and standard deviations of  cognitive  and behavioural  tasks 
+I I-year-olds 
+
+7-year-olds 
+
+I.  Role-taking  board game 
+2.  Role-taking  cylinders task 
+3.  Conservation  task 
+4. Person  perception  photo grouping 
+5 .   Cognitive simplicity 
+6.  Person perception  Kelly Grid task 
+7.  Egocentricity 
+8.  Competitiveness 
+9.  Generosity to charity 
+10. Generosity to friend 
+
+S.D. 
+
+& & 
+Mean 
+6.5 
+12.9 
+2.8 
+14.1 
+9’1 
+27.1 
+10.3 
+13‘5 
+2’9 
+4’5 
+
+Mean 
+8.2 
+25.8 
+6. I 
+32.7 
+6.0 
+40‘7 
+4’9 
+19.0 
+5.8 
+10’0 
+
+S.D. 
+2’7 
+7‘2 
+2’7 
+27.6 
+4’3 
+23’7 
+6.5 
+6.4 
+2.9 
+2.4 
+
+2’1 
+8.1 
+* ‘5 
+20.9 
+5’5 
+20.8 
+I 0.4 
+7‘2 
+2’5 
+3 ‘7 
+
+In order to assess the effects of  age, sex, verbal  IQ and non-verbal  IQ on these 
+tasks,  product-moment  correlations  were  computed.  Since  age  was  significantly 
+related to verbal IQ (r = 0.25 ; P < 0.05) and marginally related to non-verbal  I Q  
+(r = 0.18; P < O ~ I O ) ,  age was partialled  out of  the analysis with  IQ. The results 
+are shown in Table 2. 
+
+From Table 2 it can be seen that there were highly significant age differences on 
+all tasks,  both cognitive and  behavioural.  On the cognitive tasks  this meant that 
+older  children  were  more  advanced,  and on the  behavioural  tasks  it  meant  that 
+
+I .   Role-taking board game 
+2.  Role-taking cylinder task 
+3.  Conservation task 
+4. Person perception photo grouping 
+5.  Cognitive simplicity 
+6.  Person perception Kelly Grid-type task 
+7.  Egocentricity 
+8.  Competitiveness 
+9.  Generosity to charity 
+10. Generosity to friend 
+
+Age 
+0.34 ** 
+0.65 *** 
+0.61 **+ 
+0.36 ** 
+.0.31 ** 
+- 
+0.30 *+ 
+0.30 ** 
+0.36 ** 
+0.47 *** 
+0.68 *** 
+
+Sex 
+- 0.03 
+0'02 
+-0.10 
+-0.12 
+0.26 * 
+- 0.07 
+-0.16 
+0.07 
+0'01 
+0.04 
+
+Verbal 
+
+IQ 
+0'15 
+0.29 ** 
+0.34 ** 
+- 0.04 
+-0.08 
+0.29 ** 
+-0-01 
+- 0'01 
+0'00 
+0 ' 1 1  
+
+Non- 
+verbal 
+
+IQ 
+0'20 
+0-45 *** 
+0 I8 
+0'00 
+-0.12 
+
+0.30 ** 
+
+0'01 
+0'10 
+0.16 
+-0.05 
+
+Altruism and Cognitive Development 
+
+34s 
+older  children  were  both  more  generous  and  more  competitive.  Significant IQ 
+differences were found on three of  the cognitive tasks with high IQs scoring higher 
+than  low  IQs.  This was  true  for  both  verbal  and  non-verbal  IQ  which  inter- 
+correlated r  = 0.73 ( P  < 0.001). 
+
+Table 2 .  Correlations of  age, sex, verbal IQ and non-verbal IQ 
+
+with cognitive and behavioural measures 
+(Age partialled out of analyses with IQ.) 
+
+* P  < 0.05.  ** P < 0'01.  *** P  < 0'001. 
+
+The purpose of  the study was to determine the intercorrelations between (a) the 
+cognitive  tasks,  (b) the  behavioural  tasks,  and  (c)  the  cognitive tasks  with  the 
+behavioural.  For  this  purpose,  a  correlation  matrix  was  computed  for  all  the 
+variables. Since Table 2 had indicated highly significant correlations between thc 
+tasks  and age and IQ,  these  last  two variables were partialled out of  the analysis 
+to  allow  an  unconfounded  examination  of  the  relationships  between  the  other 
+variables. This correlation matrix is shown in Table 3. 
+While  23 of  the 45 correlations were significant at  beyond  the P < 0.05 level 
+when  the cffects of  age and  IQ were not  partialled  out,  only five remained  once 
+the cffects of  age and verbal  IQ had been partialled out.  Of  these five, two were 
+intercorrelations  between  cognitive  tasks,  one  was  between  a  cognitive  and  a 
+behavioural task, and two were between behavioural tasks. Generosity to a friend 
+related positively (Y  = 0.24; P < 0.05) with generosity to a charity, and negatively 
+(Y  =  -0.55;  P < 0.001) with competitiveness. 
+T o  ascertain whether the degree of  interrelatedness varied by age, two separate 
+matrices  were  computed,  one  for  each  age.  These  are  shown  in  Table  4. Five 
+significant correlations were obtained for the younger age group, and eight for the 
+older group. Only two were common to both age groups. The correlations do not 
+reveal any pattern, or any obvious reason why they should exist at one age but not 
+the other. Nor can it be maintained that with increasing age there is an increasing 
+generality found in cognitive functioning. 
+
+ 
+ 
+
+ P
+m
+w
+
+ 
+
+ 
+0
+I
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+
+ 
+
+d
+n
+e
+i
+r
+f
+ 
+
+o
+t
+
+ 
+5
+0
+.
+0
+
+ 
+7
+0
+.
+0
+
+ 
+1
+0
+'
+0
+
+ 
+8
+0
+.
+0
+
+ 
+9
+0
+.
+ 0
+-
+
+ 
+*
+
+ 
+s
+r
++
+
+ 
+5
+5
+.
+0
+-
+
+ 
+6
+1
+.
+0
+
+ 
+3
+0
+.
+0
+
+ 
+
+4
+2
+
+.
+
+0
+
+ 
+0
+0
+ '
+
+I
+
+ 
+0
+2
+'
+0
+
+ 
+8
+1
+.
+0
+
+ 
+0
+0
+'
+0
+
+ 
+
+9
+
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+
+ 
+
+y
+t
+i
+r
+a
+h
+c
+ 
+
+o
+t
+
+ 
+4
+1
+.
+0
+
+ 
+9
+0
+.
+0
+
+ 
+6
+0
+.
+0
+
+ 
+4
+0
+.
+0
+
+ 
+2
+0
+'
+ 0
+-
+
+ 
+8
+
+ 
+-
+i
+t
+e
+p
+m
+o
+C
+
+ 
+s
+s
+e
+n
+e
+v
+i
+t
+
+ 
+7
+
+ 
+-
+n
+e
+c
+o
+g
+E
+
+ 
+
+y
+t
+i
+c
+i
+r
+t
+
+ 
+
+ 
+
+ 
+6
+
+y
+l
+l
+e
+K
+
+d
+i
+r
+
+G
+
+ 
+5
+
+ 
+
+ 
+e
+v
+i
+t
+i
+n
+g
+o
+C
+
+y
+t
+i
+c
+i
+l
+p
+m
+
+i
+s
+
+ 
+4
+
+ 
+
+o
+t
+o
+h
+P
+
+ 
+
+g
+n
+i
+p
+u
+o
+r
+g
+
+ 
+9
+0
+.
+0
+
+ 
+2
+1
+'
+0
+
+ 
+5
+0
+.
+0
+
+ 
+5
+0
+.
+ 0
+-
+
+ 
+ *
+ 
+6
+0
+2
+1
+.
+0
+0
+-
+
+ 
+9
+0
+.
+ 0
+-
+
+ 
+0
+0
+'
+1
+
+ 
+0
+1
+-
+0
+-
+
+ 
+5
+1
+.
+0
+
+ 
+6
+1
+.
+0
+
+ 
+2
+1
+.
+0
+-
+
+ 
+0
+1
+'
+0
+-
+
+ 
+8
+1
+.
+0
+-
+
+ 
+0
+0
+-
+1
+
+ 
+5
+0
+.
+0
+
+ 
+5
+0
+.
+0
+-
+
+ 
+s
+4
+2
+.
+0
+
+ 
+1
+1
+.
+0
+-
+
+ 
+8
+0
+.
+0
+
+ 
+0
+0
+-
+1
+
+ 
+
+ 
+8
+0
+.
+0
+
+~
+8
+2
+.
+0
+-
+
+ 
+7
+0
+.
+0
+-
+
+ 
+0
+0
+ '
+I
+
+ 
+1
+0
+'
+0
+
+ 
+
+5
+1
+
+.
+
+0
+
+ 
+6
+0
+.
+0
+
+ 
+3
+0
+.
+0
+-
+
+ 
+0
+0
+ '
+I
+
+ 
+0
+0
+ -
+I
+
+ 
+.
+1
+0
+0
+'
+0
+ 
+<
+
+ 
+
+P
+ 
+*
+*
+*
+ 
+.
+5
+0
+.
+0
+ 
+<
+
+ 
+
+P
+ 
+*
+
+ 
+s
+k
+s
+a
+t
+ 
+l
+a
+r
+u
+o
+i
+v
+a
+h
+e
+b
+
+ 
+
+d
+n
+a
+ 
+e
+v
+i
+t
+i
+
+n
+g
+o
+c
+ 
+n
+e
+e
+w
+t
+e
+b
+ 
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+C
+
+ 
+
+.
+
+3
+ 
+e
+l
+b
+a
+T
+
+ 
+)
+.
+t
+u
+o
+
+ 
+
+d
+e
+l
+l
+a
+i
+t
+r
+a
+p
+ 
+Q
+
+I
+ 
+l
+a
+b
+r
+e
+v
+
+ 
+
+d
+n
+a
+ 
+e
+g
+a
+ 
+
+h
+t
+i
+
+W
+
+(
+
+ 
+3
+
+ 
+-
+r
+e
+m
+o
+C
+
+ 
+
+n
+o
+i
+t
+a
+v
+
+ 
+2
+
+ 
+s
+r
+e
+d
+n
+i
+l
+y
+C
+
+ 
+I
+
+ 
+
+d
+r
+a
+o
+B
+
+ 
+e
+m
+a
+g
+
+ 
+0
+0
+.
+1
+
+ 
+0
+1
+.
+0
+-
+
+ 
+0
+0
+-
+1
+
+ 
+3
+1
+.
+0
+
+ 
+
+9
+0
+
+.
+
+0
+
+ 
+0
+0
+-
+1
+
+ 
+
+g
+n
+i
+p
+u
+o
+r
+g
+
+ 
+
+ 
+
+d
+i
+r
+
+ 
+
+G
+y
+l
+l
+e
+K
+
+ 
+
+n
+o
+i
+t
+p
+e
+c
+r
+e
+p
+
+ 
+
+n
+o
+s
+r
+e
+P
+ 
+.
+6
+
+ 
+
+o
+t
+o
+h
+p
+
+ 
+
+n
+o
+i
+t
+p
+e
+c
+r
+e
+p
+
+ 
+
+n
+o
+s
+r
+e
+P
+
+ 
+
+y
+t
+i
+c
+i
+l
+p
+m
+
+i
+s
+ 
+e
+v
+i
+t
+i
+n
+g
+o
+C
+ 
+.
+5
+
+k
+s
+a
+t
+ 
+r
+e
+d
+n
+i
+l
+y
+c
+ 
+
+g
+n
+i
+k
+a
+t
+-
+e
+l
+o
+R
+
+ 
+e
+m
+a
+g
+
+ 
+
+d
+r
+a
+o
+b
+
+ 
+
+g
+n
+i
+k
+a
+t
+-
+e
+l
+o
+R
+ 
+.
+I
+
+ 
+
+n
+o
+i
+t
+a
+v
+r
+e
+s
+n
+o
+C
+
+ 
+
+y
+t
+i
+r
+a
+h
+c
+ 
+
+o
+t
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+
+ 
+.
+
+9
+
+ 
+
+d
+n
+e
+i
+r
+f
+ 
+
+o
+t
+
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+ G
+.
+0
+1
+
+ 
+
+y
+t
+i
+c
+i
+r
+t
+n
+e
+c
+o
+g
+E
+
+ 
+s
+s
+e
+n
+e
+v
+i
+t
+i
+t
+e
+p
+m
+o
+C
+ 
+.
+8
+
+ 
+.
+
+7
+
+ 
+.
+
+2
+
+ 
+.
+3
+
+ 
+.
+
+4
+
+ 
+
+b
+
+ 
+
+ 
+)
+.
+l
+a
+n
+o
+g
+a
+i
+d
+w
+o
+l
+e
+b
+ 
+s
+d
+l
+o
+-
+r
+a
+e
+y
+-
+ 
+I
+ 
+ I
+;
+ 
+l
+a
+n
+o
+g
+a
+i
+d
+ 
+e
+v
+o
+b
+a
+ 
+s
+d
+
+l
+o
+-
+r
+a
+e
+y
+-
+7
+(
+
+ 
+
+Q
+I
+ 
+l
+a
+b
+r
+e
+v
+ 
+r
+o
+ f
+g
+n
+
+i
+l
+l
+o
+r
+t
+n
+o
+c
+ 
+
+d
+n
+a
+
+ 
+y
+l
+e
+t
+a
+r
+a
+p
+e
+s
+ 
+e
+g
+a
+
+ 
+y
+b
+ 
+s
+k
+s
+a
+t
+ 
+
+g
+n
+o
+m
+a
+
+ 
+s
+n
+o
+i
+t
+a
+l
+e
+r
+r
+o
+c
+r
+e
+t
+
+n
+I
+ 
+.
+
+4
+ 
+e
+l
+b
+a
+T
+
+ 
+ 5
+w
+
+ 
+ 
+2
+1
+
+ 
+ 
+n
+a
+
+ 
+ti a
+
+ 
+3
+
+ 
+ 
+*
+$
+u
+
+ 
+
+0
+
+I
+
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+
+ 
+
+d
+n
+e
+i
+r
+f
+ 
+
+o
+t
+
+ 
+9
+
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+
+ 
+
+y
+t
+i
+r
+a
+h
+c
+ 
+
+o
+t
+
+ 
+7
+0
+.
+0
+
+ 
+5
+1
+.
+0
+-
+
+ 
+
+ 
+I
+
+ 
+4
+5
+0
+0
+.
+ 
+1
+ 0
+'
+ 0
+0
+-
+-
+
+.
+
+ 
+6
+2
+.
+0
+
+ 
+9
+2
+.
+0
+
+ 
+1
+0
+.
+0
+-
+
+ 
+0
+1
+'
+0
+-
+
+ 
+3
+0
+.
+ 0
+-
+
+ 
+9
+0
+.
+ 0
+-
+
+ 
+*
+ *
+0
+4
+.
+0
+
+ 
+-
+
+ 
+7
+0
+.
+0
+
+ 
+5
+1
+.
+0
+-
+
+ 
+8
+
+ 
+-
+i
+t
+e
+p
+m
+o
+C
+
+ 
+s
+s
+e
+n
+e
+v
+i
+t
+
+ 
+
+ *
+4
+3
+.
+0
+
+ 
+8
+0
+.
+ 0
+-
+
+ 
+2
+1
+.
+0
+-
+
+ 
+2
+1
+.
+0
+-
+
+ 
+
+ 
+4
+ 
+-
+5
+2
+0
+ 0
+.
+-
+0
+-
+
+'
+
+ 
+1
+0
+0
+0
+-
+
+ 
+
+ 
+*
+ 
+9
+2
+3
+0
+'
+ 0
+ 0
+-
+-
+
+'
+
+ 
+7
+
+ 
+-
+n
+e
+c
+o
+g
+E
+
+ 
+y
+t
+i
+c
+i
+r
+t
+
+ 
+3
+2
+.
+0
+
+ 
+2
+1
+'
+0
+
+ 
+4
+0
+.
+0
+-
+
+ 
+*
+*
+ 
+ 
+ 
+1
+1
+-
+0
+4
+'
+.
+0
+0
+0
+-
+-
+
+ 
+
+5
+1
+
+.
+
+0
+-
+
+ 
+6
+
+ 
+y
+l
+l
+e
+K
+
+ 
+
+d
+i
+r
+G
+
+ 
+*
+9
+3
+.
+0
+
+ 
+0
+2
+-
+0
+-
+
+ 
+9
+1
+.
+0
+-
+
+ 
+6
+1
+.
+0
+-
+
+ 
+0
+1
+'
+0
+
+ 
+6
+1
+.
+0
+-
+
+ 
+
+8
+0
+
+.
+
+0
+ 
+*
+*
+*
+5
+4
+.
+0
+
+ 
+
+ 
+0
+-
+0
+0
+
+'
+
+ 
+
+g
+o
+*
+o
+
+ 
+
+7
+1
+-
+0
+
+ 
+5
+
+ 
+e
+v
+i
+t
+i
+
+ 
+y
+t
+i
+c
+i
+l
+
+n
+g
+o
+C
+
+p
+m
+
+i
+s
+
+ 
+*
+ 
+1
+3
+.
+0
+-
+
+ 
+3
+2
+.
+0
+-
+
+ 
+
+6
+2
+
+.
+
+0
+-
+
+ 
+
+0
+0
+
+ 
+-
+
+0
+
+'
+
+ 
+
+ 
+*
+ 
+2
+3
+.
+0
+
+2
+1
+0
+-
+
+.
+
+ 
+0
+1
+-
+0
+-
+
+ 
+3
+1
+.
+0
+-
+
+ 
+0
+1
+-
+0
+-
+
+ 
+.
+1
+0
+0
+'
+0
+ 
+
+ <
+P
+ 
+*
+*
+*
+
+ 
+
+4
+1
+0
+
+.
+
+ 
+.
+
+'
+
+1
+0
+0
+ 
+<
+
+ 
+
+ 
+0
+2
+
+'
+
+0
+
+P
+ 
++
+*
+
+ 
+
+5
+0
+0
+
+.
+
+ 
+.
+
+5
+0
+
+'
+
+0
+ 
+<
+ 
+P
+ 
+*
+
+ 
+5
+0
+.
+0
+
+ 
+8
+1
+.
+0
+-
+ 
+*
+*
+0
+4
+.
+0
+
+ 
+9
+1
+-
+0
+
+ 
+4
+
+ 
+-
+o
+t
+o
+h
+P
+
+ 
+g
+n
+
+i
+
+p
+u
+o
+r
+g
+
+ 
+3
+
+ 
+-
+r
+e
+s
+n
+o
+C
+
+ 
+
+n
+o
+i
+t
+a
+v
+
+ 
+2
+
+ 
+s
+r
+e
+d
+n
+
+i
+l
+y
+C
+
+ 
+I
+
+ 
+
+d
+r
+a
+o
+B
+
+ 
+e
+m
+a
+g
+
+ 
+I
+ 
+1
+'
+0
+
+ 
+
+7
+1
+-
+0
+
+ 
+-
+
+ 
+3
+1
+.
+0
+-
+
+ 
+0
+1
+.
+0
+-
+
+ 
+
+0
+0
+-
+0
+
+ 
+7
+1
+.
+0
+
+ 
+
+9
+0
+
+.
+
+0
+-
+
+ 
+0
+3
+.
+0
+
+' 
+35
+0.
+
+ 
+-
+
+ 
+0
+4
+.
+0
+
+ 
+3
+0
+.
+0
+-
+
+ 
+
+~
+
+1
+
+3
+
+.
+
+0
+
+-
+
+ 
+9
+1
+.
+0
+
+ 
+1
+1
+.
+0
+-
+
+ 
+
+7
+0
+
+.
+
+0
+-
+
+ 
+
+ 
+-
+
+9
+0
+
+.
+
+0
+
+ 
+-
+
+ 
+9
+0
+.
+0
+
+ 
+3
+1
+.
+0
+-
+ 
+5
+1
+-
+0
+
+ 
+9
+1
+.
+0
+
+ 
+3
+1
+-
+0
+
+ 
+ *
+1
+3
+.
+0
+
+ 
+8
+0
+.
+0
+
+ 
+7
+0
+.
+0
+-
+
+ 
+
+7
+1
+
+.
+
+0
+
+ 
+
+ 
+
+ 
+5
+0
+.
+0
+
+8
+0
+
+.
+
+0
+
+5
+1
+
+.
+
+0
+-
+
+ 
+I
+I
+-
+
+O
+
+-
+
+ 
+9
+0
+.
+0
+-
+
+ 
+
+ 
+
+i
+
+g
+n
+p
+u
+o
+r
+g
+-
+o
+t
+o
+h
+p
+n
+o
+i
+t
+p
+e
+c
+r
+e
+p
+n
+o
+s
+r
+e
+P
+
+ 
+
+ 
+
+d
+
+ 
+
+ 
+
+i
+r
+G
+y
+l
+l
+e
+K
+n
+o
+i
+t
+p
+e
+c
+r
+e
+p
+n
+o
+s
+r
+e
+P
+ 
+.
+6
+
+ 
+
+ 
+
+y
+t
+i
+c
+i
+l
+
+p
+m
+
+i
+s
+ 
+e
+v
+i
+t
+i
+n
+g
+o
+C
+
+ 
+.
+
+ 
+.
+
+4
+
+5
+
+ 
+
+k
+s
+a
+t
+ 
+r
+e
+d
+n
+
+ 
+
+i
+l
+y
+c
+ 
+g
+n
+i
+k
+a
+t
+-
+e
+l
+o
+R
+ 
+.
+2
+
+n
+o
+i
+t
+a
+v
+r
+e
+s
+n
+o
+C
+ 
+.
+3
+
+ 
+
+ 
+
+ 
+e
+m
+a
+g
+d
+r
+a
+o
+b
+g
+n
+i
+k
+a
+t
+-
+e
+l
+o
+R
+ 
+.
+I
+
+ 
+
+ 
+
+y
+t
+i
+r
+a
+h
+c
+ 
+
+d
+n
+e
+i
+r
+f
+ 
+
+o
+t
+ 
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+ 
+.
+9
+
+o
+t
+ 
+
+y
+t
+i
+s
+o
+r
+e
+n
+e
+G
+ 
+.
+0
+1
+
+ 
+
+y
+t
+i
+c
+i
+r
+t
+n
+e
+c
+o
+g
+E
+
+ 
+s
+s
+e
+n
+e
+v
+i
+t
+i
+t
+e
+p
+m
+o
+C
+ 
+.
+8
+
+ 
+.
+
+7
+
+348 
+
+J. PHILIPPE RUSHTON A N D   J A N E T   WIENER 
+
+DISCUSSION 
+
+This study  very  strongly  supports the  large  body  of  previous  research  demon- 
+strating that the cognitions and behaviour of  a 7-year-old are significantly different 
+from those of  an 11-year-old. This is exactly what one would expect in adopting 
+a  cognitive-developmental approach  to  study  middle  childhood.  However,  one 
+would, in addition, expect to find some degree of correlation between the cognitions 
+and behaviours within each group (Bruner et  al., 1966; Flavell, 1963; Kohlberg, 
+1969). In this study, however, which concentrated on the social domain, virtually 
+no  interrelationships  between age-related tasks were found.  When  the  effects of 
+age and IQ were partialled out, children who were high scorers on one role-taking 
+task did not necessarily score highly on either of the two person-perception  tasks, 
+the conservation task, the behavioural tasks, or even the second role-taking task. 
+The very small number of  intercorrelations involving the cognitive tasks were not 
+common for both 7-  and 11-year-olds and are best treated  as chance occurrences. 
+It would seem that,  in the domain of  person  perception  and altruistic behaviour 
+at least, these results call into question the notion of generalized cognitive develop- 
+mental levels mediating behavioural and cognitive repertoires. 
+
+It is possible, of  course, that the lack of  interrelationships  is due to the nature 
+of the particular tasks used. It might be argued that, although these tasks are age- 
+related, they are not mediated by any known ‘organizational structures’ or ‘schema’ 
+or ‘stage’ and therefore  relationships between  them  need  not  be  expected.  Yet, 
+since organizational structure can only be inferred in the first place from age-related 
+overt  behaviour  and  since we  have  used  demonstrably  significant age-correlated 
+tasks, this argument loses some of  its cogency. In the absence of further evidence, 
+therefore,  we  must  conclude that  the  notion  of  ‘generalized levels ’ in  cognitive 
+development is not supported by the data. 
+
+The lack of  relationship between the cognitive and the behavioural measures in 
+this  study  casts doubt  on  the hypothesis  that  some general  change in  cognitive 
+development mediates the age changes consistently found in altruistic behaviour. 
+Specifically, it replicates the  negative findings of  Emler  & Rushton  (1974) with 
+respect to the widely held view that role-taking abilities are necessary prerequisites 
+for  generosity  (Rosenhan,  1969,  1972;  Wright,  1971).  Previous  research  has 
+suggested that moral judgement relates to a child’s altruistic behaviour (Emler & 
+Rushton,  1974; Rubin  & Schneider,  1973).  Further  research  is required  to  see 
+whether  the  moral judgement  relationship  with  altruistic behaviour  is  a spec@ 
+relationship  or whether it is part of  a more general cognitive developmental pro- 
+cess. The evidence from this study must suggest the former. 
+
+The  correlations  found  between  the  behavioural  tasks  are  of  interest.  The 
+evidence reported  here  replicates that  of  Rutherford  & Mussen (1968) who also 
+found  relations  between  behavioural  generosity  and  other  ‘ pro-social’  charac- 
+teristics  in  children.  Present  evidence then  suggests the possibility that  there  is 
+some  generalization of  altruistic behaviour.  However, the  size and  patterning  of 
+the correlations are not impressive. The negative correlations between competitive- 
+ness and  generosity to  a friend  declined sharply  from  the  7-  to  the  11-year-old 
+
+Altruism and  Cognitive Development 
+
+349 
+samples,  and  there  was  no  significant  correlation  between  competitiveness  and 
+generosity  to  a  charity.  Furthermore,  the  correlation  of  +024 (for  both  ages 
+combined)  between  generosity  to a friend and generosity  to a charity indicates of 
+course,  only  6  per  ccnt  of  shared  variance.  The value  of  searching  further  for 
+generalized  cognitivc  development  antecedents  of  ‘ dispositions’  of  the  strength 
+found in this study may thcreforc be questioned. 
+
+The authors would  like to thank  Tim Oake  for his  kind  help  with the collection  of  data. 
+
+R E F E R E N C E S  
+
+BRUNER, J. S.,  OLVER, R. R.  &  GREENFIELD, P. M.  (1966).  Studies  in  Cognitive  Growth. 
+
+New York: Wiley. 
+
+BRYAN, J. H.  &  LONDON, P.  (1970). Altruistic  behaviour  by  children.  Psychol.  Bull.  73, 
+
+I<I.LIOTT, R. & V A s r A ,  R. (1970). Thc modelling of sharing: effects associated with vicarious 
+
+200-2 I I. 
+reinforcement,  symbolization, age and generalization. J. exp. child Psychol.  10, 8-1 5. 
+
+EMLER, N. P.  &  RUSHTON, J. P.  (1974).  Cognitive-developmental  factors  in  children’s 
+
+gcnerosity. Br. J. SOC.  clin. Psychol. 13, 277-281. 
+
+J. H. (1963). The Developmental  Psychology  of  Jean  Piaget. Princeton, N.J.:  Van 
+
+J. H. (1968). The Development  of Role-Taking and Communication Skills in Children. 
+
+HANDLON, B. J. & Gaoss, P. (1959). The development of sharing behaviour. J. abnorm. SOC. 
+
+FLAVELL, 
+Nostrand. 
+FLAVELI., 
+
+New York:  Wiley. 
+
+Psychol. 59, 425-428. 
+
+KOHLBERG,  L. (1969). Stage and sequence: the cognitive dcvelopmental approach to social- 
+ization.  In D. A.  Goulin (ed.),  Handbook  of  Socialization  Theory and Research.  Chicago: 
+Rand McNally. 
+
+MIDLARSKY, E.  & BRYAN, J. H. (1967). Training charity in chi1dren.J.  Person. SOC.  Psychol. 
+
+5,408-415. 
+
+MISCHEL, W. (1968). Personality  and Assessment.  New York : Wiley. 
+MISCHEL, W. (1973). Toward a cognitive social learning reconceptualization of  personality. 
+OLVER, R. R.  &  HORNSBY, 
+
+J. R.  (1966).  On  equivalence.  In  J. S. Bruner,  R. R. Olver  & 
+
+Psychol. Rev. 80, 252-283. 
+
+P. M. Greenficld,  Studies in Cognitive Growth. New York:  Wiley. 
+
+PIAGEr, J.  (1932). The Moral Judgement  of  the  Child. London:  Routledge  & Kcgan  Paul. 
+ROSENHAN, D. I,.  (1969). Some origins of  concern  for others.  In P. Mussen, J. Langer  & 
+M. Covington  (eds.),  Trends and Issues  in  Developmental  Psychology,  New  York:  Holt, 
+Rinehart & Winston. 
+
+ROSENHAN, D. L. (1972). Learning theory and prosocial behavi0ur.J.  SOC.  Issues 28,151-163. 
+ROSENHAN, D. L.  & WHITE, G. M.  (1967). Observations  and rehearsal  as determinants of 
+
+prosocial  behaviour. J. Person. SOC.  Psychol. 5, 424-43  I .  
+
+RUBIN, K. H.  &  SCHNEIDER, F. W.  (1973). The  relationships  between  moral  judgement, 
+
+egocentrism,  and altruistic behaviour.  Child Dev. 44, 661-666. 
+
+RUSHTON, J. P.  (1975). Generosity in children: immediate and long-term  effects of model- 
+
+ling, prcaching  and moral judgement. J. Person.  SOC.  Psychol. 31, 459-466. 
+
+RUTIXERFORD, E.  & MUSSEN, P.  (1968). Generosity  in  nursery school  boys.  Child Dew.  39, 
+
+UGIJREL-SEMIN, R.  (1952). Moral behaviour  and moral judgerncnt  of  children. J. abnorm. 
+
+755-765. 
+
+SOC. PSychol.  47, 463-474. 
+
+WRIGHT, D. (1971). The Psychology  of  Moral Behaviour. Harmondsworth: Penguin  Books. 
+
+Manuscript  received 30 November  I 973 
+
+Revised manuscript received  I 5 January  1974 
+
+

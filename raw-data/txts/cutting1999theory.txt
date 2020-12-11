@@ -1,0 +1,2366 @@
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+Child Development, July/August 1999, Volume 70, Number 4, Pages 853–865
+
+Theory of Mind, Emotion Understanding, Language, and Family 
+
+Background: Individual Differences and Interrelations
+
+Alexandra L. Cutting and Judy Dunn
+
+Individual differences in young children’s social cognition were examined in 128 urban preschoolers from a
+wide range of backgrounds. Comprehensive assessments were made of children’s false-belief understanding,
+emotion understanding, language abilities, and family background information was collected via parent in-
+terview. Individual differences in children’s understanding of false-belief and emotion were associated with
+differences in language ability and with certain aspects of family background, in particular, parental occupa-
+tional class and mothers’ education. The number of siblings that children had did not relate to their social cog-
+nition. Individual differences in false-belief and emotion understanding were correlated, but these domains
+did not contribute to each other independently of age, language ability, and family background. In fact, vari-
+ance in family background only contributed 
+ to false-belief understanding. The results suggest that
+family background has a signiﬁcant impact on the development of theory of mind. The ﬁndings also suggest
+that understanding of false-belief and understanding of emotion may be distinct aspects of social cognition in
+young children.
+
+uniquely
+
+INTRODUCTION
+It is now widely accepted that by 4 years of age most
+normally developing children have acquired an un-
+derstanding of mind. That is, they are able to under-
+stand a person’s actions in terms of that person’s de-
+sires, thoughts, beliefs (which may be true or false),
+and  emotions  (for  reviews,  see  Astington,  1993;
+Mitchell,  1997).  Much  of  the  work  in  this  area  has
+been  concerned  with  normative  development  and
+group means, focusing on the age at which children
+develop a “theory of mind,” and the conditions under
+which  they  are  able  to  display  it  (e.g.,  Freeman,
+Lewis, & Doherty, 1991; Moses & Flavell, 1990; Sulli-
+van & Winner, 1993). Although this has resulted in a
+fairly  clear  understanding  of  what  constitutes  the
+“normal development” of social cognition, two areas
+within the ﬁeld remain neglected—individual differ-
+ences and the effects of family background.
+
+Individual Differences in Social Cognition
+
+It is only in recent years that researchers have be-
+gun  to  focus  on  individual  differences  in  children’s
+understanding of belief and emotion, and the factors
+associated with these differences (Dunn, Brown, Slom-
+kowski, Tesla, & Youngblade, 1991; Jenkins & Asting-
+ton, 1996). Yet an understanding of individual differ-
+ences is essential if we are to discover the factors that
+inﬂuence  development,  and  ultimately  the  mecha-
+nisms involved (Astington, 1993; Bartsch & Estes, 1996).
+Although few studies have speciﬁcally addressed the
+issue  of  individual  differences,  several  factors  that
+
+inﬂuence  theory  of  mind  development  have  been
+identiﬁed. Two areas that have received particular at-
+tention are the inﬂuences of family environment and
+of language.
+
+In one of the ﬁrst studies to examine individual dif-
+ferences in social understanding, Dunn et al. (1991)
+observed children aged 33 months at home with their
+mother  and  siblings.  The  children  then  were  tested
+for both false-belief understanding and emotion under-
+standing (speciﬁcally, their ability to make inferences
+about the relations between particular situations and
+basic emotions) at 40 months. Clear associations were
+found between family measures at 33 months (such
+as  family  talk  about  feelings,  and  cooperation  be-
+tween siblings) and both false-belief and emotion un-
+derstanding at 40 months. In addition, individual dif-
+ferences  in  social  pretend  play  with  mothers  and
+siblings at 33 months related to social understanding
+at  40  months  (Youngblade  &  Dunn,  1995).  Further
+support  for  the  importance  of  family  environment
+comes from recent studies that have found relations
+between  performance  on  false-belief  tasks  and  the
+size of a child’s family, and in particular the number
+of siblings that a child has (Jenkins & Astington, 1996;
+Lewis, Freeman, Kyriakidou, Maridaki-Kassotaki, &
+Berridge, 1996; Perner, Ruffman, & Leekam, 1994).
+
+A second area that has received attention in exam-
+ining individual differences in theory of mind is that
+of  language.  In  a  key  paper,  Happé  (1995)  showed
+
+© 1999 by the Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/99/7004-0004
+
+ 
+ 
+
+854 Child Development
+
+that verbal ability, as measured by the British Picture
+Vocabulary  Scale  (BPVS,  a  test  of  receptive  vocabu-
+lary), was clearly linked to ability to pass false-belief
+tasks,  both  in  normally  developing  children  and  in
+children  with  autism.  Jenkins  and  Astington  (1996)
+replicated this effect using the Test of Early Language
+Development  (Hresko,  Reid,  &  Hammill,  1981),  a
+measure of overall language development, both ex-
+pressive and receptive), ﬁnding a strong relation be-
+tween  general  language  ability  and  false-belief  per-
+formance. Children’s ability to pass a false-belief task
+also  may  depend  upon  their  comprehension  of  the
+narrative  involved  (Lewis,  Freeman,  Hagestadt,  &
+Douglas,  1994).  In  addition  to  children’s  own  lan-
+guage ability, the experience children have in partici-
+pating  in  discourse  with  their  families  has  been  re-
+lated to their theory of mind development (Dunn et
+al., 1991; Welch-Ross, 1997). These experiments high-
+light the fact that language and theory of mind are in-
+timately related, but several questions remain to be
+answered. In particular, it is not known whether cer-
+tain  aspects  of  language  are  particularly  important
+for theory of mind development, although arguments
+have been put forward emphasizing the role of almost
+every  aspect  of  language—from  syntax  (e.g.,  de  Vil-
+liers, 1995; Feldman, 1988) to semantics (e.g., Moore,
+Pure,  &  Furrow,  1990;  Olson,  1988)  and  pragmatics
+(Baron-Cohen, 1988; Eisenmajer & Prior, 1991). The
+issue of cause and effect also is unclear; language may
+inﬂuence theory of mind development, the opposite
+may be true, or they may inﬂuence each other. It also
+has been argued that many theory of mind tests are
+linguistically complex, which may in part account for
+correlations between language ability and test perfor-
+mance (e.g., Lewis & Osborne, 1990). Correlations be-
+tween  language  ability  and  theory  of  mind  perfor-
+mance  have  now  been  established,  however,  for  a
+wide  range  of  theory  of  mind  measures,  some  less
+verbal than others, so the linguistic demands of stan-
+dard  tasks  are  unlikely  to  account  fully  for  correla-
+tions between language ability and performance on
+theory of mind tests.
+
+Individual  differences  in  emotion  understanding
+have been somewhat more researched than individual
+differences  in  false-belief  understanding.  Individ-
+ual  differences  in  children’s  understanding  of  emo-
+tion,  as  indexed  by  their  talk  about  emotion,  have
+been documented in children as young as 24 months
+(Dunn, Bretherton, & Munn, 1987). Individual differ-
+ences also have been identiﬁed in a variety of related
+areas,  including  response  to  distress  (Cummings,
+Hollenbeck,  Ianotti,  Radke-Yarrow,  &  Zahn-Waxler,
+1986), comforting (Murphy, 1937), and understanding
+of the causes of emotions (Denham, 1986) and also are
+
+known to be stable over time (Brown & Dunn, 1996).
+As with false-belief understanding, individual differ-
+ences in emotion understanding have been related to
+family environment, and also possibly to gender (see
+Harris, 1994, for a review). In particular, family dis-
+course and the quality of family interactions seem to
+be important (Dunn et al., 1991).
+
+The relation between understanding of false-belief
+and  emotion  understanding  is  surprisingly  unclear,
+despite the importance of both domains to social in-
+teraction. Little is known, for example, about whether
+children who have a strong grasp of mental states also
+are  advanced  in  their  understanding  of  emotions.
+Nor is it known how, or indeed if, these domains in-
+ﬂuence each other in their development. Does seeing
+another child show an emotional response to a situa-
+tion that differs from his or her own response help a
+child  understand  that  people  may  have  different
+points of view, for example?
+
+Evidence  that  does  exist  concerning  the  relation
+between understanding of false-belief and emotion is
+mixed. Dunn et al. (1991) found that family measures
+at  33  months  were  more  strongly  associated  with
+emotion understanding at 40 months than with false-
+belief  understanding,  leading  the  authors  to  specu-
+late that understanding emotion and understanding
+belief  may  develop  along  different  lines,  with  emo-
+tion  understanding  perhaps  being  more  inﬂuenced
+by patterns of family interaction than is understand-
+ing of belief. In addition, Dunn et al. noted that per-
+formance on their emotion understanding and false-
+belief  tasks  did  not  correlate  signiﬁcantly.  The  chil-
+dren’s  understanding  of  false-belief  was  assessed
+when they were very young (only 40 months), how-
+ever, and was limited in scope, focusing only on the
+ability  to  explain  a  character’s  action  in  terms  of  a
+false-belief. Stronger evidence for a dissociation be-
+tween  understanding  of  belief  and  emotion  comes
+from the ﬁnding that individual differences in each
+domain  at  40  months  had  distinct  sequelae  at  the
+end  of  the  children’s  kindergarten  year  of  school
+(Dunn, 1995).
+
+In  contrast  to  these  ﬁndings,  there  is  some  evi-
+dence for a link between understanding of false-belief
+and  emotion.  Several  studies  have  shown  that,  by
+around 4 years of age, children can appreciate that the
+emotion a person feels about a given event depends
+upon that person’s perception of the event and their
+beliefs and desires about it. For example, if an event
+differs from the person’s belief about what will hap-
+pen, they are likely to feel surprise; they will be happy
+if they (falsely) believe that they will get what they
+want  (Baron-Cohen,  1991;  Hadwin  &  Perner,  1991;
+Harris,  Johnson,  Hutton,  Andrews,  &  Cooke,  1989;
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+Wellman & Banerjee, 1991). These studies, however,
+have  focused  primarily  on  group  means  and  age
+norms,  rather  than  investigating  individual  differ-
+ences. One study has looked at individual differences
+in understanding of false-belief and emotion. Hughes
+and Dunn (1998) conducted a longitudinal study of
+50 children aged 47 months to 60 months, examining
+developmental  changes  in  understanding  of  false-
+belief  and  emotion,  and  mental-state  conversation
+with friends. They found that individual differences
+in  understanding  of  both  false-belief  and  emotion
+were  stable  over  this  time  period  and  were  signiﬁ-
+cantly related to each other. In addition, these differ-
+ences were reﬂected in children’s use of mental-state
+terms in everyday conversations with their friends.
+
+Family Background and Social Cognition
+
+The majority of published studies of theory of mind
+development have investigated the abilities of middle-
+and  upper-middle-class  children  from  generally
+well-educated families. It may not be appropriate to
+generalize results from these groups to all children,
+however, particularly those from impoverished back-
+grounds. Signiﬁcant differences between middle-class
+and  working-class  children  have  been  identiﬁed  in
+other areas of cognition, such as conservation (Roazzi
+& Bryant, 1997) and verbal development (Hart & Ris-
+ley, 1995). Given the apparent importance of aspects
+of the family environment such as sibling interactions
+and family discourse about inner states, it may be ex-
+pected  that  socioeconomic  status  (SES)  also  has  an
+impact on social cognition. The role of family back-
+ground in the development of children’s understand-
+ing of belief and emotion, however, has not been sys-
+tematically investigated.
+
+There  is  some  evidence  that  family  background
+plays a role in theory of mind development. Children
+from a Head Start population have been reported to
+perform poorly on false-belief tests, although in this
+case, performance was compared only to levels “typ-
+ically  reported  in  the  literature”  (Holmes,  Black,  &
+Miller,  1996).  Cross-cultural  studies  also  have  sug-
+gested that family background affects theory of mind
+development; for example, afﬂuent Indian children
+outperformed  their  deprived  counterparts  in  mak-
+ing mental-real distinctions (Wahi & Johri, 1994). In
+addition, parenting style (authoritarian versus au-
+thoritative) may relate to young children’s theory
+of mind performance (Vinden, 1997), and parenting
+style is known to vary considerably across different
+family backgrounds (for a review, see Hoff-Ginsberg
+& Tardif, 1995).
+
+Work  on  emotion  understanding  has  included
+
+Cutting and Dunn
+
+855
+
+studies  of  low-income  families  (e.g.,  Garner,  Jones,
+Gaddy, & Rennie, 1997) and cross-cultural compari-
+sons  (see  Saarni  &  Harris,  1991),  which,  taken  to-
+gether, hint at poorer emotion understanding in chil-
+dren  from  deprived  backgrounds.  Young  children’s
+emotion understanding also has been found to corre-
+late signiﬁcantly with their fathers’ occupational pres-
+tige (Dunn et al., 1991), level of education, and occu-
+pational class (Dunn & Brown, 1994).
+
+In this study, we examine social cognition in a large
+sample of urban preschoolers from a wide range of
+backgrounds.  The  goals  of  the  study  are  threefold.
+The ﬁrst goal is to examine individual differences in
+children’s understanding of false-belief and emotion
+using a comprehensive multimeasure approach to as-
+sessment. This is likely to give an accurate assessment
+of a child’s ability, and is more sensitive to individual
+differences  than  are  single-test  approaches,  which
+simply categorize children as “passers” or “failers.”
+The second goal of the study is to investigate links be-
+tween individual differences in social cognition and
+individual  differences  in  family  background.  The
+third goal is to examine how different aspects of so-
+cial cognition relate to one another, focusing on un-
+derstanding  of  false-belief,  emotion  understanding,
+and language ability.
+
+METHOD
+Participants
+
+mean
+
+⫽
+
+ 
+range
+
+  age  of  4.16  years  (
+
+The  participants  were  128  children  (63  girls,  65
+boys)  with  a 
+  3.49–
+4.80). The children attended nursery schools in South
+London and were taking part in a longitudinal study
+of  friendship  in  young  children.  The  children  came
+about  equally  from  working-class  and  middle-class
+backgrounds (see below for details). Sixty-eight per-
+cent were White, 26% were Black or mixed race, and
+6% were from other ethnic groups.
+
+Procedure
+
+Each child was seen twice in nursery school (visits
+conducted,  on  average,  1  week  apart)  and  once  at
+home (on average, 3 weeks later). A battery of false-
+belief,  language,  and  emotion  understanding  tests
+was administered over the course of these visits. Fam-
+ily background information was collected from par-
+ents. The majority of children participated in all the
+tests involved in the study. Some did not complete
+every task, for a variety of reasons (e.g., noncompli-
+ance, absence from school), so speciﬁc 
+s are given
+for each task with the results.
+
+N
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+856 Child Development
+
+False-Belief Tasks
+
+1. Unexpected-location tasks.
+
+A  total  of  eight  false-belief  tasks  were  adminis-
+tered, all of which involved predicting, explaining, or
+recalling a false-belief. Three types of task were used.
+Four  unexpected-location
+stories were used, based on the tasks used by Bartsch
+and Wellman (1989): Two tasks required the explana-
+tion of a character’s action in terms of a false-belief,
+and two tasks required the prediction of a character’s
+action based on a false-belief. These stories were pre-
+sented interleaved with other tasks in the testing ses-
+sion. For each story, children were presented with a
+prototypical  box  and  a  matching  plain  box,  and
+shown that the prototypical box was empty, whereas
+the plain box contained the item in question. A ﬁller
+story,  in  which  the  prototypical  box  contained  the
+item and the plain box was empty, also was included
+to prevent children from guessing that the plain box
+(rather than the prototypical box) would always be
+full. A puppet (matching the child for sex and race)
+was  then  introduced  who  “had  not  seen  the  two
+boxes before.”
+
+In the explanation stories, the puppet expressed a
+desire  for  the  item,  and  walked  to  the  prototypical
+box. Children were asked “Why is [puppet] looking
+in there?” If no belief-based answer was forthcoming,
+the prompt “What does [puppet] think?” was given.
+Children  scored  2  points  if  they  spontaneously  re-
+ferred to a mistaken belief in explaining the puppet’s
+action and passed the reality control question (“Are
+there [e.g., crayons] in there really?”), 1 point if they
+referred  to  a  mistaken  belief  after  prompting  and
+passed  the  reality  control  question,  and  0  points  if
+they made no clear reference to a mistaken belief.
+
+In  the  prediction  stories,  the  puppet  expressed  a
+desire  for  the  item,  and  then  walked  to  a  position
+equidistant  between  the  two  boxes.  Children  were
+asked to predict where the puppet would look. This
+question  was  presented  in  a  forced-choice  format;
+children were coded as successful if they responded
+correctly  to  both  the  test  question  and  the  reality
+control  question  (“Will  [puppet]  ﬁnd  the  [e.g.,  ce-
+real] in there?”).
+
+2. Unexpected-identity task.
+
+Children  were  told  a
+story  from  a  peep-through  pop-up  book  that  in-
+volved an element with a deceptive identity, follow-
+ing the procedure used by Hughes, Dunn, and White
+(1998). On each of the ﬁrst ﬁve pages, the child saw an
+eye peeping through a hole in the page. On the sixth
+page, children were asked to name what they could
+see (an eye) before turning over the ﬁnal page, which
+revealed  that  the  “eye”  was  actually  a  spot  on  a
+snake’s  tail.  Turning  back  to  the  penultimate  page,
+
+two  test  questions  were  asked.  First,  children  were
+asked what they had thought the picture was before
+the page was turned. Second, a naive puppet was in-
+troduced, and children were asked to predict whether
+the puppet would think that the picture was of an eye
+or a snake. Children were credited with success on
+the “recall-own-false-belief” and “predict-other’s-false-
+belief” questions only if they also passed the reality
+control questions (“What is it really?”).
+
+3. Current false-belief tasks.
+
+Children heard two sto-
+ries  based  on  the  story  developed  by  Harris  et  al.
+(1989). These are designed to examine children’s un-
+derstanding of a character’s false-belief and also how
+the character will feel as a result of that false-belief.
+For the purposes of this analysis, however, only the
+false-belief  aspect  of  the  stories  was  used.  The  two
+stories used in the present study involved a character
+surprising  a  friend,  and  placed  the  false-belief  sce-
+nario in a realistic context that children would be ex-
+pected to be familiar with. One story involved a mean
+trick, in which a character exchanged his friend’s fa-
+vorite drink for a disliked drink while the friend was
+away. The second story involved a nice surprise, in
+which a character exchanged a friend’s disliked food
+for liked food, again in the friend’s absence. Children
+were credited with success on each task if they cor-
+rectly stated what the friend thought he was getting
+to drink/eat, and what he was really getting.
+
+Emotion Understanding
+
+Children’s  understanding  of  emotion  was  tested
+using  the  procedure  developed  by  Denham  (1986),
+which  involves both  affective labeling and affective
+perspective-taking.  Children  were  shown  four  felt
+faces portraying happy, sad, angry, and frightened ex-
+pressions. They were asked to identify these expres-
+sions, ﬁrst expressively, by naming, and then recep-
+tively, by pointing to the expression the experimenter
+named. Two points were awarded for correct naming/
+pointing, and 1 point for identifying the wrong spe-
+ciﬁc emotion but the correct valence (e.g., calling the
+frightened  face  “sad”  or  “bad”),  and  0  points  for  a
+wrong-valence  emotion  (e.g.,  picking  “happy”  in-
+stead  of  “angry”).  Children’s  scores  for  expressive
+and receptive labeling were then summed to give an
+aggregate  score  (maximum  score 
+  16,  from  eight
+identiﬁcations).
+
+⫽
+
+To  examine  affective  perspective-taking  ability
+(children’s understanding of the links between partic-
+ular  situations  and  emotions),  children  were  intro-
+duced to a puppet (matching the child for gender and
+race) with no face. The puppet enacted 16 vignettes
+portraying  situations  in  which  the  protagonist  felt
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cutting and Dunn
+
+857
+
+happiness, sadness, anger, or fear, such as going to the
+zoo, seeing a parent off on a trip, having a toy hidden
+by a sibling, or having a bad dream. Each of the sto-
+ries was acted out with full vocal and facial cues for
+the  puppet’s  feelings.  In  eight  of  the  vignettes,  the
+puppet’s  emotion  was  what  most  people  would  be
+expected to feel in the situation. In the other eight, the
+puppet’s  emotion  differed  from  the  emotion  previ-
+ously  predicted  by  the  mother  for  the  child. At  the
+end of each story children were asked how the pup-
+pet felt. Children could respond verbally, or nonver-
+bally, by selecting one of four felt faces (children were
+credited with their best answers if they gave both a
+verbal  and  a  nonverbal  answer  and  these  were
+contradictory—a  rare  occurrence).  Responses  were
+scored  as  in  the  affective  labeling  task  (maximum
+score 
+
+ 32).
+
+⫽
+
+Language Measures
+
+Children’s verbal skills were assessed using mea-
+sures of both receptive vocabulary (long form of the
+BPVS;  Dunn,  Dunn,  Whetton,  &  Pintilie,  1982)  and
+narrative expressive language ability (the Bus Story;
+Renfrew, 1991). The Bus Story involves the child re-
+telling  a  simple  story  about  a  bus,  from  a  picture
+book,  which  is  transcribed  verbatim  and  scored  for
+content/coherence, sentence length, and basic gram-
+matical complexity.
+
+Family Background
+
+Family  background  data  were  collected  concern-
+ing family structure (single or two-parent family), the
+number  of  adults  in  the  home,  the  number  of  lan-
+guages spoken in the home, the number of other chil-
+dren in the home, and parental education and occu-
+pation. Other children living in the home were almost
+all  siblings  (full,  half,  or  step  siblings),  but  in  three
+cases included cousins or foster children living per-
+manently with the family. For simplicity, other chil-
+dren  in  the  home  will  be  referred  to  as  siblings.
+Twenty-eight of the families in the study (22%) were
+single-parent families (mothers only). Twenty-two of
+the families had only one adult living in the home, 13
+had three or four adults in the home, and the remain-
+der had two adults at home. Ten families spoke two
+or more languages at home, but all children were ﬂu-
+ent in English. Twenty-six of the children in the study
+were  only  children  or  had  no  siblings  living  in  the
+home.  Sixty-ﬁve  children  had  one  sibling  living  at
+home, 27 had two, 7 had three, 2 had four, and 1 child
+had seven siblings at home.
+
+Parental educational level was classiﬁed according
+
+⫽
+
+⫽
+
+⫽
+
+⫽
+
+ degree or higher, 3 
+
+to the following scheme: 4 
+ up
+to A level (equivalent to high school graduation in the
+ up to GCSE/O level (national ex-
+United States), 2 
+aminations  taken  at  15/16  years),  1 
+  no  qualiﬁca-
+tions.  Occupational  class  was  classiﬁed  using  the
+Standard Occupational Classiﬁcation (Ofﬁce of Popu-
+⫽
+lation  Censuses  and  Surveys,  1991),  as  follows:  I 
+  managerial
+professional  (e.g.,  doctor,  solicitor),  II 
+⫽
+and technical (e.g., teacher, computer analyst), IIIN 
+skilled,  nonmanual  (e.g.,  secretary,  ﬁnancial  clerk),
+ skilled, manual (e.g., hairdresser, carpenter),
+IIIM 
+⫽
+⫽
+IV 
+unskilled (e.g., cleaner, laborer). In cases where a par-
+ent was not currently working, most recent occupa-
+tion was categorized. Table 1 summarizes the educa-
+tional  and  occupational  class  description  of  the
+sample. “Missing” data include data that could not be
+collected and absent parents (fathers only).
+
+⫽
+ semiskilled (e.g., gardener, security guard), V 
+
+⫽
+
+The distribution of occupational classes shown in
+Table 1 is slightly higher than is reported for the Brit-
+ish  population  (1981  census),  but  this  is  largely  be-
+cause parents who were not currently working were
+classiﬁed  according  to  their  most  recent  occupation
+(these parents would not be included in the occupa-
+tional census). In fact, 18% of fathers for whom there
+were data were unemployed. Many mothers were not
+working  either  (34%),  but  this  was  generally  by
+choice.  Of  the  mothers  who  were  working,  51%
+worked part-time. Twenty-one percent of families did
+not have a parent in full-time work. Classifying fami-
+lies more broadly, according to father’s occupational
+class (mother’s in single-parent families), the sample
+overall was about equally divided between working-
+class  families  (48%;  working-class 
+  occupational
+classes III–V) and middle-class families (52%; middle-
+class 
+ occupational classes I, II). Although it is true
+
+⫽
+
+⫽
+
+Table 1 Summary of Educational Level and Occupational Class
+(Percentage of Sample in Each Category)
+
+Mother
+
+Father
+
+Educational level
+
+Degree or higher
+Up to A level
+Up to GCSE/O level
+No qualifications
+Missing data
+
+Occupational class
+Professional (I)
+Managerial/technical (II)
+Skilled, nonmanual (IIIN)
+Skilled, manual (IIIM)
+Semiskilled (IV)
+Unskilled (V)
+Missing data
+
+29.7
+20.3
+28.9
+15.6
+5.5
+
+10.2
+32.0
+32.8
+6.3
+12.5
+1.6
+4.7
+
+32.8
+14.8
+14.1
+13.3
+25.0
+
+18.8
+33.6
+7.0
+16.4
+4.7
+4.7
+14.8
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+858 Child Development
+
+Table 2
+
+Intertask Correlations for False-Belief Tasks
+
+N
+
+% Pass
+
+1
+
+2
+
+3
+
+4
+
+.82**
+
+.31**
+.40**
+
+.27**
+.38**
+
+.46**
+
+Explain action
+1. “Crayons”
+2. “Plasters”
+Predict action
+
+3. “Lego”
+4. “Cereal”
+
+Unexpected identity
+
+5. Other’s false-belief
+6. Recall own false-belief
+
+State other’s belief
+
+7. Mean trick
+8. Nice surprise
+
+*
+
+p
+
+ 
+
+⬍
+
+ .05; **
+
+p
+
+ 
+
+⬍
+
+ .01.
+
+116
+114
+
+117
+117
+
+123
+123
+
+112
+124
+
+56
+57
+
+42
+36
+
+39
+55
+
+50
+45
+
+5
+
+.07
+.12
+
+.25**
+.21*
+
+6
+
+.05
+.11
+
+.16
+.01
+
+⫺
+
+.18*
+
+7
+
+8
+
+.43**
+.52**
+
+.27**
+.31**
+
+.25**
+.24**
+
+.28**
+.37**
+
+.38**
+.35**
+
+.29**
+.28**
+
+.47**
+
+that social class does not necessarily correlate with in-
+come level, in British samples like this, occupational
+class “has proved robust as a marker variable for so-
+cioeconomic position” (Ofﬁce of Population Censuses
+and Surveys, 1991, Vol. 3, p. 11).
+
+Sibling Relationship Interview
+
+⫽
+
+For  those  children  with  at  least  one  sibling  be-
+tween 2 and 12 years of age (
+ 92), we interviewed
+ 
+n
+mothers  about  the  quality  of  the  target  child’s  rela-
+tionship with their nearest sibling, using an interview
+developed in the Colorado Adoption Project (Stocker,
+Dunn,  &  Plomin,  1989).  This  interview  asks  about
+both positive and negative aspects of the sibling rela-
+tionship  and  produces  two  factors  (positivity  and
+negativity) for both the target child and the sibling.
+The positivity factor includes items such as affection
+and  playing  together;  the  negativity  factor  includes
+items such as quarrelling and jealousy.
+
+p
+
+ 
+
+⬍
+
+question,  but  were  treated  as  missing  for  that  task.
+The intertask correlations for the false-belief tasks are
+shown in Table 2. Virtually every task correlated sig-
+niﬁcantly, 
+ .01, with every other task, with the
+notable  exception  of  “recall-own-false-belief”  in
+the  unexpected-identity  task. An  irregularity  in  the
+presentation of this section of the task was later iden-
+tiﬁed, which seems to account for the lack of corre-
+lation  between  the  “recall-own-false-belief”  task
+and the other false-belief tasks. This task was there-
+␣
+fore excluded from further analysis. Cronbach’s 
+ for
+the remaining seven false-belief tasks was .80. Each
+child was given an aggregate false-belief score, cal-
+culated as the number of points scored divided by
+the  maximum  number  of  points  that  could  have
+been  scored  (excluding  missing  tasks  and  tasks  in
+which the child failed the control). A wide range of
+individual differences was apparent; the mean ag-
+gregate false-belief score was .42, with a standard de-
+viation of .32.
+
+RESULTS
+The  results  are  presented  in  two  sections.  First,  de-
+scriptive  results  for  the  various  measures  used  are
+presented. Second, the relations between these mea-
+sures are explored.
+
+Emotion Understanding
+
+Children’s understanding of emotion was assessed
+using  Denham’s  (1986)  affective  labeling  and  affec-
+tive perspective-taking tasks. One hundred and four
+children  completed  the  affective  labeling  task.  The
+
+False-Belief Tasks
+
+Children  scored  1  point  for  each  false-belief  task
+passed, except for the two explanation tasks, in which
+two points were given for a spontaneous correct ex-
+planation, and 1 point for a prompted correct expla-
+nation. Children who failed control questions (which
+was very rare) were not counted as failing the task in
+
+Table 3 Language Scores
+
+Task
+
+BPVS
+Information
+Sentence length
+Complexity
+
+N
+
+127
+122
+122
+122
+
+Mean
+
+SD
+
+Age Norm
+
+97.4
+17.4
+8.3
+1.0
+
+12.4
+8.4
+2.4
+1.2
+
+100
+16
+8
+1
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cutting and Dunn
+
+859
+
+Table  4 Partial  Correlations  between  False-Belief,  Emotion
+Understanding, and Language Scores (Age Partialed Out)
+
+Aff-PT
+Aff-lab
+BPVS
+Information
+Sentence length
+Complexity
+
+FB
+
+.44**
+.39**
+.33**
+.50**
+.36**
+.35**
+
+Aff-PT
+
+Aff-lab
+
+–
+
+.58**
+.45**
+.47**
+.37**
+.24**
+
+–
+–
+
+.38**
+.39**
+.19*
+.17
+
+of  the  child’s  story),  (2)  sentence  length  (the  mean
+length of the child’s longest ﬁve sentences), and (3)
+complexity (a measure of the grammatical complexity
+of  the  child’s  sentences  in  terms  of  subordinate
+clauses). The information score is the primary index
+of narrative expressive language ability. All four lan-
+guage scores correlated signiﬁcantly with each other,
+all 
+p
+
+ .01.
+
+⬍
+
+s 
+
+⫽
+
+ affective perspective-
+
+Correlations between False-Belief Understanding, 
+Emotion Understanding, and Language
+
+Children’s false-belief understanding, emotion un-
+derstanding,  and  language  abilities  were  clearly  re-
+lated to one another; all three domains were highly
+correlated. Age also correlated with each domain, but
+all  correlations  remained  signiﬁcant  after  age  was
+partialed out (see Table 4). Language was highly cor-
+related  with  both  false-belief  and  emotion  under-
+standing, but even with all four language measures
+and age partialed out, the correlation between false-
+belief understanding and affective perspective-taking
+was signiﬁcant, 
+ 
+r
+
+ .22, 
+
+ .02.
+
+⫽
+
+⬍
+
+p
+
+ 
+
+Correlations between Family Background 
+and Social Cognition
+
+Table 5 shows the correlations between the family
+background variables and children’s false-belief, emo-
+tion understanding, and language scores (only BPVS
+and Bus Story information scores are included here,
+as these are the primary indexes of language ability).
+Note that occupational class is reverse coded so that
+class I (professional) scores highest, and class V (un-
+skilled) scores lowest. Maternal education and occu-
+
+⫽
+
+FB 
+
+Note:
+taking, Aff-lab 
+⬍
+*
+p
+
+ .05; **
+
+⬍
+
+p
+
+ 
+
+ 
+
+⫽
+ .01.
+
+ false-belief aggregate, Aff-PT 
+
+ affective labeling.
+
+⫽
+
+ 
+
+ 
+
+␣
+
+⫽
+
+⫽
+
+⫽
+
+ 
+SD
+
+ 
+SD
+
+ 4.3, 
+
+  3 – 16);  Cronbach’s 
+
+  2.2,
+mean  affective  labeling  score  was  14.1  (
+  .71.  The  affective
+range
+perspective-taking  task  was  completed  by  115  chil-
+dren.  The  mean  affective  perspective-taking  score
+⫽
+was 27.0 (
+0.73.  Denham  combined  the  affective  labeling  and
+affective perspective-taking scores to give an overall
+affective aggregate score. Cronbach’s 
+ for the over-
+all score in this study was .81, but as only 96 of the
+children received both tasks, it was decided to keep
+the two scores separate to avoid loss of data.
+
+ 10–32); Cronbach’s 
+
+ 
+range
+
+␣
+ 
+
+⫽
+
+␣
+
+Language Measures
+
+Children’s mean scores on the two language mea-
+sures (BPVS long form, and the Bus Story) are shown
+in Table 3, along with the standardized norms for chil-
+dren of this age. The BPVS score is a measure of recep-
+tive vocabulary. The Bus Story provides three scores
+reﬂecting  narrative  expressive  language  ability:  (1)
+information (a measure of the content and coherence
+
+Table  5 Correlations  between  Family  Background  Variables,  False-Belief,  Emotion
+Understanding, and Language
+
+FB
+
+Aff-PT
+
+Aff-lab
+
+BPVS
+
+Information
+
+Mother variables
+
+Education
+Occupational class
+
+Father variables
+
+Education
+Occupational class
+
+Other family variables
+
+Family structure
+Languages spoken
+Adults at home
+Siblings at home
+
+.31**
+.37**
+
+.15
+.26**
+
+.11
+.06
+.11
+.02
+
+⫺
+
+⫺
+
+.41**
+.30**
+
+.20
+.30**
+
+⫺
+
+.22**
+.12
+.12
+.07
+
+.38**
+.26**
+
+.31**
+.34**
+
+⫺
+
+.09
+.07
+.08
+.13
+
+.40**
+.23**
+
+.38**
+.45**
+
+.22**
+.08
+.04
+.26**
+
+⫺
+
+⫺
+
+.29**
+.21*
+
+.23*
+.29**
+
+.19*
+.21**
+.10
+.12
+
+⫺
+
+⫺
+
+ false-belief aggregate, Aff-PT 
+
+⫽
+
+ affective perspective-taking, Aff-lab 
+
+⫽
+
+ affec-
+
+⫽
+
+FB 
+
+Note:
+tive labeling.
+*
+ 
+p
+p
+
+ .05; **
+
+⬍
+
+ 
+
+⬍
+
+ .01.
+
+860 Child Development
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+pational class were highly correlated with children’s
+false-belief,  emotion  understanding,  and  language
+abilities. The same was true for paternal occupational
+class, but not for paternal education (this may simply
+reﬂect the fact that education data were missing for a
+quarter of the children’s fathers).
+
+⫽
+
+⫽
+
+or
+
+ occupational class assigned to the mother 
+
+The  relation  between  parental  occupational  class
+and  children’s  social  cognition  was  especially  clear
+when  group  means  were  examined.  Children  from
+middle-class  families  did  signiﬁcantly  better  than
+children  from  working-class  families  in  all  the  do-
+mains that we assessed. This is shown in Table 6. In
+this table, families are classiﬁed according to the 
+high-
+ father
+est
+(middle-class 
+  occupational  classes  I,  II;  working-
+class 
+ occupational classes III–V). This is thus the
+most generous classiﬁcation; if families are classed ac-
+cording to mother’s or father’s occupational class sep-
+arately or are given an average occupational class, the
+difference  between  working-class  and  middle-class
+children is even more pronounced. All the differences
+shown in Table 6 between middle-class and working-
+⬍
+class children are signiﬁcant at 
+ .01 (
+ tests). This is
+ 
+t
+p
+not simply a function of age (the two groups of chil-
+dren do not differ in age distribution) or language—
+the  differences  between  middle-class  and  working-
+class children for false-belief understanding and affec-
+tive  perspective-taking  remain  signiﬁcant, 
+  .05,
+even when language is covaried out.
+
+⬍
+
+p
+
+ 
+
+Having  a  single  parent  was  not  related  to  chil-
+dren’s  false-belief  ability,  but  children  with  single
+parents did perform signiﬁcantly worse on the affec-
+tive perspective-taking and language measures. Bilin-
+gual  children  performed  as  well  as  children  who
+spoke  only  English  on  all  the  tasks  except  the  Bus
+Story, but only 10 children in the sample were bilin-
+gual, so this ﬁnding should be viewed with caution.
+The number of adults living in the home was unrelated
+to children’s social cognition and language skills.
+
+The number of siblings children had did not corre-
+late with their false-belief or emotion understanding
+scores either, a ﬁnding that is at odds with some pre-
+vious  research  ﬁndings.  We  examined  the  effect  of
+younger and older siblings separately, but still found
+
+no  signiﬁcant  correlations  with  false-belief  or  emo-
+tion understanding. For those children with at least
+one sibling between 2 and 12 years of age, we also ex-
+amined whether the mother’s report of the quality of
+the child’s relationship with their nearest sibling was
+associated with the child’s social cognition. The inter-
+view  used  yielded  positivity  and  negativity  factors
+for both the target child and the sibling. None of these
+factors  correlated  signiﬁcantly  with  the  children’s
+false-belief and emotion understanding scores, how-
+ever, although correlations between positivity in the
+sibling relationship and children’s false-belief scores
+did increase for children with more siblings.
+
+Multivariate Analyses
+
+In order to explore further the links between false-
+belief  understanding,  emotion  understanding,  lan-
+guage, and family background, we conducted a series
+of  linear  hierarchical  multiple  regressions.  Initially,
+on  the  basis  of  the  correlational  results,  we  entered
+age, family background (maternal education and oc-
+cupational  class,  and  paternal  occupational  class),
+language  (BPVS  and  Bus  Story  information),  and
+emotion understanding (affective labeling and affec-
+tive perspective-taking) into a multiple regression as
+one  step,  with  false-belief  score  as  the  dependent
+variable. This established that variance in age, family
+background,  language  ability,  and  emotion  under-
+standing together accounted for 48.8% of the variance
+⫽
+in children’s false-belief scores, 
+8.33, 
+ .001. A second regression was conducted for
+p
+affective perspective-taking, including false-belief score
+as  an  independent  variable  and  excluding  affective
+labeling. Affective perspective-taking was used as the
+dependent variable rather than affective labeling,  be-
+cause it is the more stringent measure of emotion un-
+derstanding. Variance in age, family background, lan-
+guage ability, and false-belief understanding together
+accounted for 34.5% of the variance in children’s af-
+⫽
+fective perspective-taking scores, 
+ .001. In further regressions, each variable
+6.70, 
+(or group of variables) was systematically separated
+out in a second step to determine the unique variance
+
+ .345, 
+(7, 96) 
+F
+
+(8, 78) 
+F
+
+ .488, 
+
+⬍
+ 
+
+⫽
+ 
+
+2
+R
+
+2
+R
+
+⫽
+
+⬍
+
+p
+
+ 
+
+ 
+
+Table 6 Mean Scores of Middle-Class and Working-Class Children
+
+Class
+
+⫽
+
+Middle (
+n
+Working (n ⫽ 48)a
+
+ 76)
+
+ 
+
+a
+
+FB
+
+.50
+.31
+
+Aff-PT
+
+Aff-lab
+
+BPVS
+
+Information
+
+28.1
+25.3
+
+14.6
+13.4
+
+101
+91
+
+19
+15
+
+Note: FB ⫽ false-belief aggregate, Aff-PT ⫽ affective perspective-taking, Aff-lab ⫽ affec-
+tive labeling.
+a ns using most generous classiﬁcation scheme (class data missing for four families).
+
+Table 7 Summary of Regression Analyses
+
+False-Belief
+
+Affective 
+
+Perspective-Taking
+
+Cutting and Dunn
+
+861
+
+Independent Variables
+
+⌬R2
+
+F
+
+⌬R2
+
+Age
+Family background
+Language
+Emotion understanding
+False belief
+
+* p ⬍ .05; ** p ⬍ 0.01.
+
+.041
+.123
+.120
+.002
+–
+Total R2 ⫽ .488
+
+5.62*
+5.59**
+8.18**
+.17
+–
+
+F(8, 78) ⫽ 8.33, p ⬍ .01
+
+F
+
+3.89*
+1.87
+4.87**
+
+–
+1.91
+
+.029
+.041
+.072
+–
+.014
+
+Total R2 ⫽ .345
+
+F(7, 96) ⫽ 6.70, p ⬍ .01
+
+that  it  contributed  to  false-belief  understanding
+and to emotion understanding (affective perspective-
+taking).
+
+Table 7 summarizes the results of both sets of re-
+gressions.  Variance  in  language  ability  contributed
+the  most  unique  variance  to  both  false-belief  and
+emotion  understanding.  Age  also  was  a  signiﬁcant
+contributor  to  both  areas.  Variance  in  family  back-
+ground  contributed  uniquely  to  false-belief  ability,
+but its contribution to emotion understanding was al-
+most all overlapping with variance in the other fac-
+tors examined. False-belief and emotion understand-
+ing did not contribute to each other independently of
+the other factors included in the regressions.
+
+Gender Differences
+
+There  were  some  gender  differences  in  our  re-
+sults: girls performed somewhat better than boys on
+the  false-belief  tasks  (M  [girls]  ⫽  .48,  SD  ⫽  .34;  M
+[boys] ⫽ .36, SD ⫽ .30), and the difference was sig-
+niﬁcant, t(125) ⫽ 2.22, p ⬍ .05. Girls also performed
+slightly  better  than  boys  on  both  emotion  under-
+standing tasks, but neither difference was signiﬁcant.
+There  were  no  signiﬁcant  differences  between  girls
+and  boys  in  any  language  score,  in  age,  or  for  any
+family background variable.
+
+The  intertask  correlations  for  girls  and  boys  also
+were very similar, with one interesting exception: the
+relation  between  language  and  false-belief  under-
+standing. For boys, all four language measures corre-
+lated highly with false-belief scores (r ⬎ .40, p ⬍ .01 in
+each case). For girls, however, the picture was differ-
+ent. The Bus Story information and complexity scores
+correlated signiﬁcantly with false-belief scores (infor-
+mation, r ⫽ .44, p ⬍ .01; complexity, r ⫽ .29, p ⬍ .05),
+but  neither  the  BPVS  nor  the  Bus  Story  sentence
+length  scores  did.  In  fact,  the  correlations  between
+false-belief and BPVS scores differed signiﬁcantly be-
+
+tween boys and girls (boys ⬎ girls; z ⫽ 2.04, p ⬍ .05).
+Girls’ BPVS scores did show more variance than did
+boys’, but even when two groups with equal variance
+in BPVS scores were selected, false-belief understand-
+ing did not correlate signiﬁcantly with the BPVS for
+girls, but did so for boys, and these correlations still
+differed signiﬁcantly. This suggests that for boys, all
+aspects  of  language  may  be  related  to  social  cogni-
+tion. For girls, however, it may be that narrative ex-
+pressive abilities are particularly important.
+
+DISCUSSION
+One of the most important aspects of this study is the
+nature of the sample itself. The majority of investiga-
+tions into young children’s social cognition have as-
+sessed children from middle-class families, with rela-
+tively  wealthy  and  well-educated  backgrounds.  In
+this  study,  the  children  came  from  a  wide  range  of
+backgrounds (see Table 1). A large proportion of the
+families  came  from  extremely  deprived  areas  of
+South London, lived in poor housing, and had low in-
+comes.  In  addition  to  the  broad  spectrum  of  family
+backgrounds,  this  study  assessed  a  relatively  large
+number  of  children  (128)  and  made  comprehensive
+assessments of social cognition, using a multimeasure
+approach designed to give an accurate picture of each
+child’s ability.
+
+The results of the study were compelling. First, we
+found that family background has signiﬁcant impli-
+cations for young children’s social cognition. Second,
+our results support previous research demonstrating
+an important role for language in theory of mind de-
+velopment (Happé, 1995; Jenkins & Astington, 1996).
+Third, the ﬁndings in some respects support the sug-
+gestion that social cognition is not a unitary concept,
+and that, in particular, understanding of false-belief
+and understanding of emotion should be viewed as
+related but distinct aspects of social cognition ( Dunn,
+
+862 Child Development
+
+1995; Dunn et al., 1991). We will discuss each of these
+points in turn.
+
+Family Background and Social Cognition
+
+The results of this study show that children’s fam-
+ily background makes a strong contribution to the de-
+velopment of their social cognition, in particular, to
+their understanding of false-belief. This is in addition
+to, and independent of, the contributions of language
+and  age.  We  used  very  general  measures  of  family
+background, however, and the task now is to identify
+exactly  how  family  background  affects  young  chil-
+dren’s understanding of themselves and other people.
+What are the mechanisms by which individual differ-
+ences in factors as basic as parental education and oc-
+cupational class affect young children’s understand-
+ing  of  thoughts  and  feelings?  Is  it  via  the  ways  in
+which parents talk to their children and interact with
+them? Or via the activities they take part in, or facili-
+ties they are able to provide for their children? Do dif-
+ferent  styles  of  parenting  (e.g.,  authoritarian  versus
+authoritative) inﬂuence young children’s social cog-
+nition?  Many  of  these  factors  are  known  to  vary
+across different family backgrounds (for a review see
+Hoff-Ginsberg  &  Tardif,  1995),  but  their  potential
+links to children’s social cognition remain largely un-
+explored (but see Vinden, 1997, for an exception). Of
+course, none of these possibilities is mutually exclu-
+sive, and genetic as well as environmental links may
+underpin  relations  between  parent  and  child  vari-
+ables (Scarr, 1992).
+
+We found no correlation between children’s false-
+belief  understanding  and  the  number  of  siblings
+(older, younger, or both) that they had. This may in
+part reﬂect the diverse nature of the sample involved
+in this study—it is possible that siblings from differ-
+ent family backgrounds interact in qualitatively dif-
+ferent ways (Dunn, Slomkowski, & Beardsall, 1994),
+which may affect theory of mind development. It also
+should be noted that this lack of correlation between
+children’s false-belief understanding and number of
+siblings does not imply that siblings do not inﬂuence
+young  children’s  social  cognition;  indeed,  there  is
+plenty  of  evidence  to  the  contrary  (e.g.,  Azmitia  &
+Hesser, 1993; Brown & Dunn, 1992). We suggest that it
+is the quality or type of sibling interactions and rela-
+tionships that are likely to be important for theory of
+mind  development—not  simply  the  number  of  sib-
+lings that a child has. As a ﬁrst step toward investigat-
+ing this possibility, we interviewed mothers about the
+quality  of  the  target  child’s  relationship  with  their
+nearest sibling, but this did not correlate with the chil-
+dren’s  false-belief  scores.  We  asked  only  about  one
+
+sibling  relationship,  however;  in  larger  families  all
+the sibling relationships may be important. It also is
+possible that it is more speciﬁc aspects of sibling inter-
+actions, rather than global factors, that matter most in
+the development of social cognition.
+
+Language and Social Cognition
+
+Several recent studies have highlighted the impor-
+tance  of  children’s  language  abilities  in  theory  of
+mind development (e.g., Happé 1995; Jenkins & As-
+tington, 1996). Our results strongly support this ﬁnd-
+ing,  because  language  made  a  signiﬁcant  contribu-
+tion to false-belief understanding, independent of age
+and family background. Our results also extend this
+ﬁnding to emotion understanding.
+
+As  Jenkins  and  Astington  (1996)  point  out,  we
+need  to  know  which  aspects  of  language  are  most
+strongly related to the development of social cogni-
+tion.  This  study  provides  some  pointers.  Receptive
+vocabulary (BPVS) and several aspects of expressive
+language (Bus Story) all related to the social cognition
+measures. As such, it may be misleading to look for
+one speciﬁc aspect of language that affects social cog-
+nition more than any other. One potentially interest-
+ing ﬁnding was the difference between girls and boys
+with regard to language and false-belief understand-
+ing. Although all aspects of language related to boys’
+false-belief  understanding,  narrative  ability  seemed
+to be particularly important for girls. This ﬁnding re-
+quires replication before it is interpreted further, but
+we speculate that the involvement of language in the
+development of social cognition may differ for girls
+and boys.
+
+False-Belief and Emotion Understanding
+
+Children’s  false-belief  performance  was  highly
+correlated with their understanding of the emotional
+consequences of events in this study. Correlation does
+not imply cause, however, and the regression analy-
+ses indicated that these two domains of social cogni-
+tion may in fact be somewhat distinct in children of
+this age. Language proved to be a strong contributor
+to both domains, as did age. Family background was
+clearly related to both false-belief and emotion un-
+derstanding, but only contributed uniquely to false-
+belief  understanding.  More  important,  variance  in
+false-belief understanding did not contribute inde-
+pendently to variance in emotion understanding or
+vice versa.
+
+There are several ways in which these ﬁndings can
+be interpreted. False-belief understanding and emo-
+tion  understanding  may  follow  different  develop-
+
+mental courses; family background, as we measured
+it,  may  be  important  for  some  aspects  of  children’s
+emotion  understanding,  but  at  an  earlier,  or  later,
+phase  than  we  assessed. Alternatively,  family  back-
+ground may be important for both domains of social
+cognition, but its inﬂuence on emotion understand-
+ing may be almost entirely overlapping with the in-
+ﬂuence of other factors such as language. A third pos-
+sibility is that children’s family background may be
+important  for  both  false-belief  and  emotion  under-
+standing, but in different ways; whereas factors such
+as  parental  education  and  occupational  class  affect
+children’s understanding of false-belief, more proxi-
+mal processes, such as family interactions and dis-
+course  about  feelings,  may  be  important  for  chil-
+dren’s  understanding  of  the  causes  of  particular
+emotional experiences (Brown & Dunn, 1996; Dunn
+et al., 1991). Whichever interpretation is most accu-
+rate,  our  results  add  weight  to  the  suggestion  that
+false-belief and emotion understanding are distinct
+aspects of social cognition, especially when taken in
+conjunction  with  ﬁndings  suggesting  that  the  two
+domains  have  differential  precursors  and  sequelae
+(Dunn, 1995; Dunn et al., 1991).
+
+In summary, the results reported in this article em-
+phasize  the  importance  of  individual  differences
+when  considering  the  development  of  young  chil-
+dren’s social cognition. In particular, they raise the
+issue of individual differences in family background
+and the importance of considering these differences
+when examining children’s theory of mind. A second
+issue that arises from our results is the nature of the
+relation that exists between children’s understanding
+of  false-belief  and  their  understanding  of  emotion.
+Our ﬁndings suggest that these domains are to some
+extent distinct from each other, at least at the age of 4,
+and that the correlation that exists between them is a
+result of the inﬂuence of other factors such as age,
+language, and family background. The picture is still
+far from clear, however, and there is a need for fur-
+ther  investigation  into  different  aspects  of  young
+children’s social cognition; we suggest that longitu-
+dinal studies of individual differences may be espe-
+cially helpful. Finally, a word of caution. Generaliza-
+tions about young children’s social cognition often
+are  made  based  on  samples  of  children  with  rela-
+tively  homogenous  backgrounds;  our  results  indi-
+cate  that  clear  differences  exist  between  children
+from  different  backgrounds,  and  we  would  there-
+fore caution against such generalizations. It is com-
+mon now to partial out both age and language abil-
+ity  when  investigating  theory  of  mind  ability—at
+the  very  least,  perhaps  a  measure  of  family  back-
+ground should be included in this list.
+
+Cutting and Dunn
+
+863
+
+ACKNOWLEDGMENTS
+This study was supported by a grant to Judy Dunn
+from the National Institute of Child Health and Hu-
+man Development (grant 5R01HD23158). We would
+like to thank all the families and schools who partici-
+pated in the study, and the researchers and staff in-
+volved in the Friendship Project. We would also like
+to  thank  Francesca  Happé  and  Claire  Hughes  for
+helpful comments on an earlier draft of this article.
+
+ADDRESSES AND AFFILIATIONS
+Corresponding  author: Alexandra  L.  Cutting,  Insti-
+tute  of  Psychiatry,  King’s  College  London,  Social,
+Genetic,  and  Developmental  Psychiatry  Research
+Centre, 111 Denmark Hill, London SE5 8AF, UK; e-mail:
+a.cutting@iop.kcl. ac.uk. Judy Dunn is also at the In-
+stitute of Psychiatry.
+
+REFERENCES
+
+Astington, J. W. (1993). The child’s discovery of the mind. Cam-
+
+bridge, MA: Harvard University Press.
+
+Azmitia, M., & Hesser, J. (1993). Why siblings are important
+agents of cognitive development: A comparison of sib-
+lings and peers. Child Development, 64, 430–444.
+
+Baron-Cohen, S. (1988). Social and pragmatic deﬁcits in au-
+tism: Cognitive or affective? Journal of Autism and Devel-
+opmental Disorders, 18, 379–401.
+
+Baron-Cohen,  S.  (1991).  Do  people  with  autism  under-
+stand what causes emotion? Child Development, 62, 385–
+395.
+
+Bartsch, K., & Estes, D. (1996). Individual differences in chil-
+dren’s developing theory of mind and implications for
+metacognition.  Learning  and  Individual  Differences,  8(4),
+281–304.
+
+Bartsch, K., & Wellman, H. (1989). Young children’s attribu-
+tion of action to beliefs and desires. Child Development,
+60, 946–964.
+
+Brown, J. R., & Dunn, J. (1992). Talk with your mother or your
+sibling? Developmental changes in early family conversa-
+tions about feelings. Child Development, 63, 336–349.
+
+Brown, J. R., & Dunn, J. (1996). Continuities in emotion under-
+standing from 3 to 6 years. Child Development, 67, 789–802.
+Cummings,  E.  M.,  Hollenbeck,  B.,  Ianotti,  R.,  Radke-
+Yarrow,  M., & Zahn-Waxler, C. (1986). Early organiza-
+tion of altruism and aggression: Developmental patterns
+and individual differences. In C. Zahn-Waxler, E. M. Cum-
+mings, & R. Ianotti (Eds.), Altruism and aggression (pp. 165–
+188). Cambridge, UK: Cambridge University Press.
+
+Denham, S. A. (1986). Social cognition, prosocial behavior,
+and  emotion  in  preschoolers:  Contextual  validation.
+Child Development, 57, 194–201.
+
+de Villiers, J. G. (1995, April). Steps in the mastery of sentence
+complements. Paper presented at the biennial meeting of
+
+864 Child Development
+
+the  Society  for  Research  in  Child  Development,  Indi-
+anapolis, IN.
+
+Dunn, J. (1995). Children as psychologists: The later corre-
+lates of individual differences in understanding of emo-
+tions and other minds. Cognition and Emotion, 9, 187–201.
+Dunn, J., Bretherton, I., & Munn, P. (1987). Conversations
+about  feeling  states  between  mothers  and  their  young
+children. Developmental Psychology, 23(1), 132–139.
+
+Dunn, J., & Brown. J. R. (1994). Affect expression in the fam-
+ily, children’s understanding of emotions, and their in-
+teractions with others. Merrill-Palmer Quarterly, 40(1), 120–
+137.
+
+Dunn, J., Brown, J., Slomkowski, C., Tesla, C., & Young-
+blade  L.  (1991).  Young  children’s  understanding  of
+other  people’s  feelings  and  beliefs:  Individual  differ-
+ences and their antecedents. Child Development, 62, 1352–
+1366.
+
+Dunn, J., Slomkowski, C., & Beardsall, L. (1994). Sibling re-
+lationships  from  the  preschool  period  through  middle
+childhood and early adolescence. Developmental Psychol-
+ogy, 30, 315–324.
+
+Dunn,  L.  M.,  Dunn,  L.  M.,  Whetton,  C.,  &  Pintilie,  D.
+(1982).  British  Picture  Vocabulary  Scale.  Windsor,  UK:
+NFER-Nelson.
+
+Eisenmajer, R., & Prior, M. (1991). Cognitive linguistic cor-
+relates  of  “theory  of  mind”  ability  in  autistic  children.
+British Journal of Developmental Psychology, 9, 351–364.
+
+Feldman,  C.  F.  (1988).  Early  forms  of  thought  about
+thoughts: Some simple linguistic expressions of mental
+state.  In  J.  W.  Astington,  P.  L.  Harris,  &  D.  R.  Olson
+(Eds.),  Developing  theories  of  mind  (pp.  126–137).  New
+York: Cambridge University Press.
+
+Freeman,  N.  H.,  Lewis,  C.,  &  Doherty,  M.  J.  (1991).  Pre-
+schoolers’ grasp of a desire for knowledge in false-belief
+prediction: Practical intelligence and verbal report. Brit-
+ish Journal of Developmental Psychology, 9, 139–157.
+
+Garner,  P.  W.,  Jones,  D.  C.,  Gaddy,  G.,  &  Rennie,  K.  M.
+(1997). Low-income mothers’ conversations about emo-
+tions and their children’s emotional competence. Social
+Development, 6, 37–52.
+
+Hadwin, J., & Perner, J. (1991). Pleased and surprised: Chil-
+dren’s cognitive theory of emotion. British Journal of De-
+velopmental Psychology, 9, 215–234.
+
+Happé, F. G. E. (1995). The role of age and verbal ability in
+the theory of mind task performance of subjects with au-
+tism. Child Development, 66, 843–855.
+
+Harris, P. L. (1994). The child’s understanding of emotion:
+Developmental  change  and  the  family  environment.
+Journal of Child Psychology and Psychiatry, 35(1), 3–28.
+
+Harris,  P.  L.,  Johnson,  C.,  Hutton,  D.,  Andrews,  G.,  &
+Cooke, T. (1989). Young children’s theory of mind and
+emotion. Cognition and Emotion, 3, 379–400.
+
+Hart, B., & Risley, T. R. (1995). Meaningful differences in the ev-
+eryday  experience  of  young  American  children.  Baltimore:
+Brookes.
+
+Hoff-Ginsberg, E., & Tardif, T. (1995). Socioeconomic status
+and  parenting.  In  M.  H.  Bornstein  (Ed.),  Handbook  of
+parenting: Vol. 2. Biology and ecology of parenting. Mahwah,
+NJ: Erlbaum.
+
+Holmes, H. A., Black, C., & Miller, S. A. (1996). A cross-task
+comparison of false belief understanding in a Head-Start
+population. Journal of Experimental Child Psychology, 63(2)
+263–285.
+
+Hresko, W. P., Reid, D. K., & Hammill, D. D. (1981). The Test of
+
+Early Language Development (TELD). Austin, TX: Pro-Ed.
+
+Hughes,  C.,  &  Dunn,  J.  (1998).  Understanding  mind  and
+emotion:  Longitudinal  associations  with  mental-state
+talk between young friends. Developmental Psychology,
+34(5), 1026–1037.
+
+Hughes, C., Dunn, J., & White, A. (1988). Trick or Treat? Un-
+even understanding of mind and emotion and executive
+dysfunction  in  “hard-to-manage”  preschoolers.  Journal
+of Child Psychology and Psychiatry, 39, 981–994.
+
+Jenkins, J. M., & Astington, J. W. (1996). Cognitive factors
+and family structure associated with theory of mind de-
+velopment in young children. Developmental Psychology,
+32(1), 70–78.
+
+Lewis,  C.,  Freeman,  N.  H.,  Hagestadt,  C.,  &  Douglas,  H.
+(1994). Narrative access and production in preschoolers’
+false belief reasoning. Cognitive Development, 9(4), 397–
+424.
+
+Lewis, C., Freeman, N. H., Kyriakidou, C., Maridaki-Kasso-
+taki, K., & Berridge, D. M. (1996). Social inﬂuences on
+false-belief access: Speciﬁc sibling inﬂuences or general
+apprenticeship? Child Development, 67, 2930–2947.
+
+Lewis, C., & Osborne, A. (1990). Three-year-olds’ problems
+with false belief: Conceptual deﬁcit or linguistic artifact?
+Child Development, 61, 1514–1519.
+
+Mitchell, P. (1997). Acquiring a conception of mind: A review of
+psychological  research  and  theory.  Hove,  UK:  Psychology
+Press.
+
+Moore, C., Pure, K., & Furrow, D. (1990). Children’s under-
+standing  of  the  modal  expression  of  speaker  certainty
+and uncertainty and its relation to the development of a
+representational theory of mind. Child Development, 61,
+722–730.
+
+Moses, L. J., & Flavell, J. H. (1990). Inferring false beliefs from
+
+actions and reactions. Child Development, 61, 929–945.
+
+Murphy, L. B. (1937). Social behavior and child personality: A
+exploratory  study  of  some  roots  of  sympathy.  New  York:
+Columbia University Press.
+
+Ofﬁce of Population Censuses and Surveys. (1991). Standard
+
+Occupational Classiﬁcation. London: HMSO.
+
+Olson, D. R. (1988). On the origins of belief and other inten-
+tional states in children. In J. W. Astington, P. L. Harris, &
+D. R. Olson (Eds.), Developing theories of mind (pp. 414–
+426). New York: Cambridge University Press.
+
+Perner, J., Ruffman, T., & Leekam, S. R. (1994). Theory of
+mind is contagious: You catch it from your sibs. Child De-
+velopment, 65, 1228–1238.
+
+Renfrew, C. E. (1991). The Bus Story: A test of narrative speech.
+
+Oxford, UK: Winslow Press.
+
+Roazzi, A., & Bryant, P. (1997). Explicitness and Conserva-
+tion: Social class differences. International Journal of Be-
+havioral Development, 21(1), 52–70.
+
+Saarni,  C.,  &  Harris,  P.  L.  (Eds.).  (1991).  Children’s  under-
+standing of emotion. Cambridge, UK: Cambridge Univer-
+sity Press.
+
+Cutting and Dunn
+
+865
+
+Scarr, S. (1992). Developmental theories for the 1990s: De-
+velopment  and  individual  differences.  Child  Develop-
+ment, 63, 1–19.
+
+Stocker, C., Dunn, J., & Plomin, R. (1989). Sibling relation-
+ships: Links with child temperament, maternal behav-
+ior,  and  family  structure.  Child  Development,  60,  715–
+727.
+
+Sullivan,  K.,  &  Winner,  E.  (1993).  Three-year-olds’  under-
+standing of false mental states: The inﬂuence of trickery.
+Journal of Experimental Child Psychology, 56, 135–148.
+
+Vinden,  P.  G.  (1997, April).  Parenting  and  theory  of  mind.
+Paper presented at the biennial meeting of the Society
+for Research in Child Development, Washington, DC.
+
+Wahi, S., & Johri, R. (1994). Questioning a universal theory
+
+of mind: Mental-real distinctions made by Indian chil-
+dren. Journal of Genetic Psychology, 155, 503–510.
+
+Welch-Ross, M. K. (1997). Mother-child participation in con-
+versation about the past: Relationships to preschoolers’
+theory of mind. Developmental Psychology, 33(4), 618–629.
+Wellman, H. M., & Banerjee, M. (1991). Mind and emotion:
+Children’s  understanding  of  the  emotional  conse-
+quences of beliefs and desires. British Journal of Develop-
+mental Psychology, 9, 191–214.
+
+Youngblade,  L.  M.,  &  Dunn,  J.  (1995).  Individual  differ-
+ences  in  young  children’s  pretend  play  with  mother
+and sibling: Links to relationships and understanding
+of  other  people’s  feelings  and  beliefs.  Child  Develop-
+ment, 66, 1472–1492.
+
+

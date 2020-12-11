@@ -1,0 +1,2325 @@
+Journal of Family  Psychology
+2001,  Vol.  15, No. 2, 315-333
+
+Copyright  2001 by the American  Psychological  Association, Inc.
+DOI:  10.1037//0893-3200.15.2.315
+
+0893-3200/01/S5.00 
+
+Interparental  Conflict,  Children's  Social  Cognitions, and
+
+Child  Aggression: A Test of a Mediational  Model
+
+Nicole  Eldridge  Marcus, Kristin M. Lindahl, and Neena M. Malik
+
+University  of  Miami
+
+Although  correlations  between  interparental  conflict  and child  maladjustment  are
+well-established, the processes connecting these 2 phenomena  are less  understood.
+The  present  study  tested  whether  an aggressogenic  cognitive  style  mediates the
+relationship  between  interparental  conflict  and  child  aggression.  A  multiethnic
+sample of 115 families with a child between the ages of 7 and 13 years participated.
+Questionnaires  were used to assess parents'  and children's  perceptions of interpa-
+rental  conflict,  children's  social  problem-solving  strategies  and beliefs  about ag-
+gression, and parent and teacher reports of child aggression. Support was found for
+the  mediating  effect  of aggressogenic  cognitions  on children's  school  aggression
+but  not  on  children's  aggression  at  home.  Implications  for  understanding  the
+associations  among  interparental  conflict,  children's  social  cognitions,  and child
+aggression  in different  environmental  contexts  are discussed.
+
+Aggression  is one of the most disruptive  and
+pervasive  behavioral  problems  for  children
+(Waldman,  1996).  Unlike  other  behaviors  that
+remit  over  the  course  of  development,  aggres-
+sive behavior typically persists across situations
+
+Nicole  Eldridge  Marcus,  Kristin  M. Lindahl, and
+Neena M. Malik, Department of Psychology, Univer-
+sity of Miami.
+
+This article is based on a master's thesis by Nicole
+Eldridge Marcus, completed  under the supervision of
+Kristin  M. Lindahl and Neena  M. Malik. Portions of
+these  data  were  presented  at  the  November  1999
+Association  for Advancement  of  Behavior  Therapy
+Annual Convention in Toronto, Canada. The research
+was supported by National Institute of Mental Health
+Grant R03MH54631.
+
+We are sincerely grateful  to committee members J.
+Douglas  Coatsworth  and  Craig  Mason  for  their
+thoughtful  input regarding the study; Kelly L. Heiges
+and Sean J. K. Spiegel for their many contributions to
+this  research  project;  the undergraduate  research as-
+sistants  for their  involvement  in data  collection and
+entry;  and all of the children,  parents,  and teachers
+who graciously  participated.
+
+Correspondence  concerning  this  article  should be
+addressed to Nicole Eldridge Marcus, Department of
+Psychology,  Psychology  Annex,  Post  Office  Box
+249229,  University  of Miami, Coral  Gables,  Florida
+33124-0721.  Electronic  mail  may  be  sent  to
+neldridge@umiami.ir.miami.edu.
+
+and  relationships  (Coie  &  Kupersmidt,  1983),
+and aggression  at a young age is the single best
+predictor  of  later  aggression  and  delinquency
+(Farrington,  1991; Huesmann, Eron,  Lefkowitz,
+&  Walder,  1984).  Although  children  raised  in
+threatening or violent neighborhoods may come
+to  view  aggressive  behavior  as  an  appropriate
+means  of  assuring  self-protection  and  adapting
+to a hostile environment (Coie & Dodge, 1998),
+aggressive  behavior  nonetheless  predicts  nu-
+merous  adult  problems,  including  crime,  alco-
+holism,  drug  abuse,  unemployment,  divorce,
+and mental illness (Farrington,  1995; Haapasalo
+& Tremblay,  1994; McCord  & McCord,  1960;
+Robins,  1966).
+
+A  significant  body  of  literature  exists  inves-
+tigating the factors  that may influence  the onset
+and developmental  course of aggressive behav-
+ior.  One  familial  variable  that  has  become
+widely  recognized  within  the  past  two  decades
+to have a deleterious impact on child  adjustment
+in  general  and  specifically  on  externalizing  be-
+havior  is  marital  (or  interparental)  conflict
+(Cummings  &  Davies,  1994;  Davies  &  Cum-
+mings,  1994;  Emery,  1982;  Fincham,  1994;
+Grych  &  Fincham,  1990;  Lindahl,  1998;  Lin-
+dahl  & Malik,  1999). In particular,  exposure  to
+overt  parental  conflict  appears  to  be  the  aspect
+of  marital  functioning  most  closely  associated
+
+315
+
+316
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+with externalizing  behaviors  such as aggression
+(Jenkins  & Smith,  1991).
+
+Although  few  would  dispute that an  associa-
+tion  between  interparental  conflict  and  chil-
+dren's  externalizing  behavior  exists,  less  well
+studied  are  the  pathways  connecting  these  two
+phenomena.  To  date,  only  a  few  models  have
+been  proposed,  and  these  have  varied  widely,
+ranging  from  direct  effects  of  interadult  anger
+(Cummings,  1987) to indirect  effects  by  means
+of parental disturbance  (Fauber & Long,  1991),
+ineffective  family  functioning  patterns  (Lin-
+dahl,  1998;  Lindahl  &  Malik,  1999),  or  chil-
+dren's  appraisals  of  parental  conflict  (Grych  &
+Fincham,  1990,  1993).  A  factor  that  has  been
+left  largely unexplored and that was targeted as
+the primary focus of the present study is the role
+that  children's  social  cognitions  might  play  in
+the  association  between  marital  conflict  and
+child  aggression.
+
+Social  learning  theory  predicts  that  children
+who  witness 
+their  parents'  nonconstructive
+means  of  resolving  interpersonal  conflict  have
+frequent  opportunities  to  observe,  acquire,  and
+generate ineffective  methods for resolving  their
+own  interpersonal  problems  (Bandura,  1973).
+To  be  specific,  children  exposed  to  frequent,
+intense, and unresolved  marital  conflict  may be
+at  risk  for  the  development  of  poor  social
+problem-solving  skills  and  distorted  beliefs
+about  the  legitimacy  and  normality  of  aggres-
+sion  (both  verbal  and  physical)  because  of  the
+conflict  that they observe between their parents.
+Indeed, marital violence research provides some
+support  for  a link  between  children's  exposure
+to destructive forms of interparental conflict and
+distorted  social  cognitive  patterns.  Children
+who  witness  marital  violence  have  been  found
+to  exhibit  deficits  in  social  problem-solving
+skills  (Groisser,  1986;  Rosenberg,  1987),  poor
+interpersonal 
+1986;
+Rosenberg,  1987),  and  distorted  attitudes  to-
+ward  violence  (Jaffe,  Wilson,  &  Wolfe,  1986;
+Straus,  Gelles,  &  Steinmetz,  1980).  In  social
+problem-solving  tasks, child  witnesses to inter-
+parental  violence  propose  few  constructive
+strategies  (e.g.,  direct  discussion,  assertive  ac-
+tion,  and  mutual  compromise)  and  more  non-
+constructive  strategies  (e.g.,  verbal  or  physical
+aggression;  Groisser,  1986). Children  who wit-
+ness extensive marital violence also exhibit dis-
+torted  beliefs  about  aggression,  such  as the be-
+
+sensitivity 
+
+(Groisser, 
+
+lief  that  it  is  appropriate  for  a  man  to  strike  a
+woman if the house is messy (Jaffe  et al., 1986).
+Study of the relation between marital  conflict
+and  children's  social  cognitions  has  been  lim-
+ited largely, however, to child residents of shel-
+ters  for  battered  women  (e.g.,  Groisser,  1986;
+Jaffe  et  al.,  1986; Rosenberg,  1987). This  nar-
+row  emphasis  on  clinically  violent  families  is
+surprising,  given  the  evidence  that  children's
+exposure  to less  severe degrees  of  marital  con-
+flict  than  physical  violence  lowers  thresholds
+for  emotional  regulation  and  stimulates  angry
+cognitions and feelings  of hostility (Cummings,
+1987;  Cummings,  Iannotti,  &  Zahn-Waxier,
+1985;  Cummings,  Zahn-Waxier,  &  Radke-
+Yarrow,  1984).  Such  feelings  of  hostility  and
+difficulty  with  self-regulation  could  compro-
+mise  children's  social  problem-solving  strate-
+gies  and  beliefs  about  aggression,  independent
+of  whether  severe  violence  is  observed  or  not.
+Indeed, in one of the first studies to examine the
+link  between  marital  conflict  and  social  cogni-
+tions  in  a  community  sample,  Goodman,  Bar-
+foot,  Frye, and Belli  (1999)  found  marital  con-
+flict to be negatively  associated  with  children's
+social  problem-solving  skills.  Although  chil-
+dren's  perceptions  of  marital  conflict  were  not
+significant  predictors  of  their  social  problem-
+solving  strategies,  mothers'  reports  of  conflict
+escalation  were  significantly,  albeit  modestly,
+associated  with  children's  less  effective  social
+problem-solving  solutions.  Because  no  data
+were obtained on child adjustment,  Goodman et
+al.  (1999)  were  unable  to  test  whether  social
+problem-solving  skills  might  mediate  the asso-
+ciation  between  marital  conflict  and  children's
+development of behavioral problems. However,
+the study expanded  on previous findings within
+clinical  populations  and  provided  valuable  ini-
+tial  evidence  for  a  link  between  children's  ex-
+posure  to  nonviolent  marital  conflict  and  chil-
+dren's  maladaptive  social  cognitions.
+
+Numerous  studies in the child aggression  lit-
+erature have, in turn, found  a link between  cer-
+tain  types  of  social  cognitions  and  aggressive
+behavior,  such that children  who display  social
+problem-solving  deficits  and  distorted  beliefs
+about the legitimacy  of  aggression  are likely  to
+behave aggressively (Guerra, Huesmann, Tolan,
+Van  Acker,  &  Eron,  1995;  Huesmann  &
+Guerra,  1997; Lochman  & Dodge,  1994; Loch-
+man  &  Lampron,  1986;  Quiggle,  Garber,
+Panak,  &  Dodge,  1992;  Rabiner,  Lenhart,  &
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+317
+
+Lochman,  1990;  Slaby  &  Guerra,  1988).  For
+example, aggressive  children  tend  to access so-
+cial  problem-solving  responses  that  are  more
+aggressive and less prosocial than the responses
+of  nonaggressive  children  (Asarnow  &  Callan,
+1985;  Deluty,  1981; Pettit,  Dodge,  &  Brown,
+1988;  Quiggle  et  al.,  1992; Richard  & Dodge,
+1982). In  addition,  aggressive  children  and  ad-
+olescents  tend  to  endorse  several  distorted  be-
+liefs,  including  beliefs  that  aggression  is  a  le-
+gitimate response to provocation, increases self-
+esteem,  helps  to  avoid  a  negative  self-image,
+and  does  not  produce  suffering 
+(Slaby  &
+Guerra,  1988).
+
+The  primary  objectives  of  the  present  study
+were  to  (a)  integrate  the  separate  literatures
+linking 
+interparental  violence-conflict  with
+children's  social  cognitions  and  children's  so-
+cial  cognitions  with  child  aggression  and  (b)
+examine  whether  children's  social  cognitions
+mediate  the  relationship  between  marital  con-
+flict and child aggression. Four hypotheses were
+tested  in  the  present  study.  First,  we  hypothe-
+sized that parent and child reports of overt phys-
+ical  and  verbal  interparental  conflict  would  be
+positively  associated  with  children's  overt
+physical  and  verbal  aggressive  behavior,  as
+rated  by  parents  and  teachers.  Overt  child  ag-
+gression  was  defined  as  aggression  that  harms
+others  through  harm  (or  threat  of  harm)  to  an-
+other's  physical  or  psychological  well-being
+and  included  behaviors  such  as bullying, phys-
+ically  attacking, threatening,  and teasing  others
+(Crick,  Casas,  &  Mosher,  1997;  McNeilly-
+Choque,  Hart,  Robinson,  Nelson,  &  Olsen,
+1996).
+
+Second,  we  hypothesized  that  children's  ex-
+posure to overt physical and verbal  interparental
+conflict  would  be  associated  with  an  aggresso-
+genic  cognitive  style,  defined  for  the  purposes
+of  the  present  study  as  a pattern  of  social  cog-
+nitions  related  to  aggressive  behavior  and  in-
+tent. To be specific,  an aggressogenic  cognitive
+style  was  operationalized  to  include  two  pri-
+mary  components:  (a)  endorsement  of  physi-
+cally  and verbally  aggressive  strategies to solve
+interpersonal  problems  and  (b)  acceptance  of
+the 
+legitimacy  of  verbal  and  physical
+aggression.
+
+Third,  we  predicted  that  an  aggressogenic
+cognitive  style  in  children  would  be  positively
+associated  with  children's  overt  physical  and
+
+verbal  aggressive  behavior,  as rated  by  parents
+and  teachers.
+
+Finally,  we  hypothesized  that  an  aggresso-
+genic cognitive  style in children would  mediate
+the  relation  between  overt  marital  conflict  and
+children's  overt  aggressive  behavior.  We  pre-
+dicted  that  an  aggressogenic  cognitive  style
+would  serve  as  a  mechanism  through  which
+interparental  conflict  was  related  to  child  ag-
+gression.  The  aggressogenic  framework  pro-
+posed  in  the  present  study  is  consistent  with
+recent research that has supported the mediating
+role of maladaptive social-cognitive  patterns in
+the  relation  between  other  family  functioning
+variables,  such  as  early  harsh  discipline,  and
+child  aggression 
+(Dodge,  Pettit,  Bates,  &
+Valente,  1995; Pettit,  Harrist,  Bates, & Dodge,
+1991; Weiss, Dodge, Bates, & Pettit,  1992).
+
+Child  aggression,  as  opposed  to  child  delin-
+quency  or  the  broader  category  of  children's
+externalizing  behaviors,  was  specified  as  the
+outcome  variable  in  the  present  study  for  two
+primary  reasons.  First,  the  aggressogenic  cog-
+nitions  proposed  as  a mediating  mechanism  in
+the present  study  (i.e., children's  normative be-
+liefs  about  aggression  and  propensity  toward
+aggressive  social  problem-solving  solutions)
+have consistently  been  studied  in relation  to an
+individual's  tendency  to  behave  aggressively,
+rather than in relation to a broader  externalizing
+behavior  pattern  (e.g.,  Deluty,  1981,  1983,
+1985;  Forman,  1980;  Guerra  &  Slaby,  1990;
+Huesmann & Guerra,  1997; Huesmann, Guerra,
+Miller, & Zelli,  1992). Of those few studies that
+have  examined  social  information-processing
+patterns  across  different  childhood  problems,
+social problem-solving deficits have been  found
+to be more characteristic of  aggressive  children
+than  children  with  other  types  of  externalizing
+problems  (e.g.,  socialized  conduct  disorder,  at-
+tention  deficit  disorder;  e.g.,  Dodge, Price, Ba-
+chorowski,  &  Newman,  1990;  McClaskey,
+1988; Milich  &  Dodge,  1984),  suggesting  that
+models  incorporating  aggressogenic  cognitions
+(such  as the one presented  in the current  study)
+should focus  on the demonstrated  link  between
+aggressogenic  cognitions  and  aggressive
+behavior.
+
+Second,  with  few  exceptions  (see  Hart,  Nel-
+son,  Robinson,  Olsen,  &  McNeilly-Choque,
+1998), research on the association between mar-
+ital  conflict  and  child  adjustment  has  typically
+examined  global  categories  of  child  maladjust-
+
+318
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+ment  (e.g.,  externalizing,  internalizing,  psychi-
+atric  disorders)  as opposed  to  specific  behavior
+problems  such  as  aggression.  As  a  result,  as
+noted  by  Fincham  (1994),  very  little  is  under-
+stood  about  how  specific  aspects  of  parental
+conflict  are  related  to  specific  aspects  of  chil-
+dren's  adjustment.  The present  study  addressed
+this  shortcoming  by  focusing  not  only  on  a
+specific  type of interparental conflict  (overt con-
+flict), but also on a specific  type of externalizing
+behavior (overt physical and verbal aggression).
+
+Method
+
+Participants
+
+Participants  in this investigation  were drawn  from
+a larger study of family  interaction patterns within an
+urban  and  ethnically  diverse  metropolitan  area.  To
+recruit  a  multiethnic  sample  of  families,  flyers  were
+sent  home  in  English  and  Spanish  to  parents  of
+second- through  sixth-grade children in over 40 local
+public  schools. This recruitment  strategy  was chosen
+because  students  attending  public  schools  comprise
+nearly  90%  of  the  school-aged  children  residing  in
+Miami-Dade  County  (Office  of Educational  Evalua-
+tion  and  Management  Analysis,  1999).  The  flyers
+briefly  described  a study  of  family  relationships  and
+communication  patterns  and  stated  that couples  who
+had lived together for at least 2 years and who had an
+8-  to  12-year-old  child  were  eligible  to  participate.
+The flyers indicated  that  families  would  receive  $70
+as  compensation  for  their  participation  and  would
+also  be eligible  for  free  parent  counseling  sessions.
+All  parents  who  telephoned  to  express  interest  in
+the family  study  were then  screened during an initial
+phone  call  to  ensure  an  adequate  level  of  English
+reading ability (sixth-grade level minimum) and two-
+parent household  status before  inclusion in the study.
+Of  the  approximately  333  families  who  initially
+called  to  express  interest  in  the  study,  275  families
+(87%)  provided  adequate  information  to  determine
+eligibility  for  the  study.  Sixty-seven  percent  of  the
+families  who  provided  enough  information  met  in-
+clusion  criteria  for  the  study  (n  =  184), and  64% of
+these families  actually  participated  in the study  (n =
+118).
+
+Data  were  collected  from  118  second-  through
+sixth-grade children and their parents. After  adjusting
+for  families  with  missing  data,  the  listwise  deletion
+sample of families  with no missing data consisted of
+115  children  (51  boys,  64  girls)  and  their  parents.
+Children ranged  in age from  7 to  13 years (M =  9.85
+years,  SD  =  1.45  years).  It  was  the  intention  of  the
+study  to  recruit  children  ages  8-12  years,  and,  in-
+deed,  97% of children  fell  in this targeted  age range.
+However,  the  sample  did  include  three  7-year-olds
+and  one  13-year-old.  The  racial-ethnic  composition
+
+of children  in the present  sample  was 57% (n  =  66)
+with  at  least  one  Hispanic  (Cuban  American  and
+Latin  American)  parent,  21% (n  =  24)  with  at  least
+one  Black  (African  American  and  Caribbean  Amer-
+ican)  parent,  20%  (n  =  23)  with  two  Anglo-
+American  parents, and 4%  in  =  5) with  at least  one
+Asian  parent.  The  ethnic  breakdown  of  the  sample
+was generally  similar to that of  the community  from
+which it was drawn, though  Black children  (estimat-
+ed  to  make  up  33%  of  the  Miami-Dade  County
+Public  School  population)  were  underrepresented
+slightly  (Office  of  Educational  Evaluation  and  Man-
+agement  Analysis,  1999).
+
+Ninety  percent of the mothers had completed  high
+school,  and  32%  had  completed  college.  Mothers'
+mean  age  was  38  years  (SD  =  6.33  years).  The
+corresponding  figures  for  fathers  were  comparable:
+90%  of  the  fathers  had  completed  high  school,  and
+29% had completed college. The mean age for  fathers
+was  41  years  (SD  =  7.85  years).  One  hundred  and
+four  couples  were  married,  and  the  remaining  11
+couples had been  living  together for  at least 2 years.
+The average marriage length for married couples was
+12 years (SD =  5.48 years), and the average relation-
+ship length of nonmarried couples was 7 years (SD  =
+5.57  years).  Of  the  115  participating  families,  90
+couples  (77%)  reported  that  both  adults  were  the
+biological  or  adopted  parents  of  the  participating
+child; 27 couples (23%) reported that only the mother
+was  the  biological  parent  of  the participating  child.
+The  median  annual  family  income  was  $47,940,
+which  is  above  the  median  household  income  in
+Miami-Dade County of $34,155 (Conway Data, Inc.,
+2000). Despite the middle-class nature of the sample,
+many  children  reported  being  exposed  to  problems
+commonly  associated  with  living  in  an  urban  area.
+For  example,  53%  (n  =  61)  reported  having  seen
+somebody  arrested,  23%  (n  =  26)  reported  having
+seen drug deals, and 7% (n =  8) reported having seen
+somebody  get  shot.
+
+Procedure
+
+Families came to a laboratory  setting for  a session
+that  lasted  approximately  3 hr.  Parents  were  placed
+individually  in  separate  rooms  and  completed  ques-
+tionnaires  about  family  demographics,  marital  func-
+tioning,  and  child  behavior  as  well  as  measures  of
+family  functioning  relevant  to  the  larger  project.
+Children  completed  a  packet  of  questionnaires  in  a
+separate  room  with  the  assistance  of  a  trained  grad-
+uate  or  undergraduate  student.  All  questions  were
+read  aloud  to  the  child  in  order  to  minimize  differ-
+ences in children's  reading abilities. If it was unclear
+whether  the  child  understood  the  question,  it  was
+reworded  until  the child  clearly  understood.
+
+Parental  consent  was  obtained  to  send  question-
+naires  to  the  participating  child's  primary  teacher.
+Teachers  were  then  mailed  a  packet  of  question-
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+319
+
+naires, a copy of the parent's  consent  form,  and a $5
+honorarium 
+the
+questionnaires.
+
+for  completing  and  returning 
+
+Measures
+
+The  measures  are grouped  in three  categories: (a)
+reports  of  interparental  conflict,  (b) children's  self-
+reports  of  social  cognitions,  and  (c)  child  behavior
+rating  scales.
+
+Interparental  conflict.  The  Revised  Conflict
+Tactics Scale (CTS2; Straus, Hamby, Boney-McCoy,
+&  Sugarman,  1995) is a recent revision of one of the
+most  commonly  used  measures  to  assess  strategies
+used  in couples'  conflict  situations.  The CTS2 con-
+sists  of  39 items  intended  to  measure  the extent  to
+which specific  conflict  tactics, such as verbal reason-
+ing,  psychological  aggression,  and physical  aggres-
+sion,  occur  in  one's  dating  or  marital  relationship.
+Two  scales  from  the CTS2  were  combined  for the
+present  study  to produce  an aggregate  score of part-
+ner  aggression:  Psychological  Aggression  (8 items),
+assessing  the  frequency  with  which  hurtful  state-
+ments  and threats  are used  during  conflicts  (e.g., "I
+insulted  or  swore  at my partner,"  and "I  called my
+partner fat or ugly"), and Physical Assault (12 items),
+assessing  the  use  of  low-  to  high-level  physically
+assaultive  tactics  during  arguments  (e.g.,  "I  threw
+something  at  my  partner  that  could  hurt,"  and  "I
+pushed or shoved my partner"). Parents were asked to
+indicate how often  they, as well as their partner, had
+engaged  in  each  behavior  over  the past  year.  Self-
+and  partner-reports  of each  parent's  level of aggres-
+sion  were  significantly  related  for both  mothers and
+fathers  (rs  =  .57 and  .52, respectively,  ps  <  .001)
+and were averaged to obtain a CTS Aggression  score
+for  each  member  of  the  couple.  Thus,  the  female
+score  (reflecting  aggression  perpetrated  by  mothers)
+averaged  the female  self-report  and the male partner
+report, whereas the male score (reflecting  aggression
+perpetrated  by fathers)  averaged  the male  self-report
+and  the female  partner  report.  In the current  study,
+Aggression  scores  ranged  from  0 to  105 for women
+(M  =  19.96, SD =  20.22)  and from  0 to  101.50 for
+men (M =  18.07, SD =  19.29). At least one instance
+of  physical  aggression  within  the past  year  was re-
+ported for 37% of the participating men (n = 42) and
+37%  of  the  participating  women  (n  =  42).  Good
+internal consistency was found for this scale (a = .80
+for  women  and .81 for men).
+
+The  Children's  Perceptions  of  Interparental Con-
+flict Scale  (CPIC; Grych,  Seid, & Fincham,  1992)  is
+a 51-item questionnaire designed to assess children's
+appraisals of multiple dimensions of marital  conflict.
+The CPIC yields a total score and three subscales that
+assess  perceptions  of  parental  conflict,  threat  to the
+self,  and self-blame.  Because  the interparental con-
+flict factor  examined  in the present  model reflected a
+combination of parents' and children's perceptions of
+
+the  quality  and quantity  of  interparental  conflict be-
+ing displayed  at home, as opposed to children's  self-
+appraisals of their own experience during  interparen-
+tal conflict  (e.g.,  sense of threat  or self-blame),  only
+the Conflict  Properties  Scale  (19 items)  of the CPIC
+was used. The Conflict Properties Scale assesses chil-
+dren's  appraisals  of  the  intensity,  frequency,  and
+level  of  resolution  of  their  parents'  conflict,  with
+higher  scores  indicating  perceptions  of  conflict  that
+occurs  often,  involves  higher  levels  of hostility and
+aggression,  and  is  poorly  resolved.  In  the  current
+study,  children's  reports  of  interparental  conflict
+scores ranged from 0 to 30 (M =  12.64, SD = 7.71).
+Very  good  internal  consistency  was  found  for  this
+scale  (a  = .89).
+
+Social  cognition  measures.  The Children's Ac-
+tion  Tendency  Scale  (CATS; Deluty,  1979) is a 30-
+item measure designed to assess children's  problem-
+solving  skills in peer  conflict  situations. The child is
+presented  with  10 hypothetical  vignettes.  For  each
+vignette, an interpersonal  problem  is described  (e.g.,
+a  peer  shoves  a child  out of line), and then  each of
+three possible behavioral  responses to the problem is
+presented  in random  order.  The responses  include a
+reactively  aggressive  (physical  or  verbal)  response
+(e.g.,  push  the  peer  back  out  of  line,  call  the  peer
+mean and selfish), a nonaggressive assertive response
+(e.g., tell the peer, "You've no right to do that"), and
+a submissive response (e.g., go to the end of the line).
+Responses  are  summed  along  three  subscales: Ag-
+gressiveness, Assertiveness, and Submissiveness. For
+the  purposes  of the current  study,  only  the Aggres-
+siveness  subscale  was used.  Scores  on this  measure
+can  vary  from  0  to  20. For the  present  study,  the
+Aggression  scale  scores  ranged  from  0 to  13 (M =
+3.10,  SD  =  3.19).  Seventy-nine  percent  of the chil-
+dren  indicated  that  they  would  retaliate  aggressively
+in  at  least  one of  the  10 presented  scenarios. Ade-
+quate  internal  consistency  was found  for  this  scale
+(a  = .76).
+
+An  open-ended  social  information-processing  in-
+strument  frequently  used  by  Dodge  and  colleagues
+(e.g.,  Dodge,  Bates,  &  Pettit,  1990; Dodge  et  al,
+1995; Pettit et al., 1988; Weiss et al., 1992) was also
+included  in the present  study  in order  to assess the
+level  of aggressiveness  in children's  proposed  solu-
+tions  to ambiguous  interpersonal  situations. The so-
+cial  information-processing  instrument  (abbreviated
+as  SIPI  for the present  study)  consists  of eight car-
+toon  drawings,  each  accompanied  by  a  brief  story.
+The child is told to imagine himself or herself in each
+of  the eight  scenarios.  In  four  peer  entry  vignettes,
+the target child is either not responded to by others or
+is excluded  from  a group, but it is not clear  why. In
+four  provocation  vignettes,  another  child  hurts  the
+target child in some way, and again, the intention of
+the  other  child  is unclear.  In all eight  scenarios, the
+intentions of the other child's  actions are ambiguous
+and  may be interpreted  as hostile or nonhostile.
+
+320
+
+MARCUS,  LINDAHL,  AND MALIK
+
+After  presentation of each story, the child is asked
+to state what he or she would do if he or she were the
+protagonist  in the story. The number of responses in
+which  the  child  replies  he  or  she  would  retaliate
+physically  is  computed  for  each  child.  This  score
+represents  the characteristic  level of aggression  in a
+child's  responses  to  others'  aggressive  behaviors
+when the intent of these behaviors is ambiguous, with
+higher  scores  indicating  more  aggressive  responses.
+For the present study, scores ranged from 0 to 4 (M =
+0.43, SD = 0.94). Twenty-one percent of the children
+indicated  that  they  would  retaliate  physically  in at
+least  one  of  the  eight  provided  scenarios.  In the
+present  sample,  all  of  the  vignettes  were  indepen-
+dently  coded.  Out of 920 total  responses,  914 were
+coded  identically  by the independent  rater  and the
+initial  interviewers,  indicating  agreement  on 99% of
+the  cases.  Internal  consistency  for  this  scale  was
+adequate  (a  = .66).
+
+The  Normative  Beliefs  About  Aggression  Scale
+(NOBAGS; Huesmann  & Guerra,  1997) is a 20-item
+self-report  questionnaire  designed  to  measure  a
+child's  perception  of the acceptability  of  aggressive
+behavior.  The questionnaire  yields  a total  score and
+two subscales. For the purposes of the current  study,
+only the Approval of Retaliation Scale (12 items) was
+used.  The  Approval  of  Retaliation  Scale  assesses
+children's  approval  of  reactive  aggression  in  re-
+sponse  to  specific  provocations  (both  verbal  and
+physical),  with  four  key dimensions  (severity  of the
+provocation,  severity  of the response,  gender  of the
+provoker,  and  gender  of  the  respondent)  varying
+across  items.  Children  respond  on a  4-point  scale,
+with  higher  scores  indicating  more  support  for ag-
+gressive  responses.  Responses  are  then  averaged,
+yielding  Approval  of  Retaliation  Scale  scores  that
+can  range  from  1 to  4.  In  the  present  study,  the
+Approval  of Retaliation  Scale  scores  ranged  from  1
+to 3.25 (M =  1.54, SD = 0.52).  Very  good  internal
+consistency  was found  for this  scale (a  = .88).
+
+Aggressive  behavior  problems.  Aggressive  be-
+havior  was  measured  through  the parallel  parent and
+teacher  forms  of the Achenbach  questionnaires: the
+Child  Behavior Checklist (CBCL; Achenbach, 1991)
+and  the CBCL  Teacher  Rating  Form  (CBCL-TRF;
+Achenbach,  1991). The CBCL is a well-standardized
+and well-validated  113-item parent report measure of
+children's  behavior  problems. Only  responses to the
+20-item  Aggressive Behavior  subscale, a subscale of
+the  Externalizing  Behavior  Problems  Scale,  were
+used  in  the  present  study.  Responses  are  scored  2
+(very true or often  true),  1 (somewhat or sometimes
+true),  or 0 (not true) to indicate the degree to which
+the  child  displays  each  behavior.  For  the  current
+study,  mother  and father  reports  on the CBCL Ag-
+gressive  Behavior  subscale  were  significantly  corre-
+lated  (r  — .36, p  <.001).  As a result,  mothers' and
+fathers'  data were averaged to create a mean parental
+report  for aggressive  behavior.  Aggressive  Behavior
+
+raw  scores  in the current  sample  ranged  from  0 to
+27.50 (M = 6.91, SD = 4.80). Corresponding t scores
+based  on  norms  for  a  child's  sex  and  age  group
+ranged  from  50 to 81.50  (M =  53.83,  SD =  5.21).
+Eighty-seven percent of the children received / scores
+of 60 or less, 12% were placed in the borderline range
+between  60  and  69,  and  1%  were  placed  in the
+clinical range with t scores of 70 or greater. Excellent
+internal consistency  was established  for parents' rat-
+ings (a  = .91).
+
+Each  child's  primary  teacher  was asked  to  com-
+plete  CBCL-TRF,  a  reliable  and valid  measure of
+child behavior in school  settings  (Achenbach,  1991).
+As  with  the  parent  ratings,  only  responses  to the
+25-item  Aggressive  Behavior  subscale, a subscale of
+the  Externalizing  Behavior  Problems  Scale,  were
+used in the present study, and items were scored on a
+3-point  scale. Teacher reports  of Aggressive  Behav-
+ior raw scores in the current sample ranged from 0 to
+48  (M = 6.34, SD =  8.67).  Corresponding  t scores
+based  on  norms  for  a  child's  sex  and  age  group
+ranged  from  50  to  97  (M  =  55.97,  SD  =  8.06).
+Seventy-nine percent of the children received / scores
+of 60 or less, 17% were placed in the borderline range
+between  60  and  69,  and  4%  were  placed  in the
+clinical  range  with  t scores of 70 or greater.
+
+Results
+
+Preliminary  Analyses
+
+We  conducted  preliminary  analyses  to  eval-
+uate  the  normality  of  all  distributions.  An  ex-
+amination  of  frequency  distributions  indicated
+positively  skewed  distributions  (absolute  val-
+ues  >  1.9)  and  positive  kurtosis  (absolute  val-
+ues  >  4.9) for  fathers'  CTS2  scores  and  teach-
+ers'  CBCL-TRF  scores. In order  not  to  violate
+univariate  normality  assumptions,  we  con-
+ducted  square-root 
+the
+CBCL-TRF  and  CTS2  to  convert  the  original
+scores  to  new  scores  that  would  be  more  nor-
+mally  distributed.  All  analyses  reported  below
+were 
+transformed
+variables.
+
+transformations  on 
+
+conducted  with 
+
+these 
+
+Child  age  was  examined  in  relation  to  the
+dependent variables of parent-reported child ag-
+gression  and  teacher-reported  child  aggression.
+Because it did not correlate with parent-reported
+child  aggression  (r  =  -.08)  and  correlated
+weakly  with  teacher-reported  child  aggression
+(r  =  -.20), child  age was  not  used  as a control
+variable  in  the  following  analyses.
+
+Correlational  Analyses
+
+We first examined the intercorrelations for all
+indicators  of  observed  and  latent  constructs
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+321
+
+used  in testing the theoretical model  (see Table
+1).  Initial  evidence  for  the  convergent  validity
+of  each  of  the  major  constructs  included  in  the
+theoretical  model  can  be  demonstrated  by  not-
+ing  the  magnitude  of  specific  correlations  be-
+tween construct  indicators. For example, corre-
+lations  among  all  three  interparental  conflict
+indicators and all three aggressogenic  cognition
+indicators  were  highly  significant  (rs  =  .36  to
+.80,  ps  <  .001).  The  correlation  between  par-
+ents'  and  teachers'  reports  of  child  aggression
+was not as robust as had been expected (r =  .28,
+p <  .01). As a result, we examined parents' and
+teachers'  reports  of  child  aggression  separately
+in  the  following  correlational  and  structural
+equation  modeling  analyses.
+
+Consistent  with  the  first  three  hypotheses
+generated by the theoretical model and tested in
+the  present  study,  an  examination  of  Table  1
+shows  that many  of  the correlations  among  the
+marital,  cognitive,  and  aggression  variables
+were  in  the  expected  directions.
+
+Hypothesis  1: Association  Between
+Interparental  Conflict and Child
+Aggression
+
+The  first  hypothesis  concerned  the  relation
+between interparental  conflict  and child aggres-
+sion.  Ratings  of  the  severity  of  interparental
+conflict  were  significantly  correlated  in  a posi-
+tive direction with the parent-rated child aggres-
+sion score (ps <  .05). Interparental conflict  was
+marginally  correlated  with  teacher-rated  child
+aggressive behavior in two of three correlations.
+Thus,  interparental  conflict  as reported  by  both
+children  and  parents  was  positively  associated
+
+with  child  aggressive  behavior  as  assessed  by
+parents and, to a lesser degree, by teachers  (see
+Table  1).
+
+Hypothesis  2: Association  Between
+Interparental  Conflict and  Children's
+Social  Cognitions
+
+The second hypothesis concerned the relation
+between interparental conflict and children's so-
+cial  cognitions.  As  expected,  higher  levels  of
+interparental  conflict  were  associated  with
+higher  levels  of  aggressogenic  cognitions.  All
+three  correlations  between  children's  percep-
+tions of interparental conflict  and aggressogenic
+cognitions  were significant.  Two of six correla-
+tions  between  parents'  reports  of  interparental
+aggression  and children's  aggressogenic  cogni-
+tions  were  marginally  significant.  To  be  spe-
+cific,  higher  levels  of  interparental  aggression
+perpetuated  both  by  mothers  and  by  fathers
+were  marginally  associated  with  an  increased
+tendency for children to endorse beliefs  approv-
+ing  of  retaliation  (see Table  1).
+
+Hypothesis  3: Association  Between
+Children's  Social  Cognitions and Child
+Aggression
+
+The  third  hypothesis  concerned  the  relation
+between  children's  social  cognitions  and  child
+aggression.  Two  of  three  correlations  between
+the three aggressogenic  cognitions  and  teacher-
+based  aggression  scores  were  significant.  That
+is,  teacher-reported  aggression  was  positively
+related  to  a  tendency  both  to  endorse  beliefs
+approving  of retaliation  and to generate aggres-
+
+Table 1
+Intercorrelations  Among  Study  Measures
+
+Variable
+
+1
+—
+
+_
+
+1.  CPIC  Properties  Scale 
+2.  CTS2  Aggression  (male) 
+3.  CTS2  Aggression  (female) 
+4.  SIPI 
+5.  NOBAGS  Retaliation  Scale 
+6.  CATS  Aggression  Scale 
+7.  CBCL  Aggression  Scale 
+8.  TRF  Aggression  Scale 
+Note,  n  =  115 for  all correlations.  CPIC  =  Children's  Perceptions  of  Interparental  Conflict  Scale; CTS2  =
+Revised  Conflict  Tactics  Scale;  SIPI  =  social  information-processing  instrument;  NOBAGS  =  Normative
+Beliefs  About  Aggression  Scale;  CATS  =  Children's  Action  Tendency  Scale;  CBCL  =  Child  Behavior
+Checklist;  TRF  =  Teacher  Report  Form.
+tp  <  .10  (marginally  significant). 
+
+.44*** 
+.41*** 
+.34*** 
+.23* 
+.34*** 
+.22* 
+.16t 
+
+.80*** 
+.14 
+.19t 
+.15 
+.30** 
+.17t 
+
+—
+.12
+-18f
+.02
+.34***
+.14
+
+* p < . 0 5. 
+
+** p  <  .01.  * * * p < . 0 0 1.
+
+.12 
+.14 
+
+—
+
+.28**
+
+.36***
+.41***
+.09
+.28**
+
+.44***
+.09
+.19*
+
+322
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+sive  responses  to  hypothetical  problems.  Con-
+trary to expectations, social cognitions were not
+significantly  correlated  with  parent-based  ag-
+gression  scores  (see  Table  1).
+
+Structural  Equation  Modeling
+
+In  general,  the  correlations  provided  moder-
+ate support for the hypothesized relationships in
+the  model.  On  the  basis  of  these  correlational
+findings,  structural  equation  modeling  (Ar-
+buckle,  1997)  based  on  maximum  likelihood
+estimation  was used to present a more complete
+assessment  and  description  of  the  relations
+among 
+interparental  conflict,  aggressogenic
+cognitions,  and  child  aggression  by  providing
+easily  interpretable  path  diagrams  of  the  inter-
+relations  among  sets  of  variables.
+
+In  the  specified  models,  interparental  conflict
+was  an exogenous  latent  construct  (i.e., all  of its
+causal mechanisms were outside the model). The
+indicators  for  interparental  conflict  were  interpa-
+rental aggression (i.e., mothers' and fathers' CTS2
+
+(NOBAGS)  and  children's 
+
+scores) and children's perceptions of the intensity,
+frequency,  and level of resolution of interparental
+conflict (i.e., CPIC Conflict Properties Scale). Ag-
+gressogenic cognitions were conceptualized as an
+endogenous  latent  construct  consisting  of  three
+indicators: children's  normative beliefs  about ag-
+gression 
+social
+problem-solving  strategies  (CATS  and  SIPI).
+Child  aggression was conceptualized  as two sep-
+arate endogenous manifest variables: child aggres-
+sion  at  school  (CBCL-TRF  aggression  scores)
+and child aggression at home (i.e., CBCL aggres-
+sion  scores). Error  terms  for  indicators  from  the
+same  informants  within  and  across  constructs
+were  allowed  to  covary  in  order  to  help  control
+shared method variance (Kenny & Kashy, 1992).
+To  test  the  hypothesis  that  an  aggressogenic
+cognitive  style  would  mediate  the  relation  be-
+tween  overt marital  conflict  and overt child ag-
+gression, we compared two hierarchical models.
+As  seen  in  Figure  1,  the  direct  effect  model
+tested  the  link  between  interparental  conflict
+
+Interparental
+
+Conflict
+
+Aggressogenic
+
+Cognitive Style
+
+Al
+
+A2
+
+Child
+
+Aggression
+
+At Home
+
+Child
+
+Aggression
+
+at School
+
+Figure  1.  The  conceptual  direct  effects  model.
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+323
+
+and  child  aggression  at  home  and  at  school
+(Paths Al  and A2, respectively) in a model that
+also included  a path between  interparental  con-
+flict  and  child  aggressogenic  cognitions  (Path
+B). The direct paths (Paths Al  and A2) must be
+significant  to  establish  that  there  are  effects  to
+mediate. The mediation model (Figure 2) added
+paths  from  aggressogenic  cognitions  to  child
+aggression at home and at school (Paths Cl  and
+C2,  respectively),  closing  the  variable  system
+and allowing for indirect effects  of interparental
+conflict  on  child  aggression  through  aggresso-
+genic  cognitions.  If  the  mediation  hypothesis
+were correct,  the  mediating  variable  (aggresso-
+genic cognitions)  would have nonzero B and C
+paths,  the  previously  significant  direct  effects
+between  interparental  conflict  and child aggres-
+sion  (Paths  Al  and  A2)  would  no  longer  be
+significant,  and  the  mediation  model  would fit
+the data significantly  better than the direct  effect
+model.
+
+The  direct  effect  model  (n  =  115),  depicted
+in Figure 3, fit the data adequately, as indicated
+
+by  the  chi-square  statistic,  )f(l2,N=H5) 
+=
+20.86, p  =  .052, and by goodness-of-fit  indices
+(GFIs): GFI  =  .96, adjusted  goodness-of-fit  in-
+dex  (AGFI)  = 
+.88,  comparative  fit  index
+(CFI)  =  .96. The  relative  chi-square  ratio  was
+less  than  2.0,  (/ 
+-  df  =  \.1A,  N  =  115),
+indicating  an  acceptable  fit  for  the  specified
+model  (Arbuckle,  1997).  Several  authors  have
+suggested  that a conservative  cutoff  for  accept-
+able  fit  should  be  less  than  2.0  (Carmines  &
+Mclver,  1981; Marsh & Hocevar,  1985), with a
+perfect fit producing  a ratio  of  1.0.
+
+The  standardized  path  coefficients  from  in-
+terparental  conflict  to  child  aggression  (mea-
+sures of the direct, unmediated effect  of  conflict
+on  child  aggression)  were  .56  using  parental
+reports  of  aggression  and  .23  using teacher  re-
+ports;  both  coefficients  differed  significantly
+from  zero,  indicating  that  marital  conflict  was
+significantly  related to children's aggressive be-
+havior both at home and at school. The effect  of
+interparental  conflict  on  aggressogenic  cogni-
+tions  also  was  statistically  significant.  These
+
+Interparental
+
+Conflict
+
+Child
+
+Aggression
+
+At Home
+
+Cl
+
+C2
+
+Aggressogenic
+
+Cognitive Style
+
+Al
+
+A2
+
+Figure 2.  The conceptual  mediational  model  for  children's  aggressogenic  cognitions.
+
+324
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+Children's
+
+Perceptions of
+Interparental
+
+Conflict
+
+Interparental
+Aggression by
+
+Females
+
+Child  Aggression
+
+at Home
+(CBCL)
+R2=.31
+
+Problem-
+Solving
+(CATS)
+
+Beliefs about
+Aggression
+
+Problem-
+Solving
+(SIPI)
+
+Child Aggression at
+
+School
+(TRF)
+R2 = .05
+
+Figure  3.  Direct effects  model: Effect  of interparental conflict on child aggression at home and at school.
+Coefficients  are standardized path weights. ^(12, N =  115) = 20.86, p  = .052, x2  -H df'=  1.74, GFI = .96,
+AGFI  =  .88, CFI  =  .96. CBCL =  Child Behavior Checklist; CATS =  Children's Action Tendency Scale;
+SIPI  =  social information-processing  instrument; TRF =  Teacher Report Form. *p < .05.
+
+results  confirm  that  interparental  conflict  has  a
+statistically  significant  effect  on  child  aggres-
+sion  and  is  the  potential  mediating  variable  in
+this  model,  validating  the  further  investigation
+of  mediated  effects.
+
+The  mediational  model  (n  =  115),  depicted
+in  Figure  4,  fit  the  data  well,  as  indicated  by
+chi-square value, ^(lO, N=  115) =  13.69, p  =
+.19, x  ~=~  4f—  1-37, and goodness-of-fit  indices
+(GFI  =  .97,  AGFI  =  .90,  CFI  =  .98).  The
+association  between  interparental  conflict  and
+aggressogenic  cognitions  was  marginally  sig-
+nificant  (J3 =  .27, p  <  .10), and the association
+between  aggressogenic  cognitions  and  chil-
+dren's  aggression  in  school  was  significantly
+different  from  zero  (/3  =  .35, p  <  .05).
+
+The  addition  of  an  indirect  path  from  inter-
+parental  conflict  to  child  aggression  at  school
+through  aggressogenic cognitions resulted in an
+increase  in  11% total  variance  (R2  =  16% vs.
+5%  without  the  indirect  path)  for  children's
+aggression  at  school. In  addition,  the direct  ef-
+fect  path  from  interparental  conflict  to  school
+aggression  (Path  Al),  a  measure  of  the  direct
+effect  not  mediated  by  aggressogenic  cogni-
+
+tions,  was  substantially  reduced  and  no  longer
+significant  when  the  aggressogenic  cognition
+construct  was  included  in  the  model  (j3  =  .13,
+ns).  In contrast, the direct link between  interpa-
+rental conflict  and parent-reported  child aggres-
+sion at home remained significant  (/3 =  .52, p  <
+.05) despite the addition of an indirect pathway,
+and  there  was  no  increase  in  R2  for  parent-
+reported  child  aggression.
+
+The chi-square test of difference  between the
+direct  effect  and  mediational  models  yielded  a
+statistically  significant  difference,  ^ ( 2,  N  =
+115)  =  7.17, p  <  .05. The  mediating  variable
+(aggressogenic  cognitions)  had  nonzero  paths
+from  interparental  conflict  and  to  teachers'  re-
+ports  of  child  aggression.  In  summary:
+
+1. The  mediational  model fit the data  signif-
+icantly better  than  did  the direct effects  model,
+suggesting  that  the  effect  of  interparental  con-
+flict on child aggression was better explained in
+the  context  of  aggressogenic  cognitions.
+
+2.  The  inclusion  of  the  mediating  variable,
+aggressogenic cognitions, reduced the direct  ef-
+fect of interparental conflict on child aggression
+at school by 44% ([.23 -  .13]  ^  .23)—in  other
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+325
+
+Children's
+
+Perceptions of
+Interparental
+
+Conflict
+
+Interparental
+Aggression by
+
+Females
+
+Child Aggression
+
+at Home
+(CBCL)
+R2=.3O
+
+.55
+
+.64
+
+.35*
+
+Problem-
+Solving
+(CATS)
+
+Beliefs about
+Aggression
+
+Problem-
+Solving
+(SIPI)
+
+Figure  4.  Mediational  model:  Effect  of  interparental  conflict  on child  aggression  at home  and at  school
+mediated  through  aggressogenic  cognitions.  Coefficients  are standardized  path  weights. ^ ( l O, N  =  115) =
+13.69, p  =  .19, x2  + df  =  1.37, GFI =  .97,  AGFI  =  .90, CFI =  .98. CBCL  =  Child  Behavior  Checklist;
+CATS  =  Children's  Action  Tendency  Scale;  SIPI  =  Social  information-processing  instrument;  TRF  =
+Teacher  Report  Form.  +p  <  .10 (marginally  significant).  *p < .05.
+
+words,  nearly  half  of the effect  of  interparental
+conflict  on  child  aggression  at  school  was me-
+diated  through  the intervening  variable.  In con-
+trast,  the  inclusion  of  the  mediating  variable
+reduced the direct effect  of interparental  conflict
+on  parents'  reports  of  child  aggression  by  only
+7%  ([.56 -  .52]  -  .56).
+
+Post  Hoc  Analyses
+
+Although  the present  study's  primary  objec-
+tive  was to examine  how interparental  conflict
+and aggressogenic cognitions relate to child ag-
+gression,  the  robust  correlation  between  child
+aggression  and delinquency  as reported by par-
+ents  on the CBCL  (r  =  .61, p  <  .001) and by
+teachers on the CBCL-TRF (r =  .63, p <  .001)
+necessitated  post  hoc  analyses  to  examine
+whether the mediational model would also hold
+true  using  the Externalizing  Scale  (a combina-
+tion of child aggression and delinquency) as the
+outcome  variable.
+
+Interparental  conflict  had  significant  direct
+effects  on both parents' and teachers'  reports of
+children's externalizing behavior (J3s =  .64 and
+
+.27, ps < .01, respectively), and the direct  effect
+model  for  child  externalizing  behavior  (n  =
+115) fit the data adequately, as indicated by the
+chi-square  statistic,  ^(12, N  =  115) =  20.41,
+p =  .06, and goodness-of-fit  indices (GFI = .96,
+AGFI=  .88, CFI = .96).
+
+Inclusion  of the mediating  variable,  aggres-
+sogenic cognitions, yielded a mediational model
+that  also fit the data  well,  as indicated  by the
+chi-square  statistic,  ^ ( l O, N  =  115)  =  13.0,
+p =  .23, and goodness-of-fit  indices (GFI = .97,
+AGFI =  .91, CFI =  .99). The chi-square test of
+difference  between  the direct effect  and media-
+tional  models  yielded  a  statistically  significant
+difference,  x*(2, /V =  115)  =  7.41,  p  <.05,
+indicating  that  the  mediational  model  fit  the
+data  significantly  better  than  did the direct  ef-
+fects  model.  Similar  to  the  pattern  of  results
+observed  with the child  aggression  models, in-
+clusion  of  the mediating  variable  reduced  the
+direct  effect  path  from  interparental  conflict  to
+teachers'  reports  of  externalizing  behavior  to
+nonsignificance  ()3 =  .16, ns), whereas  the ef-
+fect  of interparental  conflict  on parents'  reports
+
+326
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+of  children's  externalizing  behavior  remained
+significant  (/3  =  .59, p  <  .05) even  with  inclu-
+sion  of  the  aggressogenic  cognition  factor.
+
+On the basis  of  the number of  model  param-
+eters,  the  sample  recruited  was  not  sufficiently
+large  enough  to  examine  separate  structural
+equation  models  for  boys  (n  =  51)  and  girls
+(n  =  64;  Kline,  1998).  Instead,  we  conducted
+correlational  analyses  separately  for  boys  and
+girls  (see Table 2) to examine  whether  the cor-
+relations  among  the  construct  indicators  were
+consistent  with  the  hypothesized  theoretical
+model.  Girls'  results  appear  above  the  main
+diagonal, with boys' results appearing below. In
+general, results supported the validity of each of
+the  major  constructs  included  in  the  theoretical
+model  and indicated that for  each gender,  some
+of  the  anticipated  relationships  existed  among
+the construct  indicators. However,  according to
+Cohen (1992), the present sample sizes for each
+gender  were  less  than  what  is  necessary  to de-
+tect  either  a  small  or  medium  effect  size  for
+product-moment  correlation  coefficients  at  .80
+power  for  either group; thus, the present corre-
+lations should be interpreted with some caution.
+
+Discussion
+
+Correlations  between  marital  conflict  and
+child  maladjustment  are  well  established.  The
+processes  mediating  these  outcomes,  however,
+are  not  yet  understood.
+
+This  investigation  focused  on  the  evaluation
+of  a cognitive  style  that  was  expected  to  influ-
+ence risk for child aggression. The current study
+proposed  a  relation  between  a  specific  dimen-
+sion of  interparental  functioning  (overt  interpa-
+
+rental  conflict),  a specific  child  outcome  (overt
+aggressive behavior), and a specific  mechanism
+that  would mediate  this relation  (aggressogenic
+cognitive  style). We expected  that  interparental
+conflict  would  indirectly  increase  the  probabil-
+ity  of  child  aggression  through  its  relationship
+with  children's  social  problem-solving  tactics
+and  beliefs  about  aggression.  Aggressogenic
+cognitions were thereby expected to be a critical
+link  between  interparental  conflict  and  child
+aggression. This aggressogenic cognitive model
+was based on theoretical and empirical  research
+in  the  areas  of  both  marital  conflict  and  child
+aggression.
+
+The  results  of  the  present  study  suggest  that
+although  interparental  conflict  is  significantly
+associated  with  child  aggression  both  at  home
+and  in  school,  the  mechanisms  underlying  this
+relationship differ  on the basis of the situational
+setting. With regard to parents'  reports of child
+aggression  at  home,  a  direct  relation  was  ob-
+served  between  interparental  conflict  and  child
+aggression  that  was  not  mediated  by  aggresso-
+genic  cognitions.  One  possible  explanation  for
+the  lack  of  mediation  in  child  aggression  at
+home  may  be  drawn  from  the  literature  on  the
+central role of emotionality  in children's coping
+with  marital  conflict.  Davies  and  Cummings
+(1994)  posited  an  emotional-security  hypothe-
+sis,  in  which  repeated  exposure  to  destructive
+marital  conflict  is  viewed  as  an  emotionally
+arousing event that induces elevation of arousal
+and reduces children's capacity to regulate their
+own  emotions  and behavior.  Unregulated  emo-
+tional  reactions,  such  as anger,  are in turn pos-
+ited to reduce the quality of children's  function-
+
+Table  2
+Intercorrelations  Among  Study Measures for  Girls and  Boys
+
+Variable
+
+1
+—
+
+.45**
+.34*
+44**
+•24f
+.28*
+.13
+.03
+
+.42***
+
+.45***
+.80***
+
+1.  CPIC  Properties  Scale
+2.  CTS2  Aggression  (male)
+3.  CTS2 Aggression  (female)
+4.  SIPI
+5.  NOBAGS  Retaliation  Scale
+6.  CATS  Aggression  Scale
+7.  CBCL  Aggression  Scale
+8.  TRF  Aggression  Scale
+Note.  For  girls,  n  =  64,  above  the  diagonal;  for  boys,  n  =  51, below  the  diagonal.  CPIC  =  Children's
+Perceptions  of  Interparental  Conflict  Scale;  CTS2  =  Revised  Conflict  Tactics  Scale;  SIPI  =  social
+information-processing  instrument;  NOBAGS  =  Normative  Beliefs  About  Aggression  Scale;  CATS  =
+Children's  Action  Tendency  Scale; CBCL  =  Child  Behavior  Checklist; TRF  =  Teacher  Report  Form.
+f p  <  .10 (marginally  significant).  * p < . 0 5.  ** p  <  .01.  *** p  < .001.
+
+.82***
+.21
+.17
+.20
+-.03
+.15
+
+.27*
+.50***
+45***
+.05
+.11
+.22
+
+.42**
+.08
+.02
+.43***
+.47***
+
+.23t
+.19
+.16
+.19
+
+.41**
+.06
+.32*
+
+.28*
+.06
+.08
+
+.50***
+39***
+AA
+.36**
+
+.17
+.22
+.02
+.12
+.14
+
+.27*
+.18
+.16
+.16
+.04
+.11
+.31*
+
+.00
+.10
+
+.24t
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+327
+
+ing  and  potentially  induce  aggressive  coping
+responses.  As  a consequence,  child  aggression
+at  home  might  best  be  interpreted  as  a  poten-
+tially  maladaptive  mechanism  by  which  chil-
+dren  discharge  tension  and  emotional  arousal
+evoked  from  witnessing  intense,  emotionally
+laden interparental  conflict.  The role of aggres-
+sogenic  cognitions  may  be  less  central  as  an
+immediate  mediator  than  emotional  security
+within  this emotionally  charged  home  context.
+However,  in  contrast  to  the  conflictual  and
+hostile  home  setting  that  is  likely  to  induce
+emotional  arousal  and  unregulated  behavior,
+school  presumably  provides  a  less  conflictual
+environment  in  which  to evaluate  a child's  be-
+havior. After all, the interparental conflict that is
+hypothesized  to  evoke  arousal  and  potentiate
+child  aggression  is not present  in an  immediate
+sense.  And  yet,  a  direct  relation  continues  to
+exist between interparental conflict  at home and
+child  aggression  at  school,  suggesting  that  fac-
+tors  other  than  immediate  emotional  arousal
+may  serve as mechanisms  through  which  inter-
+parental  conflict  has  its  effects  on  school
+behavior.
+
+In  fact,  the  present  findings  are  consistent
+with  the hypothesis  that one effect  of  exposure
+to  interparental  conflict  is  to  shape  children's
+social information-processing  skills and norma-
+tive beliefs  about aggression. The results of the
+present  study  suggest  that  children  exposed  to
+interparental conflict may acquire a repertoire of
+highly  accessible  aggressive responses  to inter-
+personal  problems  and  develop  a  set  of  beliefs
+that  support  aggression  as  a  normative  and  le-
+gitimate  response  to provocation.  Although  the
+impact  of  these  distorted  cognitions  may  be
+subsumed  at  home  by  the  child's  emotional
+arousal  during  exposure  to  conflict,  these  cog-
+nitive patterns appear to take on a stronger role
+in influencing  how the child behaves in  school,
+where  the  immediacy  of  the  interparental  con-
+flict  and  its  concomitant  emotional  arousal  is
+removed.
+
+Although  caution  is  warranted  in  inferring
+causal relationships on the basis of correlational
+data, the findings  of the present  study  support a
+mediating role of children's aggressogenic cog-
+nitions in the link between interparental  conflict
+and  children's  school  aggression.  Evidence
+from  the  present  study  suggests  that  about  half
+of  the  empirical  effect  of  exposure  to  interpa-
+rental conflict  on child aggression  at school can
+
+be  accounted  for  by  aggressogenic  cognitions.
+Thus, aggression  at school appears to be poten-
+tiated,  at  least  in  part,  by  the  development  of
+distorted  social  information-processing  and be-
+lief patterns in response  to witnessing  frequent,
+intense,  and unresolved  interparental  conflict.
+
+Regarding the hypothesized  relation  between
+interparental  conflict  and  children's  aggresso-
+genic  cognitions,  it  is  important  to  note  that
+although  a  significant  association  was  found
+between  child-reported  conflict  and  children's
+aggressogenic  cognitions,  the  relation  between
+parent-reported  conflict  and  children's  aggres-
+sogenic  cognitions  was  weaker.  This  discrep-
+ancy  raises  the  possibility  that  children  who
+exhibit  approving  beliefs  about  aggression  and
+deficits in social problem-solving may be biased
+toward  perceiving  their parents'  relationship  as
+highly  conflictual.  Such  a  negative  bias  might
+thereby  inflate  estimates  of  the  correlation  be-
+tween  marital  conflict  and  children's  aggresso-
+genic  cognitions.  However,  this  discrepancy
+may  also be  interpreted  as  supportive  evidence
+for  the  insufficiency  of  relying  on  parental  re-
+ports  of  marital  conflict  when  examining  mari-
+tal  conflict's  influence  on  children  (Grych  &
+Fincham,  1990).  For  interparental  conflict  to
+shape  children's  knowledge  structures  and  the
+manner  in  which  children  process  and  respond
+to social interactions, what may be paramount is
+not the  actual  level  of  interparental  conflict  per
+se  but,  rather,  the  degree  to  which  children
+perceive  their  parents'  relationship  as  conflic-
+tual. This finding is in keeping  with  Grych  and
+Fincham's  (1990)  contention  that because chil-
+dren  actively  interpret  and  respond  to their  en-
+vironment, it is perhaps most critical to examine
+children's  appraisals  of  interparental  conflict
+when  attempting  to  understand  its  impact  on
+them. In particular,  Grych  and Fincham  (1990)
+posited  that  marital  conflict  perceived  by  chil-
+dren to be intense, frequent,  and poorly resolved
+is  likely  to  represent  a  significant  stressor  for
+children  and  to be  highly  associated  with  child
+problems.  The  present  findings  indicate  that
+perceptions  of this type of interparental  conflict
+may be negatively associated not only with chil-
+dren's behavior, as predicted by Grych and Fin-
+cham  (1990),  but  also  with  children's  social
+cognitions.
+
+The lack of a more robust relationship in this
+study  between  children's  aggressogenic  cogni-
+tions  and  child  aggression,  particularly  as  re-
+
+328
+
+MARCUS,  LINDAHL,  AND MALIK
+
+ported  by  parents,  warrants  attention  and  ap-
+pears  to  contradict  the  findings  of  previous
+studies  linking  social  cognitions  with  child  ag-
+gression (e.g., Asarnow & Callan,  1985; Deluty,
+1981;  Huesmann  & Guerra,  1997; Lochman  &
+Dodge,  1994; Pettit  et al.,  1988; Quiggle et al.,
+1992; Richard & Dodge,  1982; Slaby & Guerra,
+1988).  One  possible  explanation  for  this  dis-
+crepancy  is  the  type  of  sample  studied.  Past
+research  on  aggressogenic  cognitions  has  fo-
+cused  primarily  on  clinical  samples  of  children
+and  adolescents  (e.g.,  Slaby  &  Guerra,  1988;
+Huesmann & Guerra,  1997; Lochman & Dodge,
+1994; Pettit et al.,  1991; Lochman, Lampron, &
+Rabiner,  1989).  In  contrast,  the  current  study
+used  a community  sample of children  with rel-
+atively  low,  nonclinical  levels  of  aggression.
+Because  research  indicates  that  the relation  be-
+tween  aggression  and aggressogenic  cognitions
+becomes  more  robust  as the  severity  of aggres-
+sion increases (Lochman  & Dodge,  1994; Slaby
+&  Guerra,  1988),  it  is  to  be  expected  that  the
+strength  of  the  correlations  between  these  two
+constructs  would  be  less  strong  in  the  present
+community  sample  than  in  previous  clinical
+samples.
+
+limitations.  First, 
+
+The findings from  the  present  study  must  be
+interpreted  in  the  context  of  certain  method-
+ological 
+the  associations
+among  variables  in  the  present  study  were  not
+particularly  robust.  What has  been  presented  is
+a  plausible  scenario  in  which  perceptions  of
+interparental  conflict  may  exert  an  effect  on
+child  aggression  by  means  of  their  effects  on
+children's  social  cognitions,  but  these  linkages
+were  modest  in  size,  leaving  room  for  many
+other sources of influences on children's aggres-
+sogenic  cognitions  and,  ultimately,  child
+aggression.
+
+In  addition  to  modest  relations  among  the
+variables,  the  use  of  correlational  and  cross-
+sectional  data  to  examine  causal  mechanisms
+opens  this  study  to the  criticisms  that  often  are
+made of nonexperimental research. Only exper-
+imental  designs  can  decisively  demonstrate
+cause, and it is not possible to randomly  assign
+children  to conflictual  home environments. The
+use  of  structural  equation  modeling  enhances
+the  capacity  to  statistically  predict  phenomena,
+and  the  current  data  indicate  that  some  direct
+and indirect links exist between marital  conflict,
+aggressogenic  cognitions, and child  aggression.
+Causal  links,  however,  cannot  be  determined.
+
+As  a result,  although  the  aggressogenic  cog-
+nition model suggests that parents'  conflicts  are
+directly  related  to children's  aggressive  behav-
+ior, and it is plausible to interpret this finding  as
+indicative  of  interparental  conflict  influencing
+and  shaping  child  aggression,  it  is  also  impor-
+tant  to consider  other possible  directions  of  ef-
+fect  in  the  data  presented.  For  example,  it  is
+possible that child behavior problems could cre-
+ate  a difficult  home  atmosphere,  which  in  turn
+could  lead  to  marital  conflict.  Longitudinal
+analysis of the mechanisms  hypothesized  in the
+theoretical  model  would  improve  the  confi-
+dence  with  which  one  could  make  causal
+inferences.
+
+that 
+
+interparental  conflict 
+
+Another limitation of the present study is that
+the  sample  recruited  was  not  sufficiently  large
+enough  to examine  separate  structural  equation
+models  for  boys  versus  girls, despite the possi-
+bility  that the association  between  interparental
+conflict  and child aggression  may vary  depend-
+ing on child gender. Although  some research on
+children  exposed  to  marital  conflict  has  indi-
+cated  no  significant  gender  differences  (e.g.,
+Dadds  &  Powell,  1991),  other  studies  have
+found 
+is  more
+strongly  related  to externalizing  and  aggressive
+behaviors in boys (Cummings, Davies, & Simp-
+son,  1994;  Hart  et  al.,  1998;  Osborne  &  Fin-
+cham,  1996).  However,  this  gender  disparity
+may  be  due,  at  least  in  part,  to  boys'  overall
+higher  rates  of  overt  aggressive  behavior
+(Block,  1983;  Block,  Block,  &  Gjerde,  1986;
+Patterson,  1982)  and  aggressive-encouraging
+cognitions  (Perry,  Perry,  &  Weiss,  1989),  as
+opposed to boys' greater vulnerability to marital
+conflict  per  se. The  correlational  analyses  pre-
+sented for boys versus girls in the present study
+suggest  that  some  of  the  anticipated  relation-
+ships  exist  among  the  construct  indicators  for
+each  gender,  but  such  correlations  must  be  in-
+terpreted with caution because of the small sam-
+ple size.
+
+In a similar manner, the small sample size of
+the present  study  did not allow  structural  equa-
+tion  modeling  to  be  conducted  separately  by
+ethnicity. Because over 50% of the present sam-
+ple  was  Hispanic,  caution  is  warranted  regard-
+ing  the  generalizability  of  our  findings  among
+other  ethnic  groups.  It  is  clear  that  future  re-
+search  with  larger  samples  should  investigate
+how the present mediational  model fits the data
+for  boys  versus  girls  and  for  different  cultural,
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+329
+
+ethnic,  and racial  groups  before  the  present  re-
+sults  can  be  generalized  across  different  popu-
+lations  with  confidence.
+
+reactive 
+
+In  addition,  with  the  particular  type  of  ag-
+gression  selected  (overt  aggression)  and  the
+measures  used  (Achenbach  questionnaires),  it
+was  not  possible  in  the  present  study  to  distin-
+guish between  whether  a child's  aggressive be-
+havior  was  proactive  (i.e.,  instrumental  or  de-
+liberately  goal-directed)  or 
+(i.e.,
+defensively  responding  to  perceived  provoca-
+tion  or  threat;  Dodge  &  Coie,  1987),  despite
+recent research indicating that different  forms of
+aggression are likely to have different  etiologies
+(Dodge  &  Coie,  1987)  and 
+that  social
+information-processing  mechanisms  may  be
+specific  to  particular  subtypes  of  aggression
+(Crick  &  Dodge,  1996;  Dodge  &  Coie,  1987;
+Smithmyer,  Hubbard,  &  Simons,  2000).  As  a
+result,  it  would  be  particularly  interesting  in
+future  research to examine how the present me-
+diational  model  might  relate  differentially  to
+specific  subtypes  of  child  aggression.
+
+Finally,  although  over  three-fourths  of  the
+present sample consisted of children from  intact
+families  (i.e., both natural parents in the home),
+the  inclusion  of  step-families  suggests  that
+some of the children  in the present  sample may
+have endured  previously  high  levels of  interpa-
+rental  conflict  culminating  in  divorce.  Consis-
+tent  with  a  cumulative  stress  explanation
+(O'Leary  & Emery,  1984), the relations  among
+interparental  conflict,  aggressogenic  cognitions,
+and  child  aggression  may  be  stronger  among
+children  exposed  in  the  past  to  high  levels  of
+interparental  conflict  or whose divorced  parents
+are  currently  experiencing  conflict.  Although
+beyond  the  scope  of  the  present  study,  exami-
+nation of how a child's past history  of exposure
+to  conflictual  parental  relationships  (including
+severity,  chronicity,  and  duration  of  prior  con-
+flict)  might 
+the  relations  among
+present  levels  of  interparental  conflict,  aggres-
+sogenic  cognitions,  and child  aggression  repre-
+sents  a rich  area  for  future  inquiry.
+
+influence 
+
+Despite the presented  limitations, the present
+study also addresses several shortcomings in the
+current  research  on  interparental  conflict  and
+child  aggression. A clear strength of this inves-
+tigation  is  the  use  of  a  multi-informant,  multi-
+indicator  design.  Data  were  obtained  from
+mothers,  fathers,  teachers,  and  children,  in-
+creasing  confidence  that  these  findings  are  less
+
+likely  to  be  affected  by  method  variance  con-
+founds  (Lorenz,  Conger,  Simons, Whitbeck,  &
+Elder,  1991). The present findings also illustrate
+the benefits  of  examining  interparental  conflict,
+aggressogenic  cognitions,  and  child  aggression
+in  one  model  by  means  of  structural  equation
+modeling,  rather  than  as  isolated  effects.  The
+effects  described  earlier  would  not  have  been
+discernible  if  only  specific  relations  (e.g.,  im-
+pact  of  interparental  conflict  on  aggressogenic
+cognitions)  were  examined  in  isolation.
+
+The results of this investigation also highlight
+the importance  of measuring  children's percep-
+tions of conflict  and of focusing  on  dimensions
+of  conflict  known  to be  distressing  to  children.
+Research  indicates  that  children's  perceptions
+of interparental  conflict  are a stronger predictor
+of  child  adjustment  than  parental  reports  (Em-
+ery  & O'Leary,  1982; Grych  et  al.,  1992), and
+that children's perceptions of interparental  con-
+flict  are  significantly  related  to  judgments  of
+children's  adjustment  not  only  by  parents,  but
+also by teachers and peers  (Grych  et al.,  1992).
+Despite  these  findings,  the  preponderance  of
+research on interparental  conflict  and child  out-
+come  has  relied  heavily  on  parental  reports  of
+conflict  (e.g., Dadds & Powell,  1991; Hart et al.,
+1998; O'Brien,  Margolin,  & John,  1995; Ross-
+man  &  Rosenberg,  1992).  Although  parents
+may provide a relatively  accurate assessment of
+the level  of  interparental  conflict,  they  may  not
+recognize  to  what  extent  their  children  have
+witnessed  and  processed 
+the  conflict.  The
+present  study  supports  the  utility  of  examining
+children's  appraisals  of  marital  conflict  and
+adds  to  a growing  number  of  studies  that  doc-
+ument  increased  understanding  of  the  associa-
+tion  between  marital  conflict  and  child  adjust-
+ment through  the  study  of  children's  appraisals
+(e.g.,  Cummings  et  al.,  1994;  Grych  et  al.,
+1992).
+
+In  conclusion,  although  years  of  research
+have  established  a relation  between  interparen-
+tal conflict  and child adjustment  problems (e.g.,
+Emery,  1982; Long & Forehand,  1987; O'Leary
+&  Emery,  1984),  relatively  few  models  have
+tested  mechanisms  to  account  for  this  associa-
+tion.  This  study  tested  a  model  that  specified
+children's  social  problem-solving  deficits  and
+distorted  beliefs  about  aggression  as  mecha-
+nisms linking interparental conflict  to children's
+aggression.  Support  was  found  for  the  mediat-
+ing effects  of aggressogenic  cognitions  on chil-
+
+330
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+dren's  school  aggression  but  not  on  children's
+aggression  at  home,  suggesting  that  different
+mechanisms  may  underlie  the relation  between
+interparental  conflict  and  child  aggression  de-
+pending  on  environmental  context.
+
+Implications  for  Application
+
+and  Public  Policy
+
+The  findings  from  the  present  study  have
+practical  implications  for  clinical  work  with
+children  exposed  to high  levels  of  interparental
+conflict.  Interventions  for  children  from  highly
+conflictual  households  typically  focus  on  the
+child's  internalizing  or externalizing  behavioral
+symptoms  and  overall  psychological  adjust-
+ment. The results of this study  suggest that it is
+also  important  for  practitioners  to  address  the
+impact  of  exposure  to  interparental  conflict  on
+children's  social  cognitions.  Intervention  pro-
+grams  with  children  exposed  to  high  levels  of
+interparental  conflict  should  include a thorough
+assessment of children's social  problem-solving
+strategies  and  normative  beliefs  about  aggres-
+sion,  given  that  our  study  found  links  between
+exposure  to  interparental  conflict  and  these  so-
+cial cognitions. Those children  found  to exhibit
+aggressogenic cognitive styles may benefit  from
+social  cognitive  skills training programs  similar
+to the  skills  training  programs  designed  specif-
+ically  for  aggressive  children  (Bierman  & Fur-
+man,  1984;  Lochman  &  Curry,  1986).  Such
+cognitive interventions could be of considerable
+benefit  in helping  children  who have  witnessed
+their  parents'  ineffective  and  destructive  meth-
+ods  of  resolving  conflict  learn  how  to  develop
+prosocial  solutions  to  interpersonal  problems,
+interpret  peer  cues  accurately,  and  reduce  ac-
+ceptance of the legitimacy  of aggression. On the
+basis  of  the  success  of  these  types  of  skills
+training  programs  in  reducing  child  aggressive
+behavior  (Bierman  & Furman,  1984;  Lochman
+&  Curry,  1986),  implementing  this  treatment
+approach  could be expected to have a meaning-
+ful  impact  not  only  in  modifying  the aggresso-
+genic  cognitions  and  maladaptive  beliefs  of
+children  exposed  to high  levels  of  conflict,  but
+also  in  reducing  their  aggressive  behavior.  In
+summary,  the present  research  supports the no-
+tion 
+intervention
+strategies  that focus  on  facilitating  reduction of
+aggressogenic  cognitions  may  help  to  reduce
+the  deleterious  impact  of  exposure  to  interpa-
+
+that  social-cognitive-based 
+
+rental 
+behavior.
+
+conflict 
+
+on 
+
+children's 
+
+aggressive
+
+References
+
+Achenbach,  T.  M.  (1991).  Manual  for  the  Child
+Behavior  Checklist  and  1991  Profile.  Burlington:
+University  of  Vermont,  Department  of  Psychiatry.
+Arbuckle,  J.  L.  (1997). Amos  users'  guide:  Version
+
+3.6. Chicago: SPSS.
+
+Asarnow,  J.  R.,  &  Callan,  J.  W.  (1985).  Boys  with
+peer  adjustment  problems:  Social  cognitive  pro-
+cesses. Journal of Consulting and Clinical Psychol-
+ogy, 53,  80-87.
+
+Bandura,  A.  (1973).  Aggression:  A  social  learning
+theory  analysis.  Englewood  Cliffs,  NJ:  Prentice-
+Hall.
+
+Bierman, K. A., & Furman, W. F. (1984). The  effects
+of social skills training and peer involvement on the
+social  adjustment  of  preadolescents.  Child  Devel-
+opment,  55,  1465-1478.
+
+Block,  J.  H.  (1983).  Differential  premises  arising
+from  differential  socialization  of  the  sexes:  Some
+conjectures.  Child Development,  58, 487-498.
+
+Block,  J.  H.,  Block,  J.,  &  Gjerde,  P.  J.  (1986).  The
+personality  of  children  prior  to  divorce.  Child De-
+velopment,  57,  827-840.
+
+Carmines, E. G.,  & Mclver,  J.  P.  (1981).  Analyzing
+models with unobserved variables. In G. W. Bohrn-
+stedt & E. F. Borgotta  (Eds.), Social  measurement:
+Current issues. Beverly  Hills, CA: Sage.
+
+Cohen,  J.  (1992).  A  power  primer.  Psychological
+
+Bulletin,  112,  155-159.
+
+Coie, J. D., & Dodge, K. A. (1998). Aggression  and
+antisocial behavior. In W. Damon (Series Ed.) & N.
+Eisenberg  (Vol.  Ed.), Handbook  of  child  psychol-
+ogy:  Volume 3. Social,  emotional,  and  personality
+development  (5th  ed.,  pp.  779-862).  New  York:
+Wiley.
+
+Coie, J. D., & Kupersmidt, J. B. (1983). A behavioral
+analysis  of  emerging  social  status in boys'  groups.
+Child Development,  54,  1400-1416.
+
+Conway Data, Inc. (2000). County data: Dade, Florida.
+GeoFacts  Demographics  Library  [Information  on
+line]. Retrieved  September  30, 2000 from the World
+Wide Web:  http://www.conway.com.geofacts.
+
+Crick,  N.  R.,  Casas,  J.  F.,  &  Mosher,  M.  (1997).
+Relational  and  overt  aggression  in  preschool.  De-
+velopmental  Psychology,  33,  579-588.
+
+Crick,  N.  R.,  &  Dodge,  K.  A.  (1996).  Social
+information-processing  mechanisms in reactive and
+proactive aggression.  Child Development,  67, 993-
+1002.
+
+Cummings,  E.  M.  (1987).  Coping  with  background
+anger  in  early  childhood.  Child  Development,  58,
+976-984.
+
+Cummings, E. M., & Davies, P. T. (1994). Children
+and  marital  conflict:  The  impact  of family  dispute
+and  resolution.  New  York:  Guilford  Press.
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+331
+
+Cummings,  E.  M.,  Davies, P. T.,  & Simpson,  K.  S.
+(1994). Marital  conflict,  gender,  and children's  ap-
+praisals  and  coping  efficacy  as  mediators  of  child
+adjustment.  Journal  of Family Psychology, 8,  141—
+149.
+
+Cummings, E. M., Iannotti, R. J., & Zahn-Waxier, C.
+(1985). The influence  of conflict  between  adults on
+the  emotions  and  aggression  of  young  children.
+Developmental  Psychology,  21, 495-507.
+
+Cummings,  E.  ML,  Zahn-Waxler,  C,  &  Radke-
+Yarrow, M. (1984). Developmental changes in chil-
+dren's  reactions  to  anger  in  the  home.  Journal  of
+Child Psychology  and Psychiatry,  25,  63-74.
+
+Dadds, M. R., & Powell, M. B. (1991). The relation-
+ship  of  interparental  conflict  and  global  marital
+adjustment  to  aggression,  anxiety,  and  immaturity
+in  aggressive  and  nonclinic  children.  Journal  of
+Abnormal  Child Psychology,  19, 553-567.
+
+Davies,  P.  T.,  &  Cummings,  E.  M.  (1994).  Marital
+conflict  and  child  adjustment:  An  emotional  secu-
+rity  hypothesis.  Psychological  Bulletin,  116,  387-
+411.
+
+Deluty,  R.  H.  (1979).  Children's  Action  Tendency
+Scale: A self-report  measure  of  aggressiveness, as-
+sertiveness,  and  submissiveness  in  children.  Jour-
+nal  of  Consulting  and  Clinical  Psychology,  47,
+1061-1071.
+
+Deluty,  R.  H.  (1981). Alternative-thinking  ability  of
+aggressive,  assertive,  and  submissive  children.
+Cognitive  Therapy and Research,  5,  309-312.
+
+Deluty,  R.  H.  (1983).  Children's  evaluations  of  ag-
+gressive, assertive, and submissive responses. Jour-
+nal  of  Clinical  Child Psychology,  12,  124-129.
+
+Deluty, R. H. (1985). Cognitive mediation of aggres-
+sive, assertive, and submissive behavior in children.
+International  Journal  of Behavioral  Development,
+51,  162-170.
+
+Dodge,  K.  A.,  Bates,  J.  E.,  &  Pettit,  G.  S.  (1990).
+Mechanisms  in the cycle of violence. Science, 250,
+1678-1683.
+
+Dodge,  K.  A.,  &  Coie,  J.  D.  (1987).  Social-
+information-processing  factors  in reactive and pro-
+active aggression in children's peer groups. Journal
+of  Personality  and  Social  Psychology,  53,  1146-
+1158.
+
+Dodge, K. A., Pettit, G. S., Bates, J. E., & Valente, E.
+(1995). Social  information-processing  patterns par-
+tially  mediate the effect  of early  physical  abuse on
+later  conduct  problems.  Journal  of Abnormal  Psy-
+chology,  104, 632-643.
+
+Dodge,  K.  A.,  Price,  J.  M.,  Bachorowski,  J.  A.,  &
+Newman, J. R. (1990). Hostile attributional  tenden-
+cies  in  severely  aggressive  adolescents. Journal of
+Abnormal  Psychology,  99,  385-392.
+
+Emery,  R.  E.  (1982). Interparental  conflict  and  chil-
+dren of discord and divorce. Psychological Bulletin,
+92,  310-330.
+
+Emery,  R.  E.,  & O'Leary,  K.  D.  (1982).  Children's
+perceptions of marital discord  and behavioral prob-
+
+lems  of  boys  and  girls.  Abnormal  Child  Psychol-
+ogy,  10,  11-24.
+
+Farrington,  D.  P.  (1991).  Childhood  aggression  and
+adult  violence:  Early  precursors  and  later  life  out-
+comes. In  J.  D.  Pepler  &  K.  H. Rubin  (Eds.), The
+development and treatment of childhood aggression
+(pp. 5-30).  Hillsdale, NJ:  Erlbaum.
+
+Farrington, D. P. (1995). The development of  offend-
+ing  and  antisocial  behavior  from  childhood:  Key
+findings from  the  Cambridge  Study  in  Delinquent
+Development.  Journal  of  Child  Psychology  and
+Psychiatry,  36,  929-964.
+
+Fauber,  R.  L.,  & Long,  N.  (1991).  Children  in  con-
+text: The role of the family  in child  psychotherapy.
+Journal of Consulting and Clinical Psychology, 59,
+813-820.
+
+Fincham, F. D. (1994). Understanding the association
+between  marital  conflict  and  child  adjustment:
+Overview.  Journal  of Family  Psychology,  8,  123-
+127.
+
+Forman,  S.  G.  (1980). Self-statements  of  aggressive
+and  nonaggressive  children.  Child Behavior  Ther-
+apy, 2,  49-60.
+
+Goodman,  S.  H.,  Barfoot,  B., Frye,  A.  A.,  &  Belli,
+A.  M.  (1999).  Dimensions  of  marital  conflict  and
+children's  social problem-solving  skills. Journal of
+Family Psychology,  13, 33-45.
+
+Groisser,  D.  (1986).  Child  witness  to  interpersonal
+violence: Social problem  solving skills  and behav-
+ioral adjustment. Unpublished master's thesis, Uni-
+versity  of  Denver,  Denver,  CO.
+
+Grych, J. H., & Fincham, F. D. (1990). Marital con-
+flict  and  children's  adjustment:  A  cognitive-
+contextual framework.  Psychological Bulletin, 108,
+267-290.
+
+Grych,  J.  H.,  &  Fincham,  F.  D.  (1993).  Children's
+appraisals  of  marital  conflict:  Initial  investigations
+of  the  cognitive-contextual  framework.  Child De-
+velopment, 64,  215-230.
+
+Grych,  J.  H.,  Seid,  M.,  &  Fincham,  F.  D.  (1992).
+Assessing marital conflict  from  the child's perspec-
+tive:  The  Children's  Perception  of  Interparental
+Conflict  Scale.  Child Development,  63,  558-572.
+
+Guerra,  N.  G.,  Huesmann,  L.  R.,  Tolan,  P.  H.,  Van
+Acker,  R.,  &  Eron,  L.  D.  (1995).  Stressful  events
+and  individual  beliefs  as  correlates  of  economic
+disadvantage and aggression among urban children.
+Journal of Consulting and Clinical Psychology, 63,
+518-528.
+
+Guerra,  N.  G.,  &  Slaby,  R.  G.  (1990).  Cognitive
+mediators of aggression in adolescent offenders:  II.
+Intervention. Developmental  Psychology,  26,  269-
+277.
+
+Haapasalo, J.,  & Tremblay,  R. E.  (1994). Physically
+aggressive  boys  from  ages  6  to  12: Family  back-
+ground,  parenting  behavior,  and  prediction  of  de-
+linquency. Journal  of Consulting and Clinical Psy-
+chology, 62,  1044-1052.
+
+Hart,  C.  H., Nelson,  D.  A.,  Robinson,  C.  C,  Olsen,
+
+332
+
+MARCUS,  LINDAHL,  AND  MALIK
+
+S. F., & McNeilly-Choque, M. K. (1998). Overt and
+relational aggression  in Russian  nursery-school-age
+children:  Parenting  style  and  marital  linkages. De-
+velopmental  Psychology,  34,  687-697.
+
+Huesmann,  L. R.,  Eron,  L. D., Lefkowitz,  M. M., &
+Walder,  L.  O.  (1984).  Stability  of  aggression  over
+time  and  generations.  Developmental  Psychology,
+20,  1120-1134.
+
+Huesmann, L. R., & Guerra, N. G. (1997). Children's
+normative  beliefs  about  aggression  and  aggressive
+behavior.  Journal  of  Personality  and  Social  Psy-
+chology,  72, 408-419.
+
+Huesmann,  L. R., Guerra,  N. G., Miller, L., & Zelli,
+A.  (1992).  The  role  of  social  norms  in  the  devel-
+opment of aggression. In H. Zumkley & A. Fraczek
+(Eds.), Socialization and aggression (pp. 139-151).
+New  York:  Springer-Verlag.
+
+Jaffe,  P., Wilson, S., & Wolfe, D. A. (1986). Promot-
+ing changes  in  attitudes  and  understanding  of  con-
+flict  resolution  among  child  witnesses  of  family
+violence.  Canadian Journal  of Behavioral  Science,
+18, 356-366.
+
+Jenkins, J.  M.,  &  Smith,  M.  A.  (1991).  Marital  dis-
+harmony  and  children's  behavioral  problems:  As-
+pects  of  a  poor  marriage  that  affect  children  ad-
+versely.  Journal  of  Child  Psychology  and
+Psychiatry,  32,  793-810.
+
+Kenny, D. A., & Kashy, D. A. (1992). Analysis of the
+multitrait-multimethod  matrix by confirmatory  fac-
+tor analysis. Psychological  Bulletin,  112,  165-172.
+Kline, R. B. (1998). Principles and practice  of struc-
+tural  equation  modeling.  New  York:  Guilford
+Press.
+
+Lindahl,  K. M. (1998). Family  process  variables  and
+children's disruptive behavior problems. Journal of
+Family Psychology,  12, 420-436.
+
+Lindahl,  K.  M.,  &  Malik,  N.  M.  (1999).  Marital
+conflict,  family  processes,  and  boys'  externalizing
+behavior 
+in  Hispanic  American  and  European
+American  families.  Journal  of  Clinical  Child Psy-
+chology,  28,  12-24.
+
+Lochman,  J.  E.,  &  Curry,  J.  F.  (1986).  Effects  of
+social problem-solving  training and  self-instruction
+training  with  aggressive  boys. Journal  of  Clinical
+Child Psychology,  15,  159-164.
+
+Lochman,  J.  E.,  &  Dodge,  K.  A.  (1994).  Social-
+cognitive processes of severely  violent,  moderately
+aggressive,  and  nonaggressive  boys.  Journal  of
+Consulting and  Clinical Psychology,  62,  366-374.
+Lochman, J. E., & Lampron, L. B. (1986). Situational
+social  problem-solving  skills  and  self-esteem  of
+aggressive  and nonaggressive  boys. Journal  of Ab-
+normal  Child Psychology,  14, 605-617.
+
+Lochman,  J.  E.,  Lampron,  L.  B.,  &  Rabiner,  D.  L.
+(1989).  Format  and  salience  effects  in  the  social
+problem-solving  of  aggressive  and  nonaggressive
+boys.  Journal  of  Clinical  Child  Psychology,  18,
+230-236.
+
+Long,  N.,  &  Forehand,  R.  (1987).  The  effects  of
+
+parental  divorce  and  parental  conflict  on  children:
+An  overview.  Journal  of  Developmental  and  Be-
+havioral  Pediatrics,  8,  292-296.
+
+Lorenz,  F.  O.,  Conger,  R.  D.,  Simons,  R.  L.,  Whit-
+beck,  L. B.,  & Elder,  G.  H., Jr.  (1991).  Economic
+pressure  and  marital  quality:  An  illustration  of  the
+method  variance  problem  in  the  causal  model  of
+family  process. Journal  of Marriage  and the Fam-
+ily, 53, 375-388.
+
+Marsh, H. W., & Hocevar, D. (1985). Application of
+confirmatory  factor  analysis  to  the  study  of  self-
+concept:  First-  and higher-order  factor  models  and
+their  invariance  across  groups.  Psychological  Bul-
+letin,  97, 562-582.
+
+McClaskey, C. L. (1988). Symptoms of ADHD, ADD,
+and  aggression  in children:  Teacher  ratings,  peer
+sociometrics, and judgments  of hypothetical behav-
+ior. Unpublished doctoral dissertation, Indiana Uni-
+versity.
+
+McCord,  W.,  & McCord,  J.  (1960).  Origins of alco-
+
+holism.  Stanford,  CA:  Stanford  University  Press.
+
+McNeilly-Choque,  M.  K.,  Hart,  C.  H.,  Robinson,
+C. C,  Nelson,  L. J.,  & Olsen,  S.  F.  (1996).  Overt
+and  relational  aggression  on  the  playground:  Cor-
+respondence  among  different  informants.  Journal
+of Research  in  Childhood Education,  11,  41-61.
+
+Milich,  R.,  & Dodge,  K. A.  (1984). Social  informa-
+tion  processing  in  child  psychiatric  populations.
+Journal  of Abnormal  Child  Psychology,  12,  471—
+490.
+
+O'Brien,  M.,  Margolin,  G.,  &  John,  R.  S.  (1995).
+Relation  among  marital  conflict,  child  coping,  and
+child  adjustment.  Journal  of  Clinical  Child  Psy-
+chology, 24,  346-361.
+
+Office  of  Educational  Evaluation  and  Management
+Analysis.  (1999,  March).  1998-99  book  all  about
+Miami-Dade County public schools  [Book on-line].
+Retrieved  September  24,  2000  from  the  World
+Wide  Web:  http://www.dade.kl2.fl.us.
+
+O'Leary,  K.  D.,  &  Emery,  R.  E.  (1984).  Marital
+discord  and  child  behavior  problems.  In  M.  D.
+Levine  & P.  Satz  (Eds.), Developmental  variation
+and  dysfunction  (pp.  345-364).  New  York:  Aca-
+demic  Press.
+
+Osborne,  L.  A.,  &  Fincham,  F.  D.  (1996).  Marital
+conflict,  parent-child  relationships,  and  child  ad-
+justment:  Does  gender  matter?  Merrill-Palmer
+Quarterly, 42, 48-75.
+
+Patterson,  G.  R.  (1982).  Coercive  family  process.
+
+Eugene, OR:  Castalia  Press.
+
+Perry, D. G., Perry, L. C,  & Weiss, R. J. (1989). Sex
+differences  in the consequences that children antic-
+ipate  for  aggression.  Developmental  Psychology,
+25,  312-319.
+
+Pettit, G. S., Dodge, K. A., & Brown, M. M. (1988).
+Early  family  experience,  social  problem  solving
+patterns,  and  children's  social  competence.  Child
+Development,  59,  107-120.
+
+Pettit,  G.  S.,  Harrist,  A.  W.,  Bates, J.  E.,  & Dodge,
+
+CHILDREN'S  SOCIAL  COGNITIONS
+
+333
+
+K.  A.  (1991).  Family  interaction,  cognition,  and
+children's  subsequent  relations  with  peers  at kin-
+dergarten. Journal of Social and Personal Relation-
+ships, 8, 383-402.
+
+Quiggle, N. L., Garber,  J., Panak,  W. F., & Dodge,
+K. A. (1992). Social  information  processing  in ag-
+gressive  and  depressed  children.  Child  Develop-
+ment, 63, 1305-1320.
+
+Rabiner,  D., Lenhart,  L., & Lochman,  J. E. (1990).
+Automatic  versus reflective  social  problem-solving
+in  popular,  average,  and rejected  children.  Devel-
+opmental  Psychology, 26, 1010-1016.
+
+Richard, B. A., & Dodge, K. A. (1982). Social mal-
+adjustment  and  problem  solving  in  school-aged
+children.  Journal  of  Consulting  and Clinical Psy-
+chology, 50, 226-233.
+
+Robins, L. N. (1966). Deviant  children grown  up: A
+sociological  and psychiatric  study  of  sociopathic
+personality.  Baltimore: Williams  & Wilkins.
+
+Rosenberg, M. S. (1987). Children of battered  wom-
+en:  The  effects  of  witnessing  violence  on  their
+social  problem-solving  abilities.  The  Behavior
+Therapist,  4, 85-89.
+
+Rossman,  B.  B.  R.,  &  Rosenberg,  M.  S.  (1992).
+Family stress and functioning  in children: The mod-
+erating effects  of children's beliefs  about their con-
+trol  over  parental  conflict.  Journal  of  Child Psy-
+chology and Psychiatry, 33, 699-715.
+
+Slaby,  R.  G.,  &  Guerra,  N.  G.  (1988).  Cognitive
+mediators of aggression in adolescent  offenders:  1.
+Assessment.  Developmental  Psychology,  24,  580-
+588.
+
+Smithmyer,  C. M., Hubbard, J. A., & Simons, R.  F.
+(2000).  Journal  of Clinical  Child  Psychology, 29,
+86-93.
+
+Straus,  M.  A.,  Gelles,  R.  J.,  &  Steinmetz,  S. K.
+(1980). Behind closed doors: Violence in the Amer-
+ican family.  Garden  City, NY:  Anchor.
+
+Straus,  M. A., Hamby,  S. L., Boney-McCoy,  S., &
+Sugarman, D. B. (1995). The Revised  Conflict Tac-
+tics  Scales  (CTS2).  Durham:  University  of New
+Hampshire,  Family  Research  Laboratory.
+
+Waldman,  I.  D.  (1996).  Aggressive  boys'  hostile
+perceptual  and response  biases: The role  of  atten-
+tion and impulsivity. Child Development, 67, 1015—
+1033.
+
+Weiss, B., Dodge, K. A., Bates, J. E., & Pettit, G.  S.
+(1992).  Some  consequences  of  early  harsh  disci-
+pline:  Child  aggression  and a  maladaptive  social
+information  processing  style.  Child  Development,
+63,  1321-1335.
+
+Received  May  8,  2000
+Revision  received  November  2,  2000
+
+Accepted  January  29, 2001  •
+
+Low Publication Prices for APA Members and Affiliates
+
+Keeping you up-to-date. All APA Fellows, Members, Associates, and Student  Affiliates
+receive—as  part  of  their  annual  dues—subscriptions  to  the American  Psychologist  and
+APA  Monitor.  High  School Teacher  and  International  Affiliates  receive  subscriptions  to
+the APA Monitor,  and they may subscribe to the American  Psychologist  at a  significantly
+reduced rate. In addition, all Members and Student Affiliates  are eligible for savings of up
+to 60% (plus a journal credit) on all other APA journals, as well as significant discounts on
+subscriptions from cooperating societies and publishers (e.g., the American Association for
+Counseling and Development, Academic Press, and Human Sciences Press).
+
+Essential  resources. APA members and affiliates  receive special rates for purchases of
+APA books, including the Publication Manual of the American Psychological  Association,
+and on dozens of new topical books each  year.
+
+Other  benefits  Of  membership.  Membership  in  APA  also  provides  eligibility  for
+competitive insurance plans, continuing education programs, reduced APA convention fees,
+and specialty  divisions.
+
+More information. Write to American Psychological Association, Membership Services,
+750 First  Street, NE, Washington, DC 20002-4242.
+
+

@@ -1,0 +1,1324 @@
+545
+
+British Journal of Developmental Psychology (2002), 20, 545–564
+2002 The British Psychological Society
+
+www.bps.org.uk
+
+Theory of mind and peer acceptance in preschool
+children
+
+Virginia Slaughter*, Michelle J. Dennis and Michelle Pritchard
+School of Psychology, University of Queensland, Brisbane, Australia
+
+Two studies tested the hypothesis that preschool children’s theory of mind ability is
+related to their levels of peer acceptance. In Study 1, 78 children between the ages of 4
+and 6 provided peer nominations that allowed determination of social preference and
+social impact scores, and classification in one of five peer status groups (following Coie
+& Dodge, 1983). Children were also tested on five different theory of mind tasks. The
+results showed that theory of mind scores were significantly related to social
+preference scores in a subsample of children who were over 5 years old. Further,
+popular children were found to score higher on theory of mind tasks than children
+classified as rejected. Study 2 replicated and extended the first study with a new sample
+of 87 4- to 6-year-old children. Study 2 included measures of peer acceptance, theory
+of mind ability and verbal
+intelligence, as well as teacher ratings of prosocial and
+aggressive behaviours. The results of Study 2 showed that for the total group of
+children, prosocial behaviour was the best predictor of social preference scores. When
+the Study 2 sample was split into older and younger children, theory of mind ability was
+found to be the best predictor of social preference scores for the older children (over
+age 5), while aggressive and prosocial behaviours were the best predictors of peer
+acceptance in the younger children. Overall, the pattern of results suggests that the
+impact of theory of mind ability on peer acceptance is modest but increases with
+children’s age.
+
+Between the ages of 3 and 5, young children acquire a theory of mind, that is, the ability
+to predict and explain the behaviour and feelings of others based on reference to
+mental states like beliefs, desire and percepts (Astington, 1993; Wellman, 1990). There
+are individual differences in theory of mind development, and recent work has shown
+that those individual differences are related to a variety of social and cognitive factors.
+For instance, theory of mind ability is related to the production of pretend play (Taylor
+& Carlson, 1997), levels of school adjustment (Dunn, 1995), social competence and
+
+* Requests for reprints should be addressed to Virginia Slaughter, School of Psychology, University of Queensland, Brisbane
+4072, Australia (e-mail: vps@psy.uq.eds.au).
+
+Virginia Slaughter et al.
+
+546
+social roles in school (Lalonde & Chandler, 1995; Sutton, Smith, & Swettenham, 1999),
+and family variables such as mother–child interaction styles (Dunn, 1994; Peterson &
+Slaughter, 2002; Ruffman, Perner, & Parkin, 1999) and number of siblings (Jenkins &
+Astington, 1996; Ruffman, Perner, Naito, Parkin, & Clements, 1998).
+
+The research to date suggests that individual differences in theory of mind ability
+bear some relation to individual children’s social experiences. The purpose of the
+present studies is to investigate whether theory of mind ability relates to children’s
+levels of peer acceptance. Peer acceptance refers to the extent to which children are
+accepted or rejected by their peer group. Since the acquisition of a theory of mind
+reflects children’s understanding of other people’s mental states and emotional
+responses, and is related to perspective-taking and empathy (Flavell & Miller, 1998), it is
+hypothesized that individual children’s theory of mind ability will be related to their
+levels of peer acceptance. This hypothesized relation could come about through two
+reciprocal pathways. First, children who are relatively advanced on measures of theory
+of mind ability may be relatively popular, as their theory of mind skills may enable them
+to recognize and appreciate the desires, perspectives, emotions and thoughts of their
+peers, and this level of interpersonal sensitivity might lead to a child’s being relatively
+well liked within his or her peer group. Second, it is hypothesized that adequate
+relations with peers form an important social context within which children acquire
+many of their socially competent skills (Asher & Coie, 1990; Coie & Cillessen, 1993;
+Ladd, 1990), including theory of mind. Children who are popular in their peer groups
+may exhibit relatively advanced theory of mind skills because they enjoy more
+opportunities to interact with their peers, and thereby develop their understanding of
+others’ minds.
+
+The method most commonly used to measure children’s peer acceptance was
+developed by Coie and Dodge (1983) and involves all children within the peer group
+making both positive and negative peer nominations. These nominations allow
+researchers to calculate individual children’s social preference and social
+impact
+within their peer group. Social preference refers to the extent to which a child is liked
+by his/her peers and is derived by subtracting children’s negative peer nominations
+from their positive peer nominations. Social impact refers to the degree to which a child
+is noticed by his/her peers and is derived by summing both positive and negative peer
+nominations (Coie & Dodge, 1983). Based on these two measures, children can be
+classified as popular, controversial, average, neglected or rejected within their peer
+groups.
+
+There is a large body of research investigating both cognitive and behavioural factors
+that influence peer acceptance in school-aged children. Cognitive variables that have
+emerged as important factors in influencing children’s peer status include intelligence,
+language ability and perspective-taking (Coie, Dodge, & Kupersmidt, 1990). In general,
+children who are relatively high on these cognitive variables are more likely to be well-
+liked by their peers. There are also numerous behavioural variables that have been
+shown to be related to children’s peer status. Two behavioural variables that have been
+consistently shown to affect peer status are aggression and prosocial behaviour.
+Aggressive behaviour generally refers to those behaviours that are either physically or
+verbally aggressive to another peer, such as hitting or swearing, or those behaviours
+that disrupt or disturb a peer such as snatching a book or a toy from another child
+(Newcomb, Bukowski, & Pattee, 1993). Prosocial behaviour refers to those behaviours
+that indicate a concern for the well-being of another person such as helping, sharing,
+comforting and cooperating (Weir & Duveen, 1981). In general, those children who
+
+Theory of mind and peer status
+
+547
+become popular in their peer group have been found to engage in high levels of
+prosocial behaviour and low levels of aggressive behaviour, while children who
+become rejected in their peer group tend to show the opposite pattern of behaviour in
+interactions with their peers. Further, it has been suggested that rejected and popular
+children are more likely to differ in their production of prosocial than aggressive
+behaviours (Bukowski & Newcomb, 1984; Hartup, Glazer, & Charlesworth, 1967),
+suggesting that theory of mind skills like perspective-taking and empathy that may assist
+children to behave prosocially (Lalonde & Chander, 1995) could be particularly
+influential in determining children’s peer acceptance.
+
+Dekovic and Gerris (1994) investigated both prosocial behaviour and social–
+cognitive abilities in school-aged children who were popular and rejected. The social–
+cognitive tasks they used included affective perspective-taking, interpersonal under-
+standing, prosocial moral reasoning and an empathy task. Their results confirmed that
+popular children had relatively high levels of social–cognitive functioning and also
+engaged in high levels of prosocial behaviour, compared to rejected children. These
+differences between popular and rejected children were found to be larger for the older
+children (seventh graders) than for the younger children (third graders), possibly
+reflecting the cumulative nature of peer rejection. This cumulative model rests on the
+assumption that the development of social–cognitive skills and peer acceptance are
+mutually reinforcing, as outlined above. Those children who are rejected by their peers
+are not able to gain access to a peer context that would allow them to develop the very
+social skills necessary to increase their peer acceptance.
+
+Given this cumulative model,
+
+it becomes important to investigate factors that
+influence peer acceptance and rejection in even younger children, for instance
+preschoolers, who are entering into their first peer groups at the same time that they
+are typically developing a theory of mind.
+
+Several recent studies have directly examined links between preschool-aged
+children’s theory of mind ability and peer acceptance. Dockett (1997) tested 3- to 5-
+year-old children on their understanding of the appearance–reality distinction and false
+beliefs, and measured their degree of popularity (assessed with positive peer
+nominations only) within their peer group. The theory of mind scores obtained were
+found to explain a significant amount of the variance in peer popularity, suggesting that
+popular children may have a greater sensitivity than unpopular children to other
+people’s differing psychological states.
+
+Watson, Nixon, Wilson, and Capage (1999) found that 4- to 6-year-old children’s
+theory of mind ability, measured by standard false belief tests, was not significantly
+related to teacher ratings of popularity when the effects of language ability were
+controlled. Theory of mind scores were, however, uniquely related to teacher ratings of
+social skills across two different experiments. The lack of relation between theory of
+mind ability and popularity in this study may indicate that teachers can more accurately
+rate social skills, reflected in behaviour and attitudes, than popularity.
+
+Badenes, Estevan, and Bacete (2000) investigated relations between 4- to 6-year-olds’
+theory of mind ability, measured with a battery of tasks and peer acceptance, measured
+with a peer nomination procedure similar to that of Coie and Dodge (1983). The
+comparisons among popular, average and rejected boys and girls revealed few
+differences on theory of mind measures. The popular girls were significantly better than
+average or neglected girls on a deception task, though performance on the other theory
+of mind tasks (including false belief) did not vary with peer acceptance. The rejected
+boys performed significantly worse than their peers on one theory of mind task (the
+
+Virginia Slaughter et al.
+
+548
+white lie task) and also demonstrated significantly more hostile attributions in tasks
+requiring explanations of other people’s behaviour. Interestingly, these results held for
+the older (age 6), but not the younger rejected boys, reinforcing the hypothesis that
+peer rejection has cumulative effects on children’s social development.
+
+Thus, to date, there is no clear consensus on whether and how theory of mind ability
+is related to peer acceptance in preschoolers, though overall, the results of published
+studies tend to suggest that popular or socially skilled children (cf. Lalonde & Chandler,
+1995) may be relatively advanced in their theory of mind understanding. The two
+studies reported here were designed to establish whether theory of mind ability
+influences peer acceptance in preschoolers and to investigate the extent of that
+influence relative to some of the behavioural variables known to be important
+predictors of peer acceptance in young children. Specifically, Study 1 investigates the
+hypothesis that theory of mind ability is positively related to peer acceptance in
+preschool-aged children. Study 2 investigates the relative importance of theory of mind,
+verbal ability and aggressive and prosocial behaviours to peer acceptance in
+preschoolers.
+
+STUDY 1
+
+Method
+Participants
+The participants in this study were 80 children (41 boys, 39 girls) between the ages of
+53 months (4 years, 5 months) and 72 months (6 years, 0 months). The children
+attended five classes in five different child care centres in middle-class suburbs of a large
+Australian city.
+
+Class sizes ranged from 12 to 21 children, with the number of boys and girls within
+each class being almost equal. Twenty-five additional children attended these classes
+but did not participate in the study due to a lack of parental consent. One girl was lost
+halfway through the study due to holidays, and another girl was eliminated because she
+was only 48 months old (5 months younger than the next youngest child) at the time of
+testing. The final sample (N = 78) represented 76.2%of students across the five classes.
+All children attended the child-care centres at least 3 days per week.
+
+Procedure and measures
+Children were tested separately by a female experimenter for approximately 10–15 min
+on two occasions. On the first occasion, children were given two theory of mind tasks
+and a peer nomination task that was used to determine peer status. On the second
+occasion, children were given the remaining three theory of mind tasks and the peer
+nomination task again, so as to calculate reliability for the peer status classifications.
+Eleven children had to be followed up as they were absent either on the first occasion
+(N = 3) or on the second occasion (N = 8). For the final sample, 1–2 weeks passed
+between occasions one and two. No more than 4 weeks passed between testing
+sessions for those children who were tested on a third occasion.
+
+Theory of mind and peer status
+
+549
+
+Theory of mind tasks
+Five theory of mind tasks were used in the present study: two standard unexpected
+contents false belief tasks (Gopnik & Astington, 1988), a conflicting emotion task, a
+conflicting desire task, and a version of the Four Sweets task (Baron-Cohen, 1994). Each
+of these tasks was designed to measure children’s ability to identify two different
+mental-state perspectives on the same situation. See the Appendix for a full description
+of tasks and task scripts.
+
+Each task involved a short story about a child who was the same age as the
+participant, and children in the stories were matched with the gender of the
+participants. Pictures used within each task were presented on 25 cm 6 31 cm pieces
+of cardboard. The pictures of story characters differed in hair type and colour to allow
+children to differentiate between different stories. The two false belief tasks were
+always presented together as they relied on the same materials. The tasks were
+counterbalanced for order over the two testing occassions using a partial Latin square.
+
+Scoring theory of mind tasks
+Each theory of mind task was scored on a pass/fail basis. In order to pass a task, children
+were required to answer correctly all control questions and test questions.
+
+A total theory of mind score was computed by adding together children’s pass/fail
+scores on the individual theory of mind tasks (e.g. Self belief, Other belief, Emotion,
+Desire, Four Sweets).1 This composite theory of mind score was created to reflect
+children’s overall, multifaceted understanding of mental states. Research has shown
+significant intercorrelations among various theory of mind tasks, suggesting that they
+tap aspects of a single ability (Gopnik & Astington, 1988; Moore, Pure, & Furrow, 1990;
+Slaughter & Gopnik, 1996). Further, a reliability analysis on children’s performance on
+the five tasks revealed a Cronbach’s alpha of .51, which was considered a reasonable
+figure for internal reliability on a 5-item scale. The total theory of mind scores ranged
+from 0 to 5, reflecting levels of children’s understanding of mental states.
+
+Measurement of peer status
+Children’s peer status was determined using the method described by Coie and Dodge
+(1983). Peer status measures were based on the nominations taken on the testing
+occasion when all children in the classroom group who were participating in the study
+were present. The peer nominations of the child who was lost halfway through the
+study were used in the determinations of status in her classroom group, but her theory
+of mind data were not included in any analyses because she did not have a full data set.
+The peer nominations of the child who was eliminated from the study because she was
+an age outlier were also retained for the calculations of status in her classroom group.
+Before testing commenced on the first occasion, children were photographed in
+groups of one to four using a Polaroid camera. These photographs were then cut up
+into strips so that children had their own individual photographs. Photographs were cut
+up so that the presentation of the order of these photographs could be randomized and
+
+1 A few children reported unexpected preferences on the control questions of the emotions (N = 2) and/or desires (N = 6)
+tasks. Since these children therefore did not report a preference that was in conflict with that of the story character, their
+correct answers to questions about the story characters’ desires or emotions were ambiguous; they could simply have reported
+their own desires or emotions. For those children, the tasks for which they gave ambiguous answers were dropped, and their
+total theory of mind scores were computed from four (instead of five) tasks, each with a weighted passing score of 1.25.
+
+Virginia Slaughter et al.
+
+550
+so that children did not, for example, nominate three children because they were in the
+same photograph together. These individual photograph strips were attached to a piece
+of cardboard (31 cm 6 25 cm). After the completion of the two theory of mind tasks on
+the first and second occasions of testing, children were presented with the photographs
+of their classroom peers who were also participating in the study. The experimenter
+guided children through the photographs of their classroom peers and asked them to
+name each child. All children were familiar with the names of their classroom peers.
+Children were then requested to nominate the three children they liked to play with
+the most (Like Most—LM) and the three children they did not like to play with very
+much (Like Least—LL). All children made three positive (LM) and negative (LL)
+nominations on the testing occasion that was used for the categorization of children
+into peer status groups. All nominations made by each child were considered to be of
+an equivalent value in the calculation of LM nominations and LL nominations for each
+child. The LM nominations and LL nominations were then standardized within each
+individual classroom group. These standardized LM and LL scores were then used to
+calculate a social preference score (SP) and a social impact score (SI) for each child.
+Social preference scores were calculated by taking children’s individual standardized LL
+score from their standardized LM score (i.e. SP = LM 7 LL). Social impact scores were
+calculated by adding each child’s individual standardized LM score to their individual
+standardized LL score (i.e. SI = LM + LL).
+
+Based on these scores, children were classified into one of five peer status groups
+
+following the procedure specified by Coie and Dodge (1983).2
+
+Reliability of peer status measures
+The correlations between children’s social impact and social preference scores derived
+from nominations made on the first and second testing occasions were .78 and .50,
+respectively. Agreement for peer status classifications across the two occasions was
+73%, with Cohen’s kappa = .58. These figures are comparable to those reported by
+Sanderson and Siegal (1995) who used a measure and a sample similar to those of the
+present study. The peer status data used in the analyses were based on nominations
+made on the first occasion.
+
+Results
+Correlations
+Table 1 shows the zero-order correlations for age (in months), theory of mind scores,
+social preference scores and social impact scores. The only significant correlation in the
+matrix is that of theory of mind and social preference (Pearson’s r(76) = .27, p < 05,
+two-tailed), indicating that children who scored highly on the theory of mind tasks also
+had relatively high social preference scores.
+
+Next, the correlations between theory of mind and social preference and theory of
+
+2Popular children were those children who had a SP score greater than +1, and had standardized LM score greater than the
+mean of zero, and a standardized LL score less than the mean of zero. Controversial children were those children who had a
+SI score greater than +1, and had a standardized LM score and a standardized LL score greater than the mean of zero.
+Average children were those children who had a SP score between 70.5 and +0.5. Neglected children were those children
+who had a SI score less than 71, and had a standardized LM score and a standardized LL score below the mean of zero.
+Finally rejected children were those children who had a SP score below 71 and had a standardized LM score below the mean
+of zero and a standardized LL score above the mean of zero.
+
+Theory of mind and peer status
+
+551
+
+Table 1. Zero-order correlations for variables in Study 1
+
+Age
+ToM score
+SP score
+SI score
+
+Age
+
+—
+.01
+.04
+.09
+
+ToM
+
+—
+.27*
+.13
+
+SP
+
+—
+.20
+
+SI
+
+—
+
+* p < .05, two-tailed.
+Note. N = 78.
+ToM = theory of mind; SP = social preference; SI = social impact.
+
+mind and social impact were rerun with age partialled out. With age controlled, theory
+of mind scores and social preference scores remained significantly correlated (Pearson’s
+r(76) = .27, p < .05, two-tailed). The correlation between theory of mind scores and
+social
+impact scores remained non-significant with age partialled out (Pearson’s
+r(78) = .12, p > .10).
+
+Given that the relation between theory of mind and peer acceptance is hypothesized
+to strengthen as children get older, the partial correlation between theory of mind and
+social preference was computed separately for older and younger children. The sample
+was subjected to a median split such that older children were aged 61 months (5 years,
+1 month) or older (N = 44; mean age = 65.4 months), and younger children were aged
+60 months (5 years) and younger (N = 34; mean age = 56.5 months). The mean theory
+of mind scores for the younger and older subsamples were 2.65 (SD = 1.45) and 2.81
+(SD = 1.13) respectively, which is not a significant difference by paired t-test
+(t(76) = .55, p > .10). The mean social preference scores also did not differ by age
+group: the mean score for the younger children was 7.03 (SD = 1.80), and for the
+older children, the mean social preference score was .03 (SD = 1.63; t(76) = .148).
+
+These analyses showed that theory of mind scores and social preference scores (with
+age partialled out) were not significantly related in the younger subsample (Pearson’s
+r(32) = .12, p > .10). For the older subsample, the correlation between theory of mind
+scores and social preference scores (with age partialled out) was significant (Pearson’s
+r(42) = .39, p < .05, two-tailed).
+
+Peer status and theory of mind
+Table 2 shows the number of children classified into the five peer status groups,
+together with the average age and the total theory of mind score (out of 5) for each
+group. Thirteen children could not be classified into any status group. Table 3 shows
+the proportion of children in each status group passing the individual theory of mind
+tasks.
+
+In order to evaluate differences in theory of mind ability among the children in
+different sociometric status groups, pre-planned pairwise comparisons (Keppel &
+Zedeck, 1989) were conducted. Four t-tests were run comparing high peer acceptance
+(average and popular) children to low peer acceptance (rejected and neglected)
+children. Since the status of controversial children is unclear with respect to peer
+acceptance (as they are both liked and disliked by peers), and since the number of
+controversial children in the sample was small, they were left out of this analysis. The
+results indicated that popular children’s theory of mind scores were significantly higher
+
+552
+
+Virginia Slaughter et al.
+
+Table 2. Mean theory of mind scores for children in five peer status groups in Study 1
+
+Peer status
+
+Popular
+Controversial
+Average
+Neglected
+Rejected
+
+N
+
+19
+8
+12
+10
+16
+
+Average age (in months)
+
+Theory of mind score (range 0–5)
+
+61.6 (4.2)
+62.5 (6.4)
+64.3 (5.0)
+59.7 (5.7)
+59.8 (4.8)
+
+3.09 (1.19)
+3.28 (1.22)
+2.94 (1.00)
+2.53 (1.56)
+2.17 (1.31)
+
+Note. Standard deviations are shown in parentheses.
+
+Table 3. Proportion of children passing each theory of mind task by peer status group in Study 1
+
+Self
+belief
+
+.84
+1.00
+.83
+.60
+.56
+
+Other
+belief
+
+.63
+.88
+.67
+.40
+.50
+
+Desire
+
+Emotion
+
+.53
+.38
+.36
+.44
+.33
+
+.83
+1.00
+.82
+.56
+.75
+
+Four
+Sweets
+
+.58
+.63
+.42
+.20
+.25
+
+Popular
+Controversial
+Average
+Neglected
+Rejected
+
+than those of rejected children (t(33) = 2.18, p < .05). None of the other pairwise
+comparisons was significant.
+
+Discussion
+This study provided some support for the hypothesis that theory of mind ability is
+related to peer acceptance. The analysis of theory of mind scores by status group
+showed that popular children, whose peer status classifications reflect relatively many
+‘like most’ peer nominations, scored higher on theory of mind tasks compared to
+rejected children, whose classification reflects relatively few ‘like most’ nominations.
+This pattern supports the hypothesis that popular children have a better understanding
+of other people’s mental states, relative to their rejected peers (Badenes et al., 2000;
+Dockett, 1997). An examination of children’s performance on the individual theory of
+mind tasks (Table 3) suggests that children who were rejected or neglected by their
+peers scored lowest on all of the theory of mind tasks, with popular and controversial
+children scoring highest on all tasks and average children falling between the two
+extremes.
+
+The results of the correlational analyses showed a similar pattern, in that theory of
+mind scores were modestly but significantly correlated with children’s social
+preference scores, but not with their social impact scores. This pattern indicates that
+across the sample, children with a relatively high theory of mind ability tended to
+receive more ‘like most’ nominations than ‘like least’ nominations. The partial
+correlations confirmed that theory of mind was significantly related to social preference
+when age was controlled. However, when the sample was split by age, that relation
+held only for children older than age 5. While the magnitudes of the correlations
+
+Theory of mind and peer status
+
+553
+between theory of mind and peer acceptance were modest, the pattern of results
+replicates previous findings of a theory of mind-peer acceptance link (Badenes et al.,
+2000; Dockett, 1997); and further parallels Dekovic and Gerris’ (1994) and Badenes et
+al.’s (2000) findings of an age-dependent relation between theory of mind ability and
+peer acceptance in preschool and school-aged children. Overall, the results of Study 1
+suggest two things: that there is a modest positive relation between theory of mind
+ability and peer acceptance, and that individual differences in social–cognitive abilities
+may impact more strongly on peer acceptance as children get older.
+
+While these results are suggestive, a major limitation of Study 1 is the exclusion of
+some measure of general intellectual ability. Given previous data that have linked verbal
+ability with theory of mind (Jenkins & Astington, 1996) and linked intelligence with
+social competence (Putallaz, 1983), the effect of intelligence on the relation between
+theory of mind ability and peer acceptance should be investigated. Given the modest
+effects found in Study 1, it seems certain that other variables play a role in determining
+children’s peer acceptance. Thus it would also be valuable to investigate the roles of
+behavioural variables such as levels of prosocial and aggressive behaviour, which have
+been shown to have significant influence on children’s peer status (Bukowski &
+Newcomb, 1984; Coie & Kupersmidt, 1983; Dodge, 1983). Study 2 was designed to test
+the relative importance of theory of mind ability and behavioural variables to preschool
+children’s peer status. Study 2 also included a measure of verbal mental age as a control
+variable.
+
+STUDY 2
+
+Method
+Participants
+The participants in this study were 92 children (49 boys, 43 girls) between the ages of
+48 months (4 years, 0 months) and 79 months (6 years, 7 months). The children
+attended five classes, in five different child-care centres in middle-class suburbs of a
+large Australian city. Class sizes ranged from 12 to 23. Thirty-five additional children
+attended these classes but did not participate in the study due to lack of parental
+consent. Five children (3 boys, 2 girls) were lost halfway through the study as a result of
+sickness or holidays. The final sample (N = 87) represented 71%of students in the five
+classes.
+
+All children, except one, attended the child-care centres and preschool at least 3
+days per week. The other child who attended two times per week however, was not
+eliminated from the study as she had previously attended 4 days per week and was
+familiar with the majority of children. All children had been known by their teachers for
+a minimum of 3 months at the time of testing.
+
+Procedure and measures
+Children were tested individually by a female experimenter for a total of approximately
+40 min per child over three occasions. On the first occasion, children were tested with
+two false belief tasks and a measure of verbal intelligence. A photograph of each child
+was taken on the first testing occasion. On the second occasion, children were given
+
+Virginia Slaughter et al.
+
+554
+two different false belief tasks and the peer nomination task that was used to determine
+peer status. On the third testing occasion, children completed the peer nomination task
+again so as to calculate reliability for the peer status classifications. For the final sample,
+2–4 weeks passed between occasions one and three.
+
+The head teacher of each classroom group filled out a Behavioural Questionnaire
+
+(see details below) for all children involved in the study.
+
+Theory of mind tasks
+Four different false belief tasks were used to measure theory of mind ability. These
+included two different versions of the standard change in location task and two versions
+of the unexpected contents task used in Study 1. One of each type of false belief task
+was administered on occasions one and two. False belief tasks replaced the theory of
+mind battery of tasks from Study 1 in order to reduce the amount of time required for
+testing (given the addition of a test of verbal intelligence). This change in procedure
+was further justified by an analysis of the results of Study 1, which found that false belief
+scores correlated moderately strongly with overall theory of mind scores (r(76) = .54).
+
+Change in location task
+This standard task was adopted from Baron-Cohen, Leslie & Frith (1985). The two
+versions differed only in the characters used (boy dolls versus girl dolls) and the hiding
+locations employed (box versus bag).
+
+Unexpected contents task
+The format of this task was identical to the false belief task used in Study 1. One version
+involved a bandaid box with a book inside, and the other version involved a crayon box
+with candles inside.
+
+Scoring false belief tasks
+Each false belief task was scored on a pass/fail basis. Children were required to answer
+correctly both the memory control and test questions. Atotal false belief score was then
+computed by adding children’s pass/fail scores for the four individual false belief tasks,
+following widely used procedure (Astington, 1993). A reliability analysis on the four
+false belief tasks indicated good internal consistency, with Cronbach’s alpha = .75.
+
+Verbal intelligence
+Children’s verbal intelligence was assessed through the administration of the Peabody
+Picture Vocabulary Test—Revised (PPVT) (Dunn & Dunn, 1981). Raw scores were used
+in all analyses.
+
+Behavioural Questionnaire
+Head teachers in each classroom were asked to complete a Behavioural Questionnaire
+for each child participating in the study. Three inventories inventories were combined
+into one 57-item questionnaire containing items relating to the child’s prosocial and
+aggressive behaviours, and Machiavellianism (not reported in this paper). All items on
+the Behavioural Questionnaire were scored by teachers as 0 ‘rarely apply’, 1 ‘apply
+somewhat’, or 2 ‘certainly apply’. Three versions of the questionnaire were developed
+
+555
+to control for potential order effects with aggression, prosocial and Machiavellian
+behaviour items blocked and counterbalanced with the Latin square technique.
+
+Theory of mind and peer status
+
+The 20 items assessing prosocial behaviour were taken from the Prosocial Behaviour
+Questionnaire developed by Weir and Duveen (1981). Examples of items include: ‘Will
+clap or smile if someone else does something well in class’, ‘Comforts a child who is
+crying or upset’, ‘Will invite bystanders to join in a game’. To calculate a total prosocial
+behaviour score, the scores for each item were added together. The possible range for a
+prosocial behaviour score was 0–40.
+
+The 25 items assessing children’s levels of aggressive behaviour were taken from the
+aggression subscale of the Child Behaviour Checklist (Achenbach & Edelbrock, 1983).
+Example items include: ‘Destroys property belonging to others’, ‘Threatens people’,
+‘Temper tantrums or hot temper’. To form a total aggressive behaviour score, the scores
+from each aggression item in the Behavioural Questionnaire were added together. This
+score could range from 0 to 50.
+
+Measurement of peer status
+As in Study 1, children’s peer status was determined using the method described by
+Coie and Dodge (1983). The peer nominations provided by the five children lost
+halfway through the study were retained and used in the calculation of peer status.
+
+Reliability of peer status measures
+The correlations between children’s social impact and social preference scores derived
+from nominations made on the first and second testing occasions were .65 and .77,
+respectively. Agreement for peer status classifications across the two occasions was
+53%, with Cohen’s kappa = .41. These figures are comparable to those found in Study
+1. As in Study 1, the nominations made on the first occasion were used to calculate
+children’s peer status.
+
+Results
+Correlations among independent variables
+Table 4 shows the zero-order correlations among all the variables measured. PPVT
+scores were significantly related to age, theory of mind scores, prosocial behaviour
+scores and aggression scores, but not to social preference or social impact scores.
+Theory of mind scores were significantly positively correlated with age and prosocial
+behaviour scores but were not significantly correlated with aggression scores, social
+preference or social impact scores. Social preference scores were positively correlated
+with prosocial behaviour scores and negatively correlated with aggression scores.
+Finally, prosocial behaviour scores and aggression scores showed a significant negative
+correlation.
+
+In order to examine further the links between theory of mind, behaviour and peer
+acceptance variables, the correlations were re-computed with age and PPVT scores
+partialled out. When age and PPVT scores were partialled out, theory of mind scores
+were no longer significantly correlated with prosocial behaviour scores (Pearson’s
+r(85) = .08, p >.10). The negative correlation between prosocial behaviour and
+aggression remained significant when age and PPVT were partialled out (Pearson’s
+
+556
+
+Virginia Slaughter et al.
+
+Table 4. Zero-order correlation matrix for cognitive and behavioural variables in Study 2
+
+Age
+
+PPVT
+
+ToM
+
+Aggression
+
+Prosocial
+
+SP
+
+SI
+
+Age
+PPVT
+ToM
+Aggression
+Prosocial
+SP
+SI
+
+—
+.43**
+.34**
+
+7.08
+.14
+.14
+7.02
+
+—
+.35**
+7.20^
+.35**
+.19
+7.12
+
+—
+7.11
+
+.35**
+.11
+7.02
+
+—
+
+7.47**
+7.30**
+
+.10
+
+—
+.36**
+
+7.08
+
+—
+.03
+
+—
+
+* p < .01, two-tailed test; ^ p < .06, two-tailed test.
+Note. N = 87.
+PPVT = Peabody Picture Vocabulary Test; ToM = theory of mind; SP = social preference; SI = social
+impact.
+
+r(85) = 7.44, p < .05). The correlations between social preference scores and the
+behavioural variable scores remained significant after partialling out age and PPVT
+scores: the social preference and aggression partial correlation was r(85) = 727,
+p < .05 and the social preference and prosocial behaviour partial correlation was
+r(85) = .32, p < .05.
+
+Multiple regression analysis: predicting social preference
+To investigate the relative importance of the various cognitive and behavioural variables
+to children’s peer acceptance, a standard multiple regression was performed with social
+preference as the criterion measure, and PPVT, theory of mind, aggression, and
+prosocial behaviour scores as the predictors. Age was not entered into the regression in
+order to limit the number of variables and to reduce collinearity in the model.
+
+All variables were entered into the model at step 1. The overall R2 was .15 (adjusted
+R2 = .11) which was significant (F(4,86) = 3.71, p < .05). Examination of the individual
+beta weights revealed prosocial behaviour scores as the only significant independent
+predictor of social preference scores, with beta = .26, t(85) = 2.12, p < .05. The beta
+values for the remaining predictors were as follows: PPVT beta = .06, theory of mind
+beta = .02, aggression beta = 7 .16 (all ts < 1.5, ps > .10).
+
+Theory of mind and social preference by age group
+Following the procedure established in Study 1, the regression analyses were rerun
+separately for younger and older children. The sample was split as in Study 1 such that
+older children were 61 months or older (N = 41; mean age = 65.9 months), and
+younger children were age 60 months and younger (N = 46; mean age = 55.9 months).
+The regression analyses for the younger subsample revealed that the overall model
+was significant, with adjusted R2 = .18, F(4, 46) = 3.39, p < .05. Examination of the
+individual beta weights revealed that prosocial behaviour score was a significant
+independent predictor and that aggression score approached significance as an
+independent predictor of social preference in the children under age 5 years. The
+prosocial beta = .33,
+t(44) = 1.84,
+p < .08. The non-significant betas were as follows: PPVT beta = 7.11, theory of mind
+beta = 7.16, both ts(44) < 1.15, ps > .10.
+
+t(44) = 2.05, p < .05; aggression beta = 7.28,
+
+557
+In the older subsample, the overall adjusted R2 was .08, which was not significant,
+F(4,36) = 1.84, p > .10. However, examination of the individual beta weights revealed
+that theory of mind score was the best predictor of social preference score for children
+over age 5 years, approaching significance with beta = .32, t(40) = 1.81, p < .08. The
+non-significant beta’s for the older subsample were as follows: PPVT beta = 7.01,
+prosocial beta = .19, aggression beta = 7.01, all ts(40) < 1.04, ps > .10.
+
+Theory of mind and peer status
+
+Multiple regression analysis: predicting social impact
+Afinal standard multiple regression was performed on data from the entire sample with
+social impact as the criterion measure, and PPVT, theory of mind, aggression, and
+prosocial behaviour scores as the predictors. The overall model was not significant,
+with the total R2 = .02, F(4,82) = .43, p > .10. None of the individual beta weights
+exceeded .11.
+
+Theory of mind and peer status
+Table 5 shows the number of children classified into the five peer status groups,
+together with the average ages, scores on the PPVT, and scores for theory of mind,
+prosocial and aggressive behaviour. Nine children could not be classified into any status
+group.
+
+Table 5. Mean age and scores for children in the five peer status groups in Study 2
+
+Peer
+status
+
+Popular
+
+Controversial
+
+Average
+
+Neglected
+
+Rejected
+
+N
+
+19
+
+9
+
+16
+
+14
+
+20
+
+Age
+
+(months)
+
+False belief
+(range 0–4)
+
+Prosocial
+
+(range 0–40)
+
+Aggression
+(range 0–50)
+
+61.5
+(6.2)
+61.6
+(6.4)
+61.1
+(6.0)
+60.5
+(6.2)
+59.4
+(6.0)
+
+3.16
+(1.02)
+2.00
+(1.58)
+3.06
+(.93)
+2.29
+(1.49)
+2.80
+(1.44)
+
+24.63
+(8.20)
+16.11
+(6.49)
+16.81
+(10.5)
+20.71
+(10.18)
+14.00
+(10.46)
+
+4.42
+(6.91)
+14.67
+(10.49)
+7.38
+(9.34)
+10.57
+(13.05)
+15.90
+(14.69)
+
+PPVT
+(raw
+score)
+
+54.68
+(15.02)
+45.33
+(9.45)
+52.80
+(16.84)
+50.70
+(17.49)
+44.70
+(9.85)
+
+Note. Mean scores in bold typeface; Standard deviations are shown in parentheses.
+
+In order to evaluate differences in theory of mind ability among the different status
+groups while controlling for verbal ability, a one-way ANCOVA was run with theory of
+mind scores as the dependent variable, peer status groups (five levels) as the factor and
+PPVT score entered as a covariate. This analysis revealed a significant main effect of
+PPVT on theory of mind scores (F(1,68) = 6.75, p < .05) but no independent effect of
+status on theory of mind scores (F(4,68) = 1.14, p > .10) and no interaction
+(F(4,68) = .629, p > .10). Follow-up tests using Fisher’s Protected Least Significant
+Difference procedure revealed that the PPVT scores of popular and rejected children
+were significantly different (p < .05).
+
+Virginia Slaughter et al.
+
+558
+Discussion
+The results of Study 2 partially replicate patterns found in Study 1, but highlight the
+need for consideration of multiple variables in explaining peer acceptance in young
+children. While the theory of mind scores of the different peer status groups showed a
+similar pattern to that found in Study 1, with popular children achieving the highest
+scores and neglected and rejected children earning relatively low scores, when verbal
+ability was taken into account in the ANCOVA, the differences in theory of mind ability
+among children in the different peer status groups were not significant. Thus, the
+results of Study 2 indicated no significant effect of theory of mind ability on children’s
+peer status, over and above the effect of verbal intelligence. This result confirms
+previous work showing that bright, verbally adept children tend to be relatively popular
+among their peers (Coie et al., 1990; Putallaz, 1983).
+
+It should be noted that the pattern of results for controversial children in Study 2 was
+opposite that found in Study 1. In Study 1, controversial children received the highest
+theory of mind scores of all children, while in Study 2, their scores were the lowest of
+the peer status groups. The controversial group is typically the smallest peer status
+group in the population (as in both studies reported here), and the most fluid
+(Newcombe et al., 1993), with features of both popular (many positive peer
+nominations) and rejected (many negative peer nominations) groups. Clearly, more
+work will be required to understand the theory of mind abilities of children whose peer
+status is controversial.
+
+Variations in the behavioural variables by peer status groups generally replicated the
+reliable pattern seen in previous studies. Popular children received high prosocial
+behaviour scores and low aggression scores, while rejected children showed the
+opposite pattern. Controversial children were also relatively high on aggression.
+Surprisingly, neglected children in this study were rated as being relatively high on
+prosocial behaviour, which is not consistent with previous studies; generally, neglected
+children have been found to engage in relatively low levels of prosocial behaviour (Coie
+et al., 1990; Newcombe et al., 1993). This anomalous finding could have been
+produced by the fact that children’s ratings determined peer status, but teachers’
+ratings determined behaviour scores. If neglected children are ignored by their peers,
+they may spend more time than other children interacting with their teachers, in which
+case they might be likely to behave prosocially toward their teachers, for instance by
+being cooperative or helping when asked.
+
+The correlations between behavioural and cognitive variables were also in line with
+previous research, with prosocial and aggressive behaviour significantly negatively
+correlated, even when verbal ability and age were controlled. The significant zero-order
+correlation between theory of mind ability and prosocial behaviour was found not to be
+significant after age and verbal ability were partialled out. This pattern is in contrast to a
+recent study by Spatz and Cassidy (1999) in which theory of mind ability was found to
+be modestly but significantly related to prosocial behaviour even after the effects of
+language ability were partialled out. Given the theoretical and empirical links between
+socio-cognitive skill and prosocial behaviour (Dekovic & Gerris, 1994; Shantz, 1983),
+further investigation of the relation between theory of mind ability and prosocial
+behaviour is warranted. If the correlation between theory of mind and prosocial
+behaviour is only modest, the effect may be difficult to replicate and may be strongly
+influenced by the methods used to measure prosocial behaviour.
+
+Finally, the correlation and regression analyses partially replicated the pattern found
+
+Theory of mind and peer status
+
+559
+in Study 1. In contrast to Study 1, there was no significant zero-order correlation
+between theory of mind ability and social preference scores for the entire sample. For
+the full sample, prosocial behaviour was the only significant predictor of social
+preference scores,
+in line with previous work suggesting that levels of prosocial
+behaviour are among the most reliable behavioural discriminators of popular and
+rejected children (Bukowski & Newcomb, 1984; Hartup et al., 1967). The regression
+analyses by age group indicated that the behavioural variables of aggression and
+prosocial behaviour were the best predictors of social preference for the younger
+children in the sample. For the older children, in contrast, theory of mind ability was
+the best predictor of social preference. This pattern replicates Study 1; its potential
+significance will be discussed below.
+
+GENERAL DISCUSSION
+The two studies reported here, like the literature reviewed in the introduction, do not
+paint a completely clear picture of the relation between theory of mind and peer
+acceptance, but highlight the complexity of influences on young children’s peer
+acceptance. These studies were designed to assess the relation between theory of mind
+ability and peer acceptance in preschool-aged children, to try to establish whether, as
+hypothesized, theory of mind skill is related to peer popularity. The results of the
+studies provide some support for that hypothesis. Study 1 found a significant difference
+between popular and rejected children’s theory of mind ability, but that result was not
+replicated in Study 2 when verbal ability was controlled. The pattern of zero-order
+correlations in Study 2 did not suggest that verbal ability is a mediator of the relation
+between theory of mind ability and peer acceptance because in Study 2 (unlike Study
+1), theory of mind scores and social preference scores did not themselves correlate
+significantly (Baron & Kenny, 1986). This pattern suggests that the theory of mind
+discrepancy between popular and rejected children comes down to a significant
+difference in verbal ability between the two groups, as was found in Study 2.
+
+While the results for theory of mind ability by peer status group were somewhat
+inconclusive, the results from both studies clearly indicated that theory of mind ability
+may become an important determinant of peer acceptance for children over age 5. The
+relevant finding from Study 1 was that theory of mind scores were significantly related
+to social preference scores only for the older children, and similarly from Study 2, the
+data indicated that theory of mind ability was the best predictor of social preference in
+the children over age 5. An age-dependent relationship between theory of mind and
+peer acceptance was thus replicated across the two studies, even when the important
+variables of verbal intelligence and prosocial and aggressive behaviour were accounted
+for in Study 2.
+
+The results of Study 2 indicated that for younger children, behaviour was the most
+important predictor of peer acceptance. Children under age 5 who were generally well
+liked by their peers (reflected in relatively many positive peer nominations and few
+negative nominations) were those who were also rated by their teachers as being highly
+prosocial and non-aggressive. This finding can be interpreted with respect to children’s
+conceptions of friendship that indicate that young children view friends primarily in
+terms of their interpersonal behaviour, that is, friends are those peers with whom they
+play and share toys (Bigelow, 1977; Damon, 1988). Thus, in children under age 5, an
+
+Virginia Slaughter et al.
+
+560
+understanding of, and sensitivity to, others’ mental states may not be as relevant to
+determinations of peer status as is behaviour (Selman, 1981).
+
+in children over age 5,
+
+In children older than age 5, however, theory of mind ability was the best predictor
+of peer acceptance. Again, this finding can be understood in terms of children’s
+developing conceptions of friendship, as the research indicates that as children get
+older, they begin to appreciate friends for their attitudes and unique personality
+attributes. For older children, a friend is someone who shares desires, goals and
+attitudes (Bigelow, 1977; Damon, 1988). Thus,
+the
+understanding of other people’s mental states that characterizes theory of mind may
+become highly important in peer relationships. Children over age 5 who are lacking, or
+slower to develop, theory of mind ability may be unable to enter deeply into peer
+relations, and this feature may cause them to be less popular within their peer groups.
+The finding that theory of mind ability relates to peer acceptance in older but not
+younger children is also in line with previous studies that have demonstrated that the
+socio-cognitive differences between popular and rejected children are more
+pronounced in older samples (Badenes et al., 2000; Dekovic & Gerris, 1994). The
+pattern of results supports the cumulative model of peer rejection and suggests that a
+delay in acquiring the ability to predict and explain others’ behaviour with reference to
+internal, subjective mental states may have serious implications for children’s peer
+relationships. Children who are delayed relative to their peers in the development of
+the ability to reason about the internal feelings, thoughts and motivations of others may
+not be able to function sensitively with potential friends in their peer groups. If these
+children then become neglected or rejected by their peers, their opportunities to
+experience social interactions that could facilitate theory of mind development would
+diminish. Given the demonstrated importance of social interaction on theory of mind
+development (Dunn, 1995; Ruffman et al., 1998), the potential damaging effects of
+early peer rejection are substantial.
+
+The results of the present studies suggest that, as children enter school, theory of
+mind ability may play an important role in the development of healthy peer relations.
+Thus, 5-year-olds who are delayed on theory of mind ability at school entry might
+benefit from theory of mind training as they are beginning to enter into peer group
+relations. Given that intervention programs designed to increase the social acceptance
+of rejected children have typically been behaviour-based and the results have been
+inconsistent (see Mize, Ladd, & Price, 1985 for a review), it seems worthwhile to
+consider the possibility that theory of mind training with vulnerable 5-year-olds could
+attenuate some cases of peer rejection and avoid its cumulative effects on social–
+cognitive development.
+
+Acknowledgements
+We would like to thank the children, parents and teachers at the schools we visited whose
+generous cooperation made these studies possible. We also thank Peter Newcombe, Candi
+Peterson, Betty Repacholi, Michael Siegal and three anonymous reviewers for valuable comments
+on the manuscript.
+
+Theory of mind and peer status
+
+561
+
+References
+Achenbach, T., & Edelbrock, C. (1983). Manual for the child behaviour checklist and revised
+child behaviour profile. Burlington, VT: Department of Psychology, University of Vermont.
+Asher, S., & Coie, J. (1990). Peer rejection in childhood. New York: Cambridge University Press.
+Astington, J. (1993). The child’s discovery of the mind. Cambridge, MA: Harvard University Press.
+Badenes, L., Estevan, R., & Bacete, F. (2000). Theory of mind and peer rejection at school. Social
+
+Development, 9(3), 271–283.
+
+Baron, R., & Kenny, D.
+
+(1986). The moderator–mediator variable distinction in social
+psychological research: Conceptual, strategic and statistical considerations. Journal of
+Personality and Social Psychology, 51, 1173–1182.
+
+Baron-Cohen, S. (1994). How to build a baby who can read minds. Current Psychology of
+
+Cognition, 13(5), 513–552.
+
+Baron-Cohen, S., Leslie, A. M., & Frith, U. (1985). Does the autistic child have theory of mind?
+
+Cognition, 21, 37–46.
+
+Bigelow, B. (1977). Children’s friendship expectations: A cognitive developmental study. Child
+
+Development, 49, 246–253.
+
+Bukowski, W., & Newcomb, A. (1984). Stability and determinants of sociometric status and
+
+friendship choice: A longitudinal perspective. Developmental Psychology, 20, 941–952.
+
+Coie, J. D., & Cillessen, A. H. (1993). Peer rejection: Origins and effects on children’s
+
+development. Current Directions in Psychological Science, 2(3), 89–92.
+
+Coie, J. D., & Dodge, K. A. (1983). Continuities and changes in children’s social status: Afive year
+
+longitudinal study. Merrill-Palmer Quarterly, 29, 261–282.
+
+Coie, J. D., Dodge, K. A., & Kupersmidt, J. B. (1990). Peer group behavior and social status. In S.
+R. Asher & J. D. Coie (Eds.), Peer rejection in childhood (pp. 17–59). New York: Cambridge
+University Press.
+
+Coie, J. D., & Kupersmidt, J. B. (1983). A behavioral analysis of emerging social status in boys’
+
+groups. Child Development, 54, 1400–1416.
+
+Damon, W. (1988). The moral child. New York: Free Press.
+Dekovic, M., & Gerris, J. R. M. (1994). Developmental analysis of social cognitive and behavioral
+differences between popular and rejected children. Journal of Applied Developmental
+Psychology, 15, 367–386.
+
+Dockett, S. (1997). Young children’s peer popularity and theories of mind. Poster presentation
+at the biennial meeting of the Society for Research in Child Development, Washington, DC,
+April, 1997.
+
+Dodge, K. A. (1983) Behavioral antecedents of peer social status. Child Development, 54, 1386–
+
+1399.
+
+Dunn, J. (1994). Changing minds and changing relationships. In C. Lewis & P. Mitchell (Eds.)
+
+Origins of a theory of mind (pp. 297–310). Hillsdale, NJ: Erlbaum.
+
+Dunn, J. (1995). Children as psychologists: The later correlates of individual differences in
+
+understanding of emotions and other minds. Cognition and Emotion, 9(2/3), 187–201.
+
+Dunn, L. M., & Dunn, L. (1981). Peabody picture vocabulary test—revised. Circle Pines, MN:
+
+American Guidance Service.
+
+Flavell, J., & Miller, P. (1998). Social cognition, In W. Damon (Ed.-in-chief) and D. Kuhn & R.
+Siegler (Eds.), Handbook of child psychology: 5th ed., Vol. 2. Cognition, perception and
+language (pp. 851–898). New York: Wiley.
+
+Gopnik, A., & Astington, J. (1988) Children’s understanding of representational change and its
+relation to the understanding of false belief and the appearance–reality distinction. Child
+Development, 59, 26–37.
+
+Hartup, W. W., Glazer, J. A., & Charlesworth, R. (1967). Peer reinforcement and sociometric
+
+status. Child Development, 38, 1017–1024.
+
+Jenkins, J., & Astington, J. (1996). Cognitive factors and family structure associated with theory of
+
+mind development in young children. Developmental Psychology, 32, 70–78.
+
+562
+
+Virginia Slaughter et al.
+
+Keppell, G., & Zedeck, S. (1989). Data analysis for research designs: Analysis of variance and
+
+multiple regression/correlation approaches. New York: Freeman.
+
+Ladd, G. W. (1990). Having friends, keeping friends, making friends and being liked by peers in
+the classroom: Predictors of children’s early school adjustment? Child Development, 61,
+1081–1100.
+
+Lalonde, C. E., & Chandler, M. J. (1995). False belief understanding goes to school: On the social–
+emotional consequences of coming early or late to a first theory of mind. Cognition and
+Emotion, 9(2/3), 167–185.
+
+Mize, J., Ladd, G. W., & Price, J. M. (1985). Promoting positive peer relations with young children.
+
+Child Care Quarterly, 14, 221–237.
+
+Moore, C., Pure, K., & Furrow, D. (1990). Children’s understanding of the modal expression of
+speaker certainty and uncertainty and its relation to the development of a representational
+theory of mind. Child Development, 61, 722–730.
+
+Newcomb, A. F., Bukowski, W. M., & Pattee, L. (1993). Children’s peer relations: Ameta-analytic
+review of popular, rejected, neglected, controversial, and average sociometric status.
+Psychological Bulletin, 113(1), 99–128.
+
+Peterson, C., & Slaughter, V. (2002). Opening windows into the mind: Mothers’ explanations of
+false belief understanding, University of Queensland.
+
+states and children’s
+
+mental
+Unpublished manuscript.
+
+Putallaz, M.
+
+(1983). Predicting children’s sociometric status from their behavior. Child
+
+Development, 54(6), 1417–1426.
+
+Ruffman, T., Perner, J., Naito, M., Parkin, L., & Clements, W. (1998). Older (but not younger)
+
+siblings facilitate false belief understanding. Developmental Psychology, 34, 171–171.
+
+Ruffman, T., Perner, J., & Parkin, L. (1999). How parenting style affects false belief understanding.
+
+Social Development, 8, 395–411.
+
+Sanderson, J. A., & Siegal, M. (1995). Loneliness and stable friendship in rejected and nonrejected
+
+preschoolers. Journal of Applied Developmental Psychology, 16, 555–567.
+
+Selman, R. (1981). The child as a friendship philosopher. In S. Asher & J. Gottman (Eds.), The
+development of children’s friendships (pp. 242–271). Cambridge: Cambridge University
+Press.
+
+Shantz, C. (1983). Social cognition. In J. Flavell & E. Markman (Eds.), Handbook of child
+
+psychology: Vol. 3, Cognitive development (pp. 495–555). New York: Wiley.
+
+Slaughter, V., & Gopnik, A. (1996). Conceptual coherence in the child’s theory of mind: Training
+
+children to understand belief. Child Development, 67(6), 2967–2988.
+
+Spatz, J., & Cassidy, K. (1999). Theory of mind and prosocial behaviour in preschool children.
+Poster presented at the biennial meeting of the Society for Research in Child Development,
+Albuquerque, NM, April 1999.
+
+Sutton, J., Smith, P., & Swettenham, J. (1999). Social cognition and bullying: Social inadequacy or
+
+skilled manipulation? British Journal of Developmental Psychology, 17, 435–450.
+
+Taylor, M., & Carlson, S. (1997). The relation between individual differences in fantasy and theory
+
+of mind. Child Development, 68(3), 436–455.
+
+Watson, A., Nixon, C., Wilson, A., & Capage, L. (1999). Social interaction skills and theory of mind
+
+in young children. Developmental Psychology, 35, 386–391.
+
+Weir, K., & Duveen, G., (1981). Further development and validation of the prosocial behaviour
+questionnaire for use by teachers. Journal of Child Psychology and Psychiatry, 22(4), 357–
+374.
+
+Wellman, H. (1990). The child’s theory of mind. Cambridge, MA: MIT Press.
+
+Received 3 May 2000; revised version received 21 January 2002
+
+Theory of mind and peer status
+
+563
+
+Appendix: Theory of Mind Task Scripts for Study 1
+False belief tasks
+Children were shown a Smarties sweets box and asked, ‘What do you think is inside this box?’
+The experimenter then emptied the box revealing pens inside. The pens were then placed back
+inside the box and the experimenter presented the closed Smarties box to the children again.
+Children were then asked a memory control question, ‘Can you remember what’s really inside
+this box?’ The children were then asked two test questions: ‘What did you think was inside this
+box when I first showed it to you?’ (Self question) and ‘When I show this box to [story character’s
+name] tonight what will he/she think is inside, before he/she opens it?’ (Other question). These
+two test questions were scored as separate false belief tasks.
+
+Desire task
+Children were presented with a story in which the child story character’s favourite food was raw
+vegetables. The children were then asked to help the experimenter decide which of two snacks
+she should give to the child story character: raw vegetables versus lollies. Children were asked a
+memory control question: ‘Can you remember what [story character’s name] favourite food is?’
+Children were then asked the test question: ‘Which snack do you think [story character’s name]
+would want to eat?’ This question was followed by two further control questions which asked,
+‘Which is your favourite of these two foods: raw vegetables or lollies?’ and ‘Which snack would
+you want to eat?’ These control questions were included to ensure that children were not simply
+reporting their own mental states, when asked about those of the story character. The forced
+choice options (raw vegetables and lollies) were counterbalanced across children.
+
+Emotion task
+The emotion task used in this study took basically the same form as the desire task. Children
+presented with a story in which the child story character wanted a pair of black socks for his/her
+upcoming birthday. However, when the story character opened up his/her birthday present,
+there was a Barbie doll (for girls) or a toy racing car (for boys) inside. Children were then asked a
+memory control question: ‘What did [story character’s name] want for his/her birthday?’ Children
+were then presented with an illustration of the story character with a happy face and an
+illustration of the story character with a sad face and were asked the test question, ‘How do you
+think [story character’s name] felt when he/she saw the [Barbie doll/toy racing car]? Would he/
+she be happy or sad?’ The presentation of the forced choice options (happy and sad) was
+counterbalanced across children. This test question was then followed by two control questions
+which asked, ‘Which would you want for your birthday: black socks or a Barbie doll/toy racing
+car?’ and ‘How would you feel if you got a Barbie doll/toy racing car for your birthday? Would you
+feel happy or sad?’ Again, these control questions were included to ensure that children were not
+simply reporting their own mental states when asked about those of the story character.
+
+Four sweets task
+This task was modified from the task developed by Baron-Cohen (1994). Children were presented
+with four chocolate bar wrappers secured to a piece of card and asked ‘Which chocolate bar do
+you like the most out of these four?’ Children were then told a story about a child who went
+shopping with his/her mother and was so well-behaved that his/her mother allowed him/her to
+choose a treat out of four different types of chocolate bars. Children were then presented with a
+picture that had the story character’s face in the centre, with four chocolate bar wrappers
+secured in each corner. The story character was smiling and looking at one of the chocolate bars.
+The experimenter always selected versions of the picture in which the story character was
+
+564
+
+Virginia Slaughter et al.
+
+looking at a chocolate bar that was different from the child’s previously stated preference.
+Children were then asked, ‘Can you tell me looking at this picture which chocolate bar [story
+character’s name] wanted?’ The exact same scenario outlined above was presented to children
+again, except that in the second story, the child went shopping with his/her grandmother.
+Children were then asked, ‘Can you tell me looking at this picture which chocolate bar [story
+character’s name] wanted this time?’
+
+

@@ -1,0 +1,1685 @@
+Child Development, July/August 2016, Volume 87, Number 4, Pages 1221–1232
+
+Understanding of Goals, Beliefs, and Desires Predicts Morally Relevant
+
+Theory of Mind: A Longitudinal Investigation
+
+Beate Sodian, Maria Licata, Susanne
+Kristen-Antonow, and Markus Paulus
+
+Ludwig Maximilian University of Munich
+
+Melanie Killen
+
+University of Maryland
+
+Amanda Woodward
+
+University of Chicago
+
+Developmental continuity between infants’ understanding of intentional agency (goals, beliefs, and desires)
+and young children’s attributions of moral intentions were studied in a 4-year longitudinal study (N = 77 chil-
+dren). First, goal encoding at the age of 7 months and implicit false belief understanding at 18 months were
+predictive of children’s understanding of an accidental transgressor’s moral intentions at the age of 5 years.
+Second, 24-month-olds’ understanding of subjective desires was predictive of children’s ability to understand
+an accidental transgressor’s false belief at 5 years. These correlations remained signiﬁcant when controlling for
+gender and verbal IQ. These ﬁndings support the theory that an early understanding of intentional agency is
+foundational for moral cognition in childhood.
+
+intentionality is central
+
+An understanding of
+for
+moral judgment. Determining the moral status of
+an act necessitates knowing one’s intentions when
+interacting with others (Turiel, 2002). For example,
+children understand that pushing someone so that
+they avoid a more serious injury such as falling
+from a ladder is viewed as a morally worthy action
+due to the avoidance of detrimental harm to
+another (Jambon & Smetana, 2014).
+In contrast,
+pushing someone out of dislike because of the color
+of their skin or the language they speak has been
+judged as a violation of moral norms about the fair
+treatment of others (Killen, Mulvey, & Hitti, 2013).
+
+judgment;
+
+Piaget’s (1932/1965) early research was the ﬁrst
+to focus on intentionality in the context of chil-
+dren’s moral
+it demonstrated that
+younger children (3–6 years of age) focus on out-
+comes rather than intentions. More recent research
+has shown, however,
+that children as young as
+3 years can distinguish between intentional and
+accidental acts and assign more blame when harm
+
+The research was funded by a grant
+
+from the German
+Research Council (DFG) to Beate Sodian (SO 213/27-1/2). The
+international collaboration was supported by a grant from the
+Center for Advanced Studies at Ludwig Maximilian University
+of Munich.
+
+Correspondence concerning this article should be addressed to
+Beate Sodian, Department of Psychology, LMU M€unchen,
+Leopoldstr. 13, 80802 M€unchen, Germany. Electronic mail may
+be sent to sodian@psy.lmu.de.
+
+was done intentionally than when it was caused
+accidentally (Chandler, Sokol, & Hallett, 2001;
+Chandler, Sokol, & Wainryb, 2000; Yuill & Perner,
+1988). Furthermore, moral judgment in early child-
+hood involves an understanding of the distinction
+between acts and consequences; well-intentioned
+acts with negative outcomes are evaluated differ-
+ently from negatively intentioned acts with positive
+outcomes
+for a
+review).
+
+(see Killen & Smetana, 2015,
+
+An understanding of
+
+intentionality does not
+emerge for the ﬁrst time in preschool aged children,
+it has its origins in infancy. Infants in the 1st and
+2nd years of life interpret human action in terms of
+agents’ goals and intentions rather than spatiotem-
+poral surface properties of actions (Woodward,
+2009). Furthermore, they distinguish between inten-
+tional and accidental action outcomes, and they
+reenact intended actions when they observe a failed
+attempt (Meltzoff, 1995). Moreover, infants in the
+2nd year of life begin to appreciate the subjectivity
+of desires (Repacholi & Gopnik, 1997), and they
+take agents’ epistemic states into account when
+inferring their action goals. In particular, infants in
+the 2nd year of life anticipate an agent’s action
+
+© 2016 The Authors
+Child Development © 2016 Society for Research in Child Development, Inc.
+All rights reserved. 0009-3920/2016/8704-0021
+DOI: 10.1111/cdev.12533
+
+1222
+
+Sodian et al.
+
+based on the agent’s false belief rather than the
+state of reality (Baillargeon, Scott, & He, 2010;
+Southgate, Senju, & Csibra, 2007).
+
+Not only do infants
+
+later explicit reasoning about
+
+show such remarkable
+understanding of intentional action, but also longi-
+tudinal studies indicate that infants’ agent represen-
+tations predict
+the
+mind. A longitudinal study by Wellman, Lopez-
+Duran, LaBounty, and Hamilton (2008) assessed
+understanding of goal-directed action in 10- to 12-
+month-old infants (N = 45) in a habituation task
+and tested these children again at the age of 4 years
+with a theory-of-mind battery. Decrement of atten-
+tion in the habituation task predicted later false
+belief understanding, when controlling for IQ, exec-
+utive function, and verbal competence. This study
+corroborated earlier ﬁndings by Wellman, Phillips,
+Dunphy-Lelii, and LaLonde (2004)
+in a smaller
+sample (see also Aschersleben, Hofer, & Jovanovic,
+2008; Yamaguchi, Kuhlmeier, Wynn, & VanMarle,
+2009, for converging ﬁndings). While these studies
+have established a link between infants’ under-
+standing of agents’ goals and preschoolers’ false
+belief
+study
+(N = 70) found that belief-based anticipatory look-
+ing in an implicit false belief task at 18 months sig-
+niﬁcantly predicted verbal false belief reasoning at
+48 months, controlling for verbal
+IQ (Thoermer,
+Sodian, Vuori, Perst, & Kristen, 2012).
+
+understanding,
+
+longitudinal
+
+one
+
+To date, the relationship between infant psycho-
+logical reasoning (goals, beliefs, and desires) and
+the development of moral intentions in early child-
+hood has not been investigated. Given that inten-
+tion understanding is foundational
+for morality,
+and given that infant understanding of intentional
+action is predictive of later false belief understand-
+ing, we expected developmental relations between
+core elements of infant psychological reasoning and
+later moral
+judgment. Therefore, we conducted a
+longitudinal study testing for predictive relations
+between infants’ understanding of goals, beliefs,
+and desires as core components of psychological
+reasoning in infancy, and 5-year-old children’s
+moral judgment in a context that required a repre-
+sentation of a transgressor’s false belief.
+
+Our proposal is that theory of mind, the ability
+to know that other agents have mental states differ-
+ent from the self (e.g., Premack & Woodruff, 1978),
+and moral understanding, which comprises pre-
+scriptive norms about the interindividual treatment
+of others regarding fairness and equal treatment
+cognitive
+(Turiel,
+development. One direction of
+inﬂuence is that
+understanding mental states (e.g., theory of mind)
+
+interrelated
+
+2002),
+
+are
+
+in
+
+between
+
+connections
+
+is a prerequisite for moral judgment in the sense
+that children need to be able to infer an agent’s
+intentions to morally evaluate another’s acts, and
+sometimes an agent’s intentions can only be under-
+stood when the beliefs of another are correctly rep-
+resented. But there is also the reverse direction of
+inﬂuence, for example, the valence of a morally
+relevant act inﬂuences intentionality judgments in
+children (Leslie, Knobe, & Cohen, 2006). To date,
+the importance of theory-of-mind competence for
+the development of moral judgment has primarily
+been discussed for explicit
+theory of mind and
+explicit moral judgment in early childhood (Asting-
+ton, 2004). Recently, a longitudinal study demon-
+strated
+theory-of-mind
+competence and prototypic moral judgments (e.g.,
+hitting someone for no reason; Smetana, Jambon,
+Conry-Murray, & Sturge-Apple, 2012).
+It has also been theorized that
+
+intentionality
+knowledge and moral knowledge reﬂect two dis-
+tinct forms of reasoning (psychological and moral,
+respectively)
+in early development.
+Young children’s failure to interpret others’ inten-
+tional states correctly in morally relevant situations
+may often reﬂect a failure to coordinate moral
+judgment with mental state attribution when both
+forms of considerations are simultaneously pre-
+sented in a multifaceted context (Killen et al., 2013;
+Smetana,
+Jambon, & Ball, 2014). For example,
+young children who understand that hitting is
+wrong (see Smetana, 2006) nonetheless often assign
+blame to a peer who commits a transgression when
+he or she did not mean to do it. In this case, chil-
+dren understand the wrongness of the act but make
+errors when inferring the intentions of the potential
+transgressor,
+thus showing an understanding of
+harm in terms of the intrinsic experiences of a vic-
+tim but failing to apply mental state knowledge to
+the situation.
+
+that coexist
+
+Systematic empirical investigations of the interre-
+lationships between young children’s theory of
+mind and moral judgment have shown both dis-
+tinctions and interrelations between moral and psy-
+chological knowledge (Fu, Xiao, Killen, & Lee, 2014;
+Killen, Mulvey, Richardson, Jampol, & Woodward,
+2011; Smetana et al., 2012; Wainryb & Brehl, 2006).
+In one of the ﬁrst systematic investigations of the
+relation between false belief understanding in a
+moral context and moral
+judgment, Killen et al.
+(2011) studied young children’s understanding of a
+transgression that was committed accidentally, that
+is, by an actor who was guided by positive inten-
+tions but did unintended damage based on a false
+belief.
+
+child’s
+
+Speciﬁcally,
+
+contained another
+
+the scenario developed by Killen
+et al. (2011)
+involved a story about a classroom
+helper who threw out a paper bag when cleaning
+up the classroom that, unbeknownst to the class-
+room helper,
+special
+cupcake (the cupcake owner was outside of the
+classroom when the classroom helper
+threw it
+away). Children found it more challenging to iden-
+tify the accidental transgressor’s false belief (knowl-
+edge about the contents of the paper bag) in the
+morally relevant context than a neutral agent’s false
+belief in a standard false belief task (knowledge
+about the contents of a cracker box, e.g., the cray-
+ons in the cracker box task, see Wellman & Liu,
+2004). Furthermore, false belief understanding was
+related to understanding the accidental transgres-
+sor’s intentions. Children who failed to understand
+that the transgressor falsely believed that the paper
+bag was empty tended to mistakenly attribute neg-
+ative intentions to the wrongdoer. But even many
+5-year-olds who understood the accidental trans-
+gressor’s false belief, answered that the transgressor
+intended to commit a “bad” act, indicating that it
+remains challenging for young children to under-
+stand an actor’s intentions in a morally relevant
+situation even once they have acquired an under-
+standing of false belief.
+
+intentional agency may be predictive of
+
+Thus, the accidental transgressor paradigm by
+Killen et al. (2011) assesses children’s understand-
+ing of an actor’s intention, depending on their
+understanding of the actor’s false belief, which is
+critical for adequate moral judgment. We propose
+that developmental precursors of an understanding
+of
+the
+development of moral understanding in a context
+requiring theory-of-mind competence. Theoretical
+considerations and previous ﬁndings relating infant
+action understanding to older children’s theory of
+mind led us to examine whether infant action
+understanding is predictive of intentional reasoning
+necessary for moral judgment in early childhood.
+
+On the basis of previous studies (Aschersleben
+et al., 2008; Thoermer et al., 2012; Wellman et al.,
+2008), we expected both goal encoding in the 1st
+year of life and implicit false belief understanding
+at 18 months to be predictive of morally relevant
+theory of mind (MoToM). These predictions were
+based on the proposition that infant psychological
+reasoning is developmentally linked to children’s
+later explicit understanding of
+intentional states.
+Goal encoding is foundational for an understanding
+of intentional action and should therefore be related
+to later explicit reasoning about agents’ intentions
+in general and moral
+in particular.
+
+intentions
+
+Prediction of Morally Relevant Theory of Mind
+
+1223
+
+states,
+
+in particular,
+
+Implicit false belief understanding should be predic-
+tive of later explicit reasoning about belief-based
+intentional
+the accidental
+transgressor’s intentions.
+An understanding of
+
+intentionality not only
+depends on the attribution of beliefs but also of
+desires to an agent. Although there is evidence for
+an implicit understanding of
+the subjectivity of
+desires in infancy (Repacholi & Gopnik, 1997), this
+has, surprisingly, not been related to later explicit
+theory of mind. Explicit desire reasoning at 3 years
+was shown to be predictive of belief reasoning at
+4 years in a longitudinal study by Wellman, Fang,
+and Peterson (2011). To explore the predictive rela-
+tions of implicit reasoning about desires in infancy
+and later explicit theory of mind, we included an
+assessment of subjective desire understanding at
+24 months and predicted this measure to be related
+to later reasoning about beliefs and belief-based
+intentions. This is important not only for under-
+standing the development of theory-of-mind com-
+petence but also may provide evidence for future
+research on links between subjective desires and
+moral judgments.
+
+A second aim of the present study was to con-
+tribute to the intense debate about the nature of
+early social cognition (e.g., Baillargeon et al., 2010;
+Ruffman, 2014; Sodian, 2011; Uithol & Paulus, 2014;
+Woodward, 2009) by investigating the interrelations
+among different components of psychological rea-
+soning in infancy. If infants’ responses to action
+understanding tasks reﬂect relatively rich psycho-
+logical knowledge, then we should not only expect
+predictive long-term relations for later theory-of-
+mind reasoning but also interrelations among the
+infant measures. Because multimeasure and within-
+subjects longitudinal studies in infancy are quite
+rare, no prior study has examined the interrelations
+among goal understanding, belief understanding,
+and desire understanding in infancy. It is possible
+that key components of an implicit theory of mind
+develop independently in infancy,
+jointly support-
+ing the acquisition of mentalistic action understand-
+ing and being integrated into a coherent set of
+mental state concepts only in early childhood, when
+an explicit theory of mind develops. Alternatively,
+infants’
+it is also possible that core elements of
+understanding of
+intentional action are develop-
+mentally interrelated even in the 2nd year of life
+and thus form an integrated system of action
+prediction and action explanation even in infancy.
+
+To test for goal, belief, and desire understanding
+in infancy, we chose three tasks: goal encoding
+assessed in a habituation paradigm (Woodward,
+
+1224
+
+Sodian et al.
+
+1998) at the age of 7 months, false belief under-
+standing assessed in an anticipatory looking task
+(Thoermer et al., 2012) at the age of 18 months, and
+an understanding of
+the subjectivity of desires
+(Repacholi & Gopnik, 1997) assessed at the age of
+24 months. The age of 24 months was chosen
+because Carlson, Mandell, and Williams (2004)
+showed sufﬁcient variability in this task at this age.
+These measures were taken from a larger longitudi-
+nal study of theory of mind in infancy and early
+childhood, which also comprised assessments of
+joint attentional and imitation skills in infancy (e.g.,
+Kristen, Sodian, Thoermer, & Perst, 2011; Paulus
+et al., 2015; Sodian & Kristen-Antonow, 2015).
+
+We chose looking-time measures of goal encod-
+ing and false belief understanding because these
+measures tap infants’ encoding of intentional action
+independently of their engagement in social interac-
+tion. For desire reasoning at 24 months, we used a
+social-interactive measure because, to date, no look-
+ing-time measure of this concept has been devel-
+oped. To test for the speciﬁcity of the predictive
+relations between infant social cognition and early
+childhood theory of mind, verbal IQ (Wechsler Pre-
+school and Primary Scale of Intelligence [WPPSI])
+measured at the age of 48 months was used as a
+control variable; a working memory measure
+assessed at the age of 7 months was used as a con-
+trol variable in infancy. To test for the connections
+to moral judgment in early childhood, we adminis-
+tered the MoToM interview by Killen et al. (2011),
+which assessed understanding an accidental trans-
+gressor’s false belief and his/her (positive) intention
+at the age of 5 years. In sum, the present study is
+the ﬁrst investigation of the relations among three
+core components of theory of mind in infancy and
+the connections between these forms of intentional
+knowledge and attributions of moral intentions in
+early childhood.
+
+Method
+
+Participants
+
+The full sample consisted of N = 77 (37 girls, 40
+boys) healthy children who had participated in a
+longitudinal study of social-cognitive development
+from the age of 7 months, with at least one valid
+data point in infancy and who produced valid data
+at least one of the measurement points in early
+childhood. Children were recruited from public
+birth records and from middle-income backgrounds
+in Southern Germany. Ages at the measurement
+(M = 6.96,
+points were
+
+7 months
+
+follows:
+
+as
+
+18 months
+(M = 24.02,
+
+SD = 0.25),
+SD = 0.25),
+24 months
+48 months
+(M = 48.25, SD = 0.23), and 60 months (M = 60.82,
+SD = 0.73). Data collection was carried out between
+December 2006 and October 2011.
+
+(M = 18.04,
+SD = 0.25),
+
+The maternal education demographics were the
+following: one quarter or 24.7% of the mothers had
+attended secondary school up to grade 10 (not col-
+lege-bound degree), 22.1% had attended secondary
+school up to grade 12 (college-bound degree),
+44.2% had a bachelor or a master degree, and 9.1%
+had a PhD. Assessments were carried out in a uni-
+versity laboratory in Germany (in German), and all
+children were accompanied by a caretaker. Partici-
+pation was voluntary. The university ethics com-
+mittee approved the study.
+
+Procedure and Measures
+
+Goal-Encoding Task at 7 Months
+
+Infants sat in a tabletop seat or on the parent’s
+lap in front of a stage on which a stuffed bear and
+a ball were placed on pedestals. In each trial, a cur-
+tain opened, and a human hand and arm moved in
+from the side and grasped one of
+the objects,
+remaining still until the trial ended and the curtain
+closed. A trial
+lasted until the baby had looked
+away from the stage for two consecutive seconds.
+For half (n = 21) of the infants, the toy on the right
+was the target (respectively, for the other half, it
+was the toy on the left). The habituation criterion
+was established by summing up looking times over
+the ﬁrst three trials that summed up to at least 12 s.
+An infant reached the habituation criterion when
+three trials totaled less than half of the sum of these
+trials. If an infant did not reach this criterion, the
+test
+trials were begun after 14 trials. The mean
+trials was M = 9.49
+number
+(SD = 3.42, range = 6–14). After habituation was
+complete, the toys’ positions were switched and the
+baby saw one familiarization trial with the toys in
+their new positions.
+
+habituation
+
+of
+
+After that,
+
+the baby saw two alternating test
+events with three trials of each type. In the old
+goal/new path event, the actor grasped the same
+toy as during habituation (the toy was in a new
+position, so the actor moved his arm through a
+new path to grasp the toy). In the new goal/old
+path event, the actor moved her arm through the
+same path as in habituation, grasping a new toy
+(Woodward, 1998). Twenty-one infants began with
+a new goal/old path trial, and 21 began with an
+old goal/new path trial. The infants’ looking was
+
+coded by an observer who pressed a key on a
+computer keyboard when the infant looked at the
+stage. From that,
+looking times and habituation
+criteria were calculated by a computer program
+(Pinto, 1994). To assess reliability, a second obser-
+ver coded each video again from the videotaped
+record. Only infants for whom an interobserver
+correlation of 0.9 or more was achieved were
+included (see Licata et al., 2014,
+for details on
+inclusion criteria).
+
+Working Memory at 7 Months
+
+The infants sat on their caregiver’s lap facing a
+frame containing two openings that were side by
+side, 42 cm apart from center to center. Two cur-
+tains were attached to the back of
+the frame,
+designed to cover the windows. At the beginning
+of each trial,
+the experimenter pulled aside two
+curtains, put her face in one of the windows, and
+engaged the infant’s attention. Then,
+the experi-
+menter withdrew her face, replaced the two cur-
+tains, and wiggled her ﬁngers at the top center of
+the frame. As soon as the infant looked toward the
+ﬁngers,
+the experimenter reopened the curtains,
+and after a 2- to 3-s pause, she reappeared in her
+previous location. The curtains were then closed
+again. After a short pause, the curtains were reo-
+pened to initiate the next trial. The experimenter’s
+location of appearance was counterbalanced across
+trials between the left and right windows, and the
+procedure lasted for six trials (in contrast to 12 tri-
+als in the original procedure, see Reznick, Morrow,
+Goldman, & Snyder, 2004).
+
+Videotapes were coded by two independent
+coders who assessed the direction of the infant’s
+ﬁrst gaze after the reopening of the curtain. Chil-
+dren were given a score of 1 if they looked toward
+the cued direction and a score of 0 if their gaze was
+directed toward some other location. Scores, thus,
+could range from 0 to 6. A random sample of 25%
+
+Prediction of Morally Relevant Theory of Mind
+
+1225
+
+children was coded by a second observer. Cohen’s
+kappa was .72.
+
+Belief-Based Anticipatory Looking (Implicit False Belief)
+Task at 18 Months
+
+Infants’
+
+implicit false belief understanding was
+tested using a task adapted from Neumann, Thoer-
+mer, and Sodian (2008). Infants watched animated
+movies on screen with an integrated eye-tracking
+system (for a more detailed description, as well as
+inclusion criteria, see Thoermer et al., 2012). The
+movies showed a female agent watching a car
+moving from one garage to another (see Figure 1).
+During familiarization (two trials for each child,
+each lasting 32 s), once the actor had seen the car
+arrive at the second box, she disappeared behind a
+screen. Subsequently, two doors above each of the
+two boxes were illuminated (accompanied by a
+chime). This was followed by a freeze frame of 3 s
+during which anticipatory ﬁxations at
+the two
+doors (areas of interest [AOI]) were assessed. Then
+the agent’s face appeared at one of the doors and
+she reached through this door for the car. Infants
+subsequently received one test trial. Test trials (last-
+ing 41 s) differed from familiarization in that a
+phone ring distracted the actor from observing the
+car, while the car continued to move; after reaching
+the second garage,
+it went backward to the ﬁrst
+garage and then went on driving through the gar-
+age, disappearing from the screen. Once the car
+exited the screen, the doors illuminated with an
+accompanying chime and infants’ ﬁxations were
+recorded over a 3-s anticipatory period. Figure 1
+shows the timeline for the test event of this belief-
+based anticipatory looking task (see Figure 1).
+
+Diverse Desire Reasoning at 24 Months
+
+Desire reasoning was measured using a task
+based on Repacholi and Gopnik (1997). Children
+
+Figure 1. Timeline of the familiarization (a) and test (b) events. The solid frame marks the anticipatory scene.
+Note. Movies were presented in color; thus, the garages were clearly discriminable.
+
+1226
+
+Sodian et al.
+
+were seated at a table at the opposite side of the
+experimenter. In a warm-up phase, a give-and-take
+play with a block was played for about 30 s to
+check whether children were motivated to give an
+object to another person. After that, the child was
+presented a car and a block on a tray. The side of
+the object (i.e., whether the car or the block was
+presented on the right or on the left side) was ran-
+domized. The child had 45 s in which to explore
+the objects. Then, the objects were removed and the
+experimenter held the object in her hand, looked at
+it and said, using expressions of disgust for the
+object the child had preferred during the explo-
+ration phase, Yuck a block/car.
+I played with the
+block/car. Ugh. I don’t like blocks/cars. Yuck, this state-
+ment lasted for 10 s. After that, the experimenter
+showed preference for the other object by showing
+facial expressions of happiness (Ahhh a block/car, I
+love blocks/cars! Yay!),
+played with the block/car!
+again lasting for 10 s. Then the experimenter put
+both objects again into the bowls on a tray, moved
+the tray toward the child, put his hand in the mid-
+dle of the two bowls with palms up, and asked,
+Can you give me something? Coding was done by
+two research assistants, one of them coding 100%
+of the sample and the other coding 30% of the sam-
+ple. Children received a “1” if they gave the correct,
+that is, the item the experimenter had preferred, to
+the experimenter, and a “0” if they gave the item
+they preferred themselves
+to the experimenter.
+Cohen’s kappa was j = .92.
+
+I
+
+Verbal IQ at 48 Months
+
+The verbal IQ at 48 months was assessed by
+administering two subtests of the German version
+of WPPSI (Petermann, 2009) verbal IQ scale, Simi-
+larities and General Knowledge. Both tasks were
+administered according to the testing manual. The
+subtest Similarities assesses verbal reasoning and
+concept formation. The child read an incomplete
+sentence containing two concepts that share a com-
+mon characteristic, such as Dogs and cats, both are
+. . .? The child’s task was to complete the sentences
+by stating a shared property or superordinate con-
+cept. In the General Knowledge task, the child had
+to answer questions relating to general knowledge
+topics (e.g., “Which animals do you know?,” “What
+is the opposite of south?”).
+
+of the present study, two assessments pertaining to
+the “MoToM” story were administered:
+(a) false
+belief (false contents) in a morally relevant context
+and (b) attributions of moral intentions of an acci-
+dental transgressor. In a short warm-up task, chil-
+dren were familiarized with the Likert-type scale
+(1 = not a lot; 4 = a lot) by asking them two short
+questions (how much they liked pizza and how
+much they liked playing outside) and asking them
+to show it on the child friendly (smiley faces)
+Likert-type scale.
+
+Children were told a short story involving one
+child, a classroom helper, who cleaned up the room
+and accidentally threw away a paper bag on a table
+that had another child’s cupcake inside (the owner
+of the cupcake was playing outside). Brightly illus-
+trated pictures of the characters and objects (cup-
+cake, trash can) were used during the interview for
+ease of following the story (see Killen et al., 2011).
+The exact story was the following (gender names
+matched the gender of the participant):
+
+This is Max/Tina (pointing to Max/Tina) and
+this is Tom/Julia (pointing to Tom/Julia). Max
+has brought
+in a cupcake from home and is
+keeping it in this paper bag. Max puts the paper
+bag on the table then goes outside to play. Tim
+is helping the teacher clean up the classroom and
+sees the paper bag. Tim throws the paper bag in
+the trash.
+
+The assessments were (a) false belief (false con-
+tents) of the accidental transgressor (What did Tim,
+the boy who threw out the paper bag, think was in the
+bag?: cupcake or trash) and (b) attributions of moral
+intentions of the accidental transgressor (When Tim
+threw out the bag, did he think he was doing something
+that was all right or not all right?: Likert-type scale
+response). Coding was done by two research assis-
+tants, one of them coding 100% of the sample, and
+the other coding 30% of the sample. Cohen’s kappa
+was j = 1.0 in the false belief question and j = .96
+in the question regarding the attributions of moral
+intentions of the actor.
+
+Results
+
+Descriptive Statistics
+
+Goal-Encoding Task
+
+MoToM Interview at 60 Months
+
+Children’s moral understanding was assessed
+using a task by Killen et al. (2011). For the purpose
+
+Infants looked, on average, for 20.3 s at the new
+(SD = 11.42, range = 2.5–64.5), whereas they
+the new path (SD = 17.9,
+
+goal
+looked for 17.4 s at
+
+range = 3.3–117). A weighted test differentiation
+score (Brune & Woodward, 2007) was derived by
+dividing the total amount of looking time at the
+new goal event by the sum of the looking times at
+the new goal event plus the new path event (see
+Table 1).
+
+Implicit False Belief Task
+
+A proportion score of looking at the correct (i.e.,
+belief based) door AOI (i.e., the door in the wall at
+which the agent would be expected to search based
+on his belief about the car’s location) was calculated
+by dividing the time an infant spent looking at the
+correct AOI by the sum of looking at the correct
+door AOI and the incorrect door AOI, and multi-
+plying the quotient by 100. Results showed that
+infants spent M = 57% of the time looking at the
+belief-based door.
+
+Diverse Desires Task
+
+Half of the children (M = 46%) were competent
+
+in the diverse desires task.
+
+MoToM Interview
+
+In the moral story task assessed at 60 months,
+58% of the children answered the false belief (false
+contents) question correctly and 35.5% responded
+correctly to the attributions of moral intentions of
+the act assessment, answering that the protagonist
+
+Table 1
+Descriptive Statistics of Performance on All Measures
+
+Measurement
+point (months) N
+
+7
+
+7
+
+18
+
+24
+
+48
+60
+
+60
+
+42
+
+70
+
+44
+
+71
+
+68
+64
+
+62
+
+M (SD)
+
+Range
+
+56% (13%)
+
+20%–86%
+
+3.21 (1.14)
+
+1.00–6.00
+
+57% (43%)
+
+0%–100%
+
+46% (50%)
+
+0%–100%
+
+106.90 (12.48)
+58% (50%)
+
+67–137
+0%–100%
+
+2.02 (1.30)
+
+1–4
+
+Task
+
+Goal-encoding
+looking time
+Working
+memory
+Implicit
+false belief
+Diverse
+desires
+Verbal IQ
+MoToM false
+belief
+MoToM
+intention
+of the actor
+
+Note. N = 19 children contributed valid data at all measurement
+points. MoToM = moral theory of mind.
+
+Prediction of Morally Relevant Theory of Mind
+
+1227
+
+thought that what he was doing was “very good”
+(24.2%) or “good” (11.3%), while 64.6% answered
+that he thought it was “bad” (6.5%) or “very bad”
+(58.1%; M = 2.02), and on a Likert-type scale from
+1% to 4. 23% of the children answered both the
+false belief and the attributions of moral intentions
+questions
+correctly. Thereby, attributing moral
+intentions was signiﬁcantly more difﬁcult than false
+(p = .008,
+belief understanding, McNemar
+n = 62).
+
+test
+
+Inferential Analyses
+
+We ﬁrst report bivariate correlations among the
+focal variables (see Table 2), followed by nonpara-
+metric analyses. In a second step, we test for the
+speciﬁcity of
+the hypothesized longitudinal rela-
+tions by means of partial correlations.
+
+We predicted measures of infant psychological
+reasoning to be signiﬁcantly correlated with both
+intention and false belief understanding in the
+moral theory-of-mind (MoToM) interview. Conﬁrm-
+ing our hypotheses, infants’ goal-encoding ability at
+7 months (differentiation between test trials) was
+positively related to children’s moral
+intention
+understanding at 60 months. Moreover,
+implicit
+false belief understanding assessed at 18 months
+was also positively related to children’s attributions
+of moral
+intentions at 60 months. Desire under-
+standing at 24 months was not correlated with
+moral intention understanding, but it was positively
+related to children’s understanding of the accidental
+transgressor’s false belief. Contrary to expectations,
+neither goal encoding nor
+false belief
+understanding was correlated with the MoToM
+false belief question. Child gender was related to
+performance on the MoToM interview, with girls
+outperforming boys. Furthermore, verbal IQ was
+positively correlated with almost all the assessed
+variables (see Table 2).
+
+implicit
+
+We further aimed at investigating the interrela-
+tions among different measures of infant psycholog-
+ical reasoning. There was a marginally signiﬁcant
+correlation between infants’ goal-encoding ability at
+7 months and their implicit false belief competence
+11 months later (see Table 2).
+
+The ﬁndings on predictive relations between
+infant social understanding and later understanding
+of moral intentions were conﬁrmed by nonparamet-
+ric analyses using one-tailed signiﬁcance tests.
+Although none of the six infants who reached a
+score of 0.50 or less in the goal-encoding task mas-
+tered the attributions of moral intentions question,
+v2(1,
+10
+
+infants did,
+
+competent
+
+the
+
+28
+
+of
+
+1228
+
+Sodian et al.
+
+Table 2
+Intercorrelations Among the Study Variables
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+(1) Goal-encoding LT 7 months
+(2) Implicit FB 18 months
+(3) Working memory 7 months
+(4) Diverse desires 24 months
+(5) Verbal IQ 48 months
+(6) MoToM FB 60 months
+(7) MoToM intention 60 months
+(8) Gender
+
+1
+.37 (25)^
+.16 (39)
+.23 (40)
+.30 (38)^
+.10 (34)
+.36 (34)*
+.07 (42)
+
+1
+ .17 (42)
+ .09 (49)
+.41 (40)**
+.05 (37)
+.44 (37)**
+ .07 (44)
+
+1
+.19 (67)
+ .09 (63)
+ .01 (57)
+ .12 (56)
+.31 (70)**
+
+1
+.18 (63)
+.31 (60)*
+.01 (58)
+.07 (71)
+
+1
+
+.52 (55)**
+.34 (55)**
+ .04 (68)
+
+1
+.09 (62)
+ .01 (64)
+
+1
+ .26 (62)*
+
+1
+
+Note. LT = looking time; MoToM = moral theory of mind; FB = false belief.
+^p < .10. *p < .05. **p < .01. two-tailed Pearson correlations, phi coefﬁcient for dichotomous variables, with N in parentheses.
+
+N = 34) = 3.04, p = .041. Similarly, only 2 of the 17
+infants who had failed the implicit false belief task
+mastered the attributions of moral intentions ques-
+tion, whereas 10 of the 20 competent participants
+did, v2(1, N = 37) = 6.13, p = .007.
+
+belief-based
+
+judgment. While previous studies have shown goal
+encoding and false belief understanding in infancy
+to be predictive of later explicit false belief under-
+standing, no prior research has demonstrated con-
+nections to moral judgments in a context requiring
+theory-of-mind competence. Infants who encoded
+an agent’s actions in terms of their goals at the age
+of 7 months, and who correctly anticipated an
+agent’s
+at
+18 months, were more likely than infants who
+failed these tasks to evaluate an accidental trans-
+gressor’s intentions as positive at the age of 5 years.
+Furthermore, 2-year-olds who understood the sub-
+jectivity of desires were more likely than those who
+failed this task to understand the accidental trans-
+gressor’s false belief at the age of 5 years. The cor-
+relations between infants’ and children’s reasoning
+about agents’ intentions and beliefs were indepen-
+dent of gender and general cognitive abilities as
+assessed by verbal IQ.
+
+goal-directed
+
+actions
+
+This pattern of ﬁndings was largely consistent
+with our hypotheses which were based on previous
+longitudinal studies of the relation between infant
+psychological reasoning and preschool
+theory of
+mind. Note, however, that we did not ﬁnd signiﬁ-
+cant correlations between goal-encoding and impli-
+cit false belief understanding on one hand, and the
+explicit false belief measure in the morally relevant
+context on the other hand. This may be due to the
+difﬁculty of the MoToM false belief task which may
+involve additional task demands (see Killen et al.,
+2011). Further research is necessary to determine
+the relation between the standard false belief assess-
+ment and false belief understanding in a morally
+relevant context.
+
+Our main predictions, concerning the relation
+between infant understanding of intentional action
+and later
+intentional understanding in a moral
+
+When the correlations between infant measures
+and the MoToM moral
+intentions question were
+controlled for gender and verbal IQ, they proved to
+be stable, using one-tailed signiﬁcance tests. Implicit
+false belief and moral intention understanding were
+signiﬁcantly correlated, rpar(33) = .35, p = .021, and
+so were goal encoding and moral intention under-
+standing, rpar(30) = .32, p = .038. For the dichoto-
+mous scores on the diverse desires and MoToM
+false belief tasks, no partial correlation could be
+computed. Instead, a binary logistic regression anal-
+ysis using the forward (Wald) option yielded a sig-
+niﬁcant effect of both children’s competence in the
+(B = 1.86,
+diverse desires
+Wald = 5.68, df = 1, p = .009) and of verbal
+IQ
+(B = 0.14, Wald = 8.76, df = 1, p = .002) on false
+belief understanding,
+indicating that the effect of
+the diverse desires task remained signiﬁcant when
+IQ was taken into account. With regard to the cor-
+relations among the infancy measures, the relation
+between infants’ goal-encoding ability and implicit
+false belief remained stable when controlling for
+rpar(21) = .41,
+working memory
+p = .027.
+
+24 months
+
+gender,
+
+task
+
+and
+
+at
+
+Discussion
+
+the present
+
+longitudinal study
+The ﬁndings of
+demonstrated, for the ﬁrst time, a predictive rela-
+tion between infants’ understanding of intentional
+agency and 5-year-old children’s explicit reasoning
+about actors’ moral intentions, necessary for moral
+
+context were conﬁrmed by the present ﬁndings.
+Inferring an agent’s intention independently of the
+outcome of his or her actions is a key component of
+moral
+judgment and psychological understanding
+in general. The types of errors that children make
+when they do not have MoToM contribute to peer
+conﬂict and social tension in social development,
+blaming an accidental transgressor for wrong-doing
+is one of the most frequent sources of conﬂict in
+social encounters, and particularly in early child-
+hood (Killen & Smetana, 2015). The present ﬁndings
+indicate that these core aspects of real-world social
+understanding in early childhood have their roots
+in infant action understanding.
+
+the
+
+This
+
+emphasizes
+
+One interpretation of the present ﬁndings is that
+infants’ understanding of intentional action is con-
+ceptually linked to later developing mental state
+knowledge required for explicit moral
+intention
+attribution.
+relationship
+between theory of mind and morality, and indicates
+that an understanding of intentional agency is cen-
+tral for moral judgments. A next step would be to
+investigate relationships between goal encoding in
+infancy and competencies that
+reﬂect an early
+awareness of fair or just treatment of others (moral-
+ity) in infancy, such as response to others’ distress
+(Hastings, Miller, Kahle, & Zahn-Waxler, 2014) or
+preferences for prosocial acts over harmful acts
+(Hamlin, 2013). It should also be noted that the con-
+clusions to be drawn from the present study are
+limited due to design and sample size. The present
+ﬁndings justify a next step which would be a pro-
+ject with a larger scope, designed to model patterns
+of developmental change.
+
+signiﬁcant
+
+implications
+
+Regarding the implications of the present ﬁnd-
+ings for moral judgment, the ﬁnding that early cog-
+nitive intentionality is predictive of intentionality
+attributions related to moral judgment in childhood
+has
+theories about
+social-cognitive development. From infancy to
+childhood, children are constructing judgments that
+reﬂect moral and psychological knowledge (Sme-
+tana et al., 2014). In fact, both types of knowledge,
+moral and psychological, have their origins early in
+development and may be interrelated, beginning in
+infancy.
+
+for
+
+Regarding the implications for theory-of-mind
+development, the present study is the ﬁrst one to
+demonstrate a link between goal encoding and
+implicit false belief understanding in infancy, and
+later explicit understanding of intentions. Both goal
+encoding and implicit
+false belief understanding
+predicted children’s understanding of the accidental
+transgressor’s intentions which required them to
+
+Prediction of Morally Relevant Theory of Mind
+
+1229
+
+take his epistemic state into account. Moreover, the
+study demonstrated a predictive relation between
+desire understanding in a nonverbal
+task at
+24 months, and explicit false belief understanding
+at the age of 5 years. This ﬁnding is consistent with
+longitudinal relations from desire to belief reason-
+ing shown between 3 and 4 years by Wellman et al.
+(2011). Thus, the present pattern of ﬁndings goes
+beyond previous studies in demonstrating a net-
+work of relations between different components of
+psychological reasoning in infancy and theory of
+mind in early childhood.
+
+Furthermore, the present study demonstrated a
+correlation between goal encoding at 7 months and
+implicit
+false belief understanding at 18 months
+which was independent of working memory. This
+ﬁnding is consistent with the idea that infants’ early
+ability to analyze actions in terms of goals is foun-
+dational for their later developing ability to take
+epistemic
+into account when predicting
+agents’ goal-directed action, and tentatively sup-
+ports the view of conceptual coherence in infants’
+mentalistic action understanding rather than the
+idea of independent core knowledge components
+(Carey, 2009).
+
+states
+
+Taken together, the present ﬁndings lend some
+ﬁrst support to a conceptual interpretation of infants’
+agent and action representations which are interre-
+lated in infancy, and linked to later mental state attri-
+butions. While previous ﬁndings on the relation
+between implicit and explicit false belief understand-
+ing (Thoermer et al., 2012) were interpretable in
+terms of task features, the present ﬁndings are clearly
+not due to similarity in task features, and go beyond
+the level of relations between analogous concepts.
+Rather, goal understanding predicted later (implicit)
+belief understanding and both were predictive of
+explicit moral intention understanding in a task that
+required the child to take an agent’s epistemic state
+into account. Moreover, early desire understanding
+predicted later belief understanding, adding to the
+picture of conceptual coherence between earlier and
+later developing components of psychological rea-
+soning. Note that these ﬁndings speak against low-
+level interpretations of infant theory-of-mind compe-
+tencies in terms of responses to perceptual novelty
+(Heyes, 2014).
+
+A conceptual
+
+interpretation of
+
+infants’ under-
+standing of intentional agency does not, however,
+necessarily imply that infants have an understand-
+ing of intentional states in the sense of a representa-
+tional theory of mind (Sodian, 2011). Rather, the
+ability to keep track of what an agent perceived
+(experiential record, Perner & Roessler, 2012), and
+
+1230
+
+Sodian et al.
+
+to integrate this information with a representation
+of the agent’s goals may be sufﬁcient to arrive at
+belief-consistent action predictions. Thus, a prefer-
+ential sensitivity in infants to an agent’s attention
+focus and goal in the face of conﬂicting or salient
+irrelevant information may be related to later expli-
+cit attention to an agent’s mental state even when
+this mental state conﬂicts with the overt outcome of
+his action. Goal encoding in infancy requires a
+speciﬁc deployment of attention to an agent’s goals
+and attention focus over and above a novel spa-
+tiotemporal feature of the action (for discussions
+see Paulus, 2012; Thoermer, Woodward, Sodian,
+Perst, & Kristen, 2013). In the anticipatory looking
+task, as well, infants have to pay attention to and
+draw inferences from a change in an agent’s atten-
+tion focus in the context of a goal-directed action
+(the protagonist is distracted from observing the
+critical event by a phone ringing). And ﬁnally, the
+intention question in the MoToM task requires chil-
+dren to take the transgressor’s epistemic state into
+account when drawing an inference about his inten-
+tion, independently of the negative valence of the
+outcome of his action.
+
+Understanding intentional agency in infancy is
+related to intentionality necessary for making accu-
+rate moral
+judgments in a complex situation in
+childhood, one that requires attributions of inten-
+tional agents for making a moral judgment. When
+intentionality judgments are correct then children
+do not blame a potential transgressor for a mis-
+deed; when intentionality judgments are mistaken
+(an error of theory of mind) then blame is assigned
+to accidental
+(Killen et al., 2011).
+These data support the viewpoint that intentionality
+attributions determine the moral status of the trans-
+gression. Thus,
+relationship
+between intention understanding in infancy and
+later intentionality required for moral
+judgment
+highlights the central role of intentional agency to
+social
+relationships, and the
+components necessary for the healthy functioning
+of children’s cognitive, social, and moral develop-
+ment.
+
+the developmental
+
+interactions, social
+
+transgressors
+
+References
+
+Aschersleben, G., Hofer, T., & Jovanovic, B. (2008). The
+link between infant attention to goal-directed action
+and later theory of mind abilities. Developmental Science,
+11, 862–868. doi:10.1111/j.1467-7687.2008.00736.x
+
+Astington, J. W. (2004). Bridging the gap between theory
+of mind and moral reasoning. New Directions for Child
+
+and Adolescent Development, 103, 63–72. doi:10.1002/
+cd.98
+
+Baillargeon, R., Scott, R. M., & He, Z. (2010). False-belief
+understanding in infants. Trends in Cognitive Sciences,
+14, 110–118. doi:10.1016/j.tics.2009.12.006
+
+Brune, C. W., & Woodward, A. L. (2007). Social cogni-
+tion and social responsiveness in 10-month-old infants.
+Journal of Cognition and Development, 8(2), 133–158.
+
+Carey, S. (2009). The origin of concepts. New York, NY:
+
+Oxford University Press.
+
+Carlson, S., Mandell, S. J., & Williams, L. (2004). Execu-
+tive function and theory of mind: Stability and predic-
+tion from ages 2 to 3. Developmental Psychology, 40,
+1105–1122. doi:10.1037/0012-1649.40.6.1105
+
+Chandler, M. J., Sokol, B. W., & Hallett, D. (2001). Moral
+responsibility and the interpretive turn: Children’s
+changing conceptions of
+In B.
+Malle, L. Moses, & D. Baldwin (Eds.), Intentions and
+intentionality: Foundations of social cognition (pp. 345–
+365). Cambridge, MA: MIT Press.
+
+truth and rightness.
+
+Chandler, M., Sokol, B. W., & Wainryb, C. (2000). Beliefs
+about truth and beliefs about rightness. Child Develop-
+ment, 71, 91–97. doi:10.1111/1467-8624.00122
+
+Fu, G., Xiao, W. S., Killen, M., & Lee, K. (2014). Moral
+judgment and its relation to second-order theory of
+2085–2092.
+mind. Developmental
+doi:10.1037/a0037077
+
+Psychology,
+
+50,
+
+Hamlin, J. K. (2013). Moral judgment and action in pre-
+verbal
+infants and toddlers: Evidence for an innate
+moral core. Current Directions in Psychological Science,
+22, 186–193. doi:10.1177/0963721412470687
+
+Hastings, P. D., Miller, J., Kahle, S., & Zahn-Waxler, C.
+(2014). The neurobiological bases of empathic concern
+for others. In M. Killen & J. G. Smetana (Eds.), Hand-
+book of moral development (2nd ed., pp. 411–434). New
+York, NY: Psychology Press.
+
+Heyes, C. (2014). False belief in infancy: A fresh look.
+Developmental Science, 17, 647–659. doi:10.1111/desc.
+12148
+
+Jambon, M., & Smetana, J. G. (2014). Moral complexity in
+middle childhood: Children’s evaluations of necessary
+harm. Developmental Psychology, 50, 22–33. doi:10.1037/
+a0032992
+
+Killen, M., Mulvey, K. L., & Hitti, A. (2013). Social exclu-
+intergroup per-
+772–790.
+84,
+
+sion in childhood: A developmental
+spective.
+doi:10.1111.cdev.12012
+
+Development,
+
+Child
+
+Killen, M., Mulvey, K. L., Richardson, C., Jampol, N., &
+Woodward, A.
+transgressor:
+Morally-relevant theory of mind. Cognition, 119, 197–
+215. doi:10.1016/j.cognition.2011.01.006
+
+(2011). The accidental
+
+Killen, M., & Smetana, J. G. (2015). Origins and develop-
+ment of morality. In M. E. Lamb (Ed.), Handbook of child
+psychology and developmental science (Vol. 3, 7th ed., pp.
+701–749). Editor-in-Chief, R. M. Lerner. Hoboken, NJ:
+Wiley-Blackwell.
+
+Kristen, S., Sodian, B., Thoermer, C., & Perst, H. (2011).
+Infants’ joint attention skills predict toddlers’ emerging
+
+mental state language. Developmental Psychology, 47,
+1207–1219. doi:10.1037/a0024808
+
+Leslie, A., Knobe, J., & Cohen, A. (2006). Acting intention-
+ally and the side-effect effect: Theory of mind and
+moral judgment. Psychological Science, 17, 421–427.
+
+Licata, M., Paulus, M., Thoermer, C., Kristen, S., Wood-
+ward, A., & Sodian, B. (2014). Mother-infant interaction
+quality and infants’ ability to encode actions as goal-
+directed. Social Development, 23, 340–356. doi:10.1111/
+sode.12057
+
+Meltzoff, A. N. (1995). Understanding the intentions of
+others: Re-enactment of intended acts by 18-month-old
+children. Developmental Psychology, 31, 838–850. doi:/
+10.1037/0012-1649.31.5.838
+
+Neumann, A., Thoermer, C., & Sodian, B. (2008). False
+belief understanding in 18-month-olds’ anticipatory
+looking behavior: An eye-tracking study. International
+Journal of Psychology, 43, 218.
+
+Paulus, M. (2012). Action mirroring and action under-
+standing: An ideomotor and attentional account. Psy-
+chological Research, 76, 760–767.
+
+Paulus, M., Licata, M., Kristen, S., Thoermer, C., Wood-
+ward, A., & Sodian, B. (2015). Early social understand-
+ing and self-regulation predict preschoolers’ sharing
+with friends and disliked peers: A longitudinal study.
+39,
+International
+53–64. doi:10.1177/0165025414537923
+
+of Behavioral Development,
+
+Journal
+
+Perner, J., & Roessler, J. (2012). From infants’ to children’s
+appreciation of belief. Trends in Cognitive Sciences, 16,
+519–525. doi:10.1016/j.tics.2012.08.004
+
+Petermann, F. (2009). Wechsler Preschool und Primary Scale
+of Intelligence—third edition (WPPSI–III). Deutsche Ver-
+sion. Frankfurt/M, Germany: Pearson Assessment.
+
+Piaget, J. (1965). The moral
+
+judgment of the child. New
+York, NY: The Free Press. (Original work published
+1932)
+
+Pinto,
+
+J.
+author.
+
+(1994). MacXhab: Version 3.1. Stanford, CA:
+
+Premack, D., & Woodruff, G.
+
+(1978). Does the chim-
+panzee have a theory of mind? Behavioural and Brain
+Sciences, 1, 515–526.
+
+Repacholi, B. M., & Gopnik, A. (1997). Early reasoning
+about desires: Evidence from 14-and 18-month-olds.
+Developmental Psychology, 33, 12–21. doi:10.1037/0012-
+1649.33.1.12
+
+Reznick, J. S., Morrow, J. D., Goldman, B. D., & Snyder, J.
+(2004). The onset of working memory in infants.
+Infancy, 6, 145–154. doi:10.1207/s15327078in0601_7
+
+Ruffman, T. (2014). To belief or not belief: Children’s the-
+ory of mind. Developmental Review, 34, 265–293.
+doi:10.1016/j.dr.2014.04.001
+
+Smetana, J. G. (2006). Social domain theory: Consistencies
+and variations in children’s moral and social
+judg-
+ments. In M. Killen & J. G. Smetana (Eds.), Handbook of
+moral development (pp. 119–154). Mahwah, NJ: Erlbaum.
+Smetana, J. G., Jambon, M., & Ball, C. (2014). The social
+domain approach to children’s moral and social judg-
+ments. In M. Killen & J. G. Smetana (Eds.), Handbook of
+
+Prediction of Morally Relevant Theory of Mind
+
+1231
+
+moral development (2nd ed., pp. 23–45). New York, NY:
+Psychology Press/Taylor & Francis Group.
+
+Smetana, J. G., Jambon, M., Conry-Murray, C., & Sturge-
+Apple, M. L. (2012). Reciprocal associations between
+young children’s developing moral judgments and the-
+ory of mind. Developmental Psychology, 48, 1144–1155.
+doi:10.1037/a0025891
+
+Sodian, B. (2011). Theory of mind in infancy. Child Devel-
+opment Perspectives, 5, 39–43. doi:10.1111/j.1750-8606.
+2010.00152.x
+
+Sodian, B., & Kristen-Antonow, S. (2015). Declarative joint
+attention as a foundation of theory of mind. Develop-
+1190–1200. doi:10.1037/
+mental Psychology,
+dev0000039
+
+51(9),
+
+Southgate, V., Senju, A., & Csibra, G.
+
+(2007). Action
+anticipation through attribution of
+false belief by
+2-year-olds. Psychological Science, 18, 587–592. doi:10.
+1111/j.1467-9280.2007.01944.x
+
+Thoermer, C., Sodian, B., Vuori, M., Perst, H., & Kristen,
+S. (2012). Continuity from an implicit to an explicit
+understanding of false belief from infancy to preschool
+age. British Journal of Developmental Psychology, 30,
+172–187. doi:10.1111/j.2044-835X.2011.02067.x
+
+Thoermer, C., Woodward, A., Sodian, B., Perst, H., &
+Kristen, S. (2013). To get the grasp: Seven-month-olds
+encode and selectively reproduce goal-directed grasp-
+ing.
+of Experimental Child Psychology, 216,
+499–509.
+
+Journal
+
+Turiel, E. (2002). The culture of morality: Social development,
+
+context, and conﬂict. Cambridge, UK: University Press.
+
+Uithol, S., & Paulus, M. (2014). What do infants under-
+stand of others’ action? A theoretical account of early
+social cognition. Psychological Research, 78, 609–622.
+
+Wainryb, C., & Brehl, B. A. (2006). I thought she knew
+that would hurt my feelings: Developing psychological
+knowledge and moral thinking. Advances in Child Devel-
+opment and Behavior, 34, 131–171. doi:10.1016/S0065-
+2407(06)80006-6
+
+Wellman, H. M., Fang, F., & Peterson, C. C.
+
+(2011).
+Sequential progressions in a theory-of-mind scale: Lon-
+gitudinal perspectives. Child Development, 82, 780–792.
+doi:10.1111/j.1467-8624.2011.01583.x
+
+Wellman, H. M., & Liu, D. (2004). Scaling of theory-of-
+mind tasks. Child Development, 75, 523–541. doi:10.
+1111/j.1467-8624.2004.00691.x
+
+Wellman, H. M., Lopez-Duran, S., LaBounty, J., & Hamil-
+ton, B. (2008). Infant attention to intentional action pre-
+dicts
+of mind. Developmental
+Psychology, 44, 618–623. doi:10.1111/j.1467-7687.2004.
+00347.x
+
+preschool
+
+theory
+
+Wellman, H. M., Phillips, A. T., Dunphy-Lelii, S., &
+LaLonde, N. (2004). Infant social attention predicts pre-
+school social cognition. Developmental Science, 7, 283–
+288. doi:10.1111/j.1467-7687.2004.00347.x
+
+Woodward, A. L. (1998). Infants selectively encode the
+
+goal object of an actor’s reach. Cognition, 69, 1–34.
+
+Woodward, A. L. (2009). Infants’ grasp of others’ intentions.
+
+Current Directions in Psychological Science, 18, 53–57.
+
+1232
+
+Sodian et al.
+
+Yamaguchi, M., Kuhlmeier, V. A., Wynn, K., & Van-
+Marle, K. (2009). Continuity in social cognition from
+infancy to childhood. Developmental Science, 12, 746–
+752. doi:10.1111/j.1467-7687.2008.00813.x
+
+Yuill, N., & Perner, J. (1988). Intentionality and knowl-
+edge in children’s judgments of actor’s responsibility
+and recipient’s
+reaction. Developmental
+Psychology, 24, 358–365. doi:10.1037/0012-1649.24.3.358
+
+emotional
+
+
