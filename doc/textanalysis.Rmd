@@ -49,10 +49,10 @@ source_python("convert_pdf_to_txt.py")
 
 ```{r convert_pdf_to_txt, message=FALSE, warning=TRUE}
 # create list of all the names of our pdf files (located in the folder raw-data/pdfs)
-file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
+# file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
 
 # creates a list with as many entries as you have pdf files. in here, we will save all the text content from the pdf files
-data_list <- vector("list", "length" = length(file_list))
+# data_list <- vector("list", "length" = length(file_list))
 
 # ONLY DO IT ONCE; CONVERT PDFs TO TXT FILES! 
 # in python script, define your working directory
@@ -61,14 +61,24 @@ data_list <- vector("list", "length" = length(file_list))
 # }
 
 file_list <- list.files(here("raw-data/txts"), pattern = "*.txt")
+data_list <- vector("list", "length" = length(file_list))
 
 ### ERROR! 
 # for every txt file, read in the text and save it in data list
-for (i in 3) {
+for (i in 10) {
   # print(file_list[i])
   # data_list[[i]] <- read.delim(here("raw-data/txts", file_list[i]))
   data_list[[i]] <- read_tsv(here("raw-data/txts", file_list[i]), locale = readr::locale(encoding = "utf8"))
 }
+
+# sed 's/\\0//g' "/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/adrian2007mothers.txt" > mycsv.txt
+# fread("sed 's/\\0//g' /Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/adrian2007mothers.txt")
+
+cleanFiles<-function(file,newfile){
+  writeLines(iconv(readLines(file,skipNul = TRUE)),newfile)
+}
+
+cleanFiles("/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/bowman2017action.txt", "/Users/julia_prein/Work/experiments/soc_cog_textanalysis/raw-data/txts/bowman2017action_1.txt")
 ```
 
 ```{r preprocess_function}
