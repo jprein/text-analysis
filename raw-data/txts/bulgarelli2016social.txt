@@ -1697,5 +1697,9 @@ Frontiers in Psychology | www.frontiersin.org
 
 November 2016 | Volume 7 | Article 1762
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

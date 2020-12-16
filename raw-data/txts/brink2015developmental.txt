@@ -1320,5 +1320,9 @@ Frontiers in Psychology | www.frontiersin.org
 
 May 2015 | Volume 6 | Article 719
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

@@ -2433,5 +2433,9 @@ Representations and constraining function of wrong
 beliefs in young children’s understanding of deception.
 Cognition, 13, 103 – 128.
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

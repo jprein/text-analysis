@@ -1042,5 +1042,9 @@ function of wrong beliefs in young children’s understanding of deception. Cogn
 Downloaded from https://www.cambridge.org/core. Max Planck Institute for Evolutionary Anthropology, on 14 Aug 2020 at 12:15:47, subject to
 the Cambridge Core terms of use, available at https://www.cambridge.org/core/terms. https://doi.org/10.1017/S0305000905006963
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

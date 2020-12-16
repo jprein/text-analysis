@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  BD136928 DOCUMENTRESUME p09173 AUTHOR Ianotit_RonaldJ.
 TITLE
 A Longitudinal Investigation of Role Taking, Altruism; and Empathy.
@@ -155,3 +156,6 @@ Variable 1 2 13 4 7-year-old Subjects
 3n-gs-23-for-al-corelationsinvolving-10-year-old-sUbjects- except those involving conservation.
 4n=18foralcorelationsinvolvingconservationin 10-year-old subjects.
  
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

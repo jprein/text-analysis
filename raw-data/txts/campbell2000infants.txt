@@ -1331,5 +1331,9 @@ Development, 54, 858–867.
 
 Received 24 June 1999; revised version received 4 October 1999
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

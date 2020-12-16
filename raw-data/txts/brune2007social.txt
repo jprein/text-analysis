@@ -1512,5 +1512,9 @@ Woodward, A. L., & Guajardo, J. J. (2002). Infants’ understanding of the point
 
 ject-directed action. Cognitive Development, 17(1), 1061–1084.
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

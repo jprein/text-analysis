@@ -839,5 +839,9 @@ Wimmer,  H.,  & Pemer, J.  (1983). Beliefs  about  beliefs:  Representation  and
 function of wrong beliefs in young children’s understanding  of deception. Cognition, 13, 
 103-1 28. 
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

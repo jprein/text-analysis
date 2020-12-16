@@ -47,7 +47,6 @@ run_python_file("convert_pdf_to_txt.py")
 source_python("convert_pdf_to_txt.py")
 ```
 
-
 ```{r convert_pdf_to_txt, message=FALSE, warning=TRUE}
 # create list of all the names of our pdf files (located in the folder raw-data/pdfs)
 file_list <- list.files(here("raw-data/pdfs"), pattern = "*.pdf")
@@ -252,7 +251,6 @@ toc()
 # - 19.832 sec with window = 15, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
 # - 76.048 sec with window = 15, dim = 300, iter = 20, negative = 15L, stopwords = all_stop_words$word
 ```
-
 
 ```{r word2vec_model}
 # once you have a model, you can get the embeddings of all words using as.matrix, which has for our case 15 columns as we specified dim = 15

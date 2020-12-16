@@ -1004,5 +1004,9 @@ Yamaguchi, M., Kuhlmeier, V. A., Wynn, K., & vanMarle, K. (2009). Continuity in 
 
 Developmental Science, 12, 746–752.
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211

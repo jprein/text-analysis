@@ -1938,5 +1938,9 @@ the simulated normal curve superimposed on the data.
 
 © 2016 John Wiley & Sons Ltd
 
+<<<<<<< HEAD
 
 The ENd of Document.
+=======
+
+>>>>>>> 4b6d83505f38ee99db288849a2c8b69a8d07c211
