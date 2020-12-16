@@ -236,7 +236,7 @@ rm(new_string)
 # - dimensionality of embeddings dim: 50 (default), 300 (recommended by researchers)
 # - number of training iterations iter: 5 (default), 20 (the more the merrier!)
 tic("train word2vec model")
-word2vec_model <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 300, window = 100L, iter = 5L, negative = 15L)
+word2vec_model <- word2vec(x = chr_vec_pdfs, type = "cbow", dim = 300, window = 15L, iter = 5L, negative = 15L)
 toc()
 
 # HOW LONG DOES THE CODE RUN
@@ -251,12 +251,6 @@ toc()
 # - 3.85 sec with window = 5, dim = 15, iter = 5, negative = 15L, stopwords = all_stop_words$word
 # - 19.832 sec with window = 15, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
 # - 76.048 sec with window = 15, dim = 300, iter = 20, negative = 15L, stopwords = all_stop_words$word
-
-# SKIP-GRAM
-# - 87.144 sec with window = 5, dim = 300, iter = 5, negative = 15L, stopwords = all_stop_words$word
-
-# - 25.603 sec with type = "cbow", dim = 300, window = 50L, iter = 5L, negative = 15L
-# - 33.601 sec with type = "cbow", dim = 300, window = 100L, iter = 5L, negative = 15L
 ```
 
 
@@ -372,7 +366,7 @@ top_terms <- papers_topics %>%
 top_terms
 ```
 
-```{r LDA_visualization}
+```{r LDA_visualization, fig.height=4, fig.width=6}
 top_terms %>%
   mutate(term = reorder_within(term, beta, topic)) %>%
   ggplot(aes(beta, term, fill = factor(topic))) +
