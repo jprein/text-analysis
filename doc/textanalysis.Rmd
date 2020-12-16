@@ -75,11 +75,33 @@ raw_data <- readtext(paste0(here("raw-data/txts/*.txt")))
 data("stop_words")
 
 # if you want to manually remove words
-word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "score", "scores", "scored", "scoring","month", "months", "significance", "significant", "research", "https", "e.g", "doi", "journal", "")
+# notes: de because of author names (e.g. de Villiers, de Rosnay)
+word <- c("al", "age", "study", "studies", "studied", "time", "task", "tasks", "score", "scores", "scored", "scoring","month", "months", "significance", "significant", "research", "https", "e.g", "doi", "journal", "", "cid", "CID", "cid:")
 custom_stop_words <- tibble(word)
 rm(word)
 
 preprocess_text <- function(raw_text) {
+  
+  raw_text <- tolower(enc2utf8(as.character(raw_text))) %>%
+    
+    # remove line breaks
+    gsub("\n", "", .) %>%
+
+    # use common abbreviations rather than the long form 
+    gsub("theory of mind", "tom", .) %>%
+    gsub("joint attention", "ja", .) %>%
+    gsub("execut[[:graph:]]* funct[[:graph:]]*", "ef", .) %>%
+    
+    # somehow, wordstemming doesn't work for some words
+    # therefore, replace all instances of "children", "children's", "child's" etc. with "child"
+    gsub("child[[:graph:]]*", "child", .) %>%
+    # same with cognitive, cognit, cognition => cog
+    gsub("cog[[:graph:]]*", "cog", .) %>%
+    # some syllables seem to be split quite often. remove white space
+    gsub(" cial", "cial", .) %>%
+    gsub(" tion", "tion", .) %>%
+    gsub(" ed", "ed", .)
+  
   # text preprocessing easier with tidy dataframe (= tibble)
   tidy_text <- tibble(raw_text) 
   
@@ -157,20 +179,10 @@ counted_all$n <- counted_all %>%
   select(-word) %>%
   rowSums(na.rm = TRUE)
 
-# somehow wordstemming doesn't work for child, children, children' 
-# therefore, do word stemming manually, and then add to tibble
-child_n <- counted_all %>%
-  filter(str_detect(word, "child")) %>%
-  select(n) %>%
-  sum()
-
-# count words (with manually done wordstemming for "child"), one tibble for all pdfs!
+# count all words, one tibble for all pdfs!
 word_freq <- counted_all %>%
   select(word, n) %>%
-  filter(!str_detect(word, "child")) %>%
-  add_row(word = "child", n = child_n) %>%
   arrange(-n)
-rm(child_n)
 ```
 
 ```{r top_words}
@@ -258,7 +270,7 @@ embeddings <- as.matrix(word2vec_model)
 # head(embeddings)
 
 # top_n by default = 10
-word_similarities <- predict(word2vec_model, c("social", "cognit", "mind", "belief"), type = "nearest", top_n = 10)
+word_similarities <- predict(word2vec_model, c("social", "cog", "mind", "belief"), type = "nearest", top_n = 10)
 word_similarities
 ```
 
@@ -315,9 +327,6 @@ ggplot(top100_2D, aes(x = x, y = y, label = word)) +
 top100_freq <- left_join(x = top100_2D, y = word_freq, by = "word")
 ggplot(top100_freq, aes(x = x, y = y, label = word, size = log(n))) +
   geom_text_repel() + theme_void()
-
-# Run the whole script: 56.853 sec elapsed # with directly 2D test
-# Run the whole script: 46.438 sec elapsed
 ```
 
 ```{r DTM_preparation}
@@ -351,7 +360,7 @@ papers_lda <- LDA(papers_dtm, k = 10, control = list(seed = 1234))
 papers_lda
 toc()
 
-# Notice that this has turned the model into a one-topic-per-term-per-row format. For each combination, the model computes the probability of that term being generated from that topic. For example, the term “joe” has an almost zero probability of being generated from topics 1, 2, or 3, but it makes up 1% of topic 4.
+# Notice that this has turned the model into a one-topic-per-term-per-row format. For each combination, the model computes the probability of that term being generated from that topic
 papers_topics <- tidy(papers_lda, matrix = "beta")
 
 # to find top terms within each topic
@@ -371,6 +380,10 @@ top_terms %>%
   geom_col(show.legend = FALSE) +
   facet_wrap(~ topic, scales = "free") +
   scale_y_reordered()
+
+# IF THERE ARE ANY WEIRD WORDS, USE: 
+# View(counted_all %>% filter(word == "de"))
+# TO SEE IN WHICH PAPERS THE WORD OCCURED MOST FREQUENTLY
 
 toc() 
 ```
